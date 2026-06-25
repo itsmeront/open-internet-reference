@@ -2,12 +2,27 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 77
+Term count: 95
+
+## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
+
+- [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 ## `CASE-CARPENTER-V-US` { #case-carpenter-v-us }
 
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## `CASE-JUNGER-V-DALEY` { #case-junger-v-daley }
+
+- [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
+- [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
+## `CASE-PACKINGHAM-V-NC` { #case-packingham-v-nc }
+
+- [`SRC-PACKINGHAM-JUSTIA: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
+- [`SRC-PACKINGHAM-LII: Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
 
 ## `CASE-PERFECT10-V-CCBILL` { #case-perfect10-v-ccbill }
 
@@ -19,14 +34,47 @@ Term count: 77
 - [`SRC-RENO-V-ACLU-JUSTIA: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
 - [`SRC-RENO-V-ACLU-LOC: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
 
+## `CASE-UNIVERSAL-V-CORLEY` { #case-universal-v-corley }
+
+- [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
 ## `CASE-VAN-BUREN-V-US` { #case-van-buren-v-us }
 
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 
+## `ORG-CDT` { #org-cdt }
+
+- [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
+- [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
+
 ## `ORG-EFF` { #org-eff }
 
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
+
+## `ORG-FSF` { #org-fsf }
+
+- [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
+- [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## `ORG-INSTITUTE-FOR-JUSTICE` { #org-institute-for-justice }
+
+- [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
+- [`SRC-IJ-FIRST-AMENDMENT: Institute for Justice First Amendment Practice Area`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+
+## `ORG-KNIGHT-FIRST-AMENDMENT` { #org-knight-first-amendment }
+
+- [`SRC-KNIGHT-ABOUT: Knight First Amendment Institute About Page`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
+- [`SRC-KNIGHT-CONTACT: Knight First Amendment Institute Contact and FAQ Page`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+
+## `ORG-OSI` { #org-osi }
+
+- [`SRC-OSI-ABOUT: Open Source Initiative About Page`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
+- [`SRC-OSI-HISTORY: Open Source Initiative History Page`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+
+## `ORG-SFLC` { #org-sflc }
+
+- [`SRC-SFLC-ABOUT: Software Freedom Law Center Team Page`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 
 ## `ORG-SIGNAL` { #org-signal }
 
@@ -35,10 +83,44 @@ Term count: 77
 - [`SRC-SIGNAL-X3DH: The X3DH Key Agreement Protocol`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md)
 - [`SRC-USC-18-1030-LII: 18 U.S.C. § 1030`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md)
 
+## `ORG-SOFTWARE-FREEDOM-CONSERVANCY` { #org-software-freedom-conservancy }
+
+- [`SRC-SFC-ABOUT: Software Freedom Conservancy About Page`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- [`SRC-SFC-HOME: Software Freedom Conservancy Home Page`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+
 ## `ORG-TOR-PROJECT` { #org-tor-project }
 
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
+
+## `PERSON-CINDY-COHN` { #person-cindy-cohn }
+
+- [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
+
+## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
+
+- [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
+
+## `PERSON-EBEN-MOGLEN` { #person-eben-moglen }
+
+- [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
+- [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+
+## `PERSON-JENNIFER-GRANICK` { #person-jennifer-granick }
+
+- [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
+
+## `PERSON-KIT-WALSH` { #person-kit-walsh }
+
+- [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+
+## `PERSON-LAWRENCE-LESSIG` { #person-lawrence-lessig }
+
+- [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
+
+## `PERSON-MITCH-STOLTZ` { #person-mitch-stoltz }
+
+- [`SRC-STOLTZ-EFF-BIO: Mitch Stoltz EFF Staff Biography`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
 
 ## `STAT-CFAA-1030` { #stat-cfaa-1030 }
 

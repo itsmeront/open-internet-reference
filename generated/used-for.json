@@ -4,10 +4,31 @@
   "terms": [
     {
       "sources": [
+        "SRC-BERNSTEIN-EFF",
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "term": "`CASE-BERNSTEIN-V-DOJ`"
+    },
+    {
+      "sources": [
         "SRC-CARPENTER-GOVINFO",
         "SRC-CARPENTER-LII"
       ],
       "term": "`CASE-CARPENTER-V-US`"
+    },
+    {
+      "sources": [
+        "SRC-JUNGER-ACLU-OHIO",
+        "SRC-JUNGER-CMU"
+      ],
+      "term": "`CASE-JUNGER-V-DALEY`"
+    },
+    {
+      "sources": [
+        "SRC-PACKINGHAM-JUSTIA",
+        "SRC-PACKINGHAM-LII"
+      ],
+      "term": "`CASE-PACKINGHAM-V-NC`"
     },
     {
       "sources": [
@@ -25,6 +46,12 @@
     },
     {
       "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "term": "`CASE-UNIVERSAL-V-CORLEY`"
+    },
+    {
+      "sources": [
         "SRC-VAN-BUREN-GOVINFO",
         "SRC-VAN-BUREN-LII"
       ],
@@ -32,9 +59,50 @@
     },
     {
       "sources": [
+        "SRC-CDT-ABOUT",
+        "SRC-CDT-WHO"
+      ],
+      "term": "`ORG-CDT`"
+    },
+    {
+      "sources": [
         "SRC-EFF-ABOUT"
       ],
       "term": "`ORG-EFF`"
+    },
+    {
+      "sources": [
+        "SRC-FSF-ABOUT",
+        "SRC-FSF-PRESS"
+      ],
+      "term": "`ORG-FSF`"
+    },
+    {
+      "sources": [
+        "SRC-IJ-ABOUT",
+        "SRC-IJ-FIRST-AMENDMENT"
+      ],
+      "term": "`ORG-INSTITUTE-FOR-JUSTICE`"
+    },
+    {
+      "sources": [
+        "SRC-KNIGHT-ABOUT",
+        "SRC-KNIGHT-CONTACT"
+      ],
+      "term": "`ORG-KNIGHT-FIRST-AMENDMENT`"
+    },
+    {
+      "sources": [
+        "SRC-OSI-ABOUT",
+        "SRC-OSI-HISTORY"
+      ],
+      "term": "`ORG-OSI`"
+    },
+    {
+      "sources": [
+        "SRC-SFLC-ABOUT"
+      ],
+      "term": "`ORG-SFLC`"
     },
     {
       "sources": [
@@ -47,10 +115,60 @@
     },
     {
       "sources": [
+        "SRC-SFC-ABOUT",
+        "SRC-SFC-HOME"
+      ],
+      "term": "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
+    },
+    {
+      "sources": [
         "SRC-TOR-DESIGN-PAPER",
         "SRC-TOR-PROJECT-HISTORY"
       ],
       "term": "`ORG-TOR-PROJECT`"
+    },
+    {
+      "sources": [
+        "SRC-COHN-EFF-BIO"
+      ],
+      "term": "`PERSON-CINDY-COHN`"
+    },
+    {
+      "sources": [
+        "SRC-MCSHERRY-EFF-BIO"
+      ],
+      "term": "`PERSON-CORYNNE-MCSHERRY`"
+    },
+    {
+      "sources": [
+        "SRC-MOGLEN-COLUMBIA",
+        "SRC-MOGLEN-DSI"
+      ],
+      "term": "`PERSON-EBEN-MOGLEN`"
+    },
+    {
+      "sources": [
+        "SRC-GRANICK-ACLU-BIO"
+      ],
+      "term": "`PERSON-JENNIFER-GRANICK`"
+    },
+    {
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "term": "`PERSON-KIT-WALSH`"
+    },
+    {
+      "sources": [
+        "SRC-LESSIG-HARVARD"
+      ],
+      "term": "`PERSON-LAWRENCE-LESSIG`"
+    },
+    {
+      "sources": [
+        "SRC-STOLTZ-EFF-BIO"
+      ],
+      "term": "`PERSON-MITCH-STOLTZ`"
     },
     {
       "sources": [

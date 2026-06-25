@@ -1,14 +1,16 @@
 {
   "by_status": {
-    "draft": 24,
+    "draft": 42,
     "needs_sources": 4,
-    "verified": 29
+    "verified": 57
   },
   "by_type": {
-    "case": 4,
-    "organization": 4,
+    "attorney": 6,
+    "case": 8,
+    "organization": 11,
+    "person": 1,
     "protocol": 3,
-    "source": 36,
+    "source": 64,
     "statute": 2,
     "topic": 8
   },
@@ -30,14 +32,32 @@
     "SRC-OIR-BOOTSTRAP-PROMPT",
     "SRC-OIR-PROJECT-CHARTER-DOCX",
     "SRC-OIR-ROADMAP-DOCX",
+    "CASE-BERNSTEIN-V-DOJ",
     "CASE-CARPENTER-V-US",
+    "CASE-JUNGER-V-DALEY",
+    "CASE-PACKINGHAM-V-NC",
     "CASE-PERFECT10-V-CCBILL",
     "CASE-RENO-V-ACLU",
+    "CASE-UNIVERSAL-V-CORLEY",
     "CASE-VAN-BUREN-V-US",
     "ORG-ACLU",
+    "ORG-CDT",
     "ORG-EFF",
+    "ORG-FSF",
+    "ORG-INSTITUTE-FOR-JUSTICE",
+    "ORG-KNIGHT-FIRST-AMENDMENT",
+    "ORG-OSI",
+    "ORG-SFLC",
     "ORG-SIGNAL",
+    "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
     "ORG-TOR-PROJECT",
+    "PERSON-CINDY-COHN",
+    "PERSON-CORYNNE-MCSHERRY",
+    "PERSON-EBEN-MOGLEN",
+    "PERSON-JENNIFER-GRANICK",
+    "PERSON-KIT-WALSH",
+    "PERSON-LAWRENCE-LESSIG",
+    "PERSON-MITCH-STOLTZ",
     "PROTOCOL-DNS",
     "PROTOCOL-TCP",
     "PROTOCOL-TLS-13",
@@ -55,7 +75,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 7,
-    "needing_review": 28,
-    "records": 57
+    "needing_review": 46,
+    "records": 103
   }
 }

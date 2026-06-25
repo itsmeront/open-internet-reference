@@ -48,8 +48,8 @@ Tor Project is a nonprofit organization documented in OIR from official Tor Proj
 
 ## Verified Facts
 
-- The Tor Project maintains an official contact page at `https://www.torproject.org/about/contact/`.
-- The Tor Project maintains an official history page at `https://www.torproject.org/about/history/`.
+- The Tor Project maintains an official contact page at <https://www.torproject.org/about/contact/>.
+- The Tor Project maintains an official history page at <https://www.torproject.org/about/history/>.
 - The official history page states that The Tor Project, Inc. became a 501(c)(3) nonprofit in 2006.
 - The official history page states that onion routing research began in the mid-1990s and that "Tor" stood for The Onion Routing.
 

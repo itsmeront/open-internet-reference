@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-06-22</dd>
+        <dd>2026-06-25</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>21</dd>
+        <dd>39</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>29</dd>
+        <dd>57</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -66,19 +66,43 @@ Readers with web access can consult the complete OIR bibliography, relationship 
 
 Knowledge records included in this handbook, grouped by type.
 
+### Attorney
+
+- [Cindy Cohn](#PERSON-CINDY-COHN) (`PERSON-CINDY-COHN`)
+- [Corynne McSherry](#PERSON-CORYNNE-MCSHERRY) (`PERSON-CORYNNE-MCSHERRY`)
+- [Eben Moglen](#PERSON-EBEN-MOGLEN) (`PERSON-EBEN-MOGLEN`)
+- [Jennifer Granick](#PERSON-JENNIFER-GRANICK) (`PERSON-JENNIFER-GRANICK`)
+- [Kit Walsh](#PERSON-KIT-WALSH) (`PERSON-KIT-WALSH`)
+- [Mitch Stoltz](#PERSON-MITCH-STOLTZ) (`PERSON-MITCH-STOLTZ`)
+
 ### Case
 
+- [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
+- [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
+- [Universal City Studios v. Corley](#CASE-UNIVERSAL-V-CORLEY) (`CASE-UNIVERSAL-V-CORLEY`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
 
 ### Organization
 
 - [American Civil Liberties Union](#ORG-ACLU) (`ORG-ACLU`)
+- [Center for Democracy and Technology](#ORG-CDT) (`ORG-CDT`)
 - [Electronic Frontier Foundation](#ORG-EFF) (`ORG-EFF`)
+- [Free Software Foundation](#ORG-FSF) (`ORG-FSF`)
+- [Institute for Justice](#ORG-INSTITUTE-FOR-JUSTICE) (`ORG-INSTITUTE-FOR-JUSTICE`)
+- [Knight First Amendment Institute](#ORG-KNIGHT-FIRST-AMENDMENT) (`ORG-KNIGHT-FIRST-AMENDMENT`)
+- [Open Source Initiative](#ORG-OSI) (`ORG-OSI`)
+- [Software Freedom Law Center](#ORG-SFLC) (`ORG-SFLC`)
 - [Signal](#ORG-SIGNAL) (`ORG-SIGNAL`)
+- [Software Freedom Conservancy](#ORG-SOFTWARE-FREEDOM-CONSERVANCY) (`ORG-SOFTWARE-FREEDOM-CONSERVANCY`)
 - [Tor Project](#ORG-TOR-PROJECT) (`ORG-TOR-PROJECT`)
+
+### Person
+
+- [Lawrence Lessig](#PERSON-LAWRENCE-LESSIG) (`PERSON-LAWRENCE-LESSIG`)
 
 ### Protocol
 
@@ -133,6 +157,15 @@ Quick reference for knowledge records included in this handbook.
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
 
+### Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ-glossary }
+
+- **Record ID:** `CASE-BERNSTEIN-V-DOJ`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
+
+Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
 ### Carpenter v. United States { #CASE-CARPENTER-V-US-glossary }
 
 - **Record ID:** `CASE-CARPENTER-V-US`
@@ -141,6 +174,24 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+### Center for Democracy and Technology { #ORG-CDT-glossary }
+
+- **Record ID:** `ORG-CDT`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, digital-rights, privacy, internet-governance, civil-society, outreach
+
+The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+### Cindy Cohn { #PERSON-CINDY-COHN-glossary }
+
+- **Record ID:** `PERSON-CINDY-COHN`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
+
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 ### Code as Speech { #TOPIC-CODE-AS-SPEECH-glossary }
 
@@ -160,6 +211,15 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
 
+### Corynne McSherry { #PERSON-CORYNNE-MCSHERRY-glossary }
+
+- **Record ID:** `PERSON-CORYNNE-MCSHERRY`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, copyright, digital-rights, intermediary-liability, speech-and-code
+
+Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.
+
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
 - **Record ID:** `PROTOCOL-DNS`
@@ -168,6 +228,15 @@ Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibi
 - **Tags:** internet-architecture, network-protocols
 
 Domain Name System (DNS) concepts and facilities are described in RFC 1034.
+
+### Eben Moglen { #PERSON-EBEN-MOGLEN-glossary }
+
+- **Record ID:** `PERSON-EBEN-MOGLEN`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, open-source-software, digital-rights, cryptography
+
+Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.
 
 ### Electronic Frontier Foundation { #ORG-EFF-glossary }
 
@@ -196,6 +265,24 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 
 The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.
 
+### Free Software Foundation { #ORG-FSF-glossary }
+
+- **Record ID:** `ORG-FSF`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
+
+### Institute for Justice { #ORG-INSTITUTE-FOR-JUSTICE-glossary }
+
+- **Record ID:** `ORG-INSTITUTE-FOR-JUSTICE`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Institute for Justice is a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights, with First Amendment free speech litigation as a central focus.
+
 ### Intermediary Liability { #TOPIC-INTERMEDIARY-LIABILITY-glossary }
 
 - **Record ID:** `TOPIC-INTERMEDIARY-LIABILITY`
@@ -205,6 +292,24 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 
 Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.
 
+### Jennifer Granick { #PERSON-JENNIFER-GRANICK-glossary }
+
+- **Record ID:** `PERSON-JENNIFER-GRANICK`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
+
+Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project, who litigates, speaks, and writes about privacy, security, technology, and constitutional rights.
+
+### Junger v. Daley { #CASE-JUNGER-V-DALEY-glossary }
+
+- **Record ID:** `CASE-JUNGER-V-DALEY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
+
+Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.
+
 ### Kademlia { #TOPIC-KADEMLIA-glossary }
 
 - **Record ID:** `TOPIC-KADEMLIA`
@@ -213,6 +318,42 @@ Intermediary liability concerns when online platforms, service providers, or oth
 - **Tags:** peer-to-peer-networking, distributed-systems, distributed-hash-tables
 
 Kademlia is a peer-to-peer distributed hash table described in a 2002 paper by Petar Maymounkov and David Mazières.
+
+### Kit Walsh { #PERSON-KIT-WALSH-glossary }
+
+- **Record ID:** `PERSON-KIT-WALSH`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, digital-rights, speech-and-code, copyright, first-amendment
+
+Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and Director of Artificial Intelligence and Access to Knowledge Legal Projects, working on free speech, net neutrality, copyright, coders' rights, and freedom of expression.
+
+### Knight First Amendment Institute { #ORG-KNIGHT-FIRST-AMENDMENT-glossary }
+
+- **Record ID:** `ORG-KNIGHT-FIRST-AMENDMENT`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, digital-rights, civil-society, outreach
+
+The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.
+
+### Lawrence Lessig { #PERSON-LAWRENCE-LESSIG-glossary }
+
+- **Record ID:** `PERSON-LAWRENCE-LESSIG`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, open-source-software, digital-rights, copyright
+
+Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.
+
+### Mitch Stoltz { #PERSON-MITCH-STOLTZ-glossary }
+
+- **Record ID:** `PERSON-MITCH-STOLTZ`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, open-source-software, copyright, digital-rights, speech-and-code
+
+Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation who focuses on copyright, trademark, antitrust, telecommunications, and free speech, with particular work fighting the use of copyright as a tool for censorship and keeping the internet open for creativity and innovation.
 
 ### Onion Routing { #TOPIC-ONION-ROUTING-glossary }
 
@@ -231,6 +372,24 @@ Onion routing is a technique for anonymous communication over a network in which
 - **Tags:** copyright, safe-harbor, intermediary-liability, digital-rights
 
 Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. § 512.
+
+### Open Source Initiative { #ORG-OSI-glossary }
+
+- **Record ID:** `ORG-OSI`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, civil-society, outreach
+
+The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.
+
+### Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC-glossary }
+
+- **Record ID:** `CASE-PACKINGHAM-V-NC`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, internet-governance, digital-rights
+
+Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.
 
 ### Perfect 10, Inc. v. CCBill LLC { #CASE-PERFECT10-V-CCBILL-glossary }
 
@@ -259,6 +418,24 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 Signal is documented in OIR from its official website as a nonprofit-associated private messaging service.
 
+### Software Freedom Conservancy { #ORG-SOFTWARE-FREEDOM-CONSERVANCY-glossary }
+
+- **Record ID:** `ORG-SOFTWARE-FREEDOM-CONSERVANCY`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
+
+### Software Freedom Law Center { #ORG-SFLC-glossary }
+
+- **Record ID:** `ORG-SFLC`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
+
 ### Tor Project { #ORG-TOR-PROJECT-glossary }
 
 - **Record ID:** `ORG-TOR-PROJECT`
@@ -286,6 +463,15 @@ Transmission Control Protocol (TCP) is an internet transport protocol specified 
 
 Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
+### Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY-glossary }
+
+- **Record ID:** `CASE-UNIVERSAL-V-CORLEY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, copyright, speech-and-code, digital-rights
+
+Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.
+
 ### Van Buren v. United States { #CASE-VAN-BUREN-V-US-glossary }
 
 - **Record ID:** `CASE-VAN-BUREN-V-US`
@@ -297,7 +483,86 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 
 ## Knowledge Records
 
+### Attorney
+
+#### Cindy Cohn { #PERSON-CINDY-COHN }
+
+- **Record ID:** `PERSON-CINDY-COHN`
+- **Status:** draft
+- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`)
+- **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
+
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+
+---
+
+#### Corynne McSherry { #PERSON-CORYNNE-MCSHERRY }
+
+- **Record ID:** `PERSON-CORYNNE-MCSHERRY`
+- **Status:** draft
+- **Sources:** Corynne McSherry EFF Staff Biography (`SRC-MCSHERRY-EFF-BIO`)
+- **Tags:** attorney, copyright, digital-rights, intermediary-liability, speech-and-code
+
+Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.
+
+---
+
+#### Eben Moglen { #PERSON-EBEN-MOGLEN }
+
+- **Record ID:** `PERSON-EBEN-MOGLEN`
+- **Status:** draft
+- **Sources:** Eben Moglen Columbia Law School Faculty Page (`SRC-MOGLEN-COLUMBIA`), Eben Moglen Columbia Data Science Institute Profile (`SRC-MOGLEN-DSI`)
+- **Tags:** attorney, open-source-software, digital-rights, cryptography
+
+Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.
+
+---
+
+#### Jennifer Granick { #PERSON-JENNIFER-GRANICK }
+
+- **Record ID:** `PERSON-JENNIFER-GRANICK`
+- **Status:** draft
+- **Sources:** Jennifer Granick ACLU Staff Biography (`SRC-GRANICK-ACLU-BIO`)
+- **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
+
+Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project, who litigates, speaks, and writes about privacy, security, technology, and constitutional rights.
+
+---
+
+#### Kit Walsh { #PERSON-KIT-WALSH }
+
+- **Record ID:** `PERSON-KIT-WALSH`
+- **Status:** draft
+- **Sources:** Kit Walsh EFF Staff Biography (`SRC-WALSH-EFF-BIO`)
+- **Tags:** attorney, digital-rights, speech-and-code, copyright, first-amendment
+
+Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and Director of Artificial Intelligence and Access to Knowledge Legal Projects, working on free speech, net neutrality, copyright, coders' rights, and freedom of expression.
+
+---
+
+#### Mitch Stoltz { #PERSON-MITCH-STOLTZ }
+
+- **Record ID:** `PERSON-MITCH-STOLTZ`
+- **Status:** draft
+- **Sources:** Mitch Stoltz EFF Staff Biography (`SRC-STOLTZ-EFF-BIO`)
+- **Tags:** attorney, open-source-software, copyright, digital-rights, speech-and-code
+
+Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation who focuses on copyright, trademark, antitrust, telecommunications, and free speech, with particular work fighting the use of copyright as a tool for censorship and keeping the internet open for creativity and innovation.
+
+---
+
 ### Case
+
+#### Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
+
+- **Record ID:** `CASE-BERNSTEIN-V-DOJ`
+- **Status:** draft
+- **Sources:** Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Bernstein v. US Dept. of Justice EFF Case Page (`SRC-BERNSTEIN-EFF`)
+- **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
+
+Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+---
 
 #### Carpenter v. United States { #CASE-CARPENTER-V-US }
 
@@ -307,6 +572,28 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+---
+
+#### Junger v. Daley { #CASE-JUNGER-V-DALEY }
+
+- **Record ID:** `CASE-JUNGER-V-DALEY`
+- **Status:** draft
+- **Sources:** Junger v. Daley Opinion Text (CMU) (`SRC-JUNGER-CMU`), Junger v. Daley ACLU Ohio Case Page (`SRC-JUNGER-ACLU-OHIO`)
+- **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
+
+Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.
+
+---
+
+#### Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
+
+- **Record ID:** `CASE-PACKINGHAM-V-NC`
+- **Status:** draft
+- **Sources:** Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII) (`SRC-PACKINGHAM-LII`), Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) (`SRC-PACKINGHAM-JUSTIA`)
+- **Tags:** first-amendment, internet-governance, digital-rights
+
+Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.
 
 ---
 
@@ -329,6 +616,17 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 - **Tags:** first-amendment, internet-governance, digital-rights, speech-and-code
 
 Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.
+
+---
+
+#### Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY }
+
+- **Record ID:** `CASE-UNIVERSAL-V-CORLEY`
+- **Status:** draft
+- **Sources:** Universal City Studios v. Corley Opinion Text (Open Casebook) (`SRC-CORLEY-LII`)
+- **Tags:** first-amendment, copyright, speech-and-code, digital-rights
+
+Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.
 
 ---
 
@@ -356,6 +654,17 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 
 ---
 
+#### Center for Democracy and Technology { #ORG-CDT }
+
+- **Record ID:** `ORG-CDT`
+- **Status:** draft
+- **Sources:** Center for Democracy and Technology About Page (`SRC-CDT-ABOUT`), Center for Democracy and Technology Who We Are Page (`SRC-CDT-WHO`)
+- **Tags:** organization, digital-rights, privacy, internet-governance, civil-society, outreach
+
+The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+---
+
 #### Electronic Frontier Foundation { #ORG-EFF }
 
 - **Record ID:** `ORG-EFF`
@@ -364,6 +673,61 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 - **Tags:** organization, digital-rights, civil-society, outreach
 
 Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.
+
+---
+
+#### Free Software Foundation { #ORG-FSF }
+
+- **Record ID:** `ORG-FSF`
+- **Status:** draft
+- **Sources:** Free Software Foundation About Page (`SRC-FSF-ABOUT`), Free Software Foundation Press Information (`SRC-FSF-PRESS`)
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
+
+---
+
+#### Institute for Justice { #ORG-INSTITUTE-FOR-JUSTICE }
+
+- **Record ID:** `ORG-INSTITUTE-FOR-JUSTICE`
+- **Status:** draft
+- **Sources:** Institute for Justice About Us Page (`SRC-IJ-ABOUT`), Institute for Justice First Amendment Practice Area (`SRC-IJ-FIRST-AMENDMENT`)
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Institute for Justice is a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights, with First Amendment free speech litigation as a central focus.
+
+---
+
+#### Knight First Amendment Institute { #ORG-KNIGHT-FIRST-AMENDMENT }
+
+- **Record ID:** `ORG-KNIGHT-FIRST-AMENDMENT`
+- **Status:** draft
+- **Sources:** Knight First Amendment Institute About Page (`SRC-KNIGHT-ABOUT`), Knight First Amendment Institute Contact and FAQ Page (`SRC-KNIGHT-CONTACT`)
+- **Tags:** organization, first-amendment, digital-rights, civil-society, outreach
+
+The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.
+
+---
+
+#### Open Source Initiative { #ORG-OSI }
+
+- **Record ID:** `ORG-OSI`
+- **Status:** draft
+- **Sources:** Open Source Initiative About Page (`SRC-OSI-ABOUT`), Open Source Initiative History Page (`SRC-OSI-HISTORY`)
+- **Tags:** organization, open-source-software, civil-society, outreach
+
+The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.
+
+---
+
+#### Software Freedom Law Center { #ORG-SFLC }
+
+- **Record ID:** `ORG-SFLC`
+- **Status:** draft
+- **Sources:** Software Freedom Law Center Team Page (`SRC-SFLC-ABOUT`)
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
 
 ---
 
@@ -378,6 +742,17 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 
 ---
 
+#### Software Freedom Conservancy { #ORG-SOFTWARE-FREEDOM-CONSERVANCY }
+
+- **Record ID:** `ORG-SOFTWARE-FREEDOM-CONSERVANCY`
+- **Status:** draft
+- **Sources:** Software Freedom Conservancy About Page (`SRC-SFC-ABOUT`), Software Freedom Conservancy Home Page (`SRC-SFC-HOME`)
+- **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
+
+Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
+
+---
+
 #### Tor Project { #ORG-TOR-PROJECT }
 
 - **Record ID:** `ORG-TOR-PROJECT`
@@ -386,6 +761,19 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 - **Tags:** organization, privacy, open-source-software, outreach
 
 Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.
+
+---
+
+### Person
+
+#### Lawrence Lessig { #PERSON-LAWRENCE-LESSIG }
+
+- **Record ID:** `PERSON-LAWRENCE-LESSIG`
+- **Status:** draft
+- **Sources:** Lawrence Lessig Harvard Law School Faculty Page (`SRC-LESSIG-HARVARD`)
+- **Tags:** person, internet-governance, open-source-software, digital-rights, copyright
+
+Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.
 
 ---
 
@@ -560,6 +948,24 @@ Official ACLU history page describing the organization's founding context and ci
 
 ---
 
+### Bernstein v. US Dept. of Justice EFF Case Page
+
+- **Source ID:** `SRC-BERNSTEIN-EFF`
+- **Status:** verified
+
+EFF case page documenting the history and significance of Bernstein v. DOJ.
+
+---
+
+### Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)
+
+- **Source ID:** `SRC-BERNSTEIN-JUSTIA`
+- **Status:** verified
+
+Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
+
+---
+
 ### Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - **Source ID:** `SRC-CARPENTER-GOVINFO`
@@ -575,6 +981,42 @@ Official GovInfo United States Reports record for Carpenter v. United States.
 - **Status:** verified
 
 Cornell Legal Information Institute page for the Supreme Court decision on Fourth Amendment protection for historical cell-site location records.
+
+---
+
+### Center for Democracy and Technology About Page
+
+- **Source ID:** `SRC-CDT-ABOUT`
+- **Status:** verified
+
+Official about page of the Center for Democracy and Technology describing its mission and nonprofit status.
+
+---
+
+### Center for Democracy and Technology Who We Are Page
+
+- **Source ID:** `SRC-CDT-WHO`
+- **Status:** verified
+
+Official who-we-are page of CDT describing organizational focus and values.
+
+---
+
+### Cindy Cohn EFF Staff Biography
+
+- **Source ID:** `SRC-COHN-EFF-BIO`
+- **Status:** verified
+
+Official EFF biography page for Cindy Cohn documenting her role and career history.
+
+---
+
+### Universal City Studios v. Corley Opinion Text (Open Casebook)
+
+- **Source ID:** `SRC-CORLEY-LII`
+- **Status:** verified
+
+Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001).
 
 ---
 
@@ -596,12 +1038,165 @@ Official EFF contact page with public legal assistance, general information, pre
 
 ---
 
+### Free Software Foundation About Page
+
+- **Source ID:** `SRC-FSF-ABOUT`
+- **Status:** verified
+
+Official about page of the Free Software Foundation describing its worldwide mission.
+
+---
+
+### Free Software Foundation Press Information
+
+- **Source ID:** `SRC-FSF-PRESS`
+- **Status:** verified
+
+Official press page of the Free Software Foundation with founding date and mission summary.
+
+---
+
+### Jennifer Granick ACLU Staff Biography
+
+- **Source ID:** `SRC-GRANICK-ACLU-BIO`
+- **Status:** verified
+
+Official ACLU biography page for Jennifer Granick documenting her role as surveillance and cybersecurity counsel.
+
+---
+
+### Institute for Justice About Us Page
+
+- **Source ID:** `SRC-IJ-ABOUT`
+- **Status:** verified
+
+Official about page of the Institute for Justice describing its mission and practice areas.
+
+---
+
+### Institute for Justice First Amendment Practice Area
+
+- **Source ID:** `SRC-IJ-FIRST-AMENDMENT`
+- **Status:** verified
+
+Official First Amendment issues page of the Institute for Justice describing its free speech litigation.
+
+---
+
+### Junger v. Daley ACLU Ohio Case Page
+
+- **Source ID:** `SRC-JUNGER-ACLU-OHIO`
+- **Status:** verified
+
+ACLU of Ohio case page documenting Junger v. Daley, 209 F.3d 481 (6th Cir. 2000).
+
+---
+
+### Junger v. Daley Opinion Text (CMU)
+
+- **Source ID:** `SRC-JUNGER-CMU`
+- **Status:** verified
+
+Full text of the Sixth Circuit opinion in Junger v. Daley hosted by Carnegie Mellon University.
+
+---
+
 ### Kademlia: A Peer-to-Peer Information System Based on the XOR Metric
 
 - **Source ID:** `SRC-KADEMLIA-PAPER`
 - **Status:** verified
 
 Foundational 2002 conference paper by Petar Maymounkov and David Mazières describing the Kademlia distributed hash table.
+
+---
+
+### Knight First Amendment Institute About Page
+
+- **Source ID:** `SRC-KNIGHT-ABOUT`
+- **Status:** verified
+
+Official about page of the Knight First Amendment Institute at Columbia University.
+
+---
+
+### Knight First Amendment Institute Contact and FAQ Page
+
+- **Source ID:** `SRC-KNIGHT-CONTACT`
+- **Status:** verified
+
+Official FAQ and contact information for the Knight First Amendment Institute at Columbia University.
+
+---
+
+### Lawrence Lessig Harvard Law School Faculty Page
+
+- **Source ID:** `SRC-LESSIG-HARVARD`
+- **Status:** verified
+
+Official Harvard Law School faculty page for Lawrence Lessig.
+
+---
+
+### Corynne McSherry EFF Staff Biography
+
+- **Source ID:** `SRC-MCSHERRY-EFF-BIO`
+- **Status:** verified
+
+Official EFF biography page for Corynne McSherry documenting her role as Legal Director specializing in intellectual property and free speech.
+
+---
+
+### Eben Moglen Columbia Law School Faculty Page
+
+- **Source ID:** `SRC-MOGLEN-COLUMBIA`
+- **Status:** verified
+
+Official Columbia Law School faculty page for Eben Moglen.
+
+---
+
+### Eben Moglen Columbia Data Science Institute Profile
+
+- **Source ID:** `SRC-MOGLEN-DSI`
+- **Status:** verified
+
+Columbia Data Science Institute profile of Eben Moglen describing his work with FSF and SFLC.
+
+---
+
+### Open Source Initiative About Page
+
+- **Source ID:** `SRC-OSI-ABOUT`
+- **Status:** verified
+
+Official about page of the Open Source Initiative describing its mission and global scope.
+
+---
+
+### Open Source Initiative History Page
+
+- **Source ID:** `SRC-OSI-HISTORY`
+- **Status:** verified
+
+Official history page of the Open Source Initiative documenting its founding and development.
+
+---
+
+### Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)
+
+- **Source ID:** `SRC-PACKINGHAM-JUSTIA`
+- **Status:** verified
+
+Justia reproduction of the Supreme Court opinion in Packingham v. North Carolina.
+
+---
+
+### Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)
+
+- **Source ID:** `SRC-PACKINGHAM-LII`
+- **Status:** verified
+
+Cornell Legal Information Institute full text of Packingham v. North Carolina.
 
 ---
 
@@ -668,6 +1263,33 @@ RFC Editor publication specifying the Transmission Control Protocol.
 
 ---
 
+### Software Freedom Conservancy About Page
+
+- **Source ID:** `SRC-SFC-ABOUT`
+- **Status:** verified
+
+Official about page of Software Freedom Conservancy describing its mission and activities.
+
+---
+
+### Software Freedom Conservancy Home Page
+
+- **Source ID:** `SRC-SFC-HOME`
+- **Status:** verified
+
+Official home page of Software Freedom Conservancy with mission statement.
+
+---
+
+### Software Freedom Law Center Team Page
+
+- **Source ID:** `SRC-SFLC-ABOUT`
+- **Status:** verified
+
+Official team page of the Software Freedom Law Center describing its staff and mission.
+
+---
+
 ### Signal Protocol Documentation
 
 - **Source ID:** `SRC-SIGNAL-DOCS`
@@ -701,6 +1323,15 @@ Official Signal website describing Signal's private messaging service, encryptio
 - **Status:** verified
 
 Official Signal specification for the Extended Triple Diffie-Hellman key agreement protocol used in secure messaging.
+
+---
+
+### Mitch Stoltz EFF Staff Biography
+
+- **Source ID:** `SRC-STOLTZ-EFF-BIO`
+- **Status:** verified
+
+Official EFF biography page for Mitch Stoltz documenting his role as Senior Staff Attorney focusing on intellectual property and open source.
 
 ---
 
@@ -800,6 +1431,15 @@ Official GovInfo United States Reports record for Van Buren v. United States.
 - **Status:** verified
 
 Cornell Legal Information Institute page for the Supreme Court decision interpreting the CFAA phrase exceeds authorized access.
+
+---
+
+### Kit Walsh EFF Staff Biography
+
+- **Source ID:** `SRC-WALSH-EFF-BIO`
+- **Status:** verified
+
+Official EFF biography page for Kit Walsh documenting her role as Senior Staff Attorney working on free speech and coders' rights.
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "description": "Generated AI retrieval dataset manifest.",
   "jsonl_path": "generated/retrieval.jsonl",
-  "record_count": 57,
+  "record_count": 103,
   "schema_version": 1
 }
