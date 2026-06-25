@@ -43,8 +43,8 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 
 ## Verified Facts
 
-- ACLU maintains an official contact page at `https://www.aclu.org/about/contact-us`.
-- ACLU maintains an official history page at `https://www.aclu.org/about/aclu-history`.
+- ACLU maintains an official contact page at <https://www.aclu.org/about/contact-us>.
+- ACLU maintains an official history page at <https://www.aclu.org/about/aclu-history>.
 - The official history page states that the ACLU formed in response to civil liberties abuses during the post-World War I period, including the Palmer Raids.
 - The official history page describes the ACLU as defending rights enumerated in the U.S. Constitution.
 

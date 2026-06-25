@@ -2,6 +2,46 @@
   "description": "Generated relationship graph edge index.",
   "edges": [
     {
+      "declared_in": "CASE-BERNSTEIN-V-DOJ",
+      "notes": null,
+      "object": "SRC-BERNSTEIN-EFF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-EFF"
+      ],
+      "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
+      "declared_in": "CASE-BERNSTEIN-V-DOJ",
+      "notes": null,
+      "object": "SRC-BERNSTEIN-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
+      "declared_in": "CASE-BERNSTEIN-V-DOJ",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
+      "declared_in": "CASE-BERNSTEIN-V-DOJ",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
       "declared_in": "CASE-CARPENTER-V-US",
       "notes": null,
       "object": "SRC-CARPENTER-GOVINFO",
@@ -30,6 +70,76 @@
         "SRC-CARPENTER-LII"
       ],
       "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-JUNGER-V-DALEY",
+      "notes": null,
+      "object": "SRC-JUNGER-ACLU-OHIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JUNGER-ACLU-OHIO"
+      ],
+      "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-JUNGER-V-DALEY",
+      "notes": null,
+      "object": "SRC-JUNGER-CMU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JUNGER-CMU"
+      ],
+      "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-JUNGER-V-DALEY",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JUNGER-CMU"
+      ],
+      "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-JUNGER-V-DALEY",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JUNGER-CMU"
+      ],
+      "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-PACKINGHAM-V-NC",
+      "notes": null,
+      "object": "SRC-PACKINGHAM-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PACKINGHAM-JUSTIA"
+      ],
+      "subject": "CASE-PACKINGHAM-V-NC"
+    },
+    {
+      "declared_in": "CASE-PACKINGHAM-V-NC",
+      "notes": null,
+      "object": "SRC-PACKINGHAM-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PACKINGHAM-LII"
+      ],
+      "subject": "CASE-PACKINGHAM-V-NC"
+    },
+    {
+      "declared_in": "CASE-PACKINGHAM-V-NC",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PACKINGHAM-LII"
+      ],
+      "subject": "CASE-PACKINGHAM-V-NC"
     },
     {
       "declared_in": "CASE-PERFECT10-V-CCBILL",
@@ -132,6 +242,36 @@
       "subject": "CASE-RENO-V-ACLU"
     },
     {
+      "declared_in": "CASE-UNIVERSAL-V-CORLEY",
+      "notes": null,
+      "object": "SRC-CORLEY-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "CASE-UNIVERSAL-V-CORLEY"
+    },
+    {
+      "declared_in": "CASE-UNIVERSAL-V-CORLEY",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "CASE-UNIVERSAL-V-CORLEY"
+    },
+    {
+      "declared_in": "CASE-UNIVERSAL-V-CORLEY",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "CASE-UNIVERSAL-V-CORLEY"
+    },
+    {
       "declared_in": "CASE-VAN-BUREN-V-US",
       "notes": null,
       "object": "SRC-USC-18-1030-GOVINFO",
@@ -202,6 +342,26 @@
       "subject": "ORG-ACLU"
     },
     {
+      "declared_in": "ORG-CDT",
+      "notes": null,
+      "object": "SRC-CDT-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CDT-ABOUT"
+      ],
+      "subject": "ORG-CDT"
+    },
+    {
+      "declared_in": "ORG-CDT",
+      "notes": null,
+      "object": "SRC-CDT-WHO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CDT-WHO"
+      ],
+      "subject": "ORG-CDT"
+    },
+    {
       "declared_in": "ORG-EFF",
       "notes": null,
       "object": "SRC-EFF-ABOUT",
@@ -220,6 +380,126 @@
         "SRC-EFF-CONTACT"
       ],
       "subject": "ORG-EFF"
+    },
+    {
+      "declared_in": "ORG-FSF",
+      "notes": null,
+      "object": "SRC-FSF-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FSF-ABOUT"
+      ],
+      "subject": "ORG-FSF"
+    },
+    {
+      "declared_in": "ORG-FSF",
+      "notes": null,
+      "object": "SRC-FSF-PRESS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FSF-PRESS"
+      ],
+      "subject": "ORG-FSF"
+    },
+    {
+      "declared_in": "ORG-INSTITUTE-FOR-JUSTICE",
+      "notes": null,
+      "object": "SRC-IJ-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IJ-ABOUT"
+      ],
+      "subject": "ORG-INSTITUTE-FOR-JUSTICE"
+    },
+    {
+      "declared_in": "ORG-INSTITUTE-FOR-JUSTICE",
+      "notes": null,
+      "object": "SRC-IJ-FIRST-AMENDMENT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IJ-FIRST-AMENDMENT"
+      ],
+      "subject": "ORG-INSTITUTE-FOR-JUSTICE"
+    },
+    {
+      "declared_in": "ORG-INSTITUTE-FOR-JUSTICE",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IJ-FIRST-AMENDMENT"
+      ],
+      "subject": "ORG-INSTITUTE-FOR-JUSTICE"
+    },
+    {
+      "declared_in": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-KNIGHT-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KNIGHT-ABOUT"
+      ],
+      "subject": "ORG-KNIGHT-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-KNIGHT-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KNIGHT-CONTACT"
+      ],
+      "subject": "ORG-KNIGHT-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNIGHT-ABOUT"
+      ],
+      "subject": "ORG-KNIGHT-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-OSI",
+      "notes": null,
+      "object": "SRC-OSI-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OSI-ABOUT"
+      ],
+      "subject": "ORG-OSI"
+    },
+    {
+      "declared_in": "ORG-OSI",
+      "notes": null,
+      "object": "SRC-OSI-HISTORY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OSI-HISTORY"
+      ],
+      "subject": "ORG-OSI"
+    },
+    {
+      "declared_in": "ORG-SFLC",
+      "notes": null,
+      "object": "SRC-SFLC-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFLC-ABOUT"
+      ],
+      "subject": "ORG-SFLC"
+    },
+    {
+      "declared_in": "ORG-SFLC",
+      "notes": null,
+      "object": "ORG-FSF",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SFLC-ABOUT"
+      ],
+      "subject": "ORG-SFLC"
     },
     {
       "declared_in": "ORG-SIGNAL",
@@ -262,6 +542,26 @@
       "subject": "ORG-SIGNAL"
     },
     {
+      "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "notes": null,
+      "object": "SRC-SFC-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFC-ABOUT"
+      ],
+      "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+    },
+    {
+      "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "notes": null,
+      "object": "SRC-SFC-HOME",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFC-HOME"
+      ],
+      "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+    },
+    {
       "declared_in": "ORG-TOR-PROJECT",
       "notes": null,
       "object": "SRC-TOR-PROJECT-CONTACT",
@@ -290,6 +590,156 @@
         "SRC-TOR-PROJECT-HISTORY"
       ],
       "subject": "ORG-TOR-PROJECT"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-COHN-EFF-BIO"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-COHN-EFF-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-COHN-EFF-BIO"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CORYNNE-MCSHERRY",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-MCSHERRY-EFF-BIO"
+      ],
+      "subject": "PERSON-CORYNNE-MCSHERRY"
+    },
+    {
+      "declared_in": "PERSON-CORYNNE-MCSHERRY",
+      "notes": null,
+      "object": "SRC-MCSHERRY-EFF-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MCSHERRY-EFF-BIO"
+      ],
+      "subject": "PERSON-CORYNNE-MCSHERRY"
+    },
+    {
+      "declared_in": "PERSON-EBEN-MOGLEN",
+      "notes": null,
+      "object": "ORG-FSF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-MOGLEN-DSI"
+      ],
+      "subject": "PERSON-EBEN-MOGLEN"
+    },
+    {
+      "declared_in": "PERSON-EBEN-MOGLEN",
+      "notes": null,
+      "object": "ORG-SFLC",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-MOGLEN-DSI"
+      ],
+      "subject": "PERSON-EBEN-MOGLEN"
+    },
+    {
+      "declared_in": "PERSON-EBEN-MOGLEN",
+      "notes": null,
+      "object": "SRC-MOGLEN-COLUMBIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MOGLEN-COLUMBIA"
+      ],
+      "subject": "PERSON-EBEN-MOGLEN"
+    },
+    {
+      "declared_in": "PERSON-EBEN-MOGLEN",
+      "notes": null,
+      "object": "SRC-MOGLEN-DSI",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MOGLEN-DSI"
+      ],
+      "subject": "PERSON-EBEN-MOGLEN"
+    },
+    {
+      "declared_in": "PERSON-JENNIFER-GRANICK",
+      "notes": null,
+      "object": "ORG-ACLU",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-GRANICK-ACLU-BIO"
+      ],
+      "subject": "PERSON-JENNIFER-GRANICK"
+    },
+    {
+      "declared_in": "PERSON-JENNIFER-GRANICK",
+      "notes": null,
+      "object": "SRC-GRANICK-ACLU-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GRANICK-ACLU-BIO"
+      ],
+      "subject": "PERSON-JENNIFER-GRANICK"
+    },
+    {
+      "declared_in": "PERSON-KIT-WALSH",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "subject": "PERSON-KIT-WALSH"
+    },
+    {
+      "declared_in": "PERSON-KIT-WALSH",
+      "notes": null,
+      "object": "SRC-WALSH-EFF-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "subject": "PERSON-KIT-WALSH"
+    },
+    {
+      "declared_in": "PERSON-LAWRENCE-LESSIG",
+      "notes": null,
+      "object": "SRC-LESSIG-HARVARD",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LESSIG-HARVARD"
+      ],
+      "subject": "PERSON-LAWRENCE-LESSIG"
+    },
+    {
+      "declared_in": "PERSON-MITCH-STOLTZ",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-STOLTZ-EFF-BIO"
+      ],
+      "subject": "PERSON-MITCH-STOLTZ"
+    },
+    {
+      "declared_in": "PERSON-MITCH-STOLTZ",
+      "notes": null,
+      "object": "SRC-STOLTZ-EFF-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-STOLTZ-EFF-BIO"
+      ],
+      "subject": "PERSON-MITCH-STOLTZ"
     },
     {
       "declared_in": "PROTOCOL-DNS",

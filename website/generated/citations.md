@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 36
+Source count: 64
 
 ## [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md): American Civil Liberties Union Contact Page
 
@@ -30,6 +30,18 @@ Source count: 36
 
 - No citation usages yet.
 
+## [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md): Bernstein v. US Dept. of Justice EFF Case Page
+
+- Page source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+
+## [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)
+
+- Page source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
 ## [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - Page source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
@@ -43,6 +55,29 @@ Source count: 36
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Relationship source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `related_to` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 
+## [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page
+
+- Page source in [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md)
+- Relationship source in [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md): [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md) `cites` [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
+
+## [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md): Center for Democracy and Technology Who We Are Page
+
+- Page source in [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md)
+- Relationship source in [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md): [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md) `cites` [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
+
+## [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography
+
+- Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
+
+## [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook)
+
+- Page source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `cites` [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+- Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
 ## [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page
 
 - Page source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
@@ -53,10 +88,83 @@ Source count: 36
 - Page source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md): [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md) `cites` [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
 
+## [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page
+
+- Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
+- Relationship source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) `cites` [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
+
+## [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md): Free Software Foundation Press Information
+
+- Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
+- Relationship source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) `cites` [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography
+
+- Page source in [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
+- Relationship source in [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md): [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) `affiliated_with` [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
+- Relationship source in [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md): [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) `cites` [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
+
+## [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page
+
+- Page source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+- Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `cites` [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
+
+## [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md): Institute for Justice First Amendment Practice Area
+
+- Page source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+- Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `cites` [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+## [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md): Junger v. Daley ACLU Ohio Case Page
+
+- Page source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
+
+## [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md): Junger v. Daley Opinion Text (CMU)
+
+- Page source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+- Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
 ## [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric
 
 - Page source in [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 - Relationship source in [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md): [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md) `cites` [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md)
+
+## [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md): Knight First Amendment Institute About Page
+
+- Page source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md): [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) `cites` [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
+- Relationship source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md): [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+## [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md): Knight First Amendment Institute Contact and FAQ Page
+
+- Page source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md): [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) `cites` [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+
+## [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page
+
+- Page source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
+- Relationship source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md): [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) `cites` [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
+
+## [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography
+
+- Page source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
+- Relationship source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md): [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md): [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) `cites` [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
+
+## [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md): Eben Moglen Columbia Law School Faculty Page
+
+- Page source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+- Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
+
+## [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md): Eben Moglen Columbia Data Science Institute Profile
+
+- Page source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+- Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
+- Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
 
 ## [`SRC-OIR-BOOTSTRAP-PROMPT`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md): OIR Bootstrap Prompt
 
@@ -69,6 +177,27 @@ Source count: 36
 ## [`SRC-OIR-ROADMAP-DOCX`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md): Open Internet Reference Roadmap
 
 - No citation usages yet.
+
+## [`SRC-OSI-ABOUT`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md): Open Source Initiative About Page
+
+- Page source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md)
+- Relationship source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md): [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md) `cites` [`SRC-OSI-ABOUT`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
+
+## [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md): Open Source Initiative History Page
+
+- Page source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md)
+- Relationship source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md): [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md) `cites` [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+
+## [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)
+
+- Page source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+- Relationship source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md): [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `cites` [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
+
+## [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)
+
+- Page source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+- Relationship source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md): [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `cites` [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
+- Relationship source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md): [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
 ## [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md): Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)
 
@@ -122,6 +251,22 @@ Source count: 36
 - Page source in [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - Relationship source in [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md): [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md) `standardizes` [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md)
 
+## [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md): Software Freedom Conservancy About Page
+
+- Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+
+## [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md): Software Freedom Conservancy Home Page
+
+- Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+
+## [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md): Software Freedom Law Center Team Page
+
+- Page source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `cites` [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
+
 ## [`SRC-SIGNAL-DOCS`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md): Signal Protocol Documentation
 
 - Page source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
@@ -141,6 +286,12 @@ Source count: 36
 
 - Page source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - Relationship source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md): [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) `cites` [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md)
+
+## [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md): Mitch Stoltz EFF Staff Biography
+
+- Page source in [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
+- Relationship source in [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md): [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md): [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) `cites` [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
 
 ## [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router
 
@@ -230,3 +381,9 @@ Source count: 36
 - Relationship source in [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md): [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md) `related_to` [`CASE-VAN-BUREN-V-US`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - Page source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Relationship source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) `related_to` [`CASE-VAN-BUREN-V-US`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
+
+## [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md): Kit Walsh EFF Staff Biography
+
+- Page source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
+- Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `cites` [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)

@@ -34,8 +34,8 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 
 ## Verified Facts
 
-- EFF maintains an official contact page at `https://www.eff.org/about/contact`.
-- EFF maintains an official about page at `https://www.eff.org/about`.
+- EFF maintains an official contact page at <https://www.eff.org/about/contact>.
+- EFF maintains an official about page at <https://www.eff.org/about>.
 - The official about page describes EFF as a donor-funded U.S. 501(c)(3) nonprofit organization founded in 1990.
 - The official about page describes EFF's mission as ensuring that technology supports freedom, justice, and innovation.
 

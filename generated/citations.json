@@ -61,6 +61,60 @@
       "usages": []
     },
     {
+      "source_id": "SRC-BERNSTEIN-EFF",
+      "source_title": "Bernstein v. US Dept. of Justice EFF Case Page",
+      "usages": [
+        {
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-EFF",
+          "predicate": "cites",
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BERNSTEIN-JUSTIA",
+      "source_title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)",
+      "usages": [
+        {
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CARPENTER-GOVINFO",
       "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
       "usages": [
@@ -120,6 +174,106 @@
       ]
     },
     {
+      "source_id": "SRC-CDT-ABOUT",
+      "source_title": "Center for Democracy and Technology About Page",
+      "usages": [
+        {
+          "record_id": "ORG-CDT",
+          "record_title": "Center for Democracy and Technology",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CDT-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-CDT",
+          "record_title": "Center for Democracy and Technology",
+          "subject": "ORG-CDT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CDT-WHO",
+      "source_title": "Center for Democracy and Technology Who We Are Page",
+      "usages": [
+        {
+          "record_id": "ORG-CDT",
+          "record_title": "Center for Democracy and Technology",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CDT-WHO",
+          "predicate": "cites",
+          "record_id": "ORG-CDT",
+          "record_title": "Center for Democracy and Technology",
+          "subject": "ORG-CDT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-COHN-EFF-BIO",
+      "source_title": "Cindy Cohn EFF Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-COHN-EFF-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CORLEY-LII",
+      "source_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)",
+      "usages": [
+        {
+          "record_id": "CASE-UNIVERSAL-V-CORLEY",
+          "record_title": "Universal City Studios v. Corley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CORLEY-LII",
+          "predicate": "cites",
+          "record_id": "CASE-UNIVERSAL-V-CORLEY",
+          "record_title": "Universal City Studios v. Corley",
+          "subject": "CASE-UNIVERSAL-V-CORLEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "CASE-UNIVERSAL-V-CORLEY",
+          "record_title": "Universal City Studios v. Corley",
+          "subject": "CASE-UNIVERSAL-V-CORLEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-UNIVERSAL-V-CORLEY",
+          "record_title": "Universal City Studios v. Corley",
+          "subject": "CASE-UNIVERSAL-V-CORLEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-EFF-ABOUT",
       "source_title": "Electronic Frontier Foundation About Page",
       "usages": [
@@ -158,6 +312,171 @@
       ]
     },
     {
+      "source_id": "SRC-FSF-ABOUT",
+      "source_title": "Free Software Foundation About Page",
+      "usages": [
+        {
+          "record_id": "ORG-FSF",
+          "record_title": "Free Software Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FSF-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-FSF",
+          "record_title": "Free Software Foundation",
+          "subject": "ORG-FSF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FSF-PRESS",
+      "source_title": "Free Software Foundation Press Information",
+      "usages": [
+        {
+          "record_id": "ORG-FSF",
+          "record_title": "Free Software Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FSF-PRESS",
+          "predicate": "cites",
+          "record_id": "ORG-FSF",
+          "record_title": "Free Software Foundation",
+          "subject": "ORG-FSF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GRANICK-ACLU-BIO",
+      "source_title": "Jennifer Granick ACLU Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-JENNIFER-GRANICK",
+          "record_title": "Jennifer Granick",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JENNIFER-GRANICK",
+          "record_title": "Jennifer Granick",
+          "subject": "PERSON-JENNIFER-GRANICK",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-GRANICK-ACLU-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-JENNIFER-GRANICK",
+          "record_title": "Jennifer Granick",
+          "subject": "PERSON-JENNIFER-GRANICK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-IJ-ABOUT",
+      "source_title": "Institute for Justice About Us Page",
+      "usages": [
+        {
+          "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+          "record_title": "Institute for Justice",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IJ-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+          "record_title": "Institute for Justice",
+          "subject": "ORG-INSTITUTE-FOR-JUSTICE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-IJ-FIRST-AMENDMENT",
+      "source_title": "Institute for Justice First Amendment Practice Area",
+      "usages": [
+        {
+          "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+          "record_title": "Institute for Justice",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IJ-FIRST-AMENDMENT",
+          "predicate": "cites",
+          "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+          "record_title": "Institute for Justice",
+          "subject": "ORG-INSTITUTE-FOR-JUSTICE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+          "record_title": "Institute for Justice",
+          "subject": "ORG-INSTITUTE-FOR-JUSTICE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-JUNGER-ACLU-OHIO",
+      "source_title": "Junger v. Daley ACLU Ohio Case Page",
+      "usages": [
+        {
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JUNGER-ACLU-OHIO",
+          "predicate": "cites",
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "subject": "CASE-JUNGER-V-DALEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-JUNGER-CMU",
+      "source_title": "Junger v. Daley Opinion Text (CMU)",
+      "usages": [
+        {
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JUNGER-CMU",
+          "predicate": "cites",
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "subject": "CASE-JUNGER-V-DALEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "subject": "CASE-JUNGER-V-DALEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-JUNGER-V-DALEY",
+          "record_title": "Junger v. Daley",
+          "subject": "CASE-JUNGER-V-DALEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-KADEMLIA-PAPER",
       "source_title": "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric",
       "usages": [
@@ -177,6 +496,152 @@
       ]
     },
     {
+      "source_id": "SRC-KNIGHT-ABOUT",
+      "source_title": "Knight First Amendment Institute About Page",
+      "usages": [
+        {
+          "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "record_title": "Knight First Amendment Institute",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KNIGHT-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "record_title": "Knight First Amendment Institute",
+          "subject": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "record_title": "Knight First Amendment Institute",
+          "subject": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KNIGHT-CONTACT",
+      "source_title": "Knight First Amendment Institute Contact and FAQ Page",
+      "usages": [
+        {
+          "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "record_title": "Knight First Amendment Institute",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KNIGHT-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "record_title": "Knight First Amendment Institute",
+          "subject": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LESSIG-HARVARD",
+      "source_title": "Lawrence Lessig Harvard Law School Faculty Page",
+      "usages": [
+        {
+          "record_id": "PERSON-LAWRENCE-LESSIG",
+          "record_title": "Lawrence Lessig",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LESSIG-HARVARD",
+          "predicate": "cites",
+          "record_id": "PERSON-LAWRENCE-LESSIG",
+          "record_title": "Lawrence Lessig",
+          "subject": "PERSON-LAWRENCE-LESSIG",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MCSHERRY-EFF-BIO",
+      "source_title": "Corynne McSherry EFF Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-CORYNNE-MCSHERRY",
+          "record_title": "Corynne McSherry",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-CORYNNE-MCSHERRY",
+          "record_title": "Corynne McSherry",
+          "subject": "PERSON-CORYNNE-MCSHERRY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-MCSHERRY-EFF-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-CORYNNE-MCSHERRY",
+          "record_title": "Corynne McSherry",
+          "subject": "PERSON-CORYNNE-MCSHERRY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MOGLEN-COLUMBIA",
+      "source_title": "Eben Moglen Columbia Law School Faculty Page",
+      "usages": [
+        {
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MOGLEN-COLUMBIA",
+          "predicate": "cites",
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "subject": "PERSON-EBEN-MOGLEN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MOGLEN-DSI",
+      "source_title": "Eben Moglen Columbia Data Science Institute Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-FSF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "subject": "PERSON-EBEN-MOGLEN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-SFLC",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "subject": "PERSON-EBEN-MOGLEN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-MOGLEN-DSI",
+          "predicate": "cites",
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "subject": "PERSON-EBEN-MOGLEN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-OIR-BOOTSTRAP-PROMPT",
       "source_title": "OIR Bootstrap Prompt",
       "usages": []
@@ -190,6 +655,90 @@
       "source_id": "SRC-OIR-ROADMAP-DOCX",
       "source_title": "Open Internet Reference Roadmap",
       "usages": []
+    },
+    {
+      "source_id": "SRC-OSI-ABOUT",
+      "source_title": "Open Source Initiative About Page",
+      "usages": [
+        {
+          "record_id": "ORG-OSI",
+          "record_title": "Open Source Initiative",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OSI-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-OSI",
+          "record_title": "Open Source Initiative",
+          "subject": "ORG-OSI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OSI-HISTORY",
+      "source_title": "Open Source Initiative History Page",
+      "usages": [
+        {
+          "record_id": "ORG-OSI",
+          "record_title": "Open Source Initiative",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OSI-HISTORY",
+          "predicate": "cites",
+          "record_id": "ORG-OSI",
+          "record_title": "Open Source Initiative",
+          "subject": "ORG-OSI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PACKINGHAM-JUSTIA",
+      "source_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)",
+      "usages": [
+        {
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PACKINGHAM-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "subject": "CASE-PACKINGHAM-V-NC",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PACKINGHAM-LII",
+      "source_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PACKINGHAM-LII",
+          "predicate": "cites",
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "subject": "CASE-PACKINGHAM-V-NC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "subject": "CASE-PACKINGHAM-V-NC",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
@@ -443,6 +992,71 @@
       ]
     },
     {
+      "source_id": "SRC-SFC-ABOUT",
+      "source_title": "Software Freedom Conservancy About Page",
+      "usages": [
+        {
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFC-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SFC-HOME",
+      "source_title": "Software Freedom Conservancy Home Page",
+      "usages": [
+        {
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFC-HOME",
+          "predicate": "cites",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SFLC-ABOUT",
+      "source_title": "Software Freedom Law Center Team Page",
+      "usages": [
+        {
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFLC-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "subject": "ORG-SFLC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-FSF",
+          "predicate": "related_to",
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "subject": "ORG-SFLC",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-SIGNAL-DOCS",
       "source_title": "Signal Protocol Documentation",
       "usages": [
@@ -514,6 +1128,33 @@
           "record_id": "ORG-SIGNAL",
           "record_title": "Signal",
           "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-STOLTZ-EFF-BIO",
+      "source_title": "Mitch Stoltz EFF Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-MITCH-STOLTZ",
+          "record_title": "Mitch Stoltz",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MITCH-STOLTZ",
+          "record_title": "Mitch Stoltz",
+          "subject": "PERSON-MITCH-STOLTZ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-STOLTZ-EFF-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-MITCH-STOLTZ",
+          "record_title": "Mitch Stoltz",
+          "subject": "PERSON-MITCH-STOLTZ",
           "usage": "relationship_source"
         }
       ]
@@ -962,6 +1603,33 @@
           "record_id": "TOPIC-COMPUTER-FRAUD",
           "record_title": "Computer Fraud and Abuse",
           "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WALSH-EFF-BIO",
+      "source_title": "Kit Walsh EFF Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-KIT-WALSH",
+          "record_title": "Kit Walsh",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-KIT-WALSH",
+          "record_title": "Kit Walsh",
+          "subject": "PERSON-KIT-WALSH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-WALSH-EFF-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-KIT-WALSH",
+          "record_title": "Kit Walsh",
+          "subject": "PERSON-KIT-WALSH",
           "usage": "relationship_source"
         }
       ]

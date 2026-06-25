@@ -1,7 +1,93 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 21,
+  "record_count": 39,
   "records": [
+    {
+      "id": "PERSON-CINDY-COHN",
+      "path": "knowledge/people/PERSON-CINDY-COHN.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-CINDY-COHN.md",
+      "sources": [
+        "SRC-COHN-EFF-BIO"
+      ],
+      "status": "draft",
+      "summary": "Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.",
+      "title": "Cindy Cohn",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-CORYNNE-MCSHERRY",
+      "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
+      "sources": [
+        "SRC-MCSHERRY-EFF-BIO"
+      ],
+      "status": "draft",
+      "summary": "Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.",
+      "title": "Corynne McSherry",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-EBEN-MOGLEN",
+      "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md",
+      "sources": [
+        "SRC-MOGLEN-COLUMBIA",
+        "SRC-MOGLEN-DSI"
+      ],
+      "status": "draft",
+      "summary": "Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.",
+      "title": "Eben Moglen",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-JENNIFER-GRANICK",
+      "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md",
+      "sources": [
+        "SRC-GRANICK-ACLU-BIO"
+      ],
+      "status": "draft",
+      "summary": "Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project, who litigates, speaks, and writes about privacy, security, technology, and constitutional rights.",
+      "title": "Jennifer Granick",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-KIT-WALSH",
+      "path": "knowledge/people/PERSON-KIT-WALSH.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-KIT-WALSH.md",
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "status": "draft",
+      "summary": "Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and Director of Artificial Intelligence and Access to Knowledge Legal Projects, working on free speech, net neutrality, copyright, coders' rights, and freedom of expression.",
+      "title": "Kit Walsh",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-MITCH-STOLTZ",
+      "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md",
+      "sources": [
+        "SRC-STOLTZ-EFF-BIO"
+      ],
+      "status": "draft",
+      "summary": "Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation who focuses on copyright, trademark, antitrust, telecommunications, and free speech, with particular work fighting the use of copyright as a tool for censorship and keeping the internet open for creativity and innovation.",
+      "title": "Mitch Stoltz",
+      "type": "attorney"
+    },
+    {
+      "id": "CASE-BERNSTEIN-V-DOJ",
+      "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-BERNSTEIN-EFF"
+      ],
+      "status": "draft",
+      "summary": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.",
+      "title": "Bernstein v. United States Department of Justice",
+      "type": "case"
+    },
     {
       "id": "CASE-CARPENTER-V-US",
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
@@ -13,6 +99,32 @@
       "status": "draft",
       "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
       "title": "Carpenter v. United States",
+      "type": "case"
+    },
+    {
+      "id": "CASE-JUNGER-V-DALEY",
+      "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md",
+      "sources": [
+        "SRC-JUNGER-CMU",
+        "SRC-JUNGER-ACLU-OHIO"
+      ],
+      "status": "draft",
+      "summary": "Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.",
+      "title": "Junger v. Daley",
+      "type": "case"
+    },
+    {
+      "id": "CASE-PACKINGHAM-V-NC",
+      "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md",
+      "sources": [
+        "SRC-PACKINGHAM-LII",
+        "SRC-PACKINGHAM-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.",
+      "title": "Packingham v. North Carolina",
       "type": "case"
     },
     {
@@ -43,6 +155,18 @@
       "type": "case"
     },
     {
+      "id": "CASE-UNIVERSAL-V-CORLEY",
+      "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "status": "draft",
+      "summary": "Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.",
+      "title": "Universal City Studios v. Corley",
+      "type": "case"
+    },
+    {
       "id": "CASE-VAN-BUREN-V-US",
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md",
@@ -70,6 +194,19 @@
       "type": "organization"
     },
     {
+      "id": "ORG-CDT",
+      "path": "knowledge/organizations/ORG-CDT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-CDT.md",
+      "sources": [
+        "SRC-CDT-ABOUT",
+        "SRC-CDT-WHO"
+      ],
+      "status": "draft",
+      "summary": "The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.",
+      "title": "Center for Democracy and Technology",
+      "type": "organization"
+    },
+    {
       "id": "ORG-EFF",
       "path": "knowledge/organizations/ORG-EFF.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-EFF.md",
@@ -80,6 +217,70 @@
       "status": "draft",
       "summary": "Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.",
       "title": "Electronic Frontier Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-FSF",
+      "path": "knowledge/organizations/ORG-FSF.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FSF.md",
+      "sources": [
+        "SRC-FSF-ABOUT",
+        "SRC-FSF-PRESS"
+      ],
+      "status": "draft",
+      "summary": "The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.",
+      "title": "Free Software Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-INSTITUTE-FOR-JUSTICE",
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
+      "sources": [
+        "SRC-IJ-ABOUT",
+        "SRC-IJ-FIRST-AMENDMENT"
+      ],
+      "status": "draft",
+      "summary": "The Institute for Justice is a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights, with First Amendment free speech litigation as a central focus.",
+      "title": "Institute for Justice",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-KNIGHT-ABOUT",
+        "SRC-KNIGHT-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.",
+      "title": "Knight First Amendment Institute",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-OSI",
+      "path": "knowledge/organizations/ORG-OSI.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-OSI.md",
+      "sources": [
+        "SRC-OSI-ABOUT",
+        "SRC-OSI-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.",
+      "title": "Open Source Initiative",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-SFLC",
+      "path": "knowledge/organizations/ORG-SFLC.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SFLC.md",
+      "sources": [
+        "SRC-SFLC-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.",
+      "title": "Software Freedom Law Center",
       "type": "organization"
     },
     {
@@ -98,6 +299,19 @@
       "type": "organization"
     },
     {
+      "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "sources": [
+        "SRC-SFC-ABOUT",
+        "SRC-SFC-HOME"
+      ],
+      "status": "draft",
+      "summary": "Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.",
+      "title": "Software Freedom Conservancy",
+      "type": "organization"
+    },
+    {
       "id": "ORG-TOR-PROJECT",
       "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-TOR-PROJECT.md",
@@ -109,6 +323,18 @@
       "summary": "Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.",
       "title": "Tor Project",
       "type": "organization"
+    },
+    {
+      "id": "PERSON-LAWRENCE-LESSIG",
+      "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md",
+      "sources": [
+        "SRC-LESSIG-HARVARD"
+      ],
+      "status": "draft",
+      "summary": "Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.",
+      "title": "Lawrence Lessig",
+      "type": "person"
     },
     {
       "id": "PROTOCOL-DNS",
