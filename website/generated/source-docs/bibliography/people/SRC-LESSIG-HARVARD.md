@@ -20,7 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/people/SRC-LESSIG-HARVARD.md`
 - Source ID: `SRC-LESSIG-HARVARD`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/people/SRC-LESSIG-HARVARD.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-LESSIG-HARVARD){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/people/SRC-LESSIG-HARVARD.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-LESSIG-HARVARD)
 
 !!! info "✅ Page Status: Complete"
 

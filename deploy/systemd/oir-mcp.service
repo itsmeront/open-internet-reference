@@ -1,0 +1,29 @@
+[Unit]
+Description=OIR MCP Server (AI Agent Interface)
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=oir
+Group=oir
+WorkingDirectory=/opt/oir/repo
+ExecStart=/opt/oir/venv/bin/python /opt/oir/repo/mcp/server.py
+Restart=always
+RestartSec=5
+Environment=OIR_ROOT=/opt/oir
+Environment=GITHUB_TOKEN_FILE=/opt/oir/.github-token
+
+# Security hardening
+NoNewPrivileges=yes
+ProtectSystem=strict
+ReadWritePaths=/opt/oir
+PrivateTmp=yes
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=oir-mcp
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,11 @@
+# OIR scheduled tasks
+# Install to /etc/cron.d/oir-checks
+
+# Rebuild site every 6 hours (catches any missed webhooks)
+0 */6 * * * oir /opt/oir/repo/deploy/deploy.sh >> /opt/oir/deploy.log 2>&1
+
+# Run URL checker weekly (Sunday at 3am)
+0 3 * * 0 oir /opt/oir/venv/bin/python /opt/oir/repo/tools/check_urls.py --quiet >> /opt/oir/url-check.log 2>&1
+
+# Run research debt report weekly (Monday at 6am)
+0 6 * * 1 oir /opt/oir/venv/bin/python /opt/oir/repo/tools/resolve_debt.py --summary >> /opt/oir/debt-report.log 2>&1

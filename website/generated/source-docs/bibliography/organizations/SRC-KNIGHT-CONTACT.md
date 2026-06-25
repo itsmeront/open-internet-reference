@@ -19,7 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-KNIGHT-CONTACT.md`
 - Source ID: `SRC-KNIGHT-CONTACT`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-KNIGHT-CONTACT.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-KNIGHT-CONTACT){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-KNIGHT-CONTACT.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-KNIGHT-CONTACT)
 
 !!! info "✅ Page Status: Complete"
 

@@ -19,7 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-FSF-PRESS.md`
 - Source ID: `SRC-FSF-PRESS`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-FSF-PRESS.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-FSF-PRESS){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-FSF-PRESS.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-FSF-PRESS)
 
 !!! info "✅ Page Status: Complete"
 

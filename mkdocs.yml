@@ -1,8 +1,8 @@
 site_name: Open Internet Reference
 site_description: Evidence over assertion. Knowledge over opinion.
-site_url: ""
+site_url: "https://openinternetresearch.com"
 repo_name: open-internet-reference
-repo_url: ""
+repo_url: "https://github.com/itsmeront/open-internet-reference"
 docs_dir: website
 site_dir: generated/site
 
