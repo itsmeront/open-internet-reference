@@ -1,0 +1,89 @@
+site_name: Open Internet Reference
+site_description: Evidence over assertion. Knowledge over opinion.
+site_url: ""
+repo_name: open-internet-reference
+repo_url: ""
+docs_dir: website
+site_dir: generated/site
+
+theme:
+  name: material
+  language: en
+  logo: assets/images/oir-logo-mark.svg
+  favicon: assets/images/favicon.ico
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: blue
+
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]+'
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_javascript:
+  - assets/js/external-links.js
+
+extra_css:
+  - assets/css/brand.css
+  - assets/css/relationship-graph.css
+  - assets/css/print.css
+
+nav:
+  - Home: index.md
+  - About:
+      - Project Charter: about/project-charter.md
+      - Research Standards: about/research-standards.md
+      - Source Intake: about/source-intake.md
+      - Intake Queues: about/intake-queues.md
+      - Research Debt: about/research-debt.md
+      - Publishing: about/publishing.md
+      - Editorial Workflow: about/editorial-workflow.md
+      - Roadmap: about/roadmap.md
+  - Knowledge:
+      - Overview: knowledge/index.md
+      - Seed Pages: knowledge/seed-pages.md
+      - Generated Glossary: generated/glossary.md
+      - Relationship Graph: generated/relationships.md
+      - Relationship Visualization: generated/relationship-graph.md
+      - Used For Index: generated/used-for.md
+      - Review Status: generated/review-status.md
+      - Timeline: generated/timeline.md
+  - Bibliography:
+      - Overview: bibliography/index.md
+      - Generated Bibliography: generated/bibliography.md
+      - Citation Index: generated/citations.md
+  - Contacts:
+      - Overview: contacts/index.md
+      - Generated Outreach CRM: generated/outreach.md
+  - Handbook:
+      - Overview: handbook/index.md
+      - Generated Handbook: generated/handbook.md
+      - Print Handbook: generated/print-handbook.md

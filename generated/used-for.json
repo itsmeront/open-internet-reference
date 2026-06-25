@@ -1,0 +1,528 @@
+{
+  "description": "Generated index of Used For terms from source records.",
+  "schema_version": 1,
+  "terms": [
+    {
+      "sources": [
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CARPENTER-LII"
+      ],
+      "term": "`CASE-CARPENTER-V-US`"
+    },
+    {
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "term": "`CASE-PERFECT10-V-CCBILL`"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-JUSTIA",
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "term": "`CASE-RENO-V-ACLU`"
+    },
+    {
+      "sources": [
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "term": "`CASE-VAN-BUREN-V-US`"
+    },
+    {
+      "sources": [
+        "SRC-EFF-ABOUT"
+      ],
+      "term": "`ORG-EFF`"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-DOCS",
+        "SRC-SIGNAL-DOUBLE-RATCHET",
+        "SRC-SIGNAL-X3DH",
+        "SRC-USC-18-1030-LII"
+      ],
+      "term": "`ORG-SIGNAL`"
+    },
+    {
+      "sources": [
+        "SRC-TOR-DESIGN-PAPER",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "`ORG-TOR-PROJECT`"
+    },
+    {
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-USC-18-1030-LII",
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "term": "`STAT-CFAA-1030`"
+    },
+    {
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "term": "`STAT-DMCA-512`"
+    },
+    {
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-USC-18-1030-LII",
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "term": "`TOPIC-COMPUTER-FRAUD`"
+    },
+    {
+      "sources": [
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CARPENTER-LII",
+        "SRC-US-CONST-AMEND-IV-LII"
+      ],
+      "term": "`TOPIC-FOURTH-AMENDMENT`"
+    },
+    {
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "term": "`TOPIC-INTERMEDIARY-LIABILITY`"
+    },
+    {
+      "sources": [
+        "SRC-TOR-DESIGN-PAPER",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "`TOPIC-ONION-ROUTING`"
+    },
+    {
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "term": "`TOPIC-SAFE-HARBOR`"
+    },
+    {
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-ACLU-HISTORY"
+      ],
+      "term": "American Civil Liberties Union"
+    },
+    {
+      "sources": [
+        "SRC-OIR-ROADMAP-DOCX"
+      ],
+      "term": "Backlog planning"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
+      ],
+      "term": "Candidate contact discovery"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
+      ],
+      "term": "Candidate topic discovery"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-JUSTIA",
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "term": "Case law seed records"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
+      ],
+      "term": "Case-study framing"
+    },
+    {
+      "sources": [
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CARPENTER-LII"
+      ],
+      "term": "Cell-site location information"
+    },
+    {
+      "sources": [
+        "SRC-ACLU-HISTORY"
+      ],
+      "term": "Civil liberties organizations"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "term": "Communications Decency Act"
+    },
+    {
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-USC-18-1030-LII"
+      ],
+      "term": "Computer crime"
+    },
+    {
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-USC-18-1030-LII",
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "term": "Computer Fraud and Abuse Act"
+    },
+    {
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII",
+        "SRC-US-CONST-AMEND-IV-LII"
+      ],
+      "term": "Constitutional law seed topics"
+    },
+    {
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "term": "Copyright"
+    },
+    {
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "term": "Copyright safe harbor"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-DOCS"
+      ],
+      "term": "Cryptographic protocol specifications"
+    },
+    {
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "term": "Cryptography"
+    },
+    {
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-EFF-ABOUT",
+        "SRC-EFF-CONTACT"
+      ],
+      "term": "Digital civil liberties organizations"
+    },
+    {
+      "sources": [
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CARPENTER-LII"
+      ],
+      "term": "Digital privacy"
+    },
+    {
+      "sources": [
+        "SRC-US-CONST-AMEND-IV-LII"
+      ],
+      "term": "Digital privacy topics"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "term": "Digital rights"
+    },
+    {
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "term": "Distributed hash tables"
+    },
+    {
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "term": "Distributed systems"
+    },
+    {
+      "sources": [
+        "SRC-RFC-1034"
+      ],
+      "term": "DNS"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-DOUBLE-RATCHET"
+      ],
+      "term": "Double Ratchet algorithm"
+    },
+    {
+      "sources": [
+        "SRC-EFF-ABOUT",
+        "SRC-EFF-CONTACT"
+      ],
+      "term": "Electronic Frontier Foundation"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC",
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "term": "First Amendment"
+    },
+    {
+      "sources": [
+        "SRC-OIR-ROADMAP-DOCX"
+      ],
+      "term": "Foundation milestones"
+    },
+    {
+      "sources": [
+        "SRC-US-CONST-AMEND-IV-LII"
+      ],
+      "term": "Fourth Amendment"
+    },
+    {
+      "sources": [
+        "SRC-OIR-BOOTSTRAP-PROMPT"
+      ],
+      "term": "Initial data model and workflow conventions"
+    },
+    {
+      "sources": [
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-USC-17-512-LII"
+      ],
+      "term": "Intermediary liability"
+    },
+    {
+      "sources": [
+        "SRC-RFC-1034",
+        "SRC-RFC-9293"
+      ],
+      "term": "Internet architecture"
+    },
+    {
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-JUSTIA",
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "term": "Internet speech"
+    },
+    {
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "term": "Internet speech and expression topics"
+    },
+    {
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "term": "Kademlia"
+    },
+    {
+      "sources": [
+        "SRC-OIR-PROJECT-CHARTER-DOCX"
+      ],
+      "term": "Long-term governance conventions"
+    },
+    {
+      "sources": [
+        "SRC-RFC-1034",
+        "SRC-RFC-9293"
+      ],
+      "term": "Network protocols"
+    },
+    {
+      "sources": [
+        "SRC-TOR-DESIGN-PAPER",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "Onion routing"
+    },
+    {
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT"
+      ],
+      "term": "Open source organizations"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
+      ],
+      "term": "Organization and expert seed list"
+    },
+    {
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-EFF-CONTACT",
+        "SRC-TOR-PROJECT-CONTACT"
+      ],
+      "term": "Outreach contact verification"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
+      ],
+      "term": "Outreach research backlog"
+    },
+    {
+      "sources": [
+        "SRC-ACLU-HISTORY",
+        "SRC-EFF-ABOUT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "Outreach verification"
+    },
+    {
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "term": "Peer-to-peer networking"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-HOME",
+        "SRC-TOR-PROJECT-CONTACT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "Privacy organizations"
+    },
+    {
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "term": "Privacy-preserving systems"
+    },
+    {
+      "sources": [
+        "SRC-OIR-BOOTSTRAP-PROMPT"
+      ],
+      "term": "Project charter alignment"
+    },
+    {
+      "sources": [
+        "SRC-OIR-PROJECT-CHARTER-DOCX"
+      ],
+      "term": "Project mission"
+    },
+    {
+      "sources": [
+        "SRC-OIR-BOOTSTRAP-PROMPT"
+      ],
+      "term": "Repository foundation"
+    },
+    {
+      "sources": [
+        "SRC-OIR-PROJECT-CHARTER-DOCX"
+      ],
+      "term": "Research standards"
+    },
+    {
+      "sources": [
+        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
+      ],
+      "term": "Research-debt identification"
+    },
+    {
+      "sources": [
+        "SRC-OIR-ROADMAP-DOCX"
+      ],
+      "term": "Roadmap structure"
+    },
+    {
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "term": "Safe harbor"
+    },
+    {
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "term": "Secure communications"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-DOCS",
+        "SRC-SIGNAL-DOUBLE-RATCHET",
+        "SRC-SIGNAL-HOME",
+        "SRC-SIGNAL-X3DH"
+      ],
+      "term": "Secure messaging"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-HOME"
+      ],
+      "term": "Signal"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-DOCS",
+        "SRC-SIGNAL-DOUBLE-RATCHET",
+        "SRC-SIGNAL-X3DH"
+      ],
+      "term": "Signal Protocol"
+    },
+    {
+      "sources": [
+        "SRC-RFC-9293"
+      ],
+      "term": "TCP"
+    },
+    {
+      "sources": [
+        "SRC-OIR-PROJECT-CHARTER-DOCX"
+      ],
+      "term": "Technical architecture"
+    },
+    {
+      "sources": [
+        "SRC-USC-18-1030-LII"
+      ],
+      "term": "Technology law"
+    },
+    {
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "term": "TLS"
+    },
+    {
+      "sources": [
+        "SRC-TOR-DESIGN-PAPER"
+      ],
+      "term": "Tor network design"
+    },
+    {
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "term": "Tor Project"
+    },
+    {
+      "sources": [
+        "SRC-SIGNAL-X3DH"
+      ],
+      "term": "X3DH key agreement"
+    }
+  ]
+}

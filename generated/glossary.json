@@ -1,0 +1,1024 @@
+{
+  "description": "Generated glossary-style index of non-source knowledge records.",
+  "records": [
+    {
+      "bibliographic_metadata": {},
+      "id": "CASE-CARPENTER-V-US",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
+      "relationships": [
+        {
+          "object": "SRC-CARPENTER-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "CASE-CARPENTER-V-US"
+        },
+        {
+          "object": "SRC-CARPENTER-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CARPENTER-GOVINFO"
+          ],
+          "subject": "CASE-CARPENTER-V-US"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "CASE-CARPENTER-V-US"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CARPENTER-V-US.md",
+      "sources": [
+        "SRC-CARPENTER-LII",
+        "SRC-CARPENTER-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
+      "tags": [
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Carpenter v. United States",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "CASE-PERFECT10-V-CCBILL",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
+      "relationships": [
+        {
+          "object": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "CASE-PERFECT10-V-CCBILL"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "CASE-PERFECT10-V-CCBILL"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "CASE-PERFECT10-V-CCBILL"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "CASE-PERFECT10-V-CCBILL"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "CASE-PERFECT10-V-CCBILL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA \u00a7 512 safe harbor requirements for online service providers.",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "Perfect 10, Inc. v. CCBill LLC",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "CASE-RENO-V-ACLU",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/CASE-RENO-V-ACLU.md",
+      "relationships": [
+        {
+          "object": "SRC-RENO-V-ACLU-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RENO-V-ACLU-GOVINFO"
+          ],
+          "subject": "CASE-RENO-V-ACLU"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-LOC",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RENO-V-ACLU-LOC"
+          ],
+          "subject": "CASE-RENO-V-ACLU"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-JUSTIA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RENO-V-ACLU-JUSTIA"
+          ],
+          "subject": "CASE-RENO-V-ACLU"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RENO-V-ACLU-LOC"
+          ],
+          "subject": "CASE-RENO-V-ACLU"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RENO-V-ACLU-LOC"
+          ],
+          "subject": "CASE-RENO-V-ACLU"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-RENO-V-ACLU.md",
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC",
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.",
+      "tags": [
+        "first-amendment",
+        "internet-governance",
+        "digital-rights",
+        "speech-and-code"
+      ],
+      "title": "Reno v. American Civil Liberties Union",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "CASE-VAN-BUREN-V-US",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
+      "relationships": [
+        {
+          "object": "SRC-VAN-BUREN-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-VAN-BUREN-LII"
+          ],
+          "subject": "CASE-VAN-BUREN-V-US"
+        },
+        {
+          "object": "SRC-VAN-BUREN-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-VAN-BUREN-GOVINFO"
+          ],
+          "subject": "CASE-VAN-BUREN-V-US"
+        },
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-18-1030-GOVINFO"
+          ],
+          "subject": "CASE-VAN-BUREN-V-US"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-VAN-BUREN-LII"
+          ],
+          "subject": "CASE-VAN-BUREN-V-US"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-VAN-BUREN-LII"
+          ],
+          "subject": "CASE-VAN-BUREN-V-US"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md",
+      "sources": [
+        "SRC-VAN-BUREN-LII",
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.",
+      "tags": [
+        "computer-crime",
+        "technology-law",
+        "digital-rights"
+      ],
+      "title": "Van Buren v. United States",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-ACLU",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-ACLU.md",
+      "relationships": [
+        {
+          "object": "SRC-ACLU-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ACLU-CONTACT"
+          ],
+          "subject": "ORG-ACLU"
+        },
+        {
+          "object": "SRC-ACLU-HISTORY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ACLU-HISTORY"
+          ],
+          "subject": "ORG-ACLU"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-ACLU.md",
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-ACLU-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.",
+      "tags": [
+        "organization",
+        "civil-liberties",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-EFF",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-EFF.md",
+      "relationships": [
+        {
+          "object": "SRC-EFF-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EFF-CONTACT"
+          ],
+          "subject": "ORG-EFF"
+        },
+        {
+          "object": "SRC-EFF-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EFF-ABOUT"
+          ],
+          "subject": "ORG-EFF"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-EFF.md",
+      "sources": [
+        "SRC-EFF-CONTACT",
+        "SRC-EFF-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-SIGNAL",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-SIGNAL.md",
+      "relationships": [
+        {
+          "object": "SRC-SIGNAL-HOME",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SIGNAL-HOME"
+          ],
+          "subject": "ORG-SIGNAL"
+        },
+        {
+          "object": "SRC-SIGNAL-DOCS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SIGNAL-DOCS"
+          ],
+          "subject": "ORG-SIGNAL"
+        },
+        {
+          "object": "SRC-SIGNAL-X3DH",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SIGNAL-X3DH"
+          ],
+          "subject": "ORG-SIGNAL"
+        },
+        {
+          "object": "SRC-SIGNAL-DOUBLE-RATCHET",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SIGNAL-DOUBLE-RATCHET"
+          ],
+          "subject": "ORG-SIGNAL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SIGNAL.md",
+      "sources": [
+        "SRC-SIGNAL-HOME",
+        "SRC-SIGNAL-DOCS",
+        "SRC-SIGNAL-X3DH",
+        "SRC-SIGNAL-DOUBLE-RATCHET"
+      ],
+      "status": "draft",
+      "summary": "Signal is documented in OIR from its official website as a nonprofit-associated private messaging service.",
+      "tags": [
+        "organization",
+        "privacy",
+        "secure-messaging"
+      ],
+      "title": "Signal",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-TOR-PROJECT",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
+      "relationships": [
+        {
+          "object": "SRC-TOR-PROJECT-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TOR-PROJECT-CONTACT"
+          ],
+          "subject": "ORG-TOR-PROJECT"
+        },
+        {
+          "object": "SRC-TOR-PROJECT-HISTORY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TOR-PROJECT-HISTORY"
+          ],
+          "subject": "ORG-TOR-PROJECT"
+        },
+        {
+          "object": "TOPIC-ONION-ROUTING",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TOR-PROJECT-HISTORY"
+          ],
+          "subject": "ORG-TOR-PROJECT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-TOR-PROJECT.md",
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.",
+      "tags": [
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PROTOCOL-DNS",
+      "last_verified": "2026-06-17",
+      "path": "knowledge/technical/PROTOCOL-DNS.md",
+      "relationships": [
+        {
+          "object": "SRC-RFC-1034",
+          "predicate": "standardizes",
+          "sources": [
+            "SRC-RFC-1034"
+          ],
+          "subject": "PROTOCOL-DNS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-DNS.md",
+      "sources": [
+        "SRC-RFC-1034"
+      ],
+      "status": "draft",
+      "summary": "Domain Name System (DNS) concepts and facilities are described in RFC 1034.",
+      "tags": [
+        "internet-architecture",
+        "network-protocols"
+      ],
+      "title": "Domain Name System",
+      "type": "protocol",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PROTOCOL-TCP",
+      "last_verified": "2026-06-17",
+      "path": "knowledge/technical/PROTOCOL-TCP.md",
+      "relationships": [
+        {
+          "object": "SRC-RFC-9293",
+          "predicate": "standardizes",
+          "sources": [
+            "SRC-RFC-9293"
+          ],
+          "subject": "PROTOCOL-TCP"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-TCP.md",
+      "sources": [
+        "SRC-RFC-9293"
+      ],
+      "status": "draft",
+      "summary": "Transmission Control Protocol (TCP) is an internet transport protocol specified by RFC 9293.",
+      "tags": [
+        "internet-architecture",
+        "network-protocols"
+      ],
+      "title": "Transmission Control Protocol",
+      "type": "protocol",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PROTOCOL-TLS-13",
+      "last_verified": "2026-06-17",
+      "path": "knowledge/technical/PROTOCOL-TLS-13.md",
+      "relationships": [
+        {
+          "object": "SRC-RFC-8446",
+          "predicate": "standardizes",
+          "sources": [
+            "SRC-RFC-8446"
+          ],
+          "subject": "PROTOCOL-TLS-13"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-TLS-13.md",
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "status": "draft",
+      "summary": "Transport Layer Security (TLS) 1.3 is specified by RFC 8446.",
+      "tags": [
+        "cryptography",
+        "privacy",
+        "secure-messaging"
+      ],
+      "title": "Transport Layer Security 1.3",
+      "type": "protocol",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "STAT-CFAA-1030",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/STAT-CFAA-1030.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-18-1030-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-18-1030-LII"
+          ],
+          "subject": "STAT-CFAA-1030"
+        },
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-18-1030-GOVINFO"
+          ],
+          "subject": "STAT-CFAA-1030"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-18-1030-GOVINFO"
+          ],
+          "subject": "STAT-CFAA-1030"
+        },
+        {
+          "object": "CASE-VAN-BUREN-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-VAN-BUREN-LII"
+          ],
+          "subject": "STAT-CFAA-1030"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-CFAA-1030.md",
+      "sources": [
+        "SRC-USC-18-1030-LII",
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "status": "draft",
+      "summary": "18 U.S.C. \u00a7 1030 is a United States criminal statute concerning fraud and related activity in connection with computers.",
+      "tags": [
+        "computer-crime",
+        "technology-law"
+      ],
+      "title": "18 U.S.C. \u00a7 1030",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "STAT-DMCA-512",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/STAT-DMCA-512.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-512-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "STAT-DMCA-512"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-DMCA-512.md",
+      "sources": [
+        "SRC-USC-17-512-LII",
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "17 U.S.C. \u00a7 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability"
+      ],
+      "title": "17 U.S.C. \u00a7 512",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-CODE-AS-SPEECH",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
+      "relationships": [
+        {
+          "object": "SRC-RENO-V-ACLU-LOC",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RENO-V-ACLU-LOC"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "SRC-US-CONST-AMEND-I-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-US-CONST-AMEND-I-LII"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-US-CONST-AMEND-I-LII"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RENO-V-ACLU-LOC"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC",
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "status": "draft",
+      "summary": "The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.",
+      "tags": [
+        "first-amendment",
+        "speech-and-code",
+        "digital-rights",
+        "constitutional-law"
+      ],
+      "title": "Code as Speech",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-COMPUTER-FRAUD",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-18-1030-GOVINFO"
+          ],
+          "subject": "TOPIC-COMPUTER-FRAUD"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-18-1030-GOVINFO"
+          ],
+          "subject": "TOPIC-COMPUTER-FRAUD"
+        },
+        {
+          "object": "CASE-VAN-BUREN-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-VAN-BUREN-LII"
+          ],
+          "subject": "TOPIC-COMPUTER-FRAUD"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
+      "sources": [
+        "SRC-USC-18-1030-LII",
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "status": "draft",
+      "summary": "Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. \u00a7 1030.",
+      "tags": [
+        "computer-crime",
+        "technology-law",
+        "digital-rights"
+      ],
+      "title": "Computer Fraud and Abuse",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-FIRST-AMENDMENT",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
+      "relationships": [
+        {
+          "object": "SRC-US-CONST-AMEND-I-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-US-CONST-AMEND-I-LII"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RENO-V-ACLU-JUSTIA"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RENO-V-ACLU-JUSTIA"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII",
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.",
+      "tags": [
+        "constitutional-law",
+        "first-amendment",
+        "digital-rights",
+        "speech-and-code"
+      ],
+      "title": "First Amendment",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-FOURTH-AMENDMENT",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
+      "relationships": [
+        {
+          "object": "SRC-US-CONST-AMEND-IV-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-US-CONST-AMEND-IV-LII"
+          ],
+          "subject": "TOPIC-FOURTH-AMENDMENT"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "TOPIC-FOURTH-AMENDMENT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
+      "sources": [
+        "SRC-US-CONST-AMEND-IV-LII",
+        "SRC-CARPENTER-LII"
+      ],
+      "status": "draft",
+      "summary": "The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.",
+      "tags": [
+        "constitutional-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Fourth Amendment",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-INTERMEDIARY-LIABILITY",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.",
+      "tags": [
+        "intermediary-liability",
+        "copyright",
+        "digital-rights",
+        "safe-harbor"
+      ],
+      "title": "Intermediary Liability",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-KADEMLIA",
+      "last_verified": "2026-06-17",
+      "path": "knowledge/technical/TOPIC-KADEMLIA.md",
+      "relationships": [
+        {
+          "object": "SRC-KADEMLIA-PAPER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KADEMLIA-PAPER"
+          ],
+          "subject": "TOPIC-KADEMLIA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TOPIC-KADEMLIA.md",
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "status": "draft",
+      "summary": "Kademlia is a peer-to-peer distributed hash table described in a 2002 paper by Petar Maymounkov and David Mazi\u00e8res.",
+      "tags": [
+        "peer-to-peer-networking",
+        "distributed-systems",
+        "distributed-hash-tables"
+      ],
+      "title": "Kademlia",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-ONION-ROUTING",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
+      "relationships": [
+        {
+          "object": "SRC-TOR-PROJECT-HISTORY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TOR-PROJECT-HISTORY"
+          ],
+          "subject": "TOPIC-ONION-ROUTING"
+        },
+        {
+          "object": "SRC-TOR-DESIGN-PAPER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TOR-DESIGN-PAPER"
+          ],
+          "subject": "TOPIC-ONION-ROUTING"
+        },
+        {
+          "object": "ORG-TOR-PROJECT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TOR-PROJECT-HISTORY"
+          ],
+          "subject": "TOPIC-ONION-ROUTING"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY",
+        "SRC-TOR-DESIGN-PAPER"
+      ],
+      "status": "draft",
+      "summary": "Onion routing is a technique for anonymous communication over a network in which messages pass through multiple relays in layered encryption.",
+      "tags": [
+        "privacy",
+        "censorship-resistance",
+        "open-source-software",
+        "technical"
+      ],
+      "title": "Onion Routing",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-SAFE-HARBOR",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-SAFE-HARBOR"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-SAFE-HARBOR"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "TOPIC-SAFE-HARBOR"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERFECT10-V-CCBILL-JUSTIA"
+          ],
+          "subject": "TOPIC-SAFE-HARBOR"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md",
+      "sources": [
+        "SRC-USC-17-512-LII",
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. \u00a7 512.",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "Online Service Provider Safe Harbor",
+      "type": "topic",
+      "used_for": []
+    }
+  ],
+  "schema_version": 1
+}

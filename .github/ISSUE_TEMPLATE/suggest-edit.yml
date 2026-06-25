@@ -1,0 +1,61 @@
+name: Suggest an edit
+description: Propose a correction or improvement to OIR content without opening a pull request
+title: "[Suggest edit]: "
+labels: ["suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to suggest a correction or improvement. Suggestions do not change OIR until a contributor or editor merges an approved change.
+
+        If you can provide a pull request, that is often faster. See `CONTRIBUTING.md` and `EDITORIAL_WORKFLOW.md`.
+  - type: input
+    id: record_id
+    attributes:
+      label: Page or source ID
+      description: For example `TOPIC-FIRST-AMENDMENT`, `CASE-RENO-V-ACLU`, or `SRC-USC-17-512-GOVINFO`
+      placeholder: TOPIC-EXAMPLE
+    validations:
+      required: true
+  - type: input
+    id: page_url
+    attributes:
+      label: Public page URL (if known)
+      placeholder: https://...
+  - type: dropdown
+    id: change_type
+    attributes:
+      label: Type of suggestion
+      options:
+        - Correct a factual error
+        - Add a missing source
+        - Improve clarity or neutrality
+        - Add or fix a relationship
+        - Deprecate or merge a topic
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: current_text
+    attributes:
+      label: Current text or claim (if applicable)
+      description: Quote the existing wording or describe what the page currently says
+  - type: textarea
+    id: proposed_change
+    attributes:
+      label: Proposed change
+      description: What should OIR say instead, or what should be added?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources
+      description: URLs or citations for primary or high-confidence sources. Required for factual corrections.
+    validations:
+      required: true
+  - type: textarea
+    id: expertise
+    attributes:
+      label: Your relevant expertise (optional)
+      description: Help reviewers understand context; not a substitute for sources

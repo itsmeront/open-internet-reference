@@ -1,0 +1,447 @@
+{
+  "description": "Generated timeline from explicit publication and verification dates.",
+  "events": [
+    {
+      "date": "1987-11",
+      "description": "Publication date for RFC 1034: Domain Names - Concepts and Facilities.",
+      "event_type": "publication",
+      "record_id": "SRC-RFC-1034",
+      "record_title": "RFC 1034: Domain Names - Concepts and Facilities"
+    },
+    {
+      "date": "1997",
+      "description": "Publication date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).",
+      "event_type": "publication",
+      "record_id": "SRC-RENO-V-ACLU-JUSTIA",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)"
+    },
+    {
+      "date": "1997-06-26",
+      "description": "Publication date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-RENO-V-ACLU-GOVINFO",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)"
+    },
+    {
+      "date": "1997-06-26",
+      "description": "Publication date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF).",
+      "event_type": "publication",
+      "record_id": "SRC-RENO-V-ACLU-LOC",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)"
+    },
+    {
+      "date": "2002",
+      "description": "Publication date for Kademlia: A Peer-to-Peer Information System Based on the XOR Metric.",
+      "event_type": "publication",
+      "record_id": "SRC-KADEMLIA-PAPER",
+      "record_title": "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric"
+    },
+    {
+      "date": "2007",
+      "description": "Publication date for Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).",
+      "event_type": "publication",
+      "record_id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+      "record_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)"
+    },
+    {
+      "date": "2016-11-04",
+      "description": "Publication date for The X3DH Key Agreement Protocol.",
+      "event_type": "publication",
+      "record_id": "SRC-SIGNAL-X3DH",
+      "record_title": "The X3DH Key Agreement Protocol"
+    },
+    {
+      "date": "2018",
+      "description": "Publication date for Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-CARPENTER-GOVINFO",
+      "record_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)"
+    },
+    {
+      "date": "2018",
+      "description": "Publication date for Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-CARPENTER-LII",
+      "record_title": "Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)"
+    },
+    {
+      "date": "2018-08",
+      "description": "Publication date for RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3.",
+      "event_type": "publication",
+      "record_id": "SRC-RFC-8446",
+      "record_title": "RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3"
+    },
+    {
+      "date": "2021",
+      "description": "Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-VAN-BUREN-GOVINFO",
+      "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)"
+    },
+    {
+      "date": "2021",
+      "description": "Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-VAN-BUREN-LII",
+      "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)"
+    },
+    {
+      "date": "2022-08",
+      "description": "Publication date for RFC 9293: Transmission Control Protocol (TCP).",
+      "event_type": "publication",
+      "record_id": "SRC-RFC-9293",
+      "record_title": "RFC 9293: Transmission Control Protocol (TCP)"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Domain Name System.",
+      "event_type": "verification",
+      "record_id": "PROTOCOL-DNS",
+      "record_title": "Domain Name System"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Transmission Control Protocol.",
+      "event_type": "verification",
+      "record_id": "PROTOCOL-TCP",
+      "record_title": "Transmission Control Protocol"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Transport Layer Security 1.3.",
+      "event_type": "verification",
+      "record_id": "PROTOCOL-TLS-13",
+      "record_title": "Transport Layer Security 1.3"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for American Civil Liberties Union Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-ACLU-CONTACT",
+      "record_title": "American Civil Liberties Union Contact Page"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Electronic Frontier Foundation Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-EFF-CONTACT",
+      "record_title": "Electronic Frontier Foundation Contact Page"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Kademlia: A Peer-to-Peer Information System Based on the XOR Metric.",
+      "event_type": "verification",
+      "record_id": "SRC-KADEMLIA-PAPER",
+      "record_title": "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for RFC 1034: Domain Names - Concepts and Facilities.",
+      "event_type": "verification",
+      "record_id": "SRC-RFC-1034",
+      "record_title": "RFC 1034: Domain Names - Concepts and Facilities"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3.",
+      "event_type": "verification",
+      "record_id": "SRC-RFC-8446",
+      "record_title": "RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for RFC 9293: Transmission Control Protocol (TCP).",
+      "event_type": "verification",
+      "record_id": "SRC-RFC-9293",
+      "record_title": "RFC 9293: Transmission Control Protocol (TCP)"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Tor Project Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-TOR-PROJECT-CONTACT",
+      "record_title": "Tor Project Contact Page"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for 17 U.S.C. \u00a7 512.",
+      "event_type": "verification",
+      "record_id": "SRC-USC-17-512-LII",
+      "record_title": "17 U.S.C. \u00a7 512"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for 18 U.S.C. \u00a7 1030.",
+      "event_type": "verification",
+      "record_id": "SRC-USC-18-1030-LII",
+      "record_title": "18 U.S.C. \u00a7 1030"
+    },
+    {
+      "date": "2026-06-17",
+      "description": "Last verified date for Kademlia.",
+      "event_type": "verification",
+      "record_id": "TOPIC-KADEMLIA",
+      "record_title": "Kademlia"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Carpenter v. United States.",
+      "event_type": "verification",
+      "record_id": "CASE-CARPENTER-V-US",
+      "record_title": "Carpenter v. United States"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Perfect 10, Inc. v. CCBill LLC.",
+      "event_type": "verification",
+      "record_id": "CASE-PERFECT10-V-CCBILL",
+      "record_title": "Perfect 10, Inc. v. CCBill LLC"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Reno v. American Civil Liberties Union.",
+      "event_type": "verification",
+      "record_id": "CASE-RENO-V-ACLU",
+      "record_title": "Reno v. American Civil Liberties Union"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Van Buren v. United States.",
+      "event_type": "verification",
+      "record_id": "CASE-VAN-BUREN-V-US",
+      "record_title": "Van Buren v. United States"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for American Civil Liberties Union.",
+      "event_type": "verification",
+      "record_id": "ORG-ACLU",
+      "record_title": "American Civil Liberties Union"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Electronic Frontier Foundation.",
+      "event_type": "verification",
+      "record_id": "ORG-EFF",
+      "record_title": "Electronic Frontier Foundation"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Signal.",
+      "event_type": "verification",
+      "record_id": "ORG-SIGNAL",
+      "record_title": "Signal"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Tor Project.",
+      "event_type": "verification",
+      "record_id": "ORG-TOR-PROJECT",
+      "record_title": "Tor Project"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for American Civil Liberties Union History Page.",
+      "event_type": "verification",
+      "record_id": "SRC-ACLU-HISTORY",
+      "record_title": "American Civil Liberties Union History Page"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-CARPENTER-GOVINFO",
+      "record_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-CARPENTER-LII",
+      "record_title": "Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Electronic Frontier Foundation About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-EFF-ABOUT",
+      "record_title": "Electronic Frontier Foundation About Page"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).",
+      "event_type": "verification",
+      "record_id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+      "record_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-RENO-V-ACLU-GOVINFO",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).",
+      "event_type": "verification",
+      "record_id": "SRC-RENO-V-ACLU-JUSTIA",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF).",
+      "event_type": "verification",
+      "record_id": "SRC-RENO-V-ACLU-LOC",
+      "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Signal Protocol Documentation.",
+      "event_type": "verification",
+      "record_id": "SRC-SIGNAL-DOCS",
+      "record_title": "Signal Protocol Documentation"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for The Double Ratchet Algorithm.",
+      "event_type": "verification",
+      "record_id": "SRC-SIGNAL-DOUBLE-RATCHET",
+      "record_title": "The Double Ratchet Algorithm"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Signal Official Website.",
+      "event_type": "verification",
+      "record_id": "SRC-SIGNAL-HOME",
+      "record_title": "Signal Official Website"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for The X3DH Key Agreement Protocol.",
+      "event_type": "verification",
+      "record_id": "SRC-SIGNAL-X3DH",
+      "record_title": "The X3DH Key Agreement Protocol"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Tor: The Second-Generation Onion Router.",
+      "event_type": "verification",
+      "record_id": "SRC-TOR-DESIGN-PAPER",
+      "record_title": "Tor: The Second-Generation Onion Router"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Tor Project History Page.",
+      "event_type": "verification",
+      "record_id": "SRC-TOR-PROJECT-HISTORY",
+      "record_title": "Tor Project History Page"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for U.S. Constitution First Amendment (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-US-CONST-AMEND-I-LII",
+      "record_title": "U.S. Constitution First Amendment (Cornell LII)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for U.S. Constitution Fourth Amendment (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-US-CONST-AMEND-IV-LII",
+      "record_title": "U.S. Constitution Fourth Amendment (Cornell LII)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 512 (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-USC-17-512-GOVINFO",
+      "record_title": "17 U.S.C. \u00a7 512 (GovInfo)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for 18 U.S.C. \u00a7 1030 (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-USC-18-1030-GOVINFO",
+      "record_title": "18 U.S.C. \u00a7 1030 (GovInfo)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-VAN-BUREN-GOVINFO",
+      "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-VAN-BUREN-LII",
+      "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for 18 U.S.C. \u00a7 1030.",
+      "event_type": "verification",
+      "record_id": "STAT-CFAA-1030",
+      "record_title": "18 U.S.C. \u00a7 1030"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 512.",
+      "event_type": "verification",
+      "record_id": "STAT-DMCA-512",
+      "record_title": "17 U.S.C. \u00a7 512"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Code as Speech.",
+      "event_type": "verification",
+      "record_id": "TOPIC-CODE-AS-SPEECH",
+      "record_title": "Code as Speech"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Computer Fraud and Abuse.",
+      "event_type": "verification",
+      "record_id": "TOPIC-COMPUTER-FRAUD",
+      "record_title": "Computer Fraud and Abuse"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for First Amendment.",
+      "event_type": "verification",
+      "record_id": "TOPIC-FIRST-AMENDMENT",
+      "record_title": "First Amendment"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Fourth Amendment.",
+      "event_type": "verification",
+      "record_id": "TOPIC-FOURTH-AMENDMENT",
+      "record_title": "Fourth Amendment"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Intermediary Liability.",
+      "event_type": "verification",
+      "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+      "record_title": "Intermediary Liability"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Onion Routing.",
+      "event_type": "verification",
+      "record_id": "TOPIC-ONION-ROUTING",
+      "record_title": "Onion Routing"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Last verified date for Online Service Provider Safe Harbor.",
+      "event_type": "verification",
+      "record_id": "TOPIC-SAFE-HARBOR",
+      "record_title": "Online Service Provider Safe Harbor"
+    }
+  ],
+  "schema_version": 1
+}

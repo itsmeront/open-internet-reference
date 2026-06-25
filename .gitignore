@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build outputs
+generated/site/
+site/
+dist/
+build/
+*.egg-info/
+
+# Local environment
+.env
+.env.*
+
+# Editor/system
+.DS_Store
+Thumbs.db

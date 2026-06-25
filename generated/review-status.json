@@ -1,0 +1,61 @@
+{
+  "by_status": {
+    "draft": 24,
+    "needs_sources": 4,
+    "verified": 29
+  },
+  "by_type": {
+    "case": 4,
+    "organization": 4,
+    "protocol": 3,
+    "source": 36,
+    "statute": 2,
+    "topic": 8
+  },
+  "description": "Generated review status dashboard.",
+  "missing_last_verified": [
+    "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
+    "SRC-OIR-BOOTSTRAP-PROMPT",
+    "SRC-OIR-PROJECT-CHARTER-DOCX",
+    "SRC-OIR-ROADMAP-DOCX"
+  ],
+  "needing_review": [
+    "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+    "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
+    "SRC-OIR-BOOTSTRAP-PROMPT",
+    "SRC-OIR-PROJECT-CHARTER-DOCX",
+    "SRC-OIR-ROADMAP-DOCX",
+    "CASE-CARPENTER-V-US",
+    "CASE-PERFECT10-V-CCBILL",
+    "CASE-RENO-V-ACLU",
+    "CASE-VAN-BUREN-V-US",
+    "ORG-ACLU",
+    "ORG-EFF",
+    "ORG-SIGNAL",
+    "ORG-TOR-PROJECT",
+    "PROTOCOL-DNS",
+    "PROTOCOL-TCP",
+    "PROTOCOL-TLS-13",
+    "STAT-CFAA-1030",
+    "STAT-DMCA-512",
+    "TOPIC-CODE-AS-SPEECH",
+    "TOPIC-COMPUTER-FRAUD",
+    "TOPIC-FIRST-AMENDMENT",
+    "TOPIC-FOURTH-AMENDMENT",
+    "TOPIC-INTERMEDIARY-LIABILITY",
+    "TOPIC-KADEMLIA",
+    "TOPIC-ONION-ROUTING",
+    "TOPIC-SAFE-HARBOR"
+  ],
+  "schema_version": 1,
+  "totals": {
+    "missing_last_verified": 7,
+    "needing_review": 28,
+    "records": 57
+  }
+}

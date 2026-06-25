@@ -1,0 +1,17 @@
+# CODEOWNERS
+#
+# Replace placeholder handles with real GitHub users or teams before enabling
+# required reviews on protected branches. See EDITORIAL_WORKFLOW.md.
+#
+# Example assignments (uncomment and edit):
+#
+# /knowledge/legal/       @your-org/oar-legal-reviewers
+# /knowledge/technical/   @your-org/oar-technical-reviewers
+# /knowledge/organizations/ @your-org/oar-outreach-reviewers
+# /bibliography/legal/    @your-org/oar-legal-reviewers
+# /bibliography/technical/ @your-org/oar-technical-reviewers
+# TAXONOMY.md             @your-org/oar-knowledge-engineers
+# DATA_MODEL.md           @your-org/oar-architects
+# schemas/                @your-org/oar-architects
+# tools/                  @your-org/oar-build-engineers
+# .github/                @your-org/oar-build-engineers

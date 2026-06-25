@@ -1,0 +1,61 @@
+<svg width="200" height="200" viewBox="0 0 200 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>OIR - Open Internet Research icon</title>
+  <desc>Compact OIR icon: globe circle as O, bold vertical spine as I, bold network lines forming R.</desc>
+  <defs>
+    <clipPath id="gc">
+      <circle cx="100" cy="100" r="90"/>
+    </clipPath>
+  </defs>
+
+  <!-- Globe base -->
+  <circle cx="100" cy="100" r="90" fill="#E6F1FB" stroke="#185FA5" stroke-width="5"/>
+
+  <!-- Subtle grid -->
+  <ellipse cx="100" cy="100" rx="90" ry="24" fill="none" stroke="#85B7EB" stroke-width="0.8" clip-path="url(#gc)"/>
+  <ellipse cx="100" cy="100" rx="45" ry="90" fill="none" stroke="#85B7EB" stroke-width="0.8" clip-path="url(#gc)"/>
+  <line x1="100" y1="10" x2="100" y2="190" stroke="#85B7EB" stroke-width="0.8"/>
+
+  <!-- Globe outline on top -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#185FA5" stroke-width="5"/>
+
+  <!-- Thin mesh lines -->
+  <line x1="100" y1="10"  x2="77"  y2="13"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="100" y1="10"  x2="163" y2="37"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37"  y1="37"  x2="77"  y2="13"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37"  y1="37"  x2="10"  y2="100" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37"  y1="37"  x2="100" y2="100" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="10"  y1="100" x2="37"  y2="163" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="10"  y1="100" x2="100" y2="100" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="37"  y1="163" x2="100" y2="190" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="163" y1="163" x2="100" y2="190" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="163" y1="163" x2="190" y2="100" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="190" y1="100" x2="187" y2="77"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="190" y1="100" x2="163" y2="37"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="163" y1="37"  x2="187" y2="77"  stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="163" y1="37"  x2="100" y2="100" stroke="#B5D4F4" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- I - bold vertical spine -->
+  <line x1="100" y1="10"  x2="100" y2="100" stroke="#0C447C" stroke-width="8" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="100" y2="190" stroke="#0C447C" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- R - bold strokes -->
+  <line x1="37"  y1="163" x2="77"  y2="13"  stroke="#185FA5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="77"  y1="13"  x2="187" y2="77"  stroke="#185FA5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="187" y1="77"  x2="100" y2="100" stroke="#185FA5" stroke-width="8" stroke-linecap="round"/>
+  <line x1="100" y1="100" x2="163" y2="163" stroke="#185FA5" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Nodes -->
+  <circle cx="100" cy="10"  r="7" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="77"  cy="13"  r="7" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="37"  cy="37"  r="6" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="163" cy="37"  r="6" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="187" cy="77"  r="7" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="190" cy="100" r="6" fill="#185FA5" stroke="#ffffff" stroke-width="1.5"/>
+  <circle cx="163" cy="163" r="7" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="100" cy="190" r="6" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="37"  cy="163" r="7" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="10"  cy="100" r="6" fill="#185FA5" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Center hub -->
+  <circle cx="100" cy="100" r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2.5"/>
+
+</svg>

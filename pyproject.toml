@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "open-internet-reference"
+version = "0.1.0"
+description = "Evidence-based reference for internet architecture, digital rights, and related legal and policy issues."
+readme = "README.md"
+requires-python = ">=3.14"
+license = "MIT"
+authors = [
+  { name = "Open Internet Reference contributors" }
+]
+dependencies = []
+
+[project.optional-dependencies]
+docs = [
+  "mkdocs-material",
+  "mkdocs-glightbox",
+  "pymdown-extensions",
+  "PyYAML",
+  "pillow",
+  "pymupdf"
+]
+
+[tool.setuptools]
+packages = []

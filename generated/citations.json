@@ -1,0 +1,970 @@
+{
+  "description": "Generated citation usage index.",
+  "schema_version": 1,
+  "sources": [
+    {
+      "source_id": "SRC-ACLU-CONTACT",
+      "source_title": "American Civil Liberties Union Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-ACLU",
+          "record_title": "American Civil Liberties Union",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ACLU-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-ACLU",
+          "record_title": "American Civil Liberties Union",
+          "subject": "ORG-ACLU",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ACLU-HISTORY",
+      "source_title": "American Civil Liberties Union History Page",
+      "usages": [
+        {
+          "record_id": "ORG-ACLU",
+          "record_title": "American Civil Liberties Union",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ACLU-HISTORY",
+          "predicate": "cites",
+          "record_id": "ORG-ACLU",
+          "record_title": "American Civil Liberties Union",
+          "subject": "ORG-ACLU",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
+      "source_title": "Axona Constitutional & Public Policy Reference Manual",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+      "source_title": "Axona Legal & Public Policy Outreach Contacts",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+      "source_title": "Axona Legal & Public Policy Outreach Contacts Expanded",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
+      "source_title": "Axona Legal & Public Policy Outreach Contacts Markdown",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-CARPENTER-GOVINFO",
+      "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CARPENTER-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CARPENTER-LII",
+      "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CARPENTER-LII",
+          "predicate": "cites",
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "subject": "TOPIC-FOURTH-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-EFF-ABOUT",
+      "source_title": "Electronic Frontier Foundation About Page",
+      "usages": [
+        {
+          "record_id": "ORG-EFF",
+          "record_title": "Electronic Frontier Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EFF-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-EFF",
+          "record_title": "Electronic Frontier Foundation",
+          "subject": "ORG-EFF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-EFF-CONTACT",
+      "source_title": "Electronic Frontier Foundation Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-EFF",
+          "record_title": "Electronic Frontier Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EFF-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-EFF",
+          "record_title": "Electronic Frontier Foundation",
+          "subject": "ORG-EFF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KADEMLIA-PAPER",
+      "source_title": "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric",
+      "usages": [
+        {
+          "record_id": "TOPIC-KADEMLIA",
+          "record_title": "Kademlia",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KADEMLIA-PAPER",
+          "predicate": "cites",
+          "record_id": "TOPIC-KADEMLIA",
+          "record_title": "Kademlia",
+          "subject": "TOPIC-KADEMLIA",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OIR-BOOTSTRAP-PROMPT",
+      "source_title": "OIR Bootstrap Prompt",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-OIR-PROJECT-CHARTER-DOCX",
+      "source_title": "Open Internet Reference Project Charter",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-OIR-ROADMAP-DOCX",
+      "source_title": "Open Internet Reference Roadmap",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+      "source_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)",
+      "usages": [
+        {
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "subject": "CASE-PERFECT10-V-CCBILL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "subject": "CASE-PERFECT10-V-CCBILL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "subject": "CASE-PERFECT10-V-CCBILL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-PERFECT10-V-CCBILL",
+          "predicate": "related_to",
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "subject": "TOPIC-SAFE-HARBOR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RENO-V-ACLU-GOVINFO",
+      "source_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "subject": "CASE-RENO-V-ACLU",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RENO-V-ACLU-JUSTIA",
+      "source_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)",
+      "usages": [
+        {
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "subject": "CASE-RENO-V-ACLU",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RENO-V-ACLU-LOC",
+      "source_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)",
+      "usages": [
+        {
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-LOC",
+          "predicate": "cites",
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "subject": "CASE-RENO-V-ACLU",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "subject": "CASE-RENO-V-ACLU",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-RENO-V-ACLU",
+          "record_title": "Reno v. American Civil Liberties Union",
+          "subject": "CASE-RENO-V-ACLU",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RENO-V-ACLU-LOC",
+          "predicate": "cites",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RFC-1034",
+      "source_title": "RFC 1034: Domain Names - Concepts and Facilities",
+      "usages": [
+        {
+          "record_id": "PROTOCOL-DNS",
+          "record_title": "Domain Name System",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RFC-1034",
+          "predicate": "standardizes",
+          "record_id": "PROTOCOL-DNS",
+          "record_title": "Domain Name System",
+          "subject": "PROTOCOL-DNS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RFC-8446",
+      "source_title": "RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3",
+      "usages": [
+        {
+          "record_id": "PROTOCOL-TLS-13",
+          "record_title": "Transport Layer Security 1.3",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RFC-8446",
+          "predicate": "standardizes",
+          "record_id": "PROTOCOL-TLS-13",
+          "record_title": "Transport Layer Security 1.3",
+          "subject": "PROTOCOL-TLS-13",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RFC-9293",
+      "source_title": "RFC 9293: Transmission Control Protocol (TCP)",
+      "usages": [
+        {
+          "record_id": "PROTOCOL-TCP",
+          "record_title": "Transmission Control Protocol",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RFC-9293",
+          "predicate": "standardizes",
+          "record_id": "PROTOCOL-TCP",
+          "record_title": "Transmission Control Protocol",
+          "subject": "PROTOCOL-TCP",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SIGNAL-DOCS",
+      "source_title": "Signal Protocol Documentation",
+      "usages": [
+        {
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SIGNAL-DOCS",
+          "predicate": "cites",
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SIGNAL-DOUBLE-RATCHET",
+      "source_title": "The Double Ratchet Algorithm",
+      "usages": [
+        {
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SIGNAL-DOUBLE-RATCHET",
+          "predicate": "cites",
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SIGNAL-HOME",
+      "source_title": "Signal Official Website",
+      "usages": [
+        {
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SIGNAL-HOME",
+          "predicate": "cites",
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SIGNAL-X3DH",
+      "source_title": "The X3DH Key Agreement Protocol",
+      "usages": [
+        {
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SIGNAL-X3DH",
+          "predicate": "cites",
+          "record_id": "ORG-SIGNAL",
+          "record_title": "Signal",
+          "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TOR-DESIGN-PAPER",
+      "source_title": "Tor: The Second-Generation Onion Router",
+      "usages": [
+        {
+          "record_id": "TOPIC-ONION-ROUTING",
+          "record_title": "Onion Routing",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TOR-DESIGN-PAPER",
+          "predicate": "cites",
+          "record_id": "TOPIC-ONION-ROUTING",
+          "record_title": "Onion Routing",
+          "subject": "TOPIC-ONION-ROUTING",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TOR-PROJECT-CONTACT",
+      "source_title": "Tor Project Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-TOR-PROJECT",
+          "record_title": "Tor Project",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TOR-PROJECT-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-TOR-PROJECT",
+          "record_title": "Tor Project",
+          "subject": "ORG-TOR-PROJECT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TOR-PROJECT-HISTORY",
+      "source_title": "Tor Project History Page",
+      "usages": [
+        {
+          "record_id": "ORG-TOR-PROJECT",
+          "record_title": "Tor Project",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TOR-PROJECT-HISTORY",
+          "predicate": "cites",
+          "record_id": "ORG-TOR-PROJECT",
+          "record_title": "Tor Project",
+          "subject": "ORG-TOR-PROJECT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-ONION-ROUTING",
+          "predicate": "related_to",
+          "record_id": "ORG-TOR-PROJECT",
+          "record_title": "Tor Project",
+          "subject": "ORG-TOR-PROJECT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-ONION-ROUTING",
+          "record_title": "Onion Routing",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TOR-PROJECT-HISTORY",
+          "predicate": "cites",
+          "record_id": "TOPIC-ONION-ROUTING",
+          "record_title": "Onion Routing",
+          "subject": "TOPIC-ONION-ROUTING",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-TOR-PROJECT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-ONION-ROUTING",
+          "record_title": "Onion Routing",
+          "subject": "TOPIC-ONION-ROUTING",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-US-CONST-AMEND-I-LII",
+      "source_title": "U.S. Constitution First Amendment (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-US-CONST-AMEND-I-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-US-CONST-AMEND-I-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-US-CONST-AMEND-IV-LII",
+      "source_title": "U.S. Constitution Fourth Amendment (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-US-CONST-AMEND-IV-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "subject": "TOPIC-FOURTH-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USC-17-512-GOVINFO",
+      "source_title": "17 U.S.C. \u00a7 512 (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "subject": "CASE-PERFECT10-V-CCBILL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "record_id": "CASE-PERFECT10-V-CCBILL",
+          "record_title": "Perfect 10, Inc. v. CCBill LLC",
+          "subject": "CASE-PERFECT10-V-CCBILL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-GOVINFO",
+          "predicate": "cites",
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "subject": "TOPIC-SAFE-HARBOR",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "subject": "TOPIC-SAFE-HARBOR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USC-17-512-LII",
+      "source_title": "17 U.S.C. \u00a7 512",
+      "usages": [
+        {
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-LII",
+          "predicate": "cites",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-SAFE-HARBOR",
+          "record_title": "Online Service Provider Safe Harbor",
+          "subject": "TOPIC-SAFE-HARBOR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USC-18-1030-GOVINFO",
+      "source_title": "18 U.S.C. \u00a7 1030 (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "subject": "CASE-VAN-BUREN-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "subject": "STAT-CFAA-1030",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "subject": "STAT-CFAA-1030",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-18-1030-GOVINFO",
+          "predicate": "cites",
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USC-18-1030-LII",
+      "source_title": "18 U.S.C. \u00a7 1030",
+      "usages": [
+        {
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-18-1030-LII",
+          "predicate": "cites",
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "subject": "STAT-CFAA-1030",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-VAN-BUREN-GOVINFO",
+      "source_title": "Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VAN-BUREN-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "subject": "CASE-VAN-BUREN-V-US",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-VAN-BUREN-LII",
+      "source_title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VAN-BUREN-LII",
+          "predicate": "cites",
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "subject": "CASE-VAN-BUREN-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "subject": "CASE-VAN-BUREN-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "record_id": "CASE-VAN-BUREN-V-US",
+          "record_title": "Van Buren v. United States",
+          "subject": "CASE-VAN-BUREN-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-VAN-BUREN-V-US",
+          "predicate": "related_to",
+          "record_id": "STAT-CFAA-1030",
+          "record_title": "18 U.S.C. \u00a7 1030",
+          "subject": "STAT-CFAA-1030",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-VAN-BUREN-V-US",
+          "predicate": "related_to",
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        }
+      ]
+    }
+  ]
+}

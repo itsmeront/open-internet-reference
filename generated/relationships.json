@@ -1,0 +1,656 @@
+{
+  "description": "Generated relationship graph edge index.",
+  "edges": [
+    {
+      "declared_in": "CASE-CARPENTER-V-US",
+      "notes": null,
+      "object": "SRC-CARPENTER-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CARPENTER-GOVINFO"
+      ],
+      "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-CARPENTER-V-US",
+      "notes": null,
+      "object": "SRC-CARPENTER-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CARPENTER-LII"
+      ],
+      "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-CARPENTER-V-US",
+      "notes": null,
+      "object": "TOPIC-FOURTH-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CARPENTER-LII"
+      ],
+      "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-PERFECT10-V-CCBILL",
+      "notes": null,
+      "object": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-PERFECT10-V-CCBILL",
+      "notes": null,
+      "object": "SRC-USC-17-512-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-PERFECT10-V-CCBILL",
+      "notes": null,
+      "object": "STAT-DMCA-512",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-PERFECT10-V-CCBILL",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-PERFECT10-V-CCBILL",
+      "notes": null,
+      "object": "TOPIC-SAFE-HARBOR",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-RENO-V-ACLU",
+      "notes": null,
+      "object": "SRC-RENO-V-ACLU-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO"
+      ],
+      "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-RENO-V-ACLU",
+      "notes": null,
+      "object": "SRC-RENO-V-ACLU-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-RENO-V-ACLU",
+      "notes": null,
+      "object": "SRC-RENO-V-ACLU-LOC",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-RENO-V-ACLU",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-RENO-V-ACLU",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-VAN-BUREN-V-US",
+      "notes": null,
+      "object": "SRC-USC-18-1030-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "CASE-VAN-BUREN-V-US",
+      "notes": null,
+      "object": "SRC-VAN-BUREN-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VAN-BUREN-GOVINFO"
+      ],
+      "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "CASE-VAN-BUREN-V-US",
+      "notes": null,
+      "object": "SRC-VAN-BUREN-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "CASE-VAN-BUREN-V-US",
+      "notes": null,
+      "object": "STAT-CFAA-1030",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "CASE-VAN-BUREN-V-US",
+      "notes": null,
+      "object": "TOPIC-COMPUTER-FRAUD",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "ORG-ACLU",
+      "notes": null,
+      "object": "SRC-ACLU-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ACLU-CONTACT"
+      ],
+      "subject": "ORG-ACLU"
+    },
+    {
+      "declared_in": "ORG-ACLU",
+      "notes": null,
+      "object": "SRC-ACLU-HISTORY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ACLU-HISTORY"
+      ],
+      "subject": "ORG-ACLU"
+    },
+    {
+      "declared_in": "ORG-EFF",
+      "notes": null,
+      "object": "SRC-EFF-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EFF-ABOUT"
+      ],
+      "subject": "ORG-EFF"
+    },
+    {
+      "declared_in": "ORG-EFF",
+      "notes": null,
+      "object": "SRC-EFF-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EFF-CONTACT"
+      ],
+      "subject": "ORG-EFF"
+    },
+    {
+      "declared_in": "ORG-SIGNAL",
+      "notes": null,
+      "object": "SRC-SIGNAL-DOCS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SIGNAL-DOCS"
+      ],
+      "subject": "ORG-SIGNAL"
+    },
+    {
+      "declared_in": "ORG-SIGNAL",
+      "notes": null,
+      "object": "SRC-SIGNAL-DOUBLE-RATCHET",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SIGNAL-DOUBLE-RATCHET"
+      ],
+      "subject": "ORG-SIGNAL"
+    },
+    {
+      "declared_in": "ORG-SIGNAL",
+      "notes": null,
+      "object": "SRC-SIGNAL-HOME",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SIGNAL-HOME"
+      ],
+      "subject": "ORG-SIGNAL"
+    },
+    {
+      "declared_in": "ORG-SIGNAL",
+      "notes": null,
+      "object": "SRC-SIGNAL-X3DH",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SIGNAL-X3DH"
+      ],
+      "subject": "ORG-SIGNAL"
+    },
+    {
+      "declared_in": "ORG-TOR-PROJECT",
+      "notes": null,
+      "object": "SRC-TOR-PROJECT-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT"
+      ],
+      "subject": "ORG-TOR-PROJECT"
+    },
+    {
+      "declared_in": "ORG-TOR-PROJECT",
+      "notes": null,
+      "object": "SRC-TOR-PROJECT-HISTORY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "subject": "ORG-TOR-PROJECT"
+    },
+    {
+      "declared_in": "ORG-TOR-PROJECT",
+      "notes": null,
+      "object": "TOPIC-ONION-ROUTING",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "subject": "ORG-TOR-PROJECT"
+    },
+    {
+      "declared_in": "PROTOCOL-DNS",
+      "notes": null,
+      "object": "SRC-RFC-1034",
+      "predicate": "standardizes",
+      "sources": [
+        "SRC-RFC-1034"
+      ],
+      "subject": "PROTOCOL-DNS"
+    },
+    {
+      "declared_in": "PROTOCOL-TCP",
+      "notes": null,
+      "object": "SRC-RFC-9293",
+      "predicate": "standardizes",
+      "sources": [
+        "SRC-RFC-9293"
+      ],
+      "subject": "PROTOCOL-TCP"
+    },
+    {
+      "declared_in": "PROTOCOL-TLS-13",
+      "notes": null,
+      "object": "SRC-RFC-8446",
+      "predicate": "standardizes",
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "subject": "PROTOCOL-TLS-13"
+    },
+    {
+      "declared_in": "STAT-CFAA-1030",
+      "notes": null,
+      "object": "SRC-USC-18-1030-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "subject": "STAT-CFAA-1030"
+    },
+    {
+      "declared_in": "STAT-CFAA-1030",
+      "notes": null,
+      "object": "SRC-USC-18-1030-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-18-1030-LII"
+      ],
+      "subject": "STAT-CFAA-1030"
+    },
+    {
+      "declared_in": "STAT-CFAA-1030",
+      "notes": null,
+      "object": "CASE-VAN-BUREN-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "STAT-CFAA-1030"
+    },
+    {
+      "declared_in": "STAT-CFAA-1030",
+      "notes": null,
+      "object": "TOPIC-COMPUTER-FRAUD",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "subject": "STAT-CFAA-1030"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "SRC-USC-17-512-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "SRC-USC-17-512-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "CASE-PERFECT10-V-CCBILL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "TOPIC-SAFE-HARBOR",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "SRC-RENO-V-ACLU-LOC",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "SRC-US-CONST-AMEND-I-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "CASE-RENO-V-ACLU",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-COMPUTER-FRAUD",
+      "notes": null,
+      "object": "SRC-USC-18-1030-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-COMPUTER-FRAUD",
+      "notes": null,
+      "object": "CASE-VAN-BUREN-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-COMPUTER-FRAUD",
+      "notes": null,
+      "object": "STAT-CFAA-1030",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-US-CONST-AMEND-I-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "CASE-RENO-V-ACLU",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FOURTH-AMENDMENT",
+      "notes": null,
+      "object": "SRC-US-CONST-AMEND-IV-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-US-CONST-AMEND-IV-LII"
+      ],
+      "subject": "TOPIC-FOURTH-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FOURTH-AMENDMENT",
+      "notes": null,
+      "object": "CASE-CARPENTER-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CARPENTER-LII"
+      ],
+      "subject": "TOPIC-FOURTH-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "SRC-USC-17-512-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "CASE-PERFECT10-V-CCBILL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "STAT-DMCA-512",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "TOPIC-SAFE-HARBOR",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-KADEMLIA",
+      "notes": null,
+      "object": "SRC-KADEMLIA-PAPER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "subject": "TOPIC-KADEMLIA"
+    },
+    {
+      "declared_in": "TOPIC-ONION-ROUTING",
+      "notes": null,
+      "object": "SRC-TOR-DESIGN-PAPER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TOR-DESIGN-PAPER"
+      ],
+      "subject": "TOPIC-ONION-ROUTING"
+    },
+    {
+      "declared_in": "TOPIC-ONION-ROUTING",
+      "notes": null,
+      "object": "SRC-TOR-PROJECT-HISTORY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "subject": "TOPIC-ONION-ROUTING"
+    },
+    {
+      "declared_in": "TOPIC-ONION-ROUTING",
+      "notes": null,
+      "object": "ORG-TOR-PROJECT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "subject": "TOPIC-ONION-ROUTING"
+    },
+    {
+      "declared_in": "TOPIC-SAFE-HARBOR",
+      "notes": null,
+      "object": "SRC-USC-17-512-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-SAFE-HARBOR"
+    },
+    {
+      "declared_in": "TOPIC-SAFE-HARBOR",
+      "notes": null,
+      "object": "CASE-PERFECT10-V-CCBILL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "TOPIC-SAFE-HARBOR"
+    },
+    {
+      "declared_in": "TOPIC-SAFE-HARBOR",
+      "notes": null,
+      "object": "STAT-DMCA-512",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-SAFE-HARBOR"
+    },
+    {
+      "declared_in": "TOPIC-SAFE-HARBOR",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "subject": "TOPIC-SAFE-HARBOR"
+    }
+  ],
+  "schema_version": 1
+}

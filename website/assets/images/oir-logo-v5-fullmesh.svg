@@ -1,0 +1,69 @@
+<svg width="680" height="420" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>OIR – Open Internet Research</title>
+  <desc>Globe with network node connections tracing O, I, and R letterforms. OIR stands for Open Internet Research.</desc>
+  <defs>
+    <clipPath id="gc">
+      <circle cx="340" cy="185" r="118"/>
+    </clipPath>
+  </defs>
+
+  <!-- Globe base -->
+  <circle cx="340" cy="185" r="118" fill="#E6F1FB" stroke="#185FA5" stroke-width="2"/>
+
+  <!-- Grid -->
+  <ellipse cx="340" cy="185" rx="118" ry="30" fill="none" stroke="#85B7EB" stroke-width="0.7" clip-path="url(#gc)"/>
+  <ellipse cx="340" cy="150" rx="100" ry="20" fill="none" stroke="#85B7EB" stroke-width="0.7" clip-path="url(#gc)"/>
+  <ellipse cx="340" cy="220" rx="100" ry="20" fill="none" stroke="#85B7EB" stroke-width="0.7" clip-path="url(#gc)"/>
+  <ellipse cx="340" cy="185" rx="45"  ry="118" fill="none" stroke="#85B7EB" stroke-width="0.7" clip-path="url(#gc)"/>
+  <ellipse cx="340" cy="185" rx="90"  ry="118" fill="none" stroke="#85B7EB" stroke-width="0.7" clip-path="url(#gc)"/>
+  <line x1="340" y1="67" x2="340" y2="303" stroke="#85B7EB" stroke-width="0.7"/>
+  <circle cx="340" cy="185" r="118" fill="none" stroke="#185FA5" stroke-width="2"/>
+
+  <!-- Thin mesh connections -->
+  <line x1="340" y1="67"  x2="310" y2="71"  stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="340" y1="67"  x2="423" y2="102" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="257" y1="102" x2="310" y2="71"  stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="257" y1="102" x2="222" y2="185" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="257" y1="102" x2="340" y2="185" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="222" y1="185" x2="257" y2="268" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="222" y1="185" x2="340" y2="185" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="257" y1="268" x2="340" y2="303" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="424" y1="268" x2="340" y2="303" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="424" y1="268" x2="458" y2="185" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="458" y1="185" x2="454" y2="155" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="458" y1="185" x2="423" y2="102" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="423" y1="102" x2="454" y2="155" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="423" y1="102" x2="340" y2="185" stroke="#B5D4F4" stroke-width="1.2" stroke-linecap="round"/>
+
+  <!-- I - vertical spine 12:00 to center to 6:00 -->
+  <line x1="340" y1="67"  x2="340" y2="185" stroke="#0C447C" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="340" y1="185" x2="340" y2="303" stroke="#0C447C" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- R vertical stroke: 7:30 to 11:30 -->
+  <line x1="257" y1="268" x2="310" y2="71"  stroke="#185FA5" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- R top bar: 11:30 to 2:30 -->
+  <line x1="310" y1="71"  x2="454" y2="155" stroke="#185FA5" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- R bowl: 2:30 to center -->
+  <line x1="454" y1="155" x2="340" y2="185" stroke="#185FA5" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- R leg: center to 4:30 -->
+  <line x1="340" y1="185" x2="424" y2="268" stroke="#185FA5" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Nodes -->
+  <circle cx="340" cy="67"  r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="310" cy="71"  r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="257" cy="102" r="8" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="423" cy="102" r="8" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="454" cy="155" r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="458" cy="185" r="7" fill="#185FA5" stroke="#ffffff" stroke-width="1.5"/>
+  <circle cx="424" cy="268" r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="340" cy="303" r="8" fill="#185FA5" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="257" cy="268" r="9" fill="#0C447C" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="222" cy="185" r="7" fill="#185FA5" stroke="#ffffff" stroke-width="1.5"/>
+  <!-- Center hub -->
+  <circle cx="340" cy="185" r="11" fill="#0C447C" stroke="#ffffff" stroke-width="2.5"/>
+
+  <!-- Wordmark -->
+  <text x="340" y="362" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="12" fill="#0C447C">OIR</text>
+  <text x="340" y="393" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="3.5" fill="#378ADD">OPEN INTERNET RESEARCH</text>
+
+</svg>

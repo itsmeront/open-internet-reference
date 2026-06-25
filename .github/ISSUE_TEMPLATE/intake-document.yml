@@ -1,0 +1,79 @@
+name: Propose intake document
+description: Suggest a document or URL for OIR intake and source review
+title: "[Intake]: "
+labels: ["intake"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Proposed documents enter OIR as **candidates**. Editors create bibliography records and verify claims before they support knowledge pages.
+
+        Do not submit private contact information or confidential materials.
+  - type: input
+    id: title
+    attributes:
+      label: Document title
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL or citation
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Source type
+      options:
+        - Court case
+        - Statute or regulation
+        - RFC or technical standard
+        - Academic paper
+        - Official organization page
+        - Government publication
+        - Book or report
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: domain
+    attributes:
+      label: Primary domain
+      options:
+        - Legal
+        - Technical
+        - Constitutional / policy
+        - Organization / outreach
+        - Historical
+        - Case study
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Why should OIR track this?
+      description: Which topics, cases, statutes, or organizations would it support?
+    validations:
+      required: true
+  - type: textarea
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction or scope
+      description: For example U.S. federal, EU, global standard, or organization-specific
+  - type: textarea
+    id: reliability
+    attributes:
+      label: Reliability notes
+      description: Official source, reporter, commentary, internal draft, etc.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Proposer checklist
+      options:
+        - label: This is a public document or public URL
+          required: true
+        - label: I am not submitting private or personal contact information
+          required: true

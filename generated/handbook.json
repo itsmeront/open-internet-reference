@@ -1,0 +1,285 @@
+{
+  "description": "Generated linear handbook prototype from knowledge metadata.",
+  "record_count": 21,
+  "records": [
+    {
+      "id": "CASE-CARPENTER-V-US",
+      "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CARPENTER-V-US.md",
+      "sources": [
+        "SRC-CARPENTER-LII",
+        "SRC-CARPENTER-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
+      "title": "Carpenter v. United States",
+      "type": "case"
+    },
+    {
+      "id": "CASE-PERFECT10-V-CCBILL",
+      "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
+      "sources": [
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA \u00a7 512 safe harbor requirements for online service providers.",
+      "title": "Perfect 10, Inc. v. CCBill LLC",
+      "type": "case"
+    },
+    {
+      "id": "CASE-RENO-V-ACLU",
+      "path": "knowledge/legal/CASE-RENO-V-ACLU.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-RENO-V-ACLU.md",
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC",
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.",
+      "title": "Reno v. American Civil Liberties Union",
+      "type": "case"
+    },
+    {
+      "id": "CASE-VAN-BUREN-V-US",
+      "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md",
+      "sources": [
+        "SRC-VAN-BUREN-LII",
+        "SRC-VAN-BUREN-GOVINFO",
+        "SRC-USC-18-1030-GOVINFO"
+      ],
+      "status": "draft",
+      "summary": "Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.",
+      "title": "Van Buren v. United States",
+      "type": "case"
+    },
+    {
+      "id": "ORG-ACLU",
+      "path": "knowledge/organizations/ORG-ACLU.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-ACLU.md",
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-ACLU-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.",
+      "title": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-EFF",
+      "path": "knowledge/organizations/ORG-EFF.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-EFF.md",
+      "sources": [
+        "SRC-EFF-CONTACT",
+        "SRC-EFF-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.",
+      "title": "Electronic Frontier Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-SIGNAL",
+      "path": "knowledge/organizations/ORG-SIGNAL.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SIGNAL.md",
+      "sources": [
+        "SRC-SIGNAL-HOME",
+        "SRC-SIGNAL-DOCS",
+        "SRC-SIGNAL-X3DH",
+        "SRC-SIGNAL-DOUBLE-RATCHET"
+      ],
+      "status": "draft",
+      "summary": "Signal is documented in OIR from its official website as a nonprofit-associated private messaging service.",
+      "title": "Signal",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-TOR-PROJECT",
+      "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-TOR-PROJECT.md",
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.",
+      "title": "Tor Project",
+      "type": "organization"
+    },
+    {
+      "id": "PROTOCOL-DNS",
+      "path": "knowledge/technical/PROTOCOL-DNS.md",
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-DNS.md",
+      "sources": [
+        "SRC-RFC-1034"
+      ],
+      "status": "draft",
+      "summary": "Domain Name System (DNS) concepts and facilities are described in RFC 1034.",
+      "title": "Domain Name System",
+      "type": "protocol"
+    },
+    {
+      "id": "PROTOCOL-TCP",
+      "path": "knowledge/technical/PROTOCOL-TCP.md",
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-TCP.md",
+      "sources": [
+        "SRC-RFC-9293"
+      ],
+      "status": "draft",
+      "summary": "Transmission Control Protocol (TCP) is an internet transport protocol specified by RFC 9293.",
+      "title": "Transmission Control Protocol",
+      "type": "protocol"
+    },
+    {
+      "id": "PROTOCOL-TLS-13",
+      "path": "knowledge/technical/PROTOCOL-TLS-13.md",
+      "source_doc_path": "source-docs/knowledge/technical/PROTOCOL-TLS-13.md",
+      "sources": [
+        "SRC-RFC-8446"
+      ],
+      "status": "draft",
+      "summary": "Transport Layer Security (TLS) 1.3 is specified by RFC 8446.",
+      "title": "Transport Layer Security 1.3",
+      "type": "protocol"
+    },
+    {
+      "id": "STAT-CFAA-1030",
+      "path": "knowledge/legal/STAT-CFAA-1030.md",
+      "source_doc_path": "source-docs/knowledge/legal/STAT-CFAA-1030.md",
+      "sources": [
+        "SRC-USC-18-1030-LII",
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "status": "draft",
+      "summary": "18 U.S.C. \u00a7 1030 is a United States criminal statute concerning fraud and related activity in connection with computers.",
+      "title": "18 U.S.C. \u00a7 1030",
+      "type": "statute"
+    },
+    {
+      "id": "STAT-DMCA-512",
+      "path": "knowledge/legal/STAT-DMCA-512.md",
+      "source_doc_path": "source-docs/knowledge/legal/STAT-DMCA-512.md",
+      "sources": [
+        "SRC-USC-17-512-LII",
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "17 U.S.C. \u00a7 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.",
+      "title": "17 U.S.C. \u00a7 512",
+      "type": "statute"
+    },
+    {
+      "id": "TOPIC-CODE-AS-SPEECH",
+      "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
+      "sources": [
+        "SRC-RENO-V-ACLU-GOVINFO",
+        "SRC-RENO-V-ACLU-LOC",
+        "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "status": "draft",
+      "summary": "The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.",
+      "title": "Code as Speech",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-COMPUTER-FRAUD",
+      "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
+      "sources": [
+        "SRC-USC-18-1030-LII",
+        "SRC-USC-18-1030-GOVINFO",
+        "SRC-VAN-BUREN-LII"
+      ],
+      "status": "draft",
+      "summary": "Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. \u00a7 1030.",
+      "title": "Computer Fraud and Abuse",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-FIRST-AMENDMENT",
+      "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-US-CONST-AMEND-I-LII",
+        "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.",
+      "title": "First Amendment",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-FOURTH-AMENDMENT",
+      "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
+      "sources": [
+        "SRC-US-CONST-AMEND-IV-LII",
+        "SRC-CARPENTER-LII"
+      ],
+      "status": "draft",
+      "summary": "The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.",
+      "title": "Fourth Amendment",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-INTERMEDIARY-LIABILITY",
+      "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.",
+      "title": "Intermediary Liability",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-KADEMLIA",
+      "path": "knowledge/technical/TOPIC-KADEMLIA.md",
+      "source_doc_path": "source-docs/knowledge/technical/TOPIC-KADEMLIA.md",
+      "sources": [
+        "SRC-KADEMLIA-PAPER"
+      ],
+      "status": "draft",
+      "summary": "Kademlia is a peer-to-peer distributed hash table described in a 2002 paper by Petar Maymounkov and David Mazi\u00e8res.",
+      "title": "Kademlia",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-ONION-ROUTING",
+      "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
+      "source_doc_path": "source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md",
+      "sources": [
+        "SRC-TOR-PROJECT-HISTORY",
+        "SRC-TOR-DESIGN-PAPER"
+      ],
+      "status": "draft",
+      "summary": "Onion routing is a technique for anonymous communication over a network in which messages pass through multiple relays in layered encryption.",
+      "title": "Onion Routing",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-SAFE-HARBOR",
+      "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md",
+      "sources": [
+        "SRC-USC-17-512-LII",
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. \u00a7 512.",
+      "title": "Online Service Provider Safe Harbor",
+      "type": "topic"
+    }
+  ],
+  "schema_version": 1
+}

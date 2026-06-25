@@ -1,0 +1,227 @@
+{
+  "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
+  "record_count": 12,
+  "records": [
+    {
+      "id": "ORG-ACLU",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-ACLU.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-ACLU.md",
+      "sources": [
+        "SRC-ACLU-CONTACT",
+        "SRC-ACLU-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.",
+      "tags": [
+        "organization",
+        "civil-liberties",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-EFF",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-EFF.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-EFF.md",
+      "sources": [
+        "SRC-EFF-CONTACT",
+        "SRC-EFF-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-TOR-PROJECT",
+      "last_verified": "2026-06-19",
+      "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-TOR-PROJECT.md",
+      "sources": [
+        "SRC-TOR-PROJECT-CONTACT",
+        "SRC-TOR-PROJECT-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.",
+      "tags": [
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project",
+      "type": "organization"
+    },
+    {
+      "id": "SRC-ACLU-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-ACLU-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU contact page with public mailing address, phone numbers, affiliate guidance, and donor/member contact information.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "civil-liberties",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-ACLU-HISTORY",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-ACLU-HISTORY.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU history page describing the organization's founding context and civil liberties mission.",
+      "tags": [
+        "source",
+        "organization",
+        "civil-liberties",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union History Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Internal outreach contact list covering organizations, firms, academics, and policymakers potentially relevant to Axona-related legal or policy issues.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts",
+      "type": "source"
+    },
+    {
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Expanded internal outreach contact list with direct web links for organizations relevant to Axona-related legal and policy outreach.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts Expanded",
+      "type": "source"
+    },
+    {
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Markdown version of an internal outreach contact list covering organizations, firms, academics, and policymakers.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts Markdown",
+      "type": "source"
+    },
+    {
+      "id": "SRC-EFF-ABOUT",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-EFF-ABOUT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EFF-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF about page describing the organization's mission, history, and nonprofit status.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation About Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-EFF-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-EFF-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EFF-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF contact page with public legal assistance, general information, press, membership, and headquarters contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-TOR-PROJECT-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Tor Project contact page with support, community, security issue, organization, donor, and mailing contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-TOR-PROJECT-HISTORY",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Tor Project history page describing onion routing origins and the organization's nonprofit development.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project History Page",
+      "type": "source"
+    }
+  ],
+  "schema_version": 1
+}

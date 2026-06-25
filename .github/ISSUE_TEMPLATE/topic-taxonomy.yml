@@ -1,0 +1,57 @@
+name: Topic or taxonomy change
+description: Request a new topic, tag, merge, deprecation, or document linkage
+title: "[Topic/Taxonomy]: "
+labels: ["taxonomy"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for topic page lifecycle and taxonomy maintenance requests.
+
+        - **Topic pages** are durable records (`TOPIC-*`) with sources and relationships.
+        - **Tags** are classification labels in `TAXONOMY.md` and page front matter.
+
+        See `TAXONOMY.md`, `DATA_MODEL.md`, and `EDITORIAL_WORKFLOW.md`.
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      options:
+        - Add new topic page
+        - Add or rename tag
+        - Merge duplicate topics
+        - Deprecate topic or tag
+        - Link document(s) to topic
+        - Other taxonomy maintenance
+    validations:
+      required: true
+  - type: input
+    id: primary_id
+    attributes:
+      label: Primary ID or tag
+      description: Existing `TOPIC-*` / `SRC-*` ID or tag name, or proposed new identifier
+      placeholder: TOPIC-EXAMPLE or first-amendment
+    validations:
+      required: true
+  - type: input
+    id: secondary_id
+    attributes:
+      label: Secondary ID or tag (for merges)
+      description: ID or tag to merge into the primary entry, if applicable
+  - type: textarea
+    id: related_records
+    attributes:
+      label: Related documents or pages
+      description: List knowledge pages, bibliography IDs, or URLs that should be linked
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Why is this change needed? How should reviewers handle deprecation or redirects?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources
+      description: Required when adding topics, relationships, or factual claims

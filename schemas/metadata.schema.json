@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open-internet-reference.local/schemas/metadata.schema.json",
+  "title": "Open Internet Reference Markdown Metadata",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "type",
+    "status",
+    "summary",
+    "tags",
+    "sources",
+    "relationships",
+    "last_verified"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^(TOPIC|ORG|PERSON|ATT|JUDGE|CASE|COURT|STAT|REG|TECH|PROTOCOL|PAPER|BOOK|EVENT|SRC)-[A-Z0-9-]+$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "topic",
+        "organization",
+        "person",
+        "attorney",
+        "judge",
+        "court",
+        "case",
+        "statute",
+        "regulation",
+        "technology",
+        "protocol",
+        "academic_paper",
+        "book",
+        "historical_event",
+        "source"
+      ]
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "draft",
+        "needs_sources",
+        "in_review",
+        "verified",
+        "deprecated"
+      ]
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "subject",
+          "predicate",
+          "object",
+          "sources"
+        ],
+        "properties": {
+          "subject": {
+            "type": "string"
+          },
+          "predicate": {
+            "type": "string"
+          },
+          "object": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1
+          },
+          "notes": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "last_verified": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,40 @@
+---
+id: SRC-TOR-PROJECT-HISTORY
+title: Tor Project History Page
+type: source
+status: verified
+summary: Official Tor Project history page describing onion routing origins and the organization's nonprofit development.
+tags:
+  - source
+  - organization
+  - privacy
+  - open-source-software
+  - outreach
+sources: []
+relationships: []
+last_verified: "2026-06-19"
+---
+
+# Tor Project History Page
+
+## Bibliographic Metadata
+
+- Author or issuing body: The Tor Project, Inc.
+- Publication date:
+- Source type: Official organization page
+- URL or citation: https://www.torproject.org/about/history/
+- Archive URL:
+- Access date: 2026-06-19
+
+## Reliability Notes
+
+Official Tor Project history page. Technical and historical claims should be supplemented with primary research papers where needed.
+
+## Used For
+
+- `ORG-TOR-PROJECT`
+- `TOPIC-ONION-ROUTING`
+- Tor Project
+- Onion routing
+- Privacy organizations
+- Outreach verification

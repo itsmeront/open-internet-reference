@@ -1,0 +1,215 @@
+.oir-handbook,
+.oir-print-handbook {
+  margin-top: 1.5rem;
+}
+
+.oir-handbook h2,
+.oir-print-handbook h2 {
+  border-bottom: 2px solid rgba(63, 81, 181, 0.22);
+  color: #1a237e;
+  font-size: 1.85rem;
+  font-weight: 700;
+  line-height: 1.25;
+  margin-top: 2.75rem;
+  padding-bottom: 0.45rem;
+}
+
+.oir-handbook h2:first-child,
+.oir-print-handbook h2:first-child {
+  margin-top: 0;
+}
+
+.oir-handbook h3,
+.oir-print-handbook h3 {
+  color: #283593;
+  font-size: 1.45rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 0.45rem;
+  margin-top: 1.85rem;
+}
+
+.oir-handbook h4,
+.oir-print-handbook h4 {
+  color: #303f9f;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  margin-bottom: 0.35rem;
+  margin-top: 1.35rem;
+}
+
+.oir-handbook h3 + ul,
+.oir-handbook h4 + ul,
+.oir-print-handbook h3 + ul,
+.oir-print-handbook h4 + ul {
+  margin-top: 0.35rem;
+}
+
+.oir-handbook ul,
+.oir-print-handbook ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.oir-handbook li,
+.oir-print-handbook li {
+  margin: 0.2rem 0;
+}
+
+.oir-handbook hr,
+.oir-print-handbook hr {
+  border: 0;
+  border-top: 1px solid rgba(72, 86, 122, 0.14);
+  margin: 1.75rem 0;
+}
+
+.oir-handbook hr:last-child,
+.oir-print-handbook hr:last-child {
+  display: none;
+}
+
+.oir-print-cover {
+  margin: 0 0 2rem;
+}
+
+.oir-print-cover__frame {
+  align-items: center;
+  background:
+    radial-gradient(circle at 20% 10%, rgba(63, 81, 181, 0.12), transparent 18rem),
+    linear-gradient(180deg, rgba(248, 250, 252, 0.98), rgba(232, 234, 246, 0.98));
+  border: 1px solid rgba(63, 81, 181, 0.18);
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  min-height: 72vh;
+  padding: 3rem 2.5rem;
+  text-align: center;
+}
+
+.oir-print-cover__logo {
+  box-sizing: border-box;
+  height: auto;
+  margin-bottom: 0.5rem;
+  max-width: min(100%, 760px);
+  width: 100%;
+}
+
+.oir-print-cover__edition {
+  color: #3949ab;
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.oir-print-cover__motto {
+  color: #5c6bc0;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.oir-print-cover__meta {
+  display: grid;
+  gap: 0.75rem 1.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin: 1.5rem auto 0;
+  max-width: 52rem;
+  text-align: left;
+  width: 100%;
+}
+
+.oir-print-cover__meta div {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(63, 81, 181, 0.12);
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+}
+
+.oir-print-cover__meta dt {
+  color: #5c6bc0;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  margin: 0 0 0.25rem;
+  text-transform: uppercase;
+}
+
+.oir-print-cover__meta dd {
+  color: #1a237e;
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.oir-print-cover__note {
+  color: #455a64;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  margin: 1rem auto 0;
+  max-width: 42rem;
+}
+
+.oir-print-screen-note {
+  color: #455a64;
+}
+
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top,
+  .md-content__button,
+  .md-source-file {
+    display: none !important;
+  }
+
+  .md-main__inner,
+  .md-content,
+  .md-content__inner {
+    margin: 0 !important;
+    max-width: none !important;
+    padding: 0 !important;
+  }
+
+  .md-content__inner > h1,
+  .md-content__inner > .oir-print-screen-note {
+    display: none !important;
+  }
+
+  .oir-print-cover {
+    break-after: page;
+    margin: 0;
+    page-break-after: always;
+  }
+
+  .oir-print-cover__frame {
+    border: 0;
+    border-radius: 0;
+    min-height: 100vh;
+    padding: 1.5in 1in;
+  }
+
+  .oir-print-handbook a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .oir-print-handbook h2:not(:first-child) {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  .oir-print-handbook hr {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  @page {
+    margin: 0.75in;
+  }
+}

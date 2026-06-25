@@ -1,0 +1,1124 @@
+{
+  "description": "Generated bibliography source index.",
+  "records": [
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "American Civil Liberties Union",
+        "source type": "Official organization page",
+        "url or citation": "https://www.aclu.org/about/contact-us"
+      },
+      "id": "SRC-ACLU-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-ACLU-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU contact page with public mailing address, phone numbers, affiliate guidance, and donor/member contact information.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "civil-liberties",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union Contact Page",
+      "type": "source",
+      "used_for": [
+        "American Civil Liberties Union",
+        "Digital civil liberties organizations",
+        "Outreach contact verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "American Civil Liberties Union",
+        "source type": "Official organization page",
+        "url or citation": "https://www.aclu.org/about/aclu-history"
+      },
+      "id": "SRC-ACLU-HISTORY",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-ACLU-HISTORY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU history page describing the organization's founding context and civil liberties mission.",
+      "tags": [
+        "source",
+        "organization",
+        "civil-liberties",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "American Civil Liberties Union History Page",
+      "type": "source",
+      "used_for": [
+        "American Civil Liberties Union",
+        "Civil liberties organizations",
+        "Outreach verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "extracted title": "Axona Constitutional & Public Policy Reference Manual",
+        "extracted version": "1.0",
+        "publication date": "Unknown",
+        "repository file": "`Axona Constitutional & Public Policy Reference Manual.docx`",
+        "source type": "Internal reference manual draft"
+      },
+      "id": "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Internal reference manual draft about Axona, decentralized internet protocols, open source software, and related legal and policy context.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "research-debt"
+      ],
+      "title": "Axona Constitutional & Public Policy Reference Manual",
+      "type": "source",
+      "used_for": [
+        "Candidate topic discovery",
+        "Case-study framing",
+        "Research-debt identification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "extracted title": "Axona Legal & Public Policy Outreach Contacts",
+        "publication date": "Unknown",
+        "repository file": "`Axona_Legal_Outreach_Contacts.docx`",
+        "source type": "Internal outreach contact list"
+      },
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Internal outreach contact list covering organizations, firms, academics, and policymakers potentially relevant to Axona-related legal or policy issues.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts",
+      "type": "source",
+      "used_for": [
+        "Candidate contact discovery",
+        "Outreach research backlog",
+        "Organization and expert seed list"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "extracted title": "Axona Legal & Public Policy Outreach Contacts",
+        "publication date": "Unknown",
+        "repository file": "`Axona_Legal_Outreach_Contacts_Expanded.docx`",
+        "source type": "Internal outreach contact list"
+      },
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Expanded internal outreach contact list with direct web links for organizations relevant to Axona-related legal and policy outreach.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts Expanded",
+      "type": "source",
+      "used_for": [
+        "Candidate contact discovery",
+        "Outreach research backlog",
+        "Organization and expert seed list"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "publication date": "Unknown",
+        "repository file": "`Axona_Legal_Outreach_Contacts.md`",
+        "source type": "Internal outreach contact list"
+      },
+      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
+      "sources": [],
+      "status": "needs_sources",
+      "summary": "Markdown version of an internal outreach contact list covering organizations, firms, academics, and policymakers.",
+      "tags": [
+        "source",
+        "imported-source",
+        "axona",
+        "outreach",
+        "research-debt"
+      ],
+      "title": "Axona Legal & Public Policy Outreach Contacts Markdown",
+      "type": "source",
+      "used_for": [
+        "Candidate contact discovery",
+        "Outreach research backlog",
+        "Organization and expert seed list"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
+        "publication date": "2018",
+        "source type": "Court case",
+        "url or citation": "https://www.govinfo.gov/app/details/USREPORTS-585/USREPORTS-585-296"
+      },
+      "id": "SRC-CARPENTER-GOVINFO",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-CARPENTER-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo United States Reports record for Carpenter v. United States.",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CARPENTER-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`",
+        "Digital privacy",
+        "Cell-site location information"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; page hosted by Cornell Legal Information Institute",
+        "publication date": "2018",
+        "source type": "Court case",
+        "url or citation": "https://www.law.cornell.edu/supremecourt/text/16-402"
+      },
+      "id": "SRC-CARPENTER-LII",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-CARPENTER-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CARPENTER-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for the Supreme Court decision on Fourth Amendment protection for historical cell-site location records.",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CARPENTER-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`",
+        "Digital privacy",
+        "Cell-site location information"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "source type": "Official organization page",
+        "url or citation": "https://www.eff.org/about"
+      },
+      "id": "SRC-EFF-ABOUT",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-EFF-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EFF-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF about page describing the organization's mission, history, and nonprofit status.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-EFF`",
+        "Electronic Frontier Foundation",
+        "Digital civil liberties organizations",
+        "Outreach verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "source type": "Official organization page",
+        "url or citation": "https://www.eff.org/about/contact"
+      },
+      "id": "SRC-EFF-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-EFF-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EFF-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF contact page with public legal assistance, general information, press, membership, and headquarters contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Electronic Frontier Foundation Contact Page",
+      "type": "source",
+      "used_for": [
+        "Electronic Frontier Foundation",
+        "Digital civil liberties organizations",
+        "Outreach contact verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Petar Maymounkov and David Mazi\u00e8res",
+        "doi": "https://doi.org/10.1007/3-540-45748-8_5",
+        "publication date": "2002",
+        "source type": "Conference paper",
+        "url or citation": "https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia.pdf"
+      },
+      "id": "SRC-KADEMLIA-PAPER",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/academic/SRC-KADEMLIA-PAPER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Foundational 2002 conference paper by Petar Maymounkov and David Mazi\u00e8res describing the Kademlia distributed hash table.",
+      "tags": [
+        "source",
+        "academic-paper",
+        "peer-to-peer-networking",
+        "distributed-systems",
+        "distributed-hash-tables"
+      ],
+      "title": "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric",
+      "type": "source",
+      "used_for": [
+        "Kademlia",
+        "Distributed hash tables",
+        "Peer-to-peer networking",
+        "Distributed systems"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "publication date": "Unknown",
+        "repository file": "`OIR Bootstrap Prompt.txt`",
+        "source type": "Internal project prompt"
+      },
+      "id": "SRC-OIR-BOOTSTRAP-PROMPT",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Internal bootstrap prompt defining the initial OIR mission, principles, repository layout, knowledge model, and workflow.",
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ],
+      "title": "OIR Bootstrap Prompt",
+      "type": "source",
+      "used_for": [
+        "Repository foundation",
+        "Project charter alignment",
+        "Initial data model and workflow conventions"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "extracted title": "Open Internet Reference (OIR)",
+        "extracted version": "3.0 (Foundational Architecture)",
+        "publication date": "Unknown",
+        "repository file": "`Open Internet Reference Project Charter.docx`",
+        "source type": "Internal project charter document"
+      },
+      "id": "SRC-OIR-PROJECT-CHARTER-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Internal Word document containing OIR project charter, research standards, and technical architecture guidance.",
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ],
+      "title": "Open Internet Reference Project Charter",
+      "type": "source",
+      "used_for": [
+        "Project mission",
+        "Research standards",
+        "Technical architecture",
+        "Long-term governance conventions"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Project origin material",
+        "extracted title": "Open Internet Reference (OIR) ROADMAP.md",
+        "extracted version": "1.0",
+        "publication date": "Unknown",
+        "repository file": "`Open Internet Reference Roadmap.docx`",
+        "source type": "Internal roadmap document"
+      },
+      "id": "SRC-OIR-ROADMAP-DOCX",
+      "last_verified": null,
+      "path": "bibliography/imported/SRC-OIR-ROADMAP-DOCX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Internal Word document describing the OIR roadmap, milestone structure, and foundation-phase goals.",
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ],
+      "title": "Open Internet Reference Roadmap",
+      "type": "source",
+      "used_for": [
+        "Roadmap structure",
+        "Foundation milestones",
+        "Backlog planning"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "United States Court of Appeals for the Ninth Circuit; page hosted by Justia",
+        "publication date": "2007",
+        "source type": "Court case",
+        "url or citation": "https://law.justia.com/cases/federal/appellate-courts/ca9/488/1102/"
+      },
+      "id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Ninth Circuit decision addressing DMCA \u00a7 512 safe harbor eligibility and red flag knowledge for online service providers.",
+      "tags": [
+        "source",
+        "case-law",
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability"
+      ],
+      "title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)",
+      "type": "source",
+      "used_for": [
+        "`CASE-PERFECT10-V-CCBILL`",
+        "`TOPIC-SAFE-HARBOR`",
+        "`TOPIC-INTERMEDIARY-LIABILITY`",
+        "`STAT-DMCA-512`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
+        "publication date": "1997-06-26",
+        "source type": "Court case",
+        "url or citation": "https://www.govinfo.gov/app/details/USREPORTS-521/USREPORTS-521-844"
+      },
+      "id": "SRC-RENO-V-ACLU-GOVINFO",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo United States Reports record for Reno v. American Civil Liberties Union.",
+      "tags": [
+        "source",
+        "case-law",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`CASE-RENO-V-ACLU`",
+        "First Amendment",
+        "Internet speech",
+        "Communications Decency Act",
+        "Case law seed records"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Supreme Court of the United States; page hosted by Justia",
+        "publication date": "1997",
+        "source type": "Court case",
+        "url or citation": "https://supreme.justia.com/cases/federal/us/521/844/"
+      },
+      "id": "SRC-RENO-V-ACLU-JUSTIA",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "High-confidence public case page for the Supreme Court decision in Reno v. ACLU.",
+      "tags": [
+        "source",
+        "case-law",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)",
+      "type": "source",
+      "used_for": [
+        "`CASE-RENO-V-ACLU`",
+        "Internet speech",
+        "Digital rights",
+        "Case law seed records"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports hosted by the Library of Congress",
+        "publication date": "1997-06-26",
+        "source type": "Court case",
+        "url or citation": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep521/usrep521844/usrep521844.pdf"
+      },
+      "id": "SRC-RENO-V-ACLU-LOC",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-RENO-V-ACLU-LOC.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Library of Congress United States Reports PDF for Reno v. American Civil Liberties Union, including the official syllabus.",
+      "tags": [
+        "source",
+        "case-law",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)",
+      "type": "source",
+      "used_for": [
+        "`CASE-RENO-V-ACLU`",
+        "First Amendment",
+        "Internet speech",
+        "Communications Decency Act",
+        "Case law seed records"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "RFC Editor / Internet Engineering Task Force",
+        "publication date": "1987-11",
+        "source type": "RFC",
+        "url or citation": "https://www.rfc-editor.org/rfc/rfc1034.html"
+      },
+      "id": "SRC-RFC-1034",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/technical/SRC-RFC-1034.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-RFC-1034.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "RFC Editor publication describing Domain Name System concepts and facilities.",
+      "tags": [
+        "source",
+        "technical-standard",
+        "internet-architecture",
+        "network-protocols"
+      ],
+      "title": "RFC 1034: Domain Names - Concepts and Facilities",
+      "type": "source",
+      "used_for": [
+        "DNS",
+        "Internet architecture",
+        "Network protocols"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "RFC Editor / Internet Engineering Task Force",
+        "publication date": "2018-08",
+        "source type": "RFC",
+        "url or citation": "https://www.rfc-editor.org/rfc/rfc8446.html"
+      },
+      "id": "SRC-RFC-8446",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/technical/SRC-RFC-8446.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-RFC-8446.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "RFC Editor publication specifying TLS 1.3.",
+      "tags": [
+        "source",
+        "technical-standard",
+        "cryptography",
+        "privacy"
+      ],
+      "title": "RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3",
+      "type": "source",
+      "used_for": [
+        "TLS",
+        "Cryptography",
+        "Secure communications",
+        "Privacy-preserving systems"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "RFC Editor / Internet Engineering Task Force",
+        "publication date": "2022-08",
+        "source type": "RFC",
+        "url or citation": "https://www.rfc-editor.org/rfc/rfc9293.html"
+      },
+      "id": "SRC-RFC-9293",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/technical/SRC-RFC-9293.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-RFC-9293.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "RFC Editor publication specifying the Transmission Control Protocol.",
+      "tags": [
+        "source",
+        "technical-standard",
+        "internet-architecture",
+        "network-protocols"
+      ],
+      "title": "RFC 9293: Transmission Control Protocol (TCP)",
+      "type": "source",
+      "used_for": [
+        "TCP",
+        "Internet architecture",
+        "Network protocols"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Signal",
+        "source type": "Official technical documentation",
+        "url or citation": "https://signal.org/docs/"
+      },
+      "id": "SRC-SIGNAL-DOCS",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-SIGNAL-DOCS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Signal documentation page listing Signal Protocol specifications including X3DH, Double Ratchet, and related cryptographic protocols.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "secure-messaging",
+        "cryptography"
+      ],
+      "title": "Signal Protocol Documentation",
+      "type": "source",
+      "used_for": [
+        "`ORG-SIGNAL`",
+        "Signal Protocol",
+        "Secure messaging",
+        "Cryptographic protocol specifications"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Signal; Trevor Perrin (editor)",
+        "source type": "Technical specification",
+        "url or citation": "https://signal.org/docs/specifications/doubleratchet/doubleratchet.pdf"
+      },
+      "id": "SRC-SIGNAL-DOUBLE-RATCHET",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Signal specification for the Double Ratchet algorithm used to derive new message keys in secure messaging sessions.",
+      "tags": [
+        "source",
+        "technical",
+        "cryptography",
+        "secure-messaging",
+        "privacy"
+      ],
+      "title": "The Double Ratchet Algorithm",
+      "type": "source",
+      "used_for": [
+        "`ORG-SIGNAL`",
+        "Signal Protocol",
+        "Secure messaging",
+        "Double Ratchet algorithm"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "Signal",
+        "source type": "Official organization page",
+        "url or citation": "https://signal.org/"
+      },
+      "id": "SRC-SIGNAL-HOME",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-SIGNAL-HOME.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Signal website describing Signal's private messaging service, encryption, nonprofit status, and privacy positioning.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "secure-messaging"
+      ],
+      "title": "Signal Official Website",
+      "type": "source",
+      "used_for": [
+        "Signal",
+        "Secure messaging",
+        "Privacy organizations"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Signal; Moxie Marlinspike and Trevor Perrin (editors)",
+        "publication date": "2016-11-04",
+        "source type": "Technical specification",
+        "url or citation": "https://signal.org/docs/specifications/x3dh/x3dh.pdf"
+      },
+      "id": "SRC-SIGNAL-X3DH",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/technical/SRC-SIGNAL-X3DH.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Signal specification for the Extended Triple Diffie-Hellman key agreement protocol used in secure messaging.",
+      "tags": [
+        "source",
+        "technical",
+        "cryptography",
+        "secure-messaging",
+        "privacy"
+      ],
+      "title": "The X3DH Key Agreement Protocol",
+      "type": "source",
+      "used_for": [
+        "`ORG-SIGNAL`",
+        "Signal Protocol",
+        "Secure messaging",
+        "X3DH key agreement"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Roger Dingledine, Nick Mathewson, and Paul Syverson",
+        "source type": "Technical design paper",
+        "url or citation": "https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf"
+      },
+      "id": "SRC-TOR-DESIGN-PAPER",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/academic/SRC-TOR-DESIGN-PAPER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Canonical Tor design paper by Dingledine, Mathewson, and Syverson describing the second-generation onion routing network.",
+      "tags": [
+        "source",
+        "academic",
+        "privacy",
+        "onion-routing",
+        "open-source-software"
+      ],
+      "title": "Tor: The Second-Generation Onion Router",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-ONION-ROUTING`",
+        "`ORG-TOR-PROJECT`",
+        "Onion routing",
+        "Tor network design"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "The Tor Project",
+        "source type": "Official organization page",
+        "url or citation": "https://www.torproject.org/about/contact/"
+      },
+      "id": "SRC-TOR-PROJECT-CONTACT",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Tor Project contact page with support, community, security issue, organization, donor, and mailing contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project Contact Page",
+      "type": "source",
+      "used_for": [
+        "Tor Project",
+        "Privacy organizations",
+        "Open source organizations",
+        "Outreach contact verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "The Tor Project, Inc.",
+        "source type": "Official organization page",
+        "url or citation": "https://www.torproject.org/about/history/"
+      },
+      "id": "SRC-TOR-PROJECT-HISTORY",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Tor Project history page describing onion routing origins and the organization's nonprofit development.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Tor Project History Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-TOR-PROJECT`",
+        "`TOPIC-ONION-ROUTING`",
+        "Tor Project",
+        "Onion routing",
+        "Privacy organizations",
+        "Outreach verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Cornell Legal Information Institute",
+        "source type": "Legal reference page",
+        "url or citation": "https://www.law.cornell.edu/constitution/first_amendment"
+      },
+      "id": "SRC-US-CONST-AMEND-I-LII",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-US-CONST-AMEND-I-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for the First Amendment to the U.S. Constitution.",
+      "tags": [
+        "source",
+        "constitutional-law",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "U.S. Constitution First Amendment (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "First Amendment",
+        "Constitutional law seed topics",
+        "Internet speech and expression topics"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Cornell Legal Information Institute",
+        "source type": "Legal reference page",
+        "url or citation": "https://www.law.cornell.edu/constitution/fourth_amendment"
+      },
+      "id": "SRC-US-CONST-AMEND-IV-LII",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for the Fourth Amendment to the U.S. Constitution.",
+      "tags": [
+        "source",
+        "constitutional-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "U.S. Constitution Fourth Amendment (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-FOURTH-AMENDMENT`",
+        "Fourth Amendment",
+        "Constitutional law seed topics",
+        "Digital privacy topics"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "United States Code; page hosted by GovInfo",
+        "source type": "Statute",
+        "url or citation": "https://www.govinfo.gov/link/uscode/17/512"
+      },
+      "id": "SRC-USC-17-512-GOVINFO",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-USC-17-512-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo U.S. Code page for 17 U.S.C. section 512, the DMCA online service provider safe harbor provision.",
+      "tags": [
+        "source",
+        "statute",
+        "copyright",
+        "safe-harbor"
+      ],
+      "title": "17 U.S.C. \u00a7 512 (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`STAT-DMCA-512`",
+        "`TOPIC-SAFE-HARBOR`",
+        "`TOPIC-INTERMEDIARY-LIABILITY`",
+        "Copyright safe harbor",
+        "Intermediary liability"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "United States Code; page hosted by Cornell Legal Information Institute",
+        "source type": "Statute",
+        "url or citation": "https://www.law.cornell.edu/uscode/text/17/512"
+      },
+      "id": "SRC-USC-17-512-LII",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/legal/SRC-USC-17-512-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-17-512-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for 17 U.S.C. section 512, the copyright safe harbor statute.",
+      "tags": [
+        "source",
+        "statute",
+        "copyright",
+        "safe-harbor"
+      ],
+      "title": "17 U.S.C. \u00a7 512",
+      "type": "source",
+      "used_for": [
+        "Copyright",
+        "Safe harbor",
+        "Intermediary liability"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "United States Code; page hosted by GovInfo",
+        "source type": "Statute",
+        "url or citation": "https://www.govinfo.gov/link/uscode/18/1030"
+      },
+      "id": "SRC-USC-18-1030-GOVINFO",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-USC-18-1030-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo U.S. Code page for 18 U.S.C. section 1030, the Computer Fraud and Abuse Act provision.",
+      "tags": [
+        "source",
+        "statute",
+        "computer-crime"
+      ],
+      "title": "18 U.S.C. \u00a7 1030 (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`STAT-CFAA-1030`",
+        "`TOPIC-COMPUTER-FRAUD`",
+        "Computer crime",
+        "Computer Fraud and Abuse Act"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-17",
+        "author or issuing body": "United States Code; page hosted by Cornell Legal Information Institute",
+        "source type": "Statute",
+        "url or citation": "https://www.law.cornell.edu/uscode/text/18/1030"
+      },
+      "id": "SRC-USC-18-1030-LII",
+      "last_verified": "2026-06-17",
+      "path": "bibliography/legal/SRC-USC-18-1030-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-18-1030-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for 18 U.S.C. section 1030, the Computer Fraud and Abuse Act provision.",
+      "tags": [
+        "source",
+        "statute",
+        "computer-crime"
+      ],
+      "title": "18 U.S.C. \u00a7 1030",
+      "type": "source",
+      "used_for": [
+        "`ORG-SIGNAL`",
+        "`STAT-CFAA-1030`",
+        "`TOPIC-COMPUTER-FRAUD`",
+        "Computer crime",
+        "Computer Fraud and Abuse Act",
+        "Technology law"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
+        "publication date": "2021",
+        "source type": "Court case",
+        "url or citation": "https://www.govinfo.gov/app/details/USREPORTS-593/USREPORTS-593-374"
+      },
+      "id": "SRC-VAN-BUREN-GOVINFO",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-VAN-BUREN-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo United States Reports record for Van Buren v. United States.",
+      "tags": [
+        "source",
+        "case-law",
+        "computer-crime",
+        "technology-law"
+      ],
+      "title": "Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`CASE-VAN-BUREN-V-US`",
+        "`TOPIC-COMPUTER-FRAUD`",
+        "`STAT-CFAA-1030`",
+        "Computer Fraud and Abuse Act"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-19",
+        "author or issuing body": "Supreme Court of the United States; page hosted by Cornell Legal Information Institute",
+        "publication date": "2021",
+        "source type": "Court case",
+        "url or citation": "https://www.law.cornell.edu/supremecourt/text/19-783"
+      },
+      "id": "SRC-VAN-BUREN-LII",
+      "last_verified": "2026-06-19",
+      "path": "bibliography/legal/SRC-VAN-BUREN-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for the Supreme Court decision interpreting the CFAA phrase exceeds authorized access.",
+      "tags": [
+        "source",
+        "case-law",
+        "computer-crime",
+        "technology-law"
+      ],
+      "title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-VAN-BUREN-V-US`",
+        "`TOPIC-COMPUTER-FRAUD`",
+        "`STAT-CFAA-1030`",
+        "Computer Fraud and Abuse Act"
+      ]
+    }
+  ],
+  "schema_version": 1
+}

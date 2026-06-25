@@ -1,0 +1,130 @@
+.oir-relationship-graph {
+  border: 1px solid rgba(72, 86, 122, 0.18);
+  border-radius: 18px;
+  background:
+    radial-gradient(circle at 20% 10%, rgba(63, 81, 181, 0.10), transparent 32rem),
+    linear-gradient(180deg, rgba(248, 250, 252, 0.98), rgba(241, 245, 249, 0.98));
+  box-shadow: 0 18px 48px rgba(15, 23, 42, 0.10);
+  margin: 1.5rem 0;
+  overflow: hidden;
+  user-select: none;
+}
+
+.oir-relationship-graph__toolbar {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.78);
+  border-bottom: 1px solid rgba(72, 86, 122, 0.14);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: space-between;
+  padding: 0.75rem;
+}
+
+.oir-relationship-graph__toolbar-group {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.oir-relationship-graph__button {
+  background: #1f2a44;
+  border: 0;
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 0.45rem 0.8rem;
+  text-transform: uppercase;
+}
+
+.oir-relationship-graph__button:hover {
+  background: #31446f;
+}
+
+.oir-relationship-graph__hint {
+  color: #526074;
+  font-size: 0.78rem;
+}
+
+.oir-relationship-graph__viewport {
+  height: min(72vh, 760px);
+  min-height: 460px;
+  overflow-x: scroll;
+  overflow-y: auto;
+  touch-action: none;
+  user-select: none;
+}
+
+.oir-relationship-graph svg {
+  cursor: grab;
+  display: block;
+  touch-action: none;
+  user-select: none;
+}
+
+.oir-relationship-graph svg.is-panning {
+  cursor: grabbing;
+}
+
+.oir-graph-edge {
+  fill: none;
+  stroke: rgba(71, 85, 105, 0.42);
+  stroke-width: 2;
+}
+
+.oir-graph-edge-label {
+  fill: #475569;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.oir-graph-node rect {
+  fill: #ffffff;
+  stroke: rgba(30, 41, 59, 0.18);
+  stroke-width: 1.4;
+  filter: drop-shadow(0 8px 12px rgba(15, 23, 42, 0.12));
+}
+
+.oir-graph-node--source rect {
+  fill: #fff8eb;
+  stroke: rgba(180, 83, 9, 0.28);
+}
+
+.oir-graph-node--knowledge rect {
+  fill: #eef6ff;
+  stroke: rgba(37, 99, 235, 0.28);
+}
+
+.oir-graph-node:hover rect {
+  stroke: #1d4ed8;
+  stroke-width: 2.2;
+}
+
+.oir-graph-node text {
+  fill: #172033;
+  font-size: 13px;
+  pointer-events: none;
+  user-select: none;
+}
+
+.oir-graph-node__id {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.oir-graph-node__title {
+  fill: #475569;
+  font-size: 11px;
+}
+
+.oir-graph-lane-title {
+  fill: #334155;
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}

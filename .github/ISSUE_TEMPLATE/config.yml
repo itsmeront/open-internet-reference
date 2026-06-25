@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md
+    about: How to propose changes, run validation, and open pull requests
+  - name: Editorial workflow
+    url: https://github.com/itsmeront/open-internet-reference/blob/main/EDITORIAL_WORKFLOW.md
+    about: Roles, permissions, intake rules, and phased collaboration plan
