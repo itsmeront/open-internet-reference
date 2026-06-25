@@ -21,6 +21,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md`
 - Source ID: `SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD)
 
 !!! info "📎 Page Status: Needs additional sources"
 

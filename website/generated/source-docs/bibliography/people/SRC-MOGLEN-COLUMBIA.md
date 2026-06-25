@@ -19,6 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/people/SRC-MOGLEN-COLUMBIA.md`
 - Source ID: `SRC-MOGLEN-COLUMBIA`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/people/SRC-MOGLEN-COLUMBIA.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-MOGLEN-COLUMBIA)
 
 !!! info "✅ Page Status: Complete"
 

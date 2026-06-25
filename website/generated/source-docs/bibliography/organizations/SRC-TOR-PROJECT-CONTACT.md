@@ -21,6 +21,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md`
 - Source ID: `SRC-TOR-PROJECT-CONTACT`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-TOR-PROJECT-CONTACT)
 
 !!! info "✅ Page Status: Complete"
 

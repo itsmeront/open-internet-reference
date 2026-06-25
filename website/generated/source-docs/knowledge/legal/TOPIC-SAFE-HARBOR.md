@@ -43,6 +43,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/legal/TOPIC-SAFE-HARBOR.md`
 - Source ID: `TOPIC-SAFE-HARBOR`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/legal/TOPIC-SAFE-HARBOR.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+TOPIC-SAFE-HARBOR)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

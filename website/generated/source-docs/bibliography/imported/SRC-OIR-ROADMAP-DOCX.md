@@ -19,6 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md`
 - Source ID: `SRC-OIR-ROADMAP-DOCX`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-OIR-ROADMAP-DOCX)
 
 !!! info "🚧 Page Status: Early draft — needs sources and review"
 

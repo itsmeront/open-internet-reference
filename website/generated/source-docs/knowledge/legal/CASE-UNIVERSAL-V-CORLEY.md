@@ -36,6 +36,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md`
 - Source ID: `CASE-UNIVERSAL-V-CORLEY`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+CASE-UNIVERSAL-V-CORLEY)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

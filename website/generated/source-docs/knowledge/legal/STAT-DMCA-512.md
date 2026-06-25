@@ -47,6 +47,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/legal/STAT-DMCA-512.md`
 - Source ID: `STAT-DMCA-512`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/legal/STAT-DMCA-512.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+STAT-DMCA-512)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

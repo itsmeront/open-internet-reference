@@ -36,6 +36,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/legal/CASE-PACKINGHAM-V-NC.md`
 - Source ID: `CASE-PACKINGHAM-V-NC`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/legal/CASE-PACKINGHAM-V-NC.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+CASE-PACKINGHAM-V-NC)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

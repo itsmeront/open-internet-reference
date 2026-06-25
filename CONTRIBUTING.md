@@ -1,58 +1,102 @@
-# Contributing
+# Contributing to Open Internet Reference
 
-OIR is an evidence-first reference project. Contributions should improve accuracy, traceability, clarity, or maintainability.
+Thank you for helping build a comprehensive, independently verifiable knowledge base for digital rights and software freedom.
 
-## Contribution Rules
+## Ways to Contribute
 
-- Do not add unsourced factual claims.
-- Prefer primary sources.
-- Mark uncertainty explicitly.
-- Keep legal analysis separate from legal advice.
-- Keep commentary separate from verified facts.
-- Do not manually edit generated artifacts in `generated/`.
-- Run validation before submitting substantial changes.
+### 1. Suggest a Correction (no Git required)
 
-## New Knowledge Pages
+If you notice an error, outdated information, or broken link:
 
-When adding a knowledge page:
+- [Open a "Suggest an edit" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml) on GitHub
+- Describe what's wrong and what the correct information should be
+- Include sources for your correction if possible
 
-1. Start from `knowledge/_templates/knowledge-page.md`.
-2. Assign a durable identifier using `DATA_MODEL.md`.
-3. Add front matter.
-4. Add sources for significant claims.
-5. Add relationships only when evidence-backed.
-6. Record research debt for unresolved questions.
+### 2. Propose New Content (no Git required)
 
-## Development Setup
+To propose a new organization, lawyer, case, or topic:
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -e .[docs]
-python tools/validate_metadata.py
-mkdocs serve
+- [Open an "Intake proposal" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=intake-document.yml) on GitHub
+- Provide the document URL, type, relevance, and any provenance information
+- A research editor will review and create appropriate records
+
+### 3. Submit a Direct Edit (Git workflow)
+
+For contributors comfortable with Git:
+
+1. Fork the repository
+2. Create a branch: `git checkout -b your-change-description`
+3. Make your changes following the standards below
+4. Run validation: `python tools/validate_metadata.py`
+5. Submit a pull request
+
+### 4. AI-Assisted Contributions
+
+AI agents can contribute through the same workflows:
+
+- AI-generated content must be submitted as pull requests
+- AI commits must use a distinguishable Git author (e.g., `OIR-AI <ai@oir.example>`)
+- AI-generated content starts as `draft` status — never directly `verified`
+- AI content must include source references (not just training data claims)
+- Human review is required before any AI contribution is merged
+
+## Content Standards
+
+### Required for Knowledge Pages
+
+Every knowledge page must have:
+
+- YAML front matter with all required fields (see `DATA_MODEL.md`)
+- A valid ID with the correct prefix (e.g., `CASE-`, `ORG-`, `PERSON-`)
+- At least one source reference
+- Status set to `draft` for new content
+- A `## Research Debt` section listing anything you couldn't verify
+
+### Evidence Rules
+
+- Every significant factual claim must cite a source
+- Prefer primary sources (court opinions, official pages, RFCs)
+- Do not present AI-generated claims as verified facts
+- Mark uncertain information as research debt
+- See `RESEARCH_STANDARDS.md` for full guidelines
+
+### Validation
+
+Before submitting, run:
+
+```bash
+python tools/validate_metadata.py    # Check metadata
+python tools/validate_links.py       # Check local links
+python tools/generate_indexes.py     # Regenerate indexes
+mkdocs build --strict                # Build site
 ```
 
-## Review Expectations
+CI will run these checks automatically on your pull request.
 
-Review should check:
+## Review Process
 
-- Source quality
-- Citation accuracy
-- Neutrality
-- Metadata validity
-- Cross-link integrity
-- Clear separation of fact, analysis, commentary, and recommendations
+1. **Automated checks** — CI validates metadata, links, and site build
+2. **Domain review** — domain experts review content in their area (legal, technical, organizations)
+3. **Research verification** — research editors check sources before status changes
+4. **Merge** — approved PRs are merged to main; site regenerates automatically
 
-## Collaboration Without Direct Edit Access
+## What NOT to Submit
 
-You do not need write access to help improve OIR.
+- Confidential or non-public contact information
+- Unverified claims presented as facts
+- Content copied verbatim from copyrighted sources without fair use justification
+- Personal opinions not clearly labeled as commentary
+- Content that bypasses the review process
 
-- **Suggest an edit** → open a GitHub Issue using the *Suggest an edit* template (after the repository is published on GitHub).
-- **Propose intake** → use the *Propose intake document* issue template.
-- **Topic or taxonomy change** → use the *Topic or taxonomy change* issue template.
-- **Submit a fix** → open a pull request; the PR template lists validation checks.
+## Labels
 
-Roles, permissions, intake rules, and the phased plan for authenticated admin tooling are documented in `EDITORIAL_WORKFLOW.md`.
+| Label | Meaning |
+|---|---|
+| `ai-generated` | Content was created by an AI agent |
+| `needs-review` | Awaiting domain expert review |
+| `needs-sources` | Content needs better source references |
+| `research-debt` | Tracking unresolved verification work |
 
-Domain experts may receive merge rights on paths such as `knowledge/legal/` or `knowledge/technical/` via `.github/CODEOWNERS` once maintainers configure them.
+## Questions?
+
+See `EDITORIAL_WORKFLOW.md` for the full editorial process, or open a discussion issue.

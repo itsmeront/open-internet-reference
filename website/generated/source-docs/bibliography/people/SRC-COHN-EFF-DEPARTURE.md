@@ -19,6 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/people/SRC-COHN-EFF-DEPARTURE.md`
 - Source ID: `SRC-COHN-EFF-DEPARTURE`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/people/SRC-COHN-EFF-DEPARTURE.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-COHN-EFF-DEPARTURE)
 
 !!! info "✅ Page Status: Complete"
 

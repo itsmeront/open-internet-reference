@@ -21,6 +21,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-ACLU-HISTORY.md`
 - Source ID: `SRC-ACLU-HISTORY`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-ACLU-HISTORY.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-ACLU-HISTORY)
 
 !!! info "✅ Page Status: Complete"
 

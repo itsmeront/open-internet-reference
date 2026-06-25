@@ -19,6 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`
 - Source ID: `SRC-OIR-BOOTSTRAP-PROMPT`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-OIR-BOOTSTRAP-PROMPT)
 
 !!! info "🚧 Page Status: Early draft — needs sources and review"
 

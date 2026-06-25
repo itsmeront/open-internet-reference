@@ -24,6 +24,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/technical/PROTOCOL-DNS.md`
 - Source ID: `PROTOCOL-DNS`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/technical/PROTOCOL-DNS.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PROTOCOL-DNS)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

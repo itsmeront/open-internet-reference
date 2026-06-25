@@ -41,6 +41,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/legal/STAT-CFAA-1030.md`
 - Source ID: `STAT-CFAA-1030`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/legal/STAT-CFAA-1030.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+STAT-CFAA-1030)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

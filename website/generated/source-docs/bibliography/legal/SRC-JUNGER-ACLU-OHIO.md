@@ -21,6 +21,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/legal/SRC-JUNGER-ACLU-OHIO.md`
 - Source ID: `SRC-JUNGER-ACLU-OHIO`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-JUNGER-ACLU-OHIO)
 
 !!! info "✅ Page Status: Complete"
 

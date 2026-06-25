@@ -37,6 +37,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/technical/TOPIC-ONION-ROUTING.md`
 - Source ID: `TOPIC-ONION-ROUTING`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/technical/TOPIC-ONION-ROUTING.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+TOPIC-ONION-ROUTING)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

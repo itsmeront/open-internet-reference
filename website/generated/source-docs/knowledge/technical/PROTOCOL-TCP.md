@@ -24,6 +24,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/technical/PROTOCOL-TCP.md`
 - Source ID: `PROTOCOL-TCP`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/technical/PROTOCOL-TCP.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PROTOCOL-TCP)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

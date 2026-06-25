@@ -22,6 +22,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/legal/SRC-CARPENTER-GOVINFO.md`
 - Source ID: `SRC-CARPENTER-GOVINFO`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/legal/SRC-CARPENTER-GOVINFO.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-CARPENTER-GOVINFO)
 
 !!! info "✅ Page Status: Complete"
 

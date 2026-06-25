@@ -42,6 +42,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/people/PERSON-EBEN-MOGLEN.md`
 - Source ID: `PERSON-EBEN-MOGLEN`
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/people/PERSON-EBEN-MOGLEN.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PERSON-EBEN-MOGLEN)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
