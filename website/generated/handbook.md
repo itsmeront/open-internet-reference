@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-06-25 | **Records:** 39 | **Sources referenced:** 58
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-06-25 | **Records:** 39 | **Sources referenced:** 61
 
 <div class="oir-handbook" markdown="1">
 
@@ -455,7 +455,7 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 #### [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): Cindy Cohn { #PERSON-CINDY-COHN }
 
 - Status: `draft`
-- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md), [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md), [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md), [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md), [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
@@ -499,7 +499,7 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 #### [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
 - Status: `draft`
-- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
 
@@ -744,6 +744,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md): American Civil Liberties Union Contact Page (`verified`)
 - [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md): American Civil Liberties Union History Page (`verified`)
 - [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md): Bernstein v. US Dept. of Justice EFF Case Page (`verified`)
+- [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md): EFF at 25 - Remembering the Case that Established Code as Speech (`verified`)
 - [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`verified`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
@@ -751,6 +752,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md): Center for Democracy and Technology Who We Are Page (`verified`)
 - [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography (`verified`)
 - [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
+- [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md): FOSS Force - Cohn Returns to the Courtroom (`verified`)
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
 - [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page (`verified`)
@@ -759,6 +761,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography (`verified`)
 - [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page (`verified`)
 - [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md): Institute for Justice First Amendment Practice Area (`verified`)
+- [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md): EFF Jewel v. NSA Case Page - Supreme Court Rejection (`verified`)
 - [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md): Junger v. Daley ACLU Ohio Case Page (`verified`)
 - [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md): Junger v. Daley Opinion Text (CMU) (`verified`)
 - [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric (`verified`)

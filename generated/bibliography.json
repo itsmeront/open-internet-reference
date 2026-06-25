@@ -221,6 +221,37 @@
       "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "2015-04-20",
+        "source type": "Organizational retrospective article",
+        "url": "https://www.eff.org/deeplinks/2015/04/remembering-case-established-code-speech"
+      },
+      "id": "SRC-BERNSTEIN-EFF-25",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-BERNSTEIN-EFF-25.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EFF retrospective article on the significance of Bernstein v. DOJ in establishing code as speech and changing encryption export regulations.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "cryptography",
+        "speech-and-code"
+      ],
+      "title": "EFF at 25 - Remembering the Case that Established Code as Speech",
+      "type": "source",
+      "used_for": [
+        "`CASE-BERNSTEIN-V-DOJ`",
+        "`PERSON-CINDY-COHN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
         "author or issuing body": "United States Court of Appeals for the Ninth Circuit",
         "publication date": "1999-05-06",
         "source type": "Federal appellate court opinion",
@@ -421,6 +452,34 @@
         "digital-rights"
       ],
       "title": "EFF Press Release - Cindy Cohn Stepping Down",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CINDY-COHN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "FOSS Force",
+        "publication date": "2026-06-01",
+        "source type": "Technology news article",
+        "url": "https://fossforce.com/2026/06/longtime-ally-nicole-ozer-becomes-effs-executive-director-as-cohn-returns-to-the-courtroom/"
+      },
+      "id": "SRC-COHN-FOSSFORCE",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-COHN-FOSSFORCE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation after departing as EFF Executive Director.",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
+      ],
+      "title": "FOSS Force - Cohn Returns to the Courtroom",
       "type": "source",
       "used_for": [
         "`PERSON-CINDY-COHN`"
@@ -653,6 +712,37 @@
       "type": "source",
       "used_for": [
         "`ORG-INSTITUTE-FOR-JUSTICE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "2022-06-13",
+        "source type": "Organizational case documentation",
+        "url": "https://www.eff.org/deeplinks/2022/06/effs-flagship-jewel-v-nsa-dragnet-spying-case-rejected-supreme-court"
+      },
+      "id": "SRC-JEWEL-V-NSA-EFF",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-JEWEL-V-NSA-EFF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, ending the flagship mass surveillance challenge without a ruling on the merits.",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "surveillance",
+        "fourth-amendment"
+      ],
+      "title": "EFF Jewel v. NSA Case Page - Supreme Court Rejection",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CINDY-COHN`",
+        "`CASE-BERNSTEIN-V-DOJ`"
       ]
     },
     {

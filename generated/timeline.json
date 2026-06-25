@@ -65,6 +65,13 @@
       "record_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)"
     },
     {
+      "date": "2015-04-20",
+      "description": "Publication date for EFF at 25 - Remembering the Case that Established Code as Speech.",
+      "event_type": "publication",
+      "record_id": "SRC-BERNSTEIN-EFF-25",
+      "record_title": "EFF at 25 - Remembering the Case that Established Code as Speech"
+    },
+    {
       "date": "2016",
       "description": "Publication date for Knight First Amendment Institute About Page.",
       "event_type": "publication",
@@ -135,11 +142,25 @@
       "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)"
     },
     {
+      "date": "2022-06-13",
+      "description": "Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.",
+      "event_type": "publication",
+      "record_id": "SRC-JEWEL-V-NSA-EFF",
+      "record_title": "EFF Jewel v. NSA Case Page - Supreme Court Rejection"
+    },
+    {
       "date": "2022-08",
       "description": "Publication date for RFC 9293: Transmission Control Protocol (TCP).",
       "event_type": "publication",
       "record_id": "SRC-RFC-9293",
       "record_title": "RFC 9293: Transmission Control Protocol (TCP)"
+    },
+    {
+      "date": "2026-06-01",
+      "description": "Publication date for FOSS Force - Cohn Returns to the Courtroom.",
+      "event_type": "publication",
+      "record_id": "SRC-COHN-FOSSFORCE",
+      "record_title": "FOSS Force - Cohn Returns to the Courtroom"
     },
     {
       "date": "2026-06-10",
@@ -633,6 +654,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for EFF at 25 - Remembering the Case that Established Code as Speech.",
+      "event_type": "verification",
+      "record_id": "SRC-BERNSTEIN-EFF-25",
+      "record_title": "EFF at 25 - Remembering the Case that Established Code as Speech"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).",
       "event_type": "verification",
       "record_id": "SRC-BERNSTEIN-JUSTIA",
@@ -665,6 +693,13 @@
       "event_type": "verification",
       "record_id": "SRC-COHN-EFF-DEPARTURE",
       "record_title": "EFF Press Release - Cindy Cohn Stepping Down"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for FOSS Force - Cohn Returns to the Courtroom.",
+      "event_type": "verification",
+      "record_id": "SRC-COHN-FOSSFORCE",
+      "record_title": "FOSS Force - Cohn Returns to the Courtroom"
     },
     {
       "date": "2026-06-25",
@@ -707,6 +742,13 @@
       "event_type": "verification",
       "record_id": "SRC-IJ-FIRST-AMENDMENT",
       "record_title": "Institute for Justice First Amendment Practice Area"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.",
+      "event_type": "verification",
+      "record_id": "SRC-JEWEL-V-NSA-EFF",
+      "record_title": "EFF Jewel v. NSA Case Page - Supreme Court Rejection"
     },
     {
       "date": "2026-06-25",

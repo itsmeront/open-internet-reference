@@ -80,6 +80,46 @@
       ]
     },
     {
+      "source_id": "SRC-BERNSTEIN-EFF-25",
+      "source_title": "EFF at 25 - Remembering the Case that Established Code as Speech",
+      "usages": [
+        {
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-EFF-25",
+          "predicate": "cites",
+          "record_id": "CASE-BERNSTEIN-V-DOJ",
+          "record_title": "Bernstein v. United States Department of Justice",
+          "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "argued",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-EFF-25",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BERNSTEIN-JUSTIA",
       "source_title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)",
       "usages": [
@@ -249,6 +289,25 @@
         },
         {
           "object": "SRC-COHN-EFF-DEPARTURE",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-COHN-FOSSFORCE",
+      "source_title": "FOSS Force - Cohn Returns to the Courtroom",
+      "usages": [
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-COHN-FOSSFORCE",
           "predicate": "cites",
           "record_id": "PERSON-CINDY-COHN",
           "record_title": "Cindy Cohn",
@@ -437,6 +496,25 @@
           "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
           "record_title": "Institute for Justice",
           "subject": "ORG-INSTITUTE-FOR-JUSTICE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-JEWEL-V-NSA-EFF",
+      "source_title": "EFF Jewel v. NSA Case Page - Supreme Court Rejection",
+      "usages": [
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JEWEL-V-NSA-EFF",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
           "usage": "relationship_source"
         }
       ]

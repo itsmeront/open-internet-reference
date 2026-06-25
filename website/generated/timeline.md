@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 139
+Event count: 145
 
 ## 1987-11
 
@@ -37,6 +37,10 @@ Event count: 139
 
 - `publication`: [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md) - Publication date for Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).
 
+## 2015-04-20
+
+- `publication`: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md) - Publication date for EFF at 25 - Remembering the Case that Established Code as Speech.
+
 ## 2016
 
 - `publication`: [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md) - Publication date for Knight First Amendment Institute About Page.
@@ -65,9 +69,17 @@ Event count: 139
 - `publication`: [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md) - Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).
 - `publication`: [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md) - Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
 
+## 2022-06-13
+
+- `publication`: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md) - Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.
+
 ## 2022-08
 
 - `publication`: [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md) - Publication date for RFC 9293: Transmission Control Protocol (TCP).
+
+## 2026-06-01
+
+- `publication`: [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md) - Publication date for FOSS Force - Cohn Returns to the Courtroom.
 
 ## 2026-06-10
 
@@ -150,17 +162,20 @@ Event count: 139
 - `verification`: [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) - Last verified date for Lawrence Lessig.
 - `verification`: [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) - Last verified date for Mitch Stoltz.
 - `verification`: [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md) - Last verified date for Bernstein v. US Dept. of Justice EFF Case Page.
+- `verification`: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md) - Last verified date for EFF at 25 - Remembering the Case that Established Code as Speech.
 - `verification`: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md) - Last verified date for Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
 - `verification`: [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md) - Last verified date for Center for Democracy and Technology About Page.
 - `verification`: [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md) - Last verified date for Center for Democracy and Technology Who We Are Page.
 - `verification`: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md) - Last verified date for Cindy Cohn EFF Staff Biography.
 - `verification`: [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md) - Last verified date for EFF Press Release - Cindy Cohn Stepping Down.
+- `verification`: [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md) - Last verified date for FOSS Force - Cohn Returns to the Courtroom.
 - `verification`: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md) - Last verified date for Universal City Studios v. Corley Opinion Text (Open Casebook).
 - `verification`: [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md) - Last verified date for Free Software Foundation About Page.
 - `verification`: [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md) - Last verified date for Free Software Foundation Press Information.
 - `verification`: [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md) - Last verified date for Jennifer Granick ACLU Staff Biography.
 - `verification`: [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md) - Last verified date for Institute for Justice About Us Page.
 - `verification`: [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md) - Last verified date for Institute for Justice First Amendment Practice Area.
+- `verification`: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md) - Last verified date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.
 - `verification`: [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md) - Last verified date for Junger v. Daley ACLU Ohio Case Page.
 - `verification`: [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md) - Last verified date for Junger v. Daley Opinion Text (CMU).
 - `verification`: [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md) - Last verified date for Knight First Amendment Institute About Page.

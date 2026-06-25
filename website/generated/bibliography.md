@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 65
+Record count: 68
 
 ## `SRC-ACLU-CONTACT`: American Civil Liberties Union Contact Page { #SRC-ACLU-CONTACT }
 
@@ -88,6 +88,19 @@ EFF case page documenting the history and significance of Bernstein v. DOJ.
 ### Cited By
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 
+## `SRC-BERNSTEIN-EFF-25`: EFF at 25 - Remembering the Case that Established Code as Speech { #SRC-BERNSTEIN-EFF-25 }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-BERNSTEIN-EFF-25.md`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+- Tags: source, case, first-amendment, cryptography, speech-and-code
+
+EFF retrospective article on the significance of Bernstein v. DOJ in establishing code as speech and changing encryption export regulations.
+
+### Cited By
+- [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+
 ## `SRC-BERNSTEIN-JUSTIA`: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) { #SRC-BERNSTEIN-JUSTIA }
 
 - Type: `source`
@@ -169,6 +182,18 @@ Official EFF biography page for Cindy Cohn documenting her role and career histo
 - Tags: source, attorney, digital-rights
 
 EFF press release announcing Cindy Cohn's departure as Executive Director after 25 years with the organization.
+
+### Cited By
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+
+## `SRC-COHN-FOSSFORCE`: FOSS Force - Cohn Returns to the Courtroom { #SRC-COHN-FOSSFORCE }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-COHN-FOSSFORCE.md`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+- Tags: source, attorney, digital-rights
+
+FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation after departing as EFF Executive Director.
 
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
@@ -268,6 +293,18 @@ Official First Amendment issues page of the Institute for Justice describing its
 
 ### Cited By
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+
+## `SRC-JEWEL-V-NSA-EFF`: EFF Jewel v. NSA Case Page - Supreme Court Rejection { #SRC-JEWEL-V-NSA-EFF }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-JEWEL-V-NSA-EFF.md`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
+- Tags: source, case, privacy, surveillance, fourth-amendment
+
+EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, ending the flagship mass surveillance challenge without a ruling on the merits.
+
+### Cited By
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 
 ## `SRC-JUNGER-ACLU-OHIO`: Junger v. Daley ACLU Ohio Case Page { #SRC-JUNGER-ACLU-OHIO }
 

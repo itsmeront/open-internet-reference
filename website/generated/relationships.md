@@ -2,12 +2,17 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 111
+Edge count: 116
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
 - Declared in: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Sources: [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+
+## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+
+- Declared in: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
@@ -304,6 +309,16 @@ Edge count: 111
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 
+## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `argued` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+- Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+
+## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+
+- Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+
 ## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
@@ -313,6 +328,16 @@ Edge count: 111
 
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Sources: [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+
+## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+
+- Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Sources: [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+
+## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
+
+- Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Sources: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
 ## [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
