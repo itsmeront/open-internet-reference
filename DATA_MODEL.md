@@ -33,6 +33,7 @@ Use uppercase identifiers with stable prefixes:
 - `BOOK-` book
 - `EVENT-` historical event
 - `SRC-` source record
+- `CONTACT-` outreach contact record
 
 ## Required Front Matter
 

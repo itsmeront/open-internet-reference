@@ -1,0 +1,35 @@
+---
+id: SRC-PACKINGHAM-JUSTIA
+title: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)
+type: source
+status: verified
+summary: Justia reproduction of the Supreme Court opinion in Packingham v. North Carolina.
+tags:
+  - source
+  - case
+  - first-amendment
+  - internet-governance
+  - digital-rights
+sources: []
+relationships: []
+last_verified: "2026-06-25"
+---
+
+# Packingham v. North Carolina (Justia)
+
+## Bibliographic Metadata
+
+- Author or issuing body: Supreme Court of the United States
+- Publication date: 2017-06-19
+- Source type: Supreme Court opinion
+- URL: https://supreme.justia.com/cases/federal/us/582/15-1194
+- Archive URL: None recorded
+- Access date: 2026-06-25
+
+## Reliability Notes
+
+Justia reproduction of the Supreme Court opinion. Provides full text of the decision in accessible format.
+
+## Used For
+
+- `CASE-PACKINGHAM-V-NC`
