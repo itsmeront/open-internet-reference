@@ -4,8 +4,9 @@ Reports broken, redirected, or inaccessible URLs found in bibliography
 source records. Designed to be run periodically to detect link rot.
 
 Usage:
-    python tools/check_urls.py          # Check all source records
-    python tools/check_urls.py --quiet  # Only show problems
+    python tools/check_urls.py              # Check all primary URLs
+    python tools/check_urls.py --quiet      # Only show problems
+    python tools/check_urls.py --archives   # Also check archive URLs
 """
 
 from __future__ import annotations
@@ -17,6 +18,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 from urllib.error import HTTPError, URLError
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 
 try:
@@ -28,11 +30,18 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parents[1]
 BIBLIOGRAPHY_DIR = ROOT / "bibliography"
-URL_PATTERN = re.compile(r"https?://[^\s>)\]\"']+")
-METADATA_URL_PATTERN = re.compile(r"^-\s+(?:URL|Archive URL|Access date):\s*(https?://\S+)", re.IGNORECASE)
+PRIMARY_URL_PATTERN = re.compile(r"^-\s+URL:\s*(https?://\S+)", re.IGNORECASE)
+ARCHIVE_URL_PATTERN = re.compile(r"^-\s+Archive URL:\s*(https?://\S+)", re.IGNORECASE)
 USER_AGENT = "OIR-LinkChecker/1.0 (Open Internet Reference; link verification)"
 TIMEOUT = 15  # seconds per request
-DELAY = 1.0  # seconds between requests to avoid rate limiting
+DEFAULT_DELAY = 1.0  # seconds between requests to avoid rate limiting
+MAX_RETRIES = 2  # number of retries on 429
+
+# Per-domain delay overrides (seconds) for rate-limited or sensitive sites
+DOMAIN_DELAYS: dict[str, float] = {
+    "web.archive.org": 5.0,
+    "archive.org": 5.0,
+}
 
 # Sites known to block automated requests (403 from these is expected)
 BOT_BLOCKING_DOMAINS = {
@@ -44,13 +53,19 @@ BOT_BLOCKING_DOMAINS = {
     "opencasebook.org",
 }
 
+# Archive domains — skipped by default, checked with --archives flag
+ARCHIVE_DOMAINS = {
+    "web.archive.org",
+    "archive.org",
+}
+
 
 @dataclass
 class URLCheckResult:
     path: Path
     record_id: str
     url: str
-    status: str  # "ok", "broken", "redirect", "timeout", "error"
+    status: str  # "ok", "broken", "redirect", "timeout", "error", "rate_limited", "skipped"
     status_code: int | None = None
     detail: str = ""
 
@@ -81,9 +96,15 @@ def load_front_matter(path: Path) -> dict[str, Any] | None:
     return metadata
 
 
-def extract_urls(path: Path) -> list[str]:
-    """Extract all URLs from a source record's bibliographic metadata section."""
-    urls: list[str] = []
+@dataclass
+class ExtractedURL:
+    url: str
+    is_archive: bool
+
+
+def extract_urls(path: Path) -> list[ExtractedURL]:
+    """Extract URLs from a source record's bibliographic metadata section."""
+    urls: list[ExtractedURL] = []
     text = path.read_text(encoding="utf-8")
     in_metadata = False
 
@@ -92,15 +113,42 @@ def extract_urls(path: Path) -> list[str]:
             in_metadata = line.strip().lower() == "## bibliographic metadata"
             continue
         if in_metadata:
-            match = METADATA_URL_PATTERN.match(line)
+            match = PRIMARY_URL_PATTERN.match(line)
             if match:
-                urls.append(match.group(1).rstrip(".,:;"))
+                urls.append(ExtractedURL(url=match.group(1).rstrip(".,:;"), is_archive=False))
+                continue
+            match = ARCHIVE_URL_PATTERN.match(line)
+            if match:
+                url_value = match.group(1).rstrip(".,:;")
+                if url_value.lower() not in ("none", "none recorded"):
+                    urls.append(ExtractedURL(url=url_value, is_archive=True))
 
     return urls
 
 
-def check_url(url: str) -> URLCheckResult:
-    """Check if a URL is accessible. Returns status information."""
+def delay_for_domain(url: str) -> float:
+    """Return the appropriate delay for a given URL's domain."""
+    domain = urlparse(url).netloc
+    for known_domain, delay in DOMAIN_DELAYS.items():
+        if domain.endswith(known_domain):
+            return delay
+    return DEFAULT_DELAY
+
+
+def is_archive_url(url: str) -> bool:
+    """Check if URL belongs to an archive domain."""
+    domain = urlparse(url).netloc
+    return any(domain.endswith(d) for d in ARCHIVE_DOMAINS)
+
+
+def is_bot_blocked_domain(url: str) -> bool:
+    """Check if URL belongs to a known bot-blocking domain."""
+    domain = urlparse(url).netloc
+    return any(domain.endswith(d) for d in BOT_BLOCKING_DOMAINS)
+
+
+def check_url(url: str, retries: int = MAX_RETRIES) -> URLCheckResult:
+    """Check if a URL is accessible. Handles retries on 429."""
     request = Request(url, method="HEAD")
     request.add_header("User-Agent", USER_AGENT)
 
@@ -126,9 +174,25 @@ def check_url(url: str) -> URLCheckResult:
             status_code=code,
         )
     except HTTPError as e:
+        # Handle 429 Too Many Requests with retry
+        if e.code == 429:
+            if retries > 0:
+                retry_after = _parse_retry_after(e)
+                wait_time = retry_after if retry_after else 30.0
+                print(f"    ⏳ Rate limited (429). Waiting {wait_time:.0f}s before retry...")
+                time.sleep(wait_time)
+                return check_url(url, retries - 1)
+            return URLCheckResult(
+                path=Path(),
+                record_id="",
+                url=url,
+                status="rate_limited",
+                status_code=429,
+                detail="Rate limited (429) after retries exhausted",
+            )
         # Some servers reject HEAD, try GET
         if e.code == 405:
-            return _check_url_get(url)
+            return _check_url_get(url, retries)
         return URLCheckResult(
             path=Path(),
             record_id="",
@@ -163,7 +227,23 @@ def check_url(url: str) -> URLCheckResult:
         )
 
 
-def _check_url_get(url: str) -> URLCheckResult:
+def _parse_retry_after(error: HTTPError) -> float | None:
+    """Parse Retry-After header from a 429 response."""
+    try:
+        retry_header = error.headers.get("Retry-After")
+        if retry_header is None:
+            return None
+        # Retry-After can be seconds (integer) or an HTTP date
+        try:
+            return float(retry_header)
+        except ValueError:
+            # Could be an HTTP date; default to 30 seconds
+            return 30.0
+    except Exception:
+        return None
+
+
+def _check_url_get(url: str, retries: int = MAX_RETRIES) -> URLCheckResult:
     """Fallback GET request for servers that reject HEAD."""
     request = Request(url)
     request.add_header("User-Agent", USER_AGENT)
@@ -179,6 +259,21 @@ def _check_url_get(url: str) -> URLCheckResult:
             status_code=code,
         )
     except HTTPError as e:
+        if e.code == 429:
+            if retries > 0:
+                retry_after = _parse_retry_after(e)
+                wait_time = retry_after if retry_after else 30.0
+                print(f"    ⏳ Rate limited (429). Waiting {wait_time:.0f}s before retry...")
+                time.sleep(wait_time)
+                return _check_url_get(url, retries - 1)
+            return URLCheckResult(
+                path=Path(),
+                record_id="",
+                url=url,
+                status="rate_limited",
+                status_code=429,
+                detail="Rate limited (429) after retries exhausted",
+            )
         return URLCheckResult(
             path=Path(),
             record_id="",
@@ -199,6 +294,7 @@ def _check_url_get(url: str) -> URLCheckResult:
 
 def main() -> int:
     quiet = "--quiet" in sys.argv or "-q" in sys.argv
+    check_archives = "--archives" in sys.argv
     source_files = iter_source_records()
 
     if not source_files:
@@ -207,9 +303,15 @@ def main() -> int:
 
     results: list[URLCheckResult] = []
     checked = 0
+    skipped = 0
     problems = 0
+    bot_blocked = 0
+    rate_limited = 0
 
-    print(f"Checking URLs in {len(source_files)} source records...\n")
+    print(f"Checking URLs in {len(source_files)} source records...")
+    if not check_archives:
+        print("  (Skipping archive URLs — use --archives to include them)")
+    print()
 
     for path in source_files:
         metadata = load_front_matter(path)
@@ -217,10 +319,22 @@ def main() -> int:
             continue
 
         record_id = metadata.get("id", path.stem)
-        urls = extract_urls(path)
+        extracted = extract_urls(path)
 
-        for url in urls:
-            time.sleep(DELAY)
+        for item in extracted:
+            url = item.url
+
+            # Skip archive URLs unless --archives flag is set
+            if item.is_archive and not check_archives:
+                skipped += 1
+                if not quiet:
+                    print(f"  ⊘ {record_id}: {url} (archive — skipped)")
+                continue
+
+            # Apply per-domain delay
+            delay = delay_for_domain(url)
+            time.sleep(delay)
+
             result = check_url(url)
             result.path = path
             result.record_id = record_id
@@ -231,15 +345,17 @@ def main() -> int:
                 if not quiet:
                     print(f"  ✓ {record_id}: {url}")
             elif result.status == "redirect":
-                print(f"  → {record_id}: {url}")
-                print(f"    Redirected: {result.detail}")
+                if not quiet:
+                    print(f"  → {record_id}: {url}")
+                    print(f"    Redirected: {result.detail}")
+            elif result.status == "rate_limited":
+                rate_limited += 1
+                print(f"  ⏳ {record_id}: {url}")
+                print(f"    Rate limited — try again later or use --archives sparingly")
             else:
                 # Check if this is a known bot-blocking domain
-                from urllib.parse import urlparse
-                domain = urlparse(url).netloc
-                is_bot_blocked = any(domain.endswith(d) for d in BOT_BLOCKING_DOMAINS)
-
-                if is_bot_blocked and result.status_code == 403:
+                if is_bot_blocked_domain(url) and result.status_code == 403:
+                    bot_blocked += 1
                     if not quiet:
                         print(f"  ? {record_id}: {url}")
                         print(f"    Bot-blocked (403) — likely accessible in browser")
@@ -250,14 +366,20 @@ def main() -> int:
 
     print(f"\n{'─' * 60}")
     print(f"Checked {checked} URLs in {len(source_files)} source records.")
-    print(f"  OK: {checked - problems}")
-    print(f"  Problems: {problems}")
+    print(f"  OK:           {checked - problems - bot_blocked - rate_limited}")
+    print(f"  Bot-blocked:  {bot_blocked} (likely fine in browser)")
+    print(f"  Rate-limited: {rate_limited} (retry later)")
+    print(f"  Problems:     {problems}")
+    if skipped:
+        print(f"  Skipped:      {skipped} archive URLs (use --archives to check)")
 
     if problems > 0:
-        print(f"\n⚠ {problems} URL(s) need attention. See RESEARCH_DEBT.md or update source records.")
-        print("\nNote: Some 403 responses are from bot-blocking (Justia, CDT, IJ, etc.)")
-        print("and may still be accessible in a browser. Verify manually before marking broken.")
+        print(f"\n⚠ {problems} URL(s) need attention.")
+        print("  Update source records with archive URLs or mark as research debt.")
         return 1
+
+    if rate_limited > 0:
+        print(f"\n⚠ {rate_limited} URL(s) were rate-limited. Try again later.")
 
     return 0
 
