@@ -2,44 +2,57 @@
 
 **Evidence over assertion. Knowledge over opinion.**
 
-Open Internet Reference (OIR) is an evidence-based knowledge base for the legal, constitutional, historical, technical, and public policy landscape around internet architecture, distributed systems, peer-to-peer networking, cryptography, open source software, privacy, internet governance, and digital rights.
+Open Internet Reference (OIR) is an evidence-based knowledge base documenting the legal, constitutional, historical, technical, and public policy landscape around internet architecture, distributed systems, cryptography, open source software, privacy, and digital rights.
 
-OIR is in **Sprint 8** preparing the first public release candidate, with 21 seed knowledge pages and 36 bibliography sources.
+Our mission: help technologists, researchers, attorneys, and civil society organizations find the organizations, lawyers, and legal precedent they need to defend software freedom and fight censorship.
 
-## Start Here
+## Browse the Knowledge Base
 
-- [Seed Knowledge Pages](knowledge/seed-pages.md): verified knowledge records across legal, technical, and organization domains
-- [Generated Handbook](generated/handbook.md): a linear reading edition assembled from knowledge metadata
-- [Print Handbook](generated/print-handbook.md): browser-printable edition with cover metadata
-- [Relationship Visualization](generated/relationship-graph.md): interactive graph of source-backed edges
-- [Review Status](generated/review-status.md): editorial and verification dashboard
-- [Bibliography](bibliography/index.md): source records and generated indexes
-- [Roadmap](about/roadmap.md): current sprint and completed milestones
+### [Organizations](knowledge/organizations.md)
 
-## Local Preview
+Groups that defend digital rights and support open source software companies:
 
-From the repository root:
+- **Digital civil liberties** — EFF, ACLU, Knight First Amendment Institute, CDT, Institute for Justice
+- **Open source and software freedom** — OSI, Free Software Foundation, Software Freedom Conservancy, SFLC
+- **Privacy and security** — Tor Project, Signal
 
-```powershell
-.\StartLocalServer.bat
-```
+### [Lawyers](knowledge/lawyers.md)
 
-```bash
-./StartLocalServer.sh
-```
+Attorneys and legal scholars known for fighting censorship and protecting software rights:
 
-Open `http://127.0.0.1:8000`.
+- **EFF attorneys** — Cindy Cohn, Corynne McSherry, Mitch Stoltz, Kit Walsh
+- **ACLU attorneys** — Jennifer Granick (surveillance and cybersecurity)
+- **Open source legal** — Eben Moglen (SFLC founder, GPL v3 drafter)
+- **Legal scholars** — Lawrence Lessig (Creative Commons, free culture)
 
-## What OIR Tracks
+### [Law](knowledge/law.md)
 
-- Verified facts
-- Historical context
-- Technical analysis
-- Legal analysis
-- Commentary, when clearly labeled
-- Recommendations, when clearly labeled
-- Evidence-backed relationships among people, organizations, cases, statutes, technologies, protocols, and sources
+Court cases, statutes, and legal topics that establish precedent:
 
-## Project Sources
+- **Code as speech** — Bernstein v. DOJ, Junger v. Daley, Universal City Studios v. Corley
+- **Internet freedom** — Reno v. ACLU, Packingham v. North Carolina
+- **Digital privacy** — Carpenter v. United States
+- **Computer crime** — Van Buren v. United States
+- **Statutes** — DMCA § 512, CFAA § 1030
 
-The Git repository is the source of truth. Generated artifacts, including the public website build, are derived from repository content.
+## Generated Indexes
+
+- [Glossary](generated/glossary.md) — all knowledge pages alphabetically
+- [Relationship Graph](generated/relationship-graph.md) — interactive visualization of connections
+- [Review Status](generated/review-status.md) — editorial dashboard showing page completeness
+- [Timeline](generated/timeline.md) — events and decisions chronologically
+- [Bibliography](generated/bibliography.md) — all source records
+- [Handbook](generated/handbook.md) — linear reading edition
+
+## Get Involved
+
+- [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — suggest edits, propose content, or submit changes
+- [Contact records](contacts/index.md) — actionable intake paths for reaching organizations and getting legal help
+- [Research debt](generated/review-status.md) — pages that need additional sources or verification
+
+## About the Project
+
+- [Project Charter](about/project-charter.md) — mission, principles, and long-term goals
+- [Research Standards](about/research-standards.md) — how we verify information
+- [Editorial Workflow](about/editorial-workflow.md) — how content is reviewed and published
+- [Roadmap](about/roadmap.md) — current sprint and completed milestones
