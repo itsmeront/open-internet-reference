@@ -473,7 +473,9 @@ def write_count_section(lines: list[str], title: str, counts: dict[str, int]) ->
         lines.extend(["No records.", ""])
         return
     for key, value in counts.items():
-        lines.append(f"- `{markdown_escape(key)}`: {value}")
+        slug = key.lower().replace(" ", "-").replace("_", "-")
+        anchor = f"#{slug}-records"
+        lines.append(f"- [`{markdown_escape(key)}`]({anchor}): {value}")
     lines.append("")
 
 
@@ -543,6 +545,27 @@ def write_review_status_markdown(records: list[dict[str, Any]]) -> None:
         records_missing_last_verified(records),
         dashboard_path,
     )
+
+    # Per-status filtered sections
+    for status_value in sorted(payload["by_status"].keys()):
+        section_records = [r for r in records if r.get("status") == status_value]
+        slug = status_value.lower().replace(" ", "-").replace("_", "-")
+        section_title = f"{status_value} Records"
+        lines.extend([f"## {section_title} {{ #{slug}-records }}", ""])
+        for record in sorted(section_records, key=lambda r: r["id"]):
+            lines.append(record_link_line(record, dashboard_path))
+        lines.append("")
+
+    # Per-type filtered sections
+    for type_value in sorted(payload["by_type"].keys()):
+        section_records = [r for r in records if r.get("type") == type_value]
+        slug = type_value.lower().replace(" ", "-").replace("_", "-")
+        section_title = f"{type_value} Records"
+        lines.extend([f"## {section_title} {{ #{slug}-records }}", ""])
+        for record in sorted(section_records, key=lambda r: r["id"]):
+            lines.append(record_link_line(record, dashboard_path))
+        lines.append("")
+
     write_markdown(dashboard_path, lines)
 
 
@@ -1396,6 +1419,66 @@ def link_backtick_urls(line: str) -> str:
     return URL_IN_BACKTICKS_PATTERN.sub(r"<\1>", line)
 
 
+def _research_debt_count(body: str) -> int:
+    """Count the number of research debt items in a page body."""
+    count = 0
+    in_debt = False
+    for line in body.splitlines():
+        if line.startswith("## "):
+            in_debt = line.strip().lower() == "## research debt"
+            continue
+        if in_debt and line.strip().startswith("- "):
+            count += 1
+    return count
+
+
+def _page_status_banner(record: dict[str, Any], body: str) -> list[str]:
+    """Generate a status banner for the top of a source-doc mirror page."""
+    status = record.get("status", "unknown")
+    sources_count = len(record.get("sources", []))
+    relationships_count = len(record.get("relationships", []))
+    debt_count = _research_debt_count(body)
+    last_verified = record.get("last_verified") or "Never"
+
+    # Determine completeness level
+    if status == "verified" and debt_count == 0:
+        completeness = "Complete"
+        icon = "✅"
+    elif status == "verified" and debt_count > 0:
+        completeness = "Verified with open research items"
+        icon = "☑️"
+    elif status == "in_review":
+        completeness = "Under review"
+        icon = "🔍"
+    elif status == "needs_sources":
+        completeness = "Needs additional sources"
+        icon = "📎"
+    elif status == "draft" and sources_count > 0:
+        completeness = "Draft — sourced but not yet reviewed"
+        icon = "📝"
+    elif status == "draft":
+        completeness = "Early draft — needs sources and review"
+        icon = "🚧"
+    elif status == "deprecated":
+        completeness = "Deprecated — retained for history"
+        icon = "🗄️"
+    else:
+        completeness = "Unknown status"
+        icon = "❓"
+
+    banner = [
+        f"!!! info \"{icon} Page Status: {completeness}\"",
+        "",
+        f"    - **Status**: `{status}`",
+        f"    - **Sources**: {sources_count}",
+        f"    - **Relationships**: {relationships_count}",
+        f"    - **Research debt items**: {debt_count}",
+        f"    - **Last verified**: {last_verified}",
+        "",
+    ]
+    return banner
+
+
 def write_source_doc_mirror(
     record: dict[str, Any],
     source_records_by_id: dict[str, dict[str, Any]],
@@ -1404,6 +1487,15 @@ def write_source_doc_mirror(
     source_path = ROOT / record["path"]
     target_path = WEBSITE_GENERATED_DIR / record["source_doc_path"]
     original = source_path.read_text(encoding="utf-8")
+
+    # Extract body for analysis
+    if original.startswith("---\n"):
+        _, _, raw_body = original.split("---\n", 2)
+    else:
+        raw_body = original
+
+    status_banner = _page_status_banner(record, raw_body)
+
     notice = [
         "# Generated Source Mirror",
         "",
@@ -1412,6 +1504,7 @@ def write_source_doc_mirror(
         f"- Source path: `{record['path']}`",
         f"- Source ID: `{record['id']}`",
         "",
+        *status_banner,
         "---",
         "",
     ]

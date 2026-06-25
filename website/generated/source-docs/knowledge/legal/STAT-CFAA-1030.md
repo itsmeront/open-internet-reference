@@ -42,6 +42,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/STAT-CFAA-1030.md`
 - Source ID: `STAT-CFAA-1030`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 4
+    - **Research debt items**: 1
+    - **Last verified**: 2026-06-19
+
 ---
 
 # 18 U.S.C. § 1030

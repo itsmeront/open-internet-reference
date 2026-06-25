@@ -22,6 +22,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/organizations/SRC-ACLU-CONTACT.md`
 - Source ID: `SRC-ACLU-CONTACT`
 
+!!! info "✅ Page Status: Complete"
+
+    - **Status**: `verified`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: 2026-06-17
+
 ---
 
 # American Civil Liberties Union Contact Page

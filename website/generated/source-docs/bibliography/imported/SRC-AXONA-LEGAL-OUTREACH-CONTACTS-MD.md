@@ -22,6 +22,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md`
 - Source ID: `SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD`
 
+!!! info "📎 Page Status: Needs additional sources"
+
+    - **Status**: `needs_sources`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: Never
+
 ---
 
 # Axona Legal & Public Policy Outreach Contacts Markdown

@@ -39,6 +39,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/people/PERSON-CINDY-COHN.md`
 - Source ID: `PERSON-CINDY-COHN`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 3
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Cindy Cohn

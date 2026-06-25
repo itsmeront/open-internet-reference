@@ -33,6 +33,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/organizations/ORG-SFLC.md`
 - Source ID: `ORG-SFLC`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 1
+    - **Relationships**: 2
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Software Freedom Law Center

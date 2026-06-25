@@ -37,6 +37,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md`
 - Source ID: `CASE-UNIVERSAL-V-CORLEY`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 1
+    - **Relationships**: 3
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Universal City Studios v. Corley

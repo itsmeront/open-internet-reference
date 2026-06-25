@@ -20,6 +20,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/organizations/SRC-KNIGHT-CONTACT.md`
 - Source ID: `SRC-KNIGHT-CONTACT`
 
+!!! info "✅ Page Status: Complete"
+
+    - **Status**: `verified`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Knight First Amendment Institute Contact and FAQ Page

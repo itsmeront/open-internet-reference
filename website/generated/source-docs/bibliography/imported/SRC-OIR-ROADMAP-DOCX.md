@@ -20,6 +20,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md`
 - Source ID: `SRC-OIR-ROADMAP-DOCX`
 
+!!! info "🚧 Page Status: Early draft — needs sources and review"
+
+    - **Status**: `draft`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: Never
+
 ---
 
 # Open Internet Reference Roadmap

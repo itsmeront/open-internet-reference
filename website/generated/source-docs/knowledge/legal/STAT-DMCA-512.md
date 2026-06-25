@@ -48,6 +48,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/STAT-DMCA-512.md`
 - Source ID: `STAT-DMCA-512`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 5
+    - **Research debt items**: 1
+    - **Last verified**: 2026-06-19
+
 ---
 
 # 17 U.S.C. § 512

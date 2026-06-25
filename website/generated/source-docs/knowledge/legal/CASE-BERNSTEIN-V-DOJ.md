@@ -44,6 +44,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-BERNSTEIN-V-DOJ.md`
 - Source ID: `CASE-BERNSTEIN-V-DOJ`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 4
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Bernstein v. United States Department of Justice

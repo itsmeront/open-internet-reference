@@ -22,6 +22,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`
 - Source ID: `SRC-SIGNAL-DOUBLE-RATCHET`
 
+!!! info "✅ Page Status: Complete"
+
+    - **Status**: `verified`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: 2026-06-19
+
 ---
 
 # The Double Ratchet Algorithm
