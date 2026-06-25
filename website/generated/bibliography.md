@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 64
+Record count: 65
 
 ## `SRC-ACLU-CONTACT`: American Civil Liberties Union Contact Page { #SRC-ACLU-CONTACT }
 
@@ -156,7 +156,19 @@ Official who-we-are page of CDT describing organizational focus and values.
 - Path: [`bibliography/people/SRC-COHN-EFF-BIO.md`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - Tags: source, attorney, digital-rights
 
-Official EFF biography page for Cindy Cohn documenting her role and career history.
+Official EFF biography page for Cindy Cohn documenting her role and career history. Original URL now returns 403; archived copy available.
+
+### Cited By
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+
+## `SRC-COHN-EFF-DEPARTURE`: EFF Press Release - Cindy Cohn Stepping Down { #SRC-COHN-EFF-DEPARTURE }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-COHN-EFF-DEPARTURE.md`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+- Tags: source, attorney, digital-rights
+
+EFF press release announcing Cindy Cohn's departure as Executive Director after 25 years with the organization.
 
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)

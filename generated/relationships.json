@@ -612,6 +612,16 @@
       "subject": "PERSON-CINDY-COHN"
     },
     {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-COHN-EFF-DEPARTURE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-COHN-EFF-DEPARTURE"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
       "declared_in": "PERSON-CORYNNE-MCSHERRY",
       "notes": null,
       "object": "ORG-EFF",

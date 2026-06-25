@@ -129,7 +129,8 @@
     },
     {
       "sources": [
-        "SRC-COHN-EFF-BIO"
+        "SRC-COHN-EFF-BIO",
+        "SRC-COHN-EFF-DEPARTURE"
       ],
       "term": "`PERSON-CINDY-COHN`"
     },

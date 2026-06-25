@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 137
+Event count: 139
 
 ## 1987-11
 
@@ -68,6 +68,10 @@ Event count: 137
 ## 2022-08
 
 - `publication`: [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md) - Publication date for RFC 9293: Transmission Control Protocol (TCP).
+
+## 2026-06-10
+
+- `publication`: [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md) - Publication date for EFF Press Release - Cindy Cohn Stepping Down.
 
 ## 2026-06-17
 
@@ -150,6 +154,7 @@ Event count: 137
 - `verification`: [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md) - Last verified date for Center for Democracy and Technology About Page.
 - `verification`: [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md) - Last verified date for Center for Democracy and Technology Who We Are Page.
 - `verification`: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md) - Last verified date for Cindy Cohn EFF Staff Biography.
+- `verification`: [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md) - Last verified date for EFF Press Release - Cindy Cohn Stepping Down.
 - `verification`: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md) - Last verified date for Universal City Studios v. Corley Opinion Text (Open Casebook).
 - `verification`: [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md) - Last verified date for Free Software Foundation About Page.
 - `verification`: [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md) - Last verified date for Free Software Foundation Press Information.

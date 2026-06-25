@@ -2,7 +2,7 @@
   "by_status": {
     "draft": 42,
     "needs_sources": 4,
-    "verified": 57
+    "verified": 58
   },
   "by_type": {
     "attorney": 6,
@@ -10,7 +10,7 @@
     "organization": 11,
     "person": 1,
     "protocol": 3,
-    "source": 64,
+    "source": 65,
     "statute": 2,
     "topic": 8
   },
@@ -76,6 +76,6 @@
   "totals": {
     "missing_last_verified": 7,
     "needing_review": 46,
-    "records": 103
+    "records": 104
   }
 }

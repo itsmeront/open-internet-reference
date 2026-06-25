@@ -373,7 +373,7 @@
     {
       "bibliographic_metadata": {
         "access date": "2026-06-25",
-        "archive url": "None recorded",
+        "archive url": "https://web.archive.org/web/2026/https://www.eff.org/about/staff/cindy-cohn",
         "author or issuing body": "Electronic Frontier Foundation",
         "publication date": "Not dated (updated regularly)",
         "source type": "Official staff biography",
@@ -386,13 +386,41 @@
       "source_doc_path": "source-docs/bibliography/people/SRC-COHN-EFF-BIO.md",
       "sources": [],
       "status": "verified",
-      "summary": "Official EFF biography page for Cindy Cohn documenting her role and career history.",
+      "summary": "Official EFF biography page for Cindy Cohn documenting her role and career history. Original URL now returns 403; archived copy available.",
       "tags": [
         "source",
         "attorney",
         "digital-rights"
       ],
       "title": "Cindy Cohn EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CINDY-COHN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "2026-06-10",
+        "source type": "Official press release",
+        "url": "https://www.eff.org/press/releases/executive-director-cindy-cohn-will-step-down-after-25-years-eff"
+      },
+      "id": "SRC-COHN-EFF-DEPARTURE",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-COHN-EFF-DEPARTURE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EFF press release announcing Cindy Cohn's departure as Executive Director after 25 years with the organization.",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
+      ],
+      "title": "EFF Press Release - Cindy Cohn Stepping Down",
       "type": "source",
       "used_for": [
         "`PERSON-CINDY-COHN`"

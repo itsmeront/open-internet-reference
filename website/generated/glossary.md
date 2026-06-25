@@ -182,7 +182,7 @@ Tor Project is a nonprofit organization documented in OIR from official Tor Proj
 - Path: [`knowledge/people/PERSON-CINDY-COHN.md`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Tags: attorney, digital-rights, first-amendment, cryptography, privacy
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 ## `PERSON-CORYNNE-MCSHERRY`: Corynne McSherry { #PERSON-CORYNNE-MCSHERRY }
 
