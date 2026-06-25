@@ -1,6 +1,6 @@
 {
   "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
-  "record_count": 12,
+  "record_count": 19,
   "records": [
     {
       "id": "ORG-ACLU",
@@ -23,6 +23,28 @@
       "type": "organization"
     },
     {
+      "id": "ORG-CDT",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-CDT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-CDT.md",
+      "sources": [
+        "SRC-CDT-ABOUT",
+        "SRC-CDT-WHO"
+      ],
+      "status": "draft",
+      "summary": "The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "privacy",
+        "internet-governance",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Center for Democracy and Technology",
+      "type": "organization"
+    },
+    {
       "id": "ORG-EFF",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-EFF.md",
@@ -40,6 +62,129 @@
         "outreach"
       ],
       "title": "Electronic Frontier Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-FSF",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-FSF.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FSF.md",
+      "sources": [
+        "SRC-FSF-ABOUT",
+        "SRC-FSF-PRESS"
+      ],
+      "status": "draft",
+      "summary": "The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Free Software Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-INSTITUTE-FOR-JUSTICE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
+      "sources": [
+        "SRC-IJ-ABOUT",
+        "SRC-IJ-FIRST-AMENDMENT"
+      ],
+      "status": "draft",
+      "summary": "The Institute for Justice is a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights, with First Amendment free speech litigation as a central focus.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Institute for Justice",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-KNIGHT-ABOUT",
+        "SRC-KNIGHT-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Knight First Amendment Institute",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-OSI",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-OSI.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-OSI.md",
+      "sources": [
+        "SRC-OSI-ABOUT",
+        "SRC-OSI-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Open Source Initiative",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-SFLC",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-SFLC.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SFLC.md",
+      "sources": [
+        "SRC-SFLC-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Software Freedom Law Center",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "sources": [
+        "SRC-SFC-ABOUT",
+        "SRC-SFC-HOME"
+      ],
+      "status": "draft",
+      "summary": "Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Software Freedom Conservancy",
       "type": "organization"
     },
     {

@@ -1,8 +1,25 @@
 # Knowledge
 
-Knowledge pages will document concepts, organizations, people, court cases, statutes, technologies, protocols, papers, and historical events.
+The Open Internet Reference knowledge base documents organizations, lawyers, court cases, statutes, technologies, and concepts relevant to defending software rights and digital freedoms.
 
-Every significant page should have:
+## Browse by Category
+
+- [Organizations](organizations.md) — groups that defend digital rights and support open source software companies.
+- [Lawyers](lawyers.md) — attorneys and legal scholars known for fighting censorship and protecting software rights.
+- [Law](law.md) — court cases, statutes, and legal topics that establish precedent.
+
+## Generated Indexes
+
+- [Generated Glossary](../generated/glossary.md) — all knowledge pages in alphabetical order.
+- [Relationship Graph](../generated/relationships.md) — evidence-backed relationships between entities.
+- [Relationship Visualization](../generated/relationship-graph.md) — interactive graph view.
+- [Used For Index](../generated/used-for.md) — which sources support which pages.
+- [Review Status](../generated/review-status.md) — editorial dashboard showing verification state.
+- [Timeline](../generated/timeline.md) — events and decisions in chronological order.
+
+## Standards
+
+Every knowledge page should have:
 
 - A durable identifier
 - Structured metadata
@@ -10,17 +27,3 @@ Every significant page should have:
 - Evidence-backed claims
 - Sources
 - Research debt, where applicable
-
-The first seed pages are listed in [Seed Knowledge Pages](seed-pages.md).
-
-A generated glossary-style index is available at [Generated Glossary](../generated/glossary.md).
-
-A generated relationship index is available at [Relationship Graph](../generated/relationships.md).
-
-A visual generated relationship graph is available at [Relationship Visualization](../generated/relationship-graph.md).
-
-A generated source-use index is available at [Used For Index](../generated/used-for.md).
-
-A generated editorial dashboard is available at [Review Status](../generated/review-status.md).
-
-A generated date index is available at [Timeline](../generated/timeline.md).

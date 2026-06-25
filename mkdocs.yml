@@ -69,7 +69,9 @@ nav:
       - Roadmap: about/roadmap.md
   - Knowledge:
       - Overview: knowledge/index.md
-      - Seed Pages: knowledge/seed-pages.md
+      - Organizations: knowledge/organizations.md
+      - Lawyers: knowledge/lawyers.md
+      - Law: knowledge/law.md
       - Generated Glossary: generated/glossary.md
       - Relationship Graph: generated/relationships.md
       - Relationship Visualization: generated/relationship-graph.md

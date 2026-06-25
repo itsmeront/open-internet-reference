@@ -1,0 +1,43 @@
+---
+id: SRC-CDT-ABOUT
+title: Center for Democracy and Technology About Page
+type: source
+status: verified
+summary: Official about page of the Center for Democracy and Technology describing its mission and nonprofit status.
+tags:
+  - source
+  - organization
+  - digital-rights
+  - privacy
+sources: []
+relationships: []
+last_verified: "2026-06-25"
+---
+
+# Generated Source Mirror
+
+This page is generated from the source Markdown file so it can be viewed inside the MkDocs site.
+
+- Source path: `bibliography/organizations/SRC-CDT-ABOUT.md`
+- Source ID: `SRC-CDT-ABOUT`
+
+---
+
+# Center for Democracy and Technology About Page
+
+## Bibliographic Metadata
+
+- Author or issuing body: Center for Democracy and Technology
+- Publication date: Not dated
+- Source type: Official organizational page
+- URL: https://cdt.org/about/
+- Archive URL: None recorded
+- Access date: 2026-06-25
+
+## Reliability Notes
+
+Official about page maintained by the Center for Democracy and Technology. Primary source for organizational mission and 501(c)(3) status.
+
+## Used For
+
+- [`ORG-CDT`](../../../used-for.md#org-cdt)

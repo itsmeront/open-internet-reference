@@ -190,6 +190,65 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (maintained)",
+        "source type": "Organizational case documentation",
+        "url": "https://www.eff.org/cases/bernstein-v-us-dept-justice"
+      },
+      "id": "SRC-BERNSTEIN-EFF",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-BERNSTEIN-EFF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EFF case page documenting the history and significance of Bernstein v. DOJ.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "cryptography"
+      ],
+      "title": "Bernstein v. US Dept. of Justice EFF Case Page",
+      "type": "source",
+      "used_for": [
+        "`CASE-BERNSTEIN-V-DOJ`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the Ninth Circuit",
+        "publication date": "1999-05-06",
+        "source type": "Federal appellate court opinion",
+        "url": "https://law.justia.com/cases/federal/appellate-courts/F3/176/1132/596743/"
+      },
+      "id": "SRC-BERNSTEIN-JUSTIA",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-BERNSTEIN-JUSTIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "cryptography",
+        "speech-and-code"
+      ],
+      "title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BERNSTEIN-V-DOJ`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
         "publication date": "2018",
@@ -256,6 +315,120 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Center for Democracy and Technology",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://cdt.org/about/"
+      },
+      "id": "SRC-CDT-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-CDT-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-CDT-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of the Center for Democracy and Technology describing its mission and nonprofit status.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Center for Democracy and Technology About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-CDT`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Center for Democracy and Technology",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://cdt.org/who-we-are/"
+      },
+      "id": "SRC-CDT-WHO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-CDT-WHO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-CDT-WHO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official who-we-are page of CDT describing organizational focus and values.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights"
+      ],
+      "title": "Center for Democracy and Technology Who We Are Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-CDT`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (updated regularly)",
+        "source type": "Official staff biography",
+        "url": "https://www.eff.org/about/staff/cindy-cohn"
+      },
+      "id": "SRC-COHN-EFF-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-COHN-EFF-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-COHN-EFF-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF biography page for Cindy Cohn documenting her role and career history.",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
+      ],
+      "title": "Cindy Cohn EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CINDY-COHN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the Second Circuit",
+        "publication date": "2001-11-28",
+        "source type": "Federal appellate court opinion",
+        "url": "https://opencasebook.org/documents/534/"
+      },
+      "id": "SRC-CORLEY-LII",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-CORLEY-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CORLEY-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001).",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "speech-and-code"
+      ],
+      "title": "Universal City Studios v. Corley Opinion Text (Open Casebook)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UNIVERSAL-V-CORLEY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Electronic Frontier Foundation",
         "source type": "Official organization page",
@@ -315,6 +488,207 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Free Software Foundation",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://www.fsf.org/about"
+      },
+      "id": "SRC-FSF-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FSF-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FSF-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of the Free Software Foundation describing its worldwide mission.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Free Software Foundation About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-FSF`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Free Software Foundation",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://www.fsf.org/press"
+      },
+      "id": "SRC-FSF-PRESS",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FSF-PRESS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FSF-PRESS.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official press page of the Free Software Foundation with founding date and mission summary.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Free Software Foundation Press Information",
+      "type": "source",
+      "used_for": [
+        "`ORG-FSF`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "American Civil Liberties Union",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://www.aclu.org/bios/jennifer-stisa-granick"
+      },
+      "id": "SRC-GRANICK-ACLU-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-GRANICK-ACLU-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU biography page for Jennifer Granick documenting her role as surveillance and cybersecurity counsel.",
+      "tags": [
+        "source",
+        "attorney",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Jennifer Granick ACLU Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JENNIFER-GRANICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Institute for Justice",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://ij.org/about-us/"
+      },
+      "id": "SRC-IJ-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-IJ-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-IJ-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of the Institute for Justice describing its mission and practice areas.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Institute for Justice About Us Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-INSTITUTE-FOR-JUSTICE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Institute for Justice",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://ij.org/issues/first-amendment/"
+      },
+      "id": "SRC-IJ-FIRST-AMENDMENT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official First Amendment issues page of the Institute for Justice describing its free speech litigation.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Institute for Justice First Amendment Practice Area",
+      "type": "source",
+      "used_for": [
+        "`ORG-INSTITUTE-FOR-JUSTICE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "ACLU of Ohio",
+        "publication date": "Not dated",
+        "source type": "Organizational case documentation",
+        "url": "https://www.acluohio.org/en/cases/junger-v-daley-209-f3d-481-6th-cir-2000"
+      },
+      "id": "SRC-JUNGER-ACLU-OHIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-JUNGER-ACLU-OHIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "ACLU of Ohio case page documenting Junger v. Daley, 209 F.3d 481 (6th Cir. 2000).",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "cryptography",
+        "speech-and-code"
+      ],
+      "title": "Junger v. Daley ACLU Ohio Case Page",
+      "type": "source",
+      "used_for": [
+        "`CASE-JUNGER-V-DALEY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the Sixth Circuit",
+        "publication date": "2000-04-04",
+        "source type": "Federal appellate court opinion",
+        "url": "https://euro.ecom.cmu.edu/program/courses/tcr840/2003/Junger%20v_%20Daley.htm"
+      },
+      "id": "SRC-JUNGER-CMU",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-JUNGER-CMU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-JUNGER-CMU.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Full text of the Sixth Circuit opinion in Junger v. Daley hosted by Carnegie Mellon University.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "cryptography",
+        "speech-and-code"
+      ],
+      "title": "Junger v. Daley Opinion Text (CMU)",
+      "type": "source",
+      "used_for": [
+        "`CASE-JUNGER-V-DALEY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-17",
         "author or issuing body": "Petar Maymounkov and David Mazi\u00e8res",
         "doi": "https://doi.org/10.1007/3-540-45748-8_5",
@@ -344,6 +718,176 @@
         "Distributed hash tables",
         "Peer-to-peer networking",
         "Distributed systems"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Knight First Amendment Institute at Columbia University",
+        "publication date": "2016",
+        "source type": "Official organizational page",
+        "url": "https://www.knightcolumbia.org/page/about-the-knight-institute"
+      },
+      "id": "SRC-KNIGHT-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-KNIGHT-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of the Knight First Amendment Institute at Columbia University.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Knight First Amendment Institute About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-KNIGHT-FIRST-AMENDMENT`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Knight First Amendment Institute at Columbia University",
+        "publication date": "2016",
+        "source type": "Official organizational page",
+        "url": "https://knightcolumbia.org/content/faq"
+      },
+      "id": "SRC-KNIGHT-CONTACT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-KNIGHT-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official FAQ and contact information for the Knight First Amendment Institute at Columbia University.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Knight First Amendment Institute Contact and FAQ Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-KNIGHT-FIRST-AMENDMENT`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Harvard Law School",
+        "publication date": "Not dated",
+        "source type": "Official faculty page",
+        "url": "https://hls.harvard.edu/faculty/lawrence-lessig/"
+      },
+      "id": "SRC-LESSIG-HARVARD",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-LESSIG-HARVARD.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LESSIG-HARVARD.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Harvard Law School faculty page for Lawrence Lessig.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "open-source-software"
+      ],
+      "title": "Lawrence Lessig Harvard Law School Faculty Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-LAWRENCE-LESSIG`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (updated regularly)",
+        "source type": "Official staff biography",
+        "url": "https://www.eff.org/about/staff/corynne-mcsherry"
+      },
+      "id": "SRC-MCSHERRY-EFF-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-MCSHERRY-EFF-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF biography page for Corynne McSherry documenting her role as Legal Director specializing in intellectual property and free speech.",
+      "tags": [
+        "source",
+        "attorney",
+        "copyright",
+        "digital-rights"
+      ],
+      "title": "Corynne McSherry EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CORYNNE-MCSHERRY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Columbia Law School",
+        "publication date": "Not dated",
+        "source type": "Official faculty page",
+        "url": "https://www.law.columbia.edu/faculty/eben-moglen"
+      },
+      "id": "SRC-MOGLEN-COLUMBIA",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-MOGLEN-COLUMBIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Columbia Law School faculty page for Eben Moglen.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Eben Moglen Columbia Law School Faculty Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-EBEN-MOGLEN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Data Science Institute, Columbia University",
+        "publication date": "Not dated",
+        "source type": "Official institutional profile",
+        "url": "https://datascience.columbia.edu/people/eben-moglen/"
+      },
+      "id": "SRC-MOGLEN-DSI",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-MOGLEN-DSI.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MOGLEN-DSI.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Columbia Data Science Institute profile of Eben Moglen describing his work with FSF and SFLC.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Eben Moglen Columbia Data Science Institute Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-EBEN-MOGLEN`"
       ]
     },
     {
@@ -436,6 +980,122 @@
         "Roadmap structure",
         "Foundation milestones",
         "Backlog planning"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Open Source Initiative",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://opensource.org/about"
+      },
+      "id": "SRC-OSI-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-OSI-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-OSI-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of the Open Source Initiative describing its mission and global scope.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Open Source Initiative About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-OSI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Open Source Initiative",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://opensource.org/history"
+      },
+      "id": "SRC-OSI-HISTORY",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-OSI-HISTORY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-OSI-HISTORY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official history page of the Open Source Initiative documenting its founding and development.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Open Source Initiative History Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-OSI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2017-06-19",
+        "source type": "Supreme Court opinion",
+        "url": "https://supreme.justia.com/cases/federal/us/582/15-1194"
+      },
+      "id": "SRC-PACKINGHAM-JUSTIA",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-PACKINGHAM-JUSTIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Justia reproduction of the Supreme Court opinion in Packingham v. North Carolina.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)",
+      "type": "source",
+      "used_for": [
+        "`CASE-PACKINGHAM-V-NC`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2017-06-19",
+        "source type": "Supreme Court opinion",
+        "url": "https://www.law.cornell.edu/supremecourt/text/15-1194"
+      },
+      "id": "SRC-PACKINGHAM-LII",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-PACKINGHAM-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute full text of Packingham v. North Carolina.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-PACKINGHAM-V-NC`"
       ]
     },
     {
@@ -661,6 +1321,90 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Conservancy",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://sfconservancy.org/about/"
+      },
+      "id": "SRC-SFC-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-SFC-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFC-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page of Software Freedom Conservancy describing its mission and activities.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Software Freedom Conservancy About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Conservancy",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://sfconservancy.org/"
+      },
+      "id": "SRC-SFC-HOME",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-SFC-HOME.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFC-HOME.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official home page of Software Freedom Conservancy with mission statement.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Software Freedom Conservancy Home Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Law Center",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://softwarefreedom.org/about/team/"
+      },
+      "id": "SRC-SFLC-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-SFLC-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official team page of the Software Freedom Law Center describing its staff and mission.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Software Freedom Law Center Team Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-SFLC`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Signal",
         "source type": "Official technical documentation",
@@ -780,6 +1524,35 @@
         "Signal Protocol",
         "Secure messaging",
         "X3DH key agreement"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (updated regularly)",
+        "source type": "Official staff biography",
+        "url": "https://www.eff.org/about/staff/mitch-stoltz"
+      },
+      "id": "SRC-STOLTZ-EFF-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-STOLTZ-EFF-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF biography page for Mitch Stoltz documenting his role as Senior Staff Attorney focusing on intellectual property and open source.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software",
+        "copyright"
+      ],
+      "title": "Mitch Stoltz EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MITCH-STOLTZ`"
       ]
     },
     {
@@ -1117,6 +1890,35 @@
         "`TOPIC-COMPUTER-FRAUD`",
         "`STAT-CFAA-1030`",
         "Computer Fraud and Abuse Act"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (updated regularly)",
+        "source type": "Official staff biography",
+        "url": "https://www.eff.org/about/staff/kit-walsh"
+      },
+      "id": "SRC-WALSH-EFF-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WALSH-EFF-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF biography page for Kit Walsh documenting her role as Senior Staff Attorney working on free speech and coders' rights.",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights",
+        "speech-and-code"
+      ],
+      "title": "Kit Walsh EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-KIT-WALSH`"
       ]
     }
   ],

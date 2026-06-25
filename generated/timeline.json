@@ -30,6 +30,27 @@
       "record_title": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)"
     },
     {
+      "date": "1999-05-06",
+      "description": "Publication date for Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).",
+      "event_type": "publication",
+      "record_id": "SRC-BERNSTEIN-JUSTIA",
+      "record_title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)"
+    },
+    {
+      "date": "2000-04-04",
+      "description": "Publication date for Junger v. Daley Opinion Text (CMU).",
+      "event_type": "publication",
+      "record_id": "SRC-JUNGER-CMU",
+      "record_title": "Junger v. Daley Opinion Text (CMU)"
+    },
+    {
+      "date": "2001-11-28",
+      "description": "Publication date for Universal City Studios v. Corley Opinion Text (Open Casebook).",
+      "event_type": "publication",
+      "record_id": "SRC-CORLEY-LII",
+      "record_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)"
+    },
+    {
       "date": "2002",
       "description": "Publication date for Kademlia: A Peer-to-Peer Information System Based on the XOR Metric.",
       "event_type": "publication",
@@ -44,11 +65,39 @@
       "record_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)"
     },
     {
+      "date": "2016",
+      "description": "Publication date for Knight First Amendment Institute About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-KNIGHT-ABOUT",
+      "record_title": "Knight First Amendment Institute About Page"
+    },
+    {
+      "date": "2016",
+      "description": "Publication date for Knight First Amendment Institute Contact and FAQ Page.",
+      "event_type": "publication",
+      "record_id": "SRC-KNIGHT-CONTACT",
+      "record_title": "Knight First Amendment Institute Contact and FAQ Page"
+    },
+    {
       "date": "2016-11-04",
       "description": "Publication date for The X3DH Key Agreement Protocol.",
       "event_type": "publication",
       "record_id": "SRC-SIGNAL-X3DH",
       "record_title": "The X3DH Key Agreement Protocol"
+    },
+    {
+      "date": "2017-06-19",
+      "description": "Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).",
+      "event_type": "publication",
+      "record_id": "SRC-PACKINGHAM-JUSTIA",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)"
+    },
+    {
+      "date": "2017-06-19",
+      "description": "Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-PACKINGHAM-LII",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)"
     },
     {
       "date": "2018",
@@ -441,6 +490,475 @@
       "event_type": "verification",
       "record_id": "TOPIC-SAFE-HARBOR",
       "record_title": "Online Service Provider Safe Harbor"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bernstein v. United States Department of Justice.",
+      "event_type": "verification",
+      "record_id": "CASE-BERNSTEIN-V-DOJ",
+      "record_title": "Bernstein v. United States Department of Justice"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Junger v. Daley.",
+      "event_type": "verification",
+      "record_id": "CASE-JUNGER-V-DALEY",
+      "record_title": "Junger v. Daley"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Packingham v. North Carolina.",
+      "event_type": "verification",
+      "record_id": "CASE-PACKINGHAM-V-NC",
+      "record_title": "Packingham v. North Carolina"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Universal City Studios v. Corley.",
+      "event_type": "verification",
+      "record_id": "CASE-UNIVERSAL-V-CORLEY",
+      "record_title": "Universal City Studios v. Corley"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Center for Democracy and Technology.",
+      "event_type": "verification",
+      "record_id": "ORG-CDT",
+      "record_title": "Center for Democracy and Technology"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Free Software Foundation.",
+      "event_type": "verification",
+      "record_id": "ORG-FSF",
+      "record_title": "Free Software Foundation"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Institute for Justice.",
+      "event_type": "verification",
+      "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
+      "record_title": "Institute for Justice"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Knight First Amendment Institute.",
+      "event_type": "verification",
+      "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "record_title": "Knight First Amendment Institute"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Open Source Initiative.",
+      "event_type": "verification",
+      "record_id": "ORG-OSI",
+      "record_title": "Open Source Initiative"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Software Freedom Law Center.",
+      "event_type": "verification",
+      "record_id": "ORG-SFLC",
+      "record_title": "Software Freedom Law Center"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Software Freedom Conservancy.",
+      "event_type": "verification",
+      "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "record_title": "Software Freedom Conservancy"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Cindy Cohn.",
+      "event_type": "verification",
+      "record_id": "PERSON-CINDY-COHN",
+      "record_title": "Cindy Cohn"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Corynne McSherry.",
+      "event_type": "verification",
+      "record_id": "PERSON-CORYNNE-MCSHERRY",
+      "record_title": "Corynne McSherry"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Eben Moglen.",
+      "event_type": "verification",
+      "record_id": "PERSON-EBEN-MOGLEN",
+      "record_title": "Eben Moglen"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Jennifer Granick.",
+      "event_type": "verification",
+      "record_id": "PERSON-JENNIFER-GRANICK",
+      "record_title": "Jennifer Granick"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Kit Walsh.",
+      "event_type": "verification",
+      "record_id": "PERSON-KIT-WALSH",
+      "record_title": "Kit Walsh"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Lawrence Lessig.",
+      "event_type": "verification",
+      "record_id": "PERSON-LAWRENCE-LESSIG",
+      "record_title": "Lawrence Lessig"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Mitch Stoltz.",
+      "event_type": "verification",
+      "record_id": "PERSON-MITCH-STOLTZ",
+      "record_title": "Mitch Stoltz"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bernstein v. US Dept. of Justice EFF Case Page.",
+      "event_type": "verification",
+      "record_id": "SRC-BERNSTEIN-EFF",
+      "record_title": "Bernstein v. US Dept. of Justice EFF Case Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).",
+      "event_type": "verification",
+      "record_id": "SRC-BERNSTEIN-JUSTIA",
+      "record_title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Center for Democracy and Technology About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-CDT-ABOUT",
+      "record_title": "Center for Democracy and Technology About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Center for Democracy and Technology Who We Are Page.",
+      "event_type": "verification",
+      "record_id": "SRC-CDT-WHO",
+      "record_title": "Center for Democracy and Technology Who We Are Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Cindy Cohn EFF Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-COHN-EFF-BIO",
+      "record_title": "Cindy Cohn EFF Staff Biography"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Universal City Studios v. Corley Opinion Text (Open Casebook).",
+      "event_type": "verification",
+      "record_id": "SRC-CORLEY-LII",
+      "record_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Free Software Foundation About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-FSF-ABOUT",
+      "record_title": "Free Software Foundation About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Free Software Foundation Press Information.",
+      "event_type": "verification",
+      "record_id": "SRC-FSF-PRESS",
+      "record_title": "Free Software Foundation Press Information"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Jennifer Granick ACLU Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-GRANICK-ACLU-BIO",
+      "record_title": "Jennifer Granick ACLU Staff Biography"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Institute for Justice About Us Page.",
+      "event_type": "verification",
+      "record_id": "SRC-IJ-ABOUT",
+      "record_title": "Institute for Justice About Us Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Institute for Justice First Amendment Practice Area.",
+      "event_type": "verification",
+      "record_id": "SRC-IJ-FIRST-AMENDMENT",
+      "record_title": "Institute for Justice First Amendment Practice Area"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Junger v. Daley ACLU Ohio Case Page.",
+      "event_type": "verification",
+      "record_id": "SRC-JUNGER-ACLU-OHIO",
+      "record_title": "Junger v. Daley ACLU Ohio Case Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Junger v. Daley Opinion Text (CMU).",
+      "event_type": "verification",
+      "record_id": "SRC-JUNGER-CMU",
+      "record_title": "Junger v. Daley Opinion Text (CMU)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Knight First Amendment Institute About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-KNIGHT-ABOUT",
+      "record_title": "Knight First Amendment Institute About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Knight First Amendment Institute Contact and FAQ Page.",
+      "event_type": "verification",
+      "record_id": "SRC-KNIGHT-CONTACT",
+      "record_title": "Knight First Amendment Institute Contact and FAQ Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Lawrence Lessig Harvard Law School Faculty Page.",
+      "event_type": "verification",
+      "record_id": "SRC-LESSIG-HARVARD",
+      "record_title": "Lawrence Lessig Harvard Law School Faculty Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Corynne McSherry EFF Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-MCSHERRY-EFF-BIO",
+      "record_title": "Corynne McSherry EFF Staff Biography"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Eben Moglen Columbia Law School Faculty Page.",
+      "event_type": "verification",
+      "record_id": "SRC-MOGLEN-COLUMBIA",
+      "record_title": "Eben Moglen Columbia Law School Faculty Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Eben Moglen Columbia Data Science Institute Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-MOGLEN-DSI",
+      "record_title": "Eben Moglen Columbia Data Science Institute Profile"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Open Source Initiative About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-OSI-ABOUT",
+      "record_title": "Open Source Initiative About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Open Source Initiative History Page.",
+      "event_type": "verification",
+      "record_id": "SRC-OSI-HISTORY",
+      "record_title": "Open Source Initiative History Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).",
+      "event_type": "verification",
+      "record_id": "SRC-PACKINGHAM-JUSTIA",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-PACKINGHAM-LII",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Software Freedom Conservancy About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SFC-ABOUT",
+      "record_title": "Software Freedom Conservancy About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Software Freedom Conservancy Home Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SFC-HOME",
+      "record_title": "Software Freedom Conservancy Home Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Software Freedom Law Center Team Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SFLC-ABOUT",
+      "record_title": "Software Freedom Law Center Team Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Mitch Stoltz EFF Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-STOLTZ-EFF-BIO",
+      "record_title": "Mitch Stoltz EFF Staff Biography"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Kit Walsh EFF Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-WALSH-EFF-BIO",
+      "record_title": "Kit Walsh EFF Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Center for Democracy and Technology About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-CDT-ABOUT",
+      "record_title": "Center for Democracy and Technology About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Center for Democracy and Technology Who We Are Page.",
+      "event_type": "publication",
+      "record_id": "SRC-CDT-WHO",
+      "record_title": "Center for Democracy and Technology Who We Are Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Free Software Foundation About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-FSF-ABOUT",
+      "record_title": "Free Software Foundation About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Free Software Foundation Press Information.",
+      "event_type": "publication",
+      "record_id": "SRC-FSF-PRESS",
+      "record_title": "Free Software Foundation Press Information"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Jennifer Granick ACLU Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-GRANICK-ACLU-BIO",
+      "record_title": "Jennifer Granick ACLU Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Institute for Justice About Us Page.",
+      "event_type": "publication",
+      "record_id": "SRC-IJ-ABOUT",
+      "record_title": "Institute for Justice About Us Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Institute for Justice First Amendment Practice Area.",
+      "event_type": "publication",
+      "record_id": "SRC-IJ-FIRST-AMENDMENT",
+      "record_title": "Institute for Justice First Amendment Practice Area"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Junger v. Daley ACLU Ohio Case Page.",
+      "event_type": "publication",
+      "record_id": "SRC-JUNGER-ACLU-OHIO",
+      "record_title": "Junger v. Daley ACLU Ohio Case Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Lawrence Lessig Harvard Law School Faculty Page.",
+      "event_type": "publication",
+      "record_id": "SRC-LESSIG-HARVARD",
+      "record_title": "Lawrence Lessig Harvard Law School Faculty Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Eben Moglen Columbia Law School Faculty Page.",
+      "event_type": "publication",
+      "record_id": "SRC-MOGLEN-COLUMBIA",
+      "record_title": "Eben Moglen Columbia Law School Faculty Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Eben Moglen Columbia Data Science Institute Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-MOGLEN-DSI",
+      "record_title": "Eben Moglen Columbia Data Science Institute Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Open Source Initiative About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-OSI-ABOUT",
+      "record_title": "Open Source Initiative About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Open Source Initiative History Page.",
+      "event_type": "publication",
+      "record_id": "SRC-OSI-HISTORY",
+      "record_title": "Open Source Initiative History Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Software Freedom Conservancy About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SFC-ABOUT",
+      "record_title": "Software Freedom Conservancy About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Software Freedom Conservancy Home Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SFC-HOME",
+      "record_title": "Software Freedom Conservancy Home Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Software Freedom Law Center Team Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SFLC-ABOUT",
+      "record_title": "Software Freedom Law Center Team Page"
+    },
+    {
+      "date": "Not dated (maintained)",
+      "description": "Publication date for Bernstein v. US Dept. of Justice EFF Case Page.",
+      "event_type": "publication",
+      "record_id": "SRC-BERNSTEIN-EFF",
+      "record_title": "Bernstein v. US Dept. of Justice EFF Case Page"
+    },
+    {
+      "date": "Not dated (updated regularly)",
+      "description": "Publication date for Cindy Cohn EFF Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-COHN-EFF-BIO",
+      "record_title": "Cindy Cohn EFF Staff Biography"
+    },
+    {
+      "date": "Not dated (updated regularly)",
+      "description": "Publication date for Corynne McSherry EFF Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-MCSHERRY-EFF-BIO",
+      "record_title": "Corynne McSherry EFF Staff Biography"
+    },
+    {
+      "date": "Not dated (updated regularly)",
+      "description": "Publication date for Mitch Stoltz EFF Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-STOLTZ-EFF-BIO",
+      "record_title": "Mitch Stoltz EFF Staff Biography"
+    },
+    {
+      "date": "Not dated (updated regularly)",
+      "description": "Publication date for Kit Walsh EFF Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-WALSH-EFF-BIO",
+      "record_title": "Kit Walsh EFF Staff Biography"
     }
   ],
   "schema_version": 1

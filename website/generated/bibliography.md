@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 36
+Record count: 64
 
 ## `SRC-ACLU-CONTACT`: American Civil Liberties Union Contact Page { #SRC-ACLU-CONTACT }
 
@@ -76,6 +76,30 @@ Markdown version of an internal outreach contact list covering organizations, fi
 ### Cited By
 - No citing knowledge records yet.
 
+## `SRC-BERNSTEIN-EFF`: Bernstein v. US Dept. of Justice EFF Case Page { #SRC-BERNSTEIN-EFF }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-BERNSTEIN-EFF.md`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- Tags: source, case, first-amendment, cryptography
+
+EFF case page documenting the history and significance of Bernstein v. DOJ.
+
+### Cited By
+- [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+## `SRC-BERNSTEIN-JUSTIA`: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) { #SRC-BERNSTEIN-JUSTIA }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-BERNSTEIN-JUSTIA.md`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- Tags: source, case, first-amendment, cryptography, speech-and-code
+
+Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
+
+### Cited By
+- [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
 ## `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) { #SRC-CARPENTER-GOVINFO }
 
 - Type: `source`
@@ -101,6 +125,54 @@ Cornell Legal Information Institute page for the Supreme Court decision on Fourt
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
+## `SRC-CDT-ABOUT`: Center for Democracy and Technology About Page { #SRC-CDT-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-CDT-ABOUT.md`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
+- Tags: source, organization, digital-rights, privacy
+
+Official about page of the Center for Democracy and Technology describing its mission and nonprofit status.
+
+### Cited By
+- [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
+
+## `SRC-CDT-WHO`: Center for Democracy and Technology Who We Are Page { #SRC-CDT-WHO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-CDT-WHO.md`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
+- Tags: source, organization, digital-rights
+
+Official who-we-are page of CDT describing organizational focus and values.
+
+### Cited By
+- [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
+
+## `SRC-COHN-EFF-BIO`: Cindy Cohn EFF Staff Biography { #SRC-COHN-EFF-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-COHN-EFF-BIO.md`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
+- Tags: source, attorney, digital-rights
+
+Official EFF biography page for Cindy Cohn documenting her role and career history.
+
+### Cited By
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+
+## `SRC-CORLEY-LII`: Universal City Studios v. Corley Opinion Text (Open Casebook) { #SRC-CORLEY-LII }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-CORLEY-LII.md`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+- Tags: source, case, copyright, speech-and-code
+
+Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001).
+
+### Cited By
+- [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+
 ## `SRC-EFF-ABOUT`: Electronic Frontier Foundation About Page { #SRC-EFF-ABOUT }
 
 - Type: `source`
@@ -125,6 +197,90 @@ Official EFF contact page with public legal assistance, general information, pre
 ### Cited By
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 
+## `SRC-FSF-ABOUT`: Free Software Foundation About Page { #SRC-FSF-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-FSF-ABOUT.md`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
+- Tags: source, organization, open-source-software
+
+Official about page of the Free Software Foundation describing its worldwide mission.
+
+### Cited By
+- [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
+
+## `SRC-FSF-PRESS`: Free Software Foundation Press Information { #SRC-FSF-PRESS }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-FSF-PRESS.md`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+- Tags: source, organization, open-source-software
+
+Official press page of the Free Software Foundation with founding date and mission summary.
+
+### Cited By
+- [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
+
+## `SRC-GRANICK-ACLU-BIO`: Jennifer Granick ACLU Staff Biography { #SRC-GRANICK-ACLU-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-GRANICK-ACLU-BIO.md`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
+- Tags: source, attorney, privacy, surveillance
+
+Official ACLU biography page for Jennifer Granick documenting her role as surveillance and cybersecurity counsel.
+
+### Cited By
+- [`PERSON-JENNIFER-GRANICK: Jennifer Granick`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
+
+## `SRC-IJ-ABOUT`: Institute for Justice About Us Page { #SRC-IJ-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-IJ-ABOUT.md`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
+- Tags: source, organization, first-amendment
+
+Official about page of the Institute for Justice describing its mission and practice areas.
+
+### Cited By
+- [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+
+## `SRC-IJ-FIRST-AMENDMENT`: Institute for Justice First Amendment Practice Area { #SRC-IJ-FIRST-AMENDMENT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+- Tags: source, organization, first-amendment
+
+Official First Amendment issues page of the Institute for Justice describing its free speech litigation.
+
+### Cited By
+- [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+
+## `SRC-JUNGER-ACLU-OHIO`: Junger v. Daley ACLU Ohio Case Page { #SRC-JUNGER-ACLU-OHIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-JUNGER-ACLU-OHIO.md`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
+- Tags: source, case, first-amendment, cryptography, speech-and-code
+
+ACLU of Ohio case page documenting Junger v. Daley, 209 F.3d 481 (6th Cir. 2000).
+
+### Cited By
+- [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+
+## `SRC-JUNGER-CMU`: Junger v. Daley Opinion Text (CMU) { #SRC-JUNGER-CMU }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-JUNGER-CMU.md`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+- Tags: source, case, first-amendment, cryptography, speech-and-code
+
+Full text of the Sixth Circuit opinion in Junger v. Daley hosted by Carnegie Mellon University.
+
+### Cited By
+- [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+
 ## `SRC-KADEMLIA-PAPER`: Kademlia: A Peer-to-Peer Information System Based on the XOR Metric { #SRC-KADEMLIA-PAPER }
 
 - Type: `source`
@@ -136,6 +292,78 @@ Foundational 2002 conference paper by Petar Maymounkov and David Mazières descr
 
 ### Cited By
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
+
+## `SRC-KNIGHT-ABOUT`: Knight First Amendment Institute About Page { #SRC-KNIGHT-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-KNIGHT-ABOUT.md`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
+- Tags: source, organization, first-amendment
+
+Official about page of the Knight First Amendment Institute at Columbia University.
+
+### Cited By
+- [`ORG-KNIGHT-FIRST-AMENDMENT: Knight First Amendment Institute`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
+
+## `SRC-KNIGHT-CONTACT`: Knight First Amendment Institute Contact and FAQ Page { #SRC-KNIGHT-CONTACT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-KNIGHT-CONTACT.md`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+- Tags: source, organization, first-amendment
+
+Official FAQ and contact information for the Knight First Amendment Institute at Columbia University.
+
+### Cited By
+- [`ORG-KNIGHT-FIRST-AMENDMENT: Knight First Amendment Institute`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
+
+## `SRC-LESSIG-HARVARD`: Lawrence Lessig Harvard Law School Faculty Page { #SRC-LESSIG-HARVARD }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-LESSIG-HARVARD.md`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
+- Tags: source, person, internet-governance, open-source-software
+
+Official Harvard Law School faculty page for Lawrence Lessig.
+
+### Cited By
+- [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
+
+## `SRC-MCSHERRY-EFF-BIO`: Corynne McSherry EFF Staff Biography { #SRC-MCSHERRY-EFF-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-MCSHERRY-EFF-BIO.md`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
+- Tags: source, attorney, copyright, digital-rights
+
+Official EFF biography page for Corynne McSherry documenting her role as Legal Director specializing in intellectual property and free speech.
+
+### Cited By
+- [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
+
+## `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page { #SRC-MOGLEN-COLUMBIA }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-MOGLEN-COLUMBIA.md`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
+- Tags: source, attorney, open-source-software
+
+Official Columbia Law School faculty page for Eben Moglen.
+
+### Cited By
+- [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+
+## `SRC-MOGLEN-DSI`: Eben Moglen Columbia Data Science Institute Profile { #SRC-MOGLEN-DSI }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-MOGLEN-DSI.md`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+- Tags: source, attorney, open-source-software
+
+Columbia Data Science Institute profile of Eben Moglen describing his work with FSF and SFLC.
+
+### Cited By
+- [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 
 ## `SRC-OIR-BOOTSTRAP-PROMPT`: OIR Bootstrap Prompt { #SRC-OIR-BOOTSTRAP-PROMPT }
 
@@ -172,6 +400,54 @@ Internal Word document describing the OIR roadmap, milestone structure, and foun
 
 ### Cited By
 - No citing knowledge records yet.
+
+## `SRC-OSI-ABOUT`: Open Source Initiative About Page { #SRC-OSI-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-OSI-ABOUT.md`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
+- Tags: source, organization, open-source-software
+
+Official about page of the Open Source Initiative describing its mission and global scope.
+
+### Cited By
+- [`ORG-OSI: Open Source Initiative`](source-docs/knowledge/organizations/ORG-OSI.md)
+
+## `SRC-OSI-HISTORY`: Open Source Initiative History Page { #SRC-OSI-HISTORY }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-OSI-HISTORY.md`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+- Tags: source, organization, open-source-software
+
+Official history page of the Open Source Initiative documenting its founding and development.
+
+### Cited By
+- [`ORG-OSI: Open Source Initiative`](source-docs/knowledge/organizations/ORG-OSI.md)
+
+## `SRC-PACKINGHAM-JUSTIA`: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) { #SRC-PACKINGHAM-JUSTIA }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-PACKINGHAM-JUSTIA.md`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
+- Tags: source, case, first-amendment, internet-governance, digital-rights
+
+Justia reproduction of the Supreme Court opinion in Packingham v. North Carolina.
+
+### Cited By
+- [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+
+## `SRC-PACKINGHAM-LII`: Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII) { #SRC-PACKINGHAM-LII }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-PACKINGHAM-LII.md`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
+- Tags: source, case, first-amendment, internet-governance, digital-rights
+
+Cornell Legal Information Institute full text of Packingham v. North Carolina.
+
+### Cited By
+- [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 
 ## `SRC-PERFECT10-V-CCBILL-JUSTIA`: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) { #SRC-PERFECT10-V-CCBILL-JUSTIA }
 
@@ -263,6 +539,42 @@ RFC Editor publication specifying the Transmission Control Protocol.
 ### Cited By
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 
+## `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page { #SRC-SFC-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFC-ABOUT.md`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- Tags: source, organization, open-source-software
+
+Official about page of Software Freedom Conservancy describing its mission and activities.
+
+### Cited By
+- [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
+## `SRC-SFC-HOME`: Software Freedom Conservancy Home Page { #SRC-SFC-HOME }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFC-HOME.md`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- Tags: source, organization, open-source-software
+
+Official home page of Software Freedom Conservancy with mission statement.
+
+### Cited By
+- [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
+## `SRC-SFLC-ABOUT`: Software Freedom Law Center Team Page { #SRC-SFLC-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFLC-ABOUT.md`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- Tags: source, organization, open-source-software
+
+Official team page of the Software Freedom Law Center describing its staff and mission.
+
+### Cited By
+- [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
+
 ## `SRC-SIGNAL-DOCS`: Signal Protocol Documentation { #SRC-SIGNAL-DOCS }
 
 - Type: `source`
@@ -310,6 +622,18 @@ Official Signal specification for the Extended Triple Diffie-Hellman key agreeme
 
 ### Cited By
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
+
+## `SRC-STOLTZ-EFF-BIO`: Mitch Stoltz EFF Staff Biography { #SRC-STOLTZ-EFF-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-STOLTZ-EFF-BIO.md`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
+- Tags: source, attorney, open-source-software, copyright
+
+Official EFF biography page for Mitch Stoltz documenting his role as Senior Staff Attorney focusing on intellectual property and open source.
+
+### Cited By
+- [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
 
 ## `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router { #SRC-TOR-DESIGN-PAPER }
 
@@ -453,3 +777,15 @@ Cornell Legal Information Institute page for the Supreme Court decision interpre
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`STAT-CFAA-1030: 18 U.S.C. § 1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+
+## `SRC-WALSH-EFF-BIO`: Kit Walsh EFF Staff Biography { #SRC-WALSH-EFF-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WALSH-EFF-BIO.md`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+- Tags: source, attorney, digital-rights, speech-and-code
+
+Official EFF biography page for Kit Walsh documenting her role as Senior Staff Attorney working on free speech and coders' rights.
+
+### Cited By
+- [`PERSON-KIT-WALSH: Kit Walsh`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)

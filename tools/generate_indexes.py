@@ -28,6 +28,7 @@ CONTENT_DIRS = {
     "bibliography": ROOT / "bibliography",
     "knowledge": ROOT / "knowledge",
 }
+URL_IN_BACKTICKS_PATTERN = re.compile(r"`(https?://[^\s`]+)`")
 
 
 def iter_markdown_files(directory: Path) -> list[Path]:
@@ -1384,10 +1385,15 @@ def link_source_doc_body(
     records_by_title: dict[str, dict[str, Any]],
 ) -> list[str]:
     source_linked_lines = [
-        link_source_ids(line, source_records_by_id, from_path)
+        link_backtick_urls(link_source_ids(line, source_records_by_id, from_path))
         for line in lines
     ]
     return link_used_for_terms(source_linked_lines, from_path, records_by_title)
+
+
+def link_backtick_urls(line: str) -> str:
+    """Convert backtick-wrapped URLs into clickable Markdown autolinks."""
+    return URL_IN_BACKTICKS_PATTERN.sub(r"<\1>", line)
 
 
 def write_source_doc_mirror(
