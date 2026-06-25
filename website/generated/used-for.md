@@ -96,6 +96,7 @@ Term count: 95
 ## `PERSON-CINDY-COHN` { #person-cindy-cohn }
 
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
+- [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 
 ## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
 

@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-06-25 | **Records:** 39 | **Sources referenced:** 57
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-06-25 | **Records:** 39 | **Sources referenced:** 58
 
 <div class="oir-handbook" markdown="1">
 
@@ -158,7 +158,7 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 - **Status:** draft
 - **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 ### Code as Speech { #TOPIC-CODE-AS-SPEECH-glossary }
 
@@ -455,9 +455,9 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 #### [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): Cindy Cohn { #PERSON-CINDY-COHN }
 
 - Status: `draft`
-- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
+- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md), [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 #### [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md): Corynne McSherry { #PERSON-CORYNNE-MCSHERRY }
 
@@ -750,6 +750,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page (`verified`)
 - [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md): Center for Democracy and Technology Who We Are Page (`verified`)
 - [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography (`verified`)
+- [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
 - [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page (`verified`)

@@ -22,7 +22,7 @@
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>57</dd>
+        <dd>58</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -191,7 +191,7 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 - **Status:** draft
 - **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 ### Code as Speech { #TOPIC-CODE-AS-SPEECH-glossary }
 
@@ -489,10 +489,10 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 
 - **Record ID:** `PERSON-CINDY-COHN`
 - **Status:** draft
-- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`)
+- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`), EFF Press Release - Cindy Cohn Stepping Down (`SRC-COHN-EFF-DEPARTURE`)
 - **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
 ---
 
@@ -1007,7 +1007,16 @@ Official who-we-are page of CDT describing organizational focus and values.
 - **Source ID:** `SRC-COHN-EFF-BIO`
 - **Status:** verified
 
-Official EFF biography page for Cindy Cohn documenting her role and career history.
+Official EFF biography page for Cindy Cohn documenting her role and career history. Original URL now returns 403; archived copy available.
+
+---
+
+### EFF Press Release - Cindy Cohn Stepping Down
+
+- **Source ID:** `SRC-COHN-EFF-DEPARTURE`
+- **Status:** verified
+
+EFF press release announcing Cindy Cohn's departure as Executive Director after 25 years with the organization.
 
 ---
 

@@ -239,6 +239,25 @@
       ]
     },
     {
+      "source_id": "SRC-COHN-EFF-DEPARTURE",
+      "source_title": "EFF Press Release - Cindy Cohn Stepping Down",
+      "usages": [
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-COHN-EFF-DEPARTURE",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CORLEY-LII",
       "source_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)",
       "usages": [

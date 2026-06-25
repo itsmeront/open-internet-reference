@@ -4,7 +4,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 103
+- Records: 104
 - Records needing review: 46
 - Records missing `last_verified`: 7
 
@@ -12,7 +12,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 - `draft`: 42
 - `needs_sources`: 4
-- `verified`: 57
+- `verified`: 58
 
 ## By Type
 
@@ -21,7 +21,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - `organization`: 11
 - `person`: 1
 - `protocol`: 3
-- `source`: 64
+- `source`: 65
 - `statute`: 2
 - `topic`: 8
 
