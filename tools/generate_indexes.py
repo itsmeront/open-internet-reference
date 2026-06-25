@@ -1507,7 +1507,7 @@ def write_source_doc_mirror(
         "",
         f"- Source path: `{record['path']}`",
         f"- Source ID: `{record['id']}`",
-        f"- [:material-pencil: Edit this page]({edit_url}){{ .md-button }}  [:material-comment-alert-outline: Suggest a change]({issue_url}){{ .md-button }}",
+        f"- [**Edit this page**]({edit_url}) | [**Suggest a change**]({issue_url})",
         "",
         *status_banner,
         "---",

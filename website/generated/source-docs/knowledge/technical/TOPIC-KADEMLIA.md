@@ -25,7 +25,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/technical/TOPIC-KADEMLIA.md`
 - Source ID: `TOPIC-KADEMLIA`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/technical/TOPIC-KADEMLIA.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+TOPIC-KADEMLIA){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/technical/TOPIC-KADEMLIA.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+TOPIC-KADEMLIA)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

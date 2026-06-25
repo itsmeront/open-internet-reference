@@ -8,7 +8,7 @@ Thank you for helping build a comprehensive, independently verifiable knowledge 
 
 If you notice an error, outdated information, or broken link:
 
-- [Open a "Suggest an edit" issue](../../issues/new?template=suggest-edit.yml) on GitHub
+- [Open a "Suggest an edit" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml) on GitHub
 - Describe what's wrong and what the correct information should be
 - Include sources for your correction if possible
 
@@ -16,7 +16,7 @@ If you notice an error, outdated information, or broken link:
 
 To propose a new organization, lawyer, case, or topic:
 
-- [Open an "Intake proposal" issue](../../issues/new?template=intake-document.yml) on GitHub
+- [Open an "Intake proposal" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=intake-document.yml) on GitHub
 - Provide the document URL, type, relevance, and any provenance information
 - A research editor will review and create appropriate records
 

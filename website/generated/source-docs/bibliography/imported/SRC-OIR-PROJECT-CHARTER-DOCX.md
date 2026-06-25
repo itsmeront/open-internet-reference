@@ -19,7 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`
 - Source ID: `SRC-OIR-PROJECT-CHARTER-DOCX`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-OIR-PROJECT-CHARTER-DOCX){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-OIR-PROJECT-CHARTER-DOCX)
 
 !!! info "🚧 Page Status: Early draft — needs sources and review"
 

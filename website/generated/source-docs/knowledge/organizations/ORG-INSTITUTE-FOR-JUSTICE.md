@@ -37,7 +37,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md`
 - Source ID: `ORG-INSTITUTE-FOR-JUSTICE`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+ORG-INSTITUTE-FOR-JUSTICE){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+ORG-INSTITUTE-FOR-JUSTICE)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

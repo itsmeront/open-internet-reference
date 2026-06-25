@@ -20,7 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-EFF-CONTACT.md`
 - Source ID: `SRC-EFF-CONTACT`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-EFF-CONTACT.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-EFF-CONTACT){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-EFF-CONTACT.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-EFF-CONTACT)
 
 !!! info "✅ Page Status: Complete"
 

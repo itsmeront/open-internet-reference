@@ -32,7 +32,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/people/PERSON-CORYNNE-MCSHERRY.md`
 - Source ID: `PERSON-CORYNNE-MCSHERRY`
-- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/people/PERSON-CORYNNE-MCSHERRY.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PERSON-CORYNNE-MCSHERRY){ .md-button }
+- [**Edit this page**](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) | [**Suggest a change**](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PERSON-CORYNNE-MCSHERRY)
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
