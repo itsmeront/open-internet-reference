@@ -21,6 +21,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md`
 - Source ID: `SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX`
 
+!!! info "📎 Page Status: Needs additional sources"
+
+    - **Status**: `needs_sources`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: Never
+
 ---
 
 # Axona Constitutional & Public Policy Reference Manual

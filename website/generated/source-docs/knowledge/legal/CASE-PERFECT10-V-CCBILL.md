@@ -48,6 +48,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-PERFECT10-V-CCBILL.md`
 - Source ID: `CASE-PERFECT10-V-CCBILL`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 5
+    - **Research debt items**: 2
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Perfect 10, Inc. v. CCBill LLC

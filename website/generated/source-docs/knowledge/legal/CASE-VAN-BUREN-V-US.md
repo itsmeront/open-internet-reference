@@ -48,6 +48,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-VAN-BUREN-V-US.md`
 - Source ID: `CASE-VAN-BUREN-V-US`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 5
+    - **Research debt items**: 1
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Van Buren v. United States

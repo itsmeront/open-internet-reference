@@ -49,6 +49,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-RENO-V-ACLU.md`
 - Source ID: `CASE-RENO-V-ACLU`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 5
+    - **Research debt items**: 2
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Reno v. American Civil Liberties Union

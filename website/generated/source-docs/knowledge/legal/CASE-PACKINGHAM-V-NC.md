@@ -37,6 +37,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/CASE-PACKINGHAM-V-NC.md`
 - Source ID: `CASE-PACKINGHAM-V-NC`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 3
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Packingham v. North Carolina

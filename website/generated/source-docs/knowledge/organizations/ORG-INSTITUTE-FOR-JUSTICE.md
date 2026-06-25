@@ -38,6 +38,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md`
 - Source ID: `ORG-INSTITUTE-FOR-JUSTICE`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 3
+    - **Research debt items**: 3
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Institute for Justice

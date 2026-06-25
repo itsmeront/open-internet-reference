@@ -38,6 +38,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/TOPIC-COMPUTER-FRAUD.md`
 - Source ID: `TOPIC-COMPUTER-FRAUD`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 3
+    - **Research debt items**: 2
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Computer Fraud and Abuse

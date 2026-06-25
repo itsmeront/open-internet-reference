@@ -44,6 +44,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/legal/TOPIC-CODE-AS-SPEECH.md`
 - Source ID: `TOPIC-CODE-AS-SPEECH`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 3
+    - **Relationships**: 4
+    - **Research debt items**: 2
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Code as Speech

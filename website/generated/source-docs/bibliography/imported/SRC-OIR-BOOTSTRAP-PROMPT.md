@@ -20,6 +20,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`
 - Source ID: `SRC-OIR-BOOTSTRAP-PROMPT`
 
+!!! info "🚧 Page Status: Early draft — needs sources and review"
+
+    - **Status**: `draft`
+    - **Sources**: 0
+    - **Relationships**: 0
+    - **Research debt items**: 0
+    - **Last verified**: Never
+
 ---
 
 # OIR Bootstrap Prompt

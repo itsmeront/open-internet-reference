@@ -35,6 +35,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/organizations/ORG-CDT.md`
 - Source ID: `ORG-CDT`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 2
+    - **Relationships**: 2
+    - **Research debt items**: 4
+    - **Last verified**: 2026-06-25
+
 ---
 
 # Center for Democracy and Technology

@@ -44,6 +44,14 @@ This page is generated from the source Markdown file so it can be viewed inside 
 - Source path: `knowledge/organizations/ORG-SIGNAL.md`
 - Source ID: `ORG-SIGNAL`
 
+!!! info "📝 Page Status: Draft — sourced but not yet reviewed"
+
+    - **Status**: `draft`
+    - **Sources**: 4
+    - **Relationships**: 4
+    - **Research debt items**: 2
+    - **Last verified**: 2026-06-19
+
 ---
 
 # Signal
