@@ -5,7 +5,9 @@
     {
       "sources": [
         "SRC-BERNSTEIN-EFF",
-        "SRC-BERNSTEIN-JUSTIA"
+        "SRC-BERNSTEIN-EFF-25",
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-JEWEL-V-NSA-EFF"
       ],
       "term": "`CASE-BERNSTEIN-V-DOJ`"
     },
@@ -129,8 +131,11 @@
     },
     {
       "sources": [
+        "SRC-BERNSTEIN-EFF-25",
         "SRC-COHN-EFF-BIO",
-        "SRC-COHN-EFF-DEPARTURE"
+        "SRC-COHN-EFF-DEPARTURE",
+        "SRC-COHN-FOSSFORCE",
+        "SRC-JEWEL-V-NSA-EFF"
       ],
       "term": "`PERSON-CINDY-COHN`"
     },

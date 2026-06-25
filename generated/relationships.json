@@ -14,6 +14,16 @@
     {
       "declared_in": "CASE-BERNSTEIN-V-DOJ",
       "notes": null,
+      "object": "SRC-BERNSTEIN-EFF-25",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-EFF-25"
+      ],
+      "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
+      "declared_in": "CASE-BERNSTEIN-V-DOJ",
+      "notes": null,
       "object": "SRC-BERNSTEIN-JUSTIA",
       "predicate": "cites",
       "sources": [
@@ -604,6 +614,26 @@
     {
       "declared_in": "PERSON-CINDY-COHN",
       "notes": null,
+      "object": "CASE-BERNSTEIN-V-DOJ",
+      "predicate": "argued",
+      "sources": [
+        "SRC-BERNSTEIN-EFF-25"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-BERNSTEIN-EFF-25",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-EFF-25"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
       "object": "SRC-COHN-EFF-BIO",
       "predicate": "cites",
       "sources": [
@@ -618,6 +648,26 @@
       "predicate": "cites",
       "sources": [
         "SRC-COHN-EFF-DEPARTURE"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-COHN-FOSSFORCE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-COHN-FOSSFORCE"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-JEWEL-V-NSA-EFF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JEWEL-V-NSA-EFF"
       ],
       "subject": "PERSON-CINDY-COHN"
     },

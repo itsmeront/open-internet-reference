@@ -7,7 +7,9 @@ Term count: 95
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
 - [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
 ## `CASE-CARPENTER-V-US` { #case-carpenter-v-us }
 
@@ -95,8 +97,11 @@ Term count: 95
 
 ## `PERSON-CINDY-COHN` { #person-cindy-cohn }
 
+- [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+- [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+- [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
 ## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
 

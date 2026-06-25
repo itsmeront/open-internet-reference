@@ -4,7 +4,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 104
+- Records: 107
 - Records needing review: 46
 - Records missing `last_verified`: 7
 
@@ -12,7 +12,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 - [`draft`](#draft-records): 42
 - [`needs_sources`](#needs-sources-records): 4
-- [`verified`](#verified-records): 58
+- [`verified`](#verified-records): 61
 
 ## By Type
 
@@ -21,7 +21,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`organization`](#organization-records): 11
 - [`person`](#person-records): 1
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 65
+- [`source`](#source-records): 68
 - [`statute`](#statute-records): 2
 - [`topic`](#topic-records): 8
 
@@ -141,6 +141,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-ACLU-CONTACT: American Civil Liberties Union Contact Page`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md)
 - [`SRC-ACLU-HISTORY: American Civil Liberties Union History Page`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
 - [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
@@ -148,6 +149,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+- [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
@@ -156,6 +158,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
 - [`SRC-IJ-FIRST-AMENDMENT: Institute for Justice First Amendment Practice Area`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+- [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 - [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
 - [`SRC-KADEMLIA-PAPER: Kademlia: A Peer-to-Peer Information System Based on the XOR Metric`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md)
@@ -250,6 +253,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX: Axona Legal & Public Policy Outreach Contacts Expanded`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md)
 - [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD: Axona Legal & Public Policy Outreach Contacts Markdown`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md)
 - [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
+- [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
@@ -257,6 +261,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
+- [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
@@ -265,6 +270,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
 - [`SRC-IJ-FIRST-AMENDMENT: Institute for Justice First Amendment Practice Area`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+- [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 - [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
 - [`SRC-KADEMLIA-PAPER: Kademlia: A Peer-to-Peer Information System Based on the XOR Metric`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md)

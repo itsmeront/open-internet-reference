@@ -24,6 +24,14 @@
           "subject": "CASE-BERNSTEIN-V-DOJ"
         },
         {
+          "object": "SRC-BERNSTEIN-EFF-25",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BERNSTEIN-EFF-25"
+          ],
+          "subject": "CASE-BERNSTEIN-V-DOJ"
+        },
+        {
           "object": "TOPIC-FIRST-AMENDMENT",
           "predicate": "related_to",
           "sources": [
@@ -43,7 +51,8 @@
       "source_doc_path": "source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
       "sources": [
         "SRC-BERNSTEIN-JUSTIA",
-        "SRC-BERNSTEIN-EFF"
+        "SRC-BERNSTEIN-EFF",
+        "SRC-BERNSTEIN-EFF-25"
       ],
       "status": "draft",
       "summary": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.",
@@ -959,10 +968,42 @@
           "subject": "PERSON-CINDY-COHN"
         },
         {
+          "object": "SRC-COHN-FOSSFORCE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-COHN-FOSSFORCE"
+          ],
+          "subject": "PERSON-CINDY-COHN"
+        },
+        {
+          "object": "SRC-JEWEL-V-NSA-EFF",
+          "predicate": "cites",
+          "sources": [
+            "SRC-JEWEL-V-NSA-EFF"
+          ],
+          "subject": "PERSON-CINDY-COHN"
+        },
+        {
+          "object": "SRC-BERNSTEIN-EFF-25",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BERNSTEIN-EFF-25"
+          ],
+          "subject": "PERSON-CINDY-COHN"
+        },
+        {
           "object": "ORG-EFF",
           "predicate": "affiliated_with",
           "sources": [
             "SRC-COHN-EFF-BIO"
+          ],
+          "subject": "PERSON-CINDY-COHN"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "argued",
+          "sources": [
+            "SRC-BERNSTEIN-EFF-25"
           ],
           "subject": "PERSON-CINDY-COHN"
         }
@@ -970,7 +1011,10 @@
       "source_doc_path": "source-docs/knowledge/people/PERSON-CINDY-COHN.md",
       "sources": [
         "SRC-COHN-EFF-BIO",
-        "SRC-COHN-EFF-DEPARTURE"
+        "SRC-COHN-EFF-DEPARTURE",
+        "SRC-COHN-FOSSFORCE",
+        "SRC-JEWEL-V-NSA-EFF",
+        "SRC-BERNSTEIN-EFF-25"
       ],
       "status": "draft",
       "summary": "Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.",

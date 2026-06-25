@@ -13,6 +13,7 @@ tags:
 sources:
   - SRC-BERNSTEIN-JUSTIA
   - SRC-BERNSTEIN-EFF
+  - SRC-BERNSTEIN-EFF-25
 relationships:
   - subject: CASE-BERNSTEIN-V-DOJ
     predicate: cites
@@ -24,6 +25,11 @@ relationships:
     object: SRC-BERNSTEIN-EFF
     sources:
       - SRC-BERNSTEIN-EFF
+  - subject: CASE-BERNSTEIN-V-DOJ
+    predicate: cites
+    object: SRC-BERNSTEIN-EFF-25
+    sources:
+      - SRC-BERNSTEIN-EFF-25
   - subject: CASE-BERNSTEIN-V-DOJ
     predicate: related_to
     object: TOPIC-FIRST-AMENDMENT
@@ -63,6 +69,10 @@ The case arose during the 1990s "crypto wars" when the U.S. government classifie
 
 The Ninth Circuit treated encryption source code as expressive speech subject to First Amendment protection, rejecting the government's argument that the functional nature of code removes it from First Amendment coverage. The court characterized the EAR licensing requirements as a prior restraint on speech — one of the most disfavored forms of government restriction under First Amendment doctrine. This holding established that source code publication cannot be subjected to prior review and licensing by the government without meeting strict constitutional standards.
 
+## Practical Impact
+
+EFF describes this as "one of EFF's first major legal victories" that "established code as speech and changed United States export regulations on encryption software, paving the way for international e-commerce." The ruling led to regulatory changes that made it easier to publish encryption software online without U.S. government approval. This directly enabled the global availability of open source encryption tools (OpenSSL, GnuPG, etc.) and secure internet protocols (TLS/SSL) that underpin modern online commerce and communications.
+
 ## Significance for Software Companies
 
 This case is foundational for the principle that source code is speech. It directly protects the right of software companies and developers to publish, distribute, and share source code — including encryption implementations — without government pre-approval. Any attempt to restrict code distribution must now be evaluated under First Amendment standards.
@@ -71,6 +81,7 @@ This case is foundational for the principle that source code is speech. It direc
 
 - `CASE-BERNSTEIN-V-DOJ` cites `SRC-BERNSTEIN-JUSTIA`.
 - `CASE-BERNSTEIN-V-DOJ` cites `SRC-BERNSTEIN-EFF`.
+- `CASE-BERNSTEIN-V-DOJ` cites `SRC-BERNSTEIN-EFF-25`.
 - `CASE-BERNSTEIN-V-DOJ` related_to `TOPIC-FIRST-AMENDMENT`.
 - `CASE-BERNSTEIN-V-DOJ` related_to `TOPIC-CODE-AS-SPEECH`.
 
@@ -78,10 +89,9 @@ This case is foundational for the principle that source code is speech. It direc
 
 - `SRC-BERNSTEIN-JUSTIA`: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
 - `SRC-BERNSTEIN-EFF`: Bernstein v. US Dept. of Justice EFF Case Page.
+- `SRC-BERNSTEIN-EFF-25`: EFF at 25 — Remembering the Case that Established Code as Speech.
 
 ## Research Debt
 
 - Add the earlier district court opinions (Bernstein I through IV).
 - Document the subsequent en banc vacatur and its procedural history.
-- Document practical impact on encryption export regulations post-decision.
-- Connect to Cindy Cohn's attorney page.

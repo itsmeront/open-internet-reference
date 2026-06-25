@@ -22,7 +22,7 @@
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>58</dd>
+        <dd>61</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -489,7 +489,7 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 
 - **Record ID:** `PERSON-CINDY-COHN`
 - **Status:** draft
-- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`), EFF Press Release - Cindy Cohn Stepping Down (`SRC-COHN-EFF-DEPARTURE`)
+- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`), EFF Press Release - Cindy Cohn Stepping Down (`SRC-COHN-EFF-DEPARTURE`), FOSS Force - Cohn Returns to the Courtroom (`SRC-COHN-FOSSFORCE`), EFF Jewel v. NSA Case Page - Supreme Court Rejection (`SRC-JEWEL-V-NSA-EFF`), EFF at 25 - Remembering the Case that Established Code as Speech (`SRC-BERNSTEIN-EFF-25`)
 - **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
 
 Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
@@ -557,7 +557,7 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 
 - **Record ID:** `CASE-BERNSTEIN-V-DOJ`
 - **Status:** draft
-- **Sources:** Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Bernstein v. US Dept. of Justice EFF Case Page (`SRC-BERNSTEIN-EFF`)
+- **Sources:** Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Bernstein v. US Dept. of Justice EFF Case Page (`SRC-BERNSTEIN-EFF`), EFF at 25 - Remembering the Case that Established Code as Speech (`SRC-BERNSTEIN-EFF-25`)
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
@@ -957,6 +957,15 @@ EFF case page documenting the history and significance of Bernstein v. DOJ.
 
 ---
 
+### EFF at 25 - Remembering the Case that Established Code as Speech
+
+- **Source ID:** `SRC-BERNSTEIN-EFF-25`
+- **Status:** verified
+
+EFF retrospective article on the significance of Bernstein v. DOJ in establishing code as speech and changing encryption export regulations.
+
+---
+
 ### Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)
 
 - **Source ID:** `SRC-BERNSTEIN-JUSTIA`
@@ -1017,6 +1026,15 @@ Official EFF biography page for Cindy Cohn documenting her role and career histo
 - **Status:** verified
 
 EFF press release announcing Cindy Cohn's departure as Executive Director after 25 years with the organization.
+
+---
+
+### FOSS Force - Cohn Returns to the Courtroom
+
+- **Source ID:** `SRC-COHN-FOSSFORCE`
+- **Status:** verified
+
+FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation after departing as EFF Executive Director.
 
 ---
 
@@ -1089,6 +1107,15 @@ Official about page of the Institute for Justice describing its mission and prac
 - **Status:** verified
 
 Official First Amendment issues page of the Institute for Justice describing its free speech litigation.
+
+---
+
+### EFF Jewel v. NSA Case Page - Supreme Court Rejection
+
+- **Source ID:** `SRC-JEWEL-V-NSA-EFF`
+- **Status:** verified
+
+EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, ending the flagship mass surveillance challenge without a ruling on the merits.
 
 ---
 
