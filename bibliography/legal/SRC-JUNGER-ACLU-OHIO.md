@@ -1,0 +1,35 @@
+---
+id: SRC-JUNGER-ACLU-OHIO
+title: Junger v. Daley ACLU Ohio Case Page
+type: source
+status: verified
+summary: ACLU of Ohio case page documenting Junger v. Daley, 209 F.3d 481 (6th Cir. 2000).
+tags:
+  - source
+  - case
+  - first-amendment
+  - cryptography
+  - speech-and-code
+sources: []
+relationships: []
+last_verified: "2026-06-25"
+---
+
+# Junger v. Daley ACLU Ohio Case Page
+
+## Bibliographic Metadata
+
+- Author or issuing body: ACLU of Ohio
+- Publication date: Not dated
+- Source type: Organizational case documentation
+- URL: https://www.acluohio.org/en/cases/junger-v-daley-209-f3d-481-6th-cir-2000
+- Archive URL: None recorded
+- Access date: 2026-06-25
+
+## Reliability Notes
+
+Official ACLU of Ohio case page. ACLU attorneys argued on behalf of Junger in this case, making this a firsthand litigation account.
+
+## Used For
+
+- `CASE-JUNGER-V-DALEY`
