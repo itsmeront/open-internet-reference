@@ -1,0 +1,143 @@
+backend:
+  name: github
+  repo: itsmeront/open-internet-reference
+  branch: main
+  open_authoring: true  # Allow contributions from non-collaborators via fork
+
+publish_mode: editorial_workflow  # Changes go through draft → review → publish (PR-based)
+
+media_folder: "website/assets/images"
+public_folder: "/assets/images"
+
+# Content collections
+collections:
+  # Knowledge: Organizations
+  - name: "organizations"
+    label: "Organizations"
+    label_singular: "Organization"
+    folder: "knowledge/organizations"
+    create: true
+    slug: "{{fields.id}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string", pattern: ['^ORG-[A-Z0-9-]+$', "Must start with ORG- followed by uppercase letters/numbers/hyphens"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "organization" }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["organization"] }
+      - { label: "Sources", name: "sources", widget: "list", default: [] }
+      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
+          { label: "Subject", name: "subject", widget: "string" },
+          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
+          { label: "Object", name: "object", widget: "string" },
+          { label: "Sources", name: "sources", widget: "list" }
+        ] }
+      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Knowledge: People/Attorneys
+  - name: "people"
+    label: "Lawyers & People"
+    label_singular: "Person"
+    folder: "knowledge/people"
+    create: true
+    slug: "{{fields.id}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string", pattern: ['^(PERSON|ATT)-[A-Z0-9-]+$', "Must start with PERSON- or ATT- followed by uppercase letters/numbers/hyphens"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "select", options: ["person", "attorney", "judge"], default: "attorney" }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["attorney"] }
+      - { label: "Sources", name: "sources", widget: "list", default: [] }
+      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
+          { label: "Subject", name: "subject", widget: "string" },
+          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
+          { label: "Object", name: "object", widget: "string" },
+          { label: "Sources", name: "sources", widget: "list" }
+        ] }
+      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Knowledge: Legal (cases, statutes, topics)
+  - name: "legal"
+    label: "Law"
+    label_singular: "Legal Record"
+    folder: "knowledge/legal"
+    create: true
+    slug: "{{fields.id}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string", pattern: ['^(CASE|STAT|TOPIC)-[A-Z0-9-]+$', "Must start with CASE-, STAT-, or TOPIC-"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "select", options: ["case", "statute", "regulation", "topic"], default: "case" }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: [] }
+      - { label: "Sources", name: "sources", widget: "list", default: [] }
+      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
+          { label: "Subject", name: "subject", widget: "string" },
+          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
+          { label: "Object", name: "object", widget: "string" },
+          { label: "Sources", name: "sources", widget: "list" }
+        ] }
+      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Bibliography: Source Records
+  - name: "sources"
+    label: "Sources"
+    label_singular: "Source Record"
+    folder: "bibliography"
+    create: true
+    nested: { depth: 3 }
+    slug: "{{fields.id}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string", pattern: ['^SRC-[A-Z0-9-]+$', "Must start with SRC-"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "source" }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["source"] }
+      - { label: "Sources", name: "sources", widget: "list", default: [] }
+      - { label: "Relationships", name: "relationships", widget: "list", default: [] }
+      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  # Contacts
+  - name: "contacts"
+    label: "Contacts"
+    label_singular: "Contact Record"
+    folder: "contacts"
+    create: true
+    slug: "{{fields.id}}"
+    extension: "md"
+    format: "yaml-frontmatter"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string", pattern: ['^CONTACT-[A-Z0-9-]+$', "Must start with CONTACT-"] }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "hidden", default: "organization" }
+      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
+      - { label: "Summary", name: "summary", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["organization", "outreach"] }
+      - { label: "Sources", name: "sources", widget: "list", default: [] }
+      - { label: "Relationships", name: "relationships", widget: "list", default: [] }
+      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }

@@ -20,6 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md`
 - Source ID: `SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX){ .md-button }
 
 !!! info "📎 Page Status: Needs additional sources"
 

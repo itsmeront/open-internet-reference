@@ -20,6 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/legal/SRC-BERNSTEIN-EFF.md`
 - Source ID: `SRC-BERNSTEIN-EFF`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/legal/SRC-BERNSTEIN-EFF.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-BERNSTEIN-EFF){ .md-button }
 
 !!! info "✅ Page Status: Complete"
 

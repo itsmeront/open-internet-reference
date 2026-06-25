@@ -21,6 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 GENERATED_DIR = ROOT / "generated"
 WEBSITE_GENERATED_DIR = ROOT / "website" / "generated"
 SOURCE_DOCS_DIR = WEBSITE_GENERATED_DIR / "source-docs"
+GITHUB_REPO_URL = "https://github.com/itsmeront/open-internet-reference"
 SOURCE_CODE_ID_PATTERN = re.compile(r"`(SRC-[A-Z0-9-]+)`")
 USED_FOR_ITEM_PATTERN = re.compile(r"^-\s+(.+?)\s*$")
 METADATA_ITEM_PATTERN = re.compile(r"^-\s+([^:]+):\s*(.*?)\s*$")
@@ -1496,6 +1497,9 @@ def write_source_doc_mirror(
 
     status_banner = _page_status_banner(record, raw_body)
 
+    edit_url = f"{GITHUB_REPO_URL}/edit/main/{record['path']}"
+    issue_url = f"{GITHUB_REPO_URL}/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+{record['id']}"
+
     notice = [
         "# Generated Source Mirror",
         "",
@@ -1503,6 +1507,7 @@ def write_source_doc_mirror(
         "",
         f"- Source path: `{record['path']}`",
         f"- Source ID: `{record['id']}`",
+        f"- [:material-pencil: Edit this page]({edit_url}){{ .md-button }}  [:material-comment-alert-outline: Suggest a change]({issue_url}){{ .md-button }}",
         "",
         *status_banner,
         "---",

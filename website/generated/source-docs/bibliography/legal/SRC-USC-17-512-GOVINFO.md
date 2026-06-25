@@ -20,6 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/legal/SRC-USC-17-512-GOVINFO.md`
 - Source ID: `SRC-USC-17-512-GOVINFO`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/legal/SRC-USC-17-512-GOVINFO.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-USC-17-512-GOVINFO){ .md-button }
 
 !!! info "✅ Page Status: Complete"
 

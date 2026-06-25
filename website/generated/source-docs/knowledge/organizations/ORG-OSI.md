@@ -32,6 +32,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/organizations/ORG-OSI.md`
 - Source ID: `ORG-OSI`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/organizations/ORG-OSI.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+ORG-OSI){ .md-button }
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

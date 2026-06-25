@@ -32,6 +32,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `knowledge/people/PERSON-JENNIFER-GRANICK.md`
 - Source ID: `PERSON-JENNIFER-GRANICK`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/knowledge/people/PERSON-JENNIFER-GRANICK.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+PERSON-JENNIFER-GRANICK){ .md-button }
 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 

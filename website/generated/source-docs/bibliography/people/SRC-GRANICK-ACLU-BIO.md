@@ -20,6 +20,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/people/SRC-GRANICK-ACLU-BIO.md`
 - Source ID: `SRC-GRANICK-ACLU-BIO`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/people/SRC-GRANICK-ACLU-BIO.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-GRANICK-ACLU-BIO){ .md-button }
 
 !!! info "✅ Page Status: Complete"
 

@@ -19,6 +19,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 - Source path: `bibliography/organizations/SRC-FSF-ABOUT.md`
 - Source ID: `SRC-FSF-ABOUT`
+- [:material-pencil: Edit this page](https://github.com/itsmeront/open-internet-reference/edit/main/bibliography/organizations/SRC-FSF-ABOUT.md){ .md-button }  [:material-comment-alert-outline: Suggest a change](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml&title=Edit+suggestion:+SRC-FSF-ABOUT){ .md-button }
 
 !!! info "✅ Page Status: Complete"
 
