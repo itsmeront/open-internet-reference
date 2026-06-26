@@ -1,29 +1,49 @@
 #!/usr/bin/env bash
 # RestartAndUpdateOIR.sh - Pull latest and rebuild the OIR site
-# Run from anywhere as: sudo bash /opt/oir/repo/RestartAndUpdateOIR.sh
+#
+# Usage (run as root or with sudo):
+#   sudo bash /opt/oir/repo/RestartAndUpdateOIR.sh
+#
+# Or run as oir user directly (nginx reload will be skipped):
+#   sudo -u oir bash /opt/oir/repo/RestartAndUpdateOIR.sh
 
 set -euo pipefail
 
 echo "🔄 OIR Site Update and Restart"
 echo "=============================="
 
-cd /opt/oir/repo
+OIR_HOME="/opt/oir"
+REPO="$OIR_HOME/repo"
+VENV="$OIR_HOME/venv/bin"
+
+cd "$REPO"
+
+# Determine how to run commands as oir
+if [ "$(whoami)" = "oir" ]; then
+    AS_OIR=""
+else
+    AS_OIR="sudo -u oir -H"
+fi
 
 echo "→ Pulling latest from GitHub..."
-git fetch origin main
-git reset --hard origin/main
+$AS_OIR git fetch origin main
+$AS_OIR git reset --hard origin/main
 
 echo "→ Validating metadata..."
-su oir -c "/opt/oir/venv/bin/python tools/validate_metadata.py"
+$AS_OIR $VENV/python tools/validate_metadata.py
 
 echo "→ Generating indexes..."
-su oir -c "/opt/oir/venv/bin/python tools/generate_indexes.py"
+$AS_OIR $VENV/python tools/generate_indexes.py
 
 echo "→ Building MkDocs site..."
-su oir -c "/opt/oir/venv/bin/mkdocs build --site-dir /opt/oir/site"
+$AS_OIR $VENV/mkdocs build --site-dir "$OIR_HOME/site"
 
 echo "→ Reloading nginx..."
-docker exec yz-webserver nginx -s reload
+if [ "$(whoami)" = "root" ]; then
+    docker exec yz-webserver nginx -s reload
+else
+    echo "   (skipped — run as root to reload nginx)"
+fi
 
 echo ""
 echo "✅ OIR site updated and live at https://openinternetresearch.com"
