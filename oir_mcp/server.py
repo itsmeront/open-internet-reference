@@ -30,8 +30,7 @@ from mcp.server.fastmcp import FastMCP
 # Initialize FastMCP server
 mcp = FastMCP(
     "oir-knowledge-base",
-    version="0.1.0",
-    description="Open Internet Reference knowledge base - query organizations, lawyers, cases, and research debt for digital rights and software freedom.",
+    instructions="Open Internet Reference knowledge base - query organizations, lawyers, cases, and research debt for digital rights and software freedom.",
 )
 
 # Repository root (auto-detect)
@@ -439,6 +438,415 @@ def get_page(page_id: str) -> str:
                 result += f"- {rel.get('subject')} → {rel.get('predicate')} → {rel.get('object')}\n"
 
     result += f"\n## Content\n\n{record.get('_body', 'No content')}"
+
+    return result
+
+
+# ─── Advisor Tools ─────────────────────────────────────────────────────────────
+
+
+# Topic keywords mapped to relevant tags for intelligent matching
+TOPIC_KEYWORDS = {
+    "censorship": ["first-amendment", "speech-and-code", "digital-rights"],
+    "dmca": ["copyright", "intermediary-liability", "safe-harbor"],
+    "copyright": ["copyright", "intermediary-liability"],
+    "encryption": ["cryptography", "privacy", "fourth-amendment"],
+    "backdoor": ["cryptography", "privacy", "surveillance"],
+    "surveillance": ["surveillance", "privacy", "fourth-amendment"],
+    "privacy": ["privacy", "fourth-amendment", "surveillance"],
+    "code": ["speech-and-code", "first-amendment", "open-source-software"],
+    "open source": ["open-source-software", "copyright"],
+    "license": ["open-source-software", "copyright"],
+    "gpl": ["open-source-software", "copyright"],
+    "cfaa": ["computer-crime"],
+    "hacking": ["computer-crime"],
+    "scraping": ["computer-crime"],
+    "takedown": ["copyright", "intermediary-liability", "safe-harbor"],
+    "platform": ["intermediary-liability", "safe-harbor", "internet-governance"],
+    "section 230": ["intermediary-liability", "internet-governance"],
+    "free speech": ["first-amendment", "speech-and-code", "digital-rights"],
+    "export": ["cryptography", "export-control", "speech-and-code"],
+    "warrant": ["fourth-amendment", "privacy", "surveillance"],
+    "data": ["privacy", "fourth-amendment"],
+    "internet": ["internet-governance", "digital-rights"],
+    "api": ["copyright", "speech-and-code", "open-source-software"],
+    "interoperability": ["copyright", "open-source-software"],
+}
+
+
+def _find_relevant_tags(situation: str) -> list[str]:
+    """Find relevant taxonomy tags based on a situation description."""
+    situation_lower = situation.lower()
+    relevant_tags: set[str] = set()
+
+    for keyword, tags in TOPIC_KEYWORDS.items():
+        if keyword in situation_lower:
+            relevant_tags.update(tags)
+
+    # If no keywords matched, try broader matching
+    if not relevant_tags:
+        relevant_tags = {"digital-rights", "first-amendment", "open-source-software"}
+
+    return list(relevant_tags)
+
+
+def _extract_contact_info(body: str) -> str:
+    """Extract contact information section from a page body."""
+    lines = []
+    in_contact = False
+    in_engage = False
+
+    for line in body.splitlines():
+        if line.startswith("## "):
+            heading = line.strip().lower()
+            in_contact = "contact" in heading
+            in_engage = "how to engage" in heading or "how to engage for legal help" in heading
+            if in_contact or in_engage:
+                lines.append(line)
+            continue
+        if in_contact or in_engage:
+            if line.startswith("## "):
+                break
+            lines.append(line)
+
+    return "\n".join(lines).strip()
+
+
+@mcp.tool()
+def find_help(
+    situation: str,
+) -> str:
+    """Find organizations, lawyers, and legal precedent relevant to a specific situation.
+
+    Describe your problem and this tool will identify who can help, what legal
+    precedent supports you, and how to make contact.
+
+    Args:
+        situation: Description of your situation (e.g., "My open source project received a DMCA takedown", "Government demanding we add encryption backdoor", "Prosecuted under CFAA for security research")
+
+    Returns:
+        Relevant organizations with contact info, lawyers who handle similar cases, applicable legal precedent, and policymakers who've legislated on the issue.
+    """
+    records = load_all_records()
+    relevant_tags = _find_relevant_tags(situation)
+
+    # Find matching records by tag relevance
+    def relevance_score(record: dict[str, Any]) -> int:
+        record_tags = set(record.get("tags", []))
+        return len(record_tags.intersection(relevant_tags))
+
+    # Gather organizations that can help
+    orgs = [r for r in records if r.get("type") == "organization" and relevance_score(r) > 0]
+    orgs.sort(key=relevance_score, reverse=True)
+
+    # Gather attorneys
+    attorneys = [r for r in records if r.get("type") == "attorney" and relevance_score(r) > 0]
+    attorneys.sort(key=relevance_score, reverse=True)
+
+    # Gather relevant cases
+    cases = [r for r in records if r.get("type") == "case" and relevance_score(r) > 0]
+    cases.sort(key=relevance_score, reverse=True)
+
+    # Gather policymakers
+    policymakers = [r for r in records if r.get("type") == "person" and "person" in r.get("tags", []) and relevance_score(r) > 0]
+    policymakers.sort(key=relevance_score, reverse=True)
+
+    # Gather contacts
+    contacts = [r for r in records if r.get("id", "").startswith("CONTACT-") and relevance_score(r) > 0]
+    contacts.sort(key=relevance_score, reverse=True)
+
+    # Build response
+    result = f"# Help for: {situation}\n\n"
+    result += f"Matched topics: {', '.join(relevant_tags)}\n\n"
+
+    # Organizations
+    if orgs:
+        result += "## Organizations That Can Help\n\n"
+        for org in orgs[:5]:
+            result += f"### {org.get('title')}\n"
+            result += f"{org.get('summary', 'No summary')}\n\n"
+
+    # Contacts with intake info
+    if contacts:
+        result += "## How to Make Contact\n\n"
+        for contact in contacts[:5]:
+            result += f"### {contact.get('title')}\n"
+            contact_info = _extract_contact_info(contact.get("_body", ""))
+            if contact_info:
+                result += f"{contact_info}\n\n"
+            else:
+                result += f"{contact.get('summary', '')}\n\n"
+
+    # Attorneys
+    if attorneys:
+        result += "## Lawyers Who Handle These Issues\n\n"
+        for att in attorneys[:5]:
+            result += f"- **{att.get('title')}** — {att.get('summary', 'No summary')}\n"
+        result += "\n"
+
+    # Cases
+    if cases:
+        result += "## Relevant Legal Precedent\n\n"
+        for case in cases[:5]:
+            result += f"- **{case.get('title')}** — {case.get('summary', 'No summary')}\n"
+        result += "\n"
+
+    # Policymakers
+    if policymakers:
+        result += "## Policymakers Active on This Issue\n\n"
+        for pm in policymakers[:4]:
+            result += f"- **{pm.get('title')}** — {pm.get('summary', 'No summary')}\n"
+        result += "\n"
+
+    if not orgs and not attorneys and not cases:
+        result += "\n⚠️ No strong matches found. Try describing your situation differently, or use `query_knowledge` to search by specific terms.\n"
+
+    return result
+
+
+@mcp.tool()
+def find_precedent(
+    legal_issue: str,
+    jurisdiction: str = "US federal",
+) -> str:
+    """Find court cases and statutes relevant to a specific legal issue.
+
+    Args:
+        legal_issue: Description of the legal issue (e.g., "source code as protected speech", "API copyright fair use", "warrantless cell phone tracking")
+        jurisdiction: Jurisdiction context (default "US federal")
+
+    Returns:
+        Relevant cases with holdings, statutes, and their significance for the issue.
+    """
+    records = load_all_records()
+    relevant_tags = _find_relevant_tags(legal_issue)
+
+    # Find cases and statutes
+    def relevance_score(record: dict[str, Any]) -> int:
+        score = len(set(record.get("tags", [])).intersection(relevant_tags))
+        # Boost if the issue text appears in summary or body
+        searchable = (record.get("summary", "") + " " + record.get("_body", "")).lower()
+        for word in legal_issue.lower().split():
+            if len(word) > 3 and word in searchable:
+                score += 1
+        return score
+
+    cases = [r for r in records if r.get("type") == "case"]
+    statutes = [r for r in records if r.get("type") == "statute"]
+    topics = [r for r in records if r.get("type") == "topic" and relevance_score(r) > 0]
+
+    # Score and sort
+    scored_cases = [(relevance_score(c), c) for c in cases]
+    scored_cases = [(s, c) for s, c in scored_cases if s > 0]
+    scored_cases.sort(key=lambda x: x[0], reverse=True)
+
+    scored_statutes = [(relevance_score(s), s) for s in statutes]
+    scored_statutes = [(s, st) for s, st in scored_statutes if s > 0]
+    scored_statutes.sort(key=lambda x: x[0], reverse=True)
+
+    result = f"# Legal Precedent: {legal_issue}\n\n"
+    result += f"Jurisdiction: {jurisdiction}\n"
+    result += f"Matched topics: {', '.join(relevant_tags)}\n\n"
+
+    if scored_cases:
+        result += "## Relevant Cases\n\n"
+        for score, case in scored_cases[:8]:
+            result += f"### {case.get('title')} (relevance: {score})\n"
+            result += f"**Summary**: {case.get('summary', 'No summary')}\n\n"
+
+            # Extract key sections from body
+            body = case.get("_body", "")
+
+            # Get significance section if available
+            for section_name in ["## Significance", "## Practical Impact", "## Legal Analysis"]:
+                if section_name in body:
+                    section_start = body.index(section_name)
+                    section_content = body[section_start:]
+                    # Find next ## heading
+                    next_heading = section_content.find("\n## ", 1)
+                    if next_heading > 0:
+                        section_content = section_content[:next_heading]
+                    result += f"{section_content.strip()}\n\n"
+                    break
+
+    if scored_statutes:
+        result += "## Relevant Statutes\n\n"
+        for score, statute in scored_statutes[:4]:
+            result += f"- **{statute.get('title')}** — {statute.get('summary', 'No summary')}\n"
+        result += "\n"
+
+    if topics:
+        result += "## Related Legal Topics\n\n"
+        for topic in topics[:4]:
+            result += f"- **{topic.get('title')}** — {topic.get('summary', 'No summary')}\n"
+        result += "\n"
+
+    if not scored_cases and not scored_statutes:
+        result += "\n⚠️ No cases or statutes found matching this issue. Try broader terms or use `query_knowledge` to explore.\n"
+
+    return result
+
+
+@mcp.tool()
+def get_contacts_for(
+    topic: str,
+) -> str:
+    """Get actionable contact information for organizations and lawyers relevant to a topic.
+
+    Args:
+        topic: The topic area (e.g., "CFAA", "encryption", "copyright", "open source licensing", "surveillance", "free speech")
+
+    Returns:
+        Contact records with intake paths, organized by type (pro bono organizations, commercial law firms, policymakers).
+    """
+    records = load_all_records()
+    relevant_tags = _find_relevant_tags(topic)
+
+    # Find contacts
+    contacts = [r for r in records if r.get("id", "").startswith("CONTACT-")]
+    orgs = [r for r in records if r.get("type") == "organization" and not r.get("id", "").startswith("CONTACT-")]
+
+    def relevance_score(record: dict[str, Any]) -> int:
+        score = len(set(record.get("tags", [])).intersection(relevant_tags))
+        searchable = (record.get("summary", "") + " " + record.get("_body", "")).lower()
+        if topic.lower() in searchable:
+            score += 2
+        return score
+
+    relevant_contacts = [(relevance_score(c), c) for c in contacts]
+    relevant_contacts = [(s, c) for s, c in relevant_contacts if s > 0]
+    relevant_contacts.sort(key=lambda x: x[0], reverse=True)
+
+    result = f"# Contacts for: {topic}\n\n"
+    result += f"Matched topics: {', '.join(relevant_tags)}\n\n"
+
+    # Separate pro bono from commercial
+    pro_bono = []
+    commercial = []
+
+    for score, contact in relevant_contacts:
+        body = contact.get("_body", "").lower()
+        if "commercial law firm" in body or "paid legal representation" in body:
+            commercial.append((score, contact))
+        else:
+            pro_bono.append((score, contact))
+
+    if pro_bono:
+        result += "## Pro Bono / Nonprofit Organizations\n\n"
+        result += "*These organizations may provide free legal assistance:*\n\n"
+        for score, contact in pro_bono[:5]:
+            result += f"### {contact.get('title')}\n"
+            result += f"{contact.get('summary', '')}\n\n"
+            contact_info = _extract_contact_info(contact.get("_body", ""))
+            if contact_info:
+                result += f"{contact_info}\n\n"
+            result += "---\n\n"
+
+    if commercial:
+        result += "## Commercial Law Firms\n\n"
+        result += "*These firms provide paid representation for technology companies:*\n\n"
+        for score, contact in commercial[:5]:
+            result += f"### {contact.get('title')}\n"
+            result += f"{contact.get('summary', '')}\n\n"
+            contact_info = _extract_contact_info(contact.get("_body", ""))
+            if contact_info:
+                result += f"{contact_info}\n\n"
+            result += "---\n\n"
+
+    if not relevant_contacts:
+        result += "\n⚠️ No contacts found for this topic. Try broader terms like 'digital rights', 'open source', or 'privacy'.\n"
+
+    return result
+
+
+@mcp.tool()
+def summarize_landscape(
+    topic: str,
+) -> str:
+    """Get a complete overview of the legal and organizational landscape for a topic area.
+
+    Provides a comprehensive summary including: relevant cases, organizations, attorneys,
+    policymakers, statutes, current legislative status, and how to get help.
+
+    Args:
+        topic: Topic area (e.g., "code as speech", "encryption rights", "CFAA reform", "open source licensing", "internet censorship")
+
+    Returns:
+        Complete landscape overview organized by category.
+    """
+    records = load_all_records()
+    relevant_tags = _find_relevant_tags(topic)
+
+    def relevance_score(record: dict[str, Any]) -> int:
+        score = len(set(record.get("tags", [])).intersection(relevant_tags))
+        searchable = (record.get("summary", "") + " " + record.get("_body", "")).lower()
+        for word in topic.lower().split():
+            if len(word) > 3 and word in searchable:
+                score += 1
+        return score
+
+    # Gather all relevant records by type
+    cases = sorted([(relevance_score(r), r) for r in records if r.get("type") == "case" and relevance_score(r) > 0], key=lambda x: -x[0])
+    orgs = sorted([(relevance_score(r), r) for r in records if r.get("type") == "organization" and relevance_score(r) > 0], key=lambda x: -x[0])
+    attorneys = sorted([(relevance_score(r), r) for r in records if r.get("type") == "attorney" and relevance_score(r) > 0], key=lambda x: -x[0])
+    policymakers = sorted([(relevance_score(r), r) for r in records if r.get("type") == "person" and "person" in r.get("tags", []) and relevance_score(r) > 0], key=lambda x: -x[0])
+    statutes = sorted([(relevance_score(r), r) for r in records if r.get("type") == "statute" and relevance_score(r) > 0], key=lambda x: -x[0])
+    topics = sorted([(relevance_score(r), r) for r in records if r.get("type") == "topic" and relevance_score(r) > 0], key=lambda x: -x[0])
+
+    result = f"# Landscape: {topic}\n\n"
+    result += f"Matched topics: {', '.join(relevant_tags)}\n\n"
+
+    # Summary stats
+    total = len(cases) + len(orgs) + len(attorneys) + len(policymakers) + len(statutes) + len(topics)
+    result += f"**{total} relevant records found**: {len(cases)} cases, {len(orgs)} organizations, "
+    result += f"{len(attorneys)} attorneys, {len(policymakers)} policymakers, {len(statutes)} statutes, {len(topics)} topics\n\n"
+
+    # Key legal principles
+    if topics:
+        result += "## Key Legal Principles\n\n"
+        for _, t in topics[:4]:
+            result += f"- **{t.get('title')}** — {t.get('summary', '')}\n"
+        result += "\n"
+
+    # Landmark cases
+    if cases:
+        result += "## Landmark Cases\n\n"
+        for _, case in cases[:6]:
+            result += f"- **{case.get('title')}** — {case.get('summary', '')}\n"
+        result += "\n"
+
+    # Statutes
+    if statutes:
+        result += "## Relevant Statutes\n\n"
+        for _, statute in statutes[:4]:
+            result += f"- **{statute.get('title')}** — {statute.get('summary', '')}\n"
+        result += "\n"
+
+    # Organizations
+    if orgs:
+        result += "## Organizations\n\n"
+        for _, org in orgs[:6]:
+            result += f"- **{org.get('title')}** — {org.get('summary', '')}\n"
+        result += "\n"
+
+    # Attorneys
+    if attorneys:
+        result += "## Attorneys & Legal Experts\n\n"
+        for _, att in attorneys[:5]:
+            result += f"- **{att.get('title')}** — {att.get('summary', '')}\n"
+        result += "\n"
+
+    # Policymakers and legislation
+    if policymakers:
+        result += "## Policymakers & Legislation\n\n"
+        for _, pm in policymakers[:4]:
+            result += f"- **{pm.get('title')}** — {pm.get('summary', '')}\n"
+        result += "\n"
+
+    # How to get help
+    result += "## How to Get Help\n\n"
+    result += "Use `get_contacts_for(\"" + topic + "\")` to get specific contact information and intake paths.\n"
+    result += "Use `find_help(\"describe your specific situation\")` for tailored recommendations.\n"
 
     return result
 
