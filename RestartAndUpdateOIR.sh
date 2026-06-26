@@ -45,5 +45,13 @@ else
     echo "   (skipped — run as root to reload nginx)"
 fi
 
+echo "→ Restarting MCP server..."
+if [ "$(whoami)" = "root" ]; then
+    systemctl restart oir-mcp 2>/dev/null || echo "   (oir-mcp service not yet enabled — run: systemctl enable --now oir-mcp)"
+else
+    echo "   (skipped — run as root to restart MCP server)"
+fi
+
 echo ""
 echo "✅ OIR site updated and live at https://openinternetresearch.com"
+echo "   MCP server: systemctl status oir-mcp"
