@@ -45,6 +45,14 @@ else
     echo "   (skipped — run as root to reload nginx)"
 fi
 
+echo "→ Updating systemd services..."
+if [ "$(whoami)" = "root" ]; then
+    cp "$REPO/deploy/systemd/"*.service /etc/systemd/system/
+    systemctl daemon-reload
+else
+    echo "   (skipped — run as root to update services)"
+fi
+
 echo "→ Restarting MCP server..."
 if [ "$(whoami)" = "root" ]; then
     systemctl restart oir-mcp 2>/dev/null || echo "   (oir-mcp service not yet enabled — run: systemctl enable --now oir-mcp)"
