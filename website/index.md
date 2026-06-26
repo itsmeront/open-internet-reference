@@ -12,28 +12,28 @@ Our mission: help technologists, researchers, attorneys, and civil society organ
 
 Groups that defend digital rights and support open source software companies:
 
-- **Digital civil liberties** — EFF, ACLU, Knight First Amendment Institute, CDT, Institute for Justice
-- **Open source and software freedom** — OSI, Free Software Foundation, Software Freedom Conservancy, SFLC
-- **Privacy and security** — Tor Project, Signal
+- **Digital civil liberties** — [EFF](generated/source-docs/knowledge/organizations/ORG-EFF.md), [ACLU](generated/source-docs/knowledge/organizations/ORG-ACLU.md), [Knight First Amendment Institute](generated/source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md), [CDT](generated/source-docs/knowledge/organizations/ORG-CDT.md), [Institute for Justice](generated/source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+- **Open source and software freedom** — [OSI](generated/source-docs/knowledge/organizations/ORG-OSI.md), [Free Software Foundation](generated/source-docs/knowledge/organizations/ORG-FSF.md), [Software Freedom Conservancy](generated/source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md), [SFLC](generated/source-docs/knowledge/organizations/ORG-SFLC.md)
+- **Privacy and security** — [Tor Project](generated/source-docs/knowledge/organizations/ORG-TOR-PROJECT.md), [Signal](generated/source-docs/knowledge/organizations/ORG-SIGNAL.md)
 
 ### [Lawyers](knowledge/lawyers.md)
 
 Attorneys and legal scholars known for fighting censorship and protecting software rights:
 
-- **EFF attorneys** — Cindy Cohn, Corynne McSherry, Mitch Stoltz, Kit Walsh
-- **ACLU attorneys** — Jennifer Granick (surveillance and cybersecurity)
-- **Open source legal** — Eben Moglen (SFLC founder, GPL v3 drafter)
-- **Legal scholars** — Lawrence Lessig (Creative Commons, free culture)
+- **EFF attorneys** — [Cindy Cohn](generated/source-docs/knowledge/people/PERSON-CINDY-COHN.md), [Corynne McSherry](generated/source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md), [Mitch Stoltz](generated/source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md), [Kit Walsh](generated/source-docs/knowledge/people/PERSON-KIT-WALSH.md)
+- **ACLU attorneys** — [Jennifer Granick](generated/source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) (surveillance and cybersecurity)
+- **Open source legal** — [Eben Moglen](generated/source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) (SFLC founder, GPL v3 drafter)
+- **Legal scholars** — [Lawrence Lessig](generated/source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) (Creative Commons, free culture)
 
 ### [Law](knowledge/law.md)
 
 Court cases, statutes, and legal topics that establish precedent:
 
-- **Code as speech** — Bernstein v. DOJ, Junger v. Daley, Universal City Studios v. Corley
-- **Internet freedom** — Reno v. ACLU, Packingham v. North Carolina
-- **Digital privacy** — Carpenter v. United States
-- **Computer crime** — Van Buren v. United States
-- **Statutes** — DMCA § 512, CFAA § 1030
+- **Code as speech** — [Bernstein v. DOJ](generated/source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md), [Junger v. Daley](generated/source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md), [Universal City Studios v. Corley](generated/source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- **Internet freedom** — [Reno v. ACLU](generated/source-docs/knowledge/legal/CASE-RENO-V-ACLU.md), [Packingham v. North Carolina](generated/source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+- **Digital privacy** — [Carpenter v. United States](generated/source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- **Computer crime** — [Van Buren v. United States](generated/source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
+- **Statutes** — [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md)
 
 ## Generated Indexes
 
