@@ -49,6 +49,9 @@ echo "→ Updating systemd services..."
 if [ "$(whoami)" = "root" ]; then
     cp "$REPO/deploy/systemd/"*.service /etc/systemd/system/
     systemctl daemon-reload
+    # Fix permissions after root operations so oir user can access
+    chown -R oir:oir "$OIR_HOME"
+    chmod 755 "$OIR_HOME" "$REPO"
 else
     echo "   (skipped — run as root to update services)"
 fi
