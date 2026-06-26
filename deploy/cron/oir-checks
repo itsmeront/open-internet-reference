@@ -9,3 +9,7 @@
 
 # Run research debt report weekly (Monday at 6am)
 0 6 * * 1 www-data /opt/oir/venv/bin/python /opt/oir/repo/tools/resolve_debt.py --summary >> /opt/oir/debt-report.log 2>&1
+
+
+# Generate usage statistics daily (2am) — reads Docker nginx logs
+0 2 * * * root bash -c '/opt/oir/venv/bin/python /opt/oir/repo/tools/generate_stats.py --nginx-log <(docker logs yz-webserver 2>/dev/null)' >> /opt/oir/stats.log 2>&1
