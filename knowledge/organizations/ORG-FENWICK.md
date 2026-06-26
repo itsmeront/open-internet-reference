@@ -1,0 +1,70 @@
+---
+id: ORG-FENWICK
+title: Fenwick & West
+type: organization
+status: draft
+summary: Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+tags:
+  - organization
+  - open-source-software
+  - digital-rights
+  - outreach
+sources:
+  - SRC-FENWICK-TECH
+  - SRC-FENWICK-HISTORY
+relationships:
+  - subject: ORG-FENWICK
+    predicate: cites
+    object: SRC-FENWICK-TECH
+    sources:
+      - SRC-FENWICK-TECH
+  - subject: ORG-FENWICK
+    predicate: cites
+    object: SRC-FENWICK-HISTORY
+    sources:
+      - SRC-FENWICK-HISTORY
+last_verified: "2026-06-25"
+---
+
+# Fenwick & West
+
+## Summary
+
+Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+
+## Verified Facts
+
+- Founded in 1972 in Palo Alto.
+- Pioneered technology law in Silicon Valley.
+- Technology Transactions practice grounded in copyright, data privacy, open source, patent and trademark.
+- Represents 1,500+ VC-backed companies.
+- Created one of the first software license agreements, the first shrinkwrap license (1976), and the first software clean room protocols.
+- Over 500 attorneys.
+
+## Historical Context
+
+Fenwick & West was founded in 1972 in Palo Alto at the dawn of the personal computing era. The firm pioneered many foundational legal instruments for the software industry, including one of the first software license agreements, the first shrinkwrap license in 1976, and the first software clean room protocols used to develop non-infringing implementations of proprietary software interfaces.
+
+## Analysis
+
+Analysis has not yet been drafted. Future work should use independent sources to document the firm's role in establishing software licensing standards and its involvement in landmark technology IP matters.
+
+## Relevance to Open Source and Software Companies
+
+Pioneered software licensing and IP law. Deep open source expertise. Created industry-standard clean room protocols. The firm's Technology Transactions practice is explicitly grounded in open source law, making it directly relevant to companies managing open source compliance, licensing, and IP issues.
+
+## Relationships
+
+- `ORG-FENWICK` cites `SRC-FENWICK-TECH`.
+- `ORG-FENWICK` cites `SRC-FENWICK-HISTORY`.
+
+## Sources
+
+- `SRC-FENWICK-TECH`: Fenwick Technology Transactions Practice Page.
+- `SRC-FENWICK-HISTORY`: Fenwick & West Firm History Page.
+
+## Research Debt
+
+- Add independent sources for firm history and notable matters.
+- Document specific open source licensing work and clean room protocol development.
+- Identify key attorneys in the technology transactions and open source practices.
