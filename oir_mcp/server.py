@@ -37,6 +37,22 @@ ROOT = Path(__file__).resolve().parents[1]
 KNOWLEDGE_DIR = ROOT / "knowledge"
 BIBLIOGRAPHY_DIR = ROOT / "bibliography"
 CONTACTS_DIR = ROOT / "contacts"
+MCP_LOG_FILE = Path("/opt/oir/mcp-requests.log")
+
+
+def _log_request(tool_name: str) -> None:
+    """Log an MCP tool request (anonymous — no user info)."""
+    import json
+    try:
+        entry = {
+            "date": __import__("datetime").datetime.utcnow().strftime("%Y-%m-%d"),
+            "time": __import__("datetime").datetime.utcnow().strftime("%H:%M:%S"),
+            "tool": tool_name,
+        }
+        with open(MCP_LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(json.dumps(entry) + "\n")
+    except Exception:
+        pass  # Don't let logging failures break the server
 
 
 # ─── Helpers ───────────────────────────────────────────────────────────────────
@@ -141,6 +157,7 @@ def query_knowledge(
     Returns:
         Matching records with metadata and summaries.
     """
+    _log_request("query_knowledge")
     records = load_all_records()
 
     # Filter by type if specified
@@ -204,6 +221,7 @@ def get_research_debt(
     Returns:
         Prioritized list of research debt items with page context.
     """
+    _log_request("get_research_debt")
     TYPE_PRIORITY = {
         "case": 1, "attorney": 2, "organization": 3,
         "person": 4, "statute": 5, "topic": 6,
@@ -283,6 +301,7 @@ def verify_source(
     Returns:
         Source record details including URL, accessibility status, and metadata.
     """
+    _log_request("verify_source")
     import urllib.request
     import urllib.error
 
@@ -367,6 +386,7 @@ def list_pages(
     Returns:
         List of matching pages with ID, title, type, and status.
     """
+    _log_request("list_pages")
     records = load_all_records()
 
     if type:
@@ -409,6 +429,7 @@ def get_page(page_id: str) -> str:
     Returns:
         Full page content including metadata and body.
     """
+    _log_request("get_page")
     records = load_all_records()
     record = next((r for r in records if r.get("id") == page_id), None)
 
@@ -526,6 +547,7 @@ def find_help(
     Returns:
         Relevant organizations with contact info, lawyers who handle similar cases, applicable legal precedent, and policymakers who've legislated on the issue.
     """
+    _log_request("find_help")
     records = load_all_records()
     relevant_tags = _find_relevant_tags(situation)
 
@@ -617,6 +639,7 @@ def find_precedent(
     Returns:
         Relevant cases with holdings, statutes, and their significance for the issue.
     """
+    _log_request("find_precedent")
     records = load_all_records()
     relevant_tags = _find_relevant_tags(legal_issue)
 
@@ -698,6 +721,7 @@ def get_contacts_for(
     Returns:
         Contact records with intake paths, organized by type (pro bono organizations, commercial law firms, policymakers).
     """
+    _log_request("get_contacts_for")
     records = load_all_records()
     relevant_tags = _find_relevant_tags(topic)
 
@@ -773,6 +797,7 @@ def summarize_landscape(
     Returns:
         Complete landscape overview organized by category.
     """
+    _log_request("summarize_landscape")
     records = load_all_records()
     relevant_tags = _find_relevant_tags(topic)
 

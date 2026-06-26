@@ -79,6 +79,7 @@ nav:
       - Used For Index: generated/used-for.md
       - Review Status: generated/review-status.md
       - Timeline: generated/timeline.md
+      - Usage Statistics: generated/stats.md
   - Bibliography:
       - Overview: bibliography/index.md
       - Generated Bibliography: generated/bibliography.md
