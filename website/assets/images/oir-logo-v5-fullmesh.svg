@@ -1,6 +1,6 @@
 <svg width="680" height="420" viewBox="0 0 680 420" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>OIR – Open Internet Research</title>
-  <desc>Globe with network node connections tracing O, I, and R letterforms. OIR stands for Open Internet Research.</desc>
+  <title>OIR – Open Internet Reference</title>
+  <desc>Globe with network node connections tracing O, I, and R letterforms. OIR stands for Open Internet Reference.</desc>
   <defs>
     <clipPath id="gc">
       <circle cx="340" cy="185" r="118"/>
@@ -64,6 +64,6 @@
 
   <!-- Wordmark -->
   <text x="340" y="362" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="12" fill="#0C447C">OIR</text>
-  <text x="340" y="393" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="3.5" fill="#378ADD">OPEN INTERNET RESEARCH</text>
+  <text x="340" y="393" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" letter-spacing="3.5" fill="#378ADD">OPEN INTERNET REFERENCE</text>
 
 </svg>
