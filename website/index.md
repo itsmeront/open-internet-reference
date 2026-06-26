@@ -25,7 +25,7 @@ Attorneys and legal scholars known for fighting censorship and protecting softwa
 - **Open source legal** — [Eben Moglen](generated/source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) (SFLC founder, GPL v3 drafter)
 - **Legal scholars** — [Lawrence Lessig](generated/source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) (Creative Commons, free culture)
 
-### Policymakers
+### [Policymakers](knowledge/policymakers.md)
 
 Members of Congress actively legislating on digital rights, privacy, encryption, and internet freedom:
 
