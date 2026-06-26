@@ -8,7 +8,7 @@ Type=simple
 User=www-data
 Group=www-data
 WorkingDirectory=/opt/oir/repo
-ExecStart=/opt/oir/venv/bin/python -m oir_mcp
+ExecStart=/opt/oir/venv/bin/python -m oir_mcp --transport streamable-http --port 8080
 Restart=always
 RestartSec=5
 Environment=OIR_ROOT=/opt/oir
@@ -16,7 +16,6 @@ Environment=GITHUB_TOKEN_FILE=/opt/oir/.github-token
 
 # Security hardening
 NoNewPrivileges=yes
-ProtectSystem=full
 ReadWritePaths=/opt/oir
 PrivateTmp=yes
 

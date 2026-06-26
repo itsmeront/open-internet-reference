@@ -30,8 +30,6 @@ from mcp.server.fastmcp import FastMCP
 # Initialize FastMCP server
 mcp = FastMCP(
     "oir-knowledge-base",
-    version="0.1.0",
-    description="Open Internet Reference knowledge base - query organizations, lawyers, cases, and research debt for digital rights and software freedom.",
 )
 
 # Repository root (auto-detect)
@@ -856,7 +854,27 @@ def summarize_landscape(
 
 def main():
     """Run the MCP server."""
-    mcp.run()
+    import sys
+
+    transport = "stdio"
+    port = 8080
+
+    args = sys.argv[1:]
+    i = 0
+    while i < len(args):
+        if args[i] == "--transport" and i + 1 < len(args):
+            transport = args[i + 1]
+            i += 2
+        elif args[i] == "--port" and i + 1 < len(args):
+            port = int(args[i + 1])
+            i += 2
+        else:
+            i += 1
+
+    if transport == "stdio":
+        mcp.run()
+    else:
+        mcp.run(transport=transport)
 
 
 if __name__ == "__main__":
