@@ -54,6 +54,17 @@ The case arose when Lester Packingham, a registered sex offender, posted on Face
 
 The Court's opinion is significant for its broad statements about the constitutional importance of internet access and social media as forums for speech. Justice Kennedy's opinion described cyberspace as the most important place for the exchange of views in modern society. The Court held that even when the government has a compelling interest (protecting children), it cannot use means that broadly suppress lawful speech — in this case, by banning access to major internet platforms entirely.
 
+## Concurring Opinion
+
+Justice Alito, joined by Chief Justice Roberts and Justice Thomas, concurred in the judgment only. The Alito concurrence agreed the North Carolina statute was unconstitutional but cautioned against the majority's sweeping language about the internet as a public forum. Key limitations expressed:
+
+- The concurrence warned against equating the internet with traditional public forums, noting this could limit the government's ability to address legitimate online harms.
+- Alito argued the majority's opinion was "undisciplined" and unnecessary broad, potentially constraining future legislation.
+- The concurrence would have struck down the statute on narrower grounds — that it was not sufficiently tailored to serve its stated interest in protecting children.
+- Justice Gorsuch took no part in the case.
+
+This concurrence signals that while the Court unanimously supports internet access rights, there is disagreement about how broadly to extend public forum doctrine to cyberspace.
+
 ## Significance for Software Companies
 
 This case establishes that access to internet platforms is constitutionally protected under the First Amendment. It limits the government's ability to restrict who can use internet services and platforms. For software companies, this precedent strengthens the argument that broad government restrictions on access to or distribution through internet platforms must satisfy First Amendment scrutiny. It supports the principle that internet-based services are forums for constitutionally protected expression.
@@ -72,6 +83,5 @@ This case establishes that access to internet platforms is constitutionally prot
 ## Research Debt
 
 - Add GovInfo source for the official opinion.
-- Document the concurrence(s) and any limitations expressed.
 - Connect to later cases applying this precedent to internet access restrictions.
 - Relate to platform deplatforming and government-compelled censorship debates.

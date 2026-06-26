@@ -34,6 +34,11 @@ relationships:
     object: TOPIC-CODE-AS-SPEECH
     sources:
       - SRC-JUNGER-CMU
+  - subject: CASE-JUNGER-V-DALEY
+    predicate: related_to
+    object: CASE-BERNSTEIN-V-DOJ
+    sources:
+      - SRC-JUNGER-CMU
 last_verified: "2026-06-25"
 ---
 
@@ -61,6 +66,8 @@ Like Bernstein v. DOJ in the Ninth Circuit, this case arose from challenges to U
 
 The Sixth Circuit held that all source code merits First Amendment protection because of its expressiveness in conveying programming ideas. This holding was broader than Bernstein's in some readings, as it appears to protect source code categorically rather than focusing on the prior restraint character of the regulation. Together with Bernstein, this case established multi-circuit consensus that source code is constitutionally protected expression.
 
+The Junger decision is a companion to Bernstein v. DOJ from the Ninth Circuit. Together, the two cases established multi-circuit consensus that source code is constitutionally protected expression. While the Bernstein panel opinion was later vacated on procedural grounds (en banc rehearing granted, then rendered moot by regulatory changes), Junger's holding remains intact and provides the strongest surviving appellate authority for the code-as-speech doctrine.
+
 ## Significance for Software Companies
 
 This case provides additional circuit-level precedent that software source code is constitutionally protected speech. It reinforces that government attempts to restrict code distribution — whether through export controls, injunctions, or other mechanisms — must satisfy First Amendment scrutiny. The ACLU's involvement demonstrates that established civil liberties organizations will defend code-as-speech claims.
@@ -82,4 +89,3 @@ This case provides additional circuit-level precedent that software source code 
 - Add official reporter source if available through government databases.
 - Document the amended regulations and their impact on the remand.
 - Connect to ACLU Ohio as a contact for similar cases.
-- Document relationship to Bernstein v. DOJ as companion precedent.

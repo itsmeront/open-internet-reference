@@ -59,6 +59,18 @@ The Court applied the four statutory fair use factors (17 U.S.C. § 107) and fou
 
 The Court explicitly declined to resolve whether API declarations are copyrightable, assuming for argument's sake that they are while finding fair use regardless.
 
+## Dissenting Opinion
+
+Justice Thomas, joined by Justice Alito, dissented. The dissent argued that the majority misapplied every factor of the fair use analysis. Key points from the dissent:
+
+- The majority's approach effectively decides copyrightability (against Oracle) while nominally declining to address it.
+- Google's use was commercial and not transformative — it copied the declaring code to achieve the same purpose (enabling programmers to use familiar interfaces).
+- The amount copied (11,500 lines) was substantial and went beyond what was necessary.
+- The market harm was real — Oracle lost the opportunity to license Java for mobile platforms.
+- The dissent warned the decision could reduce incentives to create original APIs.
+
+Justice Barrett took no part in the case.
+
 ## Practical Impact
 
 The decision protects the common software development practice of reimplementing APIs for interoperability and platform portability. It provides legal cover for developers and companies that build compatible implementations of existing interfaces, which is foundational to open source projects that implement standard APIs (e.g., Wine, ReactOS, Mono, OpenJDK).
@@ -78,7 +90,6 @@ Protects software interoperability. Establishes that reimplementing an API for a
 
 ## Research Debt
 
-- Add concurring and dissenting opinions analysis.
 - Document the lower court procedural history in detail.
 - Add additional source records for amicus briefs from open source organizations.
 - Document the impact on subsequent API reimplementation cases.
