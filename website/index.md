@@ -25,8 +25,15 @@ Attorneys and legal scholars known for fighting censorship and protecting softwa
 - **Open source legal** — [Eben Moglen](generated/source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) (SFLC founder, GPL v3 drafter)
 - **Legal scholars** — [Lawrence Lessig](generated/source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) (Creative Commons, free culture)
 
-### [Law](knowledge/law.md)
+### Policymakers
 
+Members of Congress actively legislating on digital rights, privacy, encryption, and internet freedom:
+
+- **Privacy and surveillance reform** — [Ron Wyden](generated/source-docs/knowledge/people/PERSON-RON-WYDEN.md) (Section 230 co-author, Aaron's Law, encryption champion), [Rand Paul](generated/source-docs/knowledge/people/PERSON-RAND-PAUL.md) (Fourth Amendment Restoration Act, anti-encryption-backdoor amendments)
+- **CFAA reform** — [Zoe Lofgren](generated/source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) (Aaron's Law — named for Aaron Swartz)
+- **Internet governance** — [Ro Khanna](generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md) (Internet Bill of Rights, endorsed by Tim Berners-Lee)
+
+### [Law](knowledge/law.md)
 Court cases, statutes, and legal topics that establish precedent:
 
 - **Code as speech** — [Bernstein v. DOJ](generated/source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md), [Junger v. Daley](generated/source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md), [Universal City Studios v. Corley](generated/source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
