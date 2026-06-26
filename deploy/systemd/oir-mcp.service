@@ -16,7 +16,7 @@ Environment=GITHUB_TOKEN_FILE=/opt/oir/.github-token
 
 # Security hardening
 NoNewPrivileges=yes
-ProtectSystem=strict
+ProtectSystem=full
 ReadWritePaths=/opt/oir
 PrivateTmp=yes
 
