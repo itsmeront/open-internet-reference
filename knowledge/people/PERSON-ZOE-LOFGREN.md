@@ -36,7 +36,7 @@ Zoe Lofgren is a U.S. Representative from California who introduced Aaron's Law 
 
 ## Key Legislation
 
-- **Aaron's Law** (CFAA reform, multiple versions): Reforms the Computer Fraud and Abuse Act to narrow its scope, prevent stacking of charges, and distinguish common internet activity from harmful cyberattacks. Named after Aaron Swartz. Introduced in bipartisan fashion with Sensenbrenner in the House and with Wyden and Paul in a bicameral version.
+- **[Aaron's Law](../legal/STAT-CFAA-1030.md)** (CFAA reform, multiple versions): Reforms the Computer Fraud and Abuse Act to narrow its scope, prevent stacking of charges, and distinguish common internet activity from harmful cyberattacks. Named after Aaron Swartz. Introduced in bipartisan fashion with Sensenbrenner in the House and with Wyden and Paul in a bicameral version.
 
 ## Historical Context
 

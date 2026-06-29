@@ -46,8 +46,8 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 
 ## Key Legislation
 
-- **Section 230** (co-author): Shields internet platforms from liability for user-generated content while allowing good-faith content moderation.
-- **Aaron's Law** (CFAA reform): Reforms the Computer Fraud and Abuse Act to prevent prosecutorial overreach and distinguish common internet activity from harmful attacks.
+- **[Section 230](../legal/STAT-SECTION-230.md)** (co-author): Shields internet platforms from liability for user-generated content while allowing good-faith content moderation.
+- **[Aaron's Law](../legal/STAT-CFAA-1030.md)** (CFAA reform): Reforms the Computer Fraud and Abuse Act to prevent prosecutorial overreach and distinguish common internet activity from harmful attacks.
 - **Fourth Amendment Is Not For Sale Act**: Prevents government from purchasing data from data brokers that it would otherwise need a warrant to obtain.
 - **USA RIGHTS Act**: Reforms Section 702 surveillance authorities with additional civil liberties protections.
 - **Opposition to EARN IT Act**: Opposed legislation that would undermine end-to-end encryption.

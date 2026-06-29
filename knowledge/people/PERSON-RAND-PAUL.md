@@ -47,7 +47,7 @@ Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to prot
 ## Key Legislation
 
 - **Fourth Amendment Restoration and Protection Act**: Legislation to restore constitutional Fourth Amendment protections in the digital age.
-- **Aaron's Law** (co-sponsor): Bicameral CFAA reform with Wyden and Lofgren.
+- **[Aaron's Law](../legal/STAT-CFAA-1030.md)** (co-sponsor): Bicameral CFAA reform with Wyden and Lofgren.
 - **Fourth Amendment Is Not For Sale Act**: Joint legislation with Wyden to prevent government purchase of data it would need a warrant to obtain.
 - **USA RIGHTS Act**: Reforms to Section 702 surveillance authorities.
 - **Anti-encryption-backdoor amendments**: Amendments to prevent government from compelling companies to weaken encryption or build backdoors.
