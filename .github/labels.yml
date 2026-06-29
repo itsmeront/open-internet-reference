@@ -1,0 +1,119 @@
+# GitHub Labels Configuration
+#
+# Apply with: gh label create <name> --color <color> --description <desc>
+# Or use a tool like github-label-sync.
+#
+# To sync all labels at once, run:
+#   python tools/sync_labels.py
+
+# ──────────────────────────────────────────────────────────────────────
+# Moderation workflow labels
+# ──────────────────────────────────────────────────────────────────────
+
+- name: "moderation/pending"
+  color: "FFA500"
+  description: "PR is in the moderation queue awaiting review"
+
+- name: "moderation/approved"
+  color: "2EA043"
+  description: "PR has been reviewed and approved by a moderator"
+
+- name: "moderation/changes-requested"
+  color: "E34C26"
+  description: "Moderator has requested changes"
+
+# ──────────────────────────────────────────────────────────────────────
+# AI contribution labels
+# ──────────────────────────────────────────────────────────────────────
+
+- name: "ai-generated"
+  color: "7B61FF"
+  description: "Content was created or modified by an AI agent"
+
+- name: "ai-assisted"
+  color: "B39DDB"
+  description: "Human-authored content with AI assistance"
+
+# ──────────────────────────────────────────────────────────────────────
+# Review status labels
+# ──────────────────────────────────────────────────────────────────────
+
+- name: "needs-review"
+  color: "0075CA"
+  description: "Awaiting domain expert review"
+
+- name: "needs-sources"
+  color: "D876E3"
+  description: "Content needs better source references"
+
+- name: "research-debt"
+  color: "C5DEF5"
+  description: "Tracking unresolved verification work"
+
+- name: "stale"
+  color: "FBCA04"
+  description: "No activity for extended period"
+
+# ──────────────────────────────────────────────────────────────────────
+# Content area labels (auto-applied by moderation workflow)
+# ──────────────────────────────────────────────────────────────────────
+
+- name: "area/legal"
+  color: "1D76DB"
+  description: "Changes to legal knowledge content"
+
+- name: "area/organizations"
+  color: "1D76DB"
+  description: "Changes to organization records"
+
+- name: "area/people"
+  color: "1D76DB"
+  description: "Changes to people/attorney records"
+
+- name: "area/technical"
+  color: "1D76DB"
+  description: "Changes to technical knowledge content"
+
+- name: "area/bibliography"
+  color: "1D76DB"
+  description: "Changes to source/bibliography records"
+
+- name: "area/contacts"
+  color: "1D76DB"
+  description: "Changes to contact records"
+
+- name: "area/taxonomy"
+  color: "1D76DB"
+  description: "Changes to taxonomy or data model"
+
+- name: "area/infrastructure"
+  color: "1D76DB"
+  description: "Changes to tooling, CI, or deployment"
+
+- name: "area/website"
+  color: "1D76DB"
+  description: "Changes to website/CMS content"
+
+- name: "area/intake"
+  color: "1D76DB"
+  description: "Changes to intake queue"
+
+# ──────────────────────────────────────────────────────────────────────
+# Contribution type labels
+# ──────────────────────────────────────────────────────────────────────
+
+- name: "type/new-content"
+  color: "0E8A16"
+  description: "Adding new knowledge or source records"
+
+- name: "type/correction"
+  color: "E4E669"
+  description: "Fixing errors in existing content"
+
+- name: "type/intake"
+  color: "BFD4F2"
+  description: "New document intake proposal"
+
+- name: "type/taxonomy"
+  color: "D4C5F9"
+  description: "Taxonomy or classification change"

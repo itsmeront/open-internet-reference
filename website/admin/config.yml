@@ -2,7 +2,9 @@ backend:
   name: github
   repo: itsmeront/open-internet-reference
   branch: main
-  open_authoring: true  # Allow contributions from non-collaborators via fork
+  open_authoring: true       # Allow contributions from non-collaborators via fork
+  base_url: https://openinternetresearch.com
+  auth_endpoint: /api/auth   # OAuth proxy endpoint (see .github/DECAP_CMS_OAUTH.md)
 
 publish_mode: editorial_workflow  # Changes go through draft → review → publish (PR-based)
 

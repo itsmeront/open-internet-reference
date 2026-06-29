@@ -1,17 +1,64 @@
-# CODEOWNERS
+# CODEOWNERS — Open Internet Reference
 #
-# Replace placeholder handles with real GitHub users or teams before enabling
-# required reviews on protected branches. See EDITORIAL_WORKFLOW.md.
+# GitHub uses this file to auto-assign reviewers on pull requests.
+# Each path pattern maps to one or more GitHub users or teams who must
+# approve changes before merge (when required reviews are enabled).
 #
-# Example assignments (uncomment and edit):
-#
-# /knowledge/legal/       @your-org/oar-legal-reviewers
-# /knowledge/technical/   @your-org/oar-technical-reviewers
-# /knowledge/organizations/ @your-org/oar-outreach-reviewers
-# /bibliography/legal/    @your-org/oar-legal-reviewers
-# /bibliography/technical/ @your-org/oar-technical-reviewers
-# TAXONOMY.md             @your-org/oar-knowledge-engineers
-# DATA_MODEL.md           @your-org/oar-architects
-# schemas/                @your-org/oar-architects
-# tools/                  @your-org/oar-build-engineers
-# .github/                @your-org/oar-build-engineers
+# Syntax: <pattern> <@owner> [<@owner> ...]
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# ──────────────────────────────────────────────────────────────────────
+# DEFAULT OWNER — catches anything not matched below
+# ──────────────────────────────────────────────────────────────────────
+*                               @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# KNOWLEDGE DOMAINS — domain experts review content in their area
+# ──────────────────────────────────────────────────────────────────────
+/knowledge/legal/               @itsmeront
+/knowledge/organizations/       @itsmeront
+/knowledge/people/              @itsmeront
+/knowledge/technical/           @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# BIBLIOGRAPHY & SOURCES — research editors verify citations
+# ──────────────────────────────────────────────────────────────────────
+/bibliography/                  @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# CONTACTS & OUTREACH — sensitive data, owner review required
+# ──────────────────────────────────────────────────────────────────────
+/contacts/                      @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# TAXONOMY & DATA MODEL — structural changes need architect review
+# ──────────────────────────────────────────────────────────────────────
+TAXONOMY.md                     @itsmeront
+DATA_MODEL.md                   @itsmeront
+/schemas/                       @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# BUILD & INFRASTRUCTURE — tooling, CI, deployment
+# ──────────────────────────────────────────────────────────────────────
+/tools/                         @itsmeront
+/.github/                       @itsmeront
+/deploy/                        @itsmeront
+/oir_mcp/                       @itsmeront
+mkdocs.yml                      @itsmeront
+pyproject.toml                  @itsmeront
+RestartAndUpdateOIR.sh          @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# WEBSITE & CMS — publishing and admin interface
+# ──────────────────────────────────────────────────────────────────────
+/website/admin/                 @itsmeront
+/website/assets/                @itsmeront
+
+# ──────────────────────────────────────────────────────────────────────
+# EDITORIAL POLICY — governance docs need owner sign-off
+# ──────────────────────────────────────────────────────────────────────
+EDITORIAL_WORKFLOW.md           @itsmeront
+CONTRIBUTING.md                 @itsmeront
+RESEARCH_STANDARDS.md           @itsmeront
+STYLE_GUIDE.md                  @itsmeront
+SOURCE_INTAKE.md                @itsmeront
