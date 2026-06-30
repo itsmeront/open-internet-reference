@@ -33,16 +33,23 @@ Navigate to **Settings → Rules → Rulesets → "Add branch ruleset"**
 | **Restrict deletions** | ✅ | Never delete main |
 | **Require a pull request before merging** | ✅ | All changes go through PR review |
 | → Required approvals | 1 | At least one CODEOWNER must approve |
-| → Dismiss stale reviews | ✅ | Force re-review after new pushes |
-| → Require review from code owners | ✅ | CODEOWNERS file routes reviews |
-| → Require approval of most recent push | ✅ | Last pusher can't self-approve |
+| → Dismiss stale pull request approvals when new commits are pushed | ✅ | Force re-review after new pushes |
+| → Require conversation resolution before merging | ✅ | All review comments addressed |
 | **Require status checks to pass** | ✅ | CI validation must succeed |
 | → Status checks (add) | `docs` | The job name from validate.yml |
 | → Require branches be up to date | ✅ | Prevent merge conflicts |
 | **Block force pushes** | ✅ | Never force-push to main |
-| **Require conversation resolution** | ✅ | All review comments addressed |
 
 ### Rules to Leave Disabled (for now)
+
+Under "Require a pull request before merging":
+
+| Sub-setting | Rationale |
+|-------------|-----------|
+| Require review from specific teams | Not needed — CODEOWNERS handles review routing automatically |
+| Require approval of most recent reviewable push | Skip while solo maintainer; enable when adding collaborators |
+
+### Other Rules to Leave Disabled (for now)
 
 | Rule | Rationale |
 |------|-----------|
