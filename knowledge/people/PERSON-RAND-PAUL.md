@@ -75,3 +75,6 @@ Paul's anti-encryption-backdoor amendments directly protect software companies f
 - Add independent sources for Paul's full legislative history on digital rights.
 - Document specific encryption-related amendments in detail.
 - Add source for PATRIOT Act opposition and USA RIGHTS Act.
+- Create statute page for Fourth Amendment Restoration and Protection Act.
+- Create statute page for Fourth Amendment Is Not For Sale Act.
+- Create statute page for USA RIGHTS Act.

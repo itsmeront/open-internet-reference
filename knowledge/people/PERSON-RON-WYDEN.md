@@ -75,3 +75,6 @@ As co-author of Section 230, Wyden is directly responsible for the legal framewo
 - Add independent sources for full legislative history.
 - Document Wyden's positions on encryption in detail.
 - Add source for Fourth Amendment Is Not For Sale Act and USA RIGHTS Act.
+- Create statute page for Fourth Amendment Is Not For Sale Act.
+- Create statute page for USA RIGHTS Act.
+- Create statute page for EARN IT Act (documenting Wyden's opposition).
