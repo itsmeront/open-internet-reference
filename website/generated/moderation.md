@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: (not yet generated)
+Last updated: 2026-06-30 08:57 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,24 +8,51 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | — |
-| AI-generated PRs | — |
-| Stale PRs (>7 days no activity) | — |
-| Draft content items | — |
-| Items needing sources | — |
-| Stale verifications (>6 months) | — |
+| Open PRs awaiting review | 0 |
+| AI-generated PRs | 0 |
+| Stale PRs (>7 days no activity) | 0 |
+| Draft content items | 84 |
+| Items needing sources | 0 |
+| Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-*Run `python tools/moderation_queue.py` to populate this page, or wait for the scheduled GitHub Action.*
+*No open pull requests. The queue is clear!*
 
 ## Draft Content Needing Attention
 
-*Data will appear after the moderation queue tool runs against the repository.*
+### 📋 Draft (84)
+
+| ID | Title | Path |
+|---|-------|------|
+| `CASE-PERFECT10-V-CCBILL` | Perfect 10, Inc. v. CCBill LLC | `knowledge/legal/CASE-PERFECT10-V-CCBILL.md` |
+| `CASE-RENO-V-ACLU` | Reno v. American Civil Liberties Union | `knowledge/legal/CASE-RENO-V-ACLU.md` |
+| `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
+| `TOPIC-CODE-AS-SPEECH` | Code as Speech | `knowledge/legal/TOPIC-CODE-AS-SPEECH.md` |
+| `TOPIC-INTERMEDIARY-LIABILITY` | Intermediary Liability | `knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md` |
+| `CASE-VAN-BUREN-V-US` | Van Buren v. United States | `knowledge/legal/CASE-VAN-BUREN-V-US.md` |
+| `CASE-CARPENTER-V-US` | Carpenter v. United States | `knowledge/legal/CASE-CARPENTER-V-US.md` |
+| `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
+| `STAT-CFAA-1030` | Computer Fraud and Abuse Act (18 U.S.C.  | `knowledge/legal/STAT-CFAA-1030.md` |
+| `CASE-JUNGER-V-DALEY` | Junger v. Daley | `knowledge/legal/CASE-JUNGER-V-DALEY.md` |
+| `STAT-SECTION-230` | Section 230 (47 U.S.C. § 230) | `knowledge/legal/STAT-SECTION-230.md` |
+| `TOPIC-FOURTH-AMENDMENT` | Fourth Amendment | `knowledge/legal/TOPIC-FOURTH-AMENDMENT.md` |
+| `TOPIC-SAFE-HARBOR` | Online Service Provider Safe Harbor | `knowledge/legal/TOPIC-SAFE-HARBOR.md` |
+| `CASE-PACKINGHAM-V-NC` | Packingham v. North Carolina | `knowledge/legal/CASE-PACKINGHAM-V-NC.md` |
+| `CASE-GOOGLE-V-ORACLE` | Google LLC v. Oracle America, Inc. | `knowledge/legal/CASE-GOOGLE-V-ORACLE.md` |
+| `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
+| `CASE-BERNSTEIN-V-DOJ` | Bernstein v. United States Department of | `knowledge/legal/CASE-BERNSTEIN-V-DOJ.md` |
+| `TOPIC-COMPUTER-FRAUD` | Computer Fraud and Abuse | `knowledge/legal/TOPIC-COMPUTER-FRAUD.md` |
+| `PERSON-LAWRENCE-LESSIG` | Lawrence Lessig | `knowledge/people/PERSON-LAWRENCE-LESSIG.md` |
+| `PERSON-EBEN-MOGLEN` | Eben Moglen | `knowledge/people/PERSON-EBEN-MOGLEN.md` |
+
+*...and 64 more*
 
 ## Stale Verifications
 
-*Content with verification dates older than 6 months will be listed here.*
+Content with `last_verified` dates older than 6 months:
+
+*No stale verifications found.*
 
 ## Moderator Actions
 
