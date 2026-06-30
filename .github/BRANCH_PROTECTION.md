@@ -23,7 +23,7 @@ Navigate to **Settings → Rules → Rulesets → "Add branch ruleset"**
 |-------|-------|
 | Ruleset name | `Protect main` |
 | Enforcement status | Active |
-| Target branches | Include: `main` |
+| Target branches | Include default branch |
 | Bypass list | Repository admin (for emergencies only) |
 
 ### Rules to Enable
@@ -57,7 +57,7 @@ Navigate to **Settings → Rules → Rulesets → "Add branch ruleset"**
 2. Click **"Add branch ruleset"**
 3. Name it `Protect main`
 4. Set enforcement to **Active**
-5. Under "Target branches" → Add target → Include → type `main`
+5. Under "Target branches" → Click **"Add target"** → Select **"Include default branch"**
 6. Under "Bypass list" → Add bypass → Repository admin
 7. Check each rule listed above and configure the sub-settings
 8. Click **"Create"**
