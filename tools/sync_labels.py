@@ -44,6 +44,27 @@ def get_existing_labels() -> list[dict[str, str]]:
     return []
 
 
+def update_label(label: dict[str, str], dry_run: bool = True) -> None:
+    """Update an existing label on GitHub."""
+    name = label["name"]
+    color = label["color"]
+    desc = label.get("description", "")
+
+    if dry_run:
+        print(f"  [UPDATE] {name} (#{color}) — {desc}")
+        return
+
+    cmd = ["gh", "label", "edit", name, "--repo", REPO, "--color", color]
+    if desc:
+        cmd.extend(["--description", desc])
+
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
+    if result.returncode == 0:
+        print(f"  ✓ Updated: {name}")
+    else:
+        print(f"  ✗ Failed to update: {name} — {result.stderr.strip()}")
+
+
 def create_label(label: dict[str, str], dry_run: bool = True) -> None:
     """Create a label on GitHub."""
     name = label["name"]
@@ -61,15 +82,34 @@ def create_label(label: dict[str, str], dry_run: bool = True) -> None:
     result = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
     if result.returncode == 0:
         print(f"  ✓ Created: {name}")
-    else:
-        # Label might exist, try edit
-        cmd[2] = "edit"
-        cmd.insert(3, name)
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=15)
-        if result.returncode == 0:
-            print(f"  ✓ Updated: {name}")
-        else:
-            print(f"  ✗ Failed: {name} — {result.stderr.strip()}")
+        return
+
+    stderr = result.stderr.strip()
+    if "already exists" in stderr.lower():
+        update_label(label, dry_run=False)
+        return
+
+    print(f"  ✗ Failed: {name} — {stderr}")
+
+
+def ensure_gh_authenticated() -> int:
+    """Return 0 if gh can access the repo, else print error and return 1."""
+    probe = subprocess.run(
+        ["gh", "label", "list", "--repo", REPO, "--limit", "1"],
+        capture_output=True,
+        text=True,
+        timeout=15,
+    )
+    if probe.returncode == 0:
+        return 0
+
+    err = probe.stderr.strip() or probe.stdout.strip()
+    print(
+        "GitHub CLI is not authenticated. Set GH_TOKEN (repo scope) or run "
+        f"`gh auth login` before --apply.\n\n{err}",
+        file=sys.stderr,
+    )
+    return 1
 
 
 def main() -> int:
@@ -83,6 +123,8 @@ def main() -> int:
 
     if dry_run:
         print("DRY RUN — use --apply to make changes\n")
+    elif ensure_gh_authenticated() != 0:
+        return 1
 
     desired = load_desired_labels()
     existing = get_existing_labels()
@@ -120,7 +162,7 @@ def main() -> int:
     if to_update:
         print(f"Labels to update ({len(to_update)}):")
         for label in to_update:
-            create_label(label, dry_run=dry_run)
+            update_label(label, dry_run=dry_run)
         print()
 
     if not to_create and not to_update:
