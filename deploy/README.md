@@ -64,6 +64,16 @@ sudo systemctl enable --now oir-webhook
 | `systemd/oir-mcp.service` | systemd service for the MCP server (future) |
 | `cron/oir-checks` | Cron jobs for periodic URL checking and site rebuild |
 
+## Decap CMS / OAuth
+
+The browser editor at `/admin/` requires GitHub OAuth. See [`.github/DECAP_CMS_OAUTH.md`](../.github/DECAP_CMS_OAUTH.md) for full setup (build OAuth proxy, nginx `/api/auth/` block, verification).
+
+After changing `deploy/nginx/oir.conf`, redeploy or reload nginx:
+
+```bash
+sudo bash /opt/oir/repo/RestartAndUpdateOIR.sh
+```
+
 ## Manual Deployment
 
 ```bash
