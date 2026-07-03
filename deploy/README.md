@@ -59,7 +59,8 @@ sudo systemctl enable --now oir-webhook
 | `setup.sh` | One-time server setup (installs deps, creates dirs, configures services) |
 | `deploy.sh` | Pulls latest, rebuilds site, deploys (called manually or by webhook) |
 | `webhook.py` | Lightweight HTTP server that receives GitHub push webhooks and triggers deploy |
-| `nginx/oir.conf` | nginx server block configuration |
+| `nginx/oir.conf` | Generic nginx server block template |
+| `nginx/openinternetresearch.com.conf` | Production nginx block for `yz-webserver` |
 | `systemd/oir-webhook.service` | systemd service for the webhook handler |
 | `systemd/oir-mcp.service` | systemd service for the MCP server (future) |
 | `cron/oir-checks` | Cron jobs for periodic URL checking and site rebuild |

@@ -38,11 +38,13 @@ $AS_OIR $VENV/python tools/generate_indexes.py
 echo "→ Building MkDocs site..."
 $AS_OIR $VENV/mkdocs build --site-dir "$OIR_HOME/site"
 
-echo "→ Reloading nginx..."
+echo "→ Syncing nginx config..."
 if [ "$(whoami)" = "root" ]; then
-    docker exec yz-webserver nginx -s reload
+    cp "$REPO/deploy/nginx/openinternetresearch.com.conf" /home/ubuntu/yz.network/nginx-oir.conf 2>/dev/null || \
+    cp "$REPO/deploy/nginx/oir.conf" /home/ubuntu/yz.network/nginx-oir.conf 2>/dev/null || true
+    docker exec yz-webserver nginx -t && docker exec yz-webserver nginx -s reload
 else
-    echo "   (skipped — run as root to reload nginx)"
+    echo "   (skipped — run as root to sync nginx config)"
 fi
 
 echo "→ Updating systemd services..."

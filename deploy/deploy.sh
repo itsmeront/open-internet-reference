@@ -38,6 +38,7 @@ $AS_OIR git reset --hard origin/main
 
 # Sync nginx config
 log "→ Syncing nginx config..."
+cp "$REPO_DIR/deploy/nginx/openinternetresearch.com.conf" /home/ubuntu/yz.network/nginx-oir.conf 2>/dev/null || \
 cp "$REPO_DIR/deploy/nginx/oir.conf" /home/ubuntu/yz.network/nginx-oir.conf 2>/dev/null || true
 
 # Validate metadata
