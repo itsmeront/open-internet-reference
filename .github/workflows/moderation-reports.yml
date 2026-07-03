@@ -8,7 +8,7 @@ on:
 
 permissions:
   contents: write
-  pull-requests: read
+  pull-requests: write
 
 jobs:
   generate-reports:
@@ -16,8 +16,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,19 +38,22 @@ jobs:
       - name: Generate taxonomy audit
         run: python tools/taxonomy_audit.py
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+      # main is branch-protected (PR-only). Open/update an automation PR instead
+      # of pushing directly — a direct git push fails with GH006 on protected main.
+      - name: Create pull request if reports changed
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "chore: update moderation and taxonomy reports [automated]"
+          title: "chore: update moderation and taxonomy reports [automated]"
+          body: |
+            Automated refresh of moderation queue and taxonomy audit reports.
 
-          git add website/generated/moderation.md
-          git add website/generated/taxonomy-audit.md
-          git add generated/moderation-queue.json
-          git add generated/taxonomy-audit.json
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update moderation and taxonomy reports [automated]"
-            git push
-          fi
+            Safe to merge when CI passes. Timestamps update daily even when queue
+            content is unchanged.
+          branch: automated/moderation-reports
+          labels: automation
+          add-paths: |
+            website/generated/moderation.md
+            website/generated/taxonomy-audit.md
+            generated/moderation-queue.json
+            generated/taxonomy-audit.json

@@ -26,6 +26,13 @@ jobs:
       - name: Generate indexes
         run: python tools/generate_indexes.py
 
+      - name: Generate moderation and taxonomy reports
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python tools/moderation_queue.py
+          python tools/taxonomy_audit.py
+
       - name: Render brand assets
         run: python tools/render_brand_assets.py
 

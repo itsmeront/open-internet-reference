@@ -124,6 +124,25 @@ When configuring status checks, add:
 The `stale-check` job is informational only and should **not** be required
 (it only runs on PR open events and reports warnings).
 
+## Automated Workflows and Branch Protection
+
+The **Generate Moderation Reports** workflow (`.github/workflows/moderation-reports.yml`)
+updates report files on a daily schedule. Because `main` requires pull requests,
+that workflow **cannot push directly to `main`** — it opens or updates an automation
+PR on branch `automated/moderation-reports` instead.
+
+Merge those PRs when convenient, or add one of these bypass options:
+
+| Option | When to use |
+|--------|-------------|
+| **Merge automation PRs** | Default — keeps human review on all `main` changes |
+| **Ruleset bypass for the workflow** | Hands-off daily updates; add *Generate Moderation Reports* to the ruleset bypass list |
+| **Ruleset bypass for `github-actions[bot]`** | Broadest — allows any Actions bot push (use with care) |
+
+Fresh copies of the reports are also regenerated during the `docs` CI job before
+each MkDocs build, so published site builds stay current even before automation
+PRs are merged.
+
 ## Verifying It Works
 
 After configuration:
