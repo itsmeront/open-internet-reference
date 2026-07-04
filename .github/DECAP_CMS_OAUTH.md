@@ -80,18 +80,32 @@ sudo -u oir bash -lc 'cd /opt/oir/oauth && docker build -t oir-oauth:local .'
 
 ### Step 4: Run the OAuth container (as `oir`)
 
-> **Port:** On `boostrap-server`, port **8090 is already used** by `yz-dht-node-5`.
-> OIR uses **8110** for the OAuth proxy. Pick any free host port and match it in
-> `deploy/nginx/oir.conf` (`proxy_pass`) and the Docker `-p` / `PORT` settings.
+> **Run on the server (`boostrap-server`), not in GitHub Actions.** SSH in first:
+> `ssh oracle-yz`
+>
+> **Important:** Use `sudo -u oir docker run ...` (host user). **Do not** add `-u oir`
+> to `docker run` — that tries to find user `oir` *inside* the container image.
+>
+> **Image:** The last argument must be `oir-oauth:local`, **not** `docker` or
+> `docker:latest`.
+>
+> **Port:** Use **8110** (8090 is taken by `yz-dht-node-5` on this host).
+>
+> **Network:** `yz-webserver` runs on Docker network `yznetwork_yz-network`.
+> The OAuth container must join that same network so nginx can reach it as
+> `oir-oauth:8110`. Binding only to `127.0.0.1:8110` on the host is **not**
+> enough — nginx inside Docker cannot reach host localhost.
 
 **Test in foreground first** (shows errors directly; press `Ctrl+C` to stop):
 
 ```bash
 sudo -u oir docker run --rm --name oir-oauth-test \
+  --network yznetwork_yz-network \
   -e OAUTH_CLIENT_ID='YOUR_REAL_CLIENT_ID' \
   -e OAUTH_CLIENT_SECRET='YOUR_REAL_CLIENT_SECRET' \
   -e GIT_HOSTNAME='https://github.com' \
   -e ORIGINS='openinternetresearch.com' \
+  -e REDIRECT_URL='https://openinternetresearch.com/api/auth/callback' \
   -e PORT=8110 \
   -p 127.0.0.1:8110:8110 \
   oir-oauth:local
@@ -103,10 +117,12 @@ If that stays running, stop it (`Ctrl+C`) and start detached:
 sudo -u oir docker rm -f oir-oauth oir-oauth-test 2>/dev/null || true
 
 sudo -u oir docker run -d --name oir-oauth --restart unless-stopped \
+  --network yznetwork_yz-network \
   -e OAUTH_CLIENT_ID='YOUR_REAL_CLIENT_ID' \
   -e OAUTH_CLIENT_SECRET='YOUR_REAL_CLIENT_SECRET' \
   -e GIT_HOSTNAME='https://github.com' \
   -e ORIGINS='openinternetresearch.com' \
+  -e REDIRECT_URL='https://openinternetresearch.com/api/auth/callback' \
   -e PORT=8110 \
   -p 127.0.0.1:8110:8110 \
   oir-oauth:local
@@ -115,7 +131,7 @@ sudo -u oir docker run -d --name oir-oauth --restart unless-stopped \
 **One-line version** (easier to paste in bash):
 
 ```bash
-sudo -u oir docker run -d --name oir-oauth --restart unless-stopped -e OAUTH_CLIENT_ID='YOUR_REAL_CLIENT_ID' -e OAUTH_CLIENT_SECRET='YOUR_REAL_CLIENT_SECRET' -e GIT_HOSTNAME='https://github.com' -e ORIGINS='openinternetresearch.com' -e PORT=8110 -p 127.0.0.1:8110:8110 oir-oauth:local
+sudo -u oir docker run -d --name oir-oauth --restart unless-stopped --network yznetwork_yz-network -e OAUTH_CLIENT_ID='YOUR_REAL_CLIENT_ID' -e OAUTH_CLIENT_SECRET='YOUR_REAL_CLIENT_SECRET' -e GIT_HOSTNAME='https://github.com' -e ORIGINS='openinternetresearch.com' -e REDIRECT_URL='https://openinternetresearch.com/api/auth/callback' -e PORT=8110 -p 127.0.0.1:8110:8110 oir-oauth:local
 ```
 
 Required environment variables:
@@ -126,6 +142,7 @@ Required environment variables:
 | `OAUTH_CLIENT_SECRET` | From GitHub OAuth App |
 | `GIT_HOSTNAME` | `https://github.com` |
 | `ORIGINS` | `openinternetresearch.com` (mandatory — CORS allow-list for Decap CMS) |
+| `REDIRECT_URL` | `https://openinternetresearch.com/api/auth/callback` (must match GitHub OAuth App callback URL) |
 | `PORT` | `8110` on production server (`3000` is the upstream default) |
 
 Quotes around secrets are optional unless the value contains shell-special characters (`$`, `!`, spaces). Single quotes are safest.
@@ -135,41 +152,41 @@ Quotes around secrets are optional unless the value contains shell-special chara
 ```bash
 sudo -u oir docker ps --filter name=oir-oauth
 sudo -u oir docker logs --tail 30 oir-oauth
-curl -v http://127.0.0.1:8110/
+curl -s -o /dev/null -w "host :8110 → %{http_code}\n" http://127.0.0.1:8110/
+curl -s -o /dev/null -w "public /api/auth/ → %{http_code}\n" https://openinternetresearch.com/api/auth/
 ```
 
 Success indicators:
 
 - `docker run -d` prints a long container ID (hex string)
 - `docker ps` shows `Up` and `127.0.0.1:8110->8110/tcp`
-- `curl` connects (any HTTP response, even 404, means the port is open)
+- Host curl to `:8110` returns **200**
+- Public `/api/auth/` returns **200** (not **502**)
 
 ### Step 5: Configure nginx
 
-Add the OAuth reverse-proxy block to `deploy/nginx/oir.conf` (already included in repo).
-On deploy, this file is copied to `/home/ubuntu/yz.network/nginx-oir.conf` and loaded by `yz-webserver`.
-
-The OAuth container listens on the **host** (production: `127.0.0.1:8110`). nginx runs inside Docker and must reach the host:
+Production config lives in `deploy/nginx/openinternetresearch.com.conf` and is synced to
+`/home/ubuntu/yz.network/nginx-oir.conf` on deploy. nginx runs inside `yz-webserver` on
+`yznetwork_yz-network` and proxies to the OAuth container by name:
 
 ```nginx
-    # Decap CMS OAuth proxy (GitHub auth for /admin/)
-    location /api/auth/ {
-        proxy_pass http://host.docker.internal:8110/;
-        proxy_set_header Host $host;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
+    location = /api/auth {
+        resolver 127.0.0.11 ipv6=off valid=10s;
+        set $oauth_upstream oir-oauth:8110;
+        proxy_pass http://$oauth_upstream/auth;
+        ...
+    }
+
+    location /api/auth/callback {
+        resolver 127.0.0.11 ipv6=off valid=10s;
+        set $oauth_upstream oir-oauth:8110;
+        proxy_pass http://$oauth_upstream/callback$is_args$args;
+        ...
     }
 ```
 
-On Linux, if `host.docker.internal` does not resolve inside `yz-webserver`, either:
-
-1. Add to the `yz-webserver` container config: `--add-host=host.docker.internal:host-gateway`, **or**
-2. Replace `host.docker.internal` with the Docker bridge gateway IP (often `172.17.0.1`):
-
-   ```nginx
-   proxy_pass http://172.17.0.1:8110/;
-   ```
+The `resolver` line uses Docker's embedded DNS so nginx can resolve `oir-oauth` even if
+the container starts after nginx.
 
 Reload nginx after updating the config:
 
@@ -252,14 +269,19 @@ You should get an HTTP response routed through nginx (not connection refused).
 
 | Symptom | Likely cause | Fix |
 |---------|--------------|-----|
+| `unable to find user oir` | Used `docker run -u oir` or wrong image `docker:latest` | Use `sudo -u oir docker run ... oir-oauth:local` — no `-u` on docker run |
+| `Conflict. The container name "/oir-oauth" is already in use` | Failed container still exists | `sudo -u oir docker rm -f oir-oauth` then re-run |
 | `docker pull … denied` | GHCR image is private/unavailable | Build `oir-oauth:local` from vencax repo (Step 3) |
 | No container ID after `docker run -d` | Multiline paste broke in PowerShell, or pull failed | Use one-line bash command; run foreground test first |
 | `No such container: oir-oauth` | Container never created | Check `docker ps -a`; re-run Step 4 |
 | `port is already allocated` | Host port in use (8090 is taken by `yz-dht-node-5`) | Use **8110** or another free port; match nginx `proxy_pass` |
 | `permission denied` on `docker` | `oir` not in `docker` group | `sudo usermod -aG docker oir`, re-login |
 | Login redirects but fails / CORS error | Missing or wrong `ORIGINS` | Set `-e ORIGINS='openinternetresearch.com'` |
-| `/admin/` works but auth hangs | nginx cannot reach host OAuth port | Fix `host.docker.internal` or use `172.17.0.1:8110` in nginx |
+| `/admin/` works but auth hangs | nginx cannot reach OAuth (502 on `/api/auth/`) | Add `--network yznetwork_yz-network` to OAuth container; nginx must proxy to `oir-oauth:8110` |
 | OAuth callback mismatch | Wrong callback URL in GitHub App | Must be `https://openinternetresearch.com/api/auth/callback` for Option A |
+| Blank `/admin/` screen; config not yaml | `config.yml` served as `application/octet-stream` | nginx must set `Content-Type: text/yaml` for `/admin/config.yml` (see `deploy/nginx/openinternetresearch.com.conf`) |
+| Blank `/admin/`; `appendChild` null | Decap script loaded in `<head>` before `<body>` exists | Move `<script>` to end of `<body>` in `website/admin/index.html` |
+| Blank `/admin/`; JS 404s | Missing trailing slash on `/admin` | Use `https://openinternetresearch.com/admin/` (nginx redirects `/admin` → `/admin/`) |
 
 ---
 
@@ -296,6 +318,7 @@ WorkingDirectory=/opt/oir/oauth
 Environment=NODE_ENV=production
 Environment=PORT=8110
 Environment=ORIGINS=openinternetresearch.com
+Environment=REDIRECT_URL=https://openinternetresearch.com/api/auth/callback
 Environment=GIT_HOSTNAME=https://github.com
 Environment=OAUTH_CLIENT_ID=YOUR_REAL_CLIENT_ID
 Environment=OAUTH_CLIENT_SECRET=YOUR_REAL_CLIENT_SECRET

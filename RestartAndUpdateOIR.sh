@@ -38,6 +38,10 @@ $AS_OIR $VENV/python tools/generate_indexes.py
 echo "→ Building MkDocs site..."
 $AS_OIR $VENV/mkdocs build --site-dir "$OIR_HOME/site"
 
+echo "→ Copying Decap CMS admin files..."
+mkdir -p "$OIR_HOME/site/admin"
+cp -f "$REPO/website/admin/index.html" "$REPO/website/admin/config.yml" "$OIR_HOME/site/admin/"
+
 echo "→ Syncing nginx config..."
 if [ "$(whoami)" = "root" ]; then
     cp "$REPO/deploy/nginx/openinternetresearch.com.conf" /home/ubuntu/yz.network/nginx-oir.conf 2>/dev/null || \

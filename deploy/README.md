@@ -62,8 +62,17 @@ sudo systemctl enable --now oir-webhook
 | `nginx/oir.conf` | Generic nginx server block template |
 | `nginx/openinternetresearch.com.conf` | Production nginx block for `yz-webserver` |
 | `systemd/oir-webhook.service` | systemd service for the webhook handler |
-| `systemd/oir-mcp.service` | systemd service for the MCP server (future) |
+| `systemd/oir-mcp.service` | systemd service for the MCP server (localhost :8080) |
 | `cron/oir-checks` | Cron jobs for periodic URL checking and site rebuild |
+
+## MCP server
+
+The MCP server runs on **localhost:8080** on the server (`systemctl status oir-mcp`). It is intentionally **not** proxied through nginx — there is no authentication or rate limiting yet.
+
+- **Cursor (local dev):** use [`.cursor/mcp.json`](../.cursor/mcp.json) — stdio mode, no public URL needed.
+- **Remote agents (future):** expose via `/mcp/` only after API keys and rate limits are implemented. See [`MCP_SERVER.md`](../MCP_SERVER.md).
+
+Enable on server: `sudo systemctl enable --now oir-mcp`
 
 ## Decap CMS / OAuth
 

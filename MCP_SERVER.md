@@ -97,6 +97,34 @@ Propose resolution for a specific research debt item.
 
 **Returns:** PR URL for the proposed resolution.
 
+## Cursor setup (local development)
+
+Project MCP config: [`.cursor/mcp.json`](.cursor/mcp.json). See [`.cursor/README.md`](.cursor/README.md) for install steps.
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\pip install -e ".[mcp]"
+```
+
+Reload Cursor after saving the config. The server uses **stdio** transport — Cursor spawns `python -m oir_mcp` locally; no public URL is required.
+
+## Production deployment
+
+On the server, `oir-mcp` runs as a systemd service on **`127.0.0.1:8080`** (HTTP/streamable-http mode). It is **not** exposed through nginx by default.
+
+### Why MCP is not public (yet)
+
+| Concern | Status |
+|---------|--------|
+| Authentication | Planned (API key / GitHub App) — **not implemented** |
+| Rate limiting | Planned — **not implemented** |
+| Write tools (`suggest_edit`, etc.) | **Not implemented** — current tools are read-only |
+| nginx `/api/` block | Reserved for OAuth (`/api/auth/`); MCP needs a separate path if exposed |
+
+**Recommendation:** Keep MCP on localhost until authentication and rate limits are in place. The public static site and Decap CMS OAuth do not need a public MCP endpoint.
+
+**When to expose publicly:** If remote AI agents (outside Cursor) need access, add a dedicated path such as `/mcp/` (not `/api/auth/`) behind TLS, API keys, and rate limits. Cursor developers should use local stdio — not the production HTTP endpoint.
+
 ## Authentication
 
 The MCP server authenticates AI agents via:
@@ -131,15 +159,19 @@ PR descriptions include:
 
 ## Implementation Status
 
-- [ ] Core MCP server framework
-- [ ] `query_knowledge` tool
-- [ ] `get_research_debt` tool
+- [x] Core MCP server framework (`oir_mcp/server.py`)
+- [x] `query_knowledge` tool
+- [x] `get_research_debt` tool
+- [x] `verify_source` tool
+- [x] `list_pages`, `get_page`, `find_help`, `find_precedent`, `get_contacts_for`, `summarize_landscape`
+- [x] Cursor project config (`.cursor/mcp.json`)
+- [x] Production systemd service (`oir-mcp`, localhost HTTP)
 - [ ] `suggest_edit` tool
 - [ ] `submit_intake` tool
-- [ ] `verify_source` tool
 - [ ] `resolve_debt_item` tool
 - [ ] GitHub App integration for PR creation
 - [ ] Authentication and rate limiting
+- [ ] Public nginx proxy (blocked on auth)
 - [ ] AI agent identity management
 
 ## Future Considerations

@@ -2,27 +2,76 @@
 
 ## Current Sprint
 
-### Sprint 10: Content Depth, MCP Server, and Debt Resolution
+### Sprint 12: MCP Security, Write Tools, and Content Gaps
 
-Goal: expand the knowledge base with actionable content, build the MCP server for AI integration, and systematically resolve research debt.
+Goal: harden the MCP server for optional public access, implement AI write paths through the editorial pipeline, and close remaining Sprint 10 content gaps.
 
 Milestones:
 
-- [ ] Add law firms known for defending open source companies (Perkins Coie, Wilson Sonsini, Cooley, Fenwick, etc.).
-- [ ] Add policymakers with track records supporting digital rights (Wyden, Paul, Khanna, Lofgren, etc.).
-- [ ] Add additional legal cases and precedent from candidate lists.
-- [ ] Build MCP server with `query_knowledge`, `get_research_debt`, and `verify_source` tools.
-- [ ] Resolve high-priority research debt items (cases, attorneys, organizations).
-- [ ] Add Viacom v. YouTube, Oracle v. Google, and other significant tech law cases.
+- [ ] Add Viacom v. YouTube case page with primary sources.
+- [ ] Resolve 20+ high-priority research debt items (cases, attorneys, organizations).
+- [x] Add technical expert pages for litigation consultation (Cerf, Zittrain, Vixie, Diffie, Zimmermann) and publish Experts navigation page.
+- [ ] Add remaining expert candidates (Kahn, Crocker, Berners-Lee, Rivest) with testimony/deposition sources where available.
+- [ ] Add MCP authentication (API keys for HTTP/streamable-http mode).
+- [ ] Add MCP rate limiting (query volume, `verify_source` URL checks).
+- [ ] Expose MCP via nginx at `/mcp/` behind TLS and auth (only after auth + rate limits are implemented).
+- [ ] Implement write MCP tools: `suggest_edit`, `submit_intake`, `resolve_debt_item`.
+- [ ] GitHub App integration for AI-proposed PRs (branch creation, labels, human review queue).
+- [ ] AI agent identity management and attribution in PR descriptions.
 
 Exit criteria:
 
-- At least 10 additional knowledge pages added with sources.
-- MCP server operational with at least 3 tools functional.
-- Research debt reduced by 20+ items.
-- All new content passes metadata validation.
+- Write tools create labeled PRs; nothing merges without human review.
+- Public MCP endpoint remains disabled until auth and rate limits pass review.
+- Cursor developers use local stdio (`.cursor/mcp.json`); remote agents use authenticated HTTP when enabled.
+- Viacom case and debt-resolution targets met or explicitly deferred with documented rationale.
 
 ## Completed Sprints
+
+### Sprint 11: Editorial Workflow, Production CMS, and MCP Read Path
+
+Goal: enable moderation automation, deploy Decap CMS with GitHub OAuth, and ship a read-only MCP server for Cursor and localhost HTTP access.
+
+Milestones:
+
+- [x] Add moderation queue dashboard (`tools/moderation_queue.py`) and taxonomy audit (`tools/taxonomy_audit.py`).
+- [x] Add GitHub label definitions (`.github/labels.yml`) and sync tooling (`tools/sync_labels.py`).
+- [x] Add moderation and stale PR workflows (`.github/workflows/moderation.yml`, `moderation-reports.yml`, `stale.yml`).
+- [x] Fix moderation-reports for branch-protected `main` (open PR instead of direct push).
+- [x] Document branch protection and automation bypass (`.github/BRANCH_PROTECTION.md`).
+- [x] Deploy Decap CMS at `/admin/` with GitHub OAuth on production (`oir-oauth` container, nginx `/api/auth/`).
+- [x] Document OAuth setup and production troubleshooting (`.github/DECAP_CMS_OAUTH.md`).
+- [x] Use OAuth env-file pattern on server to avoid secrets in shell history.
+- [x] Add non-GitHub contribution path (`website/about/contributing-without-github.md`).
+- [x] Build MCP server with 9 read-only tools (`oir_mcp/server.py`).
+- [x] Deploy production MCP service (`oir-mcp` systemd, localhost `:8080`).
+- [x] Add Cursor project MCP config (`.cursor/mcp.json`, `.cursor/README.md`).
+- [x] Document MCP public-vs-private policy and production deployment (`MCP_SERVER.md`, `deploy/README.md`).
+
+Exit criteria:
+
+- ✅ Moderation labels and report tooling operational in CI.
+- ✅ Decap CMS login and editing work at `https://openinternetresearch.com/admin/`.
+- ✅ MCP read tools available in Cursor via stdio and on server via localhost HTTP.
+- ✅ MCP intentionally not public until authentication is implemented.
+
+### Sprint 10: Content Depth and Knowledge Expansion
+
+Goal: expand the knowledge base with actionable content and systematically resolve research debt.
+
+Milestones:
+
+- [x] Add law firms known for defending open source companies (Perkins Coie, Wilson Sonsini, Cooley, Fenwick).
+- [x] Add policymakers with track records supporting digital rights (Wyden, Paul, Khanna, Lofgren).
+- [x] Add additional legal cases and precedent (Google v. Oracle, Perfect 10 v. CCBill, Section 230 statute page).
+- [x] Add technical and legal topic depth (intermediary liability, code as speech, onion routing, Signal sources).
+- [x] Design MCP server architecture (`MCP_SERVER.md`).
+
+Exit criteria:
+
+- ✅ 50+ knowledge pages with metadata validation.
+- ✅ Actionable contact and organization coverage for legal and policy outreach.
+- ⏭ Viacom v. YouTube and bulk debt resolution deferred to Sprint 12.
 
 ### Sprint 9: Collaboration, Editorial Workflow, and Public Deployment
 
@@ -37,7 +86,6 @@ Milestones:
 - [x] Add `CONTRIBUTING.md` with paths for humans and AI agents.
 - [x] Add public "Edit this page" and "Suggest a change" links on all generated pages.
 - [x] Add Decap CMS configuration (`/admin/`) for Git-backed editing with editorial workflow.
-- [x] Design MCP server architecture (`MCP_SERVER.md`) for AI agent integration.
 - [x] Deploy site publicly at `openinternetresearch.com` (Oracle Cloud, Docker nginx, Let's Encrypt).
 - [x] Add `RestartAndUpdateOIR.sh` for one-command server updates.
 - [x] Add webhook handler for auto-deploy on GitHub push.
@@ -47,8 +95,6 @@ Exit criteria:
 
 - ✅ Site live at `https://openinternetresearch.com`.
 - ✅ Contributors can file structured suggestions via GitHub Issues.
-- ✅ Decap CMS provides Wikipedia-like editing interface.
-- ✅ MCP server design documented and ready for implementation.
 - ✅ Auto-deploy pipeline: merge → webhook → rebuild → live.
 
 ### Sprint 8: First Public Release Candidate
@@ -79,7 +125,6 @@ Exit criteria:
 - ✅ 116+ validated pages across knowledge, bibliography, and contacts.
 - ✅ CI passes (metadata validation, link checking, strict MkDocs build).
 - ✅ Site reorganized with clear entry points for finding help.
-- ✅ Tools available for URL checking and debt tracking.
 - ✅ Public site deployed and accessible.
 
 ### Sprint 7: Case Analysis Depth and Release Readiness
@@ -93,13 +138,6 @@ Milestones:
 - [x] Decompose Axona manual claims into auditable verification tasks.
 - [x] Update stale public status copy and prepare first release notes.
 - [x] Decide outreach contact record requirements before creating `contacts/` entries.
-
-Exit criteria:
-
-- At least three seed case records include holding plus one additional reasoning or procedural fact from primary sources.
-- Research debt backlog reflects Sprint 6 completions and Sprint 7 priorities.
-- Public site copy matches current sprint state.
-- Repository is ready for an initial tagged release candidate.
 
 ### Sprint 6: Primary Source Deepening and Case Analysis
 
@@ -161,6 +199,5 @@ Goal: establish the repository as a durable, evidence-first open-source research
 - Automated PDF rendering beyond browser print.
 - Advanced AI retrieval chunking and embeddings.
 - Zensical migration (when MkDocs 1.x successor is production-ready).
-- Full MCP server with all 6 tools (suggest_edit, submit_intake, resolve_debt_item).
 - Non-GitHub authentication for public wiki-style editing.
 - Real-time collaboration features.

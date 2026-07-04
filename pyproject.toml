@@ -23,6 +23,10 @@ docs = [
   "pillow",
   "pymupdf"
 ]
+mcp = [
+  "mcp[cli]",
+  "PyYAML"
+]
 
 [tool.setuptools]
 packages = []

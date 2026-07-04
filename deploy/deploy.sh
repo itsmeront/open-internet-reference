@@ -54,7 +54,10 @@ log "→ Building MkDocs site..."
 export NO_MKDOCS_2_WARNING=1
 $AS_OIR $VENV_DIR/bin/mkdocs build --site-dir "$SITE_DIR"
 
-# Reload nginx
+# MkDocs does not publish website/admin/ — copy Decap CMS assets explicitly
+log "→ Copying Decap CMS admin files..."
+mkdir -p "$SITE_DIR/admin"
+cp -f "$REPO_DIR/website/admin/index.html" "$REPO_DIR/website/admin/config.yml" "$SITE_DIR/admin/"
 log "→ Reloading nginx..."
 docker exec yz-webserver nginx -s reload 2>/dev/null || true
 

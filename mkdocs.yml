@@ -75,6 +75,7 @@ nav:
       - Overview: knowledge/index.md
       - Organizations: knowledge/organizations.md
       - Lawyers: knowledge/lawyers.md
+      - Technical Experts: knowledge/experts.md
       - Policymakers: knowledge/policymakers.md
       - Law: knowledge/law.md
       - Generated Glossary: generated/glossary.md

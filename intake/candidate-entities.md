@@ -104,20 +104,38 @@ Verification targets:
 
 ## Academic and Expert Candidates
 
-Candidate person records:
+Verified person records (moved to `knowledge/people/`):
 
 - Lawrence Lessig
 - Jennifer Granick
 - Matt Blaze
 - Bruce Schneier
 - Cindy Cohn
+- Vint Cerf
+- Jonathan Zittrain
+- Paul Vixie
+- Whitfield Diffie
+- Phil Zimmermann
+- Lauren Weinstein
+- David P. Reed
+- Alan Kay
+
+Remaining candidate person records (expert witnesses and public technical voices):
+
+- Robert Kahn (TCP/IP co-designer)
+- Steve Crocker (RFC process, internet governance)
+- Tim Berners-Lee (World Wide Web)
+- Ron Rivest (RSA, MIT)
+- danah boyd (platforms and social media research)
+- Phil Venables (cloud security, financial sector)
 
 Verification targets:
 
 - Official biography or institutional profile
 - Current affiliation
-- Relevant publications, cases, testimony, or public work
+- Relevant publications, congressional testimony, expert declarations, or public work
 - Public contact path, if available
+- Specific litigation or amicus participation (primary court records preferred)
 
 ## Entity Types From Governance Materials
 

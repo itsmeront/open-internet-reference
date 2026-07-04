@@ -57,6 +57,10 @@ Weinstein's career spans the entire history of the internet — from building th
 - **Network Neutrality Squad (NNSquad)** — open-membership, open-source project to monitor ISPs for net neutrality violations and unfair practices. Backed by Vint Cerf.
 - **PRIVACY Forum** (1992) — one of the earliest internet privacy advocacy and discussion groups.
 
+## Expert Testimony and Public Advocacy
+
+Weinstein is one of the few public voices who can speak from direct participation in ARPANET's earliest deployment as well as decades of policy advocacy. He explains network operations, ISP behavior, and net neutrality in plain language for policymakers and the public — a profile often sought when litigation or regulation turns on how the internet actually works in practice, not just in RFC diagrams.
+
 ## Relevance to Open Source and Software Companies
 
 Weinstein's work on net neutrality directly protects the ability of open source projects and software companies to reach users without ISP interference. His advocacy against government-mandated content filtering (EU Article 13), platform content censorship, and internet fragmentation supports the open internet infrastructure that software companies depend on. His unique perspective as someone present at the internet's creation gives weight to his arguments about how the network should be governed.

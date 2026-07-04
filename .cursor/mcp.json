@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "oir-knowledge-base": {
+      "command": "${workspaceFolder}${/}.venv${/}Scripts${/}python.exe",
+      "args": ["-m", "oir_mcp"],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "OIR_ROOT": "${workspaceFolder}"
+      }
+    }
+  }
+}
