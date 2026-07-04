@@ -53,6 +53,23 @@ echo "→ Installing systemd services..."
 cp "$REPO_DIR/deploy/systemd/oir-webhook.service" /etc/systemd/system/
 cp "$REPO_DIR/deploy/systemd/oir-mcp.service" /etc/systemd/system/
 systemctl daemon-reload
+systemctl enable oir-webhook
+
+# Allow nginx-in-Docker to reach the webhook handler on port 9000
+echo "→ Configuring firewall for webhook (Docker → host:9000)..."
+for cidr in 172.17.0.0/16 172.20.0.0/16; do
+    if ! iptables -C INPUT -s "$cidr" -p tcp --dport 9000 -j ACCEPT 2>/dev/null; then
+        iptables -I INPUT 1 -s "$cidr" -p tcp --dport 9000 -j ACCEPT
+    fi
+done
+if command -v netfilter-persistent >/dev/null 2>&1; then
+    netfilter-persistent save
+fi
+
+# Webhook log (owned by oir — service runs as oir, not www-data)
+touch "$OIR_ROOT/webhook.log"
+chown "$OIR_USER:$OIR_GROUP" "$OIR_ROOT/webhook.log"
+chmod 644 "$OIR_ROOT/webhook.log"
 
 # Create webhook secret if it doesn't exist
 if [ ! -f "$OIR_ROOT/.webhook-secret" ]; then
@@ -74,9 +91,13 @@ echo "→ Installing cron jobs..."
 cp "$REPO_DIR/deploy/cron/oir-checks" /etc/cron.d/oir-checks
 chmod 644 /etc/cron.d/oir-checks
 
-# Copy nginx config
+# Copy nginx config (production file preferred when present)
 echo "→ Copying nginx config..."
-cp "$REPO_DIR/deploy/nginx/oir.conf" /home/ubuntu/yz.network/nginx-oir.conf
+if [ -f "$REPO_DIR/deploy/nginx/openinternetresearch.com.conf" ]; then
+    cp "$REPO_DIR/deploy/nginx/openinternetresearch.com.conf" /home/ubuntu/yz.network/nginx-oir.conf
+else
+    cp "$REPO_DIR/deploy/nginx/oir.conf" /home/ubuntu/yz.network/nginx-oir.conf
+fi
 
 echo ""
 echo "═══════════════════════════════════════════"
@@ -84,7 +105,7 @@ echo "  Setup complete!"
 echo "═══════════════════════════════════════════"
 echo ""
 echo "Services:"
-echo "  Enable webhook:   systemctl enable --now oir-webhook"
+echo "  Start webhook:    systemctl start oir-webhook   # already enabled by setup"
 echo "  Enable MCP:       systemctl enable --now oir-mcp"
 echo ""
 echo "Deploy site:"

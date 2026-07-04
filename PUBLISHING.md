@@ -107,6 +107,20 @@ Formal releases should follow this process once the repository has a stable publ
 
 Generated handbook and print-handbook pages read the release label automatically from `pyproject.toml` and `CHANGELOG.md`.
 
+## Production Deployment
+
+Production hosting (Oracle Cloud `boostrap-server`, nginx in Docker, GitHub webhook
+auto-deploy, Decap CMS OAuth) is documented in [`deploy/README.md`](deploy/README.md).
+
+Key topics there:
+
+- **Docker architecture** — `yz-webserver`, `host.docker.internal`, host vs container services
+- **GitHub webhook** — systemd `oir-webhook`, iptables for port 9000, GitHub secret setup
+- **Manual / fallback deploy** — `RestartAndUpdateOIR.sh` and 6-hour cron
+
+Decap CMS OAuth (separate Docker container on `yznetwork_yz-network`) is in
+[`.github/DECAP_CMS_OAUTH.md`](.github/DECAP_CMS_OAUTH.md).
+
 ## Brand Assets
 
 Canonical logo sources live under `website/assets/images/`:

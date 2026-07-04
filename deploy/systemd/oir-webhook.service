@@ -5,16 +5,16 @@ Wants=network-online.target
 
 [Service]
 Type=simple
-User=www-data
-Group=www-data
+User=oir
+Group=oir
 WorkingDirectory=/opt/oir/repo
+Environment=WEBHOOK_HOST=0.0.0.0
 ExecStart=/opt/oir/venv/bin/python /opt/oir/repo/deploy/webhook.py
 Restart=always
 RestartSec=5
 
 # Security hardening
 NoNewPrivileges=yes
-ProtectSystem=full
 ReadWritePaths=/opt/oir
 PrivateTmp=yes
 

@@ -21,7 +21,8 @@ OIR is preparing **Sprint 8: First Public Release Candidate**. See `ROADMAP.md` 
 - `TAXONOMY.md` defines the project taxonomy.
 - `SOURCE_INTAKE.md` tracks imported project materials and their intake status.
 - `RESEARCH_DEBT.md` tracks verification work that remains unresolved.
-- `PUBLISHING.md` documents local preview, validation, build output, and CI.
+- `PUBLISHING.md` documents local preview, validation, build output, CI, and production deploy pointers.
+- `deploy/README.md` documents production server layout (Docker nginx, webhooks, OAuth, MCP).
 - `EDITORIAL_WORKFLOW.md` documents collaboration phases, roles, and topic administration policy.
 - `StartLocalServer.bat` and `StartLocalServer.sh` regenerate indexes and start the local MkDocs preview server.
 - `intake/` contains unverified candidate topics, entities, and verification queues.

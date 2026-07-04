@@ -16,6 +16,7 @@ import hashlib
 import hmac
 import json
 import logging
+import os
 import subprocess
 import sys
 from http.server import BaseHTTPRequestHandler, HTTPServer
@@ -26,8 +27,9 @@ REPO_DIR = OIR_ROOT / "repo"
 DEPLOY_SCRIPT = REPO_DIR / "deploy" / "deploy.sh"
 SECRET_FILE = OIR_ROOT / ".webhook-secret"
 LOG_FILE = OIR_ROOT / "webhook.log"
-HOST = "127.0.0.1"  # Only listen on localhost (nginx proxies to us)
-PORT = 9000
+# Default 127.0.0.1; production nginx-in-Docker needs 0.0.0.0 (see oir-webhook.service).
+HOST = os.environ.get("WEBHOOK_HOST", "127.0.0.1")
+PORT = int(os.environ.get("WEBHOOK_PORT", "9000"))
 
 logging.basicConfig(
     filename=str(LOG_FILE),

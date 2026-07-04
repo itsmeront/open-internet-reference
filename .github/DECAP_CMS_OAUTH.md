@@ -7,7 +7,9 @@ Related files:
 
 - `website/admin/config.yml` — Decap CMS collections and backend settings
 - `website/admin/index.html` — loads Decap CMS from CDN
-- `deploy/nginx/oir.conf` — nginx location blocks (synced to `yz-webserver` on deploy)
+- `deploy/nginx/openinternetresearch.com.conf` — production nginx (synced to `yz-webserver`)
+- `deploy/nginx/oir.conf` — generic nginx template
+- `deploy/README.md` — production Docker layout, webhook auto-deploy, iptables
 
 ## Architecture
 
