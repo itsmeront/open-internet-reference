@@ -29,13 +29,16 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 
 ## Verified Facts
 
-- The official Harvard Law School faculty page identifies Lessig as the Roy L. Furman Professor of Law and Leadership.
-- Prior to returning to Harvard, he taught at Stanford Law School, where he founded the Center for Internet and Society.
-- He also taught at the University of Chicago.
-- Lessig clerked for Judge Richard Posner on the 7th Circuit Court of Appeals and Justice Antonin Scalia on the United States Supreme Court.
-- He is the author of Code and Other Laws of Cyberspace (1999), The Future of Ideas (2001), Free Culture (2004), Code v2 (2007), and Remix (2008).
-- He chairs the Creative Commons project.
-- He has served on the boards of the Free Software Foundation, the Electronic Frontier Foundation, Public Knowledge, and the Public Library of Science.
+- The official Harvard Law School faculty page identifies Lessig as the Roy L. Furman Professor of Law and Leadership.[^1]
+- Prior to returning to Harvard, he taught at Stanford Law School, where he founded the Center for Internet and Society.[^1]
+- He also taught at the University of Chicago.[^1]
+- Lessig clerked for Judge Richard Posner on the 7th Circuit Court of Appeals and Justice Antonin Scalia on the United States Supreme Court.[^1]
+- He is the author of Code and Other Laws of Cyberspace (1999), The Future of Ideas (2001), Free Culture (2004), Code v2 (2007), and Remix (2008).[^1]
+- He chairs the Creative Commons project.[^1]
+- He has served on the boards of the Free Software Foundation, the Electronic Frontier Foundation, Public Knowledge, and the Public Library of Science.[^1]
+
+
+[^1]: `SRC-LESSIG-HARVARD` — Lawrence Lessig Harvard Law School Faculty Page. Official source; review reliability tier.
 
 ## Relevance to Open Source and Software Companies
 

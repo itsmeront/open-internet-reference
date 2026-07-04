@@ -33,12 +33,15 @@ Jameel Jaffer is the inaugural executive director of the Knight First Amendment 
 
 ## Verified Facts
 
-- The official Knight Institute biography describes Jaffer as the inaugural executive director of the Knight First Amendment Institute at Columbia University.
-- Under his leadership, the Institute's litigation program has addressed the public forum doctrine as applied to government officials' social media accounts, free speech rights of foreign citizens, and public access to government documents and proceedings.
-- Before joining the Knight Institute, Jaffer was a litigator at the ACLU, where he argued human rights and national security cases involving surveillance, secrecy, censorship, detention, torture, and extrajudicial killing.
-- At the ACLU, he led or co-led litigation that compelled disclosure of the Bush administration's "torture memos" and the Obama administration's "drone memos."
-- He co-led the team that forced the NSA to abandon its dragnet surveillance of Americans' call records and played a major part in the ACLU's decision to represent Edward Snowden.
-- Jaffer is a graduate of Williams College, Cambridge University, and Harvard Law School, where he was an editor of the Harvard Law Review.
+- The official Knight Institute biography describes Jaffer as the inaugural executive director of the Knight First Amendment Institute at Columbia University.[^1]
+- Under his leadership, the Institute's litigation program has addressed the public forum doctrine as applied to government officials' social media accounts, free speech rights of foreign citizens, and public access to government documents and proceedings.[^1]
+- Before joining the Knight Institute, Jaffer was a litigator at the ACLU, where he argued human rights and national security cases involving surveillance, secrecy, censorship, detention, torture, and extrajudicial killing.[^1]
+- At the ACLU, he led or co-led litigation that compelled disclosure of the Bush administration's "torture memos" and the Obama administration's "drone memos."[^1]
+- He co-led the team that forced the NSA to abandon its dragnet surveillance of Americans' call records and played a major part in the ACLU's decision to represent Edward Snowden.[^1]
+- Jaffer is a graduate of Williams College, Cambridge University, and Harvard Law School, where he was an editor of the Harvard Law Review.[^1]
+
+
+[^1]: `SRC-JAFFER-KNIGHT` — Jameel Jaffer Knight Institute Biography. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -57,3 +60,5 @@ Jaffer's work on government secrecy, surveillance, and digital speech rights is 
 
 - Add case citations for Knight Institute v. Trump and other technology-related litigation.
 - Document current Columbia Law faculty affiliation details.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

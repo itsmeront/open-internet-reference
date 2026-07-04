@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 289
+Event count: 292
 
 ## 1987-11
 
@@ -40,6 +40,10 @@ Event count: 289
 ## 2007-11-05
 
 - `publication`: [`SRC-WEINSTEIN-NNSQUAD`](source-docs/bibliography/people/SRC-WEINSTEIN-NNSQUAD.md) - Publication date for Network Neutrality Squad Announcement.
+
+## 2011-06-27
+
+- `publication`: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md) - Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 
 ## 2015-04-20
 
@@ -240,6 +244,7 @@ Event count: 289
 
 ## 2026-07-04
 
+- `verification`: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) - Last verified date for Brown v. Entertainment Merchants Assn..
 - `verification`: [`ORG-EPIC`](source-docs/knowledge/organizations/ORG-EPIC.md) - Last verified date for Electronic Privacy Information Center.
 - `verification`: [`ORG-INSTITUTE-FOR-FREE-SPEECH`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md) - Last verified date for Institute for Free Speech.
 - `verification`: [`ORG-PUBLIC-KNOWLEDGE`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md) - Last verified date for Public Knowledge.
@@ -274,6 +279,7 @@ Event count: 289
 - `verification`: [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md) - Last verified date for Tim Berners-Lee W3C Biography.
 - `verification`: [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md) - Last verified date for Esha Bhandari ACLU Staff Biography.
 - `verification`: [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md) - Last verified date for danah boyd Microsoft Research Profile.
+- `verification`: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md) - Last verified date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 - `verification`: [`SRC-CERF-GOOGLE`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md) - Last verified date for Vinton G. Cerf Google Research Profile.
 - `verification`: [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md) - Last verified date for Pamela Chestek About Page.
 - `verification`: [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md) - Last verified date for Whitfield Diffie Stanford CISAC Profile.

@@ -56,19 +56,22 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 
 ## Verified Facts
 
-- The case citation is 273 F.3d 429 (2d Cir. 2001).
-- Eric Corley (also known as "Emmanuel Goldstein") published the DeCSS program, which could circumvent the CSS encryption on DVDs.
-- Movie studios sued under the Digital Millennium Copyright Act's anti-circumvention provisions (17 U.S.C. § 1201).
-- The studios claimed that by making DeCSS available, defendants were trafficking in circumvention devices prohibited under the DMCA.
-- Corley defended on First Amendment grounds, arguing that computer code is protected speech.
-- The Second Circuit acknowledged that computer code conveys information and is therefore speech entitled to First Amendment scrutiny.
-- However, the court applied intermediate scrutiny rather than strict scrutiny, treating the DMCA anti-circumvention provision as a content-neutral regulation targeting the functional (non-speech) aspects of code.
-- The court upheld the injunction against distributing DeCSS.
-- EFF attorneys including Cindy Cohn participated in the defense as counsel for defendants-appellants.
+- The case citation is 273 F.3d 429 (2d Cir. 2001).[^1]
+- Eric Corley (also known as "Emmanuel Goldstein") published the DeCSS program, which could circumvent the CSS encryption on DVDs.[^1]
+- Movie studios sued under the Digital Millennium Copyright Act's anti-circumvention provisions (17 U.S.C. § 1201).[^1]
+- The studios claimed that by making DeCSS available, defendants were trafficking in circumvention devices prohibited under the DMCA.[^1]
+- Corley defended on First Amendment grounds, arguing that computer code is protected speech.[^1]
+- The Second Circuit acknowledged that computer code conveys information and is therefore speech entitled to First Amendment scrutiny.[^1]
+- However, the court applied intermediate scrutiny rather than strict scrutiny, treating the DMCA anti-circumvention provision as a content-neutral regulation targeting the functional (non-speech) aspects of code.[^1]
+- The court upheld the injunction against distributing DeCSS.[^1]
+- EFF attorneys including Cindy Cohn participated in the defense as counsel for defendants-appellants.[^1]
 
 ## Historical Context
 
 This case arose from the "DeCSS" controversy, in which a teenager reverse-engineered the Content Scramble System (CSS) protecting DVD content. The resulting DeCSS program was widely distributed online and became a focal point for debates about the DMCA, fair use, and whether code distribution can be enjoined.
+
+
+[^1]: [`SRC-CORLEY-LII`](../../../bibliography.md#SRC-CORLEY-LII) — Universal City Studios v. Corley Opinion Text (Open Casebook). Primary authority.
 
 ## Legal Analysis
 

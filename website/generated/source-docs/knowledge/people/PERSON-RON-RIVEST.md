@@ -46,14 +46,17 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 
 ## Verified Facts
 
-- Institute Professor in MIT's Department of Electrical Engineering and Computer Science and CSAIL.
-- Leader of CSAIL's Cryptography and Information Security Group.
-- Co-inventor of the RSA public-key cryptosystem (with Adi Shamir and Leonard Adleman); recipient of the ACM Turing Award.
-- Inventor of RC2, RC4, RC5, and RC6 symmetric ciphers and MD2, MD4, MD5, and MD6 hash functions.
-- Co-author of *Introduction to Algorithms* (CLRS).
-- Fellow of the ACM, American Academy of Arts and Sciences, National Academy of Engineering, and National Academy of Sciences.
-- Research areas include cryptanalysis, election security, software independence in voting systems, and machine learning.
-- Former member of the Election Assistance Commission's Technical Guidelines Development Committee.
+- Institute Professor in MIT's Department of Electrical Engineering and Computer Science and CSAIL.[^1]
+- Leader of CSAIL's Cryptography and Information Security Group.[^1]
+- Co-inventor of the RSA public-key cryptosystem (with Adi Shamir and Leonard Adleman); recipient of the ACM Turing Award.[^1]
+- Inventor of RC2, RC4, RC5, and RC6 symmetric ciphers and MD2, MD4, MD5, and MD6 hash functions.[^1]
+- Co-author of *Introduction to Algorithms* (CLRS).[^1]
+- Fellow of the ACM, American Academy of Arts and Sciences, National Academy of Engineering, and National Academy of Sciences.[^1]
+- Research areas include cryptanalysis, election security, software independence in voting systems, and machine learning.[^1]
+- Former member of the Election Assistance Commission's Technical Guidelines Development Committee.[^1]
+
+
+[^1]: [`SRC-RIVEST-CSAIL`](../../../bibliography.md#SRC-RIVEST-CSAIL) — Ronald L. Rivest MIT CSAIL Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

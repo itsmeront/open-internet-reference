@@ -44,7 +44,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 3
     - **Relationships**: 3
-    - **Research debt items**: 2
+    - **Research debt items**: 3
     - **Last verified**: 2026-06-19
 
 ---
@@ -57,13 +57,17 @@ Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibi
 
 ## Verified Facts
 
-- `STAT-CFAA-1030` is the OIR seed statute record for 18 U.S.C. § 1030.
-- OIR seed sources include Cornell LII and GovInfo pages for 18 U.S.C. § 1030.
-- `CASE-VAN-BUREN-V-US` is an OIR seed case record interpreting the CFAA phrase "exceeds authorized access."
+- `STAT-CFAA-1030` is the OIR seed statute record for 18 U.S.C. § 1030.[^1]
+- OIR seed sources include Cornell LII and GovInfo pages for 18 U.S.C. § 1030.[^1]
+- `CASE-VAN-BUREN-V-US` is an OIR seed case record interpreting the CFAA phrase "exceeds authorized access."[^2]
 
 ## Historical Context
 
 Historical context has not yet been drafted.
+
+
+[^1]: [`SRC-USC-18-1030-LII`](https://www.law.cornell.edu/uscode/text/18/1030) — 18 U.S.C. § 1030. Primary authority.
+[^2]: [`SRC-VAN-BUREN-LII`](https://www.law.cornell.edu/supremecourt/text/19-783) — Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII). Primary authority.
 
 ## Legal Analysis
 
@@ -85,3 +89,4 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 
 - Add case law beyond `CASE-VAN-BUREN-V-US` interpreting unauthorized access and scope of § 1030.
 - Distinguish criminal computer fraud statutes from civil or state-law regimes.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

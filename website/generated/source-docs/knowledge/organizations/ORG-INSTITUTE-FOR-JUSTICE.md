@@ -44,7 +44,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 3
-    - **Research debt items**: 3
+    - **Research debt items**: 5
     - **Last verified**: 2026-06-25
 
 ---
@@ -57,11 +57,15 @@ The Institute for Justice is a nonprofit public interest law firm whose mission 
 
 ## Verified Facts
 
-- The official about page describes IJ as a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights.
-- The official First Amendment page states that reinvigorating the founding principles of the First Amendment is central to IJ's mission.
-- IJ seeks to defend the free flow of information, which it describes as indispensable to democratic government and free enterprise.
-- IJ rejects interpretations of the First Amendment that give some categories of speech favored protection over others.
-- IJ represents clients at no cost and seeks to secure precedent that protects the rights of all Americans.
+- The official about page describes IJ as a nonprofit public interest law firm whose mission is to end widespread abuses of government power and secure constitutional rights.[^1]
+- The official First Amendment page states that reinvigorating the founding principles of the First Amendment is central to IJ's mission.[^1]
+- IJ seeks to defend the free flow of information, which it describes as indispensable to democratic government and free enterprise.[^1]
+- IJ rejects interpretations of the First Amendment that give some categories of speech favored protection over others.[^2]
+- IJ represents clients at no cost and seeks to secure precedent that protects the rights of all Americans.[^1]
+
+
+[^1]: [`SRC-IJ-ABOUT`](../../../bibliography.md#SRC-IJ-ABOUT) — Institute for Justice About Us Page. Self-reported profile; corroboration pending.
+[^2]: [`SRC-IJ-FIRST-AMENDMENT`](../../../bibliography.md#SRC-IJ-FIRST-AMENDMENT) — Institute for Justice First Amendment Practice Area. Official source; review reliability tier.
 
 ## Public Contact Information
 
@@ -89,3 +93,5 @@ IJ's commitment to defending the free flow of information and opposing governmen
 - Add specific cases relevant to technology and software speech.
 - Document intake process for potential clients.
 - Add information about state offices and coverage.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

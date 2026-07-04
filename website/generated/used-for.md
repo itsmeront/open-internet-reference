@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 138
+Term count: 139
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -10,6 +10,10 @@ Term count: 138
 - [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 - [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
+
+## `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` { #case-brown-v-entertainment-merchants }
+
+- [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
 ## `CASE-CARPENTER-V-US` { #case-carpenter-v-us }
 
@@ -239,6 +243,7 @@ Term count: 138
 
 ## `PERSON-KATIE-FALLOW` { #person-katie-fallow }
 
+- [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
 
 ## `PERSON-KIT-WALSH` { #person-kit-walsh }

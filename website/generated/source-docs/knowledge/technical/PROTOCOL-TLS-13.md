@@ -45,12 +45,15 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 ## Verified Facts
 
-- RFC 8446 is an RFC Editor publication titled "The Transport Layer Security (TLS) Protocol Version 1.3."
-- RFC 8446 was published in August 2018.
+- RFC 8446 is an RFC Editor publication titled "The Transport Layer Security (TLS) Protocol Version 1.3."[^1]
+- RFC 8446 was published in August 2018.[^1]
 
 ## Historical Context
 
 This seed page does not yet cover prior TLS versions or the history of TLS development.
+
+
+[^1]: [`SRC-RFC-8446`](https://www.rfc-editor.org/rfc/rfc8446.html) — RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3. Primary authority.
 
 ## Technical Analysis
 

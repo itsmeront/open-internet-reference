@@ -40,7 +40,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 4
+    - **Research debt items**: 6
     - **Last verified**: 2026-06-25
 
 ---
@@ -53,11 +53,15 @@ The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 19
 
 ## Verified Facts
 
-- The official about page describes FSF as a nonprofit with a worldwide mission to promote computer user freedom and defend the rights of all software users.
-- The official press page states FSF was founded in 1985 and defends and promotes computer users' right to use, study, copy, modify, and redistribute computer programs.
-- FSF was founded on October 4, 1985.
-- FSF's founding was closely connected to the GNU Project, which was announced in September 1983.
-- FSF maintains the GNU General Public License (GPL), which is the most widely used free software license.
+- The official about page describes FSF as a nonprofit with a worldwide mission to promote computer user freedom and defend the rights of all software users.[^1]
+- The official press page states FSF was founded in 1985 and defends and promotes computer users' right to use, study, copy, modify, and redistribute computer programs.[^2]
+- FSF was founded on October 4, 1985.[^1]
+- FSF's founding was closely connected to the GNU Project, which was announced in September 1983.[^1]
+- FSF maintains the GNU General Public License (GPL), which is the most widely used free software license.[^1]
+
+
+[^1]: [`SRC-FSF-ABOUT`](../../../bibliography.md#SRC-FSF-ABOUT) — Free Software Foundation About Page. Self-reported profile; corroboration pending.
+[^2]: [`SRC-FSF-PRESS`](../../../bibliography.md#SRC-FSF-PRESS) — Free Software Foundation Press Information. Official source; review reliability tier.
 
 ## Public Contact Information
 
@@ -85,3 +89,5 @@ FSF is the organization that created and maintains the GPL family of licenses, w
 - Document FSF's licensing compliance resources.
 - Add information about the Free Software Definition and its four freedoms.
 - Document relationship with SFLC and Conservancy.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

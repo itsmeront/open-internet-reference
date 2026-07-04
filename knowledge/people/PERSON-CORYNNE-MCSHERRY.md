@@ -34,13 +34,16 @@ Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, sp
 
 ## Verified Facts
 
-- The official EFF biography describes McSherry as the Legal Director at EFF.
-- She specializes in intellectual property, copyright, intermediary liability, open access, and free speech issues.
-- Her cases involve defending online fair use, political expression, and the public domain.
-- As a litigator, she has represented the Internet Archive and Professor Lawrence Lessig, among others.
-- She worked on the Sony-BMG rootkit litigation at EFF.
-- She defended the Yes Men and other activists in a lawsuit filed by the U.S. Chamber of Commerce over a political parody.
-- She has been at EFF since at least 2005.
+- The official EFF biography describes McSherry as the Legal Director at EFF.[^1]
+- She specializes in intellectual property, copyright, intermediary liability, open access, and free speech issues.[^1]
+- Her cases involve defending online fair use, political expression, and the public domain.[^1]
+- As a litigator, she has represented the Internet Archive and Professor Lawrence Lessig, among others.[^1]
+- She worked on the Sony-BMG rootkit litigation at EFF.[^1]
+- She defended the Yes Men and other activists in a lawsuit filed by the U.S. Chamber of Commerce over a political parody.[^1]
+- She has been at EFF since at least 2005.[^1]
+
+
+[^1]: `SRC-MCSHERRY-EFF-BIO` — Corynne McSherry EFF Staff Biography. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -60,3 +63,5 @@ McSherry's expertise in copyright, intermediary liability, and open access direc
 - Document specific cases relevant to open source software.
 - Add details on intermediary liability work and Section 230.
 - Document her work on DMCA reform.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

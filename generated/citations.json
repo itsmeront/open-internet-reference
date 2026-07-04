@@ -196,6 +196,27 @@
           "record_title": "Bernstein v. United States Department of Justice",
           "subject": "CASE-BERNSTEIN-V-DOJ",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "argued",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-JUSTIA",
+          "predicate": "cites",
+          "record_id": "PERSON-CINDY-COHN",
+          "record_title": "Cindy Cohn",
+          "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -265,6 +286,54 @@
       ]
     },
     {
+      "source_id": "SRC-BROWN-V-EMA-LII",
+      "source_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "record_title": "Brown v. Entertainment Merchants Assn.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BROWN-V-EMA-LII",
+          "predicate": "cites",
+          "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "record_title": "Brown v. Entertainment Merchants Assn.",
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "record_title": "Brown v. Entertainment Merchants Assn.",
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BROWN-V-EMA-LII",
+          "predicate": "cites",
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "subject": "PERSON-KATIE-FALLOW",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "predicate": "related_to",
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "subject": "PERSON-KATIE-FALLOW",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CARPENTER-GOVINFO",
       "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
       "usages": [
@@ -306,6 +375,27 @@
           "record_id": "CASE-CARPENTER-V-US",
           "record_title": "Carpenter v. United States",
           "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "argued",
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "subject": "PERSON-NATHAN-FREED-WESSLER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-CARPENTER-LII",
+          "predicate": "cites",
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "subject": "PERSON-NATHAN-FREED-WESSLER",
           "usage": "relationship_source"
         },
         {
@@ -633,6 +723,14 @@
         {
           "object": "SRC-FALLOW-KNIGHT",
           "predicate": "cites",
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "subject": "PERSON-KATIE-FALLOW",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "predicate": "related_to",
           "record_id": "PERSON-KATIE-FALLOW",
           "record_title": "Katie Fallow",
           "subject": "PERSON-KATIE-FALLOW",
@@ -2585,6 +2683,14 @@
         {
           "object": "ORG-ACLU",
           "predicate": "affiliated_with",
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "subject": "PERSON-NATHAN-FREED-WESSLER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "argued",
           "record_id": "PERSON-NATHAN-FREED-WESSLER",
           "record_title": "Nathan Freed Wessler",
           "subject": "PERSON-NATHAN-FREED-WESSLER",

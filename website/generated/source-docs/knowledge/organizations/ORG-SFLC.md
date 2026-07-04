@@ -39,7 +39,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 2
-    - **Research debt items**: 4
+    - **Research debt items**: 6
     - **Last verified**: 2026-06-25
 
 ---
@@ -52,11 +52,14 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 
 ## Verified Facts
 
-- SFLC was launched in February 2005 with Eben Moglen as chairman.
-- SFLC provides pro bono legal representation to not-for-profit developers of free and open source software.
-- SFLC helps free software project leaders organize and manage their work in ways that anticipate and avoid potential legal pitfalls.
-- Eben Moglen, SFLC's founding director, is a professor at Columbia Law School.
-- Moglen served as general counsel to the Free Software Foundation since 1994 and was involved in drafting GPL version 3.
+- SFLC was launched in February 2005 with Eben Moglen as chairman.[^1]
+- SFLC provides pro bono legal representation to not-for-profit developers of free and open source software.[^1]
+- SFLC helps free software project leaders organize and manage their work in ways that anticipate and avoid potential legal pitfalls.[^1]
+- Eben Moglen, SFLC's founding director, is a professor at Columbia Law School.[^1]
+- Moglen served as general counsel to the Free Software Foundation since 1994 and was involved in drafting GPL version 3.[^1]
+
+
+[^1]: [`SRC-SFLC-ABOUT`](../../../bibliography.md#SRC-SFLC-ABOUT) — Software Freedom Law Center Team Page. Self-reported profile; corroboration pending.
 
 ## Public Contact Information
 
@@ -82,3 +85,5 @@ SFLC provides direct legal services to open source projects at no cost. They hel
 - Document notable cases handled by SFLC.
 - Add detail on how projects can request legal assistance.
 - Note relationship and distinctions between SFLC and Software Freedom Conservancy.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

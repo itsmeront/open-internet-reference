@@ -49,7 +49,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 3
     - **Relationships**: 4
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-25
 
 ---
@@ -141,3 +141,4 @@ The CFAA directly affects:
 - Add hiQ Labs v. LinkedIn and United States v. Nosal case pages.
 - Document the Aaron Swartz case in detail.
 - Add CRS Report on CFAA as a source.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

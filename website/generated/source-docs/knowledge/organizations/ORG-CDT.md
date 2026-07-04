@@ -41,7 +41,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 4
+    - **Research debt items**: 6
     - **Last verified**: 2026-06-25
 
 ---
@@ -54,11 +54,14 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 
 ## Verified Facts
 
-- The official about page describes CDT as a 501(c)(3) nonprofit organization.
-- The official about page states CDT works to preserve the user-controlled nature of the internet and champions freedom of expression.
-- CDT supports laws, corporate policies, and technology tools that protect the privacy of internet users.
-- CDT advocates for stronger legal controls on government surveillance.
-- The who-we-are page states CDT promotes democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+- The official about page describes CDT as a 501(c)(3) nonprofit organization.[^1]
+- The official about page states CDT works to preserve the user-controlled nature of the internet and champions freedom of expression.[^1]
+- CDT supports laws, corporate policies, and technology tools that protect the privacy of internet users.[^1]
+- CDT advocates for stronger legal controls on government surveillance.[^1]
+- The who-we-are page states CDT promotes democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.[^1]
+
+
+[^1]: [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT) — Center for Democracy and Technology About Page. Self-reported profile; corroboration pending.
 
 ## Public Contact Information
 
@@ -86,3 +89,5 @@ CDT works at the intersection of technology policy and individual rights, making
 - Document CDT Europe operations.
 - Add information on how to engage with CDT policy work.
 - Add notable amicus briefs and policy submissions relevant to software.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

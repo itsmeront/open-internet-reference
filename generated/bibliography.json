@@ -326,6 +326,35 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2011-06-27",
+        "source type": "Supreme Court opinion",
+        "url": "https://www.law.cornell.edu/supremecourt/text/08-1448"
+      },
+      "id": "SRC-BROWN-V-EMA-LII",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/legal/SRC-BROWN-V-EMA-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute full text of Brown v. Entertainment Merchants Assn., the Supreme Court decision striking down a California restriction on violent video game sales to minors.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment"
+      ],
+      "title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`",
+        "`PERSON-KATIE-FALLOW`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
         "publication date": "2018",

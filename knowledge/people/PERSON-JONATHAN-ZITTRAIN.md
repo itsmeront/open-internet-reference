@@ -28,13 +28,16 @@ Jonathan Zittrain is the George Bemis Professor of International Law at Harvard 
 
 ## Verified Facts
 
-- George Bemis Professor of International Law at Harvard Law School.
-- Professor of Public Policy at the Harvard Kennedy School.
-- Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences.
-- Faculty director of the Harvard Law School Library.
-- Co-founder and director of Harvard's Berkman Klein Center for Internet & Society.
-- Author of *The Future of the Internet — And How to Stop It* (Yale University Press).
-- Previously Professor of Internet Governance and Regulation at the Oxford Internet Institute.
+- George Bemis Professor of International Law at Harvard Law School.[^1]
+- Professor of Public Policy at the Harvard Kennedy School.[^1]
+- Professor of Computer Science at the Harvard John A. Paulson School of Engineering and Applied Sciences.[^1]
+- Faculty director of the Harvard Law School Library.[^1]
+- Co-founder and director of Harvard's Berkman Klein Center for Internet & Society.[^1]
+- Author of *The Future of the Internet — And How to Stop It* (Yale University Press).[^1]
+- Previously Professor of Internet Governance and Regulation at the Oxford Internet Institute.[^1]
+
+
+[^1]: `SRC-ZITTRAIN-HLS` — Jonathan L. Zittrain Harvard Law School Faculty Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

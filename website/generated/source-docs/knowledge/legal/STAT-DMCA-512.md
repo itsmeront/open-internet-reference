@@ -54,7 +54,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 3
     - **Relationships**: 5
-    - **Research debt items**: 1
+    - **Research debt items**: 2
     - **Last verified**: 2026-06-19
 
 ---
@@ -67,12 +67,16 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 ## Verified Facts
 
-- The statute is codified at 17 U.S.C. § 512.
-- OIR seed sources include the Cornell LII page and the official GovInfo U.S. Code page for 17 U.S.C. § 512.
+- The statute is codified at 17 U.S.C. § 512.[^1]
+- OIR seed sources include the Cornell LII page and the official GovInfo U.S. Code page for 17 U.S.C. § 512.[^2]
 
 ## Historical Context
 
 Historical context has not yet been drafted. Future work should add statutory history from official legislative sources.
+
+
+[^1]: [`SRC-USC-17-512-LII`](https://www.law.cornell.edu/uscode/text/17/512) — 17 U.S.C. § 512. Primary authority.
+[^2]: [`SRC-USC-17-512-GOVINFO`](https://www.govinfo.gov/link/uscode/17/512) — 17 U.S.C. § 512 (GovInfo). Primary authority.
 
 ## Legal Analysis
 
@@ -94,3 +98,4 @@ Legal analysis has not yet been drafted. Future work should compare the Cornell 
 ## Research Debt
 
 - Add statutory history and relevant case law.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

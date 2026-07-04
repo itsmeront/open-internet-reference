@@ -28,14 +28,17 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 
 ## Verified Facts
 
-- Partner Researcher at Microsoft Research (New England lab).
-- Founder of Data & Society Research Institute, an independent research organization studying the social implications of technology.
-- Distinguished Visiting Professor at Georgetown University (per Microsoft Research institutional announcements, 2023).
-- PhD from the UC Berkeley School of Information; former MIT Media Lab research assistant (MS 2002).
-- Former fellow at Harvard's Berkman Klein Center for Internet & Society.
-- Author of *It's Complicated: The Social Lives of Networked Teens* and co-author of *Hanging Out, Messing Around, and Geeking Out*.
-- Research focuses on youth and social media, media manipulation, algorithmic bias, privacy practices, and ethnographic study of data legitimacy (including U.S. census data systems).
-- Recipient of MIT's Morison Prize in Science, Technology, and Society (2023).
+- Partner Researcher at Microsoft Research (New England lab).[^1]
+- Founder of Data & Society Research Institute, an independent research organization studying the social implications of technology.[^1]
+- Distinguished Visiting Professor at Georgetown University (per Microsoft Research institutional announcements, 2023).[^1]
+- PhD from the UC Berkeley School of Information; former MIT Media Lab research assistant (MS 2002).[^1]
+- Former fellow at Harvard's Berkman Klein Center for Internet & Society.[^1]
+- Author of *It's Complicated: The Social Lives of Networked Teens* and co-author of *Hanging Out, Messing Around, and Geeking Out*.[^1]
+- Research focuses on youth and social media, media manipulation, algorithmic bias, privacy practices, and ethnographic study of data legitimacy (including U.S. census data systems).[^1]
+- Recipient of MIT's Morison Prize in Science, Technology, and Society (2023).[^1]
+
+
+[^1]: `SRC-BOYD-MSR` — danah boyd Microsoft Research Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

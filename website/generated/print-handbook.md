@@ -18,11 +18,11 @@
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>81</dd>
+        <dd>82</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>112</dd>
+        <dd>113</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -88,6 +88,7 @@ Knowledge records included in this handbook, grouped by type.
 ### Case
 
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
+- [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
@@ -243,6 +244,15 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+### Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS-glossary }
+
+- **Record ID:** `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, digital-rights
+
+Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
 ### Bruce Schneier { #PERSON-BRUCE-SCHNEIER-glossary }
 
@@ -942,7 +952,7 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 
 - **Record ID:** `PERSON-CINDY-COHN`
 - **Status:** draft
-- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`), EFF Press Release - Cindy Cohn Stepping Down (`SRC-COHN-EFF-DEPARTURE`), FOSS Force - Cohn Returns to the Courtroom (`SRC-COHN-FOSSFORCE`), EFF Jewel v. NSA Case Page - Supreme Court Rejection (`SRC-JEWEL-V-NSA-EFF`), EFF at 25 - Remembering the Case that Established Code as Speech (`SRC-BERNSTEIN-EFF-25`)
+- **Sources:** Cindy Cohn EFF Staff Biography (`SRC-COHN-EFF-BIO`), EFF Press Release - Cindy Cohn Stepping Down (`SRC-COHN-EFF-DEPARTURE`), FOSS Force - Cohn Returns to the Courtroom (`SRC-COHN-FOSSFORCE`), EFF Jewel v. NSA Case Page - Supreme Court Rejection (`SRC-JEWEL-V-NSA-EFF`), EFF at 25 - Remembering the Case that Established Code as Speech (`SRC-BERNSTEIN-EFF-25`), Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`)
 - **Tags:** attorney, digital-rights, first-amendment, cryptography, privacy
 
 Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
@@ -1019,7 +1029,7 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 
 - **Record ID:** `PERSON-KATIE-FALLOW`
 - **Status:** draft
-- **Sources:** Katie Fallow Knight Institute Biography (`SRC-FALLOW-KNIGHT`)
+- **Sources:** Katie Fallow Knight Institute Biography (`SRC-FALLOW-KNIGHT`), Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`SRC-BROWN-V-EMA-LII`)
 - **Tags:** attorney, first-amendment, digital-rights
 
 Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.
@@ -1063,7 +1073,7 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 
 - **Record ID:** `PERSON-NATHAN-FREED-WESSLER`
 - **Status:** draft
-- **Sources:** Nathan Freed Wessler ACLU Staff Biography (`SRC-WESSLER-ACLU`)
+- **Sources:** Nathan Freed Wessler ACLU Staff Biography (`SRC-WESSLER-ACLU`), Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`)
 - **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
 
 Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.
@@ -1091,6 +1101,17 @@ Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, 
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+---
+
+#### Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
+
+- **Record ID:** `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`
+- **Status:** draft
+- **Sources:** Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`SRC-BROWN-V-EMA-LII`)
+- **Tags:** first-amendment, digital-rights
+
+Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
 ---
 
@@ -1908,6 +1929,15 @@ Georgetown University faculty profile for Matt Blaze describing his research in 
 - **Status:** verified
 
 Microsoft Research profile and institutional announcements for danah boyd describing her role as partner researcher and work on social media, algorithmic bias, and youth online behavior.
+
+---
+
+### Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)
+
+- **Source ID:** `SRC-BROWN-V-EMA-LII`
+- **Status:** verified
+
+Cornell Legal Information Institute full text of Brown v. Entertainment Merchants Assn., the Supreme Court decision striking down a California restriction on violent video game sales to minors.
 
 ---
 

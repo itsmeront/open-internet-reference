@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 115
+Record count: 116
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -100,6 +100,7 @@ Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
 
 ### Cited By
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 
 ## `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography { #SRC-BHANDARI-ACLU }
 
@@ -137,6 +138,19 @@ Microsoft Research profile and institutional announcements for danah boyd descri
 ### Cited By
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 
+## `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) { #SRC-BROWN-V-EMA-LII }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-BROWN-V-EMA-LII.md`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+- Tags: source, case, first-amendment
+
+Cornell Legal Information Institute full text of Brown v. Entertainment Merchants Assn., the Supreme Court decision striking down a California restriction on violent video game sales to minors.
+
+### Cited By
+- [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- [`PERSON-KATIE-FALLOW: Katie Fallow`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+
 ## `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) { #SRC-CARPENTER-GOVINFO }
 
 - Type: `source`
@@ -160,6 +174,7 @@ Cornell Legal Information Institute page for the Supreme Court decision on Fourt
 
 ### Cited By
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
 ## `SRC-CDT-ABOUT`: Center for Democracy and Technology About Page { #SRC-CDT-ABOUT }

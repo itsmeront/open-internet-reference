@@ -31,7 +31,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 2
+    - **Research debt items**: 3
     - **Last verified**: 2026-07-04
 
 ---
@@ -44,13 +44,16 @@ Pamela Chestek is an attorney at Chestek Legal who practices trademark, copyrigh
 
 ## Verified Facts
 
-- The official Chestek Legal about page describes Chestek's practice in trademark, copyright, open source, advertising, and marketing law.
-- She has extensive open source community experience, including managing brand identity and consumer expectations in collaborative development environments.
-- She maintains the FLOSS Model Trademark Guidelines.
-- She was formerly on the Board of the Open Source Initiative and chair of its Licensing Committee, responsible for approving new open source licenses.
-- She is a Board Certified Specialist in Trademark Law, a fellow at UC Law San Francisco, a member of the American Law Institute, and Editor-in-Chief of the Trademark Reporter.
-- She is admitted to practice in California, Connecticut, the District of Columbia, Massachusetts, New York, and North Carolina.
-- She holds a law degree from Western New England University School of Law and a B.F.A. in Technical Theatre from Pennsylvania State University.
+- The official Chestek Legal about page describes Chestek's practice in trademark, copyright, open source, advertising, and marketing law.[^1]
+- She has extensive open source community experience, including managing brand identity and consumer expectations in collaborative development environments.[^1]
+- She maintains the FLOSS Model Trademark Guidelines.[^1]
+- She was formerly on the Board of the Open Source Initiative and chair of its Licensing Committee, responsible for approving new open source licenses.[^1]
+- She is a Board Certified Specialist in Trademark Law, a fellow at UC Law San Francisco, a member of the American Law Institute, and Editor-in-Chief of the Trademark Reporter.[^1]
+- She is admitted to practice in California, Connecticut, the District of Columbia, Massachusetts, New York, and North Carolina.[^1]
+- She holds a law degree from Western New England University School of Law and a B.F.A. in Technical Theatre from Pennsylvania State University.[^1]
+
+
+[^1]: [`SRC-CHESTEK-ABOUT`](../../../bibliography.md#SRC-CHESTEK-ABOUT) — Pamela Chestek About Page. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -68,3 +71,4 @@ Chestek is relevant when software projects or companies face trademark disputes 
 
 - Add ORG-OSI affiliation relationship with historical dates for board service.
 - Document representative GPL and trademark enforcement articles.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

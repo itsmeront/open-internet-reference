@@ -40,7 +40,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 6
+    - **Research debt items**: 7
     - **Last verified**: 2026-06-25
 
 ---
@@ -53,14 +53,17 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 
 ## Verified Facts
 
-- U.S. Senator from Oregon.
-- Co-authored Section 230 with former Rep. Chris Cox.
-- Introduced Aaron's Law (CFAA reform) with Lofgren and Paul.
-- Introduced Fourth Amendment Is Not For Sale Act with Paul.
-- Introduced USA RIGHTS Act.
-- Opposed EARN IT Act.
-- Stated Section 230 "ensures the person who creates content is the one legally responsible for it."
-- Spoke at EFF briefing on Section 230.
+- U.S. Senator from Oregon.[^1]
+- Co-authored Section 230 with former Rep. Chris Cox.[^1]
+- Introduced Aaron's Law (CFAA reform) with Lofgren and Paul.[^1]
+- Introduced Fourth Amendment Is Not For Sale Act with Paul.[^1]
+- Introduced USA RIGHTS Act.[^1]
+- Opposed EARN IT Act.[^1]
+- Stated Section 230 "ensures the person who creates content is the one legally responsible for it."[^1]
+- Spoke at EFF briefing on Section 230.[^1]
+
+
+[^1]: [`SRC-WYDEN-SECTION-230`](../../../bibliography.md#SRC-WYDEN-SECTION-230) — Wyden Remarks at Section 230 Briefing Hosted by EFF. Secondary reporting or scholarship.
 
 ## Key Legislation
 
@@ -96,3 +99,4 @@ As co-author of Section 230, Wyden is directly responsible for the legal framewo
 - Create statute page for Fourth Amendment Is Not For Sale Act.
 - Create statute page for USA RIGHTS Act.
 - Create statute page for EARN IT Act (documenting Wyden's opposition).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

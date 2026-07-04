@@ -44,7 +44,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 3
-    - **Research debt items**: 4
+    - **Research debt items**: 5
     - **Last verified**: 2026-06-25
 
 ---
@@ -127,3 +127,4 @@ Without Section 230, most interactive internet services could not exist in their
 - Document FOSTA-SESTA amendment and its impact.
 - Add Stratton Oakmont v. Prodigy and Cubby v. CompuServe background.
 - Document current legislative threats in detail.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

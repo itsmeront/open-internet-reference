@@ -33,13 +33,16 @@ Lee Tien is Legislative Director and the Adams Chair for Internet Rights at the 
 
 ## Verified Facts
 
-- The official EFF staff profile describes Tien as Legislative Director and Adams Chair for Internet Rights.
-- Before joining EFF, he was a sole practitioner specializing in Freedom of Information Act litigation.
-- He received his undergraduate degree from Stanford University and his law degree from UC Berkeley Law School.
-- He did graduate work in the Program in Jurisprudence and Social Policy at UC Berkeley.
-- Before law school, he worked as a news reporter at the Tacoma News Tribune.
-- The official profile lists email lee@eff.org and phone +1 415 436 9333 x102.
-- His published EFF work includes advocacy on federal privacy legislation, HIPAA modifications, California Consumer Privacy Act implementation, and cross-border data access proposals.
+- The official EFF staff profile describes Tien as Legislative Director and Adams Chair for Internet Rights.[^1]
+- Before joining EFF, he was a sole practitioner specializing in Freedom of Information Act litigation.[^1]
+- He received his undergraduate degree from Stanford University and his law degree from UC Berkeley Law School.[^1]
+- He did graduate work in the Program in Jurisprudence and Social Policy at UC Berkeley.[^1]
+- Before law school, he worked as a news reporter at the Tacoma News Tribune.[^1]
+- The official profile lists email lee@eff.org and phone +1 415 436 9333 x102.[^1]
+- His published EFF work includes advocacy on federal privacy legislation, HIPAA modifications, California Consumer Privacy Act implementation, and cross-border data access proposals.[^1]
+
+
+[^1]: `SRC-TIEN-EFF` — Lee Tien EFF Staff Biography. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -58,3 +61,5 @@ Tien's legislative work on privacy bills, cross-border data access, and consumer
 
 - Distinguish legislative engagement paths from EFF litigation intake.
 - Document specific bills and congressional testimony.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

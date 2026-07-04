@@ -34,16 +34,19 @@ Fenwick & West is a Silicon Valley law firm founded in 1972 that provides compre
 
 ## Verified Facts
 
-- Founded in 1972 in Palo Alto.
-- Pioneered technology law in Silicon Valley.
-- Technology Transactions practice grounded in copyright, data privacy, open source, patent and trademark.
-- Represents 1,500+ VC-backed companies.
-- Created one of the first software license agreements, the first shrinkwrap license (1976), and the first software clean room protocols.
-- Over 500 attorneys.
+- Founded in 1972 in Palo Alto.[^1]
+- Pioneered technology law in Silicon Valley.[^1]
+- Technology Transactions practice grounded in copyright, data privacy, open source, patent and trademark.[^1]
+- Represents 1,500+ VC-backed companies.[^1]
+- Created one of the first software license agreements, the first shrinkwrap license (1976), and the first software clean room protocols.[^1]
+- Over 500 attorneys.[^1]
 
 ## Historical Context
 
 Fenwick & West was founded in 1972 in Palo Alto at the dawn of the personal computing era. The firm pioneered many foundational legal instruments for the software industry, including one of the first software license agreements, the first shrinkwrap license in 1976, and the first software clean room protocols used to develop non-infringing implementations of proprietary software interfaces.
+
+
+[^1]: `SRC-FENWICK-TECH` — Fenwick Technology Transactions Practice Page. Official organizational record.
 
 ## Analysis
 
@@ -68,3 +71,4 @@ Pioneered software licensing and IP law. Deep open source expertise. Created ind
 - Add independent sources for firm history and notable matters.
 - Document specific open source licensing work and clean room protocol development.
 - Identify key attorneys in the technology transactions and open source practices.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

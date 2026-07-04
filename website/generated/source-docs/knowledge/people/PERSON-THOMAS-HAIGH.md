@@ -45,13 +45,16 @@ Thomas Haigh is a historian of computing at the University of Wisconsin–Milwau
 
 ## Verified Facts
 
-- Professor and Chair of History at the University of Wisconsin–Milwaukee; affiliated faculty in Computer Science.
-- PhD in History and Sociology of Science (University of Pennsylvania); MEng and BSc in Computer Science (University of Manchester).
-- Co-author of *A New History of Modern Computing* (MIT Press, 2021, with Paul Ceruzzi).
-- Author of *ENIAC in Action: Making and Remaking the Modern Computer* (2016, with Mark Priestley and Crispin Rope).
-- Editor of *Histories of Computing* (Harvard University Press, 2011, Michael Mahoney essays).
-- Research areas include history of computing and information technology, business history, history of work, and media history.
-- Active in the SIGCIS community for historians of computing.
+- Professor and Chair of History at the University of Wisconsin–Milwaukee; affiliated faculty in Computer Science.[^1]
+- PhD in History and Sociology of Science (University of Pennsylvania); MEng and BSc in Computer Science (University of Manchester).[^1]
+- Co-author of *A New History of Modern Computing* (MIT Press, 2021, with Paul Ceruzzi).[^1]
+- Author of *ENIAC in Action: Making and Remaking the Modern Computer* (2016, with Mark Priestley and Crispin Rope).[^1]
+- Editor of *Histories of Computing* (Harvard University Press, 2011, Michael Mahoney essays).[^1]
+- Research areas include history of computing and information technology, business history, history of work, and media history.[^1]
+- Active in the SIGCIS community for historians of computing.[^1]
+
+
+[^1]: [`SRC-HAIGH-UWM`](../../../bibliography.md#SRC-HAIGH-UWM) — Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

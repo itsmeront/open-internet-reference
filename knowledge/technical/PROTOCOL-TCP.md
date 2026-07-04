@@ -26,12 +26,15 @@ Transmission Control Protocol (TCP) is an internet transport protocol specified 
 
 ## Verified Facts
 
-- RFC 9293 is the current RFC Editor publication for the Transmission Control Protocol.
-- RFC 9293 was published in August 2022.
+- RFC 9293 is the current RFC Editor publication for the Transmission Control Protocol.[^1]
+- RFC 9293 was published in August 2022.[^1]
 
 ## Historical Context
 
 Earlier TCP specifications should be reviewed before writing a full historical account. This seed page currently relies only on RFC 9293.
+
+
+[^1]: `SRC-RFC-9293` — RFC 9293: Transmission Control Protocol (TCP). Primary authority.
 
 ## Technical Analysis
 

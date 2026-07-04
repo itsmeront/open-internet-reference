@@ -35,21 +35,25 @@ Lauren Weinstein is an internet pioneer who was present at ARPANET's first site 
 
 ## Verified Facts
 
-- Present at ARPANET's first site at UCLA in the early 1970s (username LAUREN@UCLA-ATS on the first host on ARPANET).
-- Also used LAUREN@UCLA-SECURITY on the early network.
-- Co-founded People For Internet Responsibility (PFIR), a worldwide online activist organization focused on internet policy.
-- Founded the Network Neutrality Squad (NNSquad) in 2007 — an open-membership, open-source effort enlisting users to help keep internet operations fair and unhindered from unreasonable restrictions.
-- NNSquad was backed by Vint Cerf (co-inventor of TCP/IP) and described as an outgrowth of PFIR.
-- Created the PRIVACY Forum in 1992, one of the earliest internet privacy advocacy groups.
-- Columnist for Wired News and commentator on NPR's Morning Edition.
-- Frequent contributor to the "Inside Risks" column of Communications of the ACM.
-- Has been involved with internet and technology issues for over 40 years.
-- Active blogger on internet censorship, copyright overreach, platform governance, and government surveillance.
-- UCLA oral history documents his involvement in developing the Host-IMP interface, Network Control Program, and early ARPANET infrastructure.
+- Present at ARPANET's first site at UCLA in the early 1970s (username LAUREN@UCLA-ATS on the first host on ARPANET).[^1]
+- Also used LAUREN@UCLA-SECURITY on the early network.[^1]
+- Co-founded People For Internet Responsibility (PFIR), a worldwide online activist organization focused on internet policy.[^1]
+- Founded the Network Neutrality Squad (NNSquad) in 2007 — an open-membership, open-source effort enlisting users to help keep internet operations fair and unhindered from unreasonable restrictions.[^2]
+- NNSquad was backed by Vint Cerf (co-inventor of TCP/IP) and described as an outgrowth of PFIR.[^2]
+- Created the PRIVACY Forum in 1992, one of the earliest internet privacy advocacy groups.[^1]
+- Columnist for Wired News and commentator on NPR's Morning Edition.[^1]
+- Frequent contributor to the "Inside Risks" column of Communications of the ACM.[^1]
+- Has been involved with internet and technology issues for over 40 years.[^1]
+- Active blogger on internet censorship, copyright overreach, platform governance, and government surveillance.[^1]
+- UCLA oral history documents his involvement in developing the Host-IMP interface, Network Control Program, and early ARPANET infrastructure.[^1]
 
 ## Historical Context
 
 Weinstein's career spans the entire history of the internet — from building the earliest network infrastructure at UCLA's ARPANET site in the 1970s to fighting for net neutrality and against internet censorship in the 2020s. His founding of the PRIVACY Forum in 1992 predates most organized internet privacy advocacy. The NNSquad represented an early attempt at crowd-sourced network monitoring to detect net neutrality violations by ISPs, partnering with internet founding figures like Vint Cerf.
+
+
+[^1]: `SRC-WEINSTEIN-BIO` — Lauren Weinstein Biography Page. Self-reported profile; corroboration pending.
+[^2]: `SRC-WEINSTEIN-NNSQUAD` — Network Neutrality Squad Announcement. Official source; review reliability tier.
 
 ## Key Organizations Founded
 
@@ -81,3 +85,5 @@ Weinstein's work on net neutrality directly protects the ability of open source 
 - Document specific net neutrality campaigns and outcomes.
 - Add Wired News columns and NPR appearances as additional sources.
 - Verify current status and activities.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

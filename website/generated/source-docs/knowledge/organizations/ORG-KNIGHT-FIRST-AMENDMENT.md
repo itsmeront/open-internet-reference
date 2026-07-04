@@ -45,7 +45,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 3
-    - **Research debt items**: 3
+    - **Research debt items**: 6
     - **Last verified**: 2026-06-25
 
 ---
@@ -58,11 +58,14 @@ The Knight First Amendment Institute at Columbia University defends the freedoms
 
 ## Verified Facts
 
-- The Knight First Amendment Institute was established at Columbia University in the summer of 2016 with funding from the Knight Foundation.
-- The official about page states their aim is to promote a system of free expression that is open and inclusive, broadens and elevates public discourse, and fosters creativity, accountability, and effective self-government.
-- The FAQ page states the Institute works to preserve and expand freedoms of speech and the press through strategic litigation, research, and public education.
-- The FAQ page states the Institute is particularly interested in implications of new technology, including questions raised by electronic surveillance and new communications platforms.
-- The Institute is an independent nonprofit affiliated with Columbia University.
+- The Knight First Amendment Institute was established at Columbia University in the summer of 2016 with funding from the Knight Foundation.[^1]
+- The official about page states their aim is to promote a system of free expression that is open and inclusive, broadens and elevates public discourse, and fosters creativity, accountability, and effective self-government.[^1]
+- The FAQ page states the Institute works to preserve and expand freedoms of speech and the press through strategic litigation, research, and public education.[^1]
+- The FAQ page states the Institute is particularly interested in implications of new technology, including questions raised by electronic surveillance and new communications platforms.[^1]
+- The Institute is an independent nonprofit affiliated with Columbia University.[^1]
+
+
+[^1]: [`SRC-KNIGHT-ABOUT`](../../../bibliography.md#SRC-KNIGHT-ABOUT) — Knight First Amendment Institute About Page. Self-reported profile; corroboration pending.
 
 ## Public Contact Information
 
@@ -90,3 +93,6 @@ The Knight First Amendment Institute litigates cases involving digital speech, g
 - Add specific litigation history relevant to technology and software.
 - Add detail on intake process for potential litigants.
 - Document relationships with other digital rights organizations.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

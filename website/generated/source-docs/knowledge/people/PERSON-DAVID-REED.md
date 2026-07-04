@@ -33,7 +33,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-07-04
 
 ---
@@ -46,12 +46,15 @@ David P. Reed is a computer scientist and co-inventor of the end-to-end principl
 
 ## Verified Facts
 
-- Co-inventor of the end-to-end argument with Jerome Saltzer and David D. Clark; co-author of the 1984 paper *End-to-End Arguments in System Design*.
-- Participated in early TCP/IP development and designed the User Datagram Protocol (UDP).
-- PhD in computer science and engineering from MIT; former MIT Laboratory for Computer Science faculty member (1978–1983).
-- Adjunct Professor at the MIT Media Lab; co-led the Viral Communications research group.
-- Former HP Fellow; held research and chief scientist roles at Lotus Development, Software Arts, and Interval Research.
-- Formulated Reed's Law on the scaling utility of group-forming networks.
+- Co-inventor of the end-to-end argument with Jerome Saltzer and David D. Clark; co-author of the 1984 paper *End-to-End Arguments in System Design*.[^1]
+- Participated in early TCP/IP development and designed the User Datagram Protocol (UDP).[^1]
+- PhD in computer science and engineering from MIT; former MIT Laboratory for Computer Science faculty member (1978–1983).[^1]
+- Adjunct Professor at the MIT Media Lab; co-led the Viral Communications research group.[^1]
+- Former HP Fellow; held research and chief scientist roles at Lotus Development, Software Arts, and Interval Research.[^1]
+- Formulated Reed's Law on the scaling utility of group-forming networks.[^1]
+
+
+[^1]: [`SRC-REED-BIO`](../../../bibliography.md#SRC-REED-BIO) — David P. Reed Official Biography. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -81,3 +84,4 @@ His work helps explain *why* the Internet was designed the way it was — not me
 - Add primary citation for the 1984 end-to-end arguments paper as bibliography source.
 - Document specific expert declarations or testimony with court records.
 - Cross-link to `PERSON-LAUREN-WEINSTEIN` and net neutrality topic pages.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

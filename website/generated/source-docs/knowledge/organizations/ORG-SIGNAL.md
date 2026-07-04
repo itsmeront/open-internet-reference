@@ -50,7 +50,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 4
     - **Relationships**: 4
-    - **Research debt items**: 2
+    - **Research debt items**: 3
     - **Last verified**: 2026-06-19
 
 ---
@@ -63,15 +63,18 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 
 ## Verified Facts
 
-- Signal maintains an official website at <https://signal.org/>.
-- The official website describes Signal as using end-to-end encryption powered by the open source Signal Protocol.
-- The official website describes Signal as an independent nonprofit not tied to major tech companies.
-- Signal maintains official protocol documentation at <https://signal.org/docs/>.
-- Official Signal specifications include X3DH and the Double Ratchet algorithm.
+- Signal maintains an official website at <https://signal.org/>.[^1]
+- The official website describes Signal as using end-to-end encryption powered by the open source Signal Protocol.[^1]
+- The official website describes Signal as an independent nonprofit not tied to major tech companies.[^1]
+- Signal maintains official protocol documentation at <https://signal.org/docs/>.[^1]
+- Official Signal specifications include X3DH and the Double Ratchet algorithm.[^1]
 
 ## Historical Context
 
 Historical context has not yet been drafted.
+
+
+[^1]: [`SRC-SIGNAL-HOME`](https://signal.org/) — Signal Official Website. Official source; review reliability tier.
 
 ## Analysis
 
@@ -95,3 +98,4 @@ Analysis has not yet been drafted. Future work should use official Signal source
 
 - Add official organization, foundation, or governance source if distinct from the homepage.
 - Add independent sources for history and organizational structure.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

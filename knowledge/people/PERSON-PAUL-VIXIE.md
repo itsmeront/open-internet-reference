@@ -28,13 +28,16 @@ Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for 
 
 ## Verified Facts
 
-- Primary author and technical architect of BIND 8; led BIND maintenance and development lineage from 1988 onward.
-- Designed DNS protocol extensions including dynamic update, reputation systems, and response policy mechanisms.
-- Internet Hall of Fame inductee (Innovator category).
-- Founding member of ICANN Root Server System Advisory Committee and ICANN Security and Stability Advisory Committee.
-- Chairman of the ARIN Board of Trustees, 2008–2009; ARIN trustee 2005–2013.
-- Founded Internet Systems Consortium (ISC) and Farsight Security.
-- PhD from Keio University for work related to DNS and DNSSEC.
+- Primary author and technical architect of BIND 8; led BIND maintenance and development lineage from 1988 onward.[^1]
+- Designed DNS protocol extensions including dynamic update, reputation systems, and response policy mechanisms.[^1]
+- Internet Hall of Fame inductee (Innovator category).[^1]
+- Founding member of ICANN Root Server System Advisory Committee and ICANN Security and Stability Advisory Committee.[^1]
+- Chairman of the ARIN Board of Trustees, 2008–2009; ARIN trustee 2005–2013.[^1]
+- Founded Internet Systems Consortium (ISC) and Farsight Security.[^1]
+- PhD from Keio University for work related to DNS and DNSSEC.[^1]
+
+
+[^1]: `SRC-VIXIE-IHOF` — Paul Vixie Internet Hall of Fame Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

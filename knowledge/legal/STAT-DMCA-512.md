@@ -49,12 +49,16 @@ last_verified: "2026-06-19"
 
 ## Verified Facts
 
-- The statute is codified at 17 U.S.C. § 512.
-- OIR seed sources include the Cornell LII page and the official GovInfo U.S. Code page for 17 U.S.C. § 512.
+- The statute is codified at 17 U.S.C. § 512.[^1]
+- OIR seed sources include the Cornell LII page and the official GovInfo U.S. Code page for 17 U.S.C. § 512.[^2]
 
 ## Historical Context
 
 Historical context has not yet been drafted. Future work should add statutory history from official legislative sources.
+
+
+[^1]: `SRC-USC-17-512-LII` — 17 U.S.C. § 512. Primary authority.
+[^2]: `SRC-USC-17-512-GOVINFO` — 17 U.S.C. § 512 (GovInfo). Primary authority.
 
 ## Legal Analysis
 
@@ -76,3 +80,4 @@ Legal analysis has not yet been drafted. Future work should compare the Cornell 
 ## Research Debt
 
 - Add statutory history and relevant case law.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

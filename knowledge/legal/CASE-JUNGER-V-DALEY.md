@@ -45,17 +45,20 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 
 ## Verified Facts
 
-- The case citation is 209 F.3d 481 (6th Cir. 2000).
-- Peter Junger, a law professor, challenged export restrictions on encryption software as violations of the First Amendment.
-- The district court found that encryption source code is not sufficiently expressive to be protected by the First Amendment.
-- The Sixth Circuit reversed, concluding that the First Amendment protects computer source code.
-- The court remanded the case for further consideration of Junger's constitutional claims in light of amended regulations.
-- The ACLU of Ohio provided legal support, with attorneys Ray Vasvari and Gino Scarselli arguing on Junger's behalf.
-- During the appeal, the Bureau of Export Administration issued an interim final rule amending the regulations at issue.
+- The case citation is 209 F.3d 481 (6th Cir. 2000).[^1]
+- Peter Junger, a law professor, challenged export restrictions on encryption software as violations of the First Amendment.[^1]
+- The district court found that encryption source code is not sufficiently expressive to be protected by the First Amendment.[^1]
+- The Sixth Circuit reversed, concluding that the First Amendment protects computer source code.[^1]
+- The court remanded the case for further consideration of Junger's constitutional claims in light of amended regulations.[^1]
+- The ACLU of Ohio provided legal support, with attorneys Ray Vasvari and Gino Scarselli arguing on Junger's behalf.[^1]
+- During the appeal, the Bureau of Export Administration issued an interim final rule amending the regulations at issue.[^1]
 
 ## Historical Context
 
 Like Bernstein v. DOJ in the Ninth Circuit, this case arose from challenges to U.S. encryption export controls during the late 1990s crypto wars. Professor Junger wanted to use encryption source code in his teaching materials and publish them internationally. The case reinforced the Bernstein holding from a different federal circuit, strengthening the precedent that code is speech.
+
+
+[^1]: `SRC-JUNGER-CMU` — Junger v. Daley Opinion Text (CMU). Primary authority.
 
 ## Legal Analysis
 
@@ -82,3 +85,4 @@ This case provides additional circuit-level precedent that software source code 
 - Add official reporter source if available through government databases.
 - Document the amended regulations and their impact on the remand.
 - Connect to ACLU Ohio as a contact for similar cases.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

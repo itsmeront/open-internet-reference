@@ -46,12 +46,15 @@ Ro Khanna is a U.S. Representative from California (Silicon Valley) who drafted 
 
 ## Verified Facts
 
-- U.S. Representative from California representing Silicon Valley.
-- Drafted Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee.
-- Tapped by Democratic Leader Pelosi to draft principles.
-- Principles include net neutrality, consumer choice for ISPs, transparency in data collection, opt-in consent, and timely breach notification.
-- Introduced Creator Bill of Rights resolution.
-- Active on internet policy and free speech issues.
+- U.S. Representative from California representing Silicon Valley.[^1]
+- Drafted Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee.[^1]
+- Tapped by Democratic Leader Pelosi to draft principles.[^1]
+- Principles include net neutrality, consumer choice for ISPs, transparency in data collection, opt-in consent, and timely breach notification.[^1]
+- Introduced Creator Bill of Rights resolution.[^1]
+- Active on internet policy and free speech issues.[^1]
+
+
+[^1]: [`SRC-KHANNA-INTERNET-BILL`](../../../bibliography.md#SRC-KHANNA-INTERNET-BILL) — Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee. Secondary reporting or scholarship.
 
 ## Key Legislation
 

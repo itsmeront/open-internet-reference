@@ -72,6 +72,13 @@
       "record_title": "Network Neutrality Squad Announcement"
     },
     {
+      "date": "2011-06-27",
+      "description": "Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-BROWN-V-EMA-LII",
+      "record_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)"
+    },
+    {
       "date": "2015-04-20",
       "description": "Publication date for EFF at 25 - Remembering the Case that Established Code as Speech.",
       "event_type": "publication",
@@ -1116,6 +1123,13 @@
     },
     {
       "date": "2026-07-04",
+      "description": "Last verified date for Brown v. Entertainment Merchants Assn..",
+      "event_type": "verification",
+      "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "record_title": "Brown v. Entertainment Merchants Assn."
+    },
+    {
+      "date": "2026-07-04",
       "description": "Last verified date for Electronic Privacy Information Center.",
       "event_type": "verification",
       "record_id": "ORG-EPIC",
@@ -1351,6 +1365,13 @@
       "event_type": "verification",
       "record_id": "SRC-BOYD-MSR",
       "record_title": "danah boyd Microsoft Research Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-BROWN-V-EMA-LII",
+      "record_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)"
     },
     {
       "date": "2026-07-04",

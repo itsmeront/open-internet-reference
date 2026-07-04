@@ -40,7 +40,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 6
+    - **Research debt items**: 7
     - **Last verified**: 2026-06-25
 
 ---
@@ -53,14 +53,17 @@ Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to prot
 
 ## Verified Facts
 
-- U.S. Senator from Kentucky.
-- Introduced Fourth Amendment Restoration and Protection Act.
-- Co-introduced Aaron's Law with Wyden and Lofgren.
-- Co-introduced Fourth Amendment Is Not For Sale Act with Wyden.
-- Co-introduced USA RIGHTS Act.
-- Proposed amendments to prevent government from compelling companies to weaken encryption.
-- Opposed PATRIOT Act reauthorization.
-- Called PATRIOT Act "a violation of our most precious rights."
+- U.S. Senator from Kentucky.[^1]
+- Introduced Fourth Amendment Restoration and Protection Act.[^1]
+- Co-introduced Aaron's Law with Wyden and Lofgren.[^1]
+- Co-introduced Fourth Amendment Is Not For Sale Act with Wyden.[^1]
+- Co-introduced USA RIGHTS Act.[^1]
+- Proposed amendments to prevent government from compelling companies to weaken encryption.[^1]
+- Opposed PATRIOT Act reauthorization.[^1]
+- Called PATRIOT Act "a violation of our most precious rights."[^1]
+
+
+[^1]: [`SRC-PAUL-FOURTH-AMENDMENT`](../../../bibliography.md#SRC-PAUL-FOURTH-AMENDMENT) — Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights. Secondary reporting or scholarship.
 
 ## Key Legislation
 
@@ -96,3 +99,4 @@ Paul's anti-encryption-backdoor amendments directly protect software companies f
 - Create statute page for Fourth Amendment Restoration and Protection Act.
 - Create statute page for Fourth Amendment Is Not For Sale Act.
 - Create statute page for USA RIGHTS Act.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

@@ -19,12 +19,18 @@ Knowledge pages should generally include:
 
 - Summary
 - Metadata
-- Verified facts
-- Background or context
+- Verified facts (each bullet with a source footnote)
+- Background or context (significant claims footnoted)
 - Analysis, if appropriate
 - Relationships
 - Sources
 - Research debt
+
+## Citations in Prose
+
+- Use Markdown footnotes for factual claims in Verified Facts and Historical Context.
+- Do not present biography-only claims as fully verified; say “the official biography describes…” or add research debt for corroboration.
+- Separate what a source says from what OIR has independently confirmed.
 
 ## Legal Writing
 

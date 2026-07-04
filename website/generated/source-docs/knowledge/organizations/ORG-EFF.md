@@ -39,7 +39,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 2
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-19
 
 ---
@@ -52,14 +52,18 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 
 ## Verified Facts
 
-- EFF maintains an official contact page at <https://www.eff.org/about/contact>.
-- EFF maintains an official about page at <https://www.eff.org/about>.
-- The official about page describes EFF as a donor-funded U.S. 501(c)(3) nonprofit organization founded in 1990.
-- The official about page describes EFF's mission as ensuring that technology supports freedom, justice, and innovation.
+- EFF maintains an official contact page at <https://www.eff.org/about/contact>.[^1]
+- EFF maintains an official about page at <https://www.eff.org/about>.[^2]
+- The official about page describes EFF as a donor-funded U.S. 501(c)(3) nonprofit organization founded in 1990.[^2]
+- The official about page describes EFF's mission as ensuring that technology supports freedom, justice, and innovation.[^2]
 
 ## Historical Context
 
 Historical context has not yet been drafted beyond the founding date on the official about page.
+
+
+[^1]: [`SRC-EFF-CONTACT`](https://www.eff.org/about/contact) — Electronic Frontier Foundation Contact Page. Official organizational record.
+[^2]: [`SRC-EFF-ABOUT`](https://www.eff.org/about) — Electronic Frontier Foundation About Page. Self-reported profile; corroboration pending.
 
 ## Analysis
 
@@ -79,3 +83,5 @@ Analysis has not yet been drafted. Future work should use independent sources to
 
 - Add independent sources for history and major work.
 - Create a separate contact record only after outreach use requirements are defined.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

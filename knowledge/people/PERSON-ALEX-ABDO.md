@@ -34,12 +34,16 @@ Alex Abdo is litigation director of the Knight First Amendment Institute at Colu
 
 ## Verified Facts
 
-- The official Knight Institute biography describes Abdo as litigation director and states he has been involved in the conception and litigation of most of the Institute's legal challenges.
-- Recent work includes challenges to spyware use against journalists, secrecy of Office of Legal Counsel opinions, digitization of jail mail, and legal threats to platform researchers.
-- He was involved in the Institute's challenge to President Trump's blocking of critics on Twitter and in Wikimedia Foundation v. NSA challenging upstream surveillance.
-- Before joining the Institute, Abdo worked for eight years at the ACLU on NSA surveillance, encryption, anonymous speech online, government transparency, and post-9/11 detainee abuse.
-- In 2015, he argued the appeal that resulted in the Second Circuit's invalidation of the NSA's call-records program.
-- Abdo graduated from Yale College and Harvard Law School.
+- The official Knight Institute biography describes Abdo as litigation director and states he has been involved in the conception and litigation of most of the Institute's legal challenges.[^1]
+- Recent work includes challenges to spyware use against journalists, secrecy of Office of Legal Counsel opinions, digitization of jail mail, and legal threats to platform researchers.[^1]
+- He was involved in the Institute's challenge to President Trump's blocking of critics on Twitter.[^1]
+- He was involved in Wikimedia Foundation v. NSA challenging upstream surveillance.[^1]
+- Before joining the Institute, Abdo worked for eight years at the ACLU on NSA surveillance, encryption, anonymous speech online, government transparency, and post-9/11 detainee abuse.[^1]
+- In 2015, he argued the appeal that resulted in the Second Circuit's invalidation of the NSA's call-records program.[^1]
+- Abdo graduated from Yale College and Harvard Law School.[^1]
+
+
+[^1]: `SRC-ABDO-KNIGHT` — Alex Abdo Knight Institute Biography. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -56,5 +60,8 @@ Abdo's NSA surveillance litigation, platform research access work, and encryptio
 
 ## Research Debt
 
-- Add Wikimedia Foundation v. NSA outcome and current status.
+- Create `CASE-*` page and primary source for mentioned case `Knight Institute v. Trump`.
+- Create `CASE-*` page and primary source for mentioned case `Wikimedia Foundation v. NSA`.
 - Document platform researcher litigation in detail.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

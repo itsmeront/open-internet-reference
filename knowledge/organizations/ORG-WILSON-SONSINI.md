@@ -34,16 +34,20 @@ Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to te
 
 ## Verified Facts
 
-- Represents 350+ public and private software companies.
-- More venture-backed software companies than any other US law firm.
-- Over 1,000 attorneys.
-- Has secured landmark decisions in disputes involving social media, online advertising, copyright law, the First Amendment, and privacy.
-- Founded over 60 years ago.
-- Internet Strategy and Litigation practice handles First Amendment and privacy cases.
+- Represents 350+ public and private software companies.[^1]
+- More venture-backed software companies than any other US law firm.[^1]
+- Over 1,000 attorneys.[^1]
+- Has secured landmark decisions in disputes involving social media, online advertising, copyright law, the First Amendment, and privacy.[^1]
+- Founded over 60 years ago.[^1]
+- Internet Strategy and Litigation practice handles First Amendment and privacy cases.[^2]
 
 ## Historical Context
 
 Historical context has not yet been drafted beyond the founding date. Future work should document the firm's role in the growth of Silicon Valley and notable technology law matters.
+
+
+[^1]: `SRC-WILSON-SONSINI-SOFTWARE` — Wilson Sonsini Software Industry Practice Page. Official organizational record.
+[^2]: `SRC-WILSON-SONSINI-INTERNET` — Wilson Sonsini Internet Strategy and Litigation Practice Page. Official source; review reliability tier.
 
 ## Analysis
 
@@ -68,3 +72,4 @@ Premier technology law firm with First Amendment litigation experience, IP trans
 - Add independent sources for firm history and notable matters.
 - Document specific landmark First Amendment and privacy decisions.
 - Identify key attorneys in the technology and internet litigation practices.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

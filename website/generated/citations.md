@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 115
+Source count: 116
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -49,6 +49,9 @@ Source count: 115
 - Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 - Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Relationship source in [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md): [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `argued` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 ## [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography
 
@@ -66,6 +69,15 @@ Source count: 115
 - Page source in [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - Relationship source in [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md): [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md) `cites` [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
 
+## [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)
+
+- Page source in [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Relationship source in [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+- Relationship source in [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+- Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+- Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+
 ## [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - Page source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
@@ -76,6 +88,9 @@ Source count: 115
 - Page source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - Relationship source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md): [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md) `cites` [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - Relationship source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md): [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+- Page source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
+- Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `argued` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Relationship source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `related_to` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 
@@ -157,6 +172,7 @@ Source count: 115
 - Page source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
 - Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `affiliated_with` [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 - Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `cites` [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+- Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 
 ## [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md): Fenwick & West Firm History Page
 
@@ -617,6 +633,7 @@ Source count: 115
 
 - Page source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `affiliated_with` [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
+- Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `argued` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
 
 ## [`SRC-WILLIAMSON-LEGAL`](source-docs/bibliography/people/SRC-WILLIAMSON-LEGAL.md): Aaron Williamson Williamson Legal Team Page

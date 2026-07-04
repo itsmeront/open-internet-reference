@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 81
+Record count: 82
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -12,6 +12,15 @@ Record count: 81
 - Tags: first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+## `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`: Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Tags: first-amendment, digital-rights
+
+Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
 ## `CASE-CARPENTER-V-US`: Carpenter v. United States { #CASE-CARPENTER-V-US }
 

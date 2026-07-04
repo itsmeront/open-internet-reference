@@ -46,14 +46,17 @@ Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, 
 
 ## Verified Facts
 
-- Co-designer of the TCP/IP protocols and the architecture of the Internet, working with Robert Kahn.
-- Vice President and Chief Internet Evangelist at Google.
-- Founding president of the Internet Society (ISOC), 1992–1995.
-- Chairman of the ICANN board, 2000–2007.
-- Former executive at MCI, the Corporation for National Research Initiatives, and DARPA; former Stanford faculty member.
-- Recipient of the ACM Turing Award (with Robert Kahn), Presidential Medal of Freedom, and National Medal of Technology.
-- Visiting Scientist at the Jet Propulsion Laboratory; involved in interplanetary networking research.
-- Past President of the Association for Computing Machinery; chairman of ARIN.
+- Co-designer of the TCP/IP protocols and the architecture of the Internet, working with Robert Kahn.[^1]
+- Vice President and Chief Internet Evangelist at Google.[^1]
+- Founding president of the Internet Society (ISOC), 1992–1995.[^1]
+- Chairman of the ICANN board, 2000–2007.[^1]
+- Former executive at MCI, the Corporation for National Research Initiatives, and DARPA; former Stanford faculty member.[^1]
+- Recipient of the ACM Turing Award (with Robert Kahn), Presidential Medal of Freedom, and National Medal of Technology.[^1]
+- Visiting Scientist at the Jet Propulsion Laboratory; involved in interplanetary networking research.[^1]
+- Past President of the Association for Computing Machinery; chairman of ARIN.[^1]
+
+
+[^1]: [`SRC-CERF-GOOGLE`](../../../bibliography.md#SRC-CERF-GOOGLE) — Vinton G. Cerf Google Research Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

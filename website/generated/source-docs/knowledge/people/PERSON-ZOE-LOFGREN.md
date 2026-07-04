@@ -46,11 +46,14 @@ Zoe Lofgren is a U.S. Representative from California who introduced Aaron's Law 
 
 ## Verified Facts
 
-- U.S. Representative from California.
-- Introduced Aaron's Law with Sensenbrenner (bipartisan).
-- Legislation inspired by Aaron Swartz who faced up to 35 years for act of civil disobedience.
-- Aaron's Law refocuses CFAA away from common computer and internet activity.
-- Collaborated with Wyden and Paul on bicameral version.
+- U.S. Representative from California.[^1]
+- Introduced Aaron's Law with Sensenbrenner (bipartisan).[^1]
+- Legislation inspired by Aaron Swartz who faced up to 35 years for act of civil disobedience.[^1]
+- Aaron's Law refocuses CFAA away from common computer and internet activity.[^1]
+- Collaborated with Wyden and Paul on bicameral version.[^1]
+
+
+[^1]: [`SRC-LOFGREN-AARONS-LAW`](../../../bibliography.md#SRC-LOFGREN-AARONS-LAW) — Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law. Secondary reporting or scholarship.
 
 ## Key Legislation
 

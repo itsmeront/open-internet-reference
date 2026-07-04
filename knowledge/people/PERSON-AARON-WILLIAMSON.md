@@ -27,15 +27,18 @@ Aaron Williamson is principal attorney at Williamson Legal, PLLC. His practice f
 
 ## Verified Facts
 
-- The official Williamson Legal team page describes Williamson as founder and principal attorney.
-- His practice focuses on open source, software and technology transactions, and nonprofit organizations.
-- For over 14 years, he has advised clients on open source software and licensing, including incorporation of open source foundations, open source policy design, and open source strategy.
-- He has been involved in drafting major open source licenses and counsels clients on software copyright infringement, CFAA liability, and DMCA anti-circumvention issues.
-- He advises nonprofit organizations on formation, compliance, and governance.
-- Prior roles include general counsel at FINOS, partner at Tor Ekeland P.C., in-house counsel at IEEE, and senior staff counsel at the Software Freedom Law Center.
-- He received his J.D. from NYU School of Law in 2007 and a B.S. in computer science from Taylor University in 2002.
-- He has taught as an adjunct professor at the NYU School of Law Technology Law & Policy Clinic.
-- Contact: aaron@williamson.legal, +1-773-727-8363.
+- The official Williamson Legal team page describes Williamson as founder and principal attorney.[^1]
+- His practice focuses on open source, software and technology transactions, and nonprofit organizations.[^1]
+- For over 14 years, he has advised clients on open source software and licensing, including incorporation of open source foundations, open source policy design, and open source strategy.[^1]
+- He has been involved in drafting major open source licenses and counsels clients on software copyright infringement, CFAA liability, and DMCA anti-circumvention issues.[^1]
+- He advises nonprofit organizations on formation, compliance, and governance.[^1]
+- Prior roles include general counsel at FINOS, partner at Tor Ekeland P.C., in-house counsel at IEEE, and senior staff counsel at the Software Freedom Law Center.[^1]
+- He received his J.D. from NYU School of Law in 2007 and a B.S. in computer science from Taylor University in 2002.[^1]
+- He has taught as an adjunct professor at the NYU School of Law Technology Law & Policy Clinic.[^1]
+- Contact: aaron@williamson.legal, +1-773-727-8363.[^1]
+
+
+[^1]: `SRC-WILLIAMSON-LEGAL` — Aaron Williamson Williamson Legal Team Page. Self-reported profile; corroboration pending.
 
 ## Relevance to Open Source and Software Companies
 
@@ -53,3 +56,5 @@ Williamson is directly relevant for open source compliance, foundation formation
 
 - Add affiliation relationship to ORG-SFLC as former counsel (historical).
 - Document representative litigation matters where public record permits.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

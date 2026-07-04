@@ -40,7 +40,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 2
+    - **Research debt items**: 3
     - **Last verified**: 2026-07-04
 
 ---
@@ -53,14 +53,18 @@ The Reporters Committee for Freedom of the Press is the leading U.S. pro bono le
 
 ## Verified Facts
 
-- RCFP was founded in 1970 in response to government subpoenas seeking reporters' confidential sources.
-- The official what-we-do page describes RCFP as the leading pro bono legal services organization for journalists and newsrooms in the U.S.
-- RCFP operates a 24/7 Legal Hotline for media law and press freedom questions, including public records, subpoena threats, protest coverage, and journalist arrests.
-- RCFP attorneys pursue litigation on First Amendment, freedom of information, and court access issues.
-- RCFP files friend-of-the-court briefs in cases affecting newsgathering and publication rights.
-- RCFP publishes legal guides and advances policy priorities including anti-SLAPP protections and federal source protections.
-- Since its founding, no reporter has paid for RCFP's help in defending First Amendment rights.
-- The official contact page lists phone 202-795-9300, general inquiries info@rcfp.org, media inquiries media@rcfp.org, and mailing address P.O. Box 34176, Washington, D.C. 20043.
+- RCFP was founded in 1970 in response to government subpoenas seeking reporters' confidential sources.[^1]
+- The official what-we-do page describes RCFP as the leading pro bono legal services organization for journalists and newsrooms in the U.S.[^1]
+- RCFP operates a 24/7 Legal Hotline for media law and press freedom questions, including public records, subpoena threats, protest coverage, and journalist arrests.[^2]
+- RCFP attorneys pursue litigation on First Amendment, freedom of information, and court access issues.[^1]
+- RCFP files friend-of-the-court briefs in cases affecting newsgathering and publication rights.[^1]
+- RCFP publishes legal guides and advances policy priorities including anti-SLAPP protections and federal source protections.[^1]
+- Since its founding, no reporter has paid for RCFP's help in defending First Amendment rights.[^1]
+- The official contact page lists phone 202-795-9300, general inquiries info@rcfp.org, media inquiries media@rcfp.org, and mailing address P.O. Box 34176, Washington, D.C. 20043.[^2]
+
+
+[^1]: [`SRC-RCFP-WHAT-WE-DO`](../../../bibliography.md#SRC-RCFP-WHAT-WE-DO) — Reporters Committee What We Do Page. Official source; review reliability tier.
+[^2]: [`SRC-RCFP-CONTACT`](../../../bibliography.md#SRC-RCFP-CONTACT) — Reporters Committee Contact Page. Official organizational record.
 
 ## Public Contact Information
 
@@ -87,3 +91,4 @@ RCFP is primarily oriented toward journalists and newsrooms, but its amicus prac
 
 - Document technology-related amicus briefs and litigation.
 - Clarify whether RCFP accepts matters involving independent researchers or security disclosures.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-04 | **Records:** 81 | **Sources referenced:** 112
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-04 | **Records:** 82 | **Sources referenced:** 113
 
 <div class="oir-handbook" markdown="1">
 
@@ -55,6 +55,7 @@ Knowledge records included in this handbook, grouped by type.
 ### Case
 
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
+- [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
@@ -210,6 +211,15 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+### Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS-glossary }
+
+- **Record ID:** `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`
+- **Type:** case
+- **Status:** draft
+- **Tags:** first-amendment, digital-rights
+
+Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
 ### Bruce Schneier { #PERSON-BRUCE-SCHNEIER-glossary }
 
@@ -896,7 +906,7 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 #### [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): Cindy Cohn { #PERSON-CINDY-COHN }
 
 - Status: `draft`
-- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md), [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md), [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md), [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+- Sources: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md), [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md), [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md), [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
@@ -945,7 +955,7 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 #### [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): Katie Fallow { #PERSON-KATIE-FALLOW }
 
 - Status: `draft`
-- Sources: [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+- Sources: [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md), [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
 Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.
 
@@ -973,7 +983,7 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 #### [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): Nathan Freed Wessler { #PERSON-NATHAN-FREED-WESSLER }
 
 - Status: `draft`
-- Sources: [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
+- Sources: [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 
 Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.
 
@@ -992,6 +1002,13 @@ Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, 
 - Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+#### [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
+
+- Status: `draft`
+- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+
+Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
 #### [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md): Carpenter v. United States { #CASE-CARPENTER-V-US }
 
@@ -1466,6 +1483,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography (`verified`)
 - [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md): Matt Blaze Georgetown Faculty Profile (`verified`)
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
+- [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`verified`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
 - [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page (`verified`)

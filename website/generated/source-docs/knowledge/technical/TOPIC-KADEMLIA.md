@@ -45,12 +45,15 @@ Kademlia is a peer-to-peer distributed hash table described in a 2002 paper by P
 
 ## Verified Facts
 
-- The paper "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric" was published in 2002.
-- The paper is authored by Petar Maymounkov and David Mazières.
+- The paper "Kademlia: A Peer-to-Peer Information System Based on the XOR Metric" was published in 2002.[^1]
+- The paper is authored by Petar Maymounkov and David Mazières.[^1]
 
 ## Historical Context
 
 This page is currently a seed record. Broader historical context should compare Kademlia with other distributed hash table systems only after those sources are added.
+
+
+[^1]: [`SRC-KADEMLIA-PAPER`](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia.pdf) — Kademlia: A Peer-to-Peer Information System Based on the XOR Metric. Secondary reporting or scholarship.
 
 ## Technical Analysis
 

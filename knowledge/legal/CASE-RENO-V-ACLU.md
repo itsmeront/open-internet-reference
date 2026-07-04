@@ -50,18 +50,22 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 ## Verified Facts
 
-- The case citation is 521 U.S. 844 (1997).
-- The Supreme Court decided the case on June 26, 1997, in docket No. 96-511.
-- The case concerned two Communications Decency Act of 1996 provisions aimed at protecting minors from harmful material on the Internet.
-- The official syllabus states that the CDA's "indecent transmission" and "patently offensive display" provisions abridge "the freedom of speech" protected by the First Amendment.
-- Justice Stevens delivered the opinion of the Court.
-- The District Court had entered a preliminary injunction against enforcement of the challenged provisions after extensive findings of fact.
-- The Court affirmed the judgment without reaching the Fifth Amendment vagueness issue, while noting that vagueness was relevant to the First Amendment overbreadth inquiry.
-- The opinion states that the CDA differs in material ways from broadcast-era precedents such as Ginsberg, Pacifica, and Renton that the Government relied upon.
+- The case citation is 521 U.S. 844 (1997).[^1]
+- The Supreme Court decided the case on June 26, 1997, in docket No. 96-511.[^1]
+- The case concerned two Communications Decency Act of 1996 provisions aimed at protecting minors from harmful material on the Internet.[^1]
+- The official syllabus states that the CDA's "indecent transmission" and "patently offensive display" provisions abridge "the freedom of speech" protected by the First Amendment.[^2]
+- Justice Stevens delivered the opinion of the Court.[^1]
+- The District Court had entered a preliminary injunction against enforcement of the challenged provisions after extensive findings of fact.[^1]
+- The Court affirmed the judgment without reaching the Fifth Amendment vagueness issue, while noting that vagueness was relevant to the First Amendment overbreadth inquiry.[^1]
+- The opinion states that the CDA differs in material ways from broadcast-era precedents such as Ginsberg, Pacifica, and Renton that the Government relied upon.[^1]
 
 ## Historical Context
 
 The case arose from a challenge to the Communications Decency Act of 1996, a statute enacted as part of broader telecommunications legislation. The government appealed a three-judge district court injunction under the Act's special review provisions.
+
+
+[^1]: `SRC-RENO-V-ACLU-GOVINFO` — Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo). Primary authority.
+[^2]: `SRC-RENO-V-ACLU-LOC` — Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF). Official source; review reliability tier.
 
 ## Legal Analysis
 
@@ -85,3 +89,4 @@ The Court treated the challenged CDA provisions as content-based restrictions on
 
 - Add later treatment and related internet speech cases with primary sources.
 - Clarify how this case relates to software-publication and code-as-speech doctrine separately from Internet content regulation.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

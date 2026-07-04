@@ -44,7 +44,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 3
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-19
 
 ---
@@ -57,14 +57,18 @@ Onion routing is a technique for anonymous communication over a network in which
 
 ## Verified Facts
 
-- The Tor Project history page states that onion routing research began in the mid-1990s.
-- The Tor Project history page states that "Tor" stood for The Onion Routing.
-- The Tor design paper describes Tor as a circuit-based low-latency anonymous communication service and second-generation onion routing system.
-- `ORG-TOR-PROJECT` is the OIR seed organization record for the Tor Project.
+- The Tor Project history page states that onion routing research began in the mid-1990s.[^1]
+- The Tor Project history page states that "Tor" stood for The Onion Routing.[^1]
+- The Tor design paper describes Tor as a circuit-based low-latency anonymous communication service and second-generation onion routing system.[^2]
+- `ORG-TOR-PROJECT` is the OIR seed organization record for the Tor Project.[^1]
 
 ## Historical Context
 
 Historical context has not yet been drafted beyond the summary on the official Tor Project history page and the Tor design paper abstract.
+
+
+[^1]: [`SRC-TOR-PROJECT-HISTORY`](https://www.torproject.org/about/history/) — Tor Project History Page. Secondary reporting or scholarship.
+[^2]: [`SRC-TOR-DESIGN-PAPER`](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) — Tor: The Second-Generation Onion Router. Secondary reporting or scholarship.
 
 ## Technical Analysis
 
@@ -86,3 +90,4 @@ Technical analysis has not yet been drafted. Future work should add earlier onio
 - Add primary research papers on early onion routing from the U.S. Naval Research Laboratory.
 - Add current Tor specification sources for implementation details.
 - Distinguish onion routing as a general technique from Tor-specific implementation details.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

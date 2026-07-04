@@ -69,6 +69,43 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
+      "relationships": [
+        {
+          "object": "SRC-BROWN-V-EMA-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BROWN-V-EMA-LII"
+          ],
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BROWN-V-EMA-LII"
+          ],
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
+      "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "status": "draft",
+      "summary": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.",
+      "tags": [
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Brown v. Entertainment Merchants Assn.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "CASE-CARPENTER-V-US",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
@@ -1538,6 +1575,14 @@
           "subject": "PERSON-CINDY-COHN"
         },
         {
+          "object": "SRC-BERNSTEIN-JUSTIA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "PERSON-CINDY-COHN"
+        },
+        {
           "object": "ORG-EFF",
           "predicate": "affiliated_with",
           "sources": [
@@ -1549,7 +1594,8 @@
           "object": "CASE-BERNSTEIN-V-DOJ",
           "predicate": "argued",
           "sources": [
-            "SRC-BERNSTEIN-EFF-25"
+            "SRC-BERNSTEIN-EFF-25",
+            "SRC-BERNSTEIN-JUSTIA"
           ],
           "subject": "PERSON-CINDY-COHN"
         }
@@ -1560,7 +1606,8 @@
         "SRC-COHN-EFF-DEPARTURE",
         "SRC-COHN-FOSSFORCE",
         "SRC-JEWEL-V-NSA-EFF",
-        "SRC-BERNSTEIN-EFF-25"
+        "SRC-BERNSTEIN-EFF-25",
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "status": "draft",
       "summary": "Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.",
@@ -1957,17 +2004,35 @@
           "subject": "PERSON-KATIE-FALLOW"
         },
         {
+          "object": "SRC-BROWN-V-EMA-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BROWN-V-EMA-LII"
+          ],
+          "subject": "PERSON-KATIE-FALLOW"
+        },
+        {
           "object": "ORG-KNIGHT-FIRST-AMENDMENT",
           "predicate": "affiliated_with",
           "sources": [
             "SRC-FALLOW-KNIGHT"
           ],
           "subject": "PERSON-KATIE-FALLOW"
+        },
+        {
+          "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-FALLOW-KNIGHT",
+            "SRC-BROWN-V-EMA-LII"
+          ],
+          "subject": "PERSON-KATIE-FALLOW"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-KATIE-FALLOW.md",
       "sources": [
-        "SRC-FALLOW-KNIGHT"
+        "SRC-FALLOW-KNIGHT",
+        "SRC-BROWN-V-EMA-LII"
       ],
       "status": "draft",
       "summary": "Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.",
@@ -2218,9 +2283,26 @@
           "subject": "PERSON-NATHAN-FREED-WESSLER"
         },
         {
+          "object": "SRC-CARPENTER-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "PERSON-NATHAN-FREED-WESSLER"
+        },
+        {
           "object": "ORG-ACLU",
           "predicate": "affiliated_with",
           "sources": [
+            "SRC-WESSLER-ACLU"
+          ],
+          "subject": "PERSON-NATHAN-FREED-WESSLER"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "argued",
+          "sources": [
+            "SRC-CARPENTER-LII",
             "SRC-WESSLER-ACLU"
           ],
           "subject": "PERSON-NATHAN-FREED-WESSLER"
@@ -2228,7 +2310,8 @@
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
       "sources": [
-        "SRC-WESSLER-ACLU"
+        "SRC-WESSLER-ACLU",
+        "SRC-CARPENTER-LII"
       ],
       "status": "draft",
       "summary": "Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.",

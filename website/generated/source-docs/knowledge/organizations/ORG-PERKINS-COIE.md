@@ -46,14 +46,17 @@ Perkins Coie is a law firm with over 1,200 attorneys named 2026 "Law Firm of the
 
 ## Verified Facts
 
-- Named 2026 Law Firm of the Year in Technology Law by Best Lawyers.
-- Technology Transactions & Privacy practice with 50+ attorneys.
-- Represents emerging and established businesses in virtually every segment of the technology industry.
-- Over 1,200 attorneys in 21 offices across the US and in Beijing and Taipei.
+- Named 2026 Law Firm of the Year in Technology Law by Best Lawyers.[^1]
+- Technology Transactions & Privacy practice with 50+ attorneys.[^1]
+- Represents emerging and established businesses in virtually every segment of the technology industry.[^1]
+- Over 1,200 attorneys in 21 offices across the US and in Beijing and Taipei.[^1]
 
 ## Historical Context
 
 Historical context has not yet been drafted. Future work should document the firm's founding, growth trajectory, and notable technology law matters.
+
+
+[^1]: [`SRC-PERKINS-COIE-TECH`](../../../bibliography.md#SRC-PERKINS-COIE-TECH) — Perkins Coie Technology Transactions & Privacy Law Practice Page. Official organizational record.
 
 ## Analysis
 

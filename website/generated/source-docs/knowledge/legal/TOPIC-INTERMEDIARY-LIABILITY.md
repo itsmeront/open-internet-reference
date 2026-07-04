@@ -49,7 +49,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 4
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-19
 
 ---
@@ -62,14 +62,18 @@ Intermediary liability concerns when online platforms, service providers, or oth
 
 ## Verified Facts
 
-- `TOPIC-SAFE-HARBOR` is the OIR seed topic record for U.S. copyright safe harbor under 17 U.S.C. § 512.
-- `STAT-DMCA-512` is the OIR seed statute record for 17 U.S.C. § 512.
-- `CASE-PERFECT10-V-CCBILL` is an OIR seed case record addressing DMCA safe harbor requirements.
-- OIR has not yet summarized non-copyright intermediary liability doctrines on this page.
+- `TOPIC-SAFE-HARBOR` is the OIR seed topic record for U.S. copyright safe harbor under 17 U.S.C. § 512.[^1]
+- `STAT-DMCA-512` is the OIR seed statute record for 17 U.S.C. § 512.[^1]
+- `CASE-PERFECT10-V-CCBILL` is an OIR seed case record addressing DMCA safe harbor requirements.[^2]
+- OIR has not yet summarized non-copyright intermediary liability doctrines on this page.[^1]
 
 ## Historical Context
 
 Historical context has not yet been drafted.
+
+
+[^1]: [`SRC-USC-17-512-GOVINFO`](https://www.govinfo.gov/link/uscode/17/512) — 17 U.S.C. § 512 (GovInfo). Primary authority.
+[^2]: [`SRC-PERFECT10-V-CCBILL-JUSTIA`](https://law.justia.com/cases/federal/appellate-courts/ca9/488/1102/) — Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007). Primary authority.
 
 ## Legal Analysis
 
@@ -92,3 +96,4 @@ Legal analysis has not yet been drafted. Future work should distinguish copyrigh
 - Summarize `CASE-PERFECT10-V-CCBILL` and add later safe harbor case law.
 - Add sources for non-copyright intermediary liability doctrines.
 - Compare U.S. safe harbor rules with other jurisdictions.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

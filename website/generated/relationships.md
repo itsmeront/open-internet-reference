@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 177
+Edge count: 184
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -28,6 +28,16 @@ Edge count: 177
 
 - Declared in: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+
+- Declared in: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+
+## [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
 ## [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md) `cites` [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 
@@ -432,12 +442,17 @@ Edge count: 177
 ## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `argued` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
-- Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+- Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 ## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Sources: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
+
+## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+- Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 ## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 
@@ -549,10 +564,20 @@ Edge count: 177
 - Declared in: [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
 - Sources: [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
 
+## [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+
+- Declared in: [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+
 ## [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `cites` [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
 
 - Declared in: [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
 - Sources: [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+
+## [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+
+- Declared in: [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+- Sources: [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md), [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
 ## [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
@@ -608,6 +633,16 @@ Edge count: 177
 
 - Declared in: [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - Sources: [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
+
+## [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `argued` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+
+- Declared in: [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
+- Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md), [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
+
+## [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+- Declared in: [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
+- Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 
 ## [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
 

@@ -19,11 +19,13 @@ Briefly describe the topic in neutral, verifiable language.
 
 ## Verified Facts
 
-- Add sourced facts here.
+- Add sourced facts here; each bullet must end with a footnote reference.[^1]
+
+[^1]: `SRC-EXAMPLE` — Example Source Title. Reliability note (e.g. primary authority, or self-reported biography; corroboration pending).
 
 ## Historical Context
 
-Add context supported by sources.
+Add context supported by sources. Footnote significant factual claims the same way as Verified Facts.
 
 ## Technical Analysis
 
@@ -44,3 +46,4 @@ List evidence-backed relationships. Each relationship must cite at least one sou
 ## Research Debt
 
 - List unresolved verification needs.
+- If facts rely on a self-reported biography or about page, name the independent sources still needed.

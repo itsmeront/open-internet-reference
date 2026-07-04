@@ -1,15 +1,15 @@
 {
   "by_status": {
-    "draft": 97,
-    "verified": 99
+    "draft": 98,
+    "verified": 100
   },
   "by_type": {
     "attorney": 16,
-    "case": 9,
+    "case": 10,
     "organization": 19,
     "person": 23,
     "protocol": 3,
-    "source": 115,
+    "source": 116,
     "statute": 3,
     "topic": 8
   },
@@ -37,6 +37,7 @@
     "SRC-WYDEN-AARONS-LAW",
     "SRC-WYDEN-SECTION-230",
     "CASE-BERNSTEIN-V-DOJ",
+    "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
     "CASE-CARPENTER-V-US",
     "CASE-GOOGLE-V-ORACLE",
     "CASE-JUNGER-V-DALEY",
@@ -121,7 +122,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 97,
-    "records": 196
+    "needing_review": 98,
+    "records": 198
   }
 }

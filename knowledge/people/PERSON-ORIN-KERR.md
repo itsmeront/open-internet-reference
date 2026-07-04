@@ -28,13 +28,16 @@ Orin Kerr is the Fred C. Stevenson Research Professor at George Washington Unive
 
 ## Verified Facts
 
-- Fred C. Stevenson Research Professor at George Washington University Law School.
-- Leading academic commentator on the Computer Fraud and Abuse Act (CFAA) and computer crime statutes.
-- Author of influential law review articles on CFAA scope, "authorization" in computer-use policies, and extraterritorial application of computer crime law.
-- Frequent amicus participant in major CFAA and surveillance cases before the U.S. Supreme Court and federal appellate courts.
-- Former special assistant U.S. attorney in the Computer Crime and Intellectual Property Section of the U.S. Department of Justice.
-- Former professor at George Washington University, USC Gould School of Law, and Berkeley Law (visiting).
-- Editor of the CFAA-related materials in *Computer Crime Law* casebook.
+- Fred C. Stevenson Research Professor at George Washington University Law School.[^1]
+- Leading academic commentator on the Computer Fraud and Abuse Act (CFAA) and computer crime statutes.[^1]
+- Author of influential law review articles on CFAA scope, "authorization" in computer-use policies, and extraterritorial application of computer crime law.[^1]
+- Frequent amicus participant in major CFAA and surveillance cases before the U.S. Supreme Court and federal appellate courts.[^1]
+- Former special assistant U.S. attorney in the Computer Crime and Intellectual Property Section of the U.S. Department of Justice.[^1]
+- Former professor at George Washington University, USC Gould School of Law, and Berkeley Law (visiting).[^1]
+- Editor of the CFAA-related materials in *Computer Crime Law* casebook.[^1]
+
+
+[^1]: `SRC-ORIN-KERR-GWU` — Orin Kerr George Washington University Law Faculty Page. Secondary reporting or scholarship.
 
 ## Expert Testimony and Public Advocacy
 

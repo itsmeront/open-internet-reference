@@ -39,7 +39,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 3
+    - **Research debt items**: 5
     - **Last verified**: 2026-06-25
 
 ---
@@ -52,10 +52,14 @@ The Open Source Initiative is a non-profit corporation with global scope formed 
 
 ## Verified Facts
 
-- The official about page describes OSI as a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.
-- The official history page states OSI was jointly founded by Eric Raymond and Bruce Perens in late February 1998, with Raymond as its first president and Perens as vice-president.
-- The initial Board of Directors included Brian Behlendorf, Ian Murdock, Russ Nelson, and Chip Salzenberg.
-- OSI is the steward of the Open Source Definition, which sets the foundation for the open source software ecosystem.
+- The official about page describes OSI as a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source and to build bridges among different constituencies in the open source community.[^1]
+- The official history page states OSI was jointly founded by Eric Raymond and Bruce Perens in late February 1998, with Raymond as its first president and Perens as vice-president.[^2]
+- The initial Board of Directors included Brian Behlendorf, Ian Murdock, Russ Nelson, and Chip Salzenberg.[^1]
+- OSI is the steward of the Open Source Definition, which sets the foundation for the open source software ecosystem.[^1]
+
+
+[^1]: [`SRC-OSI-ABOUT`](../../../bibliography.md#SRC-OSI-ABOUT) — Open Source Initiative About Page. Self-reported profile; corroboration pending.
+[^2]: [`SRC-OSI-HISTORY`](../../../bibliography.md#SRC-OSI-HISTORY) — Open Source Initiative History Page. Official source; review reliability tier.
 
 ## Public Contact Information
 
@@ -82,3 +86,5 @@ OSI is the authoritative body that maintains the Open Source Definition, which d
 - Add details on the Open Source Definition and its legal significance.
 - Document OSI's affiliate organizations network.
 - Add information about license review process relevant to software companies.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

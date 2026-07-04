@@ -52,6 +52,26 @@
       "subject": "CASE-BERNSTEIN-V-DOJ"
     },
     {
+      "declared_in": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "notes": null,
+      "object": "SRC-BROWN-V-EMA-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+    },
+    {
+      "declared_in": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+    },
+    {
       "declared_in": "CASE-CARPENTER-V-US",
       "notes": null,
       "object": "SRC-CARPENTER-GOVINFO",
@@ -857,7 +877,8 @@
       "object": "CASE-BERNSTEIN-V-DOJ",
       "predicate": "argued",
       "sources": [
-        "SRC-BERNSTEIN-EFF-25"
+        "SRC-BERNSTEIN-EFF-25",
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "subject": "PERSON-CINDY-COHN"
     },
@@ -868,6 +889,16 @@
       "predicate": "cites",
       "sources": [
         "SRC-BERNSTEIN-EFF-25"
+      ],
+      "subject": "PERSON-CINDY-COHN"
+    },
+    {
+      "declared_in": "PERSON-CINDY-COHN",
+      "notes": null,
+      "object": "SRC-BERNSTEIN-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "subject": "PERSON-CINDY-COHN"
     },
@@ -1094,10 +1125,31 @@
     {
       "declared_in": "PERSON-KATIE-FALLOW",
       "notes": null,
+      "object": "SRC-BROWN-V-EMA-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "subject": "PERSON-KATIE-FALLOW"
+    },
+    {
+      "declared_in": "PERSON-KATIE-FALLOW",
+      "notes": null,
       "object": "SRC-FALLOW-KNIGHT",
       "predicate": "cites",
       "sources": [
         "SRC-FALLOW-KNIGHT"
+      ],
+      "subject": "PERSON-KATIE-FALLOW"
+    },
+    {
+      "declared_in": "PERSON-KATIE-FALLOW",
+      "notes": null,
+      "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FALLOW-KNIGHT",
+        "SRC-BROWN-V-EMA-LII"
       ],
       "subject": "PERSON-KATIE-FALLOW"
     },
@@ -1208,6 +1260,27 @@
       "predicate": "affiliated_with",
       "sources": [
         "SRC-WESSLER-ACLU"
+      ],
+      "subject": "PERSON-NATHAN-FREED-WESSLER"
+    },
+    {
+      "declared_in": "PERSON-NATHAN-FREED-WESSLER",
+      "notes": null,
+      "object": "CASE-CARPENTER-V-US",
+      "predicate": "argued",
+      "sources": [
+        "SRC-CARPENTER-LII",
+        "SRC-WESSLER-ACLU"
+      ],
+      "subject": "PERSON-NATHAN-FREED-WESSLER"
+    },
+    {
+      "declared_in": "PERSON-NATHAN-FREED-WESSLER",
+      "notes": null,
+      "object": "SRC-CARPENTER-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CARPENTER-LII"
       ],
       "subject": "PERSON-NATHAN-FREED-WESSLER"
     },

@@ -46,13 +46,16 @@ Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technol
 
 ## Verified Facts
 
-- Provost and Vice President for Academic Affairs at SUNY Polytechnic Institute; historian of technology.
-- PhD in History of Science and Technology (Johns Hopkins University).
-- Author of *Open Standards and the Digital Age: History, Ideology, and Networks* (Cambridge University Press, 2014).
-- Co-author of *Circuits, Packets, and Protocols: Entrepreneurs and Computer Communications, 1968–1988* (ACM Books, 2022).
-- Co-author of *The Innovation Delusion* (Currency, 2020, with Lee Vinsel); co-founder of The Maintainers research network.
-- Publications on internet history, standardization, modularity, the Bell System, and computer communications entrepreneurship.
-- Contributor to public-facing outlets including the *New York Times*, *Washington Post*, and *IEEE Spectrum*.
+- Provost and Vice President for Academic Affairs at SUNY Polytechnic Institute; historian of technology.[^1]
+- PhD in History of Science and Technology (Johns Hopkins University).[^1]
+- Author of *Open Standards and the Digital Age: History, Ideology, and Networks* (Cambridge University Press, 2014).[^1]
+- Co-author of *Circuits, Packets, and Protocols: Entrepreneurs and Computer Communications, 1968–1988* (ACM Books, 2022).[^1]
+- Co-author of *The Innovation Delusion* (Currency, 2020, with Lee Vinsel); co-founder of The Maintainers research network.[^1]
+- Publications on internet history, standardization, modularity, the Bell System, and computer communications entrepreneurship.[^1]
+- Contributor to public-facing outlets including the *New York Times*, *Washington Post*, and *IEEE Spectrum*.[^1]
+
+
+[^1]: [`SRC-RUSSELL-PROFILE`](../../../bibliography.md#SRC-RUSSELL-PROFILE) — Andrew L. Russell Professional Profile. Secondary reporting or scholarship.
 
 ## Expert Testimony and Public Advocacy
 

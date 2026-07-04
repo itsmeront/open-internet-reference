@@ -45,13 +45,18 @@ Safe harbor in U.S. copyright law commonly refers to limitations on intermediary
 
 ## Verified Facts
 
-- `STAT-DMCA-512` is the OIR seed statute record for 17 U.S.C. § 512.
-- OIR seed sources include Cornell LII and GovInfo pages for 17 U.S.C. § 512.
-- `CASE-PERFECT10-V-CCBILL` is an OIR seed case record addressing DMCA § 512 safe harbor requirements.
+- `STAT-DMCA-512` is the OIR seed statute record for 17 U.S.C. § 512.[^1]
+- OIR seed sources include Cornell LII and GovInfo pages for 17 U.S.C. § 512.[^2]
+- `CASE-PERFECT10-V-CCBILL` is an OIR seed case record addressing DMCA § 512 safe harbor requirements.[^3]
 
 ## Historical Context
 
 Historical context has not yet been drafted.
+
+
+[^1]: `SRC-USC-17-512-LII` — 17 U.S.C. § 512. Primary authority.
+[^2]: `SRC-USC-17-512-GOVINFO` — 17 U.S.C. § 512 (GovInfo). Primary authority.
+[^3]: `SRC-PERFECT10-V-CCBILL-JUSTIA` — Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007). Primary authority.
 
 ## Legal Analysis
 
@@ -75,3 +80,4 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 - Summarize `CASE-PERFECT10-V-CCBILL` holdings on safe harbor and red flag knowledge.
 - Add later § 512 case law with primary sources.
 - Distinguish U.S. safe harbor doctrine from other jurisdictions.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

@@ -32,7 +32,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-07-04
 
 ---
@@ -45,14 +45,17 @@ Robert Kahn co-invented TCP/IP with Vint Cerf, led DARPA's Internet program, coi
 
 ## Verified Facts
 
-- Co-inventor of the TCP/IP protocols with Vint Cerf.
-- Chairman, CEO, and President of the Corporation for National Research Initiatives (CNRI), founded in 1986.
-- Former Director of DARPA's Information Processing Techniques Office (IPTO); originated DARPA's Internet program.
-- Conceived open-architecture networking and coined the term National Information Infrastructure (NII).
-- Led system design of the ARPANET at BBN; former Assistant Professor of Electrical Engineering at MIT.
-- Organized the first public ARPANET demonstration at the 1972 International Computer Communication Conference.
-- Recipient of the ACM Turing Award (with Cerf), U.S. National Medal of Technology, and Presidential Medal of Freedom.
-- Developed digital object architecture concepts underlying systems such as the Digital Object Identifier (DOI).
+- Co-inventor of the TCP/IP protocols with Vint Cerf.[^1]
+- Chairman, CEO, and President of the Corporation for National Research Initiatives (CNRI), founded in 1986.[^1]
+- Former Director of DARPA's Information Processing Techniques Office (IPTO); originated DARPA's Internet program.[^1]
+- Conceived open-architecture networking and coined the term National Information Infrastructure (NII).[^1]
+- Led system design of the ARPANET at BBN; former Assistant Professor of Electrical Engineering at MIT.[^1]
+- Organized the first public ARPANET demonstration at the 1972 International Computer Communication Conference.[^1]
+- Recipient of the ACM Turing Award (with Cerf), U.S. National Medal of Technology, and Presidential Medal of Freedom.[^1]
+- Developed digital object architecture concepts underlying systems such as the Digital Object Identifier (DOI).[^1]
+
+
+[^1]: [`SRC-KAHN-CNRI`](../../../bibliography.md#SRC-KAHN-CNRI) — Robert E. Kahn CNRI Biography. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -80,3 +83,4 @@ Kahn is particularly useful when a case involves:
 - Add Internet Hall of Fame induction page as secondary source.
 - Document specific expert declarations or testimony with primary court records.
 - Add relationship edge to `PERSON-VINT-CERF` for TCP/IP co-invention.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

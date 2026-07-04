@@ -39,16 +39,19 @@ Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acqu
 
 ## Verified Facts
 
-- The case concerned historical cell-site location information obtained from wireless carriers under the Stored Communications Act.
-- The official syllabus states that the Government's acquisition of Carpenter's cell-site records was a Fourth Amendment search.
-- The Court held that the Government must generally obtain a warrant supported by probable cause before acquiring such records.
-- The Court noted that case-specific exceptions, such as exigent circumstances, may support a warrantless search in some situations.
-- The Court declined to extend Smith and Miller to the collection of cell-site location records in the circumstances presented.
-- The Court held that a Stored Communications Act court order requiring only reasonable grounds under 18 U.S.C. § 2703(d) is not a permissible mechanism for accessing historical cell-site records in the ordinary case.
+- The case concerned historical cell-site location information obtained from wireless carriers under the Stored Communications Act.[^1]
+- The official syllabus states that the Government's acquisition of Carpenter's cell-site records was a Fourth Amendment search.[^1]
+- The Court held that the Government must generally obtain a warrant supported by probable cause before acquiring such records.[^1]
+- The Court noted that case-specific exceptions, such as exigent circumstances, may support a warrantless search in some situations.[^1]
+- The Court declined to extend Smith and Miller to the collection of cell-site location records in the circumstances presented.[^1]
+- The Court held that a Stored Communications Act court order requiring only reasonable grounds under 18 U.S.C. § 2703(d) is not a permissible mechanism for accessing historical cell-site records in the ordinary case.[^1]
 
 ## Historical Context
 
 The case arose from federal robbery prosecutions in which prosecutors obtained months of location records for the defendant's cell phone.
+
+
+[^1]: `SRC-CARPENTER-LII` — Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII). Primary authority.
 
 ## Legal Analysis
 
@@ -68,3 +71,4 @@ The Court treated historical cell-site location records as presenting greater pr
 ## Research Debt
 
 - Add later digital search and surveillance cases with primary sources.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

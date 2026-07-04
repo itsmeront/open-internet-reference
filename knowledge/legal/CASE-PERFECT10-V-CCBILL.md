@@ -49,13 +49,16 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 
 ## Verified Facts
 
-- The case citation is 488 F.3d 1102 (9th Cir. 2007).
-- The case concerned DMCA safe harbor eligibility for payment processor and web hosting services.
-- OIR has not yet summarized the opinion's specific holdings on red flag knowledge or safe harbor conditions on this page.
+- The case citation is 488 F.3d 1102 (9th Cir. 2007).[^1]
+- The case concerned DMCA safe harbor eligibility for payment processor and web hosting services.[^1]
+- OIR has not yet summarized the opinion's specific holdings on red flag knowledge or safe harbor conditions on this page.[^1]
 
 ## Historical Context
 
 Historical context has not yet been drafted.
+
+
+[^1]: `SRC-PERFECT10-V-CCBILL-JUSTIA` — Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007). Primary authority.
 
 ## Legal Analysis
 
@@ -78,3 +81,4 @@ Legal analysis has not yet been drafted. Future work should summarize the opinio
 
 - Summarize the opinion's safe harbor and red flag knowledge holdings from primary materials.
 - Add later § 512 cases such as Viacom v. YouTube with primary sources.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

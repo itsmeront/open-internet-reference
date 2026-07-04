@@ -33,7 +33,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 2
+    - **Research debt items**: 4
     - **Last verified**: 2026-07-04
 
 ---
@@ -46,10 +46,13 @@ The Institute for Free Speech is a U.S. nonprofit that litigates and advocates t
 
 ## Verified Facts
 
-- The official about page describes the Institute for Free Speech as working to protect First Amendment political speech rights through litigation, research, and public education.
-- The Institute maintains a public contact form for individuals whose First Amendment rights are being violated.
-- The official contact page lists address 1150 Connecticut Avenue NW, Suite 801, Washington, DC 20036 and phone 202-301-3300.
-- Submitting the contact form does not establish an attorney-client relationship.
+- The official about page describes the Institute for Free Speech as working to protect First Amendment political speech rights through litigation, research, and public education.[^1]
+- The Institute maintains a public contact form for individuals whose First Amendment rights are being violated.[^1]
+- The official contact page lists address 1150 Connecticut Avenue NW, Suite 801, Washington, DC 20036 and phone 202-301-3300.[^1]
+- Submitting the contact form does not establish an attorney-client relationship.[^1]
+
+
+[^1]: [`SRC-IFS-ABOUT-US`](../../../bibliography.md#SRC-IFS-ABOUT-US) — Institute for Free Speech About Us Page. Self-reported profile; corroboration pending.
 
 ## Public Contact Information
 
@@ -73,3 +76,5 @@ IFS focuses on political speech and campaign finance litigation rather than tech
 
 - Add independent sources for major cases such as SpeechNow.org v. FEC.
 - Document technology-related amicus participation if any.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

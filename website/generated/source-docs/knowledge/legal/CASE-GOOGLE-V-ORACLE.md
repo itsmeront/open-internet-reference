@@ -51,20 +51,23 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 
 ## Verified Facts
 
-- Case citation 593 U.S. ___ (2021), No. 18-956.
-- Decided April 5, 2021.
-- 6-2 decision authored by Justice Breyer.
-- Google copied roughly 11,500 lines of Java SE API declaring code.
-- Court held Google's use was fair use as a matter of law.
-- Court found Google reimplemented a user interface taking only what was needed to allow programmers to use accrued talents in new transformative program.
-- Decision bypassed the question of whether APIs are copyrightable.
-- Reversed Federal Circuit's 2018 ruling.
-- Oracle had sought damages upward of $10 billion.
-- Decade-long litigation.
+- Case citation 593 U.S. ___ (2021), No. 18-956.[^1]
+- Decided April 5, 2021.[^1]
+- 6-2 decision authored by Justice Breyer.[^1]
+- Google copied roughly 11,500 lines of Java SE API declaring code.[^1]
+- Court held Google's use was fair use as a matter of law.[^1]
+- Court found Google reimplemented a user interface taking only what was needed to allow programmers to use accrued talents in new transformative program.[^1]
+- Decision bypassed the question of whether APIs are copyrightable.[^1]
+- Reversed Federal Circuit's 2018 ruling.[^1]
+- Oracle had sought damages upward of $10 billion.[^1]
+- Decade-long litigation.[^1]
 
 ## Historical Context
 
 The dispute began in 2010 when Oracle (which had acquired Sun Microsystems and the Java platform) sued Google for using Java API declarations in Android. The case went through multiple rounds of litigation, including two jury trials and two Federal Circuit appeals, before reaching the Supreme Court. The Federal Circuit had ruled that APIs are copyrightable and that Google's use was not fair use. The Supreme Court reversed on the fair use question without reaching the copyrightability issue.
+
+
+[^1]: [`SRC-GOOGLE-ORACLE-JUSTIA`](../../../bibliography.md#SRC-GOOGLE-ORACLE-JUSTIA) — Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia). Primary authority.
 
 ## Legal Analysis
 

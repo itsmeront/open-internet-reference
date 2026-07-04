@@ -35,11 +35,15 @@ Public Knowledge is a U.S. 501(c)(3) nonprofit that promotes freedom of expressi
 
 ## Verified Facts
 
-- The official about page states Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works.
-- Public Knowledge works at the intersection of copyright, telecommunications, and internet law.
-- Its core work includes ensuring universal access to affordable and open networks, promoting creativity through balanced copyright, advancing government transparency, upholding consumer rights, and opposing policies that would shrink the public domain or limit fair use.
-- Public Knowledge is a 501(c)(3) organization.
-- The official contact page lists phone +1 (202) 861-0020, fax +1 (202) 861-0040, general email pk@publicknowledge.org, and address 1818 N Street NW, Suite 410, Washington, DC 20036.
+- The official about page states Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works.[^1]
+- Public Knowledge works at the intersection of copyright, telecommunications, and internet law.[^1]
+- Its core work includes ensuring universal access to affordable and open networks, promoting creativity through balanced copyright, advancing government transparency, upholding consumer rights, and opposing policies that would shrink the public domain or limit fair use.[^1]
+- Public Knowledge is a 501(c)(3) organization.[^1]
+- The official contact page lists phone +1 (202) 861-0020, fax +1 (202) 861-0040, general email pk@publicknowledge.org, and address 1818 N Street NW, Suite 410, Washington, DC 20036.[^2]
+
+
+[^1]: `SRC-PUBLIC-KNOWLEDGE-ABOUT` — Public Knowledge About Page. Self-reported profile; corroboration pending.
+[^2]: `SRC-PUBLIC-KNOWLEDGE-CONTACT` — Public Knowledge Contact Page. Official organizational record.
 
 ## Public Contact Information
 
@@ -66,3 +70,5 @@ Public Knowledge advocates for balanced copyright, open networks, and innovation
 
 - Document specific litigation and amicus participation relevant to software.
 - Add details on copyright and interoperability policy positions.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

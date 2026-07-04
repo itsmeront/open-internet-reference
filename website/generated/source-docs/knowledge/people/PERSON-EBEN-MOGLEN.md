@@ -49,7 +49,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 4
-    - **Research debt items**: 4
+    - **Research debt items**: 5
     - **Last verified**: 2026-06-25
 
 ---
@@ -62,14 +62,17 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 
 ## Verified Facts
 
-- The official Columbia Law School faculty page identifies Moglen as Professor of Law with areas of study in Intellectual Property, Technology, and Legal History.
-- The Columbia Data Science Institute profile states Moglen served as general counsel to the Free Software Foundation since 1994.
-- Moglen was an FSF board member from 2000 to 2007.
-- As FSF counsel, Moglen was charged with enforcing the GPL on behalf of the FSF and later became heavily involved in drafting GPL version 3.
-- Moglen founded the Software Freedom Law Center in February 2005.
-- He worked as a designer of advanced computer programming languages at IBM from 1979 to 1985.
-- In 1991 he represented Philip Zimmermann, the developer of PGP, when Zimmermann was threatened with prosecution for distributing strong encryption as free software.
-- Moglen received the EFF Pioneer Award in 2003.
+- The official Columbia Law School faculty page identifies Moglen as Professor of Law with areas of study in Intellectual Property, Technology, and Legal History.[^1]
+- The Columbia Data Science Institute profile states Moglen served as general counsel to the Free Software Foundation since 1994.[^1]
+- Moglen was an FSF board member from 2000 to 2007.[^1]
+- As FSF counsel, Moglen was charged with enforcing the GPL on behalf of the FSF and later became heavily involved in drafting GPL version 3.[^1]
+- Moglen founded the Software Freedom Law Center in February 2005.[^1]
+- He worked as a designer of advanced computer programming languages at IBM from 1979 to 1985.[^1]
+- In 1991 he represented Philip Zimmermann, the developer of PGP, when Zimmermann was threatened with prosecution for distributing strong encryption as free software.[^1]
+- Moglen received the EFF Pioneer Award in 2003.[^1]
+
+
+[^1]: [`SRC-MOGLEN-COLUMBIA`](../../../bibliography.md#SRC-MOGLEN-COLUMBIA) — Eben Moglen Columbia Law School Faculty Page. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 
@@ -106,3 +109,4 @@ Moglen is one of the most significant legal figures in the free software and ope
 - Document role in FreedomBox Foundation (founded 2011).
 - Add more detail on GPL enforcement cases.
 - Document current SFLC intake process for projects needing legal help.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

@@ -28,14 +28,17 @@ Alan Kay is a Turing Award-winning computer scientist who pioneered object-orien
 
 ## Verified Facts
 
-- ACM Turing Award recipient (2003) for object-oriented programming, Smalltalk, and personal computing contributions.
-- Computer History Museum Fellow (1999).
-- Led development of Smalltalk, an influential object-oriented programming language and environment.
-- Conceived the Dynabook vision — a personal computer for learning — while at ARPA-funded research.
-- At Xerox PARC, contributed to the Alto personal computer, overlapping window GUI, and modern desktop metaphors.
-- Participated in ARPANET-era networking research at the University of Utah.
-- Founded Viewpoints Research Institute (2001) for advanced software and learning research.
-- Co-developed Squeak, an open-source Smalltalk implementation, while at Apple.
+- ACM Turing Award recipient (2003) for object-oriented programming, Smalltalk, and personal computing contributions.[^1]
+- Computer History Museum Fellow (1999).[^1]
+- Led development of Smalltalk, an influential object-oriented programming language and environment.[^1]
+- Conceived the Dynabook vision — a personal computer for learning — while at ARPA-funded research.[^1]
+- At Xerox PARC, contributed to the Alto personal computer, overlapping window GUI, and modern desktop metaphors.[^1]
+- Participated in ARPANET-era networking research at the University of Utah.[^1]
+- Founded Viewpoints Research Institute (2001) for advanced software and learning research.[^1]
+- Co-developed Squeak, an open-source Smalltalk implementation, while at Apple.[^1]
+
+
+[^1]: `SRC-KAY-CHM` — Alan Kay Computer History Museum Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

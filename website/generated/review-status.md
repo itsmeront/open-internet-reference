@@ -4,29 +4,30 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 196
-- Records needing review: 97
+- Records: 198
+- Records needing review: 98
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 97
-- [`verified`](#verified-records): 99
+- [`draft`](#draft-records): 98
+- [`verified`](#verified-records): 100
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
-- [`case`](#case-records): 9
+- [`case`](#case-records): 10
 - [`organization`](#organization-records): 19
 - [`person`](#person-records): 23
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 115
+- [`source`](#source-records): 116
 - [`statute`](#statute-records): 3
 - [`topic`](#topic-records): 8
 
 ## Records Needing Review
 
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -133,6 +134,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 ## draft Records { #draft-records }
 
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -243,6 +245,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+- [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
@@ -354,6 +357,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 ## case Records { #case-records }
 
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -430,6 +434,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+- [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)

@@ -26,12 +26,15 @@ Domain Name System (DNS) concepts and facilities are described in RFC 1034.
 
 ## Verified Facts
 
-- RFC 1034 is an RFC Editor publication titled "Domain Names - Concepts and Facilities."
-- RFC 1034 was published in November 1987.
+- RFC 1034 is an RFC Editor publication titled "Domain Names - Concepts and Facilities."[^1]
+- RFC 1034 was published in November 1987.[^1]
 
 ## Historical Context
 
 This page is currently a seed record. A full DNS history should review related RFCs and authoritative historical sources.
+
+
+[^1]: `SRC-RFC-1034` — RFC 1034: Domain Names - Concepts and Facilities. Primary authority.
 
 ## Technical Analysis
 

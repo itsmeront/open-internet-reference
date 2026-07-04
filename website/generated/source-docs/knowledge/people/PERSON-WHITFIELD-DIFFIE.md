@@ -33,7 +33,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-07-04
 
 ---
@@ -46,12 +46,15 @@ Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented pu
 
 ## Verified Facts
 
-- Co-inventor of public-key cryptography with Martin Hellman; co-author of the 1976 paper "New Directions in Cryptography."
-- Consulting scholar at Stanford University's Center for International Security and Cooperation (CISAC).
-- Former Sun Microsystems Fellow and Chief Security Officer; former Vice President for Information Security and Cryptography at ICANN.
-- Co-author of *Privacy on the Line: The Politics of Wiretapping and Encryption* with Susan Landau.
-- ACM Turing Award recipient (2015, with Martin Hellman).
-- Marconi Fellow; recipient of the NIST/NSA National Computer Systems Security Award.
+- Co-inventor of public-key cryptography with Martin Hellman; co-author of the 1976 paper "New Directions in Cryptography."[^1]
+- Consulting scholar at Stanford University's Center for International Security and Cooperation (CISAC).[^1]
+- Former Sun Microsystems Fellow and Chief Security Officer; former Vice President for Information Security and Cryptography at ICANN.[^1]
+- Co-author of *Privacy on the Line: The Politics of Wiretapping and Encryption* with Susan Landau.[^1]
+- ACM Turing Award recipient (2015, with Martin Hellman).[^1]
+- Marconi Fellow; recipient of the NIST/NSA National Computer Systems Security Award.[^1]
+
+
+[^1]: [`SRC-DIFFIE-CISAC`](../../../bibliography.md#SRC-DIFFIE-CISAC) — Whitfield Diffie Stanford CISAC Profile. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -81,3 +84,4 @@ His work underpins modern TLS, code signing, and secure messaging — the same p
 - Add ACM Turing Award page as secondary source.
 - Document specific trial or deposition appearances with primary citations.
 - Cross-link to `CASE-BERNSTEIN-V-DOJ` and encryption policy topic pages.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

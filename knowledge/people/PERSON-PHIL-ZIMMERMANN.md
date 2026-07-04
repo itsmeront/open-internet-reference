@@ -28,12 +28,15 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 
 ## Verified Facts
 
-- Creator of Pretty Good Privacy (PGP), published in 1991 as a human-rights-oriented encryption tool.
-- Subject of a multi-year U.S. criminal investigation related to cryptographic software export; investigation closed without indictment in 1996.
-- Internet Hall of Fame inductee (2012).
-- EFF Pioneer Award recipient (1995).
-- Developer of the ZRTP secure telephony protocol; co-founder of Silent Circle.
-- Author of the Official PGP User's Guide (MIT Press, 1995).
+- Creator of Pretty Good Privacy (PGP), published in 1991 as a human-rights-oriented encryption tool.[^1]
+- Subject of a multi-year U.S. criminal investigation related to cryptographic software export; investigation closed without indictment in 1996.[^1]
+- Internet Hall of Fame inductee (2012).[^1]
+- EFF Pioneer Award recipient (1995).[^1]
+- Developer of the ZRTP secure telephony protocol; co-founder of Silent Circle.[^1]
+- Author of the Official PGP User's Guide (MIT Press, 1995).[^1]
+
+
+[^1]: `SRC-ZIMMERMANN-BIO` — Phil Zimmermann Official Biography. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -63,3 +66,4 @@ His experience complements attorneys working on cases adjacent to Bernstein, DMC
 - Add EFF Pioneer Award and Internet Hall of Fame pages as secondary sources.
 - Document specific expert appearances with primary citations.
 - Cross-link to `CASE-BERNSTEIN-V-DOJ` and `ORG-EFF` relationships once verified.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

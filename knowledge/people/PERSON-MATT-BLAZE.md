@@ -28,19 +28,22 @@ Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt
 
 ## Verified Facts
 
-- McDevitt Chair of Computer Science and Law at Georgetown University (joint appointment in Computer Science Department and Law Center).
-- Board member of the Tor Project.
-- Research focuses on architecture and design of secure systems, cryptographic techniques, analysis against practical attack models, and finding new cryptographic primitives.
-- Coined the term "Trust Management" for the abstract layer in which systems decide whether to allow potentially dangerous actions.
-- Previously conducted research at AT&T Bell Laboratories/AT&T Research from 1992 to 2003.
-- Previously on faculty at the University of Pennsylvania.
-- Testified before the House Oversight Committee in April 2025 on the Salt Typhoon cyberattack (state-sponsored breach targeting U.S. telecommunications).
-- Published on election integrity and technology in the Georgetown Law Technology Review (2020).
-- Described by Georgetown as "one of the world's leading computer and network security experts."
+- McDevitt Chair of Computer Science and Law at Georgetown University (joint appointment in Computer Science Department and Law Center).[^1]
+- Board member of the Tor Project.[^1]
+- Research focuses on architecture and design of secure systems, cryptographic techniques, analysis against practical attack models, and finding new cryptographic primitives.[^1]
+- Coined the term "Trust Management" for the abstract layer in which systems decide whether to allow potentially dangerous actions.[^1]
+- Previously conducted research at AT&T Bell Laboratories/AT&T Research from 1992 to 2003.[^1]
+- Previously on faculty at the University of Pennsylvania.[^1]
+- Testified before the House Oversight Committee in April 2025 on the Salt Typhoon cyberattack (state-sponsored breach targeting U.S. telecommunications).[^1]
+- Published on election integrity and technology in the Georgetown Law Technology Review (2020).[^1]
+- Described by Georgetown as "one of the world's leading computer and network security experts."[^1]
 
 ## Historical Context
 
 Blaze's career spans foundational cryptography research at Bell Labs through academic leadership at the intersection of computer science and law. His work on trust management and secure system architecture has influenced how systems are designed to make security decisions. His congressional testimony on the Salt Typhoon telecommunications breach demonstrates his role as a public expert informing policy on critical cybersecurity threats.
+
+
+[^1]: `SRC-BLAZE-GEORGETOWN` — Matt Blaze Georgetown Faculty Profile. Secondary reporting or scholarship.
 
 ## Relevance to Open Source and Software Companies
 

@@ -29,15 +29,18 @@ Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds facu
 
 ## Verified Facts
 
-- Invented the World Wide Web at CERN (1989); wrote the first web client and server (1990).
-- Defined foundational specifications for URIs, HTTP, and HTML.
-- Founder and emeritus director of the World Wide Web Consortium (W3C).
-- Emeritus 3Com Founders Professor of Engineering at MIT CSAIL; founded the Decentralized Information Group (DIG).
-- Professor in the Computer Science Department at the University of Oxford; Honorary Student at Christ Church.
-- Co-founder and CTO of Inrupt, promoting the open-source Solid platform for user-controlled data.
-- Co-founder and president of the Open Data Institute (London).
-- Recipient of the ACM Turing Award, Queen Elizabeth Prize for Engineering, and U.S. National Medal of Technology (with Vint Cerf and others).
-- Author of *Weaving the Web* and *This is for Everyone* (2025).
+- Invented the World Wide Web at CERN (1989); wrote the first web client and server (1990).[^1]
+- Defined foundational specifications for URIs, HTTP, and HTML.[^1]
+- Founder and emeritus director of the World Wide Web Consortium (W3C).[^1]
+- Emeritus 3Com Founders Professor of Engineering at MIT CSAIL; founded the Decentralized Information Group (DIG).[^1]
+- Professor in the Computer Science Department at the University of Oxford; Honorary Student at Christ Church.[^1]
+- Co-founder and CTO of Inrupt, promoting the open-source Solid platform for user-controlled data.[^1]
+- Co-founder and president of the Open Data Institute (London).[^1]
+- Recipient of the ACM Turing Award, Queen Elizabeth Prize for Engineering, and U.S. National Medal of Technology (with Vint Cerf and others).[^1]
+- Author of *Weaving the Web* and *This is for Everyone* (2025).[^1]
+
+
+[^1]: `SRC-BERNERS-LEE-W3C` — Tim Berners-Lee W3C Biography. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -65,3 +68,4 @@ Berners-Lee is particularly useful when a case involves:
 - Add primary citation for 2007 U.S. House Energy and Commerce testimony (original URL currently returns 403).
 - Link to Solid/Inrupt technical documentation as secondary source.
 - Document relationships to W3C standards cited in OIR protocol pages.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).

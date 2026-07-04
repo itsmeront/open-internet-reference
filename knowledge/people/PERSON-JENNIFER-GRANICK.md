@@ -34,11 +34,14 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 
 ## Verified Facts
 
-- The official ACLU biography describes Granick as the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project.
-- She litigates, speaks, and writes about privacy, security, technology, and constitutional rights.
-- From 2012 to 2017, Granick was civil liberties director at Stanford Law School's Center for Internet and Society, specializing in and teaching surveillance law, cybersecurity, encryption policy, and the Fourth Amendment.
-- She has published widely on U.S. government surveillance practices and helped educate judges and congressional staffers on these issues.
-- Before her policy career, she worked in private practice specializing in defending cases involving computer crime.
+- The official ACLU biography describes Granick as the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project.[^1]
+- She litigates, speaks, and writes about privacy, security, technology, and constitutional rights.[^1]
+- From 2012 to 2017, Granick was civil liberties director at Stanford Law School's Center for Internet and Society, specializing in and teaching surveillance law, cybersecurity, encryption policy, and the Fourth Amendment.[^1]
+- She has published widely on U.S. government surveillance practices and helped educate judges and congressional staffers on these issues.[^1]
+- Before her policy career, she worked in private practice specializing in defending cases involving computer crime.[^1]
+
+
+[^1]: `SRC-GRANICK-ACLU-BIO` — Jennifer Granick ACLU Staff Biography. Self-reported profile; corroboration pending.
 
 ## Expert Testimony and Public Advocacy
 
@@ -71,3 +74,5 @@ Granick's expertise in surveillance law, cybersecurity, encryption policy, and t
 - Add details on specific ACLU litigation relevant to software companies.
 - Document publications and congressional testimony.
 - Add Stanford CIS page as additional source.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 81,
+  "record_count": 82,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -47,7 +47,8 @@
         "SRC-COHN-EFF-DEPARTURE",
         "SRC-COHN-FOSSFORCE",
         "SRC-JEWEL-V-NSA-EFF",
-        "SRC-BERNSTEIN-EFF-25"
+        "SRC-BERNSTEIN-EFF-25",
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "status": "draft",
       "summary": "Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.",
@@ -132,7 +133,8 @@
       "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-KATIE-FALLOW.md",
       "sources": [
-        "SRC-FALLOW-KNIGHT"
+        "SRC-FALLOW-KNIGHT",
+        "SRC-BROWN-V-EMA-LII"
       ],
       "status": "draft",
       "summary": "Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.",
@@ -180,7 +182,8 @@
       "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
       "sources": [
-        "SRC-WESSLER-ACLU"
+        "SRC-WESSLER-ACLU",
+        "SRC-CARPENTER-LII"
       ],
       "status": "draft",
       "summary": "Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.",
@@ -211,6 +214,18 @@
       "status": "draft",
       "summary": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.",
       "title": "Bernstein v. United States Department of Justice",
+      "type": "case"
+    },
+    {
+      "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
+      "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "status": "draft",
+      "summary": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.",
+      "title": "Brown v. Entertainment Merchants Assn.",
       "type": "case"
     },
     {

@@ -43,7 +43,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 3
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-25
 
 ---
@@ -56,17 +56,20 @@ Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North 
 
 ## Verified Facts
 
-- The case citation is 582 U.S. 98 (2017), No. 15-1194.
-- The case was decided on June 19, 2017.
-- The decision was unanimous (8-0, with Justice Kagan recused from the case or joining in the judgment).
-- North Carolina law made it a felony for a registered sex offender to access a commercial social networking website where the site permits minor children to become members or create personal web pages.
-- The Court held that the North Carolina statute impermissibly restricts lawful speech in violation of the First Amendment.
-- The Court explained that social media websites are used for a wide range of lawful activities far beyond their potential misuse.
-- The opinion described the internet as the modern public square and characterized social media as among the most important places for the exchange of views.
+- The case citation is 582 U.S. 98 (2017), No. 15-1194.[^1]
+- The case was decided on June 19, 2017.[^1]
+- The decision was unanimous (8-0, with Justice Kagan recused from the case or joining in the judgment).[^1]
+- North Carolina law made it a felony for a registered sex offender to access a commercial social networking website where the site permits minor children to become members or create personal web pages.[^1]
+- The Court held that the North Carolina statute impermissibly restricts lawful speech in violation of the First Amendment.[^1]
+- The Court explained that social media websites are used for a wide range of lawful activities far beyond their potential misuse.[^1]
+- The opinion described the internet as the modern public square and characterized social media as among the most important places for the exchange of views.[^1]
 
 ## Historical Context
 
 The case arose when Lester Packingham, a registered sex offender, posted on Facebook about a traffic ticket being dismissed. He was prosecuted under the North Carolina statute. The case reached the Supreme Court as the first major test of whether the government can broadly restrict access to internet platforms.
+
+
+[^1]: [`SRC-PACKINGHAM-LII`](../../../bibliography.md#SRC-PACKINGHAM-LII) — Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII). Primary authority.
 
 ## Legal Analysis
 
@@ -103,3 +106,4 @@ This case establishes that access to internet platforms is constitutionally prot
 - Add GovInfo source for the official opinion.
 - Connect to later cases applying this precedent to internet access restrictions.
 - Relate to platform deplatforming and government-compelled censorship debates.
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

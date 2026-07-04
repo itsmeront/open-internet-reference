@@ -13,6 +13,12 @@
     },
     {
       "sources": [
+        "SRC-BROWN-V-EMA-LII"
+      ],
+      "term": "`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`"
+    },
+    {
+      "sources": [
         "SRC-CARPENTER-GOVINFO",
         "SRC-CARPENTER-LII"
       ],
@@ -339,6 +345,7 @@
     },
     {
       "sources": [
+        "SRC-BROWN-V-EMA-LII",
         "SRC-FALLOW-KNIGHT"
       ],
       "term": "`PERSON-KATIE-FALLOW`"

@@ -46,12 +46,15 @@ Janet Abbate is a Virginia Tech professor of science, technology, and society an
 
 ## Verified Facts
 
-- Professor of Science, Technology, and Society at Virginia Tech; co-director of the STS graduate program in Northern Virginia.
-- PhD from the University of Pennsylvania (1994).
-- Author of *Inventing the Internet* (MIT Press, 1999), widely cited as the standard academic reference on Internet history.
-- Author of *Recoding Gender: Women's Changing Participation in Computing* (MIT Press, 2012).
-- Co-editor of *Standards Policy for Information Infrastructure* (MIT Press, 1995, with Brian Kahin).
-- Research focuses on history, culture, and policy of the internet and computing, including the emergence of computer science as a discipline.
+- Professor of Science, Technology, and Society at Virginia Tech; co-director of the STS graduate program in Northern Virginia.[^1]
+- PhD from the University of Pennsylvania (1994).[^1]
+- Author of *Inventing the Internet* (MIT Press, 1999), widely cited as the standard academic reference on Internet history.[^1]
+- Author of *Recoding Gender: Women's Changing Participation in Computing* (MIT Press, 2012).[^1]
+- Co-editor of *Standards Policy for Information Infrastructure* (MIT Press, 1995, with Brian Kahin).[^1]
+- Research focuses on history, culture, and policy of the internet and computing, including the emergence of computer science as a discipline.[^1]
+
+
+[^1]: [`SRC-ABBATE-VT`](../../../bibliography.md#SRC-ABBATE-VT) — Janet Abbate Virginia Tech Faculty Profile. Official source; review reliability tier.
 
 ## Expert Testimony and Public Advocacy
 

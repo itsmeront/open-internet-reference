@@ -35,11 +35,15 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 
 ## Verified Facts
 
-- The official home page states Conservancy's mission is to ensure the right to repair, improve, and reinstall software.
-- The official home page states Conservancy promotes and defends these rights through fostering free and open source software (FOSS) projects, driving initiatives that actively make technology more inclusive, and advancing policy strategies that defend FOSS such as copyleft.
-- Conservancy was established in 2006.
-- Conservancy provides fiscal sponsorship and organizational infrastructure for member FOSS projects.
-- Conservancy engages in copyleft compliance work, including GPL enforcement.
+- The official home page states Conservancy's mission is to ensure the right to repair, improve, and reinstall software.[^1]
+- The official home page states Conservancy promotes and defends these rights through fostering free and open source software (FOSS) projects, driving initiatives that actively make technology more inclusive, and advancing policy strategies that defend FOSS such as copyleft.[^2]
+- Conservancy was established in 2006.[^1]
+- Conservancy provides fiscal sponsorship and organizational infrastructure for member FOSS projects.[^1]
+- Conservancy engages in copyleft compliance work, including GPL enforcement.[^1]
+
+
+[^1]: `SRC-SFC-ABOUT` — Software Freedom Conservancy About Page. Self-reported profile; corroboration pending.
+[^2]: `SRC-SFC-HOME` — Software Freedom Conservancy Home Page. Official source; review reliability tier.
 
 ## Public Contact Information
 
@@ -67,3 +71,5 @@ Software Freedom Conservancy directly supports open source projects by providing
 - Document copyleft enforcement cases and outcomes.
 - Add details on how new projects can apply for membership.
 - Document relationship with Software Freedom Law Center.
+- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
