@@ -38,7 +38,7 @@ Every bullet in **Verified Facts** must cite a source with a Markdown footnote:
 [^1]: `SRC-EXAMPLE` — Source title. Reliability note.
 ```
 
-See [Citation Guide](../../CITATION_GUIDE.md) and the full [Research Standards](../../RESEARCH_STANDARDS.md) document for complete rules.
+See `CITATION_GUIDE.md` and `RESEARCH_STANDARDS.md` in the repository root for complete rules.
 
 ## Review Status
 
