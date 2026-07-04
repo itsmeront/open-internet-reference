@@ -63,6 +63,10 @@ VALID_PREDICATES = {
 ID_PATTERN = re.compile(
     r"^(TOPIC|ORG|PERSON|ATT|JUDGE|CASE|COURT|STAT|REG|TECH|PROTOCOL|PAPER|BOOK|EVENT|SRC|CONTACT)-[A-Z0-9-]+$"
 )
+FOOTNOTE_REF_PATTERN = re.compile(r"\[\^(\d+)\]")
+FOOTNOTE_DEF_PATTERN = re.compile(r"^\[\^(\d+)\]:", re.MULTILINE)
+NUMBERED_SOURCE_PATTERN = re.compile(r"^1\. `SRC-[A-Z0-9-]+`:")
+BULLET_SOURCE_PATTERN = re.compile(r"^- `SRC-[A-Z0-9-]+`:")
 TAG_PATTERN = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 REQUIRED_FIELDS = {
     "id",
@@ -216,6 +220,76 @@ def validate_metadata(
     return errors
 
 
+def markdown_body(path: Path) -> str:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        return text
+    try:
+        _, _, body = text.split("---\n", 2)
+    except ValueError:
+        return text
+    return body
+
+
+def validate_citation_format(path: Path) -> list[ValidationError]:
+    errors: list[ValidationError] = []
+    if "knowledge" not in path.parts or "_templates" in path.parts:
+        return errors
+
+    body = markdown_body(path)
+    refs = {int(num) for num in FOOTNOTE_REF_PATTERN.findall(body)}
+    defs = {int(num) for num in FOOTNOTE_DEF_PATTERN.findall(body)}
+
+    if refs and refs != defs:
+        missing = sorted(refs - defs)
+        extra = sorted(defs - refs)
+        if missing:
+            errors.append(
+                ValidationError(
+                    path,
+                    f"footnote reference(s) {missing} missing definition(s)",
+                )
+            )
+        if extra:
+            errors.append(
+                ValidationError(
+                    path,
+                    f"footnote definition(s) {extra} have no in-text reference",
+                )
+            )
+
+    if not defs:
+        return errors
+
+    in_sources = False
+    first_source_line = ""
+    for line in body.splitlines():
+        if line.startswith("## "):
+            in_sources = line.strip() == "## Sources"
+            continue
+        if not in_sources or not line.strip() or line.strip().lower().startswith("additional sources"):
+            continue
+        first_source_line = line.strip()
+        break
+
+    if first_source_line.startswith("- `SRC-"):
+        errors.append(
+            ValidationError(
+                path,
+                "Sources section must use numbered entries matching footnotes (start with `1. `SRC-...`)",
+            )
+        )
+    elif first_source_line and not NUMBERED_SOURCE_PATTERN.match(first_source_line.lstrip("- ")):
+        errors.append(
+            ValidationError(
+                path,
+                "Sources section first footnoted entry must be numbered `1. `SRC-...`",
+            )
+        )
+
+    return errors
+
+
 def main() -> int:
     parsed_files = [
         ParsedFile(path=path, metadata=load_front_matter(path))
@@ -248,6 +322,8 @@ def main() -> int:
 
     for parsed_file in parsed_files:
         errors.extend(validate_metadata(parsed_file.path, parsed_file.metadata, known_ids))
+        if parsed_file.metadata:
+            errors.extend(validate_citation_format(parsed_file.path))
 
     if errors:
         for error in errors:

@@ -39,6 +39,8 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 - Because the Act restricted the content of protected speech, California had to satisfy strict scrutiny; the Court held it failed that standard.[^1]
 - The Ninth Circuit judgment affirming the injunction against enforcement was affirmed.[^1]
 
+[^1]: `SRC-BROWN-V-EMA-LII` — Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII). Primary authority.
+
 ## Historical Context
 
 The case arose from a California statute that imposed civil penalties for selling or renting violent video games to minors. Industry groups challenged the law before enforcement. The Supreme Court treated the dispute as a test of whether violent video games could be regulated like historically unprotected categories of speech.
@@ -54,7 +56,7 @@ The decision is foundational for treating interactive software — including gam
 
 ## Sources
 
-- `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
+1. `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 
 ## Research Debt
 

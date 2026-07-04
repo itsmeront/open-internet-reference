@@ -4,6 +4,39 @@
   width: 2.75rem;
 }
 
+/* Footnotes and numbered sources should read as interactive citations. */
+.md-typeset a.footnote-ref,
+.md-typeset a.footnote-backref {
+  color: var(--md-primary-fg-color, #3949ab);
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.md-typeset a.footnote-ref:hover,
+.md-typeset a.footnote-ref:focus,
+.md-typeset a.footnote-backref:hover,
+.md-typeset a.footnote-backref:focus {
+  color: var(--md-accent-fg-color, #1a237e);
+}
+
+.md-typeset h2#sources + ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+}
+
+.md-typeset h2#sources + ol > li::marker {
+  color: var(--md-primary-fg-color, #3949ab);
+  font-weight: 700;
+}
+
+.md-typeset .footnote {
+  border-top: 1px solid rgba(63, 81, 181, 0.18);
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
 .oir-print-cover__logo {
   box-sizing: border-box;
   height: auto;

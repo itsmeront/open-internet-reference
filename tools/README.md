@@ -6,7 +6,7 @@ Current tools:
 
 - `validate_metadata.py`: checks Markdown front matter in OIR content directories.
 - `validate_links.py`: checks local Markdown links in authored documentation.
-- `add_fact_citations.py`: adds per-claim footnotes, numbered Sources sections, and corroboration research debt to knowledge pages. Use `--sync-sources` to renumber Sources after footnote edits.
+- `add_fact_citations.py`: adds per-claim footnotes, numbered Sources sections, and corroboration research debt to knowledge pages. Use `--sync-sources` to renumber Sources after footnote edits. Completes pages that have footnote references without definitions.
 - `audit_case_mentions.py`: flags unlinked case mentions and adds research debt for missing `CASE-*` pages.
 - `generate_indexes.py`: generates JSON exports and MkDocs pages under `generated/` and `website/generated/`.
 - `moderation_queue.py`: builds the moderation dashboard (open PRs, draft content, stale verifications).

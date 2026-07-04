@@ -439,6 +439,91 @@ def citation_sections_fully_footnoted(body: str, sources: list[str]) -> bool:
     return len(defs) >= 1
 
 
+def has_orphaned_footnote_refs(body: str) -> bool:
+    refs = {int(num) for num in FOOTNOTE_REF_PATTERN.findall(body)}
+    defs = {int(num) for num in FOOTNOTE_DEF_PARSE_PATTERN.findall(body)}
+    return bool(refs) and refs != defs
+
+
+def complete_orphaned_footnotes(
+    path: Path,
+    raw_metadata: str,
+    body: str,
+    sources: list[str],
+    source_infos: dict[str, SourceInfo],
+    dry_run: bool = False,
+) -> bool:
+    """Add missing footnote definitions when refs exist but definitions do not."""
+    if not has_orphaned_footnote_refs(body):
+        return False
+
+    label_for_source: dict[str, int] = {}
+    next_label = 1
+    lines = body.splitlines()
+    current_section: str | None = None
+
+    for line in lines:
+        section_match = SECTION_PATTERN.match(line)
+        if section_match:
+            current_section = section_match.group(1).strip()
+            continue
+        if current_section not in CITATION_SECTIONS:
+            continue
+        if not line.strip().startswith("- ") or is_placeholder_bullet(line):
+            continue
+        ref_nums = [int(num) for num in FOOTNOTE_REF_PATTERN.findall(line)]
+        if not ref_nums:
+            continue
+        bullet_text = FOOTNOTE_REF_PATTERN.sub("", line).rstrip()
+        source_id = choose_source_for_bullet(bullet_text, sources, source_infos)
+        for ref_num in ref_nums:
+            label_for_source[source_id] = ref_num
+            next_label = max(next_label, ref_num + 1)
+
+    if not label_for_source:
+        return False
+
+    # Preserve explicit numbering from refs; assign any unmapped sources sequentially.
+    used_nums = set(label_for_source.values())
+    for source_id in sources:
+        if source_id in label_for_source:
+            continue
+        while next_label in used_nums:
+            next_label += 1
+        label_for_source[source_id] = next_label
+        used_nums.add(next_label)
+        next_label += 1
+
+    insert_at = len(lines)
+    for idx, out_line in enumerate(lines):
+        if out_line.startswith("## ") and idx > 0:
+            prev_sections = [l.strip() for l in lines[:idx] if l.startswith("## ")]
+            if any(name in prev_sections for name in ("## Verified Facts", "## Historical Context")):
+                if out_line.strip() not in ("## Verified Facts", "## Historical Context"):
+                    insert_at = idx
+                    break
+
+    defs: list[str] = [""]
+    for source_id, num in sorted(label_for_source.items(), key=lambda item: item[1]):
+        info = source_infos[source_id]
+        title = source_title_from_page(body, source_id) or info.title
+        defs.append(format_footnote_def(source_id, num, title, info.reliability_note))
+    defs.append("")
+
+    output = list(lines)
+    if insert_at == len(output):
+        output.extend(defs)
+    else:
+        output[insert_at:insert_at] = defs
+
+    new_body = sync_sources_section("\n".join(output).rstrip() + "\n", extract_footnote_map("\n".join(output)), sources, source_infos)
+    if new_body.rstrip() == body.rstrip():
+        return False
+    if not dry_run:
+        path.write_text(rebuild_file(raw_metadata, new_body), encoding="utf-8")
+    return True
+
+
 def process_page(path: Path, dry_run: bool = False, sync_sources_only: bool = False) -> bool:
     metadata, raw_metadata, body = load_yaml_front_matter(path)
     sources = metadata.get("sources") or []
@@ -463,7 +548,8 @@ def process_page(path: Path, dry_run: bool = False, sync_sources_only: bool = Fa
     if citation_sections_fully_footnoted(body, sources):
         footnote_map = extract_footnote_map(body)
         if not footnote_map:
-            return False
+            return complete_orphaned_footnotes(path, raw_metadata, body, sources, source_infos, dry_run)
+
         synced_body = sync_sources_section(body, footnote_map, sources, source_infos)
         if synced_body.rstrip() == body.rstrip():
             return False
