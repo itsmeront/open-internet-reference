@@ -50,7 +50,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 4
-    - **Research debt items**: 4
+    - **Research debt items**: 3
     - **Last verified**: 2026-06-25
 
 ---
@@ -100,4 +100,3 @@ This case provides additional circuit-level precedent that software source code 
 - Add official reporter source if available through government databases.
 - Document the amended regulations and their impact on the remand.
 - Connect to ACLU Ohio as a contact for similar cases.
-- Document relationship to Bernstein v. DOJ as companion precedent.

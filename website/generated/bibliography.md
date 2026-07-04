@@ -2,7 +2,31 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 68
+Record count: 115
+
+## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ABBATE-VT.md`](source-docs/bibliography/people/SRC-ABBATE-VT.md)
+- Tags: source, person, internet-architecture, internet-governance
+
+Official Virginia Tech faculty profile for Janet Abbate describing her research on internet and computing history.
+
+### Cited By
+- [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
+
+## `SRC-ABDO-KNIGHT`: Alex Abdo Knight Institute Biography { #SRC-ABDO-KNIGHT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ABDO-KNIGHT.md`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
+- Tags: source, attorney, first-amendment, privacy
+
+Official Knight First Amendment Institute biography for litigation director Alex Abdo.
+
+### Cited By
+- [`PERSON-ALEX-ABDO: Alex Abdo`](source-docs/knowledge/people/PERSON-ALEX-ABDO.md)
 
 ## `SRC-ACLU-CONTACT`: American Civil Liberties Union Contact Page { #SRC-ACLU-CONTACT }
 
@@ -28,53 +52,17 @@ Official ACLU history page describing the organization's founding context and ci
 ### Cited By
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 
-## `SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX`: Axona Constitutional & Public Policy Reference Manual { #SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX }
+## `SRC-BERNERS-LEE-W3C`: Tim Berners-Lee W3C Biography { #SRC-BERNERS-LEE-W3C }
 
 - Type: `source`
-- Status: `needs_sources`
-- Path: [`bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md`](source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md)
-- Tags: source, imported-source, axona, research-debt
+- Status: `verified`
+- Path: [`bibliography/people/SRC-BERNERS-LEE-W3C.md`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
+- Tags: source, person, internet-architecture
 
-Internal reference manual draft about Axona, decentralized internet protocols, open source software, and related legal and policy context.
-
-### Cited By
-- No citing knowledge records yet.
-
-## `SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX`: Axona Legal & Public Policy Outreach Contacts { #SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX }
-
-- Type: `source`
-- Status: `needs_sources`
-- Path: [`bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md)
-- Tags: source, imported-source, axona, outreach, research-debt
-
-Internal outreach contact list covering organizations, firms, academics, and policymakers potentially relevant to Axona-related legal or policy issues.
+Official W3C biography for Sir Tim Berners-Lee describing his invention of the World Wide Web and academic appointments at MIT and Oxford.
 
 ### Cited By
-- No citing knowledge records yet.
-
-## `SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX`: Axona Legal & Public Policy Outreach Contacts Expanded { #SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX }
-
-- Type: `source`
-- Status: `needs_sources`
-- Path: [`bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md)
-- Tags: source, imported-source, axona, outreach, research-debt
-
-Expanded internal outreach contact list with direct web links for organizations relevant to Axona-related legal and policy outreach.
-
-### Cited By
-- No citing knowledge records yet.
-
-## `SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD`: Axona Legal & Public Policy Outreach Contacts Markdown { #SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD }
-
-- Type: `source`
-- Status: `needs_sources`
-- Path: [`bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md)
-- Tags: source, imported-source, axona, outreach, research-debt
-
-Markdown version of an internal outreach contact list covering organizations, firms, academics, and policymakers.
-
-### Cited By
-- No citing knowledge records yet.
+- [`PERSON-TIM-BERNERS-LEE: Tim Berners-Lee`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
 
 ## `SRC-BERNSTEIN-EFF`: Bernstein v. US Dept. of Justice EFF Case Page { #SRC-BERNSTEIN-EFF }
 
@@ -112,6 +100,42 @@ Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
 
 ### Cited By
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+## `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography { #SRC-BHANDARI-ACLU }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-BHANDARI-ACLU.md`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
+- Tags: source, attorney, digital-rights, privacy
+
+Official ACLU biography for Esha Bhandari, Director of the Speech, Privacy, and Technology Project.
+
+### Cited By
+- [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
+
+## `SRC-BLAZE-GEORGETOWN`: Matt Blaze Georgetown Faculty Profile { #SRC-BLAZE-GEORGETOWN }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-BLAZE-GEORGETOWN.md`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+- Tags: source, person, cryptography, privacy
+
+Georgetown University faculty profile for Matt Blaze describing his research in cryptography, secure systems, and trust management.
+
+### Cited By
+- [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+
+## `SRC-BOYD-MSR`: danah boyd Microsoft Research Profile { #SRC-BOYD-MSR }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-BOYD-MSR.md`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+- Tags: source, person, privacy, internet-governance
+
+Microsoft Research profile and institutional announcements for danah boyd describing her role as partner researcher and work on social media, algorithmic bias, and youth online behavior.
+
+### Cited By
+- [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 
 ## `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) { #SRC-CARPENTER-GOVINFO }
 
@@ -162,6 +186,30 @@ Official who-we-are page of CDT describing organizational focus and values.
 ### Cited By
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 
+## `SRC-CERF-GOOGLE`: Vinton G. Cerf Google Research Profile { #SRC-CERF-GOOGLE }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-CERF-GOOGLE.md`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
+- Tags: source, person, internet-architecture, internet-governance
+
+Google Research profile for Vinton G. Cerf describing his role as Chief Internet Evangelist and co-designer of TCP/IP.
+
+### Cited By
+- [`PERSON-VINT-CERF: Vint Cerf`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
+
+## `SRC-CHESTEK-ABOUT`: Pamela Chestek About Page { #SRC-CHESTEK-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-CHESTEK-ABOUT.md`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
+- Tags: source, attorney, open-source-software
+
+Official Chestek Legal about page for attorney Pamela Chestek's trademark, copyright, and open source practice.
+
+### Cited By
+- [`PERSON-PAMELA-CHESTEK: Pamela Chestek`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
+
 ## `SRC-COHN-EFF-BIO`: Cindy Cohn EFF Staff Biography { #SRC-COHN-EFF-BIO }
 
 - Type: `source`
@@ -198,6 +246,18 @@ FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 
+## `SRC-COOLEY-TECH`: Cooley Technology Industry Practice Page { #SRC-COOLEY-TECH }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-COOLEY-TECH.md`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Cooley LLP practice page describing the firm's technology industry representation.
+
+### Cited By
+- [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
+
 ## `SRC-CORLEY-LII`: Universal City Studios v. Corley Opinion Text (Open Casebook) { #SRC-CORLEY-LII }
 
 - Type: `source`
@@ -209,6 +269,18 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 
 ### Cited By
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+
+## `SRC-DIFFIE-CISAC`: Whitfield Diffie Stanford CISAC Profile { #SRC-DIFFIE-CISAC }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-DIFFIE-CISAC.md`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+- Tags: source, person, cryptography, digital-rights
+
+Stanford Center for International Security and Cooperation profile for Whitfield Diffie describing public-key cryptography and policy work.
+
+### Cited By
+- [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 
 ## `SRC-EFF-ABOUT`: Electronic Frontier Foundation About Page { #SRC-EFF-ABOUT }
 
@@ -234,6 +306,66 @@ Official EFF contact page with public legal assistance, general information, pre
 ### Cited By
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 
+## `SRC-EPIC-ABOUT`: EPIC About Page { #SRC-EPIC-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-EPIC-ABOUT.md`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
+- Tags: source, organization, privacy, digital-rights
+
+Official Electronic Privacy Information Center about page describing its privacy, free expression, and litigation mission.
+
+### Cited By
+- [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
+
+## `SRC-EPIC-CONTACT`: EPIC Contact Page { #SRC-EPIC-CONTACT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-EPIC-CONTACT.md`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
+- Tags: source, organization, outreach
+
+Official Electronic Privacy Information Center contact page with mailing address, phone, and inquiry emails.
+
+### Cited By
+- [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
+
+## `SRC-FALLOW-KNIGHT`: Katie Fallow Knight Institute Biography { #SRC-FALLOW-KNIGHT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-FALLOW-KNIGHT.md`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+- Tags: source, attorney, first-amendment
+
+Official Knight First Amendment Institute biography for deputy litigation director Katie Fallow.
+
+### Cited By
+- [`PERSON-KATIE-FALLOW: Katie Fallow`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+
+## `SRC-FENWICK-HISTORY`: Fenwick & West Firm History Page { #SRC-FENWICK-HISTORY }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FENWICK-HISTORY.md`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Fenwick & West page documenting the firm's history and pioneering role in technology law.
+
+### Cited By
+- [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+
+## `SRC-FENWICK-TECH`: Fenwick Technology Transactions Practice Page { #SRC-FENWICK-TECH }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FENWICK-TECH.md`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Fenwick & West practice page describing the Technology Transactions group.
+
+### Cited By
+- [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+
 ## `SRC-FSF-ABOUT`: Free Software Foundation About Page { #SRC-FSF-ABOUT }
 
 - Type: `source`
@@ -258,6 +390,18 @@ Official press page of the Free Software Foundation with founding date and missi
 ### Cited By
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
 
+## `SRC-GOOGLE-ORACLE-JUSTIA`: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) { #SRC-GOOGLE-ORACLE-JUSTIA }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+- Tags: source, case, copyright, speech-and-code, open-source-software
+
+Justia reproduction of the Supreme Court opinion in Google LLC v. Oracle America, Inc.
+
+### Cited By
+- [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+
 ## `SRC-GRANICK-ACLU-BIO`: Jennifer Granick ACLU Staff Biography { #SRC-GRANICK-ACLU-BIO }
 
 - Type: `source`
@@ -269,6 +413,30 @@ Official ACLU biography page for Jennifer Granick documenting her role as survei
 
 ### Cited By
 - [`PERSON-JENNIFER-GRANICK: Jennifer Granick`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
+
+## `SRC-HAIGH-UWM`: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile { #SRC-HAIGH-UWM }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-HAIGH-UWM.md`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
+- Tags: source, person, internet-architecture
+
+Official UWM History Department faculty profile for Thomas Haigh describing his research on the history of computing and information technology.
+
+### Cited By
+- [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+
+## `SRC-IFS-ABOUT-US`: Institute for Free Speech About Us Page { #SRC-IFS-ABOUT-US }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-IFS-ABOUT-US.md`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
+- Tags: source, organization, first-amendment
+
+Official Institute for Free Speech about page describing its First Amendment political speech litigation and advocacy mission.
+
+### Cited By
+- [`ORG-INSTITUTE-FOR-FREE-SPEECH: Institute for Free Speech`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md)
 
 ## `SRC-IJ-ABOUT`: Institute for Justice About Us Page { #SRC-IJ-ABOUT }
 
@@ -293,6 +461,18 @@ Official First Amendment issues page of the Institute for Justice describing its
 
 ### Cited By
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+
+## `SRC-JAFFER-KNIGHT`: Jameel Jaffer Knight Institute Biography { #SRC-JAFFER-KNIGHT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-JAFFER-KNIGHT.md`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
+- Tags: source, attorney, first-amendment
+
+Official Knight First Amendment Institute biography for executive director Jameel Jaffer.
+
+### Cited By
+- [`PERSON-JAMEEL-JAFFER: Jameel Jaffer`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
 
 ## `SRC-JEWEL-V-NSA-EFF`: EFF Jewel v. NSA Case Page - Supreme Court Rejection { #SRC-JEWEL-V-NSA-EFF }
 
@@ -342,6 +522,42 @@ Foundational 2002 conference paper by Petar Maymounkov and David Mazières descr
 ### Cited By
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 
+## `SRC-KAHN-CNRI`: Robert E. Kahn CNRI Biography { #SRC-KAHN-CNRI }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-KAHN-CNRI.md`](source-docs/bibliography/people/SRC-KAHN-CNRI.md)
+- Tags: source, person, internet-architecture, internet-governance
+
+Official CNRI biography for Robert E. Kahn describing his co-invention of TCP/IP, DARPA Internet program leadership, and founding role at the Corporation for National Research Initiatives.
+
+### Cited By
+- [`PERSON-ROBERT-KAHN: Robert Kahn`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md)
+
+## `SRC-KAY-CHM`: Alan Kay Computer History Museum Profile { #SRC-KAY-CHM }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-KAY-CHM.md`](source-docs/bibliography/people/SRC-KAY-CHM.md)
+- Tags: source, person, open-source-software, internet-architecture
+
+Computer History Museum fellow profile for Alan Kay describing object-oriented programming, Smalltalk, and personal computing contributions.
+
+### Cited By
+- [`PERSON-ALAN-KAY: Alan Kay`](source-docs/knowledge/people/PERSON-ALAN-KAY.md)
+
+## `SRC-KHANNA-INTERNET-BILL`: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee { #SRC-KHANNA-INTERNET-BILL }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-KHANNA-INTERNET-BILL.md`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+- Tags: source, person, internet-governance, digital-rights, privacy
+
+Press release from Representative Ro Khanna's office announcing the Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee.
+
+### Cited By
+- [`PERSON-RO-KHANNA: Ro Khanna`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
+
 ## `SRC-KNIGHT-ABOUT`: Knight First Amendment Institute About Page { #SRC-KNIGHT-ABOUT }
 
 - Type: `source`
@@ -378,6 +594,18 @@ Official Harvard Law School faculty page for Lawrence Lessig.
 ### Cited By
 - [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 
+## `SRC-LOFGREN-AARONS-LAW`: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law { #SRC-LOFGREN-AARONS-LAW }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-LOFGREN-AARONS-LAW.md`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- Tags: source, person, computer-crime, digital-rights
+
+Press release from Representative Zoe Lofgren's office announcing the introduction of bipartisan bicameral Aaron's Law to reform the Computer Fraud and Abuse Act.
+
+### Cited By
+- [`PERSON-ZOE-LOFGREN: Zoe Lofgren`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
+
 ## `SRC-MCSHERRY-EFF-BIO`: Corynne McSherry EFF Staff Biography { #SRC-MCSHERRY-EFF-BIO }
 
 - Type: `source`
@@ -389,6 +617,18 @@ Official EFF biography page for Corynne McSherry documenting her role as Legal D
 
 ### Cited By
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
+
+## `SRC-MEEKER-ABOUT`: Heather Meeker About Page { #SRC-MEEKER-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-MEEKER-ABOUT.md`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
+- Tags: source, attorney, open-source-software
+
+Official Heather Meeker about page documenting her open source licensing practice and background.
+
+### Cited By
+- [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 
 ## `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page { #SRC-MOGLEN-COLUMBIA }
 
@@ -450,6 +690,18 @@ Internal Word document describing the OIR roadmap, milestone structure, and foun
 ### Cited By
 - No citing knowledge records yet.
 
+## `SRC-ORIN-KERR-GWU`: Orin Kerr George Washington University Law Faculty Page { #SRC-ORIN-KERR-GWU }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ORIN-KERR-GWU.md`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md)
+- Tags: source, person, digital-rights
+
+Official George Washington University Law School faculty page for Orin Kerr, a leading scholar of computer crime law and the Computer Fraud and Abuse Act.
+
+### Cited By
+- [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
+
 ## `SRC-OSI-ABOUT`: Open Source Initiative About Page { #SRC-OSI-ABOUT }
 
 - Type: `source`
@@ -498,6 +750,30 @@ Cornell Legal Information Institute full text of Packingham v. North Carolina.
 ### Cited By
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 
+## `SRC-PAUL-FISA`: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe { #SRC-PAUL-FISA }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-PAUL-FISA.md`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
+- Tags: source, person, fourth-amendment, privacy, surveillance
+
+Op-ed by Senator Rand Paul on Fox News describing his FISA reform amendment to protect encryption and Fourth Amendment rights.
+
+### Cited By
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+
+## `SRC-PAUL-FOURTH-AMENDMENT`: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights { #SRC-PAUL-FOURTH-AMENDMENT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
+- Tags: source, person, fourth-amendment, privacy, surveillance
+
+Press release from Senator Rand Paul's office announcing legislation to restore and protect Fourth Amendment rights.
+
+### Cited By
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+
 ## `SRC-PERFECT10-V-CCBILL-JUSTIA`: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) { #SRC-PERFECT10-V-CCBILL-JUSTIA }
 
 - Type: `source`
@@ -512,6 +788,78 @@ Ninth Circuit decision addressing DMCA § 512 safe harbor eligibility and red fl
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+
+## `SRC-PERKINS-COIE-TECH`: Perkins Coie Technology Transactions & Privacy Law Practice Page { #SRC-PERKINS-COIE-TECH }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-PERKINS-COIE-TECH.md`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Perkins Coie practice page describing the Technology Transactions & Privacy practice group.
+
+### Cited By
+- [`ORG-PERKINS-COIE: Perkins Coie`](source-docs/knowledge/organizations/ORG-PERKINS-COIE.md)
+
+## `SRC-PUBLIC-KNOWLEDGE-ABOUT`: Public Knowledge About Page { #SRC-PUBLIC-KNOWLEDGE-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md)
+- Tags: source, organization, internet-governance, digital-rights
+
+Official Public Knowledge about page describing its mission to promote freedom of expression, an open internet, and balanced copyright policy.
+
+### Cited By
+- [`ORG-PUBLIC-KNOWLEDGE: Public Knowledge`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md)
+
+## `SRC-PUBLIC-KNOWLEDGE-CONTACT`: Public Knowledge Contact Page { #SRC-PUBLIC-KNOWLEDGE-CONTACT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
+- Tags: source, organization, outreach
+
+Official Public Knowledge contact page with phone, fax, email, and Washington, D.C. office address.
+
+### Cited By
+- [`ORG-PUBLIC-KNOWLEDGE: Public Knowledge`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md)
+
+## `SRC-RCFP-CONTACT`: Reporters Committee Contact Page { #SRC-RCFP-CONTACT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-RCFP-CONTACT.md`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
+- Tags: source, organization, outreach, first-amendment
+
+Official Reporters Committee for Freedom of the Press contact page with hotline, media, and general inquiry paths.
+
+### Cited By
+- [`ORG-RCFP: Reporters Committee for Freedom of the Press`](source-docs/knowledge/organizations/ORG-RCFP.md)
+
+## `SRC-RCFP-WHAT-WE-DO`: Reporters Committee What We Do Page { #SRC-RCFP-WHAT-WE-DO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
+- Tags: source, organization, first-amendment, digital-rights
+
+Official Reporters Committee for Freedom of the Press page describing pro bono legal services for journalists and First Amendment litigation.
+
+### Cited By
+- [`ORG-RCFP: Reporters Committee for Freedom of the Press`](source-docs/knowledge/organizations/ORG-RCFP.md)
+
+## `SRC-REED-BIO`: David P. Reed Official Biography { #SRC-REED-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-REED-BIO.md`](source-docs/bibliography/people/SRC-REED-BIO.md)
+- Tags: source, person, internet-architecture, distributed-systems
+
+Official biography for David P. Reed describing the end-to-end principle, Internet protocol work, and MIT affiliations.
+
+### Cited By
+- [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 
 ## `SRC-RENO-V-ACLU-GOVINFO`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo) { #SRC-RENO-V-ACLU-GOVINFO }
 
@@ -587,6 +935,66 @@ RFC Editor publication specifying the Transmission Control Protocol.
 
 ### Cited By
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
+
+## `SRC-RIVEST-CSAIL`: Ronald L. Rivest MIT CSAIL Profile { #SRC-RIVEST-CSAIL }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-RIVEST-CSAIL.md`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md)
+- Tags: source, person, cryptography
+
+Official MIT CSAIL profile for Ronald L. Rivest describing his role as Institute Professor and RSA co-inventor.
+
+### Cited By
+- [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
+
+## `SRC-RUSSELL-PROFILE`: Andrew L. Russell Professional Profile { #SRC-RUSSELL-PROFILE }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-RUSSELL-PROFILE.md`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
+- Tags: source, person, internet-architecture, internet-governance
+
+Andrew L. Russell's professional profile describing his role at SUNY Polytechnic Institute and scholarship on internet history and open standards.
+
+### Cited By
+- [`PERSON-ANDREW-RUSSELL: Andrew Russell`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md)
+
+## `SRC-SCHNEIER-ABOUT`: Bruce Schneier About Page { #SRC-SCHNEIER-ABOUT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-SCHNEIER-ABOUT.md`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
+- Tags: source, person, cryptography, privacy
+
+Official about page for Bruce Schneier describing his roles, board memberships, and work in security and privacy.
+
+### Cited By
+- [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
+
+## `SRC-SECTION-230-EFF`: EFF Section 230 Page { #SRC-SECTION-230-EFF }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-SECTION-230-EFF.md`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
+- Tags: source, internet-governance, intermediary-liability, digital-rights
+
+EFF's comprehensive page on Section 230 including legislative history, court rulings, and current threats.
+
+### Cited By
+- [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+
+## `SRC-SECTION-230-LII`: 47 U.S.C. § 230 (Cornell LII) { #SRC-SECTION-230-LII }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-SECTION-230-LII.md`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
+- Tags: source, internet-governance, intermediary-liability
+
+Cornell Legal Information Institute page for 47 U.S.C. § 230, the Section 230 intermediary liability protection.
+
+### Cited By
+- [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 
 ## `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page { #SRC-SFC-ABOUT }
 
@@ -683,6 +1091,18 @@ Official EFF biography page for Mitch Stoltz documenting his role as Senior Staf
 
 ### Cited By
 - [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
+
+## `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography { #SRC-TIEN-EFF }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-TIEN-EFF.md`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
+- Tags: source, attorney, privacy, digital-rights
+
+Official EFF staff profile for Lee Tien, Legislative Director and Adams Chair for Internet Rights.
+
+### Cited By
+- [`PERSON-LEE-TIEN: Lee Tien`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 
 ## `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router { #SRC-TOR-DESIGN-PAPER }
 
@@ -785,7 +1205,7 @@ Official GovInfo U.S. Code page for 18 U.S.C. section 1030, the Computer Fraud a
 
 ### Cited By
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
-- [`STAT-CFAA-1030: 18 U.S.C. § 1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 
 ## `SRC-USC-18-1030-LII`: 18 U.S.C. § 1030 { #SRC-USC-18-1030-LII }
@@ -798,7 +1218,7 @@ Official GovInfo U.S. Code page for 18 U.S.C. section 1030, the Computer Fraud a
 Cornell Legal Information Institute page for 18 U.S.C. section 1030, the Computer Fraud and Abuse Act provision.
 
 ### Cited By
-- [`STAT-CFAA-1030: 18 U.S.C. § 1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 
 ## `SRC-VAN-BUREN-GOVINFO`: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo) { #SRC-VAN-BUREN-GOVINFO }
@@ -824,8 +1244,20 @@ Cornell Legal Information Institute page for the Supreme Court decision interpre
 
 ### Cited By
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
-- [`STAT-CFAA-1030: 18 U.S.C. § 1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+
+## `SRC-VIXIE-IHOF`: Paul Vixie Internet Hall of Fame Profile { #SRC-VIXIE-IHOF }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-VIXIE-IHOF.md`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
+- Tags: source, person, internet-architecture, network-protocols
+
+Internet Hall of Fame inductee profile for Paul Vixie describing his DNS protocol work and BIND development.
+
+### Cited By
+- [`PERSON-PAUL-VIXIE: Paul Vixie`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
 
 ## `SRC-WALSH-EFF-BIO`: Kit Walsh EFF Staff Biography { #SRC-WALSH-EFF-BIO }
 
@@ -838,3 +1270,135 @@ Official EFF biography page for Kit Walsh documenting her role as Senior Staff A
 
 ### Cited By
 - [`PERSON-KIT-WALSH: Kit Walsh`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
+
+## `SRC-WEINSTEIN-BIO`: Lauren Weinstein Biography Page { #SRC-WEINSTEIN-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WEINSTEIN-BIO.md`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md)
+- Tags: source, person, internet-governance, privacy
+
+Official biography page for Lauren Weinstein describing his work on ARPANET, PFIR, NNSquad, and the PRIVACY Forum.
+
+### Cited By
+- [`PERSON-LAUREN-WEINSTEIN: Lauren Weinstein`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md)
+
+## `SRC-WEINSTEIN-NNSQUAD`: Network Neutrality Squad Announcement { #SRC-WEINSTEIN-NNSQUAD }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WEINSTEIN-NNSQUAD.md`](source-docs/bibliography/people/SRC-WEINSTEIN-NNSQUAD.md)
+- Tags: source, person, internet-governance, digital-rights
+
+Lauren Weinstein's announcement of the Network Neutrality Squad (NNSquad) as an open-membership effort to keep the internet fair and unhindered.
+
+### Cited By
+- [`PERSON-LAUREN-WEINSTEIN: Lauren Weinstein`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md)
+
+## `SRC-WESSLER-ACLU`: Nathan Freed Wessler ACLU Staff Biography { #SRC-WESSLER-ACLU }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WESSLER-ACLU.md`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
+- Tags: source, attorney, privacy, surveillance
+
+Official ACLU biography for Nathan Freed Wessler, deputy director of the Speech, Privacy, and Technology Project.
+
+### Cited By
+- [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
+
+## `SRC-WILLIAMSON-LEGAL`: Aaron Williamson Williamson Legal Team Page { #SRC-WILLIAMSON-LEGAL }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WILLIAMSON-LEGAL.md`](source-docs/bibliography/people/SRC-WILLIAMSON-LEGAL.md)
+- Tags: source, attorney, open-source-software
+
+Official Williamson Legal team page for principal attorney Aaron Williamson.
+
+### Cited By
+- [`PERSON-AARON-WILLIAMSON: Aaron Williamson`](source-docs/knowledge/people/PERSON-AARON-WILLIAMSON.md)
+
+## `SRC-WILSON-SONSINI-INTERNET`: Wilson Sonsini Internet Strategy and Litigation Practice Page { #SRC-WILSON-SONSINI-INTERNET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
+- Tags: source, organization, digital-rights, first-amendment, outreach
+
+Official Wilson Sonsini Goodrich & Rosati practice page describing the Internet Strategy and Litigation group.
+
+### Cited By
+- [`ORG-WILSON-SONSINI: Wilson Sonsini Goodrich & Rosati`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md)
+
+## `SRC-WILSON-SONSINI-SOFTWARE`: Wilson Sonsini Software Industry Practice Page { #SRC-WILSON-SONSINI-SOFTWARE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Wilson Sonsini Goodrich & Rosati practice page describing the firm's software industry representation.
+
+### Cited By
+- [`ORG-WILSON-SONSINI: Wilson Sonsini Goodrich & Rosati`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md)
+
+## `SRC-WIZNER-ACLU`: Ben Wizner ACLU Staff Biography { #SRC-WIZNER-ACLU }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-WIZNER-ACLU.md`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
+- Tags: source, attorney, first-amendment, privacy
+
+Official ACLU biography for Ben Wizner, Deputy Legal Director and Director of the Center for Democracy.
+
+### Cited By
+- [`PERSON-BEN-WIZNER: Ben Wizner`](source-docs/knowledge/people/PERSON-BEN-WIZNER.md)
+
+## `SRC-WYDEN-AARONS-LAW`: Wyden Introduces Reforms to the Computer Fraud and Abuse Act { #SRC-WYDEN-AARONS-LAW }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-AARONS-LAW.md`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- Tags: source, person, computer-crime, digital-rights
+
+Press release from Senator Ron Wyden's office announcing the introduction of Aaron's Law to reform the CFAA.
+
+### Cited By
+- [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+
+## `SRC-WYDEN-SECTION-230`: Wyden Remarks at Section 230 Briefing Hosted by EFF { #SRC-WYDEN-SECTION-230 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-SECTION-230.md`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+- Tags: source, person, internet-governance, digital-rights
+
+Press release from Senator Ron Wyden's office regarding his remarks at an EFF-hosted briefing on Section 230.
+
+### Cited By
+- [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+
+## `SRC-ZIMMERMANN-BIO`: Phil Zimmermann Official Biography { #SRC-ZIMMERMANN-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ZIMMERMANN-BIO.md`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- Tags: source, person, cryptography, digital-rights
+
+Official biography page for Phil Zimmermann describing PGP creation, export investigation, and cryptography awards.
+
+### Cited By
+- [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+
+## `SRC-ZITTRAIN-HLS`: Jonathan L. Zittrain Harvard Law School Faculty Profile { #SRC-ZITTRAIN-HLS }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ZITTRAIN-HLS.md`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
+- Tags: source, person, digital-rights, internet-governance
+
+Harvard Law School faculty profile for Jonathan Zittrain describing his appointments in law, public policy, and computer science.
+
+### Cited By
+- [`PERSON-JONATHAN-ZITTRAIN: Jonathan Zittrain`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)

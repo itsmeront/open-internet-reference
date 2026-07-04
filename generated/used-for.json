@@ -20,6 +20,12 @@
     },
     {
       "sources": [
+        "SRC-GOOGLE-ORACLE-JUSTIA"
+      ],
+      "term": "`CASE-GOOGLE-V-ORACLE`"
+    },
+    {
+      "sources": [
         "SRC-JUNGER-ACLU-OHIO",
         "SRC-JUNGER-CMU"
       ],
@@ -61,10 +67,58 @@
     },
     {
       "sources": [
+        "SRC-COOLEY-TECH"
+      ],
+      "term": "`CONTACT-COOLEY`"
+    },
+    {
+      "sources": [
+        "SRC-EPIC-CONTACT"
+      ],
+      "term": "`CONTACT-EPIC`"
+    },
+    {
+      "sources": [
+        "SRC-FENWICK-TECH"
+      ],
+      "term": "`CONTACT-FENWICK`"
+    },
+    {
+      "sources": [
+        "SRC-PERKINS-COIE-TECH"
+      ],
+      "term": "`CONTACT-PERKINS-COIE`"
+    },
+    {
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+      ],
+      "term": "`CONTACT-PUBLIC-KNOWLEDGE`"
+    },
+    {
+      "sources": [
+        "SRC-RCFP-CONTACT"
+      ],
+      "term": "`CONTACT-RCFP`"
+    },
+    {
+      "sources": [
+        "SRC-WILSON-SONSINI-SOFTWARE"
+      ],
+      "term": "`CONTACT-WILSON-SONSINI`"
+    },
+    {
+      "sources": [
         "SRC-CDT-ABOUT",
         "SRC-CDT-WHO"
       ],
       "term": "`ORG-CDT`"
+    },
+    {
+      "sources": [
+        "SRC-COOLEY-TECH"
+      ],
+      "term": "`ORG-COOLEY`"
     },
     {
       "sources": [
@@ -74,10 +128,30 @@
     },
     {
       "sources": [
+        "SRC-EPIC-ABOUT",
+        "SRC-EPIC-CONTACT"
+      ],
+      "term": "`ORG-EPIC`"
+    },
+    {
+      "sources": [
+        "SRC-FENWICK-HISTORY",
+        "SRC-FENWICK-TECH"
+      ],
+      "term": "`ORG-FENWICK`"
+    },
+    {
+      "sources": [
         "SRC-FSF-ABOUT",
         "SRC-FSF-PRESS"
       ],
       "term": "`ORG-FSF`"
+    },
+    {
+      "sources": [
+        "SRC-IFS-ABOUT-US"
+      ],
+      "term": "`ORG-INSTITUTE-FOR-FREE-SPEECH`"
     },
     {
       "sources": [
@@ -99,6 +173,26 @@
         "SRC-OSI-HISTORY"
       ],
       "term": "`ORG-OSI`"
+    },
+    {
+      "sources": [
+        "SRC-PERKINS-COIE-TECH"
+      ],
+      "term": "`ORG-PERKINS-COIE`"
+    },
+    {
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+        "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+      ],
+      "term": "`ORG-PUBLIC-KNOWLEDGE`"
+    },
+    {
+      "sources": [
+        "SRC-RCFP-CONTACT",
+        "SRC-RCFP-WHAT-WE-DO"
+      ],
+      "term": "`ORG-RCFP`"
     },
     {
       "sources": [
@@ -131,6 +225,49 @@
     },
     {
       "sources": [
+        "SRC-WILSON-SONSINI-INTERNET",
+        "SRC-WILSON-SONSINI-SOFTWARE"
+      ],
+      "term": "`ORG-WILSON-SONSINI`"
+    },
+    {
+      "sources": [
+        "SRC-WILLIAMSON-LEGAL"
+      ],
+      "term": "`PERSON-AARON-WILLIAMSON`"
+    },
+    {
+      "sources": [
+        "SRC-KAY-CHM"
+      ],
+      "term": "`PERSON-ALAN-KAY`"
+    },
+    {
+      "sources": [
+        "SRC-ABDO-KNIGHT"
+      ],
+      "term": "`PERSON-ALEX-ABDO`"
+    },
+    {
+      "sources": [
+        "SRC-RUSSELL-PROFILE"
+      ],
+      "term": "`PERSON-ANDREW-RUSSELL`"
+    },
+    {
+      "sources": [
+        "SRC-WIZNER-ACLU"
+      ],
+      "term": "`PERSON-BEN-WIZNER`"
+    },
+    {
+      "sources": [
+        "SRC-SCHNEIER-ABOUT"
+      ],
+      "term": "`PERSON-BRUCE-SCHNEIER`"
+    },
+    {
+      "sources": [
         "SRC-BERNSTEIN-EFF-25",
         "SRC-COHN-EFF-BIO",
         "SRC-COHN-EFF-DEPARTURE",
@@ -147,10 +284,46 @@
     },
     {
       "sources": [
+        "SRC-BOYD-MSR"
+      ],
+      "term": "`PERSON-DANAH-BOYD`"
+    },
+    {
+      "sources": [
+        "SRC-REED-BIO"
+      ],
+      "term": "`PERSON-DAVID-REED`"
+    },
+    {
+      "sources": [
         "SRC-MOGLEN-COLUMBIA",
         "SRC-MOGLEN-DSI"
       ],
       "term": "`PERSON-EBEN-MOGLEN`"
+    },
+    {
+      "sources": [
+        "SRC-BHANDARI-ACLU"
+      ],
+      "term": "`PERSON-ESHA-BHANDARI`"
+    },
+    {
+      "sources": [
+        "SRC-MEEKER-ABOUT"
+      ],
+      "term": "`PERSON-HEATHER-MEEKER`"
+    },
+    {
+      "sources": [
+        "SRC-JAFFER-KNIGHT"
+      ],
+      "term": "`PERSON-JAMEEL-JAFFER`"
+    },
+    {
+      "sources": [
+        "SRC-ABBATE-VT"
+      ],
+      "term": "`PERSON-JANET-ABBATE`"
     },
     {
       "sources": [
@@ -160,9 +333,28 @@
     },
     {
       "sources": [
+        "SRC-ZITTRAIN-HLS"
+      ],
+      "term": "`PERSON-JONATHAN-ZITTRAIN`"
+    },
+    {
+      "sources": [
+        "SRC-FALLOW-KNIGHT"
+      ],
+      "term": "`PERSON-KATIE-FALLOW`"
+    },
+    {
+      "sources": [
         "SRC-WALSH-EFF-BIO"
       ],
       "term": "`PERSON-KIT-WALSH`"
+    },
+    {
+      "sources": [
+        "SRC-WEINSTEIN-BIO",
+        "SRC-WEINSTEIN-NNSQUAD"
+      ],
+      "term": "`PERSON-LAUREN-WEINSTEIN`"
     },
     {
       "sources": [
@@ -172,9 +364,115 @@
     },
     {
       "sources": [
+        "SRC-TIEN-EFF"
+      ],
+      "term": "`PERSON-LEE-TIEN`"
+    },
+    {
+      "sources": [
+        "SRC-BLAZE-GEORGETOWN"
+      ],
+      "term": "`PERSON-MATT-BLAZE`"
+    },
+    {
+      "sources": [
         "SRC-STOLTZ-EFF-BIO"
       ],
       "term": "`PERSON-MITCH-STOLTZ`"
+    },
+    {
+      "sources": [
+        "SRC-WESSLER-ACLU"
+      ],
+      "term": "`PERSON-NATHAN-FREED-WESSLER`"
+    },
+    {
+      "sources": [
+        "SRC-ORIN-KERR-GWU"
+      ],
+      "term": "`PERSON-ORIN-KERR`"
+    },
+    {
+      "sources": [
+        "SRC-CHESTEK-ABOUT"
+      ],
+      "term": "`PERSON-PAMELA-CHESTEK`"
+    },
+    {
+      "sources": [
+        "SRC-VIXIE-IHOF"
+      ],
+      "term": "`PERSON-PAUL-VIXIE`"
+    },
+    {
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "term": "`PERSON-PHIL-ZIMMERMANN`"
+    },
+    {
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW",
+        "SRC-PAUL-FISA",
+        "SRC-PAUL-FOURTH-AMENDMENT"
+      ],
+      "term": "`PERSON-RAND-PAUL`"
+    },
+    {
+      "sources": [
+        "SRC-KHANNA-INTERNET-BILL"
+      ],
+      "term": "`PERSON-RO-KHANNA`"
+    },
+    {
+      "sources": [
+        "SRC-KAHN-CNRI"
+      ],
+      "term": "`PERSON-ROBERT-KAHN`"
+    },
+    {
+      "sources": [
+        "SRC-RIVEST-CSAIL"
+      ],
+      "term": "`PERSON-RON-RIVEST`"
+    },
+    {
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW",
+        "SRC-WYDEN-AARONS-LAW",
+        "SRC-WYDEN-SECTION-230"
+      ],
+      "term": "`PERSON-RON-WYDEN`"
+    },
+    {
+      "sources": [
+        "SRC-HAIGH-UWM"
+      ],
+      "term": "`PERSON-THOMAS-HAIGH`"
+    },
+    {
+      "sources": [
+        "SRC-BERNERS-LEE-W3C"
+      ],
+      "term": "`PERSON-TIM-BERNERS-LEE`"
+    },
+    {
+      "sources": [
+        "SRC-CERF-GOOGLE"
+      ],
+      "term": "`PERSON-VINT-CERF`"
+    },
+    {
+      "sources": [
+        "SRC-DIFFIE-CISAC"
+      ],
+      "term": "`PERSON-WHITFIELD-DIFFIE`"
+    },
+    {
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW"
+      ],
+      "term": "`PERSON-ZOE-LOFGREN`"
     },
     {
       "sources": [
@@ -191,6 +489,13 @@
         "SRC-USC-17-512-GOVINFO"
       ],
       "term": "`STAT-DMCA-512`"
+    },
+    {
+      "sources": [
+        "SRC-SECTION-230-EFF",
+        "SRC-SECTION-230-LII"
+      ],
+      "term": "`STAT-SECTION-230`"
     },
     {
       "sources": [
@@ -245,31 +550,11 @@
     },
     {
       "sources": [
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
-      ],
-      "term": "Candidate contact discovery"
-    },
-    {
-      "sources": [
-        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
-      ],
-      "term": "Candidate topic discovery"
-    },
-    {
-      "sources": [
         "SRC-RENO-V-ACLU-GOVINFO",
         "SRC-RENO-V-ACLU-JUSTIA",
         "SRC-RENO-V-ACLU-LOC"
       ],
       "term": "Case law seed records"
-    },
-    {
-      "sources": [
-        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
-      ],
-      "term": "Case-study framing"
     },
     {
       "sources": [
@@ -484,27 +769,11 @@
     },
     {
       "sources": [
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
-      ],
-      "term": "Organization and expert seed list"
-    },
-    {
-      "sources": [
         "SRC-ACLU-CONTACT",
         "SRC-EFF-CONTACT",
         "SRC-TOR-PROJECT-CONTACT"
       ],
       "term": "Outreach contact verification"
-    },
-    {
-      "sources": [
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-        "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD"
-      ],
-      "term": "Outreach research backlog"
     },
     {
       "sources": [
@@ -557,12 +826,6 @@
         "SRC-OIR-PROJECT-CHARTER-DOCX"
       ],
       "term": "Research standards"
-    },
-    {
-      "sources": [
-        "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX"
-      ],
-      "term": "Research-debt identification"
     },
     {
       "sources": [

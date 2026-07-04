@@ -117,6 +117,45 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "CASE-GOOGLE-V-ORACLE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
+      "relationships": [
+        {
+          "object": "SRC-GOOGLE-ORACLE-JUSTIA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GOOGLE-ORACLE-JUSTIA"
+          ],
+          "subject": "CASE-GOOGLE-V-ORACLE"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-ORACLE-JUSTIA"
+          ],
+          "subject": "CASE-GOOGLE-V-ORACLE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
+      "sources": [
+        "SRC-GOOGLE-ORACLE-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.",
+      "tags": [
+        "copyright",
+        "speech-and-code",
+        "digital-rights",
+        "open-source-software"
+      ],
+      "title": "Google LLC v. Oracle America, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "CASE-JUNGER-V-DALEY",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
@@ -543,6 +582,37 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "ORG-COOLEY",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-COOLEY.md",
+      "relationships": [
+        {
+          "object": "SRC-COOLEY-TECH",
+          "predicate": "cites",
+          "sources": [
+            "SRC-COOLEY-TECH"
+          ],
+          "subject": "ORG-COOLEY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-COOLEY.md",
+      "sources": [
+        "SRC-COOLEY-TECH"
+      ],
+      "status": "draft",
+      "summary": "Cooley is a global law firm that is the",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Cooley",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "ORG-EFF",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-EFF.md",
@@ -578,6 +648,87 @@
         "outreach"
       ],
       "title": "Electronic Frontier Foundation",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-EPIC",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-EPIC.md",
+      "relationships": [
+        {
+          "object": "SRC-EPIC-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EPIC-ABOUT"
+          ],
+          "subject": "ORG-EPIC"
+        },
+        {
+          "object": "SRC-EPIC-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EPIC-CONTACT"
+          ],
+          "subject": "ORG-EPIC"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-EPIC.md",
+      "sources": [
+        "SRC-EPIC-ABOUT",
+        "SRC-EPIC-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.",
+      "tags": [
+        "organization",
+        "privacy",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Electronic Privacy Information Center",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-FENWICK",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-FENWICK.md",
+      "relationships": [
+        {
+          "object": "SRC-FENWICK-TECH",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FENWICK-TECH"
+          ],
+          "subject": "ORG-FENWICK"
+        },
+        {
+          "object": "SRC-FENWICK-HISTORY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FENWICK-HISTORY"
+          ],
+          "subject": "ORG-FENWICK"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FENWICK.md",
+      "sources": [
+        "SRC-FENWICK-TECH",
+        "SRC-FENWICK-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Fenwick & West",
       "type": "organization",
       "used_for": []
     },
@@ -619,6 +770,37 @@
         "outreach"
       ],
       "title": "Free Software Foundation",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
+      "relationships": [
+        {
+          "object": "SRC-IFS-ABOUT-US",
+          "predicate": "cites",
+          "sources": [
+            "SRC-IFS-ABOUT-US"
+          ],
+          "subject": "ORG-INSTITUTE-FOR-FREE-SPEECH"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
+      "sources": [
+        "SRC-IFS-ABOUT-US"
+      ],
+      "status": "draft",
+      "summary": "The Institute for Free Speech is a U.S. nonprofit that litigates and advocates to protect First Amendment rights to speak, publish, assemble, and petition government, with a focus on political speech and campaign finance law.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Institute for Free Speech",
       "type": "organization",
       "used_for": []
     },
@@ -756,6 +938,119 @@
         "outreach"
       ],
       "title": "Open Source Initiative",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-PERKINS-COIE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
+      "relationships": [
+        {
+          "object": "SRC-PERKINS-COIE-TECH",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PERKINS-COIE-TECH"
+          ],
+          "subject": "ORG-PERKINS-COIE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-PERKINS-COIE.md",
+      "sources": [
+        "SRC-PERKINS-COIE-TECH"
+      ],
+      "status": "draft",
+      "summary": "Perkins Coie is a law firm with over 1,200 attorneys named 2026 \"Law Firm of the Year\" in Technology Law by Best Lawyers, with a Technology Transactions & Privacy practice advising emerging and established technology companies.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Perkins Coie",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-PUBLIC-KNOWLEDGE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
+      "relationships": [
+        {
+          "object": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PUBLIC-KNOWLEDGE-ABOUT"
+          ],
+          "subject": "ORG-PUBLIC-KNOWLEDGE"
+        },
+        {
+          "object": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+          ],
+          "subject": "ORG-PUBLIC-KNOWLEDGE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+        "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an open internet, and access to affordable communications tools and creative works through copyright, telecommunications, and internet policy advocacy.",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "internet-governance",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Public Knowledge",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "ORG-RCFP",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-RCFP.md",
+      "relationships": [
+        {
+          "object": "SRC-RCFP-WHAT-WE-DO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RCFP-WHAT-WE-DO"
+          ],
+          "subject": "ORG-RCFP"
+        },
+        {
+          "object": "SRC-RCFP-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RCFP-CONTACT"
+          ],
+          "subject": "ORG-RCFP"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-RCFP.md",
+      "sources": [
+        "SRC-RCFP-WHAT-WE-DO",
+        "SRC-RCFP-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Reporters Committee for Freedom of the Press",
       "type": "organization",
       "used_for": []
     },
@@ -947,6 +1242,257 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "ORG-WILSON-SONSINI",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-WILSON-SONSINI.md",
+      "relationships": [
+        {
+          "object": "SRC-WILSON-SONSINI-SOFTWARE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WILSON-SONSINI-SOFTWARE"
+          ],
+          "subject": "ORG-WILSON-SONSINI"
+        },
+        {
+          "object": "SRC-WILSON-SONSINI-INTERNET",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WILSON-SONSINI-INTERNET"
+          ],
+          "subject": "ORG-WILSON-SONSINI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md",
+      "sources": [
+        "SRC-WILSON-SONSINI-SOFTWARE",
+        "SRC-WILSON-SONSINI-INTERNET"
+      ],
+      "status": "draft",
+      "summary": "Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to technology companies, representing more than 350 public and private software companies and more venture-backed software companies than any other U.S. law firm.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Goodrich & Rosati",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-AARON-WILLIAMSON",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
+      "relationships": [
+        {
+          "object": "SRC-WILLIAMSON-LEGAL",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WILLIAMSON-LEGAL"
+          ],
+          "subject": "PERSON-AARON-WILLIAMSON"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-AARON-WILLIAMSON.md",
+      "sources": [
+        "SRC-WILLIAMSON-LEGAL"
+      ],
+      "status": "draft",
+      "summary": "Aaron Williamson is principal attorney at Williamson Legal, PLLC, advising clients on open source software, technology transactions, CFAA and DMCA liability, and nonprofit governance.",
+      "tags": [
+        "attorney",
+        "open-source-software",
+        "digital-rights"
+      ],
+      "title": "Aaron Williamson",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ALAN-KAY",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ALAN-KAY.md",
+      "relationships": [
+        {
+          "object": "SRC-KAY-CHM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KAY-CHM"
+          ],
+          "subject": "PERSON-ALAN-KAY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ALAN-KAY.md",
+      "sources": [
+        "SRC-KAY-CHM"
+      ],
+      "status": "draft",
+      "summary": "Alan Kay is a Turing Award-winning computer scientist who pioneered object-oriented programming, led development of Smalltalk, and helped define the personal computing and graphical user interface paradigms at Xerox PARC and ARPA.",
+      "tags": [
+        "person",
+        "open-source-software",
+        "internet-architecture",
+        "software-distribution"
+      ],
+      "title": "Alan Kay",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ALEX-ABDO",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ALEX-ABDO.md",
+      "relationships": [
+        {
+          "object": "SRC-ABDO-KNIGHT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ABDO-KNIGHT"
+          ],
+          "subject": "PERSON-ALEX-ABDO"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-ABDO-KNIGHT"
+          ],
+          "subject": "PERSON-ALEX-ABDO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ALEX-ABDO.md",
+      "sources": [
+        "SRC-ABDO-KNIGHT"
+      ],
+      "status": "draft",
+      "summary": "Alex Abdo is litigation director of the Knight First Amendment Institute and a former ACLU attorney who litigated NSA surveillance, encryption, and government transparency cases.",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Alex Abdo",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ANDREW-RUSSELL",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
+      "relationships": [
+        {
+          "object": "SRC-RUSSELL-PROFILE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RUSSELL-PROFILE"
+          ],
+          "subject": "PERSON-ANDREW-RUSSELL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md",
+      "sources": [
+        "SRC-RUSSELL-PROFILE"
+      ],
+      "status": "draft",
+      "summary": "Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technology whose book Open Standards and the Digital Age documents how open-systems ideology shaped modern internet and networking standards.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "open-source-software"
+      ],
+      "title": "Andrew Russell",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-BEN-WIZNER",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-BEN-WIZNER.md",
+      "relationships": [
+        {
+          "object": "SRC-WIZNER-ACLU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WIZNER-ACLU"
+          ],
+          "subject": "PERSON-BEN-WIZNER"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-WIZNER-ACLU"
+          ],
+          "subject": "PERSON-BEN-WIZNER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-BEN-WIZNER.md",
+      "sources": [
+        "SRC-WIZNER-ACLU"
+      ],
+      "status": "draft",
+      "summary": "Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democracy, overseeing work on free speech, privacy, technology, national security, and immigrants' rights.",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Ben Wizner",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-BRUCE-SCHNEIER",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
+      "relationships": [
+        {
+          "object": "SRC-SCHNEIER-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SCHNEIER-ABOUT"
+          ],
+          "subject": "PERSON-BRUCE-SCHNEIER"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-SCHNEIER-ABOUT"
+          ],
+          "subject": "PERSON-BRUCE-SCHNEIER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md",
+      "sources": [
+        "SRC-SCHNEIER-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ],
+      "title": "Bruce Schneier",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-CINDY-COHN",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-CINDY-COHN.md",
@@ -1071,6 +1617,68 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-DANAH-BOYD",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-DANAH-BOYD.md",
+      "relationships": [
+        {
+          "object": "SRC-BOYD-MSR",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BOYD-MSR"
+          ],
+          "subject": "PERSON-DANAH-BOYD"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DANAH-BOYD.md",
+      "sources": [
+        "SRC-BOYD-MSR"
+      ],
+      "status": "draft",
+      "summary": "danah boyd is a partner researcher at Microsoft Research, founder of the Data & Society Research Institute, and Distinguished Visiting Professor at Georgetown University who studies social media, algorithmic bias, privacy, and the societal impact of data-driven systems.",
+      "tags": [
+        "person",
+        "privacy",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "danah boyd",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-DAVID-REED",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-DAVID-REED.md",
+      "relationships": [
+        {
+          "object": "SRC-REED-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-REED-BIO"
+          ],
+          "subject": "PERSON-DAVID-REED"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DAVID-REED.md",
+      "sources": [
+        "SRC-REED-BIO"
+      ],
+      "status": "draft",
+      "summary": "David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "distributed-systems",
+        "network-protocols"
+      ],
+      "title": "David P. Reed",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-EBEN-MOGLEN",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
@@ -1127,6 +1735,144 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-ESHA-BHANDARI",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
+      "relationships": [
+        {
+          "object": "SRC-BHANDARI-ACLU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BHANDARI-ACLU"
+          ],
+          "subject": "PERSON-ESHA-BHANDARI"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-BHANDARI-ACLU"
+          ],
+          "subject": "PERSON-ESHA-BHANDARI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md",
+      "sources": [
+        "SRC-BHANDARI-ACLU"
+      ],
+      "status": "draft",
+      "summary": "Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "privacy",
+        "first-amendment"
+      ],
+      "title": "Esha Bhandari",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-HEATHER-MEEKER",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
+      "relationships": [
+        {
+          "object": "SRC-MEEKER-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MEEKER-ABOUT"
+          ],
+          "subject": "PERSON-HEATHER-MEEKER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md",
+      "sources": [
+        "SRC-MEEKER-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.",
+      "tags": [
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Heather Meeker",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-JAMEEL-JAFFER",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
+      "relationships": [
+        {
+          "object": "SRC-JAFFER-KNIGHT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-JAFFER-KNIGHT"
+          ],
+          "subject": "PERSON-JAMEEL-JAFFER"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-JAFFER-KNIGHT"
+          ],
+          "subject": "PERSON-JAMEEL-JAFFER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md",
+      "sources": [
+        "SRC-JAFFER-KNIGHT"
+      ],
+      "status": "draft",
+      "summary": "Jameel Jaffer is the inaugural executive director of the Knight First Amendment Institute at Columbia University and a former ACLU litigator known for post-9/11 transparency, surveillance, and national security cases.",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Jameel Jaffer",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-JANET-ABBATE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-JANET-ABBATE.md",
+      "relationships": [
+        {
+          "object": "SRC-ABBATE-VT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ABBATE-VT"
+          ],
+          "subject": "PERSON-JANET-ABBATE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JANET-ABBATE.md",
+      "sources": [
+        "SRC-ABBATE-VT"
+      ],
+      "status": "draft",
+      "summary": "Janet Abbate is a Virginia Tech professor of science, technology, and society and author of Inventing the Internet, the standard academic history of how ARPANET became the public Internet.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Janet Abbate",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-JENNIFER-GRANICK",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
@@ -1162,6 +1908,75 @@
         "digital-rights"
       ],
       "title": "Jennifer Granick",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-JONATHAN-ZITTRAIN",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
+      "relationships": [
+        {
+          "object": "SRC-ZITTRAIN-HLS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ZITTRAIN-HLS"
+          ],
+          "subject": "PERSON-JONATHAN-ZITTRAIN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
+      "sources": [
+        "SRC-ZITTRAIN-HLS"
+      ],
+      "status": "draft",
+      "summary": "Jonathan Zittrain is the George Bemis Professor of International Law at Harvard Law School, co-founder of the Berkman Klein Center, and a professor of computer science who is a leading public voice on internet law, platform governance, and digital technology policy.",
+      "tags": [
+        "person",
+        "digital-rights",
+        "internet-governance",
+        "privacy"
+      ],
+      "title": "Jonathan Zittrain",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-KATIE-FALLOW",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
+      "relationships": [
+        {
+          "object": "SRC-FALLOW-KNIGHT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FALLOW-KNIGHT"
+          ],
+          "subject": "PERSON-KATIE-FALLOW"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-FALLOW-KNIGHT"
+          ],
+          "subject": "PERSON-KATIE-FALLOW"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-KATIE-FALLOW.md",
+      "sources": [
+        "SRC-FALLOW-KNIGHT"
+      ],
+      "status": "draft",
+      "summary": "Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Katie Fallow",
       "type": "attorney",
       "used_for": []
     },
@@ -1207,6 +2022,47 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-LAUREN-WEINSTEIN",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
+      "relationships": [
+        {
+          "object": "SRC-WEINSTEIN-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WEINSTEIN-BIO"
+          ],
+          "subject": "PERSON-LAUREN-WEINSTEIN"
+        },
+        {
+          "object": "SRC-WEINSTEIN-NNSQUAD",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WEINSTEIN-NNSQUAD"
+          ],
+          "subject": "PERSON-LAUREN-WEINSTEIN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
+      "sources": [
+        "SRC-WEINSTEIN-BIO",
+        "SRC-WEINSTEIN-NNSQUAD"
+      ],
+      "status": "draft",
+      "summary": "Lauren Weinstein is an internet pioneer who was present at ARPANET's first site at UCLA, founder of People For Internet Responsibility (PFIR), the Network Neutrality Squad (NNSquad), and the PRIVACY Forum, and a leading voice for net neutrality, internet freedom, and privacy rights.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "privacy",
+        "digital-rights",
+        "censorship-resistance"
+      ],
+      "title": "Lauren Weinstein",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-LAWRENCE-LESSIG",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
@@ -1234,6 +2090,76 @@
         "copyright"
       ],
       "title": "Lawrence Lessig",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-LEE-TIEN",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-LEE-TIEN.md",
+      "relationships": [
+        {
+          "object": "SRC-TIEN-EFF",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TIEN-EFF"
+          ],
+          "subject": "PERSON-LEE-TIEN"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-TIEN-EFF"
+          ],
+          "subject": "PERSON-LEE-TIEN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-LEE-TIEN.md",
+      "sources": [
+        "SRC-TIEN-EFF"
+      ],
+      "status": "draft",
+      "summary": "Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.",
+      "tags": [
+        "attorney",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ],
+      "title": "Lee Tien",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-MATT-BLAZE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-MATT-BLAZE.md",
+      "relationships": [
+        {
+          "object": "SRC-BLAZE-GEORGETOWN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BLAZE-GEORGETOWN"
+          ],
+          "subject": "PERSON-MATT-BLAZE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MATT-BLAZE.md",
+      "sources": [
+        "SRC-BLAZE-GEORGETOWN"
+      ],
+      "status": "draft",
+      "summary": "Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Matt Blaze",
       "type": "person",
       "used_for": []
     },
@@ -1275,6 +2201,497 @@
       ],
       "title": "Mitch Stoltz",
       "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-NATHAN-FREED-WESSLER",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
+      "relationships": [
+        {
+          "object": "SRC-WESSLER-ACLU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WESSLER-ACLU"
+          ],
+          "subject": "PERSON-NATHAN-FREED-WESSLER"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-WESSLER-ACLU"
+          ],
+          "subject": "PERSON-NATHAN-FREED-WESSLER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
+      "sources": [
+        "SRC-WESSLER-ACLU"
+      ],
+      "status": "draft",
+      "summary": "Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.",
+      "tags": [
+        "attorney",
+        "privacy",
+        "surveillance",
+        "fourth-amendment",
+        "digital-rights"
+      ],
+      "title": "Nathan Freed Wessler",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ORIN-KERR",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ORIN-KERR.md",
+      "relationships": [
+        {
+          "object": "SRC-ORIN-KERR-GWU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ORIN-KERR-GWU"
+          ],
+          "subject": "PERSON-ORIN-KERR"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ORIN-KERR.md",
+      "sources": [
+        "SRC-ORIN-KERR-GWU"
+      ],
+      "status": "draft",
+      "summary": "Orin Kerr is the Fred C. Stevenson Research Professor at George Washington University Law School and one of the most cited academic authorities on the Computer Fraud and Abuse Act, electronic surveillance law, and Fourth Amendment issues in networked environments.",
+      "tags": [
+        "person",
+        "digital-rights",
+        "privacy",
+        "fourth-amendment"
+      ],
+      "title": "Orin Kerr",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-PAMELA-CHESTEK",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
+      "relationships": [
+        {
+          "object": "SRC-CHESTEK-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CHESTEK-ABOUT"
+          ],
+          "subject": "PERSON-PAMELA-CHESTEK"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md",
+      "sources": [
+        "SRC-CHESTEK-ABOUT"
+      ],
+      "status": "draft",
+      "summary": "Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.",
+      "tags": [
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Pamela Chestek",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-PAUL-VIXIE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
+      "relationships": [
+        {
+          "object": "SRC-VIXIE-IHOF",
+          "predicate": "cites",
+          "sources": [
+            "SRC-VIXIE-IHOF"
+          ],
+          "subject": "PERSON-PAUL-VIXIE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAUL-VIXIE.md",
+      "sources": [
+        "SRC-VIXIE-IHOF"
+      ],
+      "status": "draft",
+      "summary": "Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "network-protocols",
+        "cryptography"
+      ],
+      "title": "Paul Vixie",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-PHIL-ZIMMERMANN",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
+      "relationships": [
+        {
+          "object": "SRC-ZIMMERMANN-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "PERSON-PHIL-ZIMMERMANN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "status": "draft",
+      "summary": "Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.",
+      "tags": [
+        "person",
+        "cryptography",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Phil Zimmermann",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-RAND-PAUL",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-RAND-PAUL.md",
+      "relationships": [
+        {
+          "object": "SRC-PAUL-FOURTH-AMENDMENT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PAUL-FOURTH-AMENDMENT"
+          ],
+          "subject": "PERSON-RAND-PAUL"
+        },
+        {
+          "object": "SRC-PAUL-FISA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PAUL-FISA"
+          ],
+          "subject": "PERSON-RAND-PAUL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RAND-PAUL.md",
+      "sources": [
+        "SRC-PAUL-FOURTH-AMENDMENT",
+        "SRC-PAUL-FISA"
+      ],
+      "status": "draft",
+      "summary": "Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.",
+      "tags": [
+        "person",
+        "privacy",
+        "fourth-amendment",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Rand Paul",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-RO-KHANNA",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-RO-KHANNA.md",
+      "relationships": [
+        {
+          "object": "SRC-KHANNA-INTERNET-BILL",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KHANNA-INTERNET-BILL"
+          ],
+          "subject": "PERSON-RO-KHANNA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RO-KHANNA.md",
+      "sources": [
+        "SRC-KHANNA-INTERNET-BILL"
+      ],
+      "status": "draft",
+      "summary": "Ro Khanna is a U.S. Representative from California (Silicon Valley) who drafted the Internet Bill of Rights principles endorsed by Tim Berners-Lee, advocating for net neutrality, data privacy, universal internet access, and platform transparency.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Ro Khanna",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ROBERT-KAHN",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
+      "relationships": [
+        {
+          "object": "SRC-KAHN-CNRI",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KAHN-CNRI"
+          ],
+          "subject": "PERSON-ROBERT-KAHN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ROBERT-KAHN.md",
+      "sources": [
+        "SRC-KAHN-CNRI"
+      ],
+      "status": "draft",
+      "summary": "Robert Kahn co-invented TCP/IP with Vint Cerf, led DARPA's Internet program, coined open-architecture networking, and founded CNRI; he is a foundational authority on packet-switched network design and Internet governance.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ],
+      "title": "Robert Kahn",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-RON-RIVEST",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-RON-RIVEST.md",
+      "relationships": [
+        {
+          "object": "SRC-RIVEST-CSAIL",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RIVEST-CSAIL"
+          ],
+          "subject": "PERSON-RON-RIVEST"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RON-RIVEST.md",
+      "sources": [
+        "SRC-RIVEST-CSAIL"
+      ],
+      "status": "draft",
+      "summary": "Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryptosystem, and a leading researcher in cryptography, algorithms, and election security who frequently advises on the feasibility and design of cryptographic systems.",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Ron Rivest",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-RON-WYDEN",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-RON-WYDEN.md",
+      "relationships": [
+        {
+          "object": "SRC-WYDEN-SECTION-230",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-SECTION-230"
+          ],
+          "subject": "PERSON-RON-WYDEN"
+        },
+        {
+          "object": "SRC-WYDEN-AARONS-LAW",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-AARONS-LAW"
+          ],
+          "subject": "PERSON-RON-WYDEN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RON-WYDEN.md",
+      "sources": [
+        "SRC-WYDEN-SECTION-230",
+        "SRC-WYDEN-AARONS-LAW"
+      ],
+      "status": "draft",
+      "summary": "Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "first-amendment"
+      ],
+      "title": "Ron Wyden",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-THOMAS-HAIGH",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
+      "relationships": [
+        {
+          "object": "SRC-HAIGH-UWM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HAIGH-UWM"
+          ],
+          "subject": "PERSON-THOMAS-HAIGH"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md",
+      "sources": [
+        "SRC-HAIGH-UWM"
+      ],
+      "status": "draft",
+      "summary": "Thomas Haigh is a historian of computing at the University of Wisconsin\u2013Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "open-source-software"
+      ],
+      "title": "Thomas Haigh",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-TIM-BERNERS-LEE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
+      "relationships": [
+        {
+          "object": "SRC-BERNERS-LEE-W3C",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BERNERS-LEE-W3C"
+          ],
+          "subject": "PERSON-TIM-BERNERS-LEE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md",
+      "sources": [
+        "SRC-BERNERS-LEE-W3C"
+      ],
+      "status": "draft",
+      "summary": "Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds faculty appointments at MIT and Oxford; he is a leading voice on open web standards, data sovereignty, and decentralized architectures such as Solid.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "open-source-software",
+        "privacy"
+      ],
+      "title": "Tim Berners-Lee",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-VINT-CERF",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-VINT-CERF.md",
+      "relationships": [
+        {
+          "object": "SRC-CERF-GOOGLE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CERF-GOOGLE"
+          ],
+          "subject": "PERSON-VINT-CERF"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-VINT-CERF.md",
+      "sources": [
+        "SRC-CERF-GOOGLE"
+      ],
+      "status": "draft",
+      "summary": "Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, a former ICANN chairman and Internet Society founding president, and Google's Chief Internet Evangelist who frequently speaks on internet architecture, governance, and policy.",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Vint Cerf",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-WHITFIELD-DIFFIE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
+      "relationships": [
+        {
+          "object": "SRC-DIFFIE-CISAC",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DIFFIE-CISAC"
+          ],
+          "subject": "PERSON-WHITFIELD-DIFFIE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
+      "sources": [
+        "SRC-DIFFIE-CISAC"
+      ],
+      "status": "draft",
+      "summary": "Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.",
+      "tags": [
+        "person",
+        "cryptography",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Whitfield Diffie",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-ZOE-LOFGREN",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
+      "relationships": [
+        {
+          "object": "SRC-LOFGREN-AARONS-LAW",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LOFGREN-AARONS-LAW"
+          ],
+          "subject": "PERSON-ZOE-LOFGREN"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md",
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW"
+      ],
+      "status": "draft",
+      "summary": "Zoe Lofgren is a U.S. Representative from California who introduced Aaron's Law to reform the Computer Fraud and Abuse Act, working to distinguish common internet activity from harmful attacks and prevent prosecutorial overreach.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "computer-crime"
+      ],
+      "title": "Zoe Lofgren",
+      "type": "person",
       "used_for": []
     },
     {
@@ -1368,7 +2785,7 @@
     {
       "bibliographic_metadata": {},
       "id": "STAT-CFAA-1030",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-06-25",
       "path": "knowledge/legal/STAT-CFAA-1030.md",
       "relationships": [
         {
@@ -1411,12 +2828,13 @@
         "SRC-VAN-BUREN-LII"
       ],
       "status": "draft",
-      "summary": "18 U.S.C. \u00a7 1030 is a United States criminal statute concerning fraud and related activity in connection with computers.",
+      "summary": "The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. \u00a7 1030, is the primary U.S. federal anti-hacking statute, originally enacted in 1984 and substantially amended in 1986, 1994, 1996, 2001, 2002, and 2008, which criminalizes unauthorized access to computers and has been widely criticized for vagueness and prosecutorial overreach.",
       "tags": [
         "computer-crime",
-        "technology-law"
+        "digital-rights",
+        "internet-governance"
       ],
-      "title": "18 U.S.C. \u00a7 1030",
+      "title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
       "type": "statute",
       "used_for": []
     },
@@ -1481,6 +2899,54 @@
         "intermediary-liability"
       ],
       "title": "17 U.S.C. \u00a7 512",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "STAT-SECTION-230",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/legal/STAT-SECTION-230.md",
+      "relationships": [
+        {
+          "object": "SRC-SECTION-230-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SECTION-230-LII"
+          ],
+          "subject": "STAT-SECTION-230"
+        },
+        {
+          "object": "SRC-SECTION-230-EFF",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SECTION-230-EFF"
+          ],
+          "subject": "STAT-SECTION-230"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SECTION-230-EFF"
+          ],
+          "subject": "STAT-SECTION-230"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-SECTION-230.md",
+      "sources": [
+        "SRC-SECTION-230-LII",
+        "SRC-SECTION-230-EFF"
+      ],
+      "status": "draft",
+      "summary": "Section 230 of the Communications Decency Act (47 U.S.C. \u00a7 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.",
+      "tags": [
+        "internet-governance",
+        "intermediary-liability",
+        "digital-rights",
+        "first-amendment"
+      ],
+      "title": "Section 230 (47 U.S.C. \u00a7 230)",
       "type": "statute",
       "used_for": []
     },

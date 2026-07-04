@@ -44,6 +44,10 @@ last_verified: "2026-06-25"
 3. **Process**: EFF reviews requests and takes cases that align with their mission and where they can set precedent.
 4. **Note**: EFF takes a limited number of cases and prioritizes those with broad impact potential.
 
+## Key Staff for Software Rights
+
+- Lee Tien — Legislative Director and Adams Chair for Internet Rights (policy and legislative advocacy)
+
 ## Key Attorneys for Software Rights
 
 - Cindy Cohn — former Executive Director, lead attorney in Bernstein v. DOJ

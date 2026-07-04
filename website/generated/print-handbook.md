@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-06-25</dd>
+        <dd>2026-07-04</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>39</dd>
+        <dd>81</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>61</dd>
+        <dd>112</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -68,17 +68,28 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Attorney
 
+- [Aaron Williamson](#PERSON-AARON-WILLIAMSON) (`PERSON-AARON-WILLIAMSON`)
+- [Alex Abdo](#PERSON-ALEX-ABDO) (`PERSON-ALEX-ABDO`)
+- [Ben Wizner](#PERSON-BEN-WIZNER) (`PERSON-BEN-WIZNER`)
 - [Cindy Cohn](#PERSON-CINDY-COHN) (`PERSON-CINDY-COHN`)
 - [Corynne McSherry](#PERSON-CORYNNE-MCSHERRY) (`PERSON-CORYNNE-MCSHERRY`)
 - [Eben Moglen](#PERSON-EBEN-MOGLEN) (`PERSON-EBEN-MOGLEN`)
+- [Esha Bhandari](#PERSON-ESHA-BHANDARI) (`PERSON-ESHA-BHANDARI`)
+- [Heather Meeker](#PERSON-HEATHER-MEEKER) (`PERSON-HEATHER-MEEKER`)
+- [Jameel Jaffer](#PERSON-JAMEEL-JAFFER) (`PERSON-JAMEEL-JAFFER`)
 - [Jennifer Granick](#PERSON-JENNIFER-GRANICK) (`PERSON-JENNIFER-GRANICK`)
+- [Katie Fallow](#PERSON-KATIE-FALLOW) (`PERSON-KATIE-FALLOW`)
 - [Kit Walsh](#PERSON-KIT-WALSH) (`PERSON-KIT-WALSH`)
+- [Lee Tien](#PERSON-LEE-TIEN) (`PERSON-LEE-TIEN`)
 - [Mitch Stoltz](#PERSON-MITCH-STOLTZ) (`PERSON-MITCH-STOLTZ`)
+- [Nathan Freed Wessler](#PERSON-NATHAN-FREED-WESSLER) (`PERSON-NATHAN-FREED-WESSLER`)
+- [Pamela Chestek](#PERSON-PAMELA-CHESTEK) (`PERSON-PAMELA-CHESTEK`)
 
 ### Case
 
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
@@ -90,19 +101,49 @@ Knowledge records included in this handbook, grouped by type.
 
 - [American Civil Liberties Union](#ORG-ACLU) (`ORG-ACLU`)
 - [Center for Democracy and Technology](#ORG-CDT) (`ORG-CDT`)
+- [Cooley](#ORG-COOLEY) (`ORG-COOLEY`)
 - [Electronic Frontier Foundation](#ORG-EFF) (`ORG-EFF`)
+- [Electronic Privacy Information Center](#ORG-EPIC) (`ORG-EPIC`)
+- [Fenwick & West](#ORG-FENWICK) (`ORG-FENWICK`)
 - [Free Software Foundation](#ORG-FSF) (`ORG-FSF`)
+- [Institute for Free Speech](#ORG-INSTITUTE-FOR-FREE-SPEECH) (`ORG-INSTITUTE-FOR-FREE-SPEECH`)
 - [Institute for Justice](#ORG-INSTITUTE-FOR-JUSTICE) (`ORG-INSTITUTE-FOR-JUSTICE`)
 - [Knight First Amendment Institute](#ORG-KNIGHT-FIRST-AMENDMENT) (`ORG-KNIGHT-FIRST-AMENDMENT`)
 - [Open Source Initiative](#ORG-OSI) (`ORG-OSI`)
+- [Perkins Coie](#ORG-PERKINS-COIE) (`ORG-PERKINS-COIE`)
+- [Public Knowledge](#ORG-PUBLIC-KNOWLEDGE) (`ORG-PUBLIC-KNOWLEDGE`)
+- [Reporters Committee for Freedom of the Press](#ORG-RCFP) (`ORG-RCFP`)
 - [Software Freedom Law Center](#ORG-SFLC) (`ORG-SFLC`)
 - [Signal](#ORG-SIGNAL) (`ORG-SIGNAL`)
 - [Software Freedom Conservancy](#ORG-SOFTWARE-FREEDOM-CONSERVANCY) (`ORG-SOFTWARE-FREEDOM-CONSERVANCY`)
 - [Tor Project](#ORG-TOR-PROJECT) (`ORG-TOR-PROJECT`)
+- [Wilson Sonsini Goodrich & Rosati](#ORG-WILSON-SONSINI) (`ORG-WILSON-SONSINI`)
 
 ### Person
 
+- [Alan Kay](#PERSON-ALAN-KAY) (`PERSON-ALAN-KAY`)
+- [Andrew Russell](#PERSON-ANDREW-RUSSELL) (`PERSON-ANDREW-RUSSELL`)
+- [Bruce Schneier](#PERSON-BRUCE-SCHNEIER) (`PERSON-BRUCE-SCHNEIER`)
+- [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
+- [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
+- [Janet Abbate](#PERSON-JANET-ABBATE) (`PERSON-JANET-ABBATE`)
+- [Jonathan Zittrain](#PERSON-JONATHAN-ZITTRAIN) (`PERSON-JONATHAN-ZITTRAIN`)
+- [Lauren Weinstein](#PERSON-LAUREN-WEINSTEIN) (`PERSON-LAUREN-WEINSTEIN`)
 - [Lawrence Lessig](#PERSON-LAWRENCE-LESSIG) (`PERSON-LAWRENCE-LESSIG`)
+- [Matt Blaze](#PERSON-MATT-BLAZE) (`PERSON-MATT-BLAZE`)
+- [Orin Kerr](#PERSON-ORIN-KERR) (`PERSON-ORIN-KERR`)
+- [Paul Vixie](#PERSON-PAUL-VIXIE) (`PERSON-PAUL-VIXIE`)
+- [Phil Zimmermann](#PERSON-PHIL-ZIMMERMANN) (`PERSON-PHIL-ZIMMERMANN`)
+- [Rand Paul](#PERSON-RAND-PAUL) (`PERSON-RAND-PAUL`)
+- [Ro Khanna](#PERSON-RO-KHANNA) (`PERSON-RO-KHANNA`)
+- [Robert Kahn](#PERSON-ROBERT-KAHN) (`PERSON-ROBERT-KAHN`)
+- [Ron Rivest](#PERSON-RON-RIVEST) (`PERSON-RON-RIVEST`)
+- [Ron Wyden](#PERSON-RON-WYDEN) (`PERSON-RON-WYDEN`)
+- [Thomas Haigh](#PERSON-THOMAS-HAIGH) (`PERSON-THOMAS-HAIGH`)
+- [Tim Berners-Lee](#PERSON-TIM-BERNERS-LEE) (`PERSON-TIM-BERNERS-LEE`)
+- [Vint Cerf](#PERSON-VINT-CERF) (`PERSON-VINT-CERF`)
+- [Whitfield Diffie](#PERSON-WHITFIELD-DIFFIE) (`PERSON-WHITFIELD-DIFFIE`)
+- [Zoe Lofgren](#PERSON-ZOE-LOFGREN) (`PERSON-ZOE-LOFGREN`)
 
 ### Protocol
 
@@ -112,8 +153,9 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Statute
 
-- [18 U.S.C. § 1030](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
+- [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
+- [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
 
 ### Topic
 
@@ -139,14 +181,32 @@ Quick reference for knowledge records included in this handbook.
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
 
-### 18 U.S.C. § 1030 { #STAT-CFAA-1030-glossary }
+### Aaron Williamson { #PERSON-AARON-WILLIAMSON-glossary }
 
-- **Record ID:** `STAT-CFAA-1030`
-- **Type:** statute
+- **Record ID:** `PERSON-AARON-WILLIAMSON`
+- **Type:** attorney
 - **Status:** draft
-- **Tags:** computer-crime, technology-law
+- **Tags:** attorney, open-source-software, digital-rights
 
-18 U.S.C. § 1030 is a United States criminal statute concerning fraud and related activity in connection with computers.
+Aaron Williamson is principal attorney at Williamson Legal, PLLC, advising clients on open source software, technology transactions, CFAA and DMCA liability, and nonprofit governance.
+
+### Alan Kay { #PERSON-ALAN-KAY-glossary }
+
+- **Record ID:** `PERSON-ALAN-KAY`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, open-source-software, internet-architecture, software-distribution
+
+Alan Kay is a Turing Award-winning computer scientist who pioneered object-oriented programming, led development of Smalltalk, and helped define the personal computing and graphical user interface paradigms at Xerox PARC and ARPA.
+
+### Alex Abdo { #PERSON-ALEX-ABDO-glossary }
+
+- **Record ID:** `PERSON-ALEX-ABDO`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, first-amendment, privacy, surveillance, digital-rights
+
+Alex Abdo is litigation director of the Knight First Amendment Institute and a former ACLU attorney who litigated NSA surveillance, encryption, and government transparency cases.
 
 ### American Civil Liberties Union { #ORG-ACLU-glossary }
 
@@ -157,6 +217,24 @@ Quick reference for knowledge records included in this handbook.
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
 
+### Andrew Russell { #PERSON-ANDREW-RUSSELL-glossary }
+
+- **Record ID:** `PERSON-ANDREW-RUSSELL`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, internet-governance, open-source-software
+
+Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technology whose book Open Standards and the Digital Age documents how open-systems ideology shaped modern internet and networking standards.
+
+### Ben Wizner { #PERSON-BEN-WIZNER-glossary }
+
+- **Record ID:** `PERSON-BEN-WIZNER`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, first-amendment, privacy, digital-rights
+
+Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democracy, overseeing work on free speech, privacy, technology, national security, and immigrants' rights.
+
 ### Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ-glossary }
 
 - **Record ID:** `CASE-BERNSTEIN-V-DOJ`
@@ -165,6 +243,15 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+### Bruce Schneier { #PERSON-BRUCE-SCHNEIER-glossary }
+
+- **Record ID:** `PERSON-BRUCE-SCHNEIER`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, cryptography, privacy, digital-rights, internet-governance
+
+Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
 
 ### Carpenter v. United States { #CASE-CARPENTER-V-US-glossary }
 
@@ -211,6 +298,24 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
 
+### Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030-glossary }
+
+- **Record ID:** `STAT-CFAA-1030`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** computer-crime, digital-rights, internet-governance
+
+The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. federal anti-hacking statute, originally enacted in 1984 and substantially amended in 1986, 1994, 1996, 2001, 2002, and 2008, which criminalizes unauthorized access to computers and has been widely criticized for vagueness and prosecutorial overreach.
+
+### Cooley { #ORG-COOLEY-glossary }
+
+- **Record ID:** `ORG-COOLEY`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Cooley is a global law firm that is the
+
 ### Corynne McSherry { #PERSON-CORYNNE-MCSHERRY-glossary }
 
 - **Record ID:** `PERSON-CORYNNE-MCSHERRY`
@@ -219,6 +324,24 @@ Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibi
 - **Tags:** attorney, copyright, digital-rights, intermediary-liability, speech-and-code
 
 Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.
+
+### danah boyd { #PERSON-DANAH-BOYD-glossary }
+
+- **Record ID:** `PERSON-DANAH-BOYD`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, privacy, internet-governance, digital-rights
+
+danah boyd is a partner researcher at Microsoft Research, founder of the Data & Society Research Institute, and Distinguished Visiting Professor at Georgetown University who studies social media, algorithmic bias, privacy, and the societal impact of data-driven systems.
+
+### David P. Reed { #PERSON-DAVID-REED-glossary }
+
+- **Record ID:** `PERSON-DAVID-REED`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, distributed-systems, network-protocols
+
+David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
 
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
@@ -247,6 +370,33 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 
 Electronic Frontier Foundation is a U.S. nonprofit organization that, according to its official pages, defends civil liberties in the digital world.
 
+### Electronic Privacy Information Center { #ORG-EPIC-glossary }
+
+- **Record ID:** `ORG-EPIC`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, privacy, digital-rights, civil-society, outreach
+
+EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.
+
+### Esha Bhandari { #PERSON-ESHA-BHANDARI-glossary }
+
+- **Record ID:** `PERSON-ESHA-BHANDARI`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, digital-rights, privacy, first-amendment
+
+Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.
+
+### Fenwick & West { #ORG-FENWICK-glossary }
+
+- **Record ID:** `ORG-FENWICK`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+
 ### First Amendment { #TOPIC-FIRST-AMENDMENT-glossary }
 
 - **Record ID:** `TOPIC-FIRST-AMENDMENT`
@@ -274,6 +424,33 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 
 The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
 
+### Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE-glossary }
+
+- **Record ID:** `CASE-GOOGLE-V-ORACLE`
+- **Type:** case
+- **Status:** draft
+- **Tags:** copyright, speech-and-code, digital-rights, open-source-software
+
+Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
+
+### Heather Meeker { #PERSON-HEATHER-MEEKER-glossary }
+
+- **Record ID:** `PERSON-HEATHER-MEEKER`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, open-source-software
+
+Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
+
+### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH-glossary }
+
+- **Record ID:** `ORG-INSTITUTE-FOR-FREE-SPEECH`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Institute for Free Speech is a U.S. nonprofit that litigates and advocates to protect First Amendment rights to speak, publish, assemble, and petition government, with a focus on political speech and campaign finance law.
+
 ### Institute for Justice { #ORG-INSTITUTE-FOR-JUSTICE-glossary }
 
 - **Record ID:** `ORG-INSTITUTE-FOR-JUSTICE`
@@ -292,6 +469,24 @@ The Institute for Justice is a nonprofit public interest law firm whose mission 
 
 Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.
 
+### Jameel Jaffer { #PERSON-JAMEEL-JAFFER-glossary }
+
+- **Record ID:** `PERSON-JAMEEL-JAFFER`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, first-amendment, privacy, digital-rights
+
+Jameel Jaffer is the inaugural executive director of the Knight First Amendment Institute at Columbia University and a former ACLU litigator known for post-9/11 transparency, surveillance, and national security cases.
+
+### Janet Abbate { #PERSON-JANET-ABBATE-glossary }
+
+- **Record ID:** `PERSON-JANET-ABBATE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, internet-governance, digital-rights
+
+Janet Abbate is a Virginia Tech professor of science, technology, and society and author of Inventing the Internet, the standard academic history of how ARPANET became the public Internet.
+
 ### Jennifer Granick { #PERSON-JENNIFER-GRANICK-glossary }
 
 - **Record ID:** `PERSON-JENNIFER-GRANICK`
@@ -300,6 +495,15 @@ Intermediary liability concerns when online platforms, service providers, or oth
 - **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
 
 Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project, who litigates, speaks, and writes about privacy, security, technology, and constitutional rights.
+
+### Jonathan Zittrain { #PERSON-JONATHAN-ZITTRAIN-glossary }
+
+- **Record ID:** `PERSON-JONATHAN-ZITTRAIN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, digital-rights, internet-governance, privacy
+
+Jonathan Zittrain is the George Bemis Professor of International Law at Harvard Law School, co-founder of the Berkman Klein Center, and a professor of computer science who is a leading public voice on internet law, platform governance, and digital technology policy.
 
 ### Junger v. Daley { #CASE-JUNGER-V-DALEY-glossary }
 
@@ -319,6 +523,15 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 
 Kademlia is a peer-to-peer distributed hash table described in a 2002 paper by Petar Maymounkov and David Mazières.
 
+### Katie Fallow { #PERSON-KATIE-FALLOW-glossary }
+
+- **Record ID:** `PERSON-KATIE-FALLOW`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, first-amendment, digital-rights
+
+Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.
+
 ### Kit Walsh { #PERSON-KIT-WALSH-glossary }
 
 - **Record ID:** `PERSON-KIT-WALSH`
@@ -337,6 +550,15 @@ Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and D
 
 The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.
 
+### Lauren Weinstein { #PERSON-LAUREN-WEINSTEIN-glossary }
+
+- **Record ID:** `PERSON-LAUREN-WEINSTEIN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, privacy, digital-rights, censorship-resistance
+
+Lauren Weinstein is an internet pioneer who was present at ARPANET's first site at UCLA, founder of People For Internet Responsibility (PFIR), the Network Neutrality Squad (NNSquad), and the PRIVACY Forum, and a leading voice for net neutrality, internet freedom, and privacy rights.
+
 ### Lawrence Lessig { #PERSON-LAWRENCE-LESSIG-glossary }
 
 - **Record ID:** `PERSON-LAWRENCE-LESSIG`
@@ -346,6 +568,24 @@ The Knight First Amendment Institute at Columbia University defends the freedoms
 
 Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.
 
+### Lee Tien { #PERSON-LEE-TIEN-glossary }
+
+- **Record ID:** `PERSON-LEE-TIEN`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, privacy, digital-rights, internet-governance
+
+Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.
+
+### Matt Blaze { #PERSON-MATT-BLAZE-glossary }
+
+- **Record ID:** `PERSON-MATT-BLAZE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, cryptography, privacy, digital-rights
+
+Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
+
 ### Mitch Stoltz { #PERSON-MITCH-STOLTZ-glossary }
 
 - **Record ID:** `PERSON-MITCH-STOLTZ`
@@ -354,6 +594,15 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 - **Tags:** attorney, open-source-software, copyright, digital-rights, speech-and-code
 
 Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation who focuses on copyright, trademark, antitrust, telecommunications, and free speech, with particular work fighting the use of copyright as a tool for censorship and keeping the internet open for creativity and innovation.
+
+### Nathan Freed Wessler { #PERSON-NATHAN-FREED-WESSLER-glossary }
+
+- **Record ID:** `PERSON-NATHAN-FREED-WESSLER`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
+
+Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.
 
 ### Onion Routing { #TOPIC-ONION-ROUTING-glossary }
 
@@ -382,6 +631,15 @@ Safe harbor in U.S. copyright law commonly refers to limitations on intermediary
 
 The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.
 
+### Orin Kerr { #PERSON-ORIN-KERR-glossary }
+
+- **Record ID:** `PERSON-ORIN-KERR`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, digital-rights, privacy, fourth-amendment
+
+Orin Kerr is the Fred C. Stevenson Research Professor at George Washington University Law School and one of the most cited academic authorities on the Computer Fraud and Abuse Act, electronic surveillance law, and Fourth Amendment issues in networked environments.
+
 ### Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC-glossary }
 
 - **Record ID:** `CASE-PACKINGHAM-V-NC`
@@ -390,6 +648,24 @@ The Open Source Initiative is a non-profit corporation with global scope formed 
 - **Tags:** first-amendment, internet-governance, digital-rights
 
 Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.
+
+### Pamela Chestek { #PERSON-PAMELA-CHESTEK-glossary }
+
+- **Record ID:** `PERSON-PAMELA-CHESTEK`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, open-source-software
+
+Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
+
+### Paul Vixie { #PERSON-PAUL-VIXIE-glossary }
+
+- **Record ID:** `PERSON-PAUL-VIXIE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, network-protocols, cryptography
+
+Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
 
 ### Perfect 10, Inc. v. CCBill LLC { #CASE-PERFECT10-V-CCBILL-glossary }
 
@@ -400,6 +676,42 @@ Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North 
 
 Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA § 512 safe harbor requirements for online service providers.
 
+### Perkins Coie { #ORG-PERKINS-COIE-glossary }
+
+- **Record ID:** `ORG-PERKINS-COIE`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Perkins Coie is a law firm with over 1,200 attorneys named 2026 "Law Firm of the Year" in Technology Law by Best Lawyers, with a Technology Transactions & Privacy practice advising emerging and established technology companies.
+
+### Phil Zimmermann { #PERSON-PHIL-ZIMMERMANN-glossary }
+
+- **Record ID:** `PERSON-PHIL-ZIMMERMANN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, cryptography, digital-rights, privacy
+
+Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.
+
+### Public Knowledge { #ORG-PUBLIC-KNOWLEDGE-glossary }
+
+- **Record ID:** `ORG-PUBLIC-KNOWLEDGE`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, digital-rights, internet-governance, civil-society, outreach
+
+Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an open internet, and access to affordable communications tools and creative works through copyright, telecommunications, and internet policy advocacy.
+
+### Rand Paul { #PERSON-RAND-PAUL-glossary }
+
+- **Record ID:** `PERSON-RAND-PAUL`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, privacy, fourth-amendment, surveillance, digital-rights
+
+Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
+
 ### Reno v. American Civil Liberties Union { #CASE-RENO-V-ACLU-glossary }
 
 - **Record ID:** `CASE-RENO-V-ACLU`
@@ -408,6 +720,60 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 - **Tags:** first-amendment, internet-governance, digital-rights, speech-and-code
 
 Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.
+
+### Reporters Committee for Freedom of the Press { #ORG-RCFP-glossary }
+
+- **Record ID:** `ORG-RCFP`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, digital-rights, civil-society, outreach
+
+The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.
+
+### Ro Khanna { #PERSON-RO-KHANNA-glossary }
+
+- **Record ID:** `PERSON-RO-KHANNA`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, privacy
+
+Ro Khanna is a U.S. Representative from California (Silicon Valley) who drafted the Internet Bill of Rights principles endorsed by Tim Berners-Lee, advocating for net neutrality, data privacy, universal internet access, and platform transparency.
+
+### Robert Kahn { #PERSON-ROBERT-KAHN-glossary }
+
+- **Record ID:** `PERSON-ROBERT-KAHN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, internet-governance
+
+Robert Kahn co-invented TCP/IP with Vint Cerf, led DARPA's Internet program, coined open-architecture networking, and founded CNRI; he is a foundational authority on packet-switched network design and Internet governance.
+
+### Ron Rivest { #PERSON-RON-RIVEST-glossary }
+
+- **Record ID:** `PERSON-RON-RIVEST`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, cryptography, privacy, digital-rights
+
+Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryptosystem, and a leading researcher in cryptography, algorithms, and election security who frequently advises on the feasibility and design of cryptographic systems.
+
+### Ron Wyden { #PERSON-RON-WYDEN-glossary }
+
+- **Record ID:** `PERSON-RON-WYDEN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, privacy, first-amendment
+
+Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
+
+### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230-glossary }
+
+- **Record ID:** `STAT-SECTION-230`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** internet-governance, intermediary-liability, digital-rights, first-amendment
+
+Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
 
 ### Signal { #ORG-SIGNAL-glossary }
 
@@ -435,6 +801,24 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
+
+### Thomas Haigh { #PERSON-THOMAS-HAIGH-glossary }
+
+- **Record ID:** `PERSON-THOMAS-HAIGH`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, open-source-software
+
+Thomas Haigh is a historian of computing at the University of Wisconsin–Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.
+
+### Tim Berners-Lee { #PERSON-TIM-BERNERS-LEE-glossary }
+
+- **Record ID:** `PERSON-TIM-BERNERS-LEE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, internet-governance, open-source-software, privacy
+
+Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds faculty appointments at MIT and Oxford; he is a leading voice on open web standards, data sovereignty, and decentralized architectures such as Solid.
 
 ### Tor Project { #ORG-TOR-PROJECT-glossary }
 
@@ -481,9 +865,78 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 
 Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.
 
+### Vint Cerf { #PERSON-VINT-CERF-glossary }
+
+- **Record ID:** `PERSON-VINT-CERF`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-architecture, internet-governance, digital-rights
+
+Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, a former ICANN chairman and Internet Society founding president, and Google's Chief Internet Evangelist who frequently speaks on internet architecture, governance, and policy.
+
+### Whitfield Diffie { #PERSON-WHITFIELD-DIFFIE-glossary }
+
+- **Record ID:** `PERSON-WHITFIELD-DIFFIE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, cryptography, digital-rights, privacy
+
+Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.
+
+### Wilson Sonsini Goodrich & Rosati { #ORG-WILSON-SONSINI-glossary }
+
+- **Record ID:** `ORG-WILSON-SONSINI`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to technology companies, representing more than 350 public and private software companies and more venture-backed software companies than any other U.S. law firm.
+
+### Zoe Lofgren { #PERSON-ZOE-LOFGREN-glossary }
+
+- **Record ID:** `PERSON-ZOE-LOFGREN`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, computer-crime
+
+Zoe Lofgren is a U.S. Representative from California who introduced Aaron's Law to reform the Computer Fraud and Abuse Act, working to distinguish common internet activity from harmful attacks and prevent prosecutorial overreach.
+
 ## Knowledge Records
 
 ### Attorney
+
+#### Aaron Williamson { #PERSON-AARON-WILLIAMSON }
+
+- **Record ID:** `PERSON-AARON-WILLIAMSON`
+- **Status:** draft
+- **Sources:** Aaron Williamson Williamson Legal Team Page (`SRC-WILLIAMSON-LEGAL`)
+- **Tags:** attorney, open-source-software, digital-rights
+
+Aaron Williamson is principal attorney at Williamson Legal, PLLC, advising clients on open source software, technology transactions, CFAA and DMCA liability, and nonprofit governance.
+
+---
+
+#### Alex Abdo { #PERSON-ALEX-ABDO }
+
+- **Record ID:** `PERSON-ALEX-ABDO`
+- **Status:** draft
+- **Sources:** Alex Abdo Knight Institute Biography (`SRC-ABDO-KNIGHT`)
+- **Tags:** attorney, first-amendment, privacy, surveillance, digital-rights
+
+Alex Abdo is litigation director of the Knight First Amendment Institute and a former ACLU attorney who litigated NSA surveillance, encryption, and government transparency cases.
+
+---
+
+#### Ben Wizner { #PERSON-BEN-WIZNER }
+
+- **Record ID:** `PERSON-BEN-WIZNER`
+- **Status:** draft
+- **Sources:** Ben Wizner ACLU Staff Biography (`SRC-WIZNER-ACLU`)
+- **Tags:** attorney, first-amendment, privacy, digital-rights
+
+Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democracy, overseeing work on free speech, privacy, technology, national security, and immigrants' rights.
+
+---
 
 #### Cindy Cohn { #PERSON-CINDY-COHN }
 
@@ -518,6 +971,39 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 
 ---
 
+#### Esha Bhandari { #PERSON-ESHA-BHANDARI }
+
+- **Record ID:** `PERSON-ESHA-BHANDARI`
+- **Status:** draft
+- **Sources:** Esha Bhandari ACLU Staff Biography (`SRC-BHANDARI-ACLU`)
+- **Tags:** attorney, digital-rights, privacy, first-amendment
+
+Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.
+
+---
+
+#### Heather Meeker { #PERSON-HEATHER-MEEKER }
+
+- **Record ID:** `PERSON-HEATHER-MEEKER`
+- **Status:** draft
+- **Sources:** Heather Meeker About Page (`SRC-MEEKER-ABOUT`)
+- **Tags:** attorney, open-source-software
+
+Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
+
+---
+
+#### Jameel Jaffer { #PERSON-JAMEEL-JAFFER }
+
+- **Record ID:** `PERSON-JAMEEL-JAFFER`
+- **Status:** draft
+- **Sources:** Jameel Jaffer Knight Institute Biography (`SRC-JAFFER-KNIGHT`)
+- **Tags:** attorney, first-amendment, privacy, digital-rights
+
+Jameel Jaffer is the inaugural executive director of the Knight First Amendment Institute at Columbia University and a former ACLU litigator known for post-9/11 transparency, surveillance, and national security cases.
+
+---
+
 #### Jennifer Granick { #PERSON-JENNIFER-GRANICK }
 
 - **Record ID:** `PERSON-JENNIFER-GRANICK`
@@ -526,6 +1012,17 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 - **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
 
 Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's Speech, Privacy, and Technology Project, who litigates, speaks, and writes about privacy, security, technology, and constitutional rights.
+
+---
+
+#### Katie Fallow { #PERSON-KATIE-FALLOW }
+
+- **Record ID:** `PERSON-KATIE-FALLOW`
+- **Status:** draft
+- **Sources:** Katie Fallow Knight Institute Biography (`SRC-FALLOW-KNIGHT`)
+- **Tags:** attorney, first-amendment, digital-rights
+
+Katie Fallow is deputy litigation director at the Knight First Amendment Institute, where she litigates free speech and press issues in digital spaces including government use of social media.
 
 ---
 
@@ -540,6 +1037,17 @@ Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and D
 
 ---
 
+#### Lee Tien { #PERSON-LEE-TIEN }
+
+- **Record ID:** `PERSON-LEE-TIEN`
+- **Status:** draft
+- **Sources:** Lee Tien EFF Staff Biography (`SRC-TIEN-EFF`)
+- **Tags:** attorney, privacy, digital-rights, internet-governance
+
+Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.
+
+---
+
 #### Mitch Stoltz { #PERSON-MITCH-STOLTZ }
 
 - **Record ID:** `PERSON-MITCH-STOLTZ`
@@ -548,6 +1056,28 @@ Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and D
 - **Tags:** attorney, open-source-software, copyright, digital-rights, speech-and-code
 
 Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation who focuses on copyright, trademark, antitrust, telecommunications, and free speech, with particular work fighting the use of copyright as a tool for censorship and keeping the internet open for creativity and innovation.
+
+---
+
+#### Nathan Freed Wessler { #PERSON-NATHAN-FREED-WESSLER }
+
+- **Record ID:** `PERSON-NATHAN-FREED-WESSLER`
+- **Status:** draft
+- **Sources:** Nathan Freed Wessler ACLU Staff Biography (`SRC-WESSLER-ACLU`)
+- **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
+
+Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.
+
+---
+
+#### Pamela Chestek { #PERSON-PAMELA-CHESTEK }
+
+- **Record ID:** `PERSON-PAMELA-CHESTEK`
+- **Status:** draft
+- **Sources:** Pamela Chestek About Page (`SRC-CHESTEK-ABOUT`)
+- **Tags:** attorney, open-source-software
+
+Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
 
 ---
 
@@ -572,6 +1102,17 @@ Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999),
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+---
+
+#### Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
+
+- **Record ID:** `CASE-GOOGLE-V-ORACLE`
+- **Status:** draft
+- **Sources:** Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`SRC-GOOGLE-ORACLE-JUSTIA`)
+- **Tags:** copyright, speech-and-code, digital-rights, open-source-software
+
+Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
 
 ---
 
@@ -665,6 +1206,17 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 
 ---
 
+#### Cooley { #ORG-COOLEY }
+
+- **Record ID:** `ORG-COOLEY`
+- **Status:** draft
+- **Sources:** Cooley Technology Industry Practice Page (`SRC-COOLEY-TECH`)
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Cooley is a global law firm that is the
+
+---
+
 #### Electronic Frontier Foundation { #ORG-EFF }
 
 - **Record ID:** `ORG-EFF`
@@ -676,6 +1228,28 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 
 ---
 
+#### Electronic Privacy Information Center { #ORG-EPIC }
+
+- **Record ID:** `ORG-EPIC`
+- **Status:** draft
+- **Sources:** EPIC About Page (`SRC-EPIC-ABOUT`), EPIC Contact Page (`SRC-EPIC-CONTACT`)
+- **Tags:** organization, privacy, digital-rights, civil-society, outreach
+
+EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.
+
+---
+
+#### Fenwick & West { #ORG-FENWICK }
+
+- **Record ID:** `ORG-FENWICK`
+- **Status:** draft
+- **Sources:** Fenwick Technology Transactions Practice Page (`SRC-FENWICK-TECH`), Fenwick & West Firm History Page (`SRC-FENWICK-HISTORY`)
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+
+---
+
 #### Free Software Foundation { #ORG-FSF }
 
 - **Record ID:** `ORG-FSF`
@@ -684,6 +1258,17 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
+
+---
+
+#### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH }
+
+- **Record ID:** `ORG-INSTITUTE-FOR-FREE-SPEECH`
+- **Status:** draft
+- **Sources:** Institute for Free Speech About Us Page (`SRC-IFS-ABOUT-US`)
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Institute for Free Speech is a U.S. nonprofit that litigates and advocates to protect First Amendment rights to speak, publish, assemble, and petition government, with a focus on political speech and campaign finance law.
 
 ---
 
@@ -717,6 +1302,39 @@ The Knight First Amendment Institute at Columbia University defends the freedoms
 - **Tags:** organization, open-source-software, civil-society, outreach
 
 The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.
+
+---
+
+#### Perkins Coie { #ORG-PERKINS-COIE }
+
+- **Record ID:** `ORG-PERKINS-COIE`
+- **Status:** draft
+- **Sources:** Perkins Coie Technology Transactions & Privacy Law Practice Page (`SRC-PERKINS-COIE-TECH`)
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Perkins Coie is a law firm with over 1,200 attorneys named 2026 "Law Firm of the Year" in Technology Law by Best Lawyers, with a Technology Transactions & Privacy practice advising emerging and established technology companies.
+
+---
+
+#### Public Knowledge { #ORG-PUBLIC-KNOWLEDGE }
+
+- **Record ID:** `ORG-PUBLIC-KNOWLEDGE`
+- **Status:** draft
+- **Sources:** Public Knowledge About Page (`SRC-PUBLIC-KNOWLEDGE-ABOUT`), Public Knowledge Contact Page (`SRC-PUBLIC-KNOWLEDGE-CONTACT`)
+- **Tags:** organization, digital-rights, internet-governance, civil-society, outreach
+
+Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an open internet, and access to affordable communications tools and creative works through copyright, telecommunications, and internet policy advocacy.
+
+---
+
+#### Reporters Committee for Freedom of the Press { #ORG-RCFP }
+
+- **Record ID:** `ORG-RCFP`
+- **Status:** draft
+- **Sources:** Reporters Committee What We Do Page (`SRC-RCFP-WHAT-WE-DO`), Reporters Committee Contact Page (`SRC-RCFP-CONTACT`)
+- **Tags:** organization, first-amendment, digital-rights, civil-society, outreach
+
+The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.
 
 ---
 
@@ -764,7 +1382,106 @@ Tor Project is a nonprofit organization documented in OIR from official Tor Proj
 
 ---
 
+#### Wilson Sonsini Goodrich & Rosati { #ORG-WILSON-SONSINI }
+
+- **Record ID:** `ORG-WILSON-SONSINI`
+- **Status:** draft
+- **Sources:** Wilson Sonsini Software Industry Practice Page (`SRC-WILSON-SONSINI-SOFTWARE`), Wilson Sonsini Internet Strategy and Litigation Practice Page (`SRC-WILSON-SONSINI-INTERNET`)
+- **Tags:** organization, open-source-software, digital-rights, outreach
+
+Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to technology companies, representing more than 350 public and private software companies and more venture-backed software companies than any other U.S. law firm.
+
+---
+
 ### Person
+
+#### Alan Kay { #PERSON-ALAN-KAY }
+
+- **Record ID:** `PERSON-ALAN-KAY`
+- **Status:** draft
+- **Sources:** Alan Kay Computer History Museum Profile (`SRC-KAY-CHM`)
+- **Tags:** person, open-source-software, internet-architecture, software-distribution
+
+Alan Kay is a Turing Award-winning computer scientist who pioneered object-oriented programming, led development of Smalltalk, and helped define the personal computing and graphical user interface paradigms at Xerox PARC and ARPA.
+
+---
+
+#### Andrew Russell { #PERSON-ANDREW-RUSSELL }
+
+- **Record ID:** `PERSON-ANDREW-RUSSELL`
+- **Status:** draft
+- **Sources:** Andrew L. Russell Professional Profile (`SRC-RUSSELL-PROFILE`)
+- **Tags:** person, internet-architecture, internet-governance, open-source-software
+
+Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technology whose book Open Standards and the Digital Age documents how open-systems ideology shaped modern internet and networking standards.
+
+---
+
+#### Bruce Schneier { #PERSON-BRUCE-SCHNEIER }
+
+- **Record ID:** `PERSON-BRUCE-SCHNEIER`
+- **Status:** draft
+- **Sources:** Bruce Schneier About Page (`SRC-SCHNEIER-ABOUT`)
+- **Tags:** person, cryptography, privacy, digital-rights, internet-governance
+
+Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
+
+---
+
+#### danah boyd { #PERSON-DANAH-BOYD }
+
+- **Record ID:** `PERSON-DANAH-BOYD`
+- **Status:** draft
+- **Sources:** danah boyd Microsoft Research Profile (`SRC-BOYD-MSR`)
+- **Tags:** person, privacy, internet-governance, digital-rights
+
+danah boyd is a partner researcher at Microsoft Research, founder of the Data & Society Research Institute, and Distinguished Visiting Professor at Georgetown University who studies social media, algorithmic bias, privacy, and the societal impact of data-driven systems.
+
+---
+
+#### David P. Reed { #PERSON-DAVID-REED }
+
+- **Record ID:** `PERSON-DAVID-REED`
+- **Status:** draft
+- **Sources:** David P. Reed Official Biography (`SRC-REED-BIO`)
+- **Tags:** person, internet-architecture, distributed-systems, network-protocols
+
+David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
+
+---
+
+#### Janet Abbate { #PERSON-JANET-ABBATE }
+
+- **Record ID:** `PERSON-JANET-ABBATE`
+- **Status:** draft
+- **Sources:** Janet Abbate Virginia Tech Faculty Profile (`SRC-ABBATE-VT`)
+- **Tags:** person, internet-architecture, internet-governance, digital-rights
+
+Janet Abbate is a Virginia Tech professor of science, technology, and society and author of Inventing the Internet, the standard academic history of how ARPANET became the public Internet.
+
+---
+
+#### Jonathan Zittrain { #PERSON-JONATHAN-ZITTRAIN }
+
+- **Record ID:** `PERSON-JONATHAN-ZITTRAIN`
+- **Status:** draft
+- **Sources:** Jonathan L. Zittrain Harvard Law School Faculty Profile (`SRC-ZITTRAIN-HLS`)
+- **Tags:** person, digital-rights, internet-governance, privacy
+
+Jonathan Zittrain is the George Bemis Professor of International Law at Harvard Law School, co-founder of the Berkman Klein Center, and a professor of computer science who is a leading public voice on internet law, platform governance, and digital technology policy.
+
+---
+
+#### Lauren Weinstein { #PERSON-LAUREN-WEINSTEIN }
+
+- **Record ID:** `PERSON-LAUREN-WEINSTEIN`
+- **Status:** draft
+- **Sources:** Lauren Weinstein Biography Page (`SRC-WEINSTEIN-BIO`), Network Neutrality Squad Announcement (`SRC-WEINSTEIN-NNSQUAD`)
+- **Tags:** person, internet-governance, privacy, digital-rights, censorship-resistance
+
+Lauren Weinstein is an internet pioneer who was present at ARPANET's first site at UCLA, founder of People For Internet Responsibility (PFIR), the Network Neutrality Squad (NNSquad), and the PRIVACY Forum, and a leading voice for net neutrality, internet freedom, and privacy rights.
+
+---
 
 #### Lawrence Lessig { #PERSON-LAWRENCE-LESSIG }
 
@@ -774,6 +1491,160 @@ Tor Project is a nonprofit organization documented in OIR from official Tor Proj
 - **Tags:** person, internet-governance, open-source-software, digital-rights, copyright
 
 Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.
+
+---
+
+#### Matt Blaze { #PERSON-MATT-BLAZE }
+
+- **Record ID:** `PERSON-MATT-BLAZE`
+- **Status:** draft
+- **Sources:** Matt Blaze Georgetown Faculty Profile (`SRC-BLAZE-GEORGETOWN`)
+- **Tags:** person, cryptography, privacy, digital-rights
+
+Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
+
+---
+
+#### Orin Kerr { #PERSON-ORIN-KERR }
+
+- **Record ID:** `PERSON-ORIN-KERR`
+- **Status:** draft
+- **Sources:** Orin Kerr George Washington University Law Faculty Page (`SRC-ORIN-KERR-GWU`)
+- **Tags:** person, digital-rights, privacy, fourth-amendment
+
+Orin Kerr is the Fred C. Stevenson Research Professor at George Washington University Law School and one of the most cited academic authorities on the Computer Fraud and Abuse Act, electronic surveillance law, and Fourth Amendment issues in networked environments.
+
+---
+
+#### Paul Vixie { #PERSON-PAUL-VIXIE }
+
+- **Record ID:** `PERSON-PAUL-VIXIE`
+- **Status:** draft
+- **Sources:** Paul Vixie Internet Hall of Fame Profile (`SRC-VIXIE-IHOF`)
+- **Tags:** person, internet-architecture, network-protocols, cryptography
+
+Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
+
+---
+
+#### Phil Zimmermann { #PERSON-PHIL-ZIMMERMANN }
+
+- **Record ID:** `PERSON-PHIL-ZIMMERMANN`
+- **Status:** draft
+- **Sources:** Phil Zimmermann Official Biography (`SRC-ZIMMERMANN-BIO`)
+- **Tags:** person, cryptography, digital-rights, privacy
+
+Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.
+
+---
+
+#### Rand Paul { #PERSON-RAND-PAUL }
+
+- **Record ID:** `PERSON-RAND-PAUL`
+- **Status:** draft
+- **Sources:** Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights (`SRC-PAUL-FOURTH-AMENDMENT`), Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe (`SRC-PAUL-FISA`)
+- **Tags:** person, privacy, fourth-amendment, surveillance, digital-rights
+
+Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
+
+---
+
+#### Ro Khanna { #PERSON-RO-KHANNA }
+
+- **Record ID:** `PERSON-RO-KHANNA`
+- **Status:** draft
+- **Sources:** Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee (`SRC-KHANNA-INTERNET-BILL`)
+- **Tags:** person, internet-governance, digital-rights, privacy
+
+Ro Khanna is a U.S. Representative from California (Silicon Valley) who drafted the Internet Bill of Rights principles endorsed by Tim Berners-Lee, advocating for net neutrality, data privacy, universal internet access, and platform transparency.
+
+---
+
+#### Robert Kahn { #PERSON-ROBERT-KAHN }
+
+- **Record ID:** `PERSON-ROBERT-KAHN`
+- **Status:** draft
+- **Sources:** Robert E. Kahn CNRI Biography (`SRC-KAHN-CNRI`)
+- **Tags:** person, internet-architecture, internet-governance
+
+Robert Kahn co-invented TCP/IP with Vint Cerf, led DARPA's Internet program, coined open-architecture networking, and founded CNRI; he is a foundational authority on packet-switched network design and Internet governance.
+
+---
+
+#### Ron Rivest { #PERSON-RON-RIVEST }
+
+- **Record ID:** `PERSON-RON-RIVEST`
+- **Status:** draft
+- **Sources:** Ronald L. Rivest MIT CSAIL Profile (`SRC-RIVEST-CSAIL`)
+- **Tags:** person, cryptography, privacy, digital-rights
+
+Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryptosystem, and a leading researcher in cryptography, algorithms, and election security who frequently advises on the feasibility and design of cryptographic systems.
+
+---
+
+#### Ron Wyden { #PERSON-RON-WYDEN }
+
+- **Record ID:** `PERSON-RON-WYDEN`
+- **Status:** draft
+- **Sources:** Wyden Remarks at Section 230 Briefing Hosted by EFF (`SRC-WYDEN-SECTION-230`), Wyden Introduces Reforms to the Computer Fraud and Abuse Act (`SRC-WYDEN-AARONS-LAW`)
+- **Tags:** person, internet-governance, digital-rights, privacy, first-amendment
+
+Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
+
+---
+
+#### Thomas Haigh { #PERSON-THOMAS-HAIGH }
+
+- **Record ID:** `PERSON-THOMAS-HAIGH`
+- **Status:** draft
+- **Sources:** Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile (`SRC-HAIGH-UWM`)
+- **Tags:** person, internet-architecture, open-source-software
+
+Thomas Haigh is a historian of computing at the University of Wisconsin–Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.
+
+---
+
+#### Tim Berners-Lee { #PERSON-TIM-BERNERS-LEE }
+
+- **Record ID:** `PERSON-TIM-BERNERS-LEE`
+- **Status:** draft
+- **Sources:** Tim Berners-Lee W3C Biography (`SRC-BERNERS-LEE-W3C`)
+- **Tags:** person, internet-architecture, internet-governance, open-source-software, privacy
+
+Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds faculty appointments at MIT and Oxford; he is a leading voice on open web standards, data sovereignty, and decentralized architectures such as Solid.
+
+---
+
+#### Vint Cerf { #PERSON-VINT-CERF }
+
+- **Record ID:** `PERSON-VINT-CERF`
+- **Status:** draft
+- **Sources:** Vinton G. Cerf Google Research Profile (`SRC-CERF-GOOGLE`)
+- **Tags:** person, internet-architecture, internet-governance, digital-rights
+
+Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, a former ICANN chairman and Internet Society founding president, and Google's Chief Internet Evangelist who frequently speaks on internet architecture, governance, and policy.
+
+---
+
+#### Whitfield Diffie { #PERSON-WHITFIELD-DIFFIE }
+
+- **Record ID:** `PERSON-WHITFIELD-DIFFIE`
+- **Status:** draft
+- **Sources:** Whitfield Diffie Stanford CISAC Profile (`SRC-DIFFIE-CISAC`)
+- **Tags:** person, cryptography, digital-rights, privacy
+
+Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.
+
+---
+
+#### Zoe Lofgren { #PERSON-ZOE-LOFGREN }
+
+- **Record ID:** `PERSON-ZOE-LOFGREN`
+- **Status:** draft
+- **Sources:** Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`SRC-LOFGREN-AARONS-LAW`)
+- **Tags:** person, internet-governance, digital-rights, computer-crime
+
+Zoe Lofgren is a U.S. Representative from California who introduced Aaron's Law to reform the Computer Fraud and Abuse Act, working to distinguish common internet activity from harmful attacks and prevent prosecutorial overreach.
 
 ---
 
@@ -814,14 +1685,14 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 ### Statute
 
-#### 18 U.S.C. § 1030 { #STAT-CFAA-1030 }
+#### Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - **Record ID:** `STAT-CFAA-1030`
 - **Status:** draft
 - **Sources:** 18 U.S.C. § 1030 (`SRC-USC-18-1030-LII`), 18 U.S.C. § 1030 (GovInfo) (`SRC-USC-18-1030-GOVINFO`), Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII) (`SRC-VAN-BUREN-LII`)
-- **Tags:** computer-crime, technology-law
+- **Tags:** computer-crime, digital-rights, internet-governance
 
-18 U.S.C. § 1030 is a United States criminal statute concerning fraud and related activity in connection with computers.
+The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. federal anti-hacking statute, originally enacted in 1984 and substantially amended in 1986, 1994, 1996, 2001, 2002, and 2008, which criminalizes unauthorized access to computers and has been widely criticized for vagueness and prosecutorial overreach.
 
 ---
 
@@ -833,6 +1704,17 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 - **Tags:** copyright, safe-harbor, intermediary-liability
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
+
+---
+
+#### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230 }
+
+- **Record ID:** `STAT-SECTION-230`
+- **Status:** draft
+- **Sources:** 47 U.S.C. § 230 (Cornell LII) (`SRC-SECTION-230-LII`), EFF Section 230 Page (`SRC-SECTION-230-EFF`)
+- **Tags:** internet-governance, intermediary-liability, digital-rights, first-amendment
+
+Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
 
 ---
 
@@ -930,6 +1812,24 @@ Safe harbor in U.S. copyright law commonly refers to limitations on intermediary
 
 Primary sources cited by knowledge records in this edition. This appendix is not the full OIR bibliography.
 
+### Janet Abbate Virginia Tech Faculty Profile
+
+- **Source ID:** `SRC-ABBATE-VT`
+- **Status:** verified
+
+Official Virginia Tech faculty profile for Janet Abbate describing her research on internet and computing history.
+
+---
+
+### Alex Abdo Knight Institute Biography
+
+- **Source ID:** `SRC-ABDO-KNIGHT`
+- **Status:** verified
+
+Official Knight First Amendment Institute biography for litigation director Alex Abdo.
+
+---
+
 ### American Civil Liberties Union Contact Page
 
 - **Source ID:** `SRC-ACLU-CONTACT`
@@ -945,6 +1845,15 @@ Official ACLU contact page with public mailing address, phone numbers, affiliate
 - **Status:** verified
 
 Official ACLU history page describing the organization's founding context and civil liberties mission.
+
+---
+
+### Tim Berners-Lee W3C Biography
+
+- **Source ID:** `SRC-BERNERS-LEE-W3C`
+- **Status:** verified
+
+Official W3C biography for Sir Tim Berners-Lee describing his invention of the World Wide Web and academic appointments at MIT and Oxford.
 
 ---
 
@@ -972,6 +1881,33 @@ EFF retrospective article on the significance of Bernstein v. DOJ in establishin
 - **Status:** verified
 
 Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
+
+---
+
+### Esha Bhandari ACLU Staff Biography
+
+- **Source ID:** `SRC-BHANDARI-ACLU`
+- **Status:** verified
+
+Official ACLU biography for Esha Bhandari, Director of the Speech, Privacy, and Technology Project.
+
+---
+
+### Matt Blaze Georgetown Faculty Profile
+
+- **Source ID:** `SRC-BLAZE-GEORGETOWN`
+- **Status:** verified
+
+Georgetown University faculty profile for Matt Blaze describing his research in cryptography, secure systems, and trust management.
+
+---
+
+### danah boyd Microsoft Research Profile
+
+- **Source ID:** `SRC-BOYD-MSR`
+- **Status:** verified
+
+Microsoft Research profile and institutional announcements for danah boyd describing her role as partner researcher and work on social media, algorithmic bias, and youth online behavior.
 
 ---
 
@@ -1011,6 +1947,24 @@ Official who-we-are page of CDT describing organizational focus and values.
 
 ---
 
+### Vinton G. Cerf Google Research Profile
+
+- **Source ID:** `SRC-CERF-GOOGLE`
+- **Status:** verified
+
+Google Research profile for Vinton G. Cerf describing his role as Chief Internet Evangelist and co-designer of TCP/IP.
+
+---
+
+### Pamela Chestek About Page
+
+- **Source ID:** `SRC-CHESTEK-ABOUT`
+- **Status:** verified
+
+Official Chestek Legal about page for attorney Pamela Chestek's trademark, copyright, and open source practice.
+
+---
+
 ### Cindy Cohn EFF Staff Biography
 
 - **Source ID:** `SRC-COHN-EFF-BIO`
@@ -1038,12 +1992,30 @@ FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation
 
 ---
 
+### Cooley Technology Industry Practice Page
+
+- **Source ID:** `SRC-COOLEY-TECH`
+- **Status:** draft
+
+Official Cooley LLP practice page describing the firm's technology industry representation.
+
+---
+
 ### Universal City Studios v. Corley Opinion Text (Open Casebook)
 
 - **Source ID:** `SRC-CORLEY-LII`
 - **Status:** verified
 
 Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001).
+
+---
+
+### Whitfield Diffie Stanford CISAC Profile
+
+- **Source ID:** `SRC-DIFFIE-CISAC`
+- **Status:** verified
+
+Stanford Center for International Security and Cooperation profile for Whitfield Diffie describing public-key cryptography and policy work.
 
 ---
 
@@ -1065,6 +2037,51 @@ Official EFF contact page with public legal assistance, general information, pre
 
 ---
 
+### EPIC About Page
+
+- **Source ID:** `SRC-EPIC-ABOUT`
+- **Status:** verified
+
+Official Electronic Privacy Information Center about page describing its privacy, free expression, and litigation mission.
+
+---
+
+### EPIC Contact Page
+
+- **Source ID:** `SRC-EPIC-CONTACT`
+- **Status:** verified
+
+Official Electronic Privacy Information Center contact page with mailing address, phone, and inquiry emails.
+
+---
+
+### Katie Fallow Knight Institute Biography
+
+- **Source ID:** `SRC-FALLOW-KNIGHT`
+- **Status:** verified
+
+Official Knight First Amendment Institute biography for deputy litigation director Katie Fallow.
+
+---
+
+### Fenwick & West Firm History Page
+
+- **Source ID:** `SRC-FENWICK-HISTORY`
+- **Status:** draft
+
+Official Fenwick & West page documenting the firm's history and pioneering role in technology law.
+
+---
+
+### Fenwick Technology Transactions Practice Page
+
+- **Source ID:** `SRC-FENWICK-TECH`
+- **Status:** draft
+
+Official Fenwick & West practice page describing the Technology Transactions group.
+
+---
+
 ### Free Software Foundation About Page
 
 - **Source ID:** `SRC-FSF-ABOUT`
@@ -1083,12 +2100,39 @@ Official press page of the Free Software Foundation with founding date and missi
 
 ---
 
+### Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)
+
+- **Source ID:** `SRC-GOOGLE-ORACLE-JUSTIA`
+- **Status:** draft
+
+Justia reproduction of the Supreme Court opinion in Google LLC v. Oracle America, Inc.
+
+---
+
 ### Jennifer Granick ACLU Staff Biography
 
 - **Source ID:** `SRC-GRANICK-ACLU-BIO`
 - **Status:** verified
 
 Official ACLU biography page for Jennifer Granick documenting her role as surveillance and cybersecurity counsel.
+
+---
+
+### Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile
+
+- **Source ID:** `SRC-HAIGH-UWM`
+- **Status:** verified
+
+Official UWM History Department faculty profile for Thomas Haigh describing his research on the history of computing and information technology.
+
+---
+
+### Institute for Free Speech About Us Page
+
+- **Source ID:** `SRC-IFS-ABOUT-US`
+- **Status:** verified
+
+Official Institute for Free Speech about page describing its First Amendment political speech litigation and advocacy mission.
 
 ---
 
@@ -1107,6 +2151,15 @@ Official about page of the Institute for Justice describing its mission and prac
 - **Status:** verified
 
 Official First Amendment issues page of the Institute for Justice describing its free speech litigation.
+
+---
+
+### Jameel Jaffer Knight Institute Biography
+
+- **Source ID:** `SRC-JAFFER-KNIGHT`
+- **Status:** verified
+
+Official Knight First Amendment Institute biography for executive director Jameel Jaffer.
 
 ---
 
@@ -1146,6 +2199,33 @@ Foundational 2002 conference paper by Petar Maymounkov and David Mazières descr
 
 ---
 
+### Robert E. Kahn CNRI Biography
+
+- **Source ID:** `SRC-KAHN-CNRI`
+- **Status:** verified
+
+Official CNRI biography for Robert E. Kahn describing his co-invention of TCP/IP, DARPA Internet program leadership, and founding role at the Corporation for National Research Initiatives.
+
+---
+
+### Alan Kay Computer History Museum Profile
+
+- **Source ID:** `SRC-KAY-CHM`
+- **Status:** verified
+
+Computer History Museum fellow profile for Alan Kay describing object-oriented programming, Smalltalk, and personal computing contributions.
+
+---
+
+### Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee
+
+- **Source ID:** `SRC-KHANNA-INTERNET-BILL`
+- **Status:** draft
+
+Press release from Representative Ro Khanna's office announcing the Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee.
+
+---
+
 ### Knight First Amendment Institute About Page
 
 - **Source ID:** `SRC-KNIGHT-ABOUT`
@@ -1173,12 +2253,30 @@ Official Harvard Law School faculty page for Lawrence Lessig.
 
 ---
 
+### Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law
+
+- **Source ID:** `SRC-LOFGREN-AARONS-LAW`
+- **Status:** draft
+
+Press release from Representative Zoe Lofgren's office announcing the introduction of bipartisan bicameral Aaron's Law to reform the Computer Fraud and Abuse Act.
+
+---
+
 ### Corynne McSherry EFF Staff Biography
 
 - **Source ID:** `SRC-MCSHERRY-EFF-BIO`
 - **Status:** verified
 
 Official EFF biography page for Corynne McSherry documenting her role as Legal Director specializing in intellectual property and free speech.
+
+---
+
+### Heather Meeker About Page
+
+- **Source ID:** `SRC-MEEKER-ABOUT`
+- **Status:** verified
+
+Official Heather Meeker about page documenting her open source licensing practice and background.
 
 ---
 
@@ -1197,6 +2295,15 @@ Official Columbia Law School faculty page for Eben Moglen.
 - **Status:** verified
 
 Columbia Data Science Institute profile of Eben Moglen describing his work with FSF and SFLC.
+
+---
+
+### Orin Kerr George Washington University Law Faculty Page
+
+- **Source ID:** `SRC-ORIN-KERR-GWU`
+- **Status:** verified
+
+Official George Washington University Law School faculty page for Orin Kerr, a leading scholar of computer crime law and the Computer Fraud and Abuse Act.
 
 ---
 
@@ -1236,12 +2343,84 @@ Cornell Legal Information Institute full text of Packingham v. North Carolina.
 
 ---
 
+### Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe
+
+- **Source ID:** `SRC-PAUL-FISA`
+- **Status:** draft
+
+Op-ed by Senator Rand Paul on Fox News describing his FISA reform amendment to protect encryption and Fourth Amendment rights.
+
+---
+
+### Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights
+
+- **Source ID:** `SRC-PAUL-FOURTH-AMENDMENT`
+- **Status:** draft
+
+Press release from Senator Rand Paul's office announcing legislation to restore and protect Fourth Amendment rights.
+
+---
+
 ### Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)
 
 - **Source ID:** `SRC-PERFECT10-V-CCBILL-JUSTIA`
 - **Status:** verified
 
 Ninth Circuit decision addressing DMCA § 512 safe harbor eligibility and red flag knowledge for online service providers.
+
+---
+
+### Perkins Coie Technology Transactions & Privacy Law Practice Page
+
+- **Source ID:** `SRC-PERKINS-COIE-TECH`
+- **Status:** draft
+
+Official Perkins Coie practice page describing the Technology Transactions & Privacy practice group.
+
+---
+
+### Public Knowledge About Page
+
+- **Source ID:** `SRC-PUBLIC-KNOWLEDGE-ABOUT`
+- **Status:** verified
+
+Official Public Knowledge about page describing its mission to promote freedom of expression, an open internet, and balanced copyright policy.
+
+---
+
+### Public Knowledge Contact Page
+
+- **Source ID:** `SRC-PUBLIC-KNOWLEDGE-CONTACT`
+- **Status:** verified
+
+Official Public Knowledge contact page with phone, fax, email, and Washington, D.C. office address.
+
+---
+
+### Reporters Committee Contact Page
+
+- **Source ID:** `SRC-RCFP-CONTACT`
+- **Status:** verified
+
+Official Reporters Committee for Freedom of the Press contact page with hotline, media, and general inquiry paths.
+
+---
+
+### Reporters Committee What We Do Page
+
+- **Source ID:** `SRC-RCFP-WHAT-WE-DO`
+- **Status:** verified
+
+Official Reporters Committee for Freedom of the Press page describing pro bono legal services for journalists and First Amendment litigation.
+
+---
+
+### David P. Reed Official Biography
+
+- **Source ID:** `SRC-REED-BIO`
+- **Status:** verified
+
+Official biography for David P. Reed describing the end-to-end principle, Internet protocol work, and MIT affiliations.
 
 ---
 
@@ -1296,6 +2475,51 @@ RFC Editor publication specifying TLS 1.3.
 - **Status:** verified
 
 RFC Editor publication specifying the Transmission Control Protocol.
+
+---
+
+### Ronald L. Rivest MIT CSAIL Profile
+
+- **Source ID:** `SRC-RIVEST-CSAIL`
+- **Status:** verified
+
+Official MIT CSAIL profile for Ronald L. Rivest describing his role as Institute Professor and RSA co-inventor.
+
+---
+
+### Andrew L. Russell Professional Profile
+
+- **Source ID:** `SRC-RUSSELL-PROFILE`
+- **Status:** verified
+
+Andrew L. Russell's professional profile describing his role at SUNY Polytechnic Institute and scholarship on internet history and open standards.
+
+---
+
+### Bruce Schneier About Page
+
+- **Source ID:** `SRC-SCHNEIER-ABOUT`
+- **Status:** verified
+
+Official about page for Bruce Schneier describing his roles, board memberships, and work in security and privacy.
+
+---
+
+### EFF Section 230 Page
+
+- **Source ID:** `SRC-SECTION-230-EFF`
+- **Status:** verified
+
+EFF's comprehensive page on Section 230 including legislative history, court rulings, and current threats.
+
+---
+
+### 47 U.S.C. § 230 (Cornell LII)
+
+- **Source ID:** `SRC-SECTION-230-LII`
+- **Status:** verified
+
+Cornell Legal Information Institute page for 47 U.S.C. § 230, the Section 230 intermediary liability protection.
 
 ---
 
@@ -1368,6 +2592,15 @@ Official Signal specification for the Extended Triple Diffie-Hellman key agreeme
 - **Status:** verified
 
 Official EFF biography page for Mitch Stoltz documenting his role as Senior Staff Attorney focusing on intellectual property and open source.
+
+---
+
+### Lee Tien EFF Staff Biography
+
+- **Source ID:** `SRC-TIEN-EFF`
+- **Status:** verified
+
+Official EFF staff profile for Lee Tien, Legislative Director and Adams Chair for Internet Rights.
 
 ---
 
@@ -1470,12 +2703,120 @@ Cornell Legal Information Institute page for the Supreme Court decision interpre
 
 ---
 
+### Paul Vixie Internet Hall of Fame Profile
+
+- **Source ID:** `SRC-VIXIE-IHOF`
+- **Status:** verified
+
+Internet Hall of Fame inductee profile for Paul Vixie describing his DNS protocol work and BIND development.
+
+---
+
 ### Kit Walsh EFF Staff Biography
 
 - **Source ID:** `SRC-WALSH-EFF-BIO`
 - **Status:** verified
 
 Official EFF biography page for Kit Walsh documenting her role as Senior Staff Attorney working on free speech and coders' rights.
+
+---
+
+### Lauren Weinstein Biography Page
+
+- **Source ID:** `SRC-WEINSTEIN-BIO`
+- **Status:** verified
+
+Official biography page for Lauren Weinstein describing his work on ARPANET, PFIR, NNSquad, and the PRIVACY Forum.
+
+---
+
+### Network Neutrality Squad Announcement
+
+- **Source ID:** `SRC-WEINSTEIN-NNSQUAD`
+- **Status:** verified
+
+Lauren Weinstein's announcement of the Network Neutrality Squad (NNSquad) as an open-membership effort to keep the internet fair and unhindered.
+
+---
+
+### Nathan Freed Wessler ACLU Staff Biography
+
+- **Source ID:** `SRC-WESSLER-ACLU`
+- **Status:** verified
+
+Official ACLU biography for Nathan Freed Wessler, deputy director of the Speech, Privacy, and Technology Project.
+
+---
+
+### Aaron Williamson Williamson Legal Team Page
+
+- **Source ID:** `SRC-WILLIAMSON-LEGAL`
+- **Status:** verified
+
+Official Williamson Legal team page for principal attorney Aaron Williamson.
+
+---
+
+### Wilson Sonsini Internet Strategy and Litigation Practice Page
+
+- **Source ID:** `SRC-WILSON-SONSINI-INTERNET`
+- **Status:** draft
+
+Official Wilson Sonsini Goodrich & Rosati practice page describing the Internet Strategy and Litigation group.
+
+---
+
+### Wilson Sonsini Software Industry Practice Page
+
+- **Source ID:** `SRC-WILSON-SONSINI-SOFTWARE`
+- **Status:** draft
+
+Official Wilson Sonsini Goodrich & Rosati practice page describing the firm's software industry representation.
+
+---
+
+### Ben Wizner ACLU Staff Biography
+
+- **Source ID:** `SRC-WIZNER-ACLU`
+- **Status:** verified
+
+Official ACLU biography for Ben Wizner, Deputy Legal Director and Director of the Center for Democracy.
+
+---
+
+### Wyden Introduces Reforms to the Computer Fraud and Abuse Act
+
+- **Source ID:** `SRC-WYDEN-AARONS-LAW`
+- **Status:** draft
+
+Press release from Senator Ron Wyden's office announcing the introduction of Aaron's Law to reform the CFAA.
+
+---
+
+### Wyden Remarks at Section 230 Briefing Hosted by EFF
+
+- **Source ID:** `SRC-WYDEN-SECTION-230`
+- **Status:** draft
+
+Press release from Senator Ron Wyden's office regarding his remarks at an EFF-hosted briefing on Section 230.
+
+---
+
+### Phil Zimmermann Official Biography
+
+- **Source ID:** `SRC-ZIMMERMANN-BIO`
+- **Status:** verified
+
+Official biography page for Phil Zimmermann describing PGP creation, export investigation, and cryptography awards.
+
+---
+
+### Jonathan L. Zittrain Harvard Law School Faculty Profile
+
+- **Source ID:** `SRC-ZITTRAIN-HLS`
+- **Status:** verified
+
+Harvard Law School faculty profile for Jonathan Zittrain describing his appointments in law, public policy, and computer science.
 
 ---
 

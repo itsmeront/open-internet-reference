@@ -1,6 +1,6 @@
 {
   "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
-  "record_count": 19,
+  "record_count": 33,
   "records": [
     {
       "id": "ORG-ACLU",
@@ -45,6 +45,25 @@
       "type": "organization"
     },
     {
+      "id": "ORG-COOLEY",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-COOLEY.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-COOLEY.md",
+      "sources": [
+        "SRC-COOLEY-TECH"
+      ],
+      "status": "draft",
+      "summary": "Cooley is a global law firm that is the",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Cooley",
+      "type": "organization"
+    },
+    {
       "id": "ORG-EFF",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-EFF.md",
@@ -62,6 +81,47 @@
         "outreach"
       ],
       "title": "Electronic Frontier Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-EPIC",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-EPIC.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-EPIC.md",
+      "sources": [
+        "SRC-EPIC-ABOUT",
+        "SRC-EPIC-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.",
+      "tags": [
+        "organization",
+        "privacy",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Electronic Privacy Information Center",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-FENWICK",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-FENWICK.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FENWICK.md",
+      "sources": [
+        "SRC-FENWICK-TECH",
+        "SRC-FENWICK-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Fenwick & West",
       "type": "organization"
     },
     {
@@ -83,6 +143,25 @@
         "outreach"
       ],
       "title": "Free Software Foundation",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
+      "sources": [
+        "SRC-IFS-ABOUT-US"
+      ],
+      "status": "draft",
+      "summary": "The Institute for Free Speech is a U.S. nonprofit that litigates and advocates to protect First Amendment rights to speak, publish, assemble, and petition government, with a focus on political speech and campaign finance law.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Institute for Free Speech",
       "type": "organization"
     },
     {
@@ -147,6 +226,67 @@
       "type": "organization"
     },
     {
+      "id": "ORG-PERKINS-COIE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-PERKINS-COIE.md",
+      "sources": [
+        "SRC-PERKINS-COIE-TECH"
+      ],
+      "status": "draft",
+      "summary": "Perkins Coie is a law firm with over 1,200 attorneys named 2026 \"Law Firm of the Year\" in Technology Law by Best Lawyers, with a Technology Transactions & Privacy practice advising emerging and established technology companies.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Perkins Coie",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-PUBLIC-KNOWLEDGE",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+        "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an open internet, and access to affordable communications tools and creative works through copyright, telecommunications, and internet policy advocacy.",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "internet-governance",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Public Knowledge",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-RCFP",
+      "last_verified": "2026-07-04",
+      "path": "knowledge/organizations/ORG-RCFP.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-RCFP.md",
+      "sources": [
+        "SRC-RCFP-WHAT-WE-DO",
+        "SRC-RCFP-CONTACT"
+      ],
+      "status": "draft",
+      "summary": "The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Reporters Committee for Freedom of the Press",
+      "type": "organization"
+    },
+    {
       "id": "ORG-SFLC",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-SFLC.md",
@@ -208,6 +348,26 @@
       "type": "organization"
     },
     {
+      "id": "ORG-WILSON-SONSINI",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/organizations/ORG-WILSON-SONSINI.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md",
+      "sources": [
+        "SRC-WILSON-SONSINI-SOFTWARE",
+        "SRC-WILSON-SONSINI-INTERNET"
+      ],
+      "status": "draft",
+      "summary": "Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to technology companies, representing more than 350 public and private software companies and more venture-backed software companies than any other U.S. law firm.",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Goodrich & Rosati",
+      "type": "organization"
+    },
+    {
       "id": "SRC-ACLU-CONTACT",
       "last_verified": "2026-06-17",
       "path": "bibliography/organizations/SRC-ACLU-CONTACT.md",
@@ -244,57 +404,20 @@
       "type": "source"
     },
     {
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
+      "id": "SRC-COOLEY-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-COOLEY-TECH.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-COOLEY-TECH.md",
       "sources": [],
-      "status": "needs_sources",
-      "summary": "Internal outreach contact list covering organizations, firms, academics, and policymakers potentially relevant to Axona-related legal or policy issues.",
+      "status": "draft",
+      "summary": "Official Cooley LLP practice page describing the firm's technology industry representation.",
       "tags": [
         "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
+        "organization",
+        "open-source-software",
+        "outreach"
       ],
-      "title": "Axona Legal & Public Policy Outreach Contacts",
-      "type": "source"
-    },
-    {
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
-      "sources": [],
-      "status": "needs_sources",
-      "summary": "Expanded internal outreach contact list with direct web links for organizations relevant to Axona-related legal and policy outreach.",
-      "tags": [
-        "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
-      ],
-      "title": "Axona Legal & Public Policy Outreach Contacts Expanded",
-      "type": "source"
-    },
-    {
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
-      "sources": [],
-      "status": "needs_sources",
-      "summary": "Markdown version of an internal outreach contact list covering organizations, firms, academics, and policymakers.",
-      "tags": [
-        "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
-      ],
-      "title": "Axona Legal & Public Policy Outreach Contacts Markdown",
+      "title": "Cooley Technology Industry Practice Page",
       "type": "source"
     },
     {
@@ -332,6 +455,106 @@
       "type": "source"
     },
     {
+      "id": "SRC-EPIC-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-EPIC-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Electronic Privacy Information Center contact page with mailing address, phone, and inquiry emails.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach"
+      ],
+      "title": "EPIC Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-FENWICK-HISTORY",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FENWICK-HISTORY.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Fenwick & West page documenting the firm's history and pioneering role in technology law.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Fenwick & West Firm History Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-FENWICK-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FENWICK-TECH.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FENWICK-TECH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Fenwick & West practice page describing the Technology Transactions group.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Fenwick Technology Transactions Practice Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-PERKINS-COIE-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-PERKINS-COIE-TECH.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Perkins Coie practice page describing the Technology Transactions & Privacy practice group.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Perkins Coie Technology Transactions & Privacy Law Practice Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Public Knowledge contact page with phone, fax, email, and Washington, D.C. office address.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach"
+      ],
+      "title": "Public Knowledge Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-RCFP-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-RCFP-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Reporters Committee for Freedom of the Press contact page with hotline, media, and general inquiry paths.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach",
+        "first-amendment"
+      ],
+      "title": "Reporters Committee Contact Page",
+      "type": "source"
+    },
+    {
       "id": "SRC-TOR-PROJECT-CONTACT",
       "last_verified": "2026-06-17",
       "path": "bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md",
@@ -365,6 +588,41 @@
         "outreach"
       ],
       "title": "Tor Project History Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-WILSON-SONSINI-INTERNET",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Wilson Sonsini Goodrich & Rosati practice page describing the Internet Strategy and Litigation group.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-WILSON-SONSINI-SOFTWARE",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Wilson Sonsini Goodrich & Rosati practice page describing the firm's software industry representation.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Software Industry Practice Page",
       "type": "source"
     }
   ],

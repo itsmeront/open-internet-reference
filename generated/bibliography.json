@@ -3,6 +3,64 @@
   "records": [
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Virginia Tech, Department of Science, Technology, and Society",
+        "publication date": "Not dated",
+        "source type": "Official faculty profile",
+        "url": "https://liberalarts.vt.edu/content/liberalarts_vt_edu/en/departments-and-schools/department-of-science-technology-and-society/faculty/janet-abbate.html"
+      },
+      "id": "SRC-ABBATE-VT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-ABBATE-VT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ABBATE-VT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Virginia Tech faculty profile for Janet Abbate describing her research on internet and computing history.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ],
+      "title": "Janet Abbate Virginia Tech Faculty Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JANET-ABBATE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Knight First Amendment Institute at Columbia University",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://knightcolumbia.org/bios/view/alex-abdo"
+      },
+      "id": "SRC-ABDO-KNIGHT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-ABDO-KNIGHT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ABDO-KNIGHT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Knight First Amendment Institute biography for litigation director Alex Abdo.",
+      "tags": [
+        "source",
+        "attorney",
+        "first-amendment",
+        "privacy"
+      ],
+      "title": "Alex Abdo Knight Institute Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ALEX-ABDO`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-17",
         "author or issuing body": "American Civil Liberties Union",
         "source type": "Official organization page",
@@ -63,129 +121,30 @@
     },
     {
       "bibliographic_metadata": {
-        "access date": "2026-06-17",
-        "author or issuing body": "Project origin material",
-        "extracted title": "Axona Constitutional & Public Policy Reference Manual",
-        "extracted version": "1.0",
-        "publication date": "Unknown",
-        "repository file": "`Axona Constitutional & Public Policy Reference Manual.docx`",
-        "source type": "Internal reference manual draft"
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "World Wide Web Consortium (W3C)",
+        "publication date": "Not dated",
+        "source type": "Official biography",
+        "url": "https://www.w3.org/People/Berners-Lee/"
       },
-      "id": "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md",
+      "id": "SRC-BERNERS-LEE-W3C",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-BERNERS-LEE-W3C.md",
       "relationships": [],
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md",
+      "source_doc_path": "source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md",
       "sources": [],
-      "status": "needs_sources",
-      "summary": "Internal reference manual draft about Axona, decentralized internet protocols, open source software, and related legal and policy context.",
+      "status": "verified",
+      "summary": "Official W3C biography for Sir Tim Berners-Lee describing his invention of the World Wide Web and academic appointments at MIT and Oxford.",
       "tags": [
         "source",
-        "imported-source",
-        "axona",
-        "research-debt"
+        "person",
+        "internet-architecture"
       ],
-      "title": "Axona Constitutional & Public Policy Reference Manual",
+      "title": "Tim Berners-Lee W3C Biography",
       "type": "source",
       "used_for": [
-        "Candidate topic discovery",
-        "Case-study framing",
-        "Research-debt identification"
-      ]
-    },
-    {
-      "bibliographic_metadata": {
-        "access date": "2026-06-17",
-        "author or issuing body": "Project origin material",
-        "extracted title": "Axona Legal & Public Policy Outreach Contacts",
-        "publication date": "Unknown",
-        "repository file": "`Axona_Legal_Outreach_Contacts.docx`",
-        "source type": "Internal outreach contact list"
-      },
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
-      "relationships": [],
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md",
-      "sources": [],
-      "status": "needs_sources",
-      "summary": "Internal outreach contact list covering organizations, firms, academics, and policymakers potentially relevant to Axona-related legal or policy issues.",
-      "tags": [
-        "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
-      ],
-      "title": "Axona Legal & Public Policy Outreach Contacts",
-      "type": "source",
-      "used_for": [
-        "Candidate contact discovery",
-        "Outreach research backlog",
-        "Organization and expert seed list"
-      ]
-    },
-    {
-      "bibliographic_metadata": {
-        "access date": "2026-06-17",
-        "author or issuing body": "Project origin material",
-        "extracted title": "Axona Legal & Public Policy Outreach Contacts",
-        "publication date": "Unknown",
-        "repository file": "`Axona_Legal_Outreach_Contacts_Expanded.docx`",
-        "source type": "Internal outreach contact list"
-      },
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
-      "relationships": [],
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md",
-      "sources": [],
-      "status": "needs_sources",
-      "summary": "Expanded internal outreach contact list with direct web links for organizations relevant to Axona-related legal and policy outreach.",
-      "tags": [
-        "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
-      ],
-      "title": "Axona Legal & Public Policy Outreach Contacts Expanded",
-      "type": "source",
-      "used_for": [
-        "Candidate contact discovery",
-        "Outreach research backlog",
-        "Organization and expert seed list"
-      ]
-    },
-    {
-      "bibliographic_metadata": {
-        "access date": "2026-06-17",
-        "author or issuing body": "Project origin material",
-        "publication date": "Unknown",
-        "repository file": "`Axona_Legal_Outreach_Contacts.md`",
-        "source type": "Internal outreach contact list"
-      },
-      "id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
-      "last_verified": null,
-      "path": "bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
-      "relationships": [],
-      "source_doc_path": "source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md",
-      "sources": [],
-      "status": "needs_sources",
-      "summary": "Markdown version of an internal outreach contact list covering organizations, firms, academics, and policymakers.",
-      "tags": [
-        "source",
-        "imported-source",
-        "axona",
-        "outreach",
-        "research-debt"
-      ],
-      "title": "Axona Legal & Public Policy Outreach Contacts Markdown",
-      "type": "source",
-      "used_for": [
-        "Candidate contact discovery",
-        "Outreach research backlog",
-        "Organization and expert seed list"
+        "`PERSON-TIM-BERNERS-LEE`"
       ]
     },
     {
@@ -276,6 +235,93 @@
       "type": "source",
       "used_for": [
         "`CASE-BERNSTEIN-V-DOJ`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "American Civil Liberties Union",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://www.aclu.org/bio/esha-bhandari"
+      },
+      "id": "SRC-BHANDARI-ACLU",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-BHANDARI-ACLU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BHANDARI-ACLU.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU biography for Esha Bhandari, Director of the Speech, Privacy, and Technology Project.",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Esha Bhandari ACLU Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ESHA-BHANDARI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Georgetown University Law Center",
+        "publication date": "2019",
+        "source type": "Official faculty profile",
+        "url": "https://www.law.georgetown.edu/news/one-of-worlds-leading-cryptographers-to-join-georgetown-faculty/"
+      },
+      "id": "SRC-BLAZE-GEORGETOWN",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-BLAZE-GEORGETOWN.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Georgetown University faculty profile for Matt Blaze describing his research in cryptography, secure systems, and trust management.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography",
+        "privacy"
+      ],
+      "title": "Matt Blaze Georgetown Faculty Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MATT-BLAZE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Microsoft Research",
+        "publication date": "Not dated (profile active; institutional blog posts 2013\u20132023)",
+        "source type": "Official employer profile and research announcements",
+        "url": "https://www.microsoft.com/en-us/research/people/dmb/"
+      },
+      "id": "SRC-BOYD-MSR",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-BOYD-MSR.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BOYD-MSR.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Microsoft Research profile and institutional announcements for danah boyd describing her role as partner researcher and work on social media, algorithmic bias, and youth online behavior.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "internet-governance"
+      ],
+      "title": "danah boyd Microsoft Research Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-DANAH-BOYD`"
       ]
     },
     {
@@ -403,6 +449,63 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Google Research",
+        "publication date": "Not dated",
+        "source type": "Official employer profile",
+        "url": "https://research.google.com/pubs/author32412.html"
+      },
+      "id": "SRC-CERF-GOOGLE",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-CERF-GOOGLE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CERF-GOOGLE.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Google Research profile for Vinton G. Cerf describing his role as Chief Internet Evangelist and co-designer of TCP/IP.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ],
+      "title": "Vinton G. Cerf Google Research Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-VINT-CERF`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Chestek Legal",
+        "publication date": "Not dated",
+        "source type": "Official attorney biography",
+        "url": "https://www.chesteklegal.com/about"
+      },
+      "id": "SRC-CHESTEK-ABOUT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-CHESTEK-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Chestek Legal about page for attorney Pamela Chestek's trademark, copyright, and open source practice.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Pamela Chestek About Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-PAMELA-CHESTEK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "https://web.archive.org/web/2026/https://www.eff.org/about/staff/cindy-cohn",
         "author or issuing body": "Electronic Frontier Foundation",
@@ -489,6 +592,36 @@
       "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
+        "author or issuing body": "Cooley LLP",
+        "publication date": "Not dated",
+        "source type": "Official practice page",
+        "url": "https://www.cooley.com/services/industry/technology"
+      },
+      "id": "SRC-COOLEY-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-COOLEY-TECH.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-COOLEY-TECH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Cooley LLP practice page describing the firm's technology industry representation.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Cooley Technology Industry Practice Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-COOLEY`",
+        "`CONTACT-COOLEY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
         "author or issuing body": "United States Court of Appeals for the Second Circuit",
         "publication date": "2001-11-28",
         "source type": "Federal appellate court opinion",
@@ -512,6 +645,35 @@
       "type": "source",
       "used_for": [
         "`CASE-UNIVERSAL-V-CORLEY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Stanford Freeman Spogli Institute for International Studies",
+        "publication date": "Not dated",
+        "source type": "Official staff profile",
+        "url": "https://cisac.fsi.stanford.edu/people/whitfield_diffie"
+      },
+      "id": "SRC-DIFFIE-CISAC",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-DIFFIE-CISAC.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-DIFFIE-CISAC.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Stanford Center for International Security and Cooperation profile for Whitfield Diffie describing public-key cryptography and policy work.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography",
+        "digital-rights"
+      ],
+      "title": "Whitfield Diffie Stanford CISAC Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-WHITFIELD-DIFFIE`"
       ]
     },
     {
@@ -575,6 +737,151 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Privacy Information Center (EPIC)",
+        "publication date": "Not dated",
+        "source type": "Official organization page",
+        "url": "https://epic.org/about/"
+      },
+      "id": "SRC-EPIC-ABOUT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-EPIC-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Electronic Privacy Information Center about page describing its privacy, free expression, and litigation mission.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "EPIC About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-EPIC`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Privacy Information Center (EPIC)",
+        "publication date": "Not dated",
+        "source type": "Official contact page",
+        "url": "https://epic.org/about/contact/"
+      },
+      "id": "SRC-EPIC-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-EPIC-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Electronic Privacy Information Center contact page with mailing address, phone, and inquiry emails.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach"
+      ],
+      "title": "EPIC Contact Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-EPIC`",
+        "`CONTACT-EPIC`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Knight First Amendment Institute at Columbia University",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://knightcolumbia.org/bios/view/katie-fallow"
+      },
+      "id": "SRC-FALLOW-KNIGHT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-FALLOW-KNIGHT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Knight First Amendment Institute biography for deputy litigation director Katie Fallow.",
+      "tags": [
+        "source",
+        "attorney",
+        "first-amendment"
+      ],
+      "title": "Katie Fallow Knight Institute Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-KATIE-FALLOW`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Fenwick & West LLP",
+        "publication date": "Not dated",
+        "source type": "Official firm history page",
+        "url": "https://www.fenwick.com/firm/history"
+      },
+      "id": "SRC-FENWICK-HISTORY",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FENWICK-HISTORY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Fenwick & West page documenting the firm's history and pioneering role in technology law.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Fenwick & West Firm History Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-FENWICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Fenwick & West LLP",
+        "publication date": "Not dated",
+        "source type": "Official practice page",
+        "url": "https://www.fenwick.com/services/practices/technology-transactions"
+      },
+      "id": "SRC-FENWICK-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-FENWICK-TECH.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FENWICK-TECH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Fenwick & West practice page describing the Technology Transactions group.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Fenwick Technology Transactions Practice Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-FENWICK`",
+        "`CONTACT-FENWICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Free Software Foundation",
@@ -633,6 +940,36 @@
       "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2021-04-05",
+        "source type": "Supreme Court opinion",
+        "url": "https://supreme.justia.com/cases/federal/us/593/18-956"
+      },
+      "id": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Justia reproduction of the Supreme Court opinion in Google LLC v. Oracle America, Inc.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "speech-and-code",
+        "open-source-software"
+      ],
+      "title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GOOGLE-V-ORACLE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
         "author or issuing body": "American Civil Liberties Union",
         "publication date": "Not dated",
         "source type": "Official staff biography",
@@ -656,6 +993,62 @@
       "type": "source",
       "used_for": [
         "`PERSON-JENNIFER-GRANICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "University of Wisconsin\u2013Milwaukee, Department of History",
+        "publication date": "Not dated",
+        "source type": "Official faculty profile",
+        "url": "https://uwm.edu/history/people/haigh-thomas/"
+      },
+      "id": "SRC-HAIGH-UWM",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-HAIGH-UWM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-HAIGH-UWM.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official UWM History Department faculty profile for Thomas Haigh describing his research on the history of computing and information technology.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture"
+      ],
+      "title": "Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-THOMAS-HAIGH`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Institute for Free Speech",
+        "publication date": "Not dated",
+        "source type": "Official organization page",
+        "url": "https://www.ifs.org/about-us/"
+      },
+      "id": "SRC-IFS-ABOUT-US",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-IFS-ABOUT-US.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Institute for Free Speech about page describing its First Amendment political speech litigation and advocacy mission.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Institute for Free Speech About Us Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-INSTITUTE-FOR-FREE-SPEECH`"
       ]
     },
     {
@@ -712,6 +1105,34 @@
       "type": "source",
       "used_for": [
         "`ORG-INSTITUTE-FOR-JUSTICE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Knight First Amendment Institute at Columbia University",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://knightcolumbia.org/bios/view/jameel-jaffer"
+      },
+      "id": "SRC-JAFFER-KNIGHT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-JAFFER-KNIGHT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Knight First Amendment Institute biography for executive director Jameel Jaffer.",
+      "tags": [
+        "source",
+        "attorney",
+        "first-amendment"
+      ],
+      "title": "Jameel Jaffer Knight Institute Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JAMEEL-JAFFER`"
       ]
     },
     {
@@ -840,6 +1261,94 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Corporation for National Research Initiatives (CNRI)",
+        "publication date": "Not dated",
+        "source type": "Official institutional biography",
+        "url": "https://www.cnri.reston.va.us/bios/kahn.html"
+      },
+      "id": "SRC-KAHN-CNRI",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-KAHN-CNRI.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-KAHN-CNRI.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official CNRI biography for Robert E. Kahn describing his co-invention of TCP/IP, DARPA Internet program leadership, and founding role at the Corporation for National Research Initiatives.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ],
+      "title": "Robert E. Kahn CNRI Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ROBERT-KAHN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Computer History Museum",
+        "publication date": "Not dated",
+        "source type": "Official fellow profile",
+        "url": "https://computerhistory.org/profile/alan-kay/"
+      },
+      "id": "SRC-KAY-CHM",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-KAY-CHM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-KAY-CHM.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Computer History Museum fellow profile for Alan Kay describing object-oriented programming, Smalltalk, and personal computing contributions.",
+      "tags": [
+        "source",
+        "person",
+        "open-source-software",
+        "internet-architecture"
+      ],
+      "title": "Alan Kay Computer History Museum Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ALAN-KAY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Ro Khanna",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://khanna.house.gov/media/press-releases/release-rep-khanna-releases-internet-bill-rights-principles-endorsed-sir-tim"
+      },
+      "id": "SRC-KHANNA-INTERNET-BILL",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-KHANNA-INTERNET-BILL.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Representative Ro Khanna's office announcing the Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy"
+      ],
+      "title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RO-KHANNA`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Knight First Amendment Institute at Columbia University",
@@ -927,6 +1436,37 @@
       "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Zoe Lofgren",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://lofgren.house.gov/media/press-releases/lofgren-wyden-paul-introduce-bipartisan-bicameral-aaron-s-law-reform-computer"
+      },
+      "id": "SRC-LOFGREN-AARONS-LAW",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-LOFGREN-AARONS-LAW.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Representative Zoe Lofgren's office announcing the introduction of bipartisan bicameral Aaron's Law to reform the Computer Fraud and Abuse Act.",
+      "tags": [
+        "source",
+        "person",
+        "computer-crime",
+        "digital-rights"
+      ],
+      "title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ZOE-LOFGREN`",
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
         "author or issuing body": "Electronic Frontier Foundation",
         "publication date": "Not dated (updated regularly)",
         "source type": "Official staff biography",
@@ -950,6 +1490,34 @@
       "type": "source",
       "used_for": [
         "`PERSON-CORYNNE-MCSHERRY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Heather Meeker",
+        "publication date": "Not dated",
+        "source type": "Official attorney biography",
+        "url": "https://heathermeeker.com/about-me/"
+      },
+      "id": "SRC-MEEKER-ABOUT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-MEEKER-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MEEKER-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Heather Meeker about page documenting her open source licensing practice and background.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Heather Meeker About Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-HEATHER-MEEKER`"
       ]
     },
     {
@@ -1102,6 +1670,34 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "George Washington University Law School",
+        "publication date": "Not dated",
+        "source type": "Official faculty page",
+        "url": "https://www.law.gwu.edu/orin-kerr"
+      },
+      "id": "SRC-ORIN-KERR-GWU",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-ORIN-KERR-GWU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official George Washington University Law School faculty page for Orin Kerr, a leading scholar of computer crime law and the Computer Fraud and Abuse Act.",
+      "tags": [
+        "source",
+        "person",
+        "digital-rights"
+      ],
+      "title": "Orin Kerr George Washington University Law Faculty Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ORIN-KERR`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Open Source Initiative",
@@ -1218,6 +1814,66 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Senator Rand Paul (via Fox News)",
+        "publication date": "Not dated",
+        "source type": "Op-ed published on official Senate page",
+        "url": "https://www.paul.senate.gov/op_eds/fox-news-op-ed-sen-rand-paul-my-fisa-reform-amendment-will-keep-america-safe/"
+      },
+      "id": "SRC-PAUL-FISA",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-PAUL-FISA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-PAUL-FISA.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Op-ed by Senator Rand Paul on Fox News describing his FISA reform amendment to protect encryption and Fourth Amendment rights.",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Rand Paul",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.paul.senate.gov/dr-rand-paul-introduces-legislation-to-restore-and-protect-americans-fourth-amendment-rights/"
+      },
+      "id": "SRC-PAUL-FOURTH-AMENDMENT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Rand Paul's office announcing legislation to restore and protect Fourth Amendment rights.",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "United States Court of Appeals for the Ninth Circuit; page hosted by Justia",
         "publication date": "2007",
@@ -1246,6 +1902,182 @@
         "`TOPIC-SAFE-HARBOR`",
         "`TOPIC-INTERMEDIARY-LIABILITY`",
         "`STAT-DMCA-512`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Perkins Coie LLP",
+        "publication date": "Not dated",
+        "source type": "Official practice page",
+        "url": "https://perkinscoie.com/services/technology-transactions-privacy-law"
+      },
+      "id": "SRC-PERKINS-COIE-TECH",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-PERKINS-COIE-TECH.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Perkins Coie practice page describing the Technology Transactions & Privacy practice group.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Perkins Coie Technology Transactions & Privacy Law Practice Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-PERKINS-COIE`",
+        "`CONTACT-PERKINS-COIE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Public Knowledge",
+        "publication date": "Not dated",
+        "source type": "Official organization page",
+        "url": "https://www.publicknowledge.org/about/"
+      },
+      "id": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Public Knowledge about page describing its mission to promote freedom of expression, an open internet, and balanced copyright policy.",
+      "tags": [
+        "source",
+        "organization",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Public Knowledge About Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-PUBLIC-KNOWLEDGE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Public Knowledge",
+        "publication date": "Not dated",
+        "source type": "Official contact page",
+        "url": "https://www.publicknowledge.org/contact/"
+      },
+      "id": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Public Knowledge contact page with phone, fax, email, and Washington, D.C. office address.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach"
+      ],
+      "title": "Public Knowledge Contact Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-PUBLIC-KNOWLEDGE`",
+        "`CONTACT-PUBLIC-KNOWLEDGE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Reporters Committee for Freedom of the Press",
+        "publication date": "Not dated",
+        "source type": "Official contact page",
+        "url": "https://www.rcfp.org/contact/"
+      },
+      "id": "SRC-RCFP-CONTACT",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-RCFP-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Reporters Committee for Freedom of the Press contact page with hotline, media, and general inquiry paths.",
+      "tags": [
+        "source",
+        "organization",
+        "outreach",
+        "first-amendment"
+      ],
+      "title": "Reporters Committee Contact Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-RCFP`",
+        "`CONTACT-RCFP`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Reporters Committee for Freedom of the Press",
+        "publication date": "Not dated",
+        "source type": "Official organization page",
+        "url": "https://www.rcfp.org/what-we-do/"
+      },
+      "id": "SRC-RCFP-WHAT-WE-DO",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Reporters Committee for Freedom of the Press page describing pro bono legal services for journalists and First Amendment litigation.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Reporters Committee What We Do Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-RCFP`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "David P. Reed",
+        "publication date": "Not dated",
+        "source type": "Personal biography page",
+        "url": "https://deepplum.com/biography/"
+      },
+      "id": "SRC-REED-BIO",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-REED-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-REED-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official biography for David P. Reed describing the end-to-end principle, Internet protocol work, and MIT affiliations.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "distributed-systems"
+      ],
+      "title": "David P. Reed Official Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-DAVID-REED`"
       ]
     },
     {
@@ -1435,6 +2267,149 @@
         "TCP",
         "Internet architecture",
         "Network protocols"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+        "publication date": "Not dated (page updated January 2025)",
+        "source type": "Official faculty profile",
+        "url": "https://www.csail.mit.edu/person/ronald-l-rivest"
+      },
+      "id": "SRC-RIVEST-CSAIL",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-RIVEST-CSAIL.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-RIVEST-CSAIL.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official MIT CSAIL profile for Ronald L. Rivest describing his role as Institute Professor and RSA co-inventor.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography"
+      ],
+      "title": "Ronald L. Rivest MIT CSAIL Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-RIVEST`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Andrew L. Russell (maintained professional site)",
+        "publication date": "Not dated (profile reflects Provost appointment and 2022 publications)",
+        "source type": "Official professional profile",
+        "url": "https://arussell.org/"
+      },
+      "id": "SRC-RUSSELL-PROFILE",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-RUSSELL-PROFILE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Andrew L. Russell's professional profile describing his role at SUNY Polytechnic Institute and scholarship on internet history and open standards.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ],
+      "title": "Andrew L. Russell Professional Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ANDREW-RUSSELL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Bruce Schneier",
+        "publication date": "Not dated",
+        "source type": "Personal biography page",
+        "url": "https://www.schneier.com/blog/about/"
+      },
+      "id": "SRC-SCHNEIER-ABOUT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-SCHNEIER-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official about page for Bruce Schneier describing his roles, board memberships, and work in security and privacy.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography",
+        "privacy"
+      ],
+      "title": "Bruce Schneier About Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BRUCE-SCHNEIER`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (maintained)",
+        "source type": "Organizational reference page",
+        "url": "https://www.eff.org/issues/cda230"
+      },
+      "id": "SRC-SECTION-230-EFF",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-SECTION-230-EFF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SECTION-230-EFF.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EFF's comprehensive page on Section 230 including legislative history, court rulings, and current threats.",
+      "tags": [
+        "source",
+        "internet-governance",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "EFF Section 230 Page",
+      "type": "source",
+      "used_for": [
+        "`STAT-SECTION-230`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Cornell Legal Information Institute",
+        "publication date": "Not dated (maintained)",
+        "source type": "Official statutory text",
+        "url": "https://www.law.cornell.edu/uscode/text/47/230"
+      },
+      "id": "SRC-SECTION-230-LII",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/legal/SRC-SECTION-230-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SECTION-230-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for 47 U.S.C. \u00a7 230, the Section 230 intermediary liability protection.",
+      "tags": [
+        "source",
+        "internet-governance",
+        "intermediary-liability"
+      ],
+      "title": "47 U.S.C. \u00a7 230 (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`STAT-SECTION-230`"
       ]
     },
     {
@@ -1671,6 +2646,35 @@
       "type": "source",
       "used_for": [
         "`PERSON-MITCH-STOLTZ`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://www.eff.org/about/staff/lee-tien"
+      },
+      "id": "SRC-TIEN-EFF",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-TIEN-EFF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-TIEN-EFF.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official EFF staff profile for Lee Tien, Legislative Director and Adams Chair for Internet Rights.",
+      "tags": [
+        "source",
+        "attorney",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Lee Tien EFF Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-LEE-TIEN`"
       ]
     },
     {
@@ -2012,6 +3016,35 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Internet Hall of Fame",
+        "publication date": "Not dated",
+        "source type": "Official inductee biography",
+        "url": "https://www.internethalloffame.org/inductee/paul-vixie/"
+      },
+      "id": "SRC-VIXIE-IHOF",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-VIXIE-IHOF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-VIXIE-IHOF.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Internet Hall of Fame inductee profile for Paul Vixie describing his DNS protocol work and BIND development.",
+      "tags": [
+        "source",
+        "person",
+        "internet-architecture",
+        "network-protocols"
+      ],
+      "title": "Paul Vixie Internet Hall of Fame Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-PAUL-VIXIE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Electronic Frontier Foundation",
@@ -2037,6 +3070,326 @@
       "type": "source",
       "used_for": [
         "`PERSON-KIT-WALSH`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Lauren Weinstein",
+        "publication date": "Not dated",
+        "source type": "Personal biography page",
+        "url": "https://chrome.vortex.com/lauren"
+      },
+      "id": "SRC-WEINSTEIN-BIO",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WEINSTEIN-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official biography page for Lauren Weinstein describing his work on ARPANET, PFIR, NNSquad, and the PRIVACY Forum.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "privacy"
+      ],
+      "title": "Lauren Weinstein Biography Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-LAUREN-WEINSTEIN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Lauren Weinstein",
+        "publication date": "2007-11-05",
+        "source type": "Blog post / project announcement",
+        "url": "https://lauren.vortex.com/archive/000327.html"
+      },
+      "id": "SRC-WEINSTEIN-NNSQUAD",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WEINSTEIN-NNSQUAD.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WEINSTEIN-NNSQUAD.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Lauren Weinstein's announcement of the Network Neutrality Squad (NNSquad) as an open-membership effort to keep the internet fair and unhindered.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Network Neutrality Squad Announcement",
+      "type": "source",
+      "used_for": [
+        "`PERSON-LAUREN-WEINSTEIN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "American Civil Liberties Union",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://www.aclu.org/bio/nathan-freed-wessler"
+      },
+      "id": "SRC-WESSLER-ACLU",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-WESSLER-ACLU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WESSLER-ACLU.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU biography for Nathan Freed Wessler, deputy director of the Speech, Privacy, and Technology Project.",
+      "tags": [
+        "source",
+        "attorney",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Nathan Freed Wessler ACLU Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-NATHAN-FREED-WESSLER`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Williamson Legal, PLLC",
+        "publication date": "Not dated",
+        "source type": "Official firm biography",
+        "url": "https://www.williamson.legal/team"
+      },
+      "id": "SRC-WILLIAMSON-LEGAL",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-WILLIAMSON-LEGAL.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WILLIAMSON-LEGAL.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Williamson Legal team page for principal attorney Aaron Williamson.",
+      "tags": [
+        "source",
+        "attorney",
+        "open-source-software"
+      ],
+      "title": "Aaron Williamson Williamson Legal Team Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-AARON-WILLIAMSON`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Wilson Sonsini Goodrich & Rosati",
+        "publication date": "Not dated",
+        "source type": "Official practice page",
+        "url": "https://www.wsgr.com/en/services/practice-areas/litigation/internet-strategy-and-litigation.html"
+      },
+      "id": "SRC-WILSON-SONSINI-INTERNET",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Wilson Sonsini Goodrich & Rosati practice page describing the Internet Strategy and Litigation group.",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-WILSON-SONSINI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Wilson Sonsini Goodrich & Rosati",
+        "publication date": "Not dated",
+        "source type": "Official practice page",
+        "url": "https://www.wsgr.com/en/services/industries/software.html"
+      },
+      "id": "SRC-WILSON-SONSINI-SOFTWARE",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Wilson Sonsini Goodrich & Rosati practice page describing the firm's software industry representation.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Wilson Sonsini Software Industry Practice Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-WILSON-SONSINI`",
+        "`CONTACT-WILSON-SONSINI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "American Civil Liberties Union",
+        "publication date": "Not dated",
+        "source type": "Official staff biography",
+        "url": "https://www.aclu.org/bio/ben-wizner"
+      },
+      "id": "SRC-WIZNER-ACLU",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-WIZNER-ACLU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WIZNER-ACLU.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official ACLU biography for Ben Wizner, Deputy Legal Director and Director of the Center for Democracy.",
+      "tags": [
+        "source",
+        "attorney",
+        "first-amendment",
+        "privacy"
+      ],
+      "title": "Ben Wizner ACLU Staff Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BEN-WIZNER`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/wyden-introduces-much-needed-reforms-to-the-computer-fraud-and-abuse-act"
+      },
+      "id": "SRC-WYDEN-AARONS-LAW",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-AARONS-LAW.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office announcing the introduction of Aaron's Law to reform the CFAA.",
+      "tags": [
+        "source",
+        "person",
+        "computer-crime",
+        "digital-rights"
+      ],
+      "title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/wyden-remarks-at-section-230-briefing-hosted-by-eff"
+      },
+      "id": "SRC-WYDEN-SECTION-230",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-SECTION-230.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office regarding his remarks at an EFF-hosted briefing on Section 230.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Wyden Remarks at Section 230 Briefing Hosted by EFF",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Philip R. Zimmermann",
+        "publication date": "Not dated",
+        "source type": "Personal biography page",
+        "url": "https://philzimmermann.com/EN/background/bio2.html"
+      },
+      "id": "SRC-ZIMMERMANN-BIO",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-ZIMMERMANN-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official biography page for Phil Zimmermann describing PGP creation, export investigation, and cryptography awards.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography",
+        "digital-rights"
+      ],
+      "title": "Phil Zimmermann Official Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-PHIL-ZIMMERMANN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-04",
+        "archive url": "None recorded",
+        "author or issuing body": "Harvard Law School",
+        "publication date": "Not dated",
+        "source type": "Official faculty profile",
+        "url": "https://hls.harvard.edu/faculty/jonathan-l-zittrain/"
+      },
+      "id": "SRC-ZITTRAIN-HLS",
+      "last_verified": "2026-07-04",
+      "path": "bibliography/people/SRC-ZITTRAIN-HLS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Harvard Law School faculty profile for Jonathan Zittrain describing his appointments in law, public policy, and computer science.",
+      "tags": [
+        "source",
+        "person",
+        "digital-rights",
+        "internet-governance"
+      ],
+      "title": "Jonathan L. Zittrain Harvard Law School Faculty Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JONATHAN-ZITTRAIN`"
       ]
     }
   ],

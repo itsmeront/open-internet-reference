@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 95
+Term count: 138
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -15,6 +15,10 @@ Term count: 95
 
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## `CASE-GOOGLE-V-ORACLE` { #case-google-v-oracle }
+
+- [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 
 ## `CASE-JUNGER-V-DALEY` { #case-junger-v-daley }
 
@@ -45,19 +49,65 @@ Term count: 95
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 
+## `CONTACT-COOLEY` { #contact-cooley }
+
+- [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+
+## `CONTACT-EPIC` { #contact-epic }
+
+- [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
+
+## `CONTACT-FENWICK` { #contact-fenwick }
+
+- [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+
+## `CONTACT-PERKINS-COIE` { #contact-perkins-coie }
+
+- [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+
+## `CONTACT-PUBLIC-KNOWLEDGE` { #contact-public-knowledge }
+
+- [`SRC-PUBLIC-KNOWLEDGE-CONTACT: Public Knowledge Contact Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
+
+## `CONTACT-RCFP` { #contact-rcfp }
+
+- [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
+
+## `CONTACT-WILSON-SONSINI` { #contact-wilson-sonsini }
+
+- [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
+
 ## `ORG-CDT` { #org-cdt }
 
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 
+## `ORG-COOLEY` { #org-cooley }
+
+- [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+
 ## `ORG-EFF` { #org-eff }
 
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
+
+## `ORG-EPIC` { #org-epic }
+
+- [`SRC-EPIC-ABOUT: EPIC About Page`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
+- [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
+
+## `ORG-FENWICK` { #org-fenwick }
+
+- [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
+- [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 
 ## `ORG-FSF` { #org-fsf }
 
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## `ORG-INSTITUTE-FOR-FREE-SPEECH` { #org-institute-for-free-speech }
+
+- [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 
 ## `ORG-INSTITUTE-FOR-JUSTICE` { #org-institute-for-justice }
 
@@ -73,6 +123,20 @@ Term count: 95
 
 - [`SRC-OSI-ABOUT: Open Source Initiative About Page`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
 - [`SRC-OSI-HISTORY: Open Source Initiative History Page`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+
+## `ORG-PERKINS-COIE` { #org-perkins-coie }
+
+- [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+
+## `ORG-PUBLIC-KNOWLEDGE` { #org-public-knowledge }
+
+- [`SRC-PUBLIC-KNOWLEDGE-ABOUT: Public Knowledge About Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md)
+- [`SRC-PUBLIC-KNOWLEDGE-CONTACT: Public Knowledge Contact Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
+
+## `ORG-RCFP` { #org-rcfp }
+
+- [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
+- [`SRC-RCFP-WHAT-WE-DO: Reporters Committee What We Do Page`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
 
 ## `ORG-SFLC` { #org-sflc }
 
@@ -95,6 +159,35 @@ Term count: 95
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
 
+## `ORG-WILSON-SONSINI` { #org-wilson-sonsini }
+
+- [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
+- [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
+
+## `PERSON-AARON-WILLIAMSON` { #person-aaron-williamson }
+
+- [`SRC-WILLIAMSON-LEGAL: Aaron Williamson Williamson Legal Team Page`](source-docs/bibliography/people/SRC-WILLIAMSON-LEGAL.md)
+
+## `PERSON-ALAN-KAY` { #person-alan-kay }
+
+- [`SRC-KAY-CHM: Alan Kay Computer History Museum Profile`](source-docs/bibliography/people/SRC-KAY-CHM.md)
+
+## `PERSON-ALEX-ABDO` { #person-alex-abdo }
+
+- [`SRC-ABDO-KNIGHT: Alex Abdo Knight Institute Biography`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
+
+## `PERSON-ANDREW-RUSSELL` { #person-andrew-russell }
+
+- [`SRC-RUSSELL-PROFILE: Andrew L. Russell Professional Profile`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
+
+## `PERSON-BEN-WIZNER` { #person-ben-wizner }
+
+- [`SRC-WIZNER-ACLU: Ben Wizner ACLU Staff Biography`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
+
+## `PERSON-BRUCE-SCHNEIER` { #person-bruce-schneier }
+
+- [`SRC-SCHNEIER-ABOUT: Bruce Schneier About Page`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
+
 ## `PERSON-CINDY-COHN` { #person-cindy-cohn }
 
 - [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
@@ -107,26 +200,135 @@ Term count: 95
 
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
 
+## `PERSON-DANAH-BOYD` { #person-danah-boyd }
+
+- [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+
+## `PERSON-DAVID-REED` { #person-david-reed }
+
+- [`SRC-REED-BIO: David P. Reed Official Biography`](source-docs/bibliography/people/SRC-REED-BIO.md)
+
 ## `PERSON-EBEN-MOGLEN` { #person-eben-moglen }
 
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
 - [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
 
+## `PERSON-ESHA-BHANDARI` { #person-esha-bhandari }
+
+- [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
+
+## `PERSON-HEATHER-MEEKER` { #person-heather-meeker }
+
+- [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
+
+## `PERSON-JAMEEL-JAFFER` { #person-jameel-jaffer }
+
+- [`SRC-JAFFER-KNIGHT: Jameel Jaffer Knight Institute Biography`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
+
+## `PERSON-JANET-ABBATE` { #person-janet-abbate }
+
+- [`SRC-ABBATE-VT: Janet Abbate Virginia Tech Faculty Profile`](source-docs/bibliography/people/SRC-ABBATE-VT.md)
+
 ## `PERSON-JENNIFER-GRANICK` { #person-jennifer-granick }
 
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
+
+## `PERSON-JONATHAN-ZITTRAIN` { #person-jonathan-zittrain }
+
+- [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
+
+## `PERSON-KATIE-FALLOW` { #person-katie-fallow }
+
+- [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
 
 ## `PERSON-KIT-WALSH` { #person-kit-walsh }
 
 - [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
 
+## `PERSON-LAUREN-WEINSTEIN` { #person-lauren-weinstein }
+
+- [`SRC-WEINSTEIN-BIO: Lauren Weinstein Biography Page`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md)
+- [`SRC-WEINSTEIN-NNSQUAD: Network Neutrality Squad Announcement`](source-docs/bibliography/people/SRC-WEINSTEIN-NNSQUAD.md)
+
 ## `PERSON-LAWRENCE-LESSIG` { #person-lawrence-lessig }
 
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 
+## `PERSON-LEE-TIEN` { #person-lee-tien }
+
+- [`SRC-TIEN-EFF: Lee Tien EFF Staff Biography`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
+
+## `PERSON-MATT-BLAZE` { #person-matt-blaze }
+
+- [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
 ## `PERSON-MITCH-STOLTZ` { #person-mitch-stoltz }
 
 - [`SRC-STOLTZ-EFF-BIO: Mitch Stoltz EFF Staff Biography`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
+
+## `PERSON-NATHAN-FREED-WESSLER` { #person-nathan-freed-wessler }
+
+- [`SRC-WESSLER-ACLU: Nathan Freed Wessler ACLU Staff Biography`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
+
+## `PERSON-ORIN-KERR` { #person-orin-kerr }
+
+- [`SRC-ORIN-KERR-GWU: Orin Kerr George Washington University Law Faculty Page`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md)
+
+## `PERSON-PAMELA-CHESTEK` { #person-pamela-chestek }
+
+- [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
+
+## `PERSON-PAUL-VIXIE` { #person-paul-vixie }
+
+- [`SRC-VIXIE-IHOF: Paul Vixie Internet Hall of Fame Profile`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
+
+## `PERSON-PHIL-ZIMMERMANN` { #person-phil-zimmermann }
+
+- [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## `PERSON-RAND-PAUL` { #person-rand-paul }
+
+- [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
+- [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
+
+## `PERSON-RO-KHANNA` { #person-ro-khanna }
+
+- [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+
+## `PERSON-ROBERT-KAHN` { #person-robert-kahn }
+
+- [`SRC-KAHN-CNRI: Robert E. Kahn CNRI Biography`](source-docs/bibliography/people/SRC-KAHN-CNRI.md)
+
+## `PERSON-RON-RIVEST` { #person-ron-rivest }
+
+- [`SRC-RIVEST-CSAIL: Ronald L. Rivest MIT CSAIL Profile`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md)
+
+## `PERSON-RON-WYDEN` { #person-ron-wyden }
+
+- [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+
+## `PERSON-THOMAS-HAIGH` { #person-thomas-haigh }
+
+- [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
+
+## `PERSON-TIM-BERNERS-LEE` { #person-tim-berners-lee }
+
+- [`SRC-BERNERS-LEE-W3C: Tim Berners-Lee W3C Biography`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
+
+## `PERSON-VINT-CERF` { #person-vint-cerf }
+
+- [`SRC-CERF-GOOGLE: Vinton G. Cerf Google Research Profile`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
+
+## `PERSON-WHITFIELD-DIFFIE` { #person-whitfield-diffie }
+
+- [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+
+## `PERSON-ZOE-LOFGREN` { #person-zoe-lofgren }
+
+- [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 
 ## `STAT-CFAA-1030` { #stat-cfaa-1030 }
 
@@ -139,6 +341,11 @@ Term count: 95
 
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
+
+## `STAT-SECTION-230` { #stat-section-230 }
+
+- [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
+- [`SRC-SECTION-230-LII: 47 U.S.C. § 230 (Cornell LII)`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
 
 ## `TOPIC-COMPUTER-FRAUD` { #topic-computer-fraud }
 
@@ -177,25 +384,11 @@ Term count: 95
 
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
 
-## Candidate contact discovery { #candidate-contact-discovery }
-
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX: Axona Legal & Public Policy Outreach Contacts`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX: Axona Legal & Public Policy Outreach Contacts Expanded`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD: Axona Legal & Public Policy Outreach Contacts Markdown`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md)
-
-## Candidate topic discovery { #candidate-topic-discovery }
-
-- [`SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX: Axona Constitutional & Public Policy Reference Manual`](source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md)
-
 ## Case law seed records { #case-law-seed-records }
 
 - [`SRC-RENO-V-ACLU-GOVINFO: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md)
 - [`SRC-RENO-V-ACLU-JUSTIA: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
 - [`SRC-RENO-V-ACLU-LOC: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
-
-## Case-study framing { #case-study-framing }
-
-- [`SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX: Axona Constitutional & Public Policy Reference Manual`](source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md)
 
 ## Cell-site location information { #cell-site-location-information }
 
@@ -344,23 +537,11 @@ Term count: 95
 
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 
-## Organization and expert seed list { #organization-and-expert-seed-list }
-
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX: Axona Legal & Public Policy Outreach Contacts`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX: Axona Legal & Public Policy Outreach Contacts Expanded`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD: Axona Legal & Public Policy Outreach Contacts Markdown`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md)
-
 ## Outreach contact verification { #outreach-contact-verification }
 
 - [`SRC-ACLU-CONTACT: American Civil Liberties Union Contact Page`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
-
-## Outreach research backlog { #outreach-research-backlog }
-
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX: Axona Legal & Public Policy Outreach Contacts`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX: Axona Legal & Public Policy Outreach Contacts Expanded`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX.md)
-- [`SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD: Axona Legal & Public Policy Outreach Contacts Markdown`](source-docs/bibliography/imported/SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD.md)
 
 ## Outreach verification { #outreach-verification }
 
@@ -397,10 +578,6 @@ Term count: 95
 ## Research standards { #research-standards }
 
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
-
-## Research-debt identification { #research-debt-identification }
-
-- [`SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX: Axona Constitutional & Public Policy Reference Manual`](source-docs/bibliography/imported/SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX.md)
 
 ## Roadmap structure { #roadmap-structure }
 

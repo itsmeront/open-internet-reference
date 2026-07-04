@@ -56,7 +56,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 3
     - **Relationships**: 5
-    - **Research debt items**: 2
+    - **Research debt items**: 1
     - **Last verified**: 2026-06-25
 
 ---
@@ -82,6 +82,8 @@ Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999),
 ## Historical Context
 
 The case arose during the 1990s "crypto wars" when the U.S. government classified encryption software as a munition and restricted its export. Bernstein's challenge was one of several cases testing whether source code qualified as protected speech. The regulations initially fell under the International Traffic in Arms Regulations (ITAR) administered by the State Department, then shifted to the Export Administration Regulations (EAR) under the Department of Commerce during the litigation.
+
+The government petitioned for rehearing en banc on June 21, 1999. The en banc court granted rehearing and vacated the three-judge panel opinion. However, before the en banc court could hear the case, the government substantially revised the export regulations, rendering much of the dispute moot. The case was remanded to the district court in light of the new regulations. While the panel opinion was technically vacated, its reasoning — that source code is speech and export controls constitute a prior restraint — profoundly influenced both Junger v. Daley and subsequent regulatory reform.
 
 ## Legal Analysis
 
@@ -112,4 +114,3 @@ This case is foundational for the principle that source code is speech. It direc
 ## Research Debt
 
 - Add the earlier district court opinions (Bernstein I through IV).
-- Document the subsequent en banc vacatur and its procedural history.

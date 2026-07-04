@@ -82,6 +82,26 @@
       "subject": "CASE-CARPENTER-V-US"
     },
     {
+      "declared_in": "CASE-GOOGLE-V-ORACLE",
+      "notes": null,
+      "object": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GOOGLE-ORACLE-JUSTIA"
+      ],
+      "subject": "CASE-GOOGLE-V-ORACLE"
+    },
+    {
+      "declared_in": "CASE-GOOGLE-V-ORACLE",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-ORACLE-JUSTIA"
+      ],
+      "subject": "CASE-GOOGLE-V-ORACLE"
+    },
+    {
       "declared_in": "CASE-JUNGER-V-DALEY",
       "notes": null,
       "object": "SRC-JUNGER-ACLU-OHIO",
@@ -372,6 +392,16 @@
       "subject": "ORG-CDT"
     },
     {
+      "declared_in": "ORG-COOLEY",
+      "notes": null,
+      "object": "SRC-COOLEY-TECH",
+      "predicate": "cites",
+      "sources": [
+        "SRC-COOLEY-TECH"
+      ],
+      "subject": "ORG-COOLEY"
+    },
+    {
       "declared_in": "ORG-EFF",
       "notes": null,
       "object": "SRC-EFF-ABOUT",
@@ -392,6 +422,46 @@
       "subject": "ORG-EFF"
     },
     {
+      "declared_in": "ORG-EPIC",
+      "notes": null,
+      "object": "SRC-EPIC-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EPIC-ABOUT"
+      ],
+      "subject": "ORG-EPIC"
+    },
+    {
+      "declared_in": "ORG-EPIC",
+      "notes": null,
+      "object": "SRC-EPIC-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EPIC-CONTACT"
+      ],
+      "subject": "ORG-EPIC"
+    },
+    {
+      "declared_in": "ORG-FENWICK",
+      "notes": null,
+      "object": "SRC-FENWICK-HISTORY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FENWICK-HISTORY"
+      ],
+      "subject": "ORG-FENWICK"
+    },
+    {
+      "declared_in": "ORG-FENWICK",
+      "notes": null,
+      "object": "SRC-FENWICK-TECH",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FENWICK-TECH"
+      ],
+      "subject": "ORG-FENWICK"
+    },
+    {
       "declared_in": "ORG-FSF",
       "notes": null,
       "object": "SRC-FSF-ABOUT",
@@ -410,6 +480,16 @@
         "SRC-FSF-PRESS"
       ],
       "subject": "ORG-FSF"
+    },
+    {
+      "declared_in": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "notes": null,
+      "object": "SRC-IFS-ABOUT-US",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IFS-ABOUT-US"
+      ],
+      "subject": "ORG-INSTITUTE-FOR-FREE-SPEECH"
     },
     {
       "declared_in": "ORG-INSTITUTE-FOR-JUSTICE",
@@ -490,6 +570,56 @@
         "SRC-OSI-HISTORY"
       ],
       "subject": "ORG-OSI"
+    },
+    {
+      "declared_in": "ORG-PERKINS-COIE",
+      "notes": null,
+      "object": "SRC-PERKINS-COIE-TECH",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PERKINS-COIE-TECH"
+      ],
+      "subject": "ORG-PERKINS-COIE"
+    },
+    {
+      "declared_in": "ORG-PUBLIC-KNOWLEDGE",
+      "notes": null,
+      "object": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-ABOUT"
+      ],
+      "subject": "ORG-PUBLIC-KNOWLEDGE"
+    },
+    {
+      "declared_in": "ORG-PUBLIC-KNOWLEDGE",
+      "notes": null,
+      "object": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PUBLIC-KNOWLEDGE-CONTACT"
+      ],
+      "subject": "ORG-PUBLIC-KNOWLEDGE"
+    },
+    {
+      "declared_in": "ORG-RCFP",
+      "notes": null,
+      "object": "SRC-RCFP-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RCFP-CONTACT"
+      ],
+      "subject": "ORG-RCFP"
+    },
+    {
+      "declared_in": "ORG-RCFP",
+      "notes": null,
+      "object": "SRC-RCFP-WHAT-WE-DO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RCFP-WHAT-WE-DO"
+      ],
+      "subject": "ORG-RCFP"
     },
     {
       "declared_in": "ORG-SFLC",
@@ -602,6 +732,116 @@
       "subject": "ORG-TOR-PROJECT"
     },
     {
+      "declared_in": "ORG-WILSON-SONSINI",
+      "notes": null,
+      "object": "SRC-WILSON-SONSINI-INTERNET",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WILSON-SONSINI-INTERNET"
+      ],
+      "subject": "ORG-WILSON-SONSINI"
+    },
+    {
+      "declared_in": "ORG-WILSON-SONSINI",
+      "notes": null,
+      "object": "SRC-WILSON-SONSINI-SOFTWARE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WILSON-SONSINI-SOFTWARE"
+      ],
+      "subject": "ORG-WILSON-SONSINI"
+    },
+    {
+      "declared_in": "PERSON-AARON-WILLIAMSON",
+      "notes": null,
+      "object": "SRC-WILLIAMSON-LEGAL",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WILLIAMSON-LEGAL"
+      ],
+      "subject": "PERSON-AARON-WILLIAMSON"
+    },
+    {
+      "declared_in": "PERSON-ALAN-KAY",
+      "notes": null,
+      "object": "SRC-KAY-CHM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KAY-CHM"
+      ],
+      "subject": "PERSON-ALAN-KAY"
+    },
+    {
+      "declared_in": "PERSON-ALEX-ABDO",
+      "notes": null,
+      "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-ABDO-KNIGHT"
+      ],
+      "subject": "PERSON-ALEX-ABDO"
+    },
+    {
+      "declared_in": "PERSON-ALEX-ABDO",
+      "notes": null,
+      "object": "SRC-ABDO-KNIGHT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ABDO-KNIGHT"
+      ],
+      "subject": "PERSON-ALEX-ABDO"
+    },
+    {
+      "declared_in": "PERSON-ANDREW-RUSSELL",
+      "notes": null,
+      "object": "SRC-RUSSELL-PROFILE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RUSSELL-PROFILE"
+      ],
+      "subject": "PERSON-ANDREW-RUSSELL"
+    },
+    {
+      "declared_in": "PERSON-BEN-WIZNER",
+      "notes": null,
+      "object": "ORG-ACLU",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-WIZNER-ACLU"
+      ],
+      "subject": "PERSON-BEN-WIZNER"
+    },
+    {
+      "declared_in": "PERSON-BEN-WIZNER",
+      "notes": null,
+      "object": "SRC-WIZNER-ACLU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WIZNER-ACLU"
+      ],
+      "subject": "PERSON-BEN-WIZNER"
+    },
+    {
+      "declared_in": "PERSON-BRUCE-SCHNEIER",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-SCHNEIER-ABOUT"
+      ],
+      "subject": "PERSON-BRUCE-SCHNEIER"
+    },
+    {
+      "declared_in": "PERSON-BRUCE-SCHNEIER",
+      "notes": null,
+      "object": "SRC-SCHNEIER-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SCHNEIER-ABOUT"
+      ],
+      "subject": "PERSON-BRUCE-SCHNEIER"
+    },
+    {
       "declared_in": "PERSON-CINDY-COHN",
       "notes": null,
       "object": "ORG-EFF",
@@ -692,6 +932,26 @@
       "subject": "PERSON-CORYNNE-MCSHERRY"
     },
     {
+      "declared_in": "PERSON-DANAH-BOYD",
+      "notes": null,
+      "object": "SRC-BOYD-MSR",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BOYD-MSR"
+      ],
+      "subject": "PERSON-DANAH-BOYD"
+    },
+    {
+      "declared_in": "PERSON-DAVID-REED",
+      "notes": null,
+      "object": "SRC-REED-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-REED-BIO"
+      ],
+      "subject": "PERSON-DAVID-REED"
+    },
+    {
       "declared_in": "PERSON-EBEN-MOGLEN",
       "notes": null,
       "object": "ORG-FSF",
@@ -732,6 +992,66 @@
       "subject": "PERSON-EBEN-MOGLEN"
     },
     {
+      "declared_in": "PERSON-ESHA-BHANDARI",
+      "notes": null,
+      "object": "ORG-ACLU",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-BHANDARI-ACLU"
+      ],
+      "subject": "PERSON-ESHA-BHANDARI"
+    },
+    {
+      "declared_in": "PERSON-ESHA-BHANDARI",
+      "notes": null,
+      "object": "SRC-BHANDARI-ACLU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BHANDARI-ACLU"
+      ],
+      "subject": "PERSON-ESHA-BHANDARI"
+    },
+    {
+      "declared_in": "PERSON-HEATHER-MEEKER",
+      "notes": null,
+      "object": "SRC-MEEKER-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MEEKER-ABOUT"
+      ],
+      "subject": "PERSON-HEATHER-MEEKER"
+    },
+    {
+      "declared_in": "PERSON-JAMEEL-JAFFER",
+      "notes": null,
+      "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-JAFFER-KNIGHT"
+      ],
+      "subject": "PERSON-JAMEEL-JAFFER"
+    },
+    {
+      "declared_in": "PERSON-JAMEEL-JAFFER",
+      "notes": null,
+      "object": "SRC-JAFFER-KNIGHT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JAFFER-KNIGHT"
+      ],
+      "subject": "PERSON-JAMEEL-JAFFER"
+    },
+    {
+      "declared_in": "PERSON-JANET-ABBATE",
+      "notes": null,
+      "object": "SRC-ABBATE-VT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ABBATE-VT"
+      ],
+      "subject": "PERSON-JANET-ABBATE"
+    },
+    {
       "declared_in": "PERSON-JENNIFER-GRANICK",
       "notes": null,
       "object": "ORG-ACLU",
@@ -750,6 +1070,36 @@
         "SRC-GRANICK-ACLU-BIO"
       ],
       "subject": "PERSON-JENNIFER-GRANICK"
+    },
+    {
+      "declared_in": "PERSON-JONATHAN-ZITTRAIN",
+      "notes": null,
+      "object": "SRC-ZITTRAIN-HLS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ZITTRAIN-HLS"
+      ],
+      "subject": "PERSON-JONATHAN-ZITTRAIN"
+    },
+    {
+      "declared_in": "PERSON-KATIE-FALLOW",
+      "notes": null,
+      "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-FALLOW-KNIGHT"
+      ],
+      "subject": "PERSON-KATIE-FALLOW"
+    },
+    {
+      "declared_in": "PERSON-KATIE-FALLOW",
+      "notes": null,
+      "object": "SRC-FALLOW-KNIGHT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FALLOW-KNIGHT"
+      ],
+      "subject": "PERSON-KATIE-FALLOW"
     },
     {
       "declared_in": "PERSON-KIT-WALSH",
@@ -772,6 +1122,26 @@
       "subject": "PERSON-KIT-WALSH"
     },
     {
+      "declared_in": "PERSON-LAUREN-WEINSTEIN",
+      "notes": null,
+      "object": "SRC-WEINSTEIN-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WEINSTEIN-BIO"
+      ],
+      "subject": "PERSON-LAUREN-WEINSTEIN"
+    },
+    {
+      "declared_in": "PERSON-LAUREN-WEINSTEIN",
+      "notes": null,
+      "object": "SRC-WEINSTEIN-NNSQUAD",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WEINSTEIN-NNSQUAD"
+      ],
+      "subject": "PERSON-LAUREN-WEINSTEIN"
+    },
+    {
       "declared_in": "PERSON-LAWRENCE-LESSIG",
       "notes": null,
       "object": "SRC-LESSIG-HARVARD",
@@ -780,6 +1150,36 @@
         "SRC-LESSIG-HARVARD"
       ],
       "subject": "PERSON-LAWRENCE-LESSIG"
+    },
+    {
+      "declared_in": "PERSON-LEE-TIEN",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-TIEN-EFF"
+      ],
+      "subject": "PERSON-LEE-TIEN"
+    },
+    {
+      "declared_in": "PERSON-LEE-TIEN",
+      "notes": null,
+      "object": "SRC-TIEN-EFF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TIEN-EFF"
+      ],
+      "subject": "PERSON-LEE-TIEN"
+    },
+    {
+      "declared_in": "PERSON-MATT-BLAZE",
+      "notes": null,
+      "object": "SRC-BLAZE-GEORGETOWN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BLAZE-GEORGETOWN"
+      ],
+      "subject": "PERSON-MATT-BLAZE"
     },
     {
       "declared_in": "PERSON-MITCH-STOLTZ",
@@ -800,6 +1200,186 @@
         "SRC-STOLTZ-EFF-BIO"
       ],
       "subject": "PERSON-MITCH-STOLTZ"
+    },
+    {
+      "declared_in": "PERSON-NATHAN-FREED-WESSLER",
+      "notes": null,
+      "object": "ORG-ACLU",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-WESSLER-ACLU"
+      ],
+      "subject": "PERSON-NATHAN-FREED-WESSLER"
+    },
+    {
+      "declared_in": "PERSON-NATHAN-FREED-WESSLER",
+      "notes": null,
+      "object": "SRC-WESSLER-ACLU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WESSLER-ACLU"
+      ],
+      "subject": "PERSON-NATHAN-FREED-WESSLER"
+    },
+    {
+      "declared_in": "PERSON-ORIN-KERR",
+      "notes": null,
+      "object": "SRC-ORIN-KERR-GWU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ORIN-KERR-GWU"
+      ],
+      "subject": "PERSON-ORIN-KERR"
+    },
+    {
+      "declared_in": "PERSON-PAMELA-CHESTEK",
+      "notes": null,
+      "object": "SRC-CHESTEK-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CHESTEK-ABOUT"
+      ],
+      "subject": "PERSON-PAMELA-CHESTEK"
+    },
+    {
+      "declared_in": "PERSON-PAUL-VIXIE",
+      "notes": null,
+      "object": "SRC-VIXIE-IHOF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VIXIE-IHOF"
+      ],
+      "subject": "PERSON-PAUL-VIXIE"
+    },
+    {
+      "declared_in": "PERSON-PHIL-ZIMMERMANN",
+      "notes": null,
+      "object": "SRC-ZIMMERMANN-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "PERSON-PHIL-ZIMMERMANN"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
+      "object": "SRC-PAUL-FISA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PAUL-FISA"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
+      "object": "SRC-PAUL-FOURTH-AMENDMENT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PAUL-FOURTH-AMENDMENT"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RO-KHANNA",
+      "notes": null,
+      "object": "SRC-KHANNA-INTERNET-BILL",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KHANNA-INTERNET-BILL"
+      ],
+      "subject": "PERSON-RO-KHANNA"
+    },
+    {
+      "declared_in": "PERSON-ROBERT-KAHN",
+      "notes": null,
+      "object": "SRC-KAHN-CNRI",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KAHN-CNRI"
+      ],
+      "subject": "PERSON-ROBERT-KAHN"
+    },
+    {
+      "declared_in": "PERSON-RON-RIVEST",
+      "notes": null,
+      "object": "SRC-RIVEST-CSAIL",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RIVEST-CSAIL"
+      ],
+      "subject": "PERSON-RON-RIVEST"
+    },
+    {
+      "declared_in": "PERSON-RON-WYDEN",
+      "notes": null,
+      "object": "SRC-WYDEN-AARONS-LAW",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-AARONS-LAW"
+      ],
+      "subject": "PERSON-RON-WYDEN"
+    },
+    {
+      "declared_in": "PERSON-RON-WYDEN",
+      "notes": null,
+      "object": "SRC-WYDEN-SECTION-230",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-SECTION-230"
+      ],
+      "subject": "PERSON-RON-WYDEN"
+    },
+    {
+      "declared_in": "PERSON-THOMAS-HAIGH",
+      "notes": null,
+      "object": "SRC-HAIGH-UWM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HAIGH-UWM"
+      ],
+      "subject": "PERSON-THOMAS-HAIGH"
+    },
+    {
+      "declared_in": "PERSON-TIM-BERNERS-LEE",
+      "notes": null,
+      "object": "SRC-BERNERS-LEE-W3C",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNERS-LEE-W3C"
+      ],
+      "subject": "PERSON-TIM-BERNERS-LEE"
+    },
+    {
+      "declared_in": "PERSON-VINT-CERF",
+      "notes": null,
+      "object": "SRC-CERF-GOOGLE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CERF-GOOGLE"
+      ],
+      "subject": "PERSON-VINT-CERF"
+    },
+    {
+      "declared_in": "PERSON-WHITFIELD-DIFFIE",
+      "notes": null,
+      "object": "SRC-DIFFIE-CISAC",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DIFFIE-CISAC"
+      ],
+      "subject": "PERSON-WHITFIELD-DIFFIE"
+    },
+    {
+      "declared_in": "PERSON-ZOE-LOFGREN",
+      "notes": null,
+      "object": "SRC-LOFGREN-AARONS-LAW",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW"
+      ],
+      "subject": "PERSON-ZOE-LOFGREN"
     },
     {
       "declared_in": "PROTOCOL-DNS",
@@ -920,6 +1500,36 @@
         "SRC-USC-17-512-LII"
       ],
       "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-SECTION-230",
+      "notes": null,
+      "object": "SRC-SECTION-230-EFF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SECTION-230-EFF"
+      ],
+      "subject": "STAT-SECTION-230"
+    },
+    {
+      "declared_in": "STAT-SECTION-230",
+      "notes": null,
+      "object": "SRC-SECTION-230-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SECTION-230-LII"
+      ],
+      "subject": "STAT-SECTION-230"
+    },
+    {
+      "declared_in": "STAT-SECTION-230",
+      "notes": null,
+      "object": "CASE-RENO-V-ACLU",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SECTION-230-EFF"
+      ],
+      "subject": "STAT-SECTION-230"
     },
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",

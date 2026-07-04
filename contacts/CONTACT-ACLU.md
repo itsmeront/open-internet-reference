@@ -43,6 +43,9 @@ last_verified: "2026-06-25"
 ## Key Attorneys for Software Rights
 
 - Jennifer Granick — Surveillance and Cybersecurity Counsel, Speech, Privacy, and Technology Project
+- Ben Wizner — Deputy Legal Director; oversees Center for Democracy including technology and speech work
+- Esha Bhandari — Director, Speech, Privacy, and Technology Project; CFAA and online research litigation
+- Nathan Freed Wessler — Deputy director, Speech, Privacy, and Technology Project; Carpenter v. United States
 
 ## Scope
 

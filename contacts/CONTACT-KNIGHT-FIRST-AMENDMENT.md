@@ -40,6 +40,12 @@ last_verified: "2026-06-25"
 3. **Focus**: The Institute is particularly interested in implications of new technology for free expression.
 4. **Note**: As an academic institute with a litigation arm, they select cases strategically for maximum impact on First Amendment doctrine.
 
+## Key Attorneys
+
+- Jameel Jaffer — Executive Director
+- Alex Abdo — Litigation Director
+- Katie Fallow — Deputy Litigation Director (social media and digital public forum cases)
+
 ## Scope
 
 The Knight First Amendment Institute is relevant to software companies facing digital speech restrictions, government censorship of online platforms, or challenges to code distribution as expression. Their unique combination of academic research and strategic litigation means they are especially interested in cases that could establish important precedent for digital speech rights.

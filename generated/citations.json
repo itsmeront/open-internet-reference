@@ -3,6 +3,52 @@
   "schema_version": 1,
   "sources": [
     {
+      "source_id": "SRC-ABBATE-VT",
+      "source_title": "Janet Abbate Virginia Tech Faculty Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-JANET-ABBATE",
+          "record_title": "Janet Abbate",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ABBATE-VT",
+          "predicate": "cites",
+          "record_id": "PERSON-JANET-ABBATE",
+          "record_title": "Janet Abbate",
+          "subject": "PERSON-JANET-ABBATE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ABDO-KNIGHT",
+      "source_title": "Alex Abdo Knight Institute Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-ALEX-ABDO",
+          "record_title": "Alex Abdo",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-ALEX-ABDO",
+          "record_title": "Alex Abdo",
+          "subject": "PERSON-ALEX-ABDO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-ABDO-KNIGHT",
+          "predicate": "cites",
+          "record_id": "PERSON-ALEX-ABDO",
+          "record_title": "Alex Abdo",
+          "subject": "PERSON-ALEX-ABDO",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-ACLU-CONTACT",
       "source_title": "American Civil Liberties Union Contact Page",
       "usages": [
@@ -41,24 +87,23 @@
       ]
     },
     {
-      "source_id": "SRC-AXONA-CONSTITUTIONAL-MANUAL-DOCX",
-      "source_title": "Axona Constitutional & Public Policy Reference Manual",
-      "usages": []
-    },
-    {
-      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-DOCX",
-      "source_title": "Axona Legal & Public Policy Outreach Contacts",
-      "usages": []
-    },
-    {
-      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-EXPANDED-DOCX",
-      "source_title": "Axona Legal & Public Policy Outreach Contacts Expanded",
-      "usages": []
-    },
-    {
-      "source_id": "SRC-AXONA-LEGAL-OUTREACH-CONTACTS-MD",
-      "source_title": "Axona Legal & Public Policy Outreach Contacts Markdown",
-      "usages": []
+      "source_id": "SRC-BERNERS-LEE-W3C",
+      "source_title": "Tim Berners-Lee W3C Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-TIM-BERNERS-LEE",
+          "record_title": "Tim Berners-Lee",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BERNERS-LEE-W3C",
+          "predicate": "cites",
+          "record_id": "PERSON-TIM-BERNERS-LEE",
+          "record_title": "Tim Berners-Lee",
+          "subject": "PERSON-TIM-BERNERS-LEE",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-BERNSTEIN-EFF",
@@ -150,6 +195,71 @@
           "record_id": "CASE-BERNSTEIN-V-DOJ",
           "record_title": "Bernstein v. United States Department of Justice",
           "subject": "CASE-BERNSTEIN-V-DOJ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BHANDARI-ACLU",
+      "source_title": "Esha Bhandari ACLU Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-ESHA-BHANDARI",
+          "record_title": "Esha Bhandari",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-ESHA-BHANDARI",
+          "record_title": "Esha Bhandari",
+          "subject": "PERSON-ESHA-BHANDARI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-BHANDARI-ACLU",
+          "predicate": "cites",
+          "record_id": "PERSON-ESHA-BHANDARI",
+          "record_title": "Esha Bhandari",
+          "subject": "PERSON-ESHA-BHANDARI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BLAZE-GEORGETOWN",
+      "source_title": "Matt Blaze Georgetown Faculty Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-MATT-BLAZE",
+          "record_title": "Matt Blaze",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BLAZE-GEORGETOWN",
+          "predicate": "cites",
+          "record_id": "PERSON-MATT-BLAZE",
+          "record_title": "Matt Blaze",
+          "subject": "PERSON-MATT-BLAZE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BOYD-MSR",
+      "source_title": "danah boyd Microsoft Research Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-DANAH-BOYD",
+          "record_title": "danah boyd",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BOYD-MSR",
+          "predicate": "cites",
+          "record_id": "PERSON-DANAH-BOYD",
+          "record_title": "danah boyd",
+          "subject": "PERSON-DANAH-BOYD",
           "usage": "relationship_source"
         }
       ]
@@ -252,6 +362,44 @@
       ]
     },
     {
+      "source_id": "SRC-CERF-GOOGLE",
+      "source_title": "Vinton G. Cerf Google Research Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-VINT-CERF",
+          "record_title": "Vint Cerf",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CERF-GOOGLE",
+          "predicate": "cites",
+          "record_id": "PERSON-VINT-CERF",
+          "record_title": "Vint Cerf",
+          "subject": "PERSON-VINT-CERF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CHESTEK-ABOUT",
+      "source_title": "Pamela Chestek About Page",
+      "usages": [
+        {
+          "record_id": "PERSON-PAMELA-CHESTEK",
+          "record_title": "Pamela Chestek",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CHESTEK-ABOUT",
+          "predicate": "cites",
+          "record_id": "PERSON-PAMELA-CHESTEK",
+          "record_title": "Pamela Chestek",
+          "subject": "PERSON-PAMELA-CHESTEK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-COHN-EFF-BIO",
       "source_title": "Cindy Cohn EFF Staff Biography",
       "usages": [
@@ -317,6 +465,25 @@
       ]
     },
     {
+      "source_id": "SRC-COOLEY-TECH",
+      "source_title": "Cooley Technology Industry Practice Page",
+      "usages": [
+        {
+          "record_id": "ORG-COOLEY",
+          "record_title": "Cooley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-COOLEY-TECH",
+          "predicate": "cites",
+          "record_id": "ORG-COOLEY",
+          "record_title": "Cooley",
+          "subject": "ORG-COOLEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CORLEY-LII",
       "source_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)",
       "usages": [
@@ -347,6 +514,25 @@
           "record_id": "CASE-UNIVERSAL-V-CORLEY",
           "record_title": "Universal City Studios v. Corley",
           "subject": "CASE-UNIVERSAL-V-CORLEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DIFFIE-CISAC",
+      "source_title": "Whitfield Diffie Stanford CISAC Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-WHITFIELD-DIFFIE",
+          "record_title": "Whitfield Diffie",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DIFFIE-CISAC",
+          "predicate": "cites",
+          "record_id": "PERSON-WHITFIELD-DIFFIE",
+          "record_title": "Whitfield Diffie",
+          "subject": "PERSON-WHITFIELD-DIFFIE",
           "usage": "relationship_source"
         }
       ]
@@ -390,6 +576,109 @@
       ]
     },
     {
+      "source_id": "SRC-EPIC-ABOUT",
+      "source_title": "EPIC About Page",
+      "usages": [
+        {
+          "record_id": "ORG-EPIC",
+          "record_title": "Electronic Privacy Information Center",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EPIC-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-EPIC",
+          "record_title": "Electronic Privacy Information Center",
+          "subject": "ORG-EPIC",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-EPIC-CONTACT",
+      "source_title": "EPIC Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-EPIC",
+          "record_title": "Electronic Privacy Information Center",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EPIC-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-EPIC",
+          "record_title": "Electronic Privacy Information Center",
+          "subject": "ORG-EPIC",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FALLOW-KNIGHT",
+      "source_title": "Katie Fallow Knight Institute Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "subject": "PERSON-KATIE-FALLOW",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-FALLOW-KNIGHT",
+          "predicate": "cites",
+          "record_id": "PERSON-KATIE-FALLOW",
+          "record_title": "Katie Fallow",
+          "subject": "PERSON-KATIE-FALLOW",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FENWICK-HISTORY",
+      "source_title": "Fenwick & West Firm History Page",
+      "usages": [
+        {
+          "record_id": "ORG-FENWICK",
+          "record_title": "Fenwick & West",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FENWICK-HISTORY",
+          "predicate": "cites",
+          "record_id": "ORG-FENWICK",
+          "record_title": "Fenwick & West",
+          "subject": "ORG-FENWICK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FENWICK-TECH",
+      "source_title": "Fenwick Technology Transactions Practice Page",
+      "usages": [
+        {
+          "record_id": "ORG-FENWICK",
+          "record_title": "Fenwick & West",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FENWICK-TECH",
+          "predicate": "cites",
+          "record_id": "ORG-FENWICK",
+          "record_title": "Fenwick & West",
+          "subject": "ORG-FENWICK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FSF-ABOUT",
       "source_title": "Free Software Foundation About Page",
       "usages": [
@@ -428,6 +717,33 @@
       ]
     },
     {
+      "source_id": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "source_title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
+      "usages": [
+        {
+          "record_id": "CASE-GOOGLE-V-ORACLE",
+          "record_title": "Google LLC v. Oracle America, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GOOGLE-ORACLE-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-GOOGLE-V-ORACLE",
+          "record_title": "Google LLC v. Oracle America, Inc.",
+          "subject": "CASE-GOOGLE-V-ORACLE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "CASE-GOOGLE-V-ORACLE",
+          "record_title": "Google LLC v. Oracle America, Inc.",
+          "subject": "CASE-GOOGLE-V-ORACLE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-GRANICK-ACLU-BIO",
       "source_title": "Jennifer Granick ACLU Staff Biography",
       "usages": [
@@ -450,6 +766,44 @@
           "record_id": "PERSON-JENNIFER-GRANICK",
           "record_title": "Jennifer Granick",
           "subject": "PERSON-JENNIFER-GRANICK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HAIGH-UWM",
+      "source_title": "Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-THOMAS-HAIGH",
+          "record_title": "Thomas Haigh",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HAIGH-UWM",
+          "predicate": "cites",
+          "record_id": "PERSON-THOMAS-HAIGH",
+          "record_title": "Thomas Haigh",
+          "subject": "PERSON-THOMAS-HAIGH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-IFS-ABOUT-US",
+      "source_title": "Institute for Free Speech About Us Page",
+      "usages": [
+        {
+          "record_id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+          "record_title": "Institute for Free Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IFS-ABOUT-US",
+          "predicate": "cites",
+          "record_id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+          "record_title": "Institute for Free Speech",
+          "subject": "ORG-INSTITUTE-FOR-FREE-SPEECH",
           "usage": "relationship_source"
         }
       ]
@@ -496,6 +850,33 @@
           "record_id": "ORG-INSTITUTE-FOR-JUSTICE",
           "record_title": "Institute for Justice",
           "subject": "ORG-INSTITUTE-FOR-JUSTICE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-JAFFER-KNIGHT",
+      "source_title": "Jameel Jaffer Knight Institute Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-JAMEEL-JAFFER",
+          "record_title": "Jameel Jaffer",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-KNIGHT-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JAMEEL-JAFFER",
+          "record_title": "Jameel Jaffer",
+          "subject": "PERSON-JAMEEL-JAFFER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-JAFFER-KNIGHT",
+          "predicate": "cites",
+          "record_id": "PERSON-JAMEEL-JAFFER",
+          "record_title": "Jameel Jaffer",
+          "subject": "PERSON-JAMEEL-JAFFER",
           "usage": "relationship_source"
         }
       ]
@@ -593,6 +974,63 @@
       ]
     },
     {
+      "source_id": "SRC-KAHN-CNRI",
+      "source_title": "Robert E. Kahn CNRI Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-ROBERT-KAHN",
+          "record_title": "Robert Kahn",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KAHN-CNRI",
+          "predicate": "cites",
+          "record_id": "PERSON-ROBERT-KAHN",
+          "record_title": "Robert Kahn",
+          "subject": "PERSON-ROBERT-KAHN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KAY-CHM",
+      "source_title": "Alan Kay Computer History Museum Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-ALAN-KAY",
+          "record_title": "Alan Kay",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KAY-CHM",
+          "predicate": "cites",
+          "record_id": "PERSON-ALAN-KAY",
+          "record_title": "Alan Kay",
+          "subject": "PERSON-ALAN-KAY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KHANNA-INTERNET-BILL",
+      "source_title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee",
+      "usages": [
+        {
+          "record_id": "PERSON-RO-KHANNA",
+          "record_title": "Ro Khanna",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KHANNA-INTERNET-BILL",
+          "predicate": "cites",
+          "record_id": "PERSON-RO-KHANNA",
+          "record_title": "Ro Khanna",
+          "subject": "PERSON-RO-KHANNA",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-KNIGHT-ABOUT",
       "source_title": "Knight First Amendment Institute About Page",
       "usages": [
@@ -658,6 +1096,25 @@
       ]
     },
     {
+      "source_id": "SRC-LOFGREN-AARONS-LAW",
+      "source_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
+      "usages": [
+        {
+          "record_id": "PERSON-ZOE-LOFGREN",
+          "record_title": "Zoe Lofgren",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LOFGREN-AARONS-LAW",
+          "predicate": "cites",
+          "record_id": "PERSON-ZOE-LOFGREN",
+          "record_title": "Zoe Lofgren",
+          "subject": "PERSON-ZOE-LOFGREN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-MCSHERRY-EFF-BIO",
       "source_title": "Corynne McSherry EFF Staff Biography",
       "usages": [
@@ -680,6 +1137,25 @@
           "record_id": "PERSON-CORYNNE-MCSHERRY",
           "record_title": "Corynne McSherry",
           "subject": "PERSON-CORYNNE-MCSHERRY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MEEKER-ABOUT",
+      "source_title": "Heather Meeker About Page",
+      "usages": [
+        {
+          "record_id": "PERSON-HEATHER-MEEKER",
+          "record_title": "Heather Meeker",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MEEKER-ABOUT",
+          "predicate": "cites",
+          "record_id": "PERSON-HEATHER-MEEKER",
+          "record_title": "Heather Meeker",
+          "subject": "PERSON-HEATHER-MEEKER",
           "usage": "relationship_source"
         }
       ]
@@ -752,6 +1228,25 @@
       "source_id": "SRC-OIR-ROADMAP-DOCX",
       "source_title": "Open Internet Reference Roadmap",
       "usages": []
+    },
+    {
+      "source_id": "SRC-ORIN-KERR-GWU",
+      "source_title": "Orin Kerr George Washington University Law Faculty Page",
+      "usages": [
+        {
+          "record_id": "PERSON-ORIN-KERR",
+          "record_title": "Orin Kerr",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ORIN-KERR-GWU",
+          "predicate": "cites",
+          "record_id": "PERSON-ORIN-KERR",
+          "record_title": "Orin Kerr",
+          "subject": "PERSON-ORIN-KERR",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-OSI-ABOUT",
@@ -838,6 +1333,44 @@
       ]
     },
     {
+      "source_id": "SRC-PAUL-FISA",
+      "source_title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe",
+      "usages": [
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PAUL-FISA",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PAUL-FOURTH-AMENDMENT",
+      "source_title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights",
+      "usages": [
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PAUL-FOURTH-AMENDMENT",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-PERFECT10-V-CCBILL-JUSTIA",
       "source_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)",
       "usages": [
@@ -907,6 +1440,120 @@
           "record_id": "TOPIC-SAFE-HARBOR",
           "record_title": "Online Service Provider Safe Harbor",
           "subject": "TOPIC-SAFE-HARBOR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PERKINS-COIE-TECH",
+      "source_title": "Perkins Coie Technology Transactions & Privacy Law Practice Page",
+      "usages": [
+        {
+          "record_id": "ORG-PERKINS-COIE",
+          "record_title": "Perkins Coie",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PERKINS-COIE-TECH",
+          "predicate": "cites",
+          "record_id": "ORG-PERKINS-COIE",
+          "record_title": "Perkins Coie",
+          "subject": "ORG-PERKINS-COIE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+      "source_title": "Public Knowledge About Page",
+      "usages": [
+        {
+          "record_id": "ORG-PUBLIC-KNOWLEDGE",
+          "record_title": "Public Knowledge",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-PUBLIC-KNOWLEDGE",
+          "record_title": "Public Knowledge",
+          "subject": "ORG-PUBLIC-KNOWLEDGE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "source_title": "Public Knowledge Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-PUBLIC-KNOWLEDGE",
+          "record_title": "Public Knowledge",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-PUBLIC-KNOWLEDGE",
+          "record_title": "Public Knowledge",
+          "subject": "ORG-PUBLIC-KNOWLEDGE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RCFP-CONTACT",
+      "source_title": "Reporters Committee Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-RCFP",
+          "record_title": "Reporters Committee for Freedom of the Press",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RCFP-CONTACT",
+          "predicate": "cites",
+          "record_id": "ORG-RCFP",
+          "record_title": "Reporters Committee for Freedom of the Press",
+          "subject": "ORG-RCFP",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RCFP-WHAT-WE-DO",
+      "source_title": "Reporters Committee What We Do Page",
+      "usages": [
+        {
+          "record_id": "ORG-RCFP",
+          "record_title": "Reporters Committee for Freedom of the Press",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RCFP-WHAT-WE-DO",
+          "predicate": "cites",
+          "record_id": "ORG-RCFP",
+          "record_title": "Reporters Committee for Freedom of the Press",
+          "subject": "ORG-RCFP",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-REED-BIO",
+      "source_title": "David P. Reed Official Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-DAVID-REED",
+          "record_title": "David P. Reed",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-REED-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-DAVID-REED",
+          "record_title": "David P. Reed",
+          "subject": "PERSON-DAVID-REED",
           "usage": "relationship_source"
         }
       ]
@@ -1089,6 +1736,117 @@
       ]
     },
     {
+      "source_id": "SRC-RIVEST-CSAIL",
+      "source_title": "Ronald L. Rivest MIT CSAIL Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-RON-RIVEST",
+          "record_title": "Ron Rivest",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RIVEST-CSAIL",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-RIVEST",
+          "record_title": "Ron Rivest",
+          "subject": "PERSON-RON-RIVEST",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RUSSELL-PROFILE",
+      "source_title": "Andrew L. Russell Professional Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-ANDREW-RUSSELL",
+          "record_title": "Andrew Russell",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RUSSELL-PROFILE",
+          "predicate": "cites",
+          "record_id": "PERSON-ANDREW-RUSSELL",
+          "record_title": "Andrew Russell",
+          "subject": "PERSON-ANDREW-RUSSELL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SCHNEIER-ABOUT",
+      "source_title": "Bruce Schneier About Page",
+      "usages": [
+        {
+          "record_id": "PERSON-BRUCE-SCHNEIER",
+          "record_title": "Bruce Schneier",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-BRUCE-SCHNEIER",
+          "record_title": "Bruce Schneier",
+          "subject": "PERSON-BRUCE-SCHNEIER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-SCHNEIER-ABOUT",
+          "predicate": "cites",
+          "record_id": "PERSON-BRUCE-SCHNEIER",
+          "record_title": "Bruce Schneier",
+          "subject": "PERSON-BRUCE-SCHNEIER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SECTION-230-EFF",
+      "source_title": "EFF Section 230 Page",
+      "usages": [
+        {
+          "record_id": "STAT-SECTION-230",
+          "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SECTION-230-EFF",
+          "predicate": "cites",
+          "record_id": "STAT-SECTION-230",
+          "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+          "subject": "STAT-SECTION-230",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-RENO-V-ACLU",
+          "predicate": "related_to",
+          "record_id": "STAT-SECTION-230",
+          "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+          "subject": "STAT-SECTION-230",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SECTION-230-LII",
+      "source_title": "47 U.S.C. \u00a7 230 (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "STAT-SECTION-230",
+          "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SECTION-230-LII",
+          "predicate": "cites",
+          "record_id": "STAT-SECTION-230",
+          "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+          "subject": "STAT-SECTION-230",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-SFC-ABOUT",
       "source_title": "Software Freedom Conservancy About Page",
       "usages": [
@@ -1252,6 +2010,33 @@
           "record_id": "PERSON-MITCH-STOLTZ",
           "record_title": "Mitch Stoltz",
           "subject": "PERSON-MITCH-STOLTZ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TIEN-EFF",
+      "source_title": "Lee Tien EFF Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-LEE-TIEN",
+          "record_title": "Lee Tien",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-LEE-TIEN",
+          "record_title": "Lee Tien",
+          "subject": "PERSON-LEE-TIEN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-TIEN-EFF",
+          "predicate": "cites",
+          "record_id": "PERSON-LEE-TIEN",
+          "record_title": "Lee Tien",
+          "subject": "PERSON-LEE-TIEN",
           "usage": "relationship_source"
         }
       ]
@@ -1558,14 +2343,14 @@
         },
         {
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "usage": "page_source"
         },
         {
           "object": "SRC-USC-18-1030-GOVINFO",
           "predicate": "cites",
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "subject": "STAT-CFAA-1030",
           "usage": "relationship_source"
         },
@@ -1573,7 +2358,7 @@
           "object": "TOPIC-COMPUTER-FRAUD",
           "predicate": "related_to",
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "subject": "STAT-CFAA-1030",
           "usage": "relationship_source"
         },
@@ -1606,14 +2391,14 @@
       "usages": [
         {
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "usage": "page_source"
         },
         {
           "object": "SRC-USC-18-1030-LII",
           "predicate": "cites",
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "subject": "STAT-CFAA-1030",
           "usage": "relationship_source"
         },
@@ -1678,14 +2463,14 @@
         },
         {
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "usage": "page_source"
         },
         {
           "object": "CASE-VAN-BUREN-V-US",
           "predicate": "related_to",
           "record_id": "STAT-CFAA-1030",
-          "record_title": "18 U.S.C. \u00a7 1030",
+          "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
           "subject": "STAT-CFAA-1030",
           "usage": "relationship_source"
         },
@@ -1700,6 +2485,25 @@
           "record_id": "TOPIC-COMPUTER-FRAUD",
           "record_title": "Computer Fraud and Abuse",
           "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-VIXIE-IHOF",
+      "source_title": "Paul Vixie Internet Hall of Fame Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-PAUL-VIXIE",
+          "record_title": "Paul Vixie",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VIXIE-IHOF",
+          "predicate": "cites",
+          "record_id": "PERSON-PAUL-VIXIE",
+          "record_title": "Paul Vixie",
+          "subject": "PERSON-PAUL-VIXIE",
           "usage": "relationship_source"
         }
       ]
@@ -1727,6 +2531,231 @@
           "record_id": "PERSON-KIT-WALSH",
           "record_title": "Kit Walsh",
           "subject": "PERSON-KIT-WALSH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WEINSTEIN-BIO",
+      "source_title": "Lauren Weinstein Biography Page",
+      "usages": [
+        {
+          "record_id": "PERSON-LAUREN-WEINSTEIN",
+          "record_title": "Lauren Weinstein",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WEINSTEIN-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-LAUREN-WEINSTEIN",
+          "record_title": "Lauren Weinstein",
+          "subject": "PERSON-LAUREN-WEINSTEIN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WEINSTEIN-NNSQUAD",
+      "source_title": "Network Neutrality Squad Announcement",
+      "usages": [
+        {
+          "record_id": "PERSON-LAUREN-WEINSTEIN",
+          "record_title": "Lauren Weinstein",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WEINSTEIN-NNSQUAD",
+          "predicate": "cites",
+          "record_id": "PERSON-LAUREN-WEINSTEIN",
+          "record_title": "Lauren Weinstein",
+          "subject": "PERSON-LAUREN-WEINSTEIN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WESSLER-ACLU",
+      "source_title": "Nathan Freed Wessler ACLU Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "subject": "PERSON-NATHAN-FREED-WESSLER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-WESSLER-ACLU",
+          "predicate": "cites",
+          "record_id": "PERSON-NATHAN-FREED-WESSLER",
+          "record_title": "Nathan Freed Wessler",
+          "subject": "PERSON-NATHAN-FREED-WESSLER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WILLIAMSON-LEGAL",
+      "source_title": "Aaron Williamson Williamson Legal Team Page",
+      "usages": [
+        {
+          "record_id": "PERSON-AARON-WILLIAMSON",
+          "record_title": "Aaron Williamson",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WILLIAMSON-LEGAL",
+          "predicate": "cites",
+          "record_id": "PERSON-AARON-WILLIAMSON",
+          "record_title": "Aaron Williamson",
+          "subject": "PERSON-AARON-WILLIAMSON",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WILSON-SONSINI-INTERNET",
+      "source_title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
+      "usages": [
+        {
+          "record_id": "ORG-WILSON-SONSINI",
+          "record_title": "Wilson Sonsini Goodrich & Rosati",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WILSON-SONSINI-INTERNET",
+          "predicate": "cites",
+          "record_id": "ORG-WILSON-SONSINI",
+          "record_title": "Wilson Sonsini Goodrich & Rosati",
+          "subject": "ORG-WILSON-SONSINI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WILSON-SONSINI-SOFTWARE",
+      "source_title": "Wilson Sonsini Software Industry Practice Page",
+      "usages": [
+        {
+          "record_id": "ORG-WILSON-SONSINI",
+          "record_title": "Wilson Sonsini Goodrich & Rosati",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WILSON-SONSINI-SOFTWARE",
+          "predicate": "cites",
+          "record_id": "ORG-WILSON-SONSINI",
+          "record_title": "Wilson Sonsini Goodrich & Rosati",
+          "subject": "ORG-WILSON-SONSINI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WIZNER-ACLU",
+      "source_title": "Ben Wizner ACLU Staff Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-BEN-WIZNER",
+          "record_title": "Ben Wizner",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-ACLU",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-BEN-WIZNER",
+          "record_title": "Ben Wizner",
+          "subject": "PERSON-BEN-WIZNER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-WIZNER-ACLU",
+          "predicate": "cites",
+          "record_id": "PERSON-BEN-WIZNER",
+          "record_title": "Ben Wizner",
+          "subject": "PERSON-BEN-WIZNER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WYDEN-AARONS-LAW",
+      "source_title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
+      "usages": [
+        {
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-AARONS-LAW",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WYDEN-SECTION-230",
+      "source_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF",
+      "usages": [
+        {
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-SECTION-230",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ZIMMERMANN-BIO",
+      "source_title": "Phil Zimmermann Official Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-PHIL-ZIMMERMANN",
+          "record_title": "Phil Zimmermann",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ZIMMERMANN-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-PHIL-ZIMMERMANN",
+          "record_title": "Phil Zimmermann",
+          "subject": "PERSON-PHIL-ZIMMERMANN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ZITTRAIN-HLS",
+      "source_title": "Jonathan L. Zittrain Harvard Law School Faculty Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-JONATHAN-ZITTRAIN",
+          "record_title": "Jonathan Zittrain",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ZITTRAIN-HLS",
+          "predicate": "cites",
+          "record_id": "PERSON-JONATHAN-ZITTRAIN",
+          "record_title": "Jonathan Zittrain",
+          "subject": "PERSON-JONATHAN-ZITTRAIN",
           "usage": "relationship_source"
         }
       ]

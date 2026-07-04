@@ -14,12 +14,17 @@ Do not treat these entries as verified organization, person, attorney, policymak
 
 ## Digital Civil Liberties Organizations
 
-Candidate organization records:
+Verified organization records (moved to `knowledge/organizations/`):
 
-- Electronic Frontier Foundation
-- American Civil Liberties Union
-- Knight First Amendment Institute
-- Center for Democracy & Technology
+- Electronic Frontier Foundation (`ORG-EFF`)
+- American Civil Liberties Union (`ORG-ACLU`)
+- Knight First Amendment Institute (`ORG-KNIGHT-FIRST-AMENDMENT`)
+- Center for Democracy & Technology (`ORG-CDT`)
+- Public Knowledge (`ORG-PUBLIC-KNOWLEDGE`) — 2026-07-04
+- Electronic Privacy Information Center (`ORG-EPIC`) — 2026-07-04
+- Reporters Committee for Freedom of the Press (`ORG-RCFP`) — 2026-07-04
+
+Remaining candidate organization records:
 
 Verification targets:
 
@@ -31,10 +36,13 @@ Verification targets:
 
 ## Constitutional Litigation Organizations
 
-Candidate organization records:
+Verified organization records (moved to `knowledge/organizations/`):
 
-- Institute for Justice
-- Institute for Free Speech
+- Institute for Justice (`ORG-INSTITUTE-FOR-JUSTICE`)
+- Institute for Free Speech (`ORG-INSTITUTE-FOR-FREE-SPEECH`) — 2026-07-04
+
+Remaining candidate organization records:
+
 - First Amendment Lawyers Association
 
 Verification targets:
@@ -46,14 +54,17 @@ Verification targets:
 
 ## Law Firms
 
-Candidate organization records:
+Verified organization records (moved to `knowledge/organizations/`):
+
+- Perkins Coie (`ORG-PERKINS-COIE`)
+- Cooley LLP (`ORG-COOLEY`)
+- Fenwick (`ORG-FENWICK`)
+- Wilson Sonsini Goodrich & Rosati (`ORG-WILSON-SONSINI`)
+
+Remaining candidate organization records:
 
 - Jenner & Block
 - WilmerHale
-- Perkins Coie
-- Cooley LLP
-- Fenwick
-- Wilson Sonsini Goodrich & Rosati
 
 Verification targets:
 
@@ -133,6 +144,13 @@ Historians (2026-07-04):
 - Janet Abbate (Virginia Tech, *Inventing the Internet*)
 - Thomas Haigh (UWM, history of computing)
 - Andrew Russell (SUNY Poly, open standards history)
+
+Attorneys (2026-07-04):
+
+- Jameel Jaffer, Katie Fallow, Alex Abdo (Knight First Amendment Institute)
+- Ben Wizner, Esha Bhandari, Nathan Freed Wessler (ACLU Speech, Privacy, and Technology)
+- Lee Tien (EFF Legislative Director)
+- Heather Meeker, Aaron Williamson, Pamela Chestek (open source private counsel)
 
 Remaining candidate person records (expert witnesses and public technical voices):
 

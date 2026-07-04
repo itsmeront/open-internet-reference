@@ -65,6 +65,13 @@
       "record_title": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)"
     },
     {
+      "date": "2007-11-05",
+      "description": "Publication date for Network Neutrality Squad Announcement.",
+      "event_type": "publication",
+      "record_id": "SRC-WEINSTEIN-NNSQUAD",
+      "record_title": "Network Neutrality Squad Announcement"
+    },
+    {
       "date": "2015-04-20",
       "description": "Publication date for EFF at 25 - Remembering the Case that Established Code as Speech.",
       "event_type": "publication",
@@ -128,6 +135,13 @@
       "record_title": "RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3"
     },
     {
+      "date": "2019",
+      "description": "Publication date for Matt Blaze Georgetown Faculty Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-BLAZE-GEORGETOWN",
+      "record_title": "Matt Blaze Georgetown Faculty Profile"
+    },
+    {
       "date": "2021",
       "description": "Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).",
       "event_type": "publication",
@@ -140,6 +154,13 @@
       "event_type": "publication",
       "record_id": "SRC-VAN-BUREN-LII",
       "record_title": "Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)"
+    },
+    {
+      "date": "2021-04-05",
+      "description": "Publication date for Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia).",
+      "event_type": "publication",
+      "record_id": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "record_title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)"
     },
     {
       "date": "2022-06-13",
@@ -458,13 +479,6 @@
     },
     {
       "date": "2026-06-19",
-      "description": "Last verified date for 18 U.S.C. \u00a7 1030.",
-      "event_type": "verification",
-      "record_id": "STAT-CFAA-1030",
-      "record_title": "18 U.S.C. \u00a7 1030"
-    },
-    {
-      "date": "2026-06-19",
       "description": "Last verified date for 17 U.S.C. \u00a7 512.",
       "event_type": "verification",
       "record_id": "STAT-DMCA-512",
@@ -528,6 +542,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Google LLC v. Oracle America, Inc..",
+      "event_type": "verification",
+      "record_id": "CASE-GOOGLE-V-ORACLE",
+      "record_title": "Google LLC v. Oracle America, Inc."
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Junger v. Daley.",
       "event_type": "verification",
       "record_id": "CASE-JUNGER-V-DALEY",
@@ -553,6 +574,20 @@
       "event_type": "verification",
       "record_id": "ORG-CDT",
       "record_title": "Center for Democracy and Technology"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Cooley.",
+      "event_type": "verification",
+      "record_id": "ORG-COOLEY",
+      "record_title": "Cooley"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Fenwick & West.",
+      "event_type": "verification",
+      "record_id": "ORG-FENWICK",
+      "record_title": "Fenwick & West"
     },
     {
       "date": "2026-06-25",
@@ -584,6 +619,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Perkins Coie.",
+      "event_type": "verification",
+      "record_id": "ORG-PERKINS-COIE",
+      "record_title": "Perkins Coie"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Software Freedom Law Center.",
       "event_type": "verification",
       "record_id": "ORG-SFLC",
@@ -595,6 +637,20 @@
       "event_type": "verification",
       "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
       "record_title": "Software Freedom Conservancy"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wilson Sonsini Goodrich & Rosati.",
+      "event_type": "verification",
+      "record_id": "ORG-WILSON-SONSINI",
+      "record_title": "Wilson Sonsini Goodrich & Rosati"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bruce Schneier.",
+      "event_type": "verification",
+      "record_id": "PERSON-BRUCE-SCHNEIER",
+      "record_title": "Bruce Schneier"
     },
     {
       "date": "2026-06-25",
@@ -633,6 +689,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Lauren Weinstein.",
+      "event_type": "verification",
+      "record_id": "PERSON-LAUREN-WEINSTEIN",
+      "record_title": "Lauren Weinstein"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Lawrence Lessig.",
       "event_type": "verification",
       "record_id": "PERSON-LAWRENCE-LESSIG",
@@ -640,10 +703,45 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Matt Blaze.",
+      "event_type": "verification",
+      "record_id": "PERSON-MATT-BLAZE",
+      "record_title": "Matt Blaze"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Mitch Stoltz.",
       "event_type": "verification",
       "record_id": "PERSON-MITCH-STOLTZ",
       "record_title": "Mitch Stoltz"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Rand Paul.",
+      "event_type": "verification",
+      "record_id": "PERSON-RAND-PAUL",
+      "record_title": "Rand Paul"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Ro Khanna.",
+      "event_type": "verification",
+      "record_id": "PERSON-RO-KHANNA",
+      "record_title": "Ro Khanna"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Ron Wyden.",
+      "event_type": "verification",
+      "record_id": "PERSON-RON-WYDEN",
+      "record_title": "Ron Wyden"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Zoe Lofgren.",
+      "event_type": "verification",
+      "record_id": "PERSON-ZOE-LOFGREN",
+      "record_title": "Zoe Lofgren"
     },
     {
       "date": "2026-06-25",
@@ -665,6 +763,13 @@
       "event_type": "verification",
       "record_id": "SRC-BERNSTEIN-JUSTIA",
       "record_title": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Matt Blaze Georgetown Faculty Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-BLAZE-GEORGETOWN",
+      "record_title": "Matt Blaze Georgetown Faculty Profile"
     },
     {
       "date": "2026-06-25",
@@ -703,10 +808,31 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Cooley Technology Industry Practice Page.",
+      "event_type": "verification",
+      "record_id": "SRC-COOLEY-TECH",
+      "record_title": "Cooley Technology Industry Practice Page"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Universal City Studios v. Corley Opinion Text (Open Casebook).",
       "event_type": "verification",
       "record_id": "SRC-CORLEY-LII",
       "record_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Fenwick & West Firm History Page.",
+      "event_type": "verification",
+      "record_id": "SRC-FENWICK-HISTORY",
+      "record_title": "Fenwick & West Firm History Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Fenwick Technology Transactions Practice Page.",
+      "event_type": "verification",
+      "record_id": "SRC-FENWICK-TECH",
+      "record_title": "Fenwick Technology Transactions Practice Page"
     },
     {
       "date": "2026-06-25",
@@ -721,6 +847,13 @@
       "event_type": "verification",
       "record_id": "SRC-FSF-PRESS",
       "record_title": "Free Software Foundation Press Information"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia).",
+      "event_type": "verification",
+      "record_id": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "record_title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)"
     },
     {
       "date": "2026-06-25",
@@ -766,6 +899,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.",
+      "event_type": "verification",
+      "record_id": "SRC-KHANNA-INTERNET-BILL",
+      "record_title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Knight First Amendment Institute About Page.",
       "event_type": "verification",
       "record_id": "SRC-KNIGHT-ABOUT",
@@ -784,6 +924,13 @@
       "event_type": "verification",
       "record_id": "SRC-LESSIG-HARVARD",
       "record_title": "Lawrence Lessig Harvard Law School Faculty Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.",
+      "event_type": "verification",
+      "record_id": "SRC-LOFGREN-AARONS-LAW",
+      "record_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law"
     },
     {
       "date": "2026-06-25",
@@ -836,6 +983,48 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe.",
+      "event_type": "verification",
+      "record_id": "SRC-PAUL-FISA",
+      "record_title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights.",
+      "event_type": "verification",
+      "record_id": "SRC-PAUL-FOURTH-AMENDMENT",
+      "record_title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Perkins Coie Technology Transactions & Privacy Law Practice Page.",
+      "event_type": "verification",
+      "record_id": "SRC-PERKINS-COIE-TECH",
+      "record_title": "Perkins Coie Technology Transactions & Privacy Law Practice Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bruce Schneier About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SCHNEIER-ABOUT",
+      "record_title": "Bruce Schneier About Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for EFF Section 230 Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SECTION-230-EFF",
+      "record_title": "EFF Section 230 Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for 47 U.S.C. \u00a7 230 (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-SECTION-230-LII",
+      "record_title": "47 U.S.C. \u00a7 230 (Cornell LII)"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Software Freedom Conservancy About Page.",
       "event_type": "verification",
       "record_id": "SRC-SFC-ABOUT",
@@ -870,6 +1059,517 @@
       "record_title": "Kit Walsh EFF Staff Biography"
     },
     {
+      "date": "2026-06-25",
+      "description": "Last verified date for Lauren Weinstein Biography Page.",
+      "event_type": "verification",
+      "record_id": "SRC-WEINSTEIN-BIO",
+      "record_title": "Lauren Weinstein Biography Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Network Neutrality Squad Announcement.",
+      "event_type": "verification",
+      "record_id": "SRC-WEINSTEIN-NNSQUAD",
+      "record_title": "Network Neutrality Squad Announcement"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wilson Sonsini Internet Strategy and Litigation Practice Page.",
+      "event_type": "verification",
+      "record_id": "SRC-WILSON-SONSINI-INTERNET",
+      "record_title": "Wilson Sonsini Internet Strategy and Litigation Practice Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wilson Sonsini Software Industry Practice Page.",
+      "event_type": "verification",
+      "record_id": "SRC-WILSON-SONSINI-SOFTWARE",
+      "record_title": "Wilson Sonsini Software Industry Practice Page"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-AARONS-LAW",
+      "record_title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wyden Remarks at Section 230 Briefing Hosted by EFF.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-SECTION-230",
+      "record_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030).",
+      "event_type": "verification",
+      "record_id": "STAT-CFAA-1030",
+      "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Section 230 (47 U.S.C. \u00a7 230).",
+      "event_type": "verification",
+      "record_id": "STAT-SECTION-230",
+      "record_title": "Section 230 (47 U.S.C. \u00a7 230)"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Electronic Privacy Information Center.",
+      "event_type": "verification",
+      "record_id": "ORG-EPIC",
+      "record_title": "Electronic Privacy Information Center"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Institute for Free Speech.",
+      "event_type": "verification",
+      "record_id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "record_title": "Institute for Free Speech"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Public Knowledge.",
+      "event_type": "verification",
+      "record_id": "ORG-PUBLIC-KNOWLEDGE",
+      "record_title": "Public Knowledge"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Reporters Committee for Freedom of the Press.",
+      "event_type": "verification",
+      "record_id": "ORG-RCFP",
+      "record_title": "Reporters Committee for Freedom of the Press"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Aaron Williamson.",
+      "event_type": "verification",
+      "record_id": "PERSON-AARON-WILLIAMSON",
+      "record_title": "Aaron Williamson"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Alan Kay.",
+      "event_type": "verification",
+      "record_id": "PERSON-ALAN-KAY",
+      "record_title": "Alan Kay"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Alex Abdo.",
+      "event_type": "verification",
+      "record_id": "PERSON-ALEX-ABDO",
+      "record_title": "Alex Abdo"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Andrew Russell.",
+      "event_type": "verification",
+      "record_id": "PERSON-ANDREW-RUSSELL",
+      "record_title": "Andrew Russell"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Ben Wizner.",
+      "event_type": "verification",
+      "record_id": "PERSON-BEN-WIZNER",
+      "record_title": "Ben Wizner"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for danah boyd.",
+      "event_type": "verification",
+      "record_id": "PERSON-DANAH-BOYD",
+      "record_title": "danah boyd"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for David P. Reed.",
+      "event_type": "verification",
+      "record_id": "PERSON-DAVID-REED",
+      "record_title": "David P. Reed"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Esha Bhandari.",
+      "event_type": "verification",
+      "record_id": "PERSON-ESHA-BHANDARI",
+      "record_title": "Esha Bhandari"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Heather Meeker.",
+      "event_type": "verification",
+      "record_id": "PERSON-HEATHER-MEEKER",
+      "record_title": "Heather Meeker"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Jameel Jaffer.",
+      "event_type": "verification",
+      "record_id": "PERSON-JAMEEL-JAFFER",
+      "record_title": "Jameel Jaffer"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Janet Abbate.",
+      "event_type": "verification",
+      "record_id": "PERSON-JANET-ABBATE",
+      "record_title": "Janet Abbate"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Jonathan Zittrain.",
+      "event_type": "verification",
+      "record_id": "PERSON-JONATHAN-ZITTRAIN",
+      "record_title": "Jonathan Zittrain"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Katie Fallow.",
+      "event_type": "verification",
+      "record_id": "PERSON-KATIE-FALLOW",
+      "record_title": "Katie Fallow"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Lee Tien.",
+      "event_type": "verification",
+      "record_id": "PERSON-LEE-TIEN",
+      "record_title": "Lee Tien"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Nathan Freed Wessler.",
+      "event_type": "verification",
+      "record_id": "PERSON-NATHAN-FREED-WESSLER",
+      "record_title": "Nathan Freed Wessler"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Orin Kerr.",
+      "event_type": "verification",
+      "record_id": "PERSON-ORIN-KERR",
+      "record_title": "Orin Kerr"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Pamela Chestek.",
+      "event_type": "verification",
+      "record_id": "PERSON-PAMELA-CHESTEK",
+      "record_title": "Pamela Chestek"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Paul Vixie.",
+      "event_type": "verification",
+      "record_id": "PERSON-PAUL-VIXIE",
+      "record_title": "Paul Vixie"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Phil Zimmermann.",
+      "event_type": "verification",
+      "record_id": "PERSON-PHIL-ZIMMERMANN",
+      "record_title": "Phil Zimmermann"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Robert Kahn.",
+      "event_type": "verification",
+      "record_id": "PERSON-ROBERT-KAHN",
+      "record_title": "Robert Kahn"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Ron Rivest.",
+      "event_type": "verification",
+      "record_id": "PERSON-RON-RIVEST",
+      "record_title": "Ron Rivest"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Thomas Haigh.",
+      "event_type": "verification",
+      "record_id": "PERSON-THOMAS-HAIGH",
+      "record_title": "Thomas Haigh"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Tim Berners-Lee.",
+      "event_type": "verification",
+      "record_id": "PERSON-TIM-BERNERS-LEE",
+      "record_title": "Tim Berners-Lee"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Vint Cerf.",
+      "event_type": "verification",
+      "record_id": "PERSON-VINT-CERF",
+      "record_title": "Vint Cerf"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Whitfield Diffie.",
+      "event_type": "verification",
+      "record_id": "PERSON-WHITFIELD-DIFFIE",
+      "record_title": "Whitfield Diffie"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Janet Abbate Virginia Tech Faculty Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-ABBATE-VT",
+      "record_title": "Janet Abbate Virginia Tech Faculty Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Alex Abdo Knight Institute Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-ABDO-KNIGHT",
+      "record_title": "Alex Abdo Knight Institute Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Tim Berners-Lee W3C Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-BERNERS-LEE-W3C",
+      "record_title": "Tim Berners-Lee W3C Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Esha Bhandari ACLU Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-BHANDARI-ACLU",
+      "record_title": "Esha Bhandari ACLU Staff Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for danah boyd Microsoft Research Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-BOYD-MSR",
+      "record_title": "danah boyd Microsoft Research Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Vinton G. Cerf Google Research Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-CERF-GOOGLE",
+      "record_title": "Vinton G. Cerf Google Research Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Pamela Chestek About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-CHESTEK-ABOUT",
+      "record_title": "Pamela Chestek About Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Whitfield Diffie Stanford CISAC Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-DIFFIE-CISAC",
+      "record_title": "Whitfield Diffie Stanford CISAC Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for EPIC About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-EPIC-ABOUT",
+      "record_title": "EPIC About Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for EPIC Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-EPIC-CONTACT",
+      "record_title": "EPIC Contact Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Katie Fallow Knight Institute Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-FALLOW-KNIGHT",
+      "record_title": "Katie Fallow Knight Institute Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-HAIGH-UWM",
+      "record_title": "Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Institute for Free Speech About Us Page.",
+      "event_type": "verification",
+      "record_id": "SRC-IFS-ABOUT-US",
+      "record_title": "Institute for Free Speech About Us Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Jameel Jaffer Knight Institute Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-JAFFER-KNIGHT",
+      "record_title": "Jameel Jaffer Knight Institute Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Robert E. Kahn CNRI Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-KAHN-CNRI",
+      "record_title": "Robert E. Kahn CNRI Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Alan Kay Computer History Museum Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-KAY-CHM",
+      "record_title": "Alan Kay Computer History Museum Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Heather Meeker About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-MEEKER-ABOUT",
+      "record_title": "Heather Meeker About Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Orin Kerr George Washington University Law Faculty Page.",
+      "event_type": "verification",
+      "record_id": "SRC-ORIN-KERR-GWU",
+      "record_title": "Orin Kerr George Washington University Law Faculty Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Public Knowledge About Page.",
+      "event_type": "verification",
+      "record_id": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+      "record_title": "Public Knowledge About Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Public Knowledge Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "record_title": "Public Knowledge Contact Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Reporters Committee Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-RCFP-CONTACT",
+      "record_title": "Reporters Committee Contact Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Reporters Committee What We Do Page.",
+      "event_type": "verification",
+      "record_id": "SRC-RCFP-WHAT-WE-DO",
+      "record_title": "Reporters Committee What We Do Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for David P. Reed Official Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-REED-BIO",
+      "record_title": "David P. Reed Official Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Ronald L. Rivest MIT CSAIL Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-RIVEST-CSAIL",
+      "record_title": "Ronald L. Rivest MIT CSAIL Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Andrew L. Russell Professional Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-RUSSELL-PROFILE",
+      "record_title": "Andrew L. Russell Professional Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Lee Tien EFF Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-TIEN-EFF",
+      "record_title": "Lee Tien EFF Staff Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Paul Vixie Internet Hall of Fame Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-VIXIE-IHOF",
+      "record_title": "Paul Vixie Internet Hall of Fame Profile"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Nathan Freed Wessler ACLU Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-WESSLER-ACLU",
+      "record_title": "Nathan Freed Wessler ACLU Staff Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Aaron Williamson Williamson Legal Team Page.",
+      "event_type": "verification",
+      "record_id": "SRC-WILLIAMSON-LEGAL",
+      "record_title": "Aaron Williamson Williamson Legal Team Page"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Ben Wizner ACLU Staff Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-WIZNER-ACLU",
+      "record_title": "Ben Wizner ACLU Staff Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Phil Zimmermann Official Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-ZIMMERMANN-BIO",
+      "record_title": "Phil Zimmermann Official Biography"
+    },
+    {
+      "date": "2026-07-04",
+      "description": "Last verified date for Jonathan L. Zittrain Harvard Law School Faculty Profile.",
+      "event_type": "verification",
+      "record_id": "SRC-ZITTRAIN-HLS",
+      "record_title": "Jonathan L. Zittrain Harvard Law School Faculty Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Janet Abbate Virginia Tech Faculty Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-ABBATE-VT",
+      "record_title": "Janet Abbate Virginia Tech Faculty Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Alex Abdo Knight Institute Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-ABDO-KNIGHT",
+      "record_title": "Alex Abdo Knight Institute Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Tim Berners-Lee W3C Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-BERNERS-LEE-W3C",
+      "record_title": "Tim Berners-Lee W3C Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Esha Bhandari ACLU Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-BHANDARI-ACLU",
+      "record_title": "Esha Bhandari ACLU Staff Biography"
+    },
+    {
       "date": "Not dated",
       "description": "Publication date for Center for Democracy and Technology About Page.",
       "event_type": "publication",
@@ -882,6 +1582,69 @@
       "event_type": "publication",
       "record_id": "SRC-CDT-WHO",
       "record_title": "Center for Democracy and Technology Who We Are Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Vinton G. Cerf Google Research Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-CERF-GOOGLE",
+      "record_title": "Vinton G. Cerf Google Research Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Pamela Chestek About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-CHESTEK-ABOUT",
+      "record_title": "Pamela Chestek About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Cooley Technology Industry Practice Page.",
+      "event_type": "publication",
+      "record_id": "SRC-COOLEY-TECH",
+      "record_title": "Cooley Technology Industry Practice Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Whitfield Diffie Stanford CISAC Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-DIFFIE-CISAC",
+      "record_title": "Whitfield Diffie Stanford CISAC Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for EPIC About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-EPIC-ABOUT",
+      "record_title": "EPIC About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for EPIC Contact Page.",
+      "event_type": "publication",
+      "record_id": "SRC-EPIC-CONTACT",
+      "record_title": "EPIC Contact Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Katie Fallow Knight Institute Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-FALLOW-KNIGHT",
+      "record_title": "Katie Fallow Knight Institute Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Fenwick & West Firm History Page.",
+      "event_type": "publication",
+      "record_id": "SRC-FENWICK-HISTORY",
+      "record_title": "Fenwick & West Firm History Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Fenwick Technology Transactions Practice Page.",
+      "event_type": "publication",
+      "record_id": "SRC-FENWICK-TECH",
+      "record_title": "Fenwick Technology Transactions Practice Page"
     },
     {
       "date": "Not dated",
@@ -906,6 +1669,20 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-HAIGH-UWM",
+      "record_title": "Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Institute for Free Speech About Us Page.",
+      "event_type": "publication",
+      "record_id": "SRC-IFS-ABOUT-US",
+      "record_title": "Institute for Free Speech About Us Page"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Institute for Justice About Us Page.",
       "event_type": "publication",
       "record_id": "SRC-IJ-ABOUT",
@@ -920,6 +1697,13 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Jameel Jaffer Knight Institute Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-JAFFER-KNIGHT",
+      "record_title": "Jameel Jaffer Knight Institute Biography"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Junger v. Daley ACLU Ohio Case Page.",
       "event_type": "publication",
       "record_id": "SRC-JUNGER-ACLU-OHIO",
@@ -927,10 +1711,45 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Robert E. Kahn CNRI Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-KAHN-CNRI",
+      "record_title": "Robert E. Kahn CNRI Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Alan Kay Computer History Museum Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-KAY-CHM",
+      "record_title": "Alan Kay Computer History Museum Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.",
+      "event_type": "publication",
+      "record_id": "SRC-KHANNA-INTERNET-BILL",
+      "record_title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Lawrence Lessig Harvard Law School Faculty Page.",
       "event_type": "publication",
       "record_id": "SRC-LESSIG-HARVARD",
       "record_title": "Lawrence Lessig Harvard Law School Faculty Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.",
+      "event_type": "publication",
+      "record_id": "SRC-LOFGREN-AARONS-LAW",
+      "record_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Heather Meeker About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-MEEKER-ABOUT",
+      "record_title": "Heather Meeker About Page"
     },
     {
       "date": "Not dated",
@@ -948,6 +1767,13 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Orin Kerr George Washington University Law Faculty Page.",
+      "event_type": "publication",
+      "record_id": "SRC-ORIN-KERR-GWU",
+      "record_title": "Orin Kerr George Washington University Law Faculty Page"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Open Source Initiative About Page.",
       "event_type": "publication",
       "record_id": "SRC-OSI-ABOUT",
@@ -959,6 +1785,69 @@
       "event_type": "publication",
       "record_id": "SRC-OSI-HISTORY",
       "record_title": "Open Source Initiative History Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe.",
+      "event_type": "publication",
+      "record_id": "SRC-PAUL-FISA",
+      "record_title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights.",
+      "event_type": "publication",
+      "record_id": "SRC-PAUL-FOURTH-AMENDMENT",
+      "record_title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Perkins Coie Technology Transactions & Privacy Law Practice Page.",
+      "event_type": "publication",
+      "record_id": "SRC-PERKINS-COIE-TECH",
+      "record_title": "Perkins Coie Technology Transactions & Privacy Law Practice Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Public Knowledge About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-PUBLIC-KNOWLEDGE-ABOUT",
+      "record_title": "Public Knowledge About Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Public Knowledge Contact Page.",
+      "event_type": "publication",
+      "record_id": "SRC-PUBLIC-KNOWLEDGE-CONTACT",
+      "record_title": "Public Knowledge Contact Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Reporters Committee Contact Page.",
+      "event_type": "publication",
+      "record_id": "SRC-RCFP-CONTACT",
+      "record_title": "Reporters Committee Contact Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Reporters Committee What We Do Page.",
+      "event_type": "publication",
+      "record_id": "SRC-RCFP-WHAT-WE-DO",
+      "record_title": "Reporters Committee What We Do Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for David P. Reed Official Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-REED-BIO",
+      "record_title": "David P. Reed Official Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Bruce Schneier About Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SCHNEIER-ABOUT",
+      "record_title": "Bruce Schneier About Page"
     },
     {
       "date": "Not dated",
@@ -982,11 +1871,130 @@
       "record_title": "Software Freedom Law Center Team Page"
     },
     {
+      "date": "Not dated",
+      "description": "Publication date for Lee Tien EFF Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-TIEN-EFF",
+      "record_title": "Lee Tien EFF Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Paul Vixie Internet Hall of Fame Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-VIXIE-IHOF",
+      "record_title": "Paul Vixie Internet Hall of Fame Profile"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Lauren Weinstein Biography Page.",
+      "event_type": "publication",
+      "record_id": "SRC-WEINSTEIN-BIO",
+      "record_title": "Lauren Weinstein Biography Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Nathan Freed Wessler ACLU Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-WESSLER-ACLU",
+      "record_title": "Nathan Freed Wessler ACLU Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Aaron Williamson Williamson Legal Team Page.",
+      "event_type": "publication",
+      "record_id": "SRC-WILLIAMSON-LEGAL",
+      "record_title": "Aaron Williamson Williamson Legal Team Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wilson Sonsini Internet Strategy and Litigation Practice Page.",
+      "event_type": "publication",
+      "record_id": "SRC-WILSON-SONSINI-INTERNET",
+      "record_title": "Wilson Sonsini Internet Strategy and Litigation Practice Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wilson Sonsini Software Industry Practice Page.",
+      "event_type": "publication",
+      "record_id": "SRC-WILSON-SONSINI-SOFTWARE",
+      "record_title": "Wilson Sonsini Software Industry Practice Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Ben Wizner ACLU Staff Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-WIZNER-ACLU",
+      "record_title": "Ben Wizner ACLU Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-AARONS-LAW",
+      "record_title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wyden Remarks at Section 230 Briefing Hosted by EFF.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-SECTION-230",
+      "record_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Phil Zimmermann Official Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-ZIMMERMANN-BIO",
+      "record_title": "Phil Zimmermann Official Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Jonathan L. Zittrain Harvard Law School Faculty Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-ZITTRAIN-HLS",
+      "record_title": "Jonathan L. Zittrain Harvard Law School Faculty Profile"
+    },
+    {
       "date": "Not dated (maintained)",
       "description": "Publication date for Bernstein v. US Dept. of Justice EFF Case Page.",
       "event_type": "publication",
       "record_id": "SRC-BERNSTEIN-EFF",
       "record_title": "Bernstein v. US Dept. of Justice EFF Case Page"
+    },
+    {
+      "date": "Not dated (maintained)",
+      "description": "Publication date for EFF Section 230 Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SECTION-230-EFF",
+      "record_title": "EFF Section 230 Page"
+    },
+    {
+      "date": "Not dated (maintained)",
+      "description": "Publication date for 47 U.S.C. \u00a7 230 (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-SECTION-230-LII",
+      "record_title": "47 U.S.C. \u00a7 230 (Cornell LII)"
+    },
+    {
+      "date": "Not dated (page updated January 2025)",
+      "description": "Publication date for Ronald L. Rivest MIT CSAIL Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-RIVEST-CSAIL",
+      "record_title": "Ronald L. Rivest MIT CSAIL Profile"
+    },
+    {
+      "date": "Not dated (profile active; institutional blog posts 2013\u20132023)",
+      "description": "Publication date for danah boyd Microsoft Research Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-BOYD-MSR",
+      "record_title": "danah boyd Microsoft Research Profile"
+    },
+    {
+      "date": "Not dated (profile reflects Provost appointment and 2022 publications)",
+      "description": "Publication date for Andrew L. Russell Professional Profile.",
+      "event_type": "publication",
+      "record_id": "SRC-RUSSELL-PROFILE",
+      "record_title": "Andrew L. Russell Professional Profile"
     },
     {
       "date": "Not dated (updated regularly)",
