@@ -120,13 +120,24 @@ Verified person records (moved to `knowledge/people/`):
 - David P. Reed
 - Alan Kay
 
+New expert pages (2026-07-04):
+
+- Ron Rivest (MIT Institute Professor, RSA)
+- Tim Berners-Lee (WWW inventor, MIT/Oxford)
+- danah boyd (Georgetown / Microsoft Research)
+- Robert Kahn (TCP/IP co-inventor, CNRI)
+- Orin Kerr (GW Law, CFAA scholar)
+
+Historians (2026-07-04):
+
+- Janet Abbate (Virginia Tech, *Inventing the Internet*)
+- Thomas Haigh (UWM, history of computing)
+- Andrew Russell (SUNY Poly, open standards history)
+
 Remaining candidate person records (expert witnesses and public technical voices):
 
-- Robert Kahn (TCP/IP co-designer)
 - Steve Crocker (RFC process, internet governance)
-- Tim Berners-Lee (World Wide Web)
-- Ron Rivest (RSA, MIT)
-- danah boyd (platforms and social media research)
+- Ron Rivest co-authors and additional MIT crypto faculty (already partially covered)
 - Phil Venables (cloud security, financial sector)
 
 Verification targets:

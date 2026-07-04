@@ -53,6 +53,19 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 - In 1991 he represented Philip Zimmermann, the developer of PGP, when Zimmermann was threatened with prosecution for distributing strong encryption as free software.
 - Moglen received the EFF Pioneer Award in 2003.
 
+## Expert Testimony and Public Advocacy
+
+Moglen combines Columbia faculty credentials with decades of hands-on GPL enforcement and encryption-policy advocacy. He is frequently sought when litigation turns on copyleft obligations, free software distribution rights, or the legal history of civilian cryptography export controls.
+
+## Relevance to Lawsuits Involving Software and Internet Infrastructure
+
+Moglen is particularly useful when a case involves:
+
+- GPL or copyleft license interpretation and enforcement
+- Free software distribution and patent-retaliation clauses
+- Historical encryption export controls (PGP/Zimmermann defense context)
+- Nonprofit legal structures for open source projects (SFLC model)
+
 ## Relevance to Open Source and Software Companies
 
 Moglen is one of the most significant legal figures in the free software and open source world. His work drafting GPL v3, enforcing the GPL, defending PGP encryption distribution, and founding SFLC to provide pro bono legal services to open source projects makes him a key resource for any software company navigating open source licensing or facing threats related to code distribution.

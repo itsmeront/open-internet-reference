@@ -40,6 +40,19 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 - She has published widely on U.S. government surveillance practices and helped educate judges and congressional staffers on these issues.
 - Before her policy career, she worked in private practice specializing in defending cases involving computer crime.
 
+## Expert Testimony and Public Advocacy
+
+Granick taught surveillance law and cybersecurity at Stanford Law School's Center for Internet and Society (2012–2017) and has published widely for judicial and legislative audiences on encryption policy, government hacking, and Fourth Amendment limits in networked environments. She bridges academic teaching on computer crime with active ACLU litigation.
+
+## Relevance to Lawsuits Involving Software and Internet Infrastructure
+
+Granick is particularly useful when a case involves:
+
+- Government demands for source code, backdoors, or decryption assistance
+- Computer fraud and abuse charges against security researchers
+- Fourth Amendment limits on device and cloud searches
+- Encryption export controls and civilian crypto rights
+
 ## Relevance to Open Source and Software Companies
 
 Granick's expertise in surveillance law, cybersecurity, encryption policy, and the Fourth Amendment makes her directly relevant to software companies facing government demands for data access, surveillance-related legal threats, or challenges to encryption implementation. Her work educating judges and legislators on technology helps create a more informed legal environment for the tech industry.
