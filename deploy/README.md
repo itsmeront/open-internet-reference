@@ -279,7 +279,7 @@ sudo tail -20 /opt/oir/deploy.log
 | **502** on webhook delivery | Service down, wrong bind address, or iptables blocking Docker→host | `systemctl status oir-webhook`; confirm `0.0.0.0:9000` in `ss -tlnp`; add iptables rules above |
 | **403** Invalid signature | GitHub secret ≠ `/opt/oir/.webhook-secret` | Update secret in GitHub repo webhook settings |
 | Service crash `Permission denied: webhook.log` | Running as `www-data` instead of `oir` | Use `User=oir` in `oir-webhook.service`; `chown oir:oir /opt/oir/webhook.log` |
-| Cron deploy fails `Permission denied` | `deploy.sh` not executable | `chmod +x /opt/oir/repo/deploy/deploy.sh` |
+| Cron deploy fails `Permission denied` | `deploy.sh` not executable after `git reset --hard` | Webhook uses `bash deploy.sh`; cron runs as `oir`; deploy self-`chmod`s after pull |
 | Ping **200** but push doesn't deploy | Push not to `main`, or deploy script error | Check `webhook.log` and `deploy.log` for branch filter / deploy stderr |
 
 See also [`.github/DECAP_CMS_OAUTH.md`](../.github/DECAP_CMS_OAUTH.md) for OAuth Docker

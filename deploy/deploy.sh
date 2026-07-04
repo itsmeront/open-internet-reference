@@ -35,6 +35,7 @@ log "→ Pulling latest from origin/main..."
 cd "$REPO_DIR"
 $AS_OIR git fetch origin main
 $AS_OIR git reset --hard origin/main
+chmod +x "$REPO_DIR/deploy/deploy.sh" 2>/dev/null || true
 
 # Sync nginx config
 log "→ Syncing nginx config..."

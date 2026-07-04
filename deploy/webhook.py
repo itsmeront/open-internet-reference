@@ -101,11 +101,11 @@ class WebhookHandler(BaseHTTPRequestHandler):
             self.wfile.write(b"Ignored (not main)")
             return
 
-        # Trigger deploy
+        # Trigger deploy (bash — deploy.sh may not be executable after git reset --hard)
         logger.info(f"Push to main detected — triggering deploy...")
         try:
             result = subprocess.run(
-                [str(DEPLOY_SCRIPT)],
+                ["/bin/bash", str(DEPLOY_SCRIPT)],
                 capture_output=True,
                 text=True,
                 timeout=300,  # 5 minute timeout
