@@ -65,7 +65,10 @@ The Court treated historical cell-site location records as presenting greater pr
 
 ## Sources
 
-- `SRC-CARPENTER-LII`: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).
+1. `SRC-CARPENTER-LII`: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo).
 
 ## Research Debt

@@ -70,7 +70,10 @@ Paul's anti-encryption-backdoor amendments directly protect software companies f
 
 ## Sources
 
-- `SRC-PAUL-FOURTH-AMENDMENT`: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights.
+1. `SRC-PAUL-FOURTH-AMENDMENT`: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights.
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-PAUL-FISA`: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe.
 
 ## Research Debt

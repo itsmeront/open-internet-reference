@@ -72,7 +72,7 @@ Wizner's leadership over ACLU technology and speech work makes him relevant when
 
 ## Sources
 
-- [`SRC-WIZNER-ACLU`](../../../bibliography.md#SRC-WIZNER-ACLU): Ben Wizner ACLU Staff Biography.
+1. [`SRC-WIZNER-ACLU`](../../../bibliography.md#SRC-WIZNER-ACLU): Ben Wizner ACLU Staff Biography.
 
 ## Research Debt
 

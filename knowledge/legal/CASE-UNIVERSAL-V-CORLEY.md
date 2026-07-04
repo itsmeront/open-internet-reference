@@ -71,7 +71,7 @@ This case demonstrates both the strengths and limits of the code-as-speech doctr
 
 ## Sources
 
-- `SRC-CORLEY-LII`: Universal City Studios v. Corley Opinion Text (Open Casebook).
+1. `SRC-CORLEY-LII`: Universal City Studios v. Corley Opinion Text (Open Casebook).
 
 ## Research Debt
 

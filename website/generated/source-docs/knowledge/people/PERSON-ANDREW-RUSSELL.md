@@ -78,7 +78,7 @@ Pair with internet architecture participants (Cerf, Kahn, Reed) when both design
 
 ## Sources
 
-- [`SRC-RUSSELL-PROFILE`](../../../bibliography.md#SRC-RUSSELL-PROFILE): Andrew L. Russell Professional Profile.
+1. [`SRC-RUSSELL-PROFILE`](../../../bibliography.md#SRC-RUSSELL-PROFILE): Andrew L. Russell Professional Profile.
 
 ## Research Debt
 

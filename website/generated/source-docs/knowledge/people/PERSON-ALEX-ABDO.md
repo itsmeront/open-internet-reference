@@ -74,7 +74,7 @@ Abdo's NSA surveillance litigation, platform research access work, and encryptio
 
 ## Sources
 
-- [`SRC-ABDO-KNIGHT`](../../../bibliography.md#SRC-ABDO-KNIGHT): Alex Abdo Knight Institute Biography.
+1. [`SRC-ABDO-KNIGHT`](../../../bibliography.md#SRC-ABDO-KNIGHT): Alex Abdo Knight Institute Biography.
 
 ## Research Debt
 

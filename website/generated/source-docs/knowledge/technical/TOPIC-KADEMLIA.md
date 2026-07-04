@@ -65,7 +65,7 @@ Technical analysis has not yet been drafted. Future work should summarize the XO
 
 ## Sources
 
-- [`SRC-KADEMLIA-PAPER`](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia.pdf): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric.
+1. [`SRC-KADEMLIA-PAPER`](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia.pdf): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric.
 
 ## Research Debt
 

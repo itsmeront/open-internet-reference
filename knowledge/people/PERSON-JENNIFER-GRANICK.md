@@ -67,7 +67,7 @@ Granick's expertise in surveillance law, cybersecurity, encryption policy, and t
 
 ## Sources
 
-- `SRC-GRANICK-ACLU-BIO`: Jennifer Granick ACLU Staff Biography.
+1. `SRC-GRANICK-ACLU-BIO`: Jennifer Granick ACLU Staff Biography.
 
 ## Research Debt
 

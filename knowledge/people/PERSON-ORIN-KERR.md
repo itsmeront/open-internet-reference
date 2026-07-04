@@ -58,7 +58,7 @@ Kerr is particularly useful when a case involves:
 
 ## Sources
 
-- `SRC-ORIN-KERR-GWU`: Orin Kerr George Washington University Law Faculty Page.
+1. `SRC-ORIN-KERR-GWU`: Orin Kerr George Washington University Law Faculty Page.
 
 ## Research Debt
 

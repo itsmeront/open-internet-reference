@@ -80,7 +80,10 @@ CDT works at the intersection of technology policy and individual rights, making
 
 ## Sources
 
-- [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT): Center for Democracy and Technology About Page.
+1. [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT): Center for Democracy and Technology About Page.
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-CDT-WHO`](../../../bibliography.md#SRC-CDT-WHO): Center for Democracy and Technology Who We Are Page.
 
 ## Research Debt

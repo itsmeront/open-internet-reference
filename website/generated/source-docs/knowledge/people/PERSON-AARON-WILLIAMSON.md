@@ -68,7 +68,7 @@ Williamson is directly relevant for open source compliance, foundation formation
 
 ## Sources
 
-- [`SRC-WILLIAMSON-LEGAL`](../../../bibliography.md#SRC-WILLIAMSON-LEGAL): Aaron Williamson Williamson Legal Team Page.
+1. [`SRC-WILLIAMSON-LEGAL`](../../../bibliography.md#SRC-WILLIAMSON-LEGAL): Aaron Williamson Williamson Legal Team Page.
 
 ## Research Debt
 

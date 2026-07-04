@@ -82,8 +82,8 @@ EPIC's work on surveillance, consumer privacy, AI accountability, and platform g
 
 ## Sources
 
-- [`SRC-EPIC-ABOUT`](../../../bibliography.md#SRC-EPIC-ABOUT): EPIC About Page.
-- [`SRC-EPIC-CONTACT`](../../../bibliography.md#SRC-EPIC-CONTACT): EPIC Contact Page.
+1. [`SRC-EPIC-ABOUT`](../../../bibliography.md#SRC-EPIC-ABOUT): EPIC About Page.
+2. [`SRC-EPIC-CONTACT`](../../../bibliography.md#SRC-EPIC-CONTACT): EPIC Contact Page.
 
 ## Research Debt
 

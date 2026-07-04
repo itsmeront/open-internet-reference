@@ -62,8 +62,8 @@ Software Freedom Conservancy directly supports open source projects by providing
 
 ## Sources
 
-- `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page.
-- `SRC-SFC-HOME`: Software Freedom Conservancy Home Page.
+1. `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page.
+2. `SRC-SFC-HOME`: Software Freedom Conservancy Home Page.
 
 ## Research Debt
 

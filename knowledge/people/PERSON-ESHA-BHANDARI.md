@@ -55,7 +55,7 @@ Bhandari's CFAA litigation in Sandvig is directly relevant to security researche
 
 ## Sources
 
-- `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography.
+1. `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography.
 
 ## Research Debt
 

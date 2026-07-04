@@ -81,7 +81,7 @@ Schneier's work informs the security practices that open source and commercial s
 
 ## Sources
 
-- [`SRC-SCHNEIER-ABOUT`](../../../bibliography.md#SRC-SCHNEIER-ABOUT): Bruce Schneier About Page.
+1. [`SRC-SCHNEIER-ABOUT`](../../../bibliography.md#SRC-SCHNEIER-ABOUT): Bruce Schneier About Page.
 
 ## Research Debt
 

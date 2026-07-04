@@ -82,7 +82,10 @@ Moglen is one of the most significant legal figures in the free software and ope
 
 ## Sources
 
-- `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page.
+1. `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page.
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-MOGLEN-DSI`: Eben Moglen Columbia Data Science Institute Profile.
 
 ## Research Debt

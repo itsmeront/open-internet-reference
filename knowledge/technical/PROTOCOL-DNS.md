@@ -46,7 +46,7 @@ Technical analysis has not yet been drafted. Future work should describe DNS con
 
 ## Sources
 
-- `SRC-RFC-1034`: RFC 1034: Domain Names - Concepts and Facilities.
+1. `SRC-RFC-1034`: RFC 1034: Domain Names - Concepts and Facilities.
 
 ## Research Debt
 

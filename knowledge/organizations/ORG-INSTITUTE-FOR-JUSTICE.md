@@ -67,8 +67,8 @@ IJ's commitment to defending the free flow of information and opposing governmen
 
 ## Sources
 
-- `SRC-IJ-ABOUT`: Institute for Justice About Us Page.
-- `SRC-IJ-FIRST-AMENDMENT`: Institute for Justice First Amendment Practice Area.
+1. `SRC-IJ-ABOUT`: Institute for Justice About Us Page.
+2. `SRC-IJ-FIRST-AMENDMENT`: Institute for Justice First Amendment Practice Area.
 
 ## Research Debt
 

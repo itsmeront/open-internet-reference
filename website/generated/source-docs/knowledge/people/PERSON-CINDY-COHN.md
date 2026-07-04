@@ -132,12 +132,15 @@ Cohn's successful litigation in Bernstein v. DOJ established that source code is
 
 ## Sources
 
-- [`SRC-COHN-EFF-BIO`](../../../bibliography.md#SRC-COHN-EFF-BIO): Cindy Cohn EFF Staff Biography (archived; original URL returns 403).
+1. [`SRC-COHN-EFF-BIO`](../../../bibliography.md#SRC-COHN-EFF-BIO): Cindy Cohn EFF Staff Biography (archived; original URL returns 403).
+2. [`SRC-BERNSTEIN-EFF-25`](../../../bibliography.md#SRC-BERNSTEIN-EFF-25): EFF at 25 — Remembering the Case that Established Code as Speech.
+3. [`SRC-JEWEL-V-NSA-EFF`](../../../bibliography.md#SRC-JEWEL-V-NSA-EFF): EFF Jewel v. NSA Case Page — Supreme Court Rejection.
+4. [`SRC-BERNSTEIN-JUSTIA`](../../../bibliography.md#SRC-BERNSTEIN-JUSTIA): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-COHN-EFF-DEPARTURE`](../../../bibliography.md#SRC-COHN-EFF-DEPARTURE): EFF Press Release — Cindy Cohn Stepping Down.
 - [`SRC-COHN-FOSSFORCE`](../../../bibliography.md#SRC-COHN-FOSSFORCE): FOSS Force — Cohn Returns to the Courtroom.
-- [`SRC-JEWEL-V-NSA-EFF`](../../../bibliography.md#SRC-JEWEL-V-NSA-EFF): EFF Jewel v. NSA Case Page — Supreme Court Rejection.
-- [`SRC-BERNSTEIN-EFF-25`](../../../bibliography.md#SRC-BERNSTEIN-EFF-25): EFF at 25 — Remembering the Case that Established Code as Speech.
-- [`SRC-BERNSTEIN-JUSTIA`](../../../bibliography.md#SRC-BERNSTEIN-JUSTIA): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
 
 ## Research Debt
 

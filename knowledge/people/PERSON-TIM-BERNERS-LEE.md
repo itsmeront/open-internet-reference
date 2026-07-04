@@ -61,7 +61,7 @@ Berners-Lee is particularly useful when a case involves:
 
 ## Sources
 
-- `SRC-BERNERS-LEE-W3C`: Tim Berners-Lee W3C Biography.
+1. `SRC-BERNERS-LEE-W3C`: Tim Berners-Lee W3C Biography.
 
 ## Research Debt
 

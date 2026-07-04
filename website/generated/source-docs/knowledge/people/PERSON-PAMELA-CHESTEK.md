@@ -65,7 +65,7 @@ Chestek is relevant when software projects or companies face trademark disputes 
 
 ## Sources
 
-- [`SRC-CHESTEK-ABOUT`](../../../bibliography.md#SRC-CHESTEK-ABOUT): Pamela Chestek About Page.
+1. [`SRC-CHESTEK-ABOUT`](../../../bibliography.md#SRC-CHESTEK-ABOUT): Pamela Chestek About Page.
 
 ## Research Debt
 

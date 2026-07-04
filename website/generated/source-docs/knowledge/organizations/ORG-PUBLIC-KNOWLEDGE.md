@@ -81,8 +81,8 @@ Public Knowledge advocates for balanced copyright, open networks, and innovation
 
 ## Sources
 
-- [`SRC-PUBLIC-KNOWLEDGE-ABOUT`](../../../bibliography.md#SRC-PUBLIC-KNOWLEDGE-ABOUT): Public Knowledge About Page.
-- [`SRC-PUBLIC-KNOWLEDGE-CONTACT`](../../../bibliography.md#SRC-PUBLIC-KNOWLEDGE-CONTACT): Public Knowledge Contact Page.
+1. [`SRC-PUBLIC-KNOWLEDGE-ABOUT`](../../../bibliography.md#SRC-PUBLIC-KNOWLEDGE-ABOUT): Public Knowledge About Page.
+2. [`SRC-PUBLIC-KNOWLEDGE-CONTACT`](../../../bibliography.md#SRC-PUBLIC-KNOWLEDGE-CONTACT): Public Knowledge Contact Page.
 
 ## Research Debt
 

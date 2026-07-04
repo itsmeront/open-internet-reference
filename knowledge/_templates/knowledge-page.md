@@ -41,7 +41,9 @@ List evidence-backed relationships. Each relationship must cite at least one sou
 
 ## Sources
 
-- `SRC-EXAMPLE`: Source title.
+Number entries to match footnote labels (`1.` = `[^1]`, `2.` = `[^2]`, and so on). List any front-matter sources not yet used in footnotes under **Additional sources**.
+
+1. `SRC-EXAMPLE`: Source title.
 
 ## Research Debt
 

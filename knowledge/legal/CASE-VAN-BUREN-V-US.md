@@ -78,9 +78,12 @@ The Court rejected an interpretation of "exceeds authorized access" that would c
 
 ## Sources
 
-- `SRC-VAN-BUREN-LII`: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
+1. `SRC-VAN-BUREN-LII`: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
+2. `SRC-USC-18-1030-GOVINFO`: 18 U.S.C. § 1030 (GovInfo).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-VAN-BUREN-GOVINFO`: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).
-- `SRC-USC-18-1030-GOVINFO`: 18 U.S.C. § 1030 (GovInfo).
 
 ## Research Debt
 

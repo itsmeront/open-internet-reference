@@ -77,7 +77,7 @@ Rivest is particularly useful when a case involves:
 
 ## Sources
 
-- [`SRC-RIVEST-CSAIL`](../../../bibliography.md#SRC-RIVEST-CSAIL): Ronald L. Rivest MIT CSAIL Profile.
+1. [`SRC-RIVEST-CSAIL`](../../../bibliography.md#SRC-RIVEST-CSAIL): Ronald L. Rivest MIT CSAIL Profile.
 
 ## Research Debt
 

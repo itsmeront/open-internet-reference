@@ -55,7 +55,7 @@ Leading startup law firm with deep technology transactions and IP expertise. Coo
 
 ## Sources
 
-- `SRC-COOLEY-TECH`: Cooley Technology Industry Practice Page.
+1. `SRC-COOLEY-TECH`: Cooley Technology Industry Practice Page.
 
 ## Research Debt
 

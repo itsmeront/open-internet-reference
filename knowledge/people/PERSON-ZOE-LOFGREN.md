@@ -55,7 +55,7 @@ CFAA reform is critical for security researchers, developers, and anyone who acc
 
 ## Sources
 
-- `SRC-LOFGREN-AARONS-LAW`: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.
+1. `SRC-LOFGREN-AARONS-LAW`: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.
 
 ## Research Debt
 

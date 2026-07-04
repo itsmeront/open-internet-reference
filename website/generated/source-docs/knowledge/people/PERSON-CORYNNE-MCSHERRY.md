@@ -74,7 +74,7 @@ McSherry's expertise in copyright, intermediary liability, and open access direc
 
 ## Sources
 
-- [`SRC-MCSHERRY-EFF-BIO`](../../../bibliography.md#SRC-MCSHERRY-EFF-BIO): Corynne McSherry EFF Staff Biography.
+1. [`SRC-MCSHERRY-EFF-BIO`](../../../bibliography.md#SRC-MCSHERRY-EFF-BIO): Corynne McSherry EFF Staff Biography.
 
 ## Research Debt
 

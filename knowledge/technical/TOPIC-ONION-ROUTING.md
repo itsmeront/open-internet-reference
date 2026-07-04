@@ -64,8 +64,8 @@ Technical analysis has not yet been drafted. Future work should add earlier onio
 
 ## Sources
 
-- `SRC-TOR-PROJECT-HISTORY`: Tor Project History Page.
-- `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router.
+1. `SRC-TOR-PROJECT-HISTORY`: Tor Project History Page.
+2. `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router.
 
 ## Research Debt
 

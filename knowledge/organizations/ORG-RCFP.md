@@ -66,8 +66,8 @@ RCFP is primarily oriented toward journalists and newsrooms, but its amicus prac
 
 ## Sources
 
-- `SRC-RCFP-WHAT-WE-DO`: Reporters Committee What We Do Page.
-- `SRC-RCFP-CONTACT`: Reporters Committee Contact Page.
+1. `SRC-RCFP-WHAT-WE-DO`: Reporters Committee What We Do Page.
+2. `SRC-RCFP-CONTACT`: Reporters Committee Contact Page.
 
 ## Research Debt
 

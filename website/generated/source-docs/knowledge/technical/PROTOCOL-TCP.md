@@ -64,7 +64,7 @@ Technical analysis has not yet been drafted. Future work should summarize TCP's 
 
 ## Sources
 
-- [`SRC-RFC-9293`](https://www.rfc-editor.org/rfc/rfc9293.html): RFC 9293: Transmission Control Protocol (TCP).
+1. [`SRC-RFC-9293`](https://www.rfc-editor.org/rfc/rfc9293.html): RFC 9293: Transmission Control Protocol (TCP).
 
 ## Research Debt
 

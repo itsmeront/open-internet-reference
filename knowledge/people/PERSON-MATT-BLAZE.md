@@ -55,7 +55,7 @@ Blaze's research in cryptography and secure systems directly informs how softwar
 
 ## Sources
 
-- `SRC-BLAZE-GEORGETOWN`: Matt Blaze Georgetown Faculty Profile.
+1. `SRC-BLAZE-GEORGETOWN`: Matt Blaze Georgetown Faculty Profile.
 
 ## Research Debt
 

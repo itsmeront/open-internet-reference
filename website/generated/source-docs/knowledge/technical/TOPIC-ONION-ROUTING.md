@@ -82,8 +82,8 @@ Technical analysis has not yet been drafted. Future work should add earlier onio
 
 ## Sources
 
-- [`SRC-TOR-PROJECT-HISTORY`](https://www.torproject.org/about/history/): Tor Project History Page.
-- [`SRC-TOR-DESIGN-PAPER`](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf): Tor: The Second-Generation Onion Router.
+1. [`SRC-TOR-PROJECT-HISTORY`](https://www.torproject.org/about/history/): Tor Project History Page.
+2. [`SRC-TOR-DESIGN-PAPER`](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf): Tor: The Second-Generation Onion Router.
 
 ## Research Debt
 

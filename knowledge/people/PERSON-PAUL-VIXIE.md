@@ -60,7 +60,7 @@ His expertise is operational and architectural — grounded in the software that
 
 ## Sources
 
-- `SRC-VIXIE-IHOF`: Paul Vixie Internet Hall of Fame Profile.
+1. `SRC-VIXIE-IHOF`: Paul Vixie Internet Hall of Fame Profile.
 
 ## Research Debt
 

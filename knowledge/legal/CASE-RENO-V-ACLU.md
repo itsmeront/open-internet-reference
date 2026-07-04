@@ -81,8 +81,11 @@ The Court treated the challenged CDA provisions as content-based restrictions on
 
 ## Sources
 
-- `SRC-RENO-V-ACLU-GOVINFO`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).
-- `SRC-RENO-V-ACLU-LOC`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF).
+1. `SRC-RENO-V-ACLU-GOVINFO`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).
+2. `SRC-RENO-V-ACLU-LOC`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-RENO-V-ACLU-JUSTIA`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (Justia).
 
 ## Research Debt

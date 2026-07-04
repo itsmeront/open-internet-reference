@@ -59,7 +59,7 @@ Pair with participant experts (Cerf, Kahn, Weinstein) when both firsthand intent
 
 ## Sources
 
-- `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile.
+1. `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile.
 
 ## Research Debt
 

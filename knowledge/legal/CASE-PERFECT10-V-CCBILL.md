@@ -74,7 +74,10 @@ Legal analysis has not yet been drafted. Future work should summarize the opinio
 
 ## Sources
 
-- `SRC-PERFECT10-V-CCBILL-JUSTIA`: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).
+1. `SRC-PERFECT10-V-CCBILL-JUSTIA`: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-USC-17-512-GOVINFO`: 17 U.S.C. § 512 (GovInfo).
 
 ## Research Debt

@@ -75,7 +75,7 @@ Stoltz's combination of technical security background and legal expertise in int
 
 ## Sources
 
-- [`SRC-STOLTZ-EFF-BIO`](../../../bibliography.md#SRC-STOLTZ-EFF-BIO): Mitch Stoltz EFF Staff Biography.
+1. [`SRC-STOLTZ-EFF-BIO`](../../../bibliography.md#SRC-STOLTZ-EFF-BIO): Mitch Stoltz EFF Staff Biography.
 
 ## Research Debt
 

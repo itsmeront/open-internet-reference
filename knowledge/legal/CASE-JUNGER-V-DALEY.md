@@ -77,7 +77,10 @@ This case provides additional circuit-level precedent that software source code 
 
 ## Sources
 
-- `SRC-JUNGER-CMU`: Junger v. Daley Opinion Text (CMU).
+1. `SRC-JUNGER-CMU`: Junger v. Daley Opinion Text (CMU).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-JUNGER-ACLU-OHIO`: Junger v. Daley ACLU Ohio Case Page.
 
 ## Research Debt

@@ -85,7 +85,10 @@ The Knight First Amendment Institute litigates cases involving digital speech, g
 
 ## Sources
 
-- [`SRC-KNIGHT-ABOUT`](../../../bibliography.md#SRC-KNIGHT-ABOUT): Knight First Amendment Institute About Page.
+1. [`SRC-KNIGHT-ABOUT`](../../../bibliography.md#SRC-KNIGHT-ABOUT): Knight First Amendment Institute About Page.
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-KNIGHT-CONTACT`](../../../bibliography.md#SRC-KNIGHT-CONTACT): Knight First Amendment Institute Contact and FAQ Page.
 
 ## Research Debt

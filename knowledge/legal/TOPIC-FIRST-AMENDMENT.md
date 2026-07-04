@@ -62,7 +62,10 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 
 ## Sources
 
-- `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII).
+1. `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-RENO-V-ACLU-JUSTIA`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).
 
 ## Research Debt

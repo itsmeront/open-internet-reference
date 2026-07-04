@@ -76,8 +76,8 @@ Analysis has not yet been drafted. Future work should use independent sources to
 
 ## Sources
 
-- [`SRC-EFF-CONTACT`](https://www.eff.org/about/contact): Electronic Frontier Foundation Contact Page.
-- [`SRC-EFF-ABOUT`](https://www.eff.org/about): Electronic Frontier Foundation About Page.
+1. [`SRC-EFF-CONTACT`](https://www.eff.org/about/contact): Electronic Frontier Foundation Contact Page.
+2. [`SRC-EFF-ABOUT`](https://www.eff.org/about): Electronic Frontier Foundation About Page.
 
 ## Research Debt
 

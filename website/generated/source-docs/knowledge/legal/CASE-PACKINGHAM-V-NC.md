@@ -98,7 +98,10 @@ This case establishes that access to internet platforms is constitutionally prot
 
 ## Sources
 
-- [`SRC-PACKINGHAM-LII`](../../../bibliography.md#SRC-PACKINGHAM-LII): Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII).
+1. [`SRC-PACKINGHAM-LII`](../../../bibliography.md#SRC-PACKINGHAM-LII): Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII).
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-PACKINGHAM-JUSTIA`](../../../bibliography.md#SRC-PACKINGHAM-JUSTIA): Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).
 
 ## Research Debt

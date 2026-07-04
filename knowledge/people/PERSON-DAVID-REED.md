@@ -59,7 +59,7 @@ His work helps explain *why* the Internet was designed the way it was — not me
 
 ## Sources
 
-- `SRC-REED-BIO`: David P. Reed Official Biography.
+1. `SRC-REED-BIO`: David P. Reed Official Biography.
 
 ## Research Debt
 

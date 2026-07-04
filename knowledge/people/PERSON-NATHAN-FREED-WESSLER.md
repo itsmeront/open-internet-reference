@@ -72,8 +72,8 @@ Wessler's work on third-party data requests, device searches, facial recognition
 
 ## Sources
 
-- `SRC-WESSLER-ACLU`: Nathan Freed Wessler ACLU Staff Biography.
-- `SRC-CARPENTER-LII`: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).
+1. `SRC-WESSLER-ACLU`: Nathan Freed Wessler ACLU Staff Biography.
+2. `SRC-CARPENTER-LII`: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).
 
 ## Research Debt
 

@@ -76,7 +76,7 @@ Kahn is particularly useful when a case involves:
 
 ## Sources
 
-- [`SRC-KAHN-CNRI`](../../../bibliography.md#SRC-KAHN-CNRI): Robert E. Kahn CNRI Biography.
+1. [`SRC-KAHN-CNRI`](../../../bibliography.md#SRC-KAHN-CNRI): Robert E. Kahn CNRI Biography.
 
 ## Research Debt
 

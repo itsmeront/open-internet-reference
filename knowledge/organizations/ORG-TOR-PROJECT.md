@@ -64,8 +64,8 @@ Analysis has not yet been drafted. Future work should add primary research sourc
 
 ## Sources
 
-- `SRC-TOR-PROJECT-CONTACT`: Tor Project Contact Page.
-- `SRC-TOR-PROJECT-HISTORY`: Tor Project History Page.
+1. `SRC-TOR-PROJECT-CONTACT`: Tor Project Contact Page.
+2. `SRC-TOR-PROJECT-HISTORY`: Tor Project History Page.
 
 ## Research Debt
 

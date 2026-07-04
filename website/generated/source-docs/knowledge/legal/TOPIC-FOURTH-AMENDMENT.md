@@ -75,7 +75,10 @@ Legal analysis has not yet been drafted. Future work should add Supreme Court an
 
 ## Sources
 
-- [`SRC-US-CONST-AMEND-IV-LII`](https://www.law.cornell.edu/constitution/fourth_amendment): U.S. Constitution Fourth Amendment (Cornell LII).
+1. [`SRC-US-CONST-AMEND-IV-LII`](https://www.law.cornell.edu/constitution/fourth_amendment): U.S. Constitution Fourth Amendment (Cornell LII).
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-CARPENTER-LII`](https://www.law.cornell.edu/supremecourt/text/16-402): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII).
 
 ## Research Debt

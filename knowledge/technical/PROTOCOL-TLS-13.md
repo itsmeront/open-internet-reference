@@ -47,7 +47,7 @@ Technical analysis has not yet been drafted. Future work should summarize TLS 1.
 
 ## Sources
 
-- `SRC-RFC-8446`: RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3.
+1. `SRC-RFC-8446`: RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3.
 
 ## Research Debt
 

@@ -80,8 +80,8 @@ FSF is the organization that created and maintains the GPL family of licenses, w
 
 ## Sources
 
-- [`SRC-FSF-ABOUT`](../../../bibliography.md#SRC-FSF-ABOUT): Free Software Foundation About Page.
-- [`SRC-FSF-PRESS`](../../../bibliography.md#SRC-FSF-PRESS): Free Software Foundation Press Information.
+1. [`SRC-FSF-ABOUT`](../../../bibliography.md#SRC-FSF-ABOUT): Free Software Foundation About Page.
+2. [`SRC-FSF-PRESS`](../../../bibliography.md#SRC-FSF-PRESS): Free Software Foundation Press Information.
 
 ## Research Debt
 

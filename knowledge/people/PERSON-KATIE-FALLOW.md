@@ -70,8 +70,8 @@ Fallow's litigation on digital public forums, government social media blocking, 
 
 ## Sources
 
-- `SRC-FALLOW-KNIGHT`: Katie Fallow Knight Institute Biography.
-- `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
+1. `SRC-FALLOW-KNIGHT`: Katie Fallow Knight Institute Biography.
+2. `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 
 ## Research Debt
 

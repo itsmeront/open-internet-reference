@@ -78,7 +78,7 @@ He bridges legal doctrine and technical architecture in ways that help courts un
 
 ## Sources
 
-- [`SRC-ZITTRAIN-HLS`](../../../bibliography.md#SRC-ZITTRAIN-HLS): Jonathan L. Zittrain Harvard Law School Faculty Profile.
+1. [`SRC-ZITTRAIN-HLS`](../../../bibliography.md#SRC-ZITTRAIN-HLS): Jonathan L. Zittrain Harvard Law School Faculty Profile.
 
 ## Research Debt
 

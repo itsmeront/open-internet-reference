@@ -61,7 +61,7 @@ He complements network architects (Cerf, Reed) by addressing the application and
 
 ## Sources
 
-- `SRC-KAY-CHM`: Alan Kay Computer History Museum Profile.
+1. `SRC-KAY-CHM`: Alan Kay Computer History Museum Profile.
 
 ## Research Debt
 

@@ -47,7 +47,7 @@ Meeker is a leading private counsel contact for open source license compliance, 
 
 ## Sources
 
-- `SRC-MEEKER-ABOUT`: Heather Meeker About Page.
+1. `SRC-MEEKER-ABOUT`: Heather Meeker About Page.
 
 ## Research Debt
 

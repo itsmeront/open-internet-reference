@@ -94,8 +94,8 @@ Weinstein's work on net neutrality directly protects the ability of open source 
 
 ## Sources
 
-- [`SRC-WEINSTEIN-BIO`](../../../bibliography.md#SRC-WEINSTEIN-BIO): Lauren Weinstein Biography Page.
-- [`SRC-WEINSTEIN-NNSQUAD`](../../../bibliography.md#SRC-WEINSTEIN-NNSQUAD): Network Neutrality Squad Announcement.
+1. [`SRC-WEINSTEIN-BIO`](../../../bibliography.md#SRC-WEINSTEIN-BIO): Lauren Weinstein Biography Page.
+2. [`SRC-WEINSTEIN-NNSQUAD`](../../../bibliography.md#SRC-WEINSTEIN-NNSQUAD): Network Neutrality Squad Announcement.
 
 ## Research Debt
 

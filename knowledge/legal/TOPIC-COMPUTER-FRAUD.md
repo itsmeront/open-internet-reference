@@ -63,9 +63,12 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 
 ## Sources
 
-- `SRC-USC-18-1030-LII`: 18 U.S.C. § 1030.
+1. `SRC-USC-18-1030-LII`: 18 U.S.C. § 1030.
+2. `SRC-VAN-BUREN-LII`: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-USC-18-1030-GOVINFO`: 18 U.S.C. § 1030 (GovInfo).
-- `SRC-VAN-BUREN-LII`: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
 
 ## Research Debt
 

@@ -69,7 +69,7 @@ Rules:
 - Place footnote definitions immediately after the section they support, before the next `##` heading.
 - The footnote definition must include the source ID in backticks and the source title.
 - Add a short reliability note when the source is self-reported or otherwise limited.
-- The page-level **Sources** section remains; footnotes make per-claim support visible in context.
+- The page-level **Sources** section lists every source on the page; number footnoted sources to match footnote labels (`1.` = `[^1]`, `2.` = `[^2]`).
 
 A page may move to `verified` only when significant claims are checked against cited sources and biography-only claims either have corroboration or remain explicitly flagged in research debt.
 

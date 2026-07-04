@@ -55,7 +55,7 @@ Tien's legislative work on privacy bills, cross-border data access, and consumer
 
 ## Sources
 
-- `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography.
+1. `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography.
 
 ## Research Debt
 

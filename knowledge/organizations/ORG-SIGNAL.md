@@ -71,7 +71,10 @@ Analysis has not yet been drafted. Future work should use official Signal source
 
 ## Sources
 
-- `SRC-SIGNAL-HOME`: Signal Official Website.
+1. `SRC-SIGNAL-HOME`: Signal Official Website.
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-SIGNAL-DOCS`: Signal Protocol Documentation.
 - `SRC-SIGNAL-X3DH`: The X3DH Key Agreement Protocol.
 - `SRC-SIGNAL-DOUBLE-RATCHET`: The Double Ratchet Algorithm.

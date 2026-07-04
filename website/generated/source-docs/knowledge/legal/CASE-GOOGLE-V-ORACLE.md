@@ -107,7 +107,7 @@ Protects software interoperability. Establishes that reimplementing an API for a
 
 ## Sources
 
-- [`SRC-GOOGLE-ORACLE-JUSTIA`](../../../bibliography.md#SRC-GOOGLE-ORACLE-JUSTIA): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia).
+1. [`SRC-GOOGLE-ORACLE-JUSTIA`](../../../bibliography.md#SRC-GOOGLE-ORACLE-JUSTIA): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia).
 
 ## Research Debt
 

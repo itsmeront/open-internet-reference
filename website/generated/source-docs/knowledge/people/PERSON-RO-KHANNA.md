@@ -75,7 +75,7 @@ Khanna's Internet Bill of Rights principles address net neutrality (ensuring equ
 
 ## Sources
 
-- [`SRC-KHANNA-INTERNET-BILL`](../../../bibliography.md#SRC-KHANNA-INTERNET-BILL): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.
+1. [`SRC-KHANNA-INTERNET-BILL`](../../../bibliography.md#SRC-KHANNA-INTERNET-BILL): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.
 
 ## Research Debt
 

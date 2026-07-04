@@ -75,7 +75,7 @@ Haigh is particularly useful when a case involves:
 
 ## Sources
 
-- [`SRC-HAIGH-UWM`](../../../bibliography.md#SRC-HAIGH-UWM): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile.
+1. [`SRC-HAIGH-UWM`](../../../bibliography.md#SRC-HAIGH-UWM): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile.
 
 ## Research Debt
 

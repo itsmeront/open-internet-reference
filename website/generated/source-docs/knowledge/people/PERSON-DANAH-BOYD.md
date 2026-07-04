@@ -77,7 +77,7 @@ boyd is particularly useful when a case involves:
 
 ## Sources
 
-- [`SRC-BOYD-MSR`](../../../bibliography.md#SRC-BOYD-MSR): danah boyd Microsoft Research Profile.
+1. [`SRC-BOYD-MSR`](../../../bibliography.md#SRC-BOYD-MSR): danah boyd Microsoft Research Profile.
 
 ## Research Debt
 

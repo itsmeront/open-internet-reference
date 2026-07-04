@@ -54,7 +54,7 @@ Technology law expertise covering IP, privacy, open source compliance, M&A dilig
 
 ## Sources
 
-- `SRC-PERKINS-COIE-TECH`: Perkins Coie Technology Transactions & Privacy Law Practice Page.
+1. `SRC-PERKINS-COIE-TECH`: Perkins Coie Technology Transactions & Privacy Law Practice Page.
 
 ## Research Debt
 

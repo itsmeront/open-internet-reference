@@ -60,8 +60,8 @@ OSI is the authoritative body that maintains the Open Source Definition, which d
 
 ## Sources
 
-- `SRC-OSI-ABOUT`: Open Source Initiative About Page.
-- `SRC-OSI-HISTORY`: Open Source Initiative History Page.
+1. `SRC-OSI-ABOUT`: Open Source Initiative About Page.
+2. `SRC-OSI-HISTORY`: Open Source Initiative History Page.
 
 ## Research Debt
 

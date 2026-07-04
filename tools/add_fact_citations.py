@@ -32,6 +32,12 @@ BIBLIOGRAPHY_DIR = ROOT / "bibliography"
 
 FOOTNOTE_REF_PATTERN = re.compile(r"\[\^[^\]]+\]")
 FOOTNOTE_DEF_PATTERN = re.compile(r"^\[\^[^\]]+\]:")
+FOOTNOTE_DEF_PARSE_PATTERN = re.compile(
+    r"^\[\^(\d+)\]:\s*`(SRC-[A-Z0-9-]+)`\s*—\s*(.+)$"
+)
+SOURCE_ITEM_PATTERN = re.compile(
+    r"^(?:\d+\.\s*)?`?(SRC-[A-Z0-9-]+)`?\s*:\s*(.+)$"
+)
 SOURCE_ID_PATTERN = re.compile(r"`(SRC-[A-Z0-9-]+)`")
 SECTION_PATTERN = re.compile(r"^## (.+)$")
 
@@ -171,9 +177,120 @@ def load_source_info(source_id: str) -> SourceInfo | None:
 
 def source_title_from_page(body: str, source_id: str) -> str | None:
     for line in body.splitlines():
-        if line.strip().startswith(f"- `{source_id}`:"):
-            return line.split(":", 1)[1].strip().rstrip(".")
+        stripped = line.strip()
+        match = SOURCE_ITEM_PATTERN.match(stripped.lstrip("- "))
+        if match and match.group(1) == source_id:
+            return match.group(2).strip().rstrip(".")
     return None
+
+
+def extract_footnote_map(body: str) -> dict[int, str]:
+    mapping: dict[int, str] = {}
+    for line in body.splitlines():
+        match = FOOTNOTE_DEF_PARSE_PATTERN.match(line.strip())
+        if match:
+            mapping[int(match.group(1))] = match.group(2)
+    return mapping
+
+
+def extract_sources_titles(body: str) -> dict[str, str]:
+    titles: dict[str, str] = {}
+    in_section = False
+    for line in body.splitlines():
+        if line.startswith("## "):
+            in_section = line.strip() == "## Sources"
+            continue
+        if not in_section:
+            continue
+        stripped = line.strip()
+        if not stripped or stripped.lower().startswith("additional sources"):
+            continue
+        match = SOURCE_ITEM_PATTERN.match(stripped.lstrip("- "))
+        if match:
+            titles[match.group(1)] = match.group(2).strip().rstrip(".")
+    return titles
+
+
+def format_numbered_source(num: int, source_id: str, title: str) -> str:
+    return f"{num}. `{source_id}`: {title.rstrip('.')}."
+
+
+def sync_sources_section(
+    body: str,
+    footnote_map: dict[int, str],
+    front_matter_sources: list[str],
+    source_infos: dict[str, SourceInfo],
+) -> str:
+    if not footnote_map:
+        return body
+
+    existing_titles = extract_sources_titles(body)
+    lines = body.splitlines()
+    output: list[str] = []
+    in_section = False
+    replaced = False
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        if line.startswith("## "):
+            if in_section and not replaced:
+                for num in sorted(footnote_map):
+                    source_id = footnote_map[num]
+                    title = (
+                        existing_titles.get(source_id)
+                        or source_title_from_page(body, source_id)
+                        or (source_infos[source_id].title if source_id in source_infos else source_id)
+                    )
+                    output.append(format_numbered_source(num, source_id, title))
+
+                footnoted_ids = set(footnote_map.values())
+                extras = [
+                    source_id
+                    for source_id in front_matter_sources
+                    if source_id not in footnoted_ids
+                ]
+                if extras:
+                    output.append("")
+                    output.append("Additional sources (not yet cited in footnotes):")
+                    output.append("")
+                    for source_id in extras:
+                        title = (
+                            existing_titles.get(source_id)
+                            or (source_infos[source_id].title if source_id in source_infos else source_id)
+                        )
+                        output.append(f"- `{source_id}`: {title.rstrip('.')}.")
+                if output and output[-1].strip():
+                    output.append("")
+                replaced = True
+                in_section = False
+
+            in_section = line.strip() == "## Sources"
+            output.append(line)
+            if in_section:
+                output.append("")
+            i += 1
+            continue
+
+        if in_section:
+            i += 1
+            while i < len(lines) and lines[i].startswith("  "):
+                i += 1
+            continue
+
+        output.append(line)
+        i += 1
+
+    if in_section and not replaced:
+        for num in sorted(footnote_map):
+            source_id = footnote_map[num]
+            title = (
+                existing_titles.get(source_id)
+                or (source_infos[source_id].title if source_id in source_infos else source_id)
+            )
+            output.append(format_numbered_source(num, source_id, title))
+
+    return "\n".join(output).rstrip() + "\n"
 
 
 def choose_source_for_bullet(bullet: str, sources: list[str], source_infos: dict[str, SourceInfo]) -> str:
@@ -322,7 +439,7 @@ def citation_sections_fully_footnoted(body: str, sources: list[str]) -> bool:
     return len(defs) >= 1
 
 
-def process_page(path: Path, dry_run: bool = False) -> bool:
+def process_page(path: Path, dry_run: bool = False, sync_sources_only: bool = False) -> bool:
     metadata, raw_metadata, body = load_yaml_front_matter(path)
     sources = metadata.get("sources") or []
     if not sources:
@@ -332,8 +449,27 @@ def process_page(path: Path, dry_run: bool = False) -> bool:
     if not source_infos:
         return False
 
+    if sync_sources_only:
+        footnote_map = extract_footnote_map(body)
+        if not footnote_map:
+            return False
+        synced_body = sync_sources_section(body, footnote_map, sources, source_infos)
+        if synced_body.rstrip() == body.rstrip():
+            return False
+        if not dry_run:
+            path.write_text(rebuild_file(raw_metadata, synced_body), encoding="utf-8")
+        return True
+
     if citation_sections_fully_footnoted(body, sources):
-        return False
+        footnote_map = extract_footnote_map(body)
+        if not footnote_map:
+            return False
+        synced_body = sync_sources_section(body, footnote_map, sources, source_infos)
+        if synced_body.rstrip() == body.rstrip():
+            return False
+        if not dry_run:
+            path.write_text(rebuild_file(raw_metadata, synced_body), encoding="utf-8")
+        return True
 
     lines = strip_footnote_defs(body.splitlines())
     output: list[str] = []
@@ -447,6 +583,13 @@ def process_page(path: Path, dry_run: bool = False) -> bool:
     if additions:
         new_body = replace_research_debt(new_body, debt_items)
 
+    footnote_map = extract_footnote_map(new_body)
+    if footnote_map:
+        synced_body = sync_sources_section(new_body, footnote_map, sources, source_infos)
+        if synced_body.rstrip() != new_body.rstrip():
+            new_body = synced_body
+            changed = True
+
     if new_body.rstrip() != body.rstrip():
         changed = True
 
@@ -459,6 +602,11 @@ def process_page(path: Path, dry_run: bool = False) -> bool:
 def main() -> int:
     parser = argparse.ArgumentParser(description="Add per-claim footnotes to knowledge pages.")
     parser.add_argument("--dry-run", action="store_true", help="Report files that would change without writing.")
+    parser.add_argument(
+        "--sync-sources",
+        action="store_true",
+        help="Only renumber the Sources section to match existing footnotes.",
+    )
     args = parser.parse_args()
 
     paths = sorted(
@@ -474,7 +622,7 @@ def main() -> int:
         if not metadata.get("sources"):
             skipped_no_sources += 1
             continue
-        if process_page(path, dry_run=args.dry_run):
+        if process_page(path, dry_run=args.dry_run, sync_sources_only=args.sync_sources):
             changed_files.append(str(path.relative_to(ROOT)))
 
     mode = "Would update" if args.dry_run else "Updated"

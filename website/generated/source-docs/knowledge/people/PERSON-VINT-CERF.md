@@ -79,7 +79,7 @@ He complements attorneys and policy advocates by translating engineering reality
 
 ## Sources
 
-- [`SRC-CERF-GOOGLE`](../../../bibliography.md#SRC-CERF-GOOGLE): Vinton G. Cerf Google Research Profile.
+1. [`SRC-CERF-GOOGLE`](../../../bibliography.md#SRC-CERF-GOOGLE): Vinton G. Cerf Google Research Profile.
 
 ## Research Debt
 

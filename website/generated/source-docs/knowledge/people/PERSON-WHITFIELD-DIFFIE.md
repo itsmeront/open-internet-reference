@@ -77,7 +77,7 @@ His work underpins modern TLS, code signing, and secure messaging — the same p
 
 ## Sources
 
-- [`SRC-DIFFIE-CISAC`](../../../bibliography.md#SRC-DIFFIE-CISAC): Whitfield Diffie Stanford CISAC Profile.
+1. [`SRC-DIFFIE-CISAC`](../../../bibliography.md#SRC-DIFFIE-CISAC): Whitfield Diffie Stanford CISAC Profile.
 
 ## Research Debt
 

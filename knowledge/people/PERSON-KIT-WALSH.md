@@ -55,7 +55,7 @@ Walsh's explicit focus on "coders' rights" and her work at the intersection of f
 
 ## Sources
 
-- `SRC-WALSH-EFF-BIO`: Kit Walsh EFF Staff Biography.
+1. `SRC-WALSH-EFF-BIO`: Kit Walsh EFF Staff Biography.
 
 ## Research Debt
 

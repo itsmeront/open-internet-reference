@@ -59,7 +59,7 @@ SFLC provides direct legal services to open source projects at no cost. They hel
 
 ## Sources
 
-- `SRC-SFLC-ABOUT`: Software Freedom Law Center Team Page.
+1. `SRC-SFLC-ABOUT`: Software Freedom Law Center Team Page.
 
 ## Research Debt
 

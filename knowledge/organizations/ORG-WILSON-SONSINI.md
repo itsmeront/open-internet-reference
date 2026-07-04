@@ -64,8 +64,8 @@ Premier technology law firm with First Amendment litigation experience, IP trans
 
 ## Sources
 
-- `SRC-WILSON-SONSINI-SOFTWARE`: Wilson Sonsini Software Industry Practice Page.
-- `SRC-WILSON-SONSINI-INTERNET`: Wilson Sonsini Internet Strategy and Litigation Practice Page.
+1. `SRC-WILSON-SONSINI-SOFTWARE`: Wilson Sonsini Software Industry Practice Page.
+2. `SRC-WILSON-SONSINI-INTERNET`: Wilson Sonsini Internet Strategy and Litigation Practice Page.
 
 ## Research Debt
 

@@ -77,7 +77,7 @@ His experience complements attorneys working on cases adjacent to Bernstein, DMC
 
 ## Sources
 
-- [`SRC-ZIMMERMANN-BIO`](../../../bibliography.md#SRC-ZIMMERMANN-BIO): Phil Zimmermann Official Biography.
+1. [`SRC-ZIMMERMANN-BIO`](../../../bibliography.md#SRC-ZIMMERMANN-BIO): Phil Zimmermann Official Biography.
 
 ## Research Debt
 

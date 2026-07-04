@@ -75,7 +75,10 @@ Analysis has not yet been drafted. Future work should use independent sources to
 
 ## Sources
 
-- [`SRC-ACLU-CONTACT`](https://www.aclu.org/about/contact-us): American Civil Liberties Union Contact Page.
+1. [`SRC-ACLU-CONTACT`](https://www.aclu.org/about/contact-us): American Civil Liberties Union Contact Page.
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-ACLU-HISTORY`](https://www.aclu.org/about/aclu-history): American Civil Liberties Union History Page.
 
 ## Research Debt

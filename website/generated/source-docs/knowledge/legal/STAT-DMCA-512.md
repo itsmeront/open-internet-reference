@@ -92,8 +92,12 @@ Legal analysis has not yet been drafted. Future work should compare the Cornell 
 
 ## Sources
 
-- [`SRC-USC-17-512-LII`](https://www.law.cornell.edu/uscode/text/17/512): 17 U.S.C. § 512.
-- [`SRC-USC-17-512-GOVINFO`](https://www.govinfo.gov/link/uscode/17/512): 17 U.S.C. § 512 (GovInfo).
+1. [`SRC-USC-17-512-LII`](https://www.law.cornell.edu/uscode/text/17/512): 17 U.S.C. § 512.
+2. [`SRC-USC-17-512-GOVINFO`](https://www.govinfo.gov/link/uscode/17/512): 17 U.S.C. § 512 (GovInfo).
+
+Additional sources (not yet cited in footnotes):
+
+- [`SRC-PERFECT10-V-CCBILL-JUSTIA`](https://law.justia.com/cases/federal/appellate-courts/ca9/488/1102/): Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).
 
 ## Research Debt
 

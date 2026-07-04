@@ -54,7 +54,7 @@ Jaffer's work on government secrecy, surveillance, and digital speech rights is 
 
 ## Sources
 
-- `SRC-JAFFER-KNIGHT`: Jameel Jaffer Knight Institute Biography.
+1. `SRC-JAFFER-KNIGHT`: Jameel Jaffer Knight Institute Biography.
 
 ## Research Debt
 

@@ -88,7 +88,10 @@ As co-author of Section 230, Wyden is directly responsible for the legal framewo
 
 ## Sources
 
-- [`SRC-WYDEN-SECTION-230`](../../../bibliography.md#SRC-WYDEN-SECTION-230): Wyden Remarks at Section 230 Briefing Hosted by EFF.
+1. [`SRC-WYDEN-SECTION-230`](../../../bibliography.md#SRC-WYDEN-SECTION-230): Wyden Remarks at Section 230 Briefing Hosted by EFF.
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-WYDEN-AARONS-LAW`](../../../bibliography.md#SRC-WYDEN-AARONS-LAW): Wyden Introduces Reforms to the Computer Fraud and Abuse Act.
 
 ## Research Debt

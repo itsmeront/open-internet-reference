@@ -105,5 +105,7 @@ Run `python tools/audit_case_mentions.py` to audit knowledge pages for unlinked 
 ### Source list vs footnotes
 
 - **Footnotes** — per-claim support inside Verified Facts and Historical Context.
-- **Sources section** — full bibliography for the page.
+- **Sources section** — full bibliography for the page; number entries to match footnote labels (`1.` = `[^1]`, `2.` = `[^2]`). List sources in front matter that are not yet footnoted under **Additional sources (not yet cited in footnotes)**.
 - **Front matter `sources:`** — machine-readable list used by indexes and the relationship graph.
+
+Run `python tools/add_fact_citations.py --sync-sources` to renumber the Sources section after editing footnotes.

@@ -110,7 +110,10 @@ This case is foundational for the principle that source code is speech. It direc
 
 ## Sources
 
-- [`SRC-BERNSTEIN-JUSTIA`](../../../bibliography.md#SRC-BERNSTEIN-JUSTIA): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
+1. [`SRC-BERNSTEIN-JUSTIA`](../../../bibliography.md#SRC-BERNSTEIN-JUSTIA): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
+
+Additional sources (not yet cited in footnotes):
+
 - [`SRC-BERNSTEIN-EFF`](../../../bibliography.md#SRC-BERNSTEIN-EFF): Bernstein v. US Dept. of Justice EFF Case Page.
 - [`SRC-BERNSTEIN-EFF-25`](../../../bibliography.md#SRC-BERNSTEIN-EFF-25): EFF at 25 — Remembering the Case that Established Code as Speech.
 

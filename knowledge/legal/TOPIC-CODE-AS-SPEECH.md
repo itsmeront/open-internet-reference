@@ -70,9 +70,12 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 
 ## Sources
 
-- `SRC-RENO-V-ACLU-GOVINFO`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).
+1. `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII).
+2. `SRC-RENO-V-ACLU-GOVINFO`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo).
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-RENO-V-ACLU-LOC`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF).
-- `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII).
 
 ## Research Debt
 

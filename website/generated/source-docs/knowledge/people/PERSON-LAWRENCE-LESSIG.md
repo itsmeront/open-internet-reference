@@ -68,7 +68,7 @@ Lessig's scholarship on the relationship between code, law, and regulation of cy
 
 ## Sources
 
-- [`SRC-LESSIG-HARVARD`](../../../bibliography.md#SRC-LESSIG-HARVARD): Lawrence Lessig Harvard Law School Faculty Page.
+1. [`SRC-LESSIG-HARVARD`](../../../bibliography.md#SRC-LESSIG-HARVARD): Lawrence Lessig Harvard Law School Faculty Page.
 
 ## Research Debt
 

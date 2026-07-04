@@ -63,7 +63,10 @@ Pioneered software licensing and IP law. Deep open source expertise. Created ind
 
 ## Sources
 
-- `SRC-FENWICK-TECH`: Fenwick Technology Transactions Practice Page.
+1. `SRC-FENWICK-TECH`: Fenwick Technology Transactions Practice Page.
+
+Additional sources (not yet cited in footnotes):
+
 - `SRC-FENWICK-HISTORY`: Fenwick & West Firm History Page.
 
 ## Research Debt

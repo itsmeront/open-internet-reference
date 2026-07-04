@@ -52,7 +52,7 @@ IFS focuses on political speech and campaign finance litigation rather than tech
 
 ## Sources
 
-- `SRC-IFS-ABOUT-US`: Institute for Free Speech About Us Page.
+1. `SRC-IFS-ABOUT-US`: Institute for Free Speech About Us Page.
 
 ## Research Debt
 
