@@ -44,7 +44,7 @@ python tools/taxonomy_audit.py --json
 These reports are regenerated in two places:
 
 1. **Every validate build** (`.github/workflows/validate.yml`) — runs before `mkdocs build --strict`, so CI and published site builds always use fresh report data even if committed copies on `main` are slightly stale.
-2. **Daily schedule** (`.github/workflows/moderation-reports.yml`) — runs at 06:00 UTC (or on manual `workflow_dispatch`) and opens/updates a pull request on branch `automated/moderation-reports` when report files change.
+2. **Daily schedule** (`.github/workflows/moderation-reports.yml`) — runs at 06:00 UTC (or on manual `workflow_dispatch`), pushes report updates to branch `automated/moderation-reports`, and opens a PR when GitHub Actions is allowed to create pull requests. If PR creation is blocked by repository settings, open a PR from that branch manually — see `.github/BRANCH_PROTECTION.md`.
 
 Because `main` is branch-protected (PR-only merges), the scheduled workflow **does not push directly to `main`**. Merge the automation PR when convenient, or configure a ruleset bypass — see `.github/BRANCH_PROTECTION.md` → *Automated Workflows and Branch Protection*.
 

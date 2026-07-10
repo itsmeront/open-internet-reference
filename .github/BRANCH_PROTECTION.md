@@ -128,10 +128,28 @@ The `stale-check` job is informational only and should **not** be required
 
 The **Generate Moderation Reports** workflow (`.github/workflows/moderation-reports.yml`)
 updates report files on a daily schedule. Because `main` requires pull requests,
-that workflow **cannot push directly to `main`** — it opens or updates an automation
-PR on branch `automated/moderation-reports` instead.
+that workflow **cannot push directly to `main`**. It pushes to branch
+`automated/moderation-reports` and then tries to open or update an automation PR.
 
-Merge those PRs when convenient, or add one of these bypass options:
+### If Actions cannot create pull requests
+
+GitHub may return:
+
+> GitHub Actions is not permitted to create or approve pull requests.
+
+That means the repository (or organization) has not allowed `GITHUB_TOKEN` to open PRs.
+The scheduled workflow still **pushes the report branch** and succeeds; only the
+automatic PR step is skipped. Open a PR manually:
+
+https://github.com/itsmeront/open-internet-reference/compare/main...automated/moderation-reports?expand=1
+
+To allow fully automated PRs:
+
+1. Repo **Settings → Actions → General → Workflow permissions**
+2. Enable **Allow GitHub Actions to create and approve pull requests**
+3. On organization-owned repos, an org owner may need to allow this under **Organization settings → Actions → General** first
+
+Merge automation PRs when convenient, or add one of these bypass options:
 
 | Option | When to use |
 |--------|-------------|

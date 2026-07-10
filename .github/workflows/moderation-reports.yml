@@ -8,7 +8,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   generate-reports:
@@ -16,6 +15,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,9 +27,7 @@ jobs:
         run: python -m pip install -e '.[docs]'
 
       - name: Install GitHub CLI
-        run: |
-          # gh is pre-installed on GitHub Actions runners
-          gh --version
+        run: gh --version
 
       - name: Generate moderation queue
         env:
@@ -38,22 +37,63 @@ jobs:
       - name: Generate taxonomy audit
         run: python tools/taxonomy_audit.py
 
-      # main is branch-protected (PR-only). Open/update an automation PR instead
-      # of pushing directly — a direct git push fails with GH006 on protected main.
-      - name: Create pull request if reports changed
-        uses: peter-evans/create-pull-request@v7
-        with:
-          commit-message: "chore: update moderation and taxonomy reports [automated]"
-          title: "chore: update moderation and taxonomy reports [automated]"
-          body: |
-            Automated refresh of moderation queue and taxonomy audit reports.
+      # main is branch-protected (PR-only). Push report updates to an automation
+      # branch. Opening the PR is best-effort — some orgs block GITHUB_TOKEN from
+      # creating PRs unless "Allow GitHub Actions to create and approve pull requests"
+      # is enabled under Settings → Actions → General.
+      - name: Commit and push report updates
+        id: push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-            Safe to merge when CI passes. Timestamps update daily even when queue
-            content is unchanged.
-          branch: automated/moderation-reports
-          labels: automation
-          add-paths: |
-            website/generated/moderation.md
-            website/generated/taxonomy-audit.md
-            generated/moderation-queue.json
+          git add \
+            website/generated/moderation.md \
+            website/generated/taxonomy-audit.md \
+            generated/moderation-queue.json \
             generated/taxonomy-audit.json
+
+          if git diff --staged --quiet; then
+            echo "No report changes to commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git checkout -B automated/moderation-reports
+          git commit -m "chore: update moderation and taxonomy reports [automated]"
+          git push origin automated/moderation-reports --force-with-lease
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Open pull request
+        id: open_pr
+        if: steps.push.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "$(gh pr list --head automated/moderation-reports --base main --state open --json number -q 'length')" != "0" ]; then
+            echo "Open PR already exists for automated/moderation-reports."
+            gh pr list --head automated/moderation-reports --base main --state open
+            exit 0
+          fi
+
+          gh pr create \
+            --base main \
+            --head automated/moderation-reports \
+            --title "chore: update moderation and taxonomy reports [automated]" \
+            --body "Automated refresh of moderation queue and taxonomy audit reports. Safe to merge when CI passes."
+
+      - name: Summarize when PR creation is blocked
+        if: steps.push.outputs.changed == 'true' && steps.open_pr.outcome == 'failure'
+        run: |
+          {
+            echo "## Report branch updated; open a PR manually"
+            echo
+            echo "Report files were pushed to \`automated/moderation-reports\`, but GitHub Actions is not permitted to create pull requests for this repository."
+            echo
+            echo "Either:"
+            echo "1. Open a PR from [\`automated/moderation-reports\`](https://github.com/${{ github.repository }}/compare/main...automated/moderation-reports?expand=1), or"
+            echo "2. Enable **Allow GitHub Actions to create and approve pull requests** under **Settings → Actions → General → Workflow permissions** (org admins may need to allow this first)."
+            echo
+            echo "Fresh report copies are still regenerated on every \`docs\` CI run before MkDocs build, so the published site stays current even before this PR is merged."
+          } >> "$GITHUB_STEP_SUMMARY"
