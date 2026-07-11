@@ -29,6 +29,7 @@ jobs:
       - name: Generate moderation and taxonomy reports
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python tools/moderation_queue.py
           python tools/taxonomy_audit.py
