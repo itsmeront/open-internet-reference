@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-07-11 14:39 UTC
+Last updated: 2026-07-15 07:51 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -41,27 +41,27 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `computer-crime` | 10 | ✓ |
 | `intermediary-liability` | 9 | ✓ |
 | `case-law` | 8 | ⚠️ undeclared |
-| `safe-harbor` | 7 | ✓ |
 | `network-protocols` | 7 | ✓ |
+| `safe-harbor` | 7 | ✓ |
 | `secure-messaging` | 6 | ✓ |
 | `constitutional-law` | 5 | ✓ |
-| `technology-law` | 4 | ⚠️ undeclared |
 | `distributed-systems` | 4 | ✓ |
+| `technology-law` | 4 | ⚠️ undeclared |
 | `statute` | 4 | ✓ |
 | `technical` | 3 | ⚠️ undeclared |
 | `civil-liberties` | 3 | ⚠️ undeclared |
 | `technical-standard` | 3 | ⚠️ undeclared |
 | `imported-source` | 3 | ⚠️ undeclared |
 | `project-governance` | 3 | ⚠️ undeclared |
-| `export-control` | 2 | ✓ |
 | `censorship-resistance` | 2 | ✓ |
 | `peer-to-peer-networking` | 2 | ✓ |
 | `distributed-hash-tables` | 2 | ✓ |
-| `software-distribution` | 1 | ✓ |
+| `export-control` | 2 | ✓ |
 | `example-tag` | 1 | ⚠️ undeclared |
-| `academic-paper` | 1 | ⚠️ undeclared |
+| `software-distribution` | 1 | ✓ |
 | `academic` | 1 | ⚠️ undeclared |
 | `onion-routing` | 1 | ⚠️ undeclared |
+| `academic-paper` | 1 | ⚠️ undeclared |
 
 ## Orphan Tags
 
@@ -100,16 +100,16 @@ These tags are used in content but not listed in `TAXONOMY.md`:
 |-----|---------|
 | `academic` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
 | `academic-paper` | `bibliography/academic/SRC-KADEMLIA-PAPER.md` |
-| `case-law` | `bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md`, `bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md`, `bibliography/legal/SRC-VAN-BUREN-GOVINFO.md` +5 more |
+| `case-law` | `bibliography/legal/SRC-RENO-V-ACLU-LOC.md`, `bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md`, `bibliography/legal/SRC-CARPENTER-GOVINFO.md` +5 more |
 | `civil-liberties` | `knowledge/organizations/ORG-ACLU.md`, `bibliography/organizations/SRC-ACLU-HISTORY.md`, `bibliography/organizations/SRC-ACLU-CONTACT.md` |
 | `example-tag` | `knowledge/_templates/knowledge-page.md` |
 | `imported-source` | `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `onion-routing` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
-| `outreach` | `knowledge/organizations/ORG-TOR-PROJECT.md`, `knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md`, `knowledge/organizations/ORG-EFF.md` +47 more |
-| `person` | `knowledge/people/PERSON-LAWRENCE-LESSIG.md`, `knowledge/people/PERSON-MATT-BLAZE.md`, `knowledge/people/PERSON-RAND-PAUL.md` +46 more |
+| `outreach` | `knowledge/organizations/ORG-SFLC.md`, `knowledge/organizations/ORG-COOLEY.md`, `knowledge/organizations/ORG-ACLU.md` +47 more |
+| `person` | `knowledge/people/PERSON-RON-WYDEN.md`, `knowledge/people/PERSON-BRUCE-SCHNEIER.md`, `knowledge/people/PERSON-JANET-ABBATE.md` +46 more |
 | `project-governance` | `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `technical` | `knowledge/technical/TOPIC-ONION-ROUTING.md`, `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography/technical/SRC-SIGNAL-X3DH.md` |
 | `technical-standard` | `bibliography/technical/SRC-RFC-1034.md`, `bibliography/technical/SRC-RFC-9293.md`, `bibliography/technical/SRC-RFC-8446.md` |
-| `technology-law` | `knowledge/legal/CASE-VAN-BUREN-V-US.md`, `knowledge/legal/TOPIC-COMPUTER-FRAUD.md`, `bibliography/legal/SRC-VAN-BUREN-GOVINFO.md` +1 more |
+| `technology-law` | `knowledge/legal/TOPIC-COMPUTER-FRAUD.md`, `knowledge/legal/CASE-VAN-BUREN-V-US.md`, `bibliography/legal/SRC-VAN-BUREN-LII.md` +1 more |
 
 **Action:** Add these to TAXONOMY.md or replace with existing tags.
