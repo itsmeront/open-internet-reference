@@ -137,10 +137,10 @@ Canonical logo sources live under `website/assets/images/`:
 
 | Asset | Use |
 | --- | --- |
-| `oir-logo-mark.png` | Site header logo and favicon source |
+| `oir-logo-mark.png` | Site header logo and favicon source (transparent background) |
 | `oir-logo-v5-fullmesh.svg` | Legacy print asset (superseded by `oir-logo-mark.png`) |
 
-Raster favicon files are generated from `oir-logo-mark.png`:
+Raster favicon files are generated from `oir-logo-mark.png`. The renderer strips the flat light backdrop and saves a transparent PNG before writing ICO and PNG derivatives:
 
 ```powershell
 .\.venv\Scripts\python tools\render_brand_assets.py
