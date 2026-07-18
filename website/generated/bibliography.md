@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 122
+Record count: 127
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -125,6 +125,18 @@ Georgetown University faculty profile for Matt Blaze describing his research in 
 
 ### Cited By
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+
+## `SRC-BOOKER-SURVEILLANCE-ADVERTISING`: Booker Announces Introduction of Bill to Ban Surveillance Advertising { #SRC-BOOKER-SURVEILLANCE-ADVERTISING }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- Tags: source, person, privacy, digital-rights, internet-governance
+
+Press release from Senator Cory Booker's office announcing the Banning Surveillance Advertising Act.
+
+### Cited By
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 
 ## `SRC-BOYD-MSR`: danah boyd Microsoft Research Profile { #SRC-BOYD-MSR }
 
@@ -637,6 +649,30 @@ Official FAQ and contact information for the Knight First Amendment Institute at
 ### Cited By
 - [`ORG-KNIGHT-FIRST-AMENDMENT: Knight First Amendment Institute`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 
+## `SRC-LEE-ENCRYPTION-BACKDOORS`: Encryption backdoors aren't worth the price { #SRC-LEE-ENCRYPTION-BACKDOORS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- Tags: source, person, privacy, digital-rights, surveillance
+
+Official Senate statement from Senator Mike Lee opposing federal mandates for encryption backdoors.
+
+### Cited By
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+
+## `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans { #SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+- Tags: source, person, privacy, surveillance, digital-rights
+
+Press release from Senator Mike Lee's office announcing the bipartisan Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren.
+
+### Cited By
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+
 ## `SRC-LESSIG-HARVARD`: Lawrence Lessig Harvard Law School Faculty Page { #SRC-LESSIG-HARVARD }
 
 - Type: `source`
@@ -660,6 +696,18 @@ Press release from Representative Zoe Lofgren's office announcing the introducti
 
 ### Cited By
 - [`PERSON-ZOE-LOFGREN: Zoe Lofgren`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
+
+## `SRC-MASSIE-ENCRYPTION-AMENDMENT`: House Passes Massie Amendment to Strengthen Privacy and Security { #SRC-MASSIE-ENCRYPTION-AMENDMENT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- Tags: source, person, privacy, digital-rights, surveillance
+
+Press release from Representative Thomas Massie's office describing a bipartisan amendment to block NIST cooperation with NSA efforts to weaken encryption standards.
+
+### Cited By
+- [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 
 ## `SRC-MCSHERRY-EFF-BIO`: Corynne McSherry EFF Staff Biography { #SRC-MCSHERRY-EFF-BIO }
 
@@ -1422,6 +1470,18 @@ Press release from Senator Ron Wyden's office announcing the introduction of Aar
 ### Cited By
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 
+## `SRC-WYDEN-EARN-IT`: Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe { #SRC-WYDEN-EARN-IT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-EARN-IT.md`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
+- Tags: source, person, privacy, digital-rights, first-amendment
+
+Press release from Senator Ron Wyden's office opposing the EARN IT Act and warning that it would undermine strong encryption.
+
+### Cited By
+- No citing knowledge records yet.
+
 ## `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act { #SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE }
 
 - Type: `source`
@@ -1432,7 +1492,7 @@ Press release from Senator Ron Wyden's office announcing the introduction of Aar
 Press release from Senator Ron Wyden's office announcing the reintroduction of the Fourth Amendment Is Not For Sale Act with Senator Rand Paul and bipartisan co-sponsors.
 
 ### Cited By
-- No citing knowledge records yet.
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 
 ## `SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms { #SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS }
 

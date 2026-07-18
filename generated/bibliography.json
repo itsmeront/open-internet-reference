@@ -297,6 +297,36 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Cory Booker",
+        "publication date": "2022-01-18",
+        "source type": "Official press release",
+        "url": "https://www.booker.senate.gov/news/press/booker-announces-introduction-of-bill-to-ban-surveillance-advertising"
+      },
+      "id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Cory Booker's office announcing the Banning Surveillance Advertising Act.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ],
+      "title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CORY-BOOKER`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Microsoft Research",
@@ -1523,6 +1553,68 @@
       "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Mike Lee",
+        "publication date": "2016-01",
+        "source type": "Official Senate statement",
+        "url": "https://www.lee.senate.gov/2016/1/encryption-backdoors-aren-t-worth-the-price"
+      },
+      "id": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate statement from Senator Mike Lee opposing federal mandates for encryption backdoors.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Encryption backdoors aren't worth the price",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MIKE-LEE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Mike Lee",
+        "publication date": "2023-11",
+        "source type": "Official press release",
+        "url": "https://www.lee.senate.gov/2023/11/lee-introduces-bipartisan-legislation-to-secure-privacy-protections-for-americans"
+      },
+      "id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Mike Lee's office announcing the bipartisan Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MIKE-LEE`",
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-ZOE-LOFGREN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
         "author or issuing body": "Harvard Law School",
         "publication date": "Not dated",
         "source type": "Official faculty page",
@@ -1577,6 +1669,37 @@
         "`PERSON-ZOE-LOFGREN`",
         "`PERSON-RON-WYDEN`",
         "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Thomas Massie",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395205"
+      },
+      "id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Representative Thomas Massie's office describing a bipartisan amendment to block NIST cooperation with NSA efforts to weaken encryption standards.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "House Passes Massie Amendment to Strengthen Privacy and Security",
+      "type": "source",
+      "used_for": [
+        "`PERSON-THOMAS-MASSIE`",
+        "`PERSON-ZOE-LOFGREN`"
       ]
     },
     {
@@ -3416,6 +3539,36 @@
         "digital-rights"
       ],
       "title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/wyden-on-reintroduction-of-the-earn-it-act-political-attacks-on-encryption-will-make-children-less-safe-wont-aid-victims-or-catch-predators-who-prey-on-kids"
+      },
+      "id": "SRC-WYDEN-EARN-IT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-EARN-IT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office opposing the EARN IT Act and warning that it would undermine strong encryption.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "first-amendment"
+      ],
+      "title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe",
       "type": "source",
       "used_for": [
         "`PERSON-RON-WYDEN`"

@@ -267,6 +267,25 @@
       ]
     },
     {
+      "source_id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "source_title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising",
+      "usages": [
+        {
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+          "predicate": "cites",
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "subject": "PERSON-CORY-BOOKER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BOYD-MSR",
       "source_title": "danah boyd Microsoft Research Profile",
       "usages": [
@@ -1335,6 +1354,44 @@
       ]
     },
     {
+      "source_id": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "source_title": "Encryption backdoors aren't worth the price",
+      "usages": [
+        {
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LEE-ENCRYPTION-BACKDOORS",
+          "predicate": "cites",
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "subject": "PERSON-MIKE-LEE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "source_title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans",
+      "usages": [
+        {
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+          "predicate": "cites",
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "subject": "PERSON-MIKE-LEE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-LESSIG-HARVARD",
       "source_title": "Lawrence Lessig Harvard Law School Faculty Page",
       "usages": [
@@ -1368,6 +1425,25 @@
           "record_id": "PERSON-ZOE-LOFGREN",
           "record_title": "Zoe Lofgren",
           "subject": "PERSON-ZOE-LOFGREN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "source_title": "House Passes Massie Amendment to Strengthen Privacy and Security",
+      "usages": [
+        {
+          "record_id": "PERSON-THOMAS-MASSIE",
+          "record_title": "Thomas Massie",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+          "predicate": "cites",
+          "record_id": "PERSON-THOMAS-MASSIE",
+          "record_title": "Thomas Massie",
+          "subject": "PERSON-THOMAS-MASSIE",
           "usage": "relationship_source"
         }
       ]
@@ -2970,9 +3046,28 @@
       ]
     },
     {
+      "source_id": "SRC-WYDEN-EARN-IT",
+      "source_title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe",
+      "usages": []
+    },
+    {
       "source_id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
       "source_title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act",
-      "usages": []
+      "usages": [
+        {
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "subject": "PERSON-CORY-BOOKER",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",

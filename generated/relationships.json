@@ -983,6 +983,26 @@
       "subject": "PERSON-CINDY-COHN"
     },
     {
+      "declared_in": "PERSON-CORY-BOOKER",
+      "notes": null,
+      "object": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BOOKER-SURVEILLANCE-ADVERTISING"
+      ],
+      "subject": "PERSON-CORY-BOOKER"
+    },
+    {
+      "declared_in": "PERSON-CORY-BOOKER",
+      "notes": null,
+      "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+      ],
+      "subject": "PERSON-CORY-BOOKER"
+    },
+    {
       "declared_in": "PERSON-CORYNNE-MCSHERRY",
       "notes": null,
       "object": "ORG-EFF",
@@ -1346,6 +1366,26 @@
       "subject": "PERSON-MATT-BLAZE"
     },
     {
+      "declared_in": "PERSON-MIKE-LEE",
+      "notes": null,
+      "object": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LEE-ENCRYPTION-BACKDOORS"
+      ],
+      "subject": "PERSON-MIKE-LEE"
+    },
+    {
+      "declared_in": "PERSON-MIKE-LEE",
+      "notes": null,
+      "object": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+      ],
+      "subject": "PERSON-MIKE-LEE"
+    },
+    {
       "declared_in": "PERSON-MITCH-STOLTZ",
       "notes": null,
       "object": "ORG-EFF",
@@ -1525,6 +1565,16 @@
         "SRC-HAIGH-UWM"
       ],
       "subject": "PERSON-THOMAS-HAIGH"
+    },
+    {
+      "declared_in": "PERSON-THOMAS-MASSIE",
+      "notes": null,
+      "object": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT"
+      ],
+      "subject": "PERSON-THOMAS-MASSIE"
     },
     {
       "declared_in": "PERSON-TIM-BERNERS-LEE",

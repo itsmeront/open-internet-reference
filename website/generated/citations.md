@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 122
+Source count: 127
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -63,6 +63,11 @@ Source count: 122
 
 - Page source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
 - Relationship source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md): [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) `cites` [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
+## [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising
+
+- Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 
 ## [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile
 
@@ -310,6 +315,16 @@ Source count: 122
 - Page source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 - Relationship source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md): [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) `cites` [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
 
+## [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md): Encryption backdoors aren't worth the price
+
+- Page source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- Relationship source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+
+## [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md): Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans
+
+- Page source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- Relationship source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+
 ## [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page
 
 - Page source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
@@ -319,6 +334,11 @@ Source count: 122
 
 - Page source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
 - Relationship source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md): [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+
+## [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security
+
+- Page source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
+- Relationship source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md): [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) `cites` [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 
 ## [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography
 
@@ -691,9 +711,14 @@ Source count: 122
 - Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
 
-## [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act
+## [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md): Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe
 
 - No citation usages yet.
+
+## [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act
+
+- Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
 ## [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md): Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms
 

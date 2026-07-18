@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 85,
+  "record_count": 88,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -628,6 +628,19 @@
       "type": "person"
     },
     {
+      "id": "PERSON-CORY-BOOKER",
+      "path": "knowledge/people/PERSON-CORY-BOOKER.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-CORY-BOOKER.md",
+      "sources": [
+        "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+      ],
+      "status": "draft",
+      "summary": "Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.",
+      "title": "Cory Booker",
+      "type": "person"
+    },
+    {
       "id": "PERSON-DANAH-BOYD",
       "path": "knowledge/people/PERSON-DANAH-BOYD.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-DANAH-BOYD.md",
@@ -738,6 +751,19 @@
       "type": "person"
     },
     {
+      "id": "PERSON-MIKE-LEE",
+      "path": "knowledge/people/PERSON-MIKE-LEE.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MIKE-LEE.md",
+      "sources": [
+        "SRC-LEE-ENCRYPTION-BACKDOORS",
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+      ],
+      "status": "draft",
+      "summary": "Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.",
+      "title": "Mike Lee",
+      "type": "person"
+    },
+    {
       "id": "PERSON-ORIN-KERR",
       "path": "knowledge/people/PERSON-ORIN-KERR.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-ORIN-KERR.md",
@@ -845,6 +871,18 @@
       "status": "draft",
       "summary": "Thomas Haigh is a historian of computing at the University of Wisconsin\u2013Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.",
       "title": "Thomas Haigh",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-THOMAS-MASSIE",
+      "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md",
+      "sources": [
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT"
+      ],
+      "status": "draft",
+      "summary": "Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan House amendments to block government-mandated encryption backdoors and limit surveillance cooperation that weakens security standards.",
+      "title": "Thomas Massie",
       "type": "person"
     },
     {

@@ -292,6 +292,12 @@
     },
     {
       "sources": [
+        "SRC-BOOKER-SURVEILLANCE-ADVERTISING"
+      ],
+      "term": "`PERSON-CORY-BOOKER`"
+    },
+    {
+      "sources": [
         "SRC-MCSHERRY-EFF-BIO"
       ],
       "term": "`PERSON-CORYNNE-MCSHERRY`"
@@ -404,6 +410,13 @@
     },
     {
       "sources": [
+        "SRC-LEE-ENCRYPTION-BACKDOORS",
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+      ],
+      "term": "`PERSON-MIKE-LEE`"
+    },
+    {
+      "sources": [
         "SRC-STOLTZ-EFF-BIO"
       ],
       "term": "`PERSON-MITCH-STOLTZ`"
@@ -469,8 +482,10 @@
     },
     {
       "sources": [
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
         "SRC-LOFGREN-AARONS-LAW",
         "SRC-WYDEN-AARONS-LAW",
+        "SRC-WYDEN-EARN-IT",
         "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
         "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
         "SRC-WYDEN-SECTION-230",
@@ -483,6 +498,12 @@
         "SRC-HAIGH-UWM"
       ],
       "term": "`PERSON-THOMAS-HAIGH`"
+    },
+    {
+      "sources": [
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT"
+      ],
+      "term": "`PERSON-THOMAS-MASSIE`"
     },
     {
       "sources": [
@@ -504,7 +525,9 @@
     },
     {
       "sources": [
-        "SRC-LOFGREN-AARONS-LAW"
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+        "SRC-LOFGREN-AARONS-LAW",
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT"
       ],
       "term": "`PERSON-ZOE-LOFGREN`"
     },

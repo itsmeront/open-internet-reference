@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 85
+Record count: 88
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -337,6 +337,15 @@ Bruce Schneier is an internationally renowned security technologist, cryptograph
 
 Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
 
+## `PERSON-CORY-BOOKER`: Cory Booker { #PERSON-CORY-BOOKER }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-CORY-BOOKER.md`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Tags: person, internet-governance, digital-rights, privacy, surveillance
+
+Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.
+
 ## `PERSON-CORYNNE-MCSHERRY`: Corynne McSherry { #PERSON-CORYNNE-MCSHERRY }
 
 - Type: `attorney`
@@ -499,6 +508,15 @@ Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Elec
 
 Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
 
+## `PERSON-MIKE-LEE`: Mike Lee { #PERSON-MIKE-LEE }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-MIKE-LEE.md`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- Tags: person, internet-governance, digital-rights, privacy, surveillance, fourth-amendment
+
+Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
+
 ## `PERSON-MITCH-STOLTZ`: Mitch Stoltz { #PERSON-MITCH-STOLTZ }
 
 - Type: `attorney`
@@ -606,6 +624,15 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 - Tags: person, internet-architecture, open-source-software
 
 Thomas Haigh is a historian of computing at the University of Wisconsin–Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.
+
+## `PERSON-THOMAS-MASSIE`: Thomas Massie { #PERSON-THOMAS-MASSIE }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-THOMAS-MASSIE.md`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
+- Tags: person, internet-governance, digital-rights, privacy, surveillance
+
+Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan House amendments to block government-mandated encryption backdoors and limit surveillance cooperation that weakens security standards.
 
 ## `PERSON-TIM-BERNERS-LEE`: Tim Berners-Lee { #PERSON-TIM-BERNERS-LEE }
 
