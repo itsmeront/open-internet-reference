@@ -54,6 +54,16 @@ Generated site files should not be manually edited. Update source files under `w
 
 External `http` and `https` links open in a new tab. Internal site links continue to open in the same tab.
 
+## Tip jar (optional tips, not tax-deductible)
+
+OIR accepts optional one-time tips through Buy Me a Coffee for hosting and maintenance. This is **not** a tax-deductible charitable donation.
+
+- Support page: `website/about/support.md`
+- Footer icon: `mkdocs.yml` → `extra.social`
+- Keep both URLs in sync when changing the tip link
+
+The index page and Usage Statistics footer link to the support page so the disclaimer stays visible before someone leaves the site.
+
 The index generator writes:
 
 - `generated/bibliography.json`

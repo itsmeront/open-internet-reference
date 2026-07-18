@@ -51,6 +51,12 @@ markdown_extensions:
 extra_javascript:
   - assets/js/external-links.js
 
+extra:
+  social:
+    - icon: fontawesome/solid/mug-saucer
+      link: https://buymeacoffee.com/itsmeront
+      name: Tip jar (not tax-deductible)
+
 extra_css:
   - assets/css/brand.css
   - assets/css/relationship-graph.css
@@ -67,6 +73,7 @@ nav:
       - Publishing: about/publishing.md
       - Editorial Workflow: about/editorial-workflow.md
       - Contributing (no GitHub): about/contributing-without-github.md
+      - Support OIR: about/support.md
       - Roadmap: about/roadmap.md
   - Moderation:
       - Queue: generated/moderation.md

@@ -306,6 +306,7 @@ def generate_stats_page(
         "- MCP requests are counted from the MCP server request log",
         "- No IP addresses, user agents, cookies, or personal identifiers are stored",
         "- Statistics are regenerated periodically by a scheduled job",
+        "- Traffic growth increases hosting load; optional tips are accepted on the [Support OIR](../../about/support.md) page (not tax-deductible)",
         "",
     ])
 
