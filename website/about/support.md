@@ -22,9 +22,3 @@ Open Internet Reference is a free, evidence-based knowledge base. Traffic and ho
 - [Contribute corrections or new sources](contributing-without-github.md)
 - [Report research debt](../generated/review-status.md) that needs verification
 - Share OIR with attorneys, researchers, and developers who need citable reference material
-
-## Configure this link
-
-Maintainers: update the Buy Me a Coffee URL in this file and the matching footer icon in `mkdocs.yml` under `extra.social`.
-
-Other tip platforms (Ko-fi, PayPal.me, GitHub Sponsors) work too — keep the same non-deductible disclaimer if you swap providers.
