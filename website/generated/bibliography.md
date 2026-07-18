@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 119
+Record count: 122
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -1422,6 +1422,30 @@ Press release from Senator Ron Wyden's office announcing the introduction of Aar
 ### Cited By
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 
+## `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act { #SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- Tags: source, person, fourth-amendment, privacy, surveillance, digital-rights
+
+Press release from Senator Ron Wyden's office announcing the reintroduction of the Fourth Amendment Is Not For Sale Act with Senator Rand Paul and bipartisan co-sponsors.
+
+### Cited By
+- No citing knowledge records yet.
+
+## `SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms { #SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
+- Tags: source, person, privacy, surveillance, digital-rights
+
+Press release from Senator Ron Wyden's office describing joint surveillance reform amendments with Senator Rand Paul, including a prohibition on requiring companies to weaken encryption.
+
+### Cited By
+- No citing knowledge records yet.
+
 ## `SRC-WYDEN-SECTION-230`: Wyden Remarks at Section 230 Briefing Hosted by EFF { #SRC-WYDEN-SECTION-230 }
 
 - Type: `source`
@@ -1433,6 +1457,18 @@ Press release from Senator Ron Wyden's office regarding his remarks at an EFF-ho
 
 ### Cited By
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+
+## `SRC-WYDEN-USA-RIGHTS-ACT`: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program { #SRC-WYDEN-USA-RIGHTS-ACT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+- Tags: source, person, privacy, surveillance, digital-rights
+
+Press release from Senator Ron Wyden's office announcing the introduction of the USA RIGHTS Act to reform Section 702 surveillance with civil liberties protections.
+
+### Cited By
+- No citing knowledge records yet.
 
 ## `SRC-ZIMMERMANN-BIO`: Phil Zimmermann Official Biography { #SRC-ZIMMERMANN-BIO }
 

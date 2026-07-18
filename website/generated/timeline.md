@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 301
+Event count: 307
 
 ## 1987-11
 
@@ -249,7 +249,10 @@ Event count: 301
 - `verification`: [`SRC-WILSON-SONSINI-INTERNET`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md) - Last verified date for Wilson Sonsini Internet Strategy and Litigation Practice Page.
 - `verification`: [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md) - Last verified date for Wilson Sonsini Software Industry Practice Page.
 - `verification`: [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md) - Last verified date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.
+- `verification`: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md) - Last verified date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.
+- `verification`: [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md) - Last verified date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.
 - `verification`: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md) - Last verified date for Wyden Remarks at Section 230 Briefing Hosted by EFF.
+- `verification`: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md) - Last verified date for Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program.
 - `verification`: [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md) - Last verified date for Computer Fraud and Abuse Act (18 U.S.C. § 1030).
 - `verification`: [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md) - Last verified date for Section 230 (47 U.S.C. § 230).
 
@@ -387,7 +390,10 @@ Event count: 301
 - `publication`: [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md) - Publication date for Wilson Sonsini Software Industry Practice Page.
 - `publication`: [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md) - Publication date for Ben Wizner ACLU Staff Biography.
 - `publication`: [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md) - Publication date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.
+- `publication`: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md) - Publication date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.
+- `publication`: [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md) - Publication date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.
 - `publication`: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md) - Publication date for Wyden Remarks at Section 230 Briefing Hosted by EFF.
+- `publication`: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md) - Publication date for Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program.
 - `publication`: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md) - Publication date for Phil Zimmermann Official Biography.
 - `publication`: [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md) - Publication date for Jonathan L. Zittrain Harvard Law School Faculty Profile.
 

@@ -442,7 +442,10 @@
       "sources": [
         "SRC-LOFGREN-AARONS-LAW",
         "SRC-PAUL-FISA",
-        "SRC-PAUL-FOURTH-AMENDMENT"
+        "SRC-PAUL-FOURTH-AMENDMENT",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+        "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+        "SRC-WYDEN-USA-RIGHTS-ACT"
       ],
       "term": "`PERSON-RAND-PAUL`"
     },
@@ -468,7 +471,10 @@
       "sources": [
         "SRC-LOFGREN-AARONS-LAW",
         "SRC-WYDEN-AARONS-LAW",
-        "SRC-WYDEN-SECTION-230"
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+        "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+        "SRC-WYDEN-SECTION-230",
+        "SRC-WYDEN-USA-RIGHTS-ACT"
       ],
       "term": "`PERSON-RON-WYDEN`"
     },

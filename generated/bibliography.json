@@ -3428,6 +3428,69 @@
         "author or issuing body": "Office of Senator Ron Wyden",
         "publication date": "Not dated",
         "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/wyden-paul-and-bipartisan-senators-reintroduce-the-fourth-amendment-is-not-for-sale-act"
+      },
+      "id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office announcing the reintroduction of the Fourth Amendment Is Not For Sale Act with Senator Rand Paul and bipartisan co-sponsors.",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/wyden-and-paul-release-joint-amendments-call-for-votes-on-proposals-to-expand-surveillance-reforms"
+      },
+      "id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office describing joint surveillance reform amendments with Senator Rand Paul, including a prohibition on requiring companies to weaken encryption.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
         "url": "https://www.wyden.senate.gov/news/press-releases/wyden-remarks-at-section-230-briefing-hosted-by-eff"
       },
       "id": "SRC-WYDEN-SECTION-230",
@@ -3448,6 +3511,37 @@
       "type": "source",
       "used_for": [
         "`PERSON-RON-WYDEN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-06-25",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Ron Wyden",
+        "publication date": "Not dated",
+        "source type": "Official press release",
+        "url": "https://www.wyden.senate.gov/news/press-releases/bipartisan-coalition-introduces-usa-rights-act-to-reform-secretive-warrantless-spy-program"
+      },
+      "id": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "last_verified": "2026-06-25",
+      "path": "bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Press release from Senator Ron Wyden's office announcing the introduction of the USA RIGHTS Act to reform Section 702 surveillance with civil liberties protections.",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-RAND-PAUL`"
       ]
     },
     {

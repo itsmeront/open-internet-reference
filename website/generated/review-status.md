@@ -4,13 +4,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 204
-- Records needing review: 101
+- Records: 207
+- Records needing review: 104
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 101
+- [`draft`](#draft-records): 104
 - [`verified`](#verified-records): 103
 
 ## By Type
@@ -20,7 +20,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`organization`](#organization-records): 20
 - [`person`](#person-records): 25
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 119
+- [`source`](#source-records): 122
 - [`statute`](#statute-records): 3
 - [`topic`](#topic-records): 8
 
@@ -115,7 +115,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+- [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
@@ -225,7 +228,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+- [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
@@ -551,7 +557,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WIZNER-ACLU: Ben Wizner ACLU Staff Biography`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+- [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
 - [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
 
