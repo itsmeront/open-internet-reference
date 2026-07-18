@@ -54,6 +54,7 @@ Court cases, statutes, and legal topics that establish precedent:
 ## Get Involved
 
 - [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — suggest edits, propose content, or submit changes
+- [Support OIR](about/support.md) — optional tips through Buy Me a Coffee (not tax-deductible)
 - [Contact records](contacts/index.md) — actionable intake paths for reaching organizations and getting legal help
 - [Research debt](generated/review-status.md) — pages that need additional sources or verification
 

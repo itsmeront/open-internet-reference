@@ -50,6 +50,14 @@
   min-width: 640px;
 }
 
+.oir-support-actions {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.oir-support-button {
+  font-weight: 600;
+}
+
 .oir-print-cover__logo {
   box-sizing: border-box;
   height: auto;
