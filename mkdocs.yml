@@ -10,7 +10,7 @@ theme:
   name: material
   custom_dir: website/overrides
   language: en
-  logo: assets/images/oir-logo-mark.svg
+  logo: assets/images/oir-logo-mark.png
   favicon: assets/images/favicon.ico
   features:
     - navigation.sections

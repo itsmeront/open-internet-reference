@@ -4,7 +4,7 @@
 
 <div class="oir-print-cover" markdown="0">
   <div class="oir-print-cover__frame">
-    <img class="oir-print-cover__logo" src="../../assets/images/oir-logo-v5-fullmesh.svg" alt="Open Internet Reference" />
+    <img class="oir-print-cover__logo" src="../../assets/images/oir-logo-mark.png" alt="Open Internet Reference" />
     <p class="oir-print-cover__edition">Handbook Edition</p>
     <p class="oir-print-cover__motto">Evidence over assertion. Knowledge over opinion.</p>
     <dl class="oir-print-cover__meta">

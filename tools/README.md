@@ -11,7 +11,7 @@ Current tools:
 - `generate_indexes.py`: generates JSON exports and MkDocs pages under `generated/` and `website/generated/`.
 - `moderation_queue.py`: builds the moderation dashboard (open PRs, draft content, stale verifications).
 - `taxonomy_audit.py`: audits tag usage against `TAXONOMY.md` (orphans, undeclared tags, duplicates).
-- `render_brand_assets.py`: rasterizes favicon assets from `website/assets/images/oir-logo-mark.svg`.
+- `render_brand_assets.py`: rasterizes favicon assets from `website/assets/images/oir-logo-mark.png`.
 - `serve.py`: renders brand assets, regenerates indexes, and starts MkDocs local preview.
 
 ## Editorial report tools
