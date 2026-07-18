@@ -146,6 +146,6 @@ Raster favicon files are generated from `oir-logo-mark.png`:
 .\.venv\Scripts\python tools\render_brand_assets.py
 ```
 
-This writes `favicon.ico`, `favicon.png`, `apple-touch-icon.png`, and `logo-mark.png`.
+This writes `favicon.ico`, `oir-logo-mark.ico`, `favicon.png`, `apple-touch-icon.png`, and `logo-mark.png`.
 
 When updating logo artwork, edit the SVG source files directly. Avoid pasting image files into chat if you need to preserve SVG; paste the SVG source or copy the `.svg` file into `website/assets/images/` instead.
