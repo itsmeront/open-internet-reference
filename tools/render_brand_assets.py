@@ -59,13 +59,9 @@ def _render_logo(size: int) -> Image.Image:
 
 
 def _write_ico(path: Path, sizes: list[int]) -> None:
-    images = [_render_logo(size) for size in sizes]
-    images[0].save(
-        path,
-        format="ICO",
-        sizes=[(size, size) for size in sizes],
-        append_images=images[1:],
-    )
+    image = _render_logo(max(sizes))
+    icon_sizes = [(size, size) for size in sizes]
+    image.save(path, format="ICO", sizes=icon_sizes)
 
 
 def main() -> int:
@@ -77,10 +73,13 @@ def main() -> int:
     _render_logo(32).save(IMAGES_DIR / "favicon.png")
     _render_logo(180).save(IMAGES_DIR / "apple-touch-icon.png")
     _render_logo(512).save(IMAGES_DIR / "logo-mark.png")
-    _write_ico(IMAGES_DIR / "favicon.ico", [16, 32, 48])
+    ico_sizes = [16, 32, 48, 64, 128, 256]
+    _write_ico(IMAGES_DIR / "favicon.ico", ico_sizes)
+    _write_ico(IMAGES_DIR / "oir-logo-mark.ico", ico_sizes)
 
     source_name = SOURCE.name if SOURCE.exists() else LEGACY_SOURCE.name
     print(f"Rendered favicon assets from {source_name} in {IMAGES_DIR.as_posix()}/")
+    print("  favicon.ico and oir-logo-mark.ico include 16, 32, 48, 64, 128, and 256 px sizes.")
     return 0
 
 
