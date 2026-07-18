@@ -1,6 +1,6 @@
 {
   "by_status": {
-    "draft": 101,
+    "draft": 104,
     "verified": 103
   },
   "by_type": {
@@ -9,7 +9,7 @@
     "organization": 20,
     "person": 25,
     "protocol": 3,
-    "source": 119,
+    "source": 122,
     "statute": 3,
     "topic": 8
   },
@@ -35,7 +35,10 @@
     "SRC-WILSON-SONSINI-INTERNET",
     "SRC-WILSON-SONSINI-SOFTWARE",
     "SRC-WYDEN-AARONS-LAW",
+    "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+    "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
     "SRC-WYDEN-SECTION-230",
+    "SRC-WYDEN-USA-RIGHTS-ACT",
     "CASE-BERNSTEIN-V-DOJ",
     "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
     "CASE-CARPENTER-V-US",
@@ -125,7 +128,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 101,
-    "records": 204
+    "needing_review": 104,
+    "records": 207
   }
 }

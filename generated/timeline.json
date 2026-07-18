@@ -1116,10 +1116,31 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "record_title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "record_title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Wyden Remarks at Section 230 Briefing Hosted by EFF.",
       "event_type": "verification",
       "record_id": "SRC-WYDEN-SECTION-230",
       "record_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "record_title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program"
     },
     {
       "date": "2026-06-25",
@@ -2019,10 +2040,31 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "record_title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "record_title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Wyden Remarks at Section 230 Briefing Hosted by EFF.",
       "event_type": "publication",
       "record_id": "SRC-WYDEN-SECTION-230",
       "record_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "record_title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program"
     },
     {
       "date": "Not dated",
