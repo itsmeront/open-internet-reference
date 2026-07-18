@@ -4,6 +4,26 @@
   width: 2.75rem;
 }
 
+/* Primary sidebar section headers (About, Knowledge, Moderation, etc.). */
+.md-nav--primary > .md-nav__list > .md-nav__item--section {
+  margin-top: 0.65rem;
+}
+
+.md-nav--primary > .md-nav__list > .md-nav__item--section > label.md-nav__link[for],
+.md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link.md-nav__container > a.md-nav__link {
+  color: var(--md-default-fg-color, rgba(0, 0, 0, 0.87));
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.015em;
+}
+
+.md-nav--primary > .md-nav__list > .md-nav__item--section > label.md-nav__link[for]:hover,
+.md-nav--primary > .md-nav__list > .md-nav__item--section > label.md-nav__link[for]:focus,
+.md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link.md-nav__container > a.md-nav__link:hover,
+.md-nav--primary > .md-nav__list > .md-nav__item--section > .md-nav__link.md-nav__container > a.md-nav__link:focus {
+  color: var(--md-default-fg-color, rgba(0, 0, 0, 0.87));
+}
+
 /* Footnotes and numbered sources should read as interactive citations. */
 .md-typeset a.footnote-ref,
 .md-typeset a.footnote-backref {
