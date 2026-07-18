@@ -100,6 +100,13 @@
       "record_title": "Knight First Amendment Institute Contact and FAQ Page"
     },
     {
+      "date": "2016-01",
+      "description": "Publication date for Encryption backdoors aren't worth the price.",
+      "event_type": "publication",
+      "record_id": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "record_title": "Encryption backdoors aren't worth the price"
+    },
+    {
       "date": "2016-11-04",
       "description": "Publication date for The X3DH Key Agreement Protocol.",
       "event_type": "publication",
@@ -170,6 +177,13 @@
       "record_title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)"
     },
     {
+      "date": "2022-01-18",
+      "description": "Publication date for Booker Announces Introduction of Bill to Ban Surveillance Advertising.",
+      "event_type": "publication",
+      "record_id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "record_title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising"
+    },
+    {
       "date": "2022-06-13",
       "description": "Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.",
       "event_type": "publication",
@@ -182,6 +196,13 @@
       "event_type": "publication",
       "record_id": "SRC-RFC-9293",
       "record_title": "RFC 9293: Transmission Control Protocol (TCP)"
+    },
+    {
+      "date": "2023-11",
+      "description": "Publication date for Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.",
+      "event_type": "publication",
+      "record_id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "record_title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans"
     },
     {
       "date": "2025",
@@ -682,6 +703,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Cory Booker.",
+      "event_type": "verification",
+      "record_id": "PERSON-CORY-BOOKER",
+      "record_title": "Cory Booker"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Corynne McSherry.",
       "event_type": "verification",
       "record_id": "PERSON-CORYNNE-MCSHERRY",
@@ -731,6 +759,13 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Mike Lee.",
+      "event_type": "verification",
+      "record_id": "PERSON-MIKE-LEE",
+      "record_title": "Mike Lee"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Mitch Stoltz.",
       "event_type": "verification",
       "record_id": "PERSON-MITCH-STOLTZ",
@@ -756,6 +791,13 @@
       "event_type": "verification",
       "record_id": "PERSON-RON-WYDEN",
       "record_title": "Ron Wyden"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Thomas Massie.",
+      "event_type": "verification",
+      "record_id": "PERSON-THOMAS-MASSIE",
+      "record_title": "Thomas Massie"
     },
     {
       "date": "2026-06-25",
@@ -791,6 +833,13 @@
       "event_type": "verification",
       "record_id": "SRC-BLAZE-GEORGETOWN",
       "record_title": "Matt Blaze Georgetown Faculty Profile"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Booker Announces Introduction of Bill to Ban Surveillance Advertising.",
+      "event_type": "verification",
+      "record_id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "record_title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising"
     },
     {
       "date": "2026-06-25",
@@ -941,6 +990,20 @@
     },
     {
       "date": "2026-06-25",
+      "description": "Last verified date for Encryption backdoors aren't worth the price.",
+      "event_type": "verification",
+      "record_id": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "record_title": "Encryption backdoors aren't worth the price"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.",
+      "event_type": "verification",
+      "record_id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "record_title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans"
+    },
+    {
+      "date": "2026-06-25",
       "description": "Last verified date for Lawrence Lessig Harvard Law School Faculty Page.",
       "event_type": "verification",
       "record_id": "SRC-LESSIG-HARVARD",
@@ -952,6 +1015,13 @@
       "event_type": "verification",
       "record_id": "SRC-LOFGREN-AARONS-LAW",
       "record_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for House Passes Massie Amendment to Strengthen Privacy and Security.",
+      "event_type": "verification",
+      "record_id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "record_title": "House Passes Massie Amendment to Strengthen Privacy and Security"
     },
     {
       "date": "2026-06-25",
@@ -1113,6 +1183,13 @@
       "event_type": "verification",
       "record_id": "SRC-WYDEN-AARONS-LAW",
       "record_title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Last verified date for Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe.",
+      "event_type": "verification",
+      "record_id": "SRC-WYDEN-EARN-IT",
+      "record_title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe"
     },
     {
       "date": "2026-06-25",
@@ -1851,6 +1928,13 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for House Passes Massie Amendment to Strengthen Privacy and Security.",
+      "event_type": "publication",
+      "record_id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "record_title": "House Passes Massie Amendment to Strengthen Privacy and Security"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Heather Meeker About Page.",
       "event_type": "publication",
       "record_id": "SRC-MEEKER-ABOUT",
@@ -2037,6 +2121,13 @@
       "event_type": "publication",
       "record_id": "SRC-WYDEN-AARONS-LAW",
       "record_title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe.",
+      "event_type": "publication",
+      "record_id": "SRC-WYDEN-EARN-IT",
+      "record_title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe"
     },
     {
       "date": "Not dated",

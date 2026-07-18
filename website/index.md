@@ -29,8 +29,9 @@ Attorneys and legal scholars known for fighting censorship and protecting softwa
 
 Members of Congress actively legislating on digital rights, privacy, encryption, and internet freedom:
 
-- **Privacy and surveillance reform** — [Ron Wyden](generated/source-docs/knowledge/people/PERSON-RON-WYDEN.md) (Section 230 co-author, Aaron's Law, encryption champion), [Rand Paul](generated/source-docs/knowledge/people/PERSON-RAND-PAUL.md) (Fourth Amendment Restoration Act, anti-encryption-backdoor amendments)
+- **Privacy and surveillance reform** — [Ron Wyden](generated/source-docs/knowledge/people/PERSON-RON-WYDEN.md) (Section 230 co-author, Aaron's Law, encryption champion), [Rand Paul](generated/source-docs/knowledge/people/PERSON-RAND-PAUL.md) (Fourth Amendment Restoration Act, anti-encryption-backdoor amendments), [Cory Booker](generated/source-docs/knowledge/people/PERSON-CORY-BOOKER.md) (Banning Surveillance Advertising Act), [Mike Lee](generated/source-docs/knowledge/people/PERSON-MIKE-LEE.md) (Government Surveillance Reform Act)
 - **CFAA reform** — [Zoe Lofgren](generated/source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) (Aaron's Law — named for Aaron Swartz)
+- **Encryption and standards reform** — [Thomas Massie](generated/source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) (anti-backdoor amendments with Lofgren)
 - **Internet governance** — [Ro Khanna](generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md) (Internet Bill of Rights, endorsed by Tim Berners-Lee)
 
 ### [Law](knowledge/law.md)

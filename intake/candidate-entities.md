@@ -95,15 +95,17 @@ Verification targets:
 
 ## Policymakers
 
-Candidate person records:
+Verified person records (moved to `knowledge/people/`):
 
-- Ron Wyden
-- Rand Paul
-- Thomas Massie
-- Ro Khanna
-- Zoe Lofgren
-- Cory Booker
-- Mike Lee
+- Ron Wyden (`PERSON-RON-WYDEN`)
+- Rand Paul (`PERSON-RAND-PAUL`)
+- Ro Khanna (`PERSON-RO-KHANNA`)
+- Zoe Lofgren (`PERSON-ZOE-LOFGREN`)
+- Cory Booker (`PERSON-CORY-BOOKER`)
+- Mike Lee (`PERSON-MIKE-LEE`)
+- Thomas Massie (`PERSON-THOMAS-MASSIE`)
+
+Remaining candidate person records:
 
 Verification targets:
 

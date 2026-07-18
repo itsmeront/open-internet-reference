@@ -1,15 +1,15 @@
 {
   "by_status": {
-    "draft": 104,
+    "draft": 112,
     "verified": 103
   },
   "by_type": {
     "attorney": 16,
     "case": 10,
     "organization": 20,
-    "person": 25,
+    "person": 28,
     "protocol": 3,
-    "source": 122,
+    "source": 127,
     "statute": 3,
     "topic": 8
   },
@@ -20,12 +20,16 @@
     "SRC-OIR-ROADMAP-DOCX"
   ],
   "needing_review": [
+    "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
     "SRC-COOLEY-TECH",
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
     "SRC-GOOGLE-ORACLE-JUSTIA",
     "SRC-KHANNA-INTERNET-BILL",
+    "SRC-LEE-ENCRYPTION-BACKDOORS",
+    "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
     "SRC-LOFGREN-AARONS-LAW",
+    "SRC-MASSIE-ENCRYPTION-AMENDMENT",
     "SRC-OIR-BOOTSTRAP-PROMPT",
     "SRC-OIR-PROJECT-CHARTER-DOCX",
     "SRC-OIR-ROADMAP-DOCX",
@@ -35,6 +39,7 @@
     "SRC-WILSON-SONSINI-INTERNET",
     "SRC-WILSON-SONSINI-SOFTWARE",
     "SRC-WYDEN-AARONS-LAW",
+    "SRC-WYDEN-EARN-IT",
     "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
     "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
     "SRC-WYDEN-SECTION-230",
@@ -76,6 +81,7 @@
     "PERSON-BEN-WIZNER",
     "PERSON-BRUCE-SCHNEIER",
     "PERSON-CINDY-COHN",
+    "PERSON-CORY-BOOKER",
     "PERSON-CORYNNE-MCSHERRY",
     "PERSON-DANAH-BOYD",
     "PERSON-DAVID-REED",
@@ -94,6 +100,7 @@
     "PERSON-LAWRENCE-LESSIG",
     "PERSON-LEE-TIEN",
     "PERSON-MATT-BLAZE",
+    "PERSON-MIKE-LEE",
     "PERSON-MITCH-STOLTZ",
     "PERSON-NATHAN-FREED-WESSLER",
     "PERSON-ORIN-KERR",
@@ -106,6 +113,7 @@
     "PERSON-RON-RIVEST",
     "PERSON-RON-WYDEN",
     "PERSON-THOMAS-HAIGH",
+    "PERSON-THOMAS-MASSIE",
     "PERSON-TIM-BERNERS-LEE",
     "PERSON-VINT-CERF",
     "PERSON-WHITFIELD-DIFFIE",
@@ -128,7 +136,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 104,
-    "records": 207
+    "needing_review": 112,
+    "records": 215
   }
 }
