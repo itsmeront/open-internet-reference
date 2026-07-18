@@ -153,6 +153,83 @@ def compute_mcp_stats(entries: list[dict[str, str]]) -> dict[str, Any]:
     }
 
 
+def _nice_axis_max(value: int) -> int:
+    """Round a chart maximum up to a readable axis bound."""
+    if value <= 0:
+        return 1
+    magnitude = 10 ** (len(str(value)) - 1)
+    return int(((value + magnitude - 1) // magnitude) * magnitude)
+
+
+def render_daily_traffic_chart(daily_views: dict[str, int]) -> list[str]:
+    """Render the last 30 days of traffic as an inline SVG bar chart."""
+    items = list(daily_views.items())[-30:]
+    if not items:
+        return []
+
+    width = 920
+    height = 320
+    margin_left = 56
+    margin_right = 16
+    margin_top = 20
+    margin_bottom = 52
+    chart_width = width - margin_left - margin_right
+    chart_height = height - margin_top - margin_bottom
+    max_value = max(count for _, count in items)
+    axis_max = _nice_axis_max(max_value)
+    bar_gap = 3
+    bar_width = (chart_width - bar_gap * (len(items) - 1)) / len(items)
+    bar_color = "#4051b5"
+
+    lines = [
+        "### Daily Traffic (last 30 days)",
+        "",
+        '<div class="oir-daily-traffic-chart" role="img" '
+        'aria-label="Daily page views for the last 30 days">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" '
+        'preserveAspectRatio="xMidYMid meet">',
+        f'<rect x="0" y="0" width="{width}" height="{height}" fill="transparent" />',
+    ]
+
+    for tick in range(5):
+        fraction = tick / 4
+        y = margin_top + chart_height - (chart_height * fraction)
+        value = int(axis_max * fraction)
+        lines.append(
+            f'<line x1="{margin_left}" y1="{y:.1f}" x2="{width - margin_right}" '
+            f'y2="{y:.1f}" stroke="rgba(63, 81, 181, 0.15)" stroke-width="1" />'
+        )
+        lines.append(
+            f'<text x="{margin_left - 8}" y="{y + 4:.1f}" text-anchor="end" '
+            f'font-size="11" fill="currentColor">{value:,}</text>'
+        )
+
+    for index, (date, count) in enumerate(items):
+        bar_height = (count / axis_max) * chart_height if axis_max else 0
+        x = margin_left + index * (bar_width + bar_gap)
+        y = margin_top + chart_height - bar_height
+        label = date[5:]  # MM-DD
+        show_label = index == 0 or index == len(items) - 1 or index % 5 == 0
+        lines.extend([
+            f'<rect x="{x:.1f}" y="{y:.1f}" width="{bar_width:.1f}" '
+            f'height="{bar_height:.1f}" fill="{bar_color}" rx="2">',
+            f"<title>{date}: {count:,} views</title>",
+            "</rect>",
+        ])
+        if show_label:
+            lines.append(
+                f'<text x="{x + bar_width / 2:.1f}" y="{height - 18}" text-anchor="middle" '
+                f'font-size="11" fill="currentColor">{label}</text>'
+            )
+
+    lines.extend([
+        "</svg>",
+        "</div>",
+        "",
+    ])
+    return lines
+
+
 def generate_stats_page(
     page_stats: dict[str, Any],
     mcp_stats: dict[str, Any],
@@ -189,12 +266,7 @@ def generate_stats_page(
             lines.append("")
 
         if page_stats["daily_views"]:
-            lines.extend(["### Daily Traffic (last 30 days)", ""])
-            lines.append("| Date | Views |")
-            lines.append("|---|---|")
-            for date, count in list(page_stats["daily_views"].items())[-14:]:
-                lines.append(f"| {date} | {count:,} |")
-            lines.append("")
+            lines.extend(render_daily_traffic_chart(page_stats["daily_views"]))
     else:
         lines.extend([
             "*No page view data available yet. Statistics will appear after the site receives traffic.*",

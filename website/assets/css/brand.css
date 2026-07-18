@@ -37,6 +37,19 @@
   padding-top: 1rem;
 }
 
+.oir-daily-traffic-chart {
+  margin: 1rem 0 1.5rem;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.oir-daily-traffic-chart svg {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  min-width: 640px;
+}
+
 .oir-print-cover__logo {
   box-sizing: border-box;
   height: auto;
