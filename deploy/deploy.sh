@@ -35,7 +35,13 @@ log "→ Pulling latest from origin/main..."
 cd "$REPO_DIR"
 $AS_OIR git fetch origin main
 $AS_OIR git reset --hard origin/main
-chmod +x "$REPO_DIR/deploy/deploy.sh" 2>/dev/null || true
+chmod +x "$REPO_DIR/deploy/deploy.sh" "$REPO_DIR/deploy/generate_site_stats.sh" 2>/dev/null || true
+
+# Webhook invokes the pre-pull deploy.sh copy; re-exec so new deploy steps run.
+if [ "${OIR_DEPLOY_REEXEC:-}" != "1" ]; then
+    export OIR_DEPLOY_REEXEC=1
+    exec bash "$REPO_DIR/deploy/deploy.sh" "$@"
+fi
 
 # Sync nginx config
 log "→ Syncing nginx config..."
@@ -52,7 +58,7 @@ $AS_OIR $VENV_DIR/bin/python tools/generate_indexes.py
 
 # Regenerate usage statistics from nginx/MCP logs (git reset above restores stale stats.md)
 log "→ Generating usage statistics..."
-if [ -x "$REPO_DIR/deploy/generate_site_stats.sh" ]; then
+if [ -f "$REPO_DIR/deploy/generate_site_stats.sh" ]; then
     $AS_OIR bash "$REPO_DIR/deploy/generate_site_stats.sh" || log "   (stats generation skipped)"
 else
     log "   (generate_site_stats.sh missing — stats page may be stale)"
