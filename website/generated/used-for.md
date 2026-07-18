@@ -311,6 +311,9 @@ Term count: 142
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
 - [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
+- [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
 ## `PERSON-RO-KHANNA` { #person-ro-khanna }
 
@@ -328,7 +331,10 @@ Term count: 142
 
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+- [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
 ## `PERSON-THOMAS-HAIGH` { #person-thomas-haigh }
 

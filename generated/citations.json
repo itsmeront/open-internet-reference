@@ -2970,6 +2970,16 @@
       ]
     },
     {
+      "source_id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "source_title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act",
+      "usages": []
+    },
+    {
+      "source_id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "source_title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms",
+      "usages": []
+    },
+    {
       "source_id": "SRC-WYDEN-SECTION-230",
       "source_title": "Wyden Remarks at Section 230 Briefing Hosted by EFF",
       "usages": [
@@ -2987,6 +2997,11 @@
           "usage": "relationship_source"
         }
       ]
+    },
+    {
+      "source_id": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "source_title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program",
+      "usages": []
     },
     {
       "source_id": "SRC-ZIMMERMANN-BIO",
