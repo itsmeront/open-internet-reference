@@ -13,3 +13,6 @@
 
 # Generate usage statistics daily (2am) — reads Docker nginx logs
 0 2 * * * root bash -c '/opt/oir/venv/bin/python /opt/oir/repo/tools/generate_stats.py --nginx-log <(docker logs yz-webserver 2>/dev/null)' >> /opt/oir/stats.log 2>&1
+
+# Note: deploy.sh also runs deploy/generate_site_stats.sh before each MkDocs build so
+# git reset --hard origin/main does not leave the published stats page stale until cron runs.

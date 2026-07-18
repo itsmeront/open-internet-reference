@@ -35,6 +35,13 @@ $AS_OIR $VENV/python tools/validate_metadata.py
 echo "→ Generating indexes..."
 $AS_OIR $VENV/python tools/generate_indexes.py
 
+echo "→ Generating usage statistics..."
+if [ -x "$REPO/deploy/generate_site_stats.sh" ]; then
+    $AS_OIR bash "$REPO/deploy/generate_site_stats.sh" || echo "   (stats generation skipped)"
+else
+    echo "   (generate_site_stats.sh missing — stats page may be stale)"
+fi
+
 echo "→ Building MkDocs site..."
 $AS_OIR $VENV/mkdocs build --site-dir "$OIR_HOME/site"
 

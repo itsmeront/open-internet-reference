@@ -50,6 +50,14 @@ $AS_OIR $VENV_DIR/bin/python tools/validate_metadata.py
 log "→ Generating indexes..."
 $AS_OIR $VENV_DIR/bin/python tools/generate_indexes.py
 
+# Regenerate usage statistics from nginx/MCP logs (git reset above restores stale stats.md)
+log "→ Generating usage statistics..."
+if [ -x "$REPO_DIR/deploy/generate_site_stats.sh" ]; then
+    $AS_OIR bash "$REPO_DIR/deploy/generate_site_stats.sh" || log "   (stats generation skipped)"
+else
+    log "   (generate_site_stats.sh missing — stats page may be stale)"
+fi
+
 # Build MkDocs site
 log "→ Building MkDocs site..."
 export NO_MKDOCS_2_WARNING=1

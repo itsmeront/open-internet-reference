@@ -135,6 +135,7 @@ sudo systemctl enable --now oir-webhook
 |---|---|
 | `setup.sh` | One-time server setup (installs deps, creates dirs, configures services) |
 | `deploy.sh` | Pulls latest, rebuilds site, deploys (called manually or by webhook) |
+| `generate_site_stats.sh` | Regenerates `website/generated/stats.md` from nginx/MCP logs before each build |
 | `webhook.py` | Lightweight HTTP server that receives GitHub push webhooks and triggers deploy |
 | `nginx/oir.conf` | Generic nginx server block template |
 | `nginx/openinternetresearch.com.conf` | Production nginx block for `yz-webserver` |
@@ -170,6 +171,15 @@ docker exec yz-webserver nginx -t && docker exec yz-webserver nginx -s reload
 ```
 
 This pulls the latest from GitHub, rebuilds the MkDocs site, and copies it to the served directory.
+
+Before the MkDocs build, `deploy.sh` runs `deploy/generate_site_stats.sh`, which reads nginx access logs from the `yz-webserver` Docker container and MCP request logs on the host, then writes `website/generated/stats.md`. This step is required because `git reset --hard origin/main` restores a stale committed stats page; without it, the **Usage Statistics** page shows old or empty traffic data even though the daily cron job generates fresh numbers in the repo overnight.
+
+Manual stats refresh (without a full deploy):
+
+```bash
+sudo -u oir bash /opt/oir/repo/deploy/generate_site_stats.sh
+sudo -u oir bash -lc 'cd /opt/oir/repo && /opt/oir/venv/bin/mkdocs build --site-dir /opt/oir/site'
+```
 
 ## Auto-Deploy via GitHub Webhook
 
