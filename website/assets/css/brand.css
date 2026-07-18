@@ -58,6 +58,28 @@
   font-weight: 600;
 }
 
+.oir-footer-tip {
+  align-self: center;
+  color: var(--md-footer-fg-color--lighter, rgba(255, 255, 255, 0.62));
+  font-size: 0.72rem;
+  line-height: 1.4;
+  margin-right: 0.35rem;
+  max-width: 14rem;
+}
+
+.oir-footer-tip a {
+  color: var(--md-footer-fg-color, rgba(255, 255, 255, 0.87));
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.md-footer .md-social {
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+}
+
 .oir-print-cover__logo {
   box-sizing: border-box;
   height: auto;
