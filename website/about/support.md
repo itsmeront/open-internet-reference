@@ -2,7 +2,7 @@
 
 Open Internet Reference is a free, evidence-based knowledge base. Traffic and hosting costs grow as more people use the site.
 
-If the project is useful to you, you can leave an optional **one-time tip** through Buy Me a Coffee. Tips help cover hosting, domain, and maintenance time for the maintainer.
+**If you find this site useful, you can buy me a coffee.** Tips are optional one-time support through Buy Me a Coffee and help cover hosting, domain, and maintenance time.
 
 <p class="oir-support-actions">
   <a class="md-button md-button--primary oir-support-button" href="https://buymeacoffee.com/itsmeront" target="_blank" rel="noopener noreferrer">Buy me a coffee</a>
@@ -22,9 +22,3 @@ If the project is useful to you, you can leave an optional **one-time tip** thro
 - [Contribute corrections or new sources](contributing-without-github.md)
 - [Report research debt](../generated/review-status.md) that needs verification
 - Share OIR with attorneys, researchers, and developers who need citable reference material
-
-## Configure this link
-
-Maintainers: update the Buy Me a Coffee URL in this file and the matching footer icon in `mkdocs.yml` under `extra.social`.
-
-Other tip platforms (Ko-fi, PayPal.me, GitHub Sponsors) work too — keep the same non-deductible disclaimer if you swap providers.

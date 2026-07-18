@@ -8,6 +8,7 @@ site_dir: generated/site
 
 theme:
   name: material
+  custom_dir: website/overrides
   language: en
   logo: assets/images/oir-logo-mark.svg
   favicon: assets/images/favicon.ico
@@ -55,7 +56,7 @@ extra:
   social:
     - icon: fontawesome/solid/mug-saucer
       link: https://buymeacoffee.com/itsmeront
-      name: Tip jar (not tax-deductible)
+      name: Buy me a coffee
 
 extra_css:
   - assets/css/brand.css
