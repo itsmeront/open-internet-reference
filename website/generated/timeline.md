@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 307
+Event count: 320
 
 ## 1987-11
 
@@ -54,6 +54,10 @@ Event count: 307
 - `publication`: [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md) - Publication date for Knight First Amendment Institute About Page.
 - `publication`: [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md) - Publication date for Knight First Amendment Institute Contact and FAQ Page.
 
+## 2016-01
+
+- `publication`: [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md) - Publication date for Encryption backdoors aren't worth the price.
+
 ## 2016-11-04
 
 - `publication`: [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md) - Publication date for The X3DH Key Agreement Protocol.
@@ -85,6 +89,10 @@ Event count: 307
 
 - `publication`: [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md) - Publication date for Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia).
 
+## 2022-01-18
+
+- `publication`: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md) - Publication date for Booker Announces Introduction of Bill to Ban Surveillance Advertising.
+
 ## 2022-06-13
 
 - `publication`: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md) - Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.
@@ -92,6 +100,10 @@ Event count: 307
 ## 2022-08
 
 - `publication`: [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md) - Publication date for RFC 9293: Transmission Control Protocol (TCP).
+
+## 2023-11
+
+- `publication`: [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md) - Publication date for Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.
 
 ## 2025
 
@@ -187,6 +199,7 @@ Event count: 307
 - `verification`: [`ORG-WILSON-SONSINI`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md) - Last verified date for Wilson Sonsini Goodrich & Rosati.
 - `verification`: [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md) - Last verified date for Bruce Schneier.
 - `verification`: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) - Last verified date for Cindy Cohn.
+- `verification`: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) - Last verified date for Cory Booker.
 - `verification`: [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) - Last verified date for Corynne McSherry.
 - `verification`: [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) - Last verified date for Eben Moglen.
 - `verification`: [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) - Last verified date for Jennifer Granick.
@@ -194,15 +207,18 @@ Event count: 307
 - `verification`: [`PERSON-LAUREN-WEINSTEIN`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md) - Last verified date for Lauren Weinstein.
 - `verification`: [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) - Last verified date for Lawrence Lessig.
 - `verification`: [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) - Last verified date for Matt Blaze.
+- `verification`: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) - Last verified date for Mike Lee.
 - `verification`: [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) - Last verified date for Mitch Stoltz.
 - `verification`: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) - Last verified date for Rand Paul.
 - `verification`: [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) - Last verified date for Ro Khanna.
 - `verification`: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) - Last verified date for Ron Wyden.
+- `verification`: [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) - Last verified date for Thomas Massie.
 - `verification`: [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) - Last verified date for Zoe Lofgren.
 - `verification`: [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md) - Last verified date for Bernstein v. US Dept. of Justice EFF Case Page.
 - `verification`: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md) - Last verified date for EFF at 25 - Remembering the Case that Established Code as Speech.
 - `verification`: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md) - Last verified date for Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
 - `verification`: [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md) - Last verified date for Matt Blaze Georgetown Faculty Profile.
+- `verification`: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md) - Last verified date for Booker Announces Introduction of Bill to Ban Surveillance Advertising.
 - `verification`: [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md) - Last verified date for Center for Democracy and Technology About Page.
 - `verification`: [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md) - Last verified date for Center for Democracy and Technology Who We Are Page.
 - `verification`: [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md) - Last verified date for Cindy Cohn EFF Staff Biography.
@@ -224,8 +240,11 @@ Event count: 307
 - `verification`: [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md) - Last verified date for Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.
 - `verification`: [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md) - Last verified date for Knight First Amendment Institute About Page.
 - `verification`: [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md) - Last verified date for Knight First Amendment Institute Contact and FAQ Page.
+- `verification`: [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md) - Last verified date for Encryption backdoors aren't worth the price.
+- `verification`: [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md) - Last verified date for Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.
 - `verification`: [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md) - Last verified date for Lawrence Lessig Harvard Law School Faculty Page.
 - `verification`: [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md) - Last verified date for Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.
+- `verification`: [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md) - Last verified date for House Passes Massie Amendment to Strengthen Privacy and Security.
 - `verification`: [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md) - Last verified date for Corynne McSherry EFF Staff Biography.
 - `verification`: [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md) - Last verified date for Eben Moglen Columbia Law School Faculty Page.
 - `verification`: [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md) - Last verified date for Eben Moglen Columbia Data Science Institute Profile.
@@ -249,6 +268,7 @@ Event count: 307
 - `verification`: [`SRC-WILSON-SONSINI-INTERNET`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md) - Last verified date for Wilson Sonsini Internet Strategy and Litigation Practice Page.
 - `verification`: [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md) - Last verified date for Wilson Sonsini Software Industry Practice Page.
 - `verification`: [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md) - Last verified date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.
+- `verification`: [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md) - Last verified date for Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe.
 - `verification`: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md) - Last verified date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.
 - `verification`: [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md) - Last verified date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.
 - `verification`: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md) - Last verified date for Wyden Remarks at Section 230 Briefing Hosted by EFF.
@@ -363,6 +383,7 @@ Event count: 307
 - `publication`: [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md) - Publication date for Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.
 - `publication`: [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md) - Publication date for Lawrence Lessig Harvard Law School Faculty Page.
 - `publication`: [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md) - Publication date for Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.
+- `publication`: [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md) - Publication date for House Passes Massie Amendment to Strengthen Privacy and Security.
 - `publication`: [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md) - Publication date for Heather Meeker About Page.
 - `publication`: [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md) - Publication date for Eben Moglen Columbia Law School Faculty Page.
 - `publication`: [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md) - Publication date for Eben Moglen Columbia Data Science Institute Profile.
@@ -390,6 +411,7 @@ Event count: 307
 - `publication`: [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md) - Publication date for Wilson Sonsini Software Industry Practice Page.
 - `publication`: [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md) - Publication date for Ben Wizner ACLU Staff Biography.
 - `publication`: [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md) - Publication date for Wyden Introduces Reforms to the Computer Fraud and Abuse Act.
+- `publication`: [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md) - Publication date for Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe.
 - `publication`: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md) - Publication date for Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.
 - `publication`: [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md) - Publication date for Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms.
 - `publication`: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md) - Publication date for Wyden Remarks at Section 230 Briefing Hosted by EFF.

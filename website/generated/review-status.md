@@ -4,13 +4,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 207
-- Records needing review: 104
+- Records: 215
+- Records needing review: 112
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 104
+- [`draft`](#draft-records): 112
 - [`verified`](#verified-records): 103
 
 ## By Type
@@ -18,9 +18,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`attorney`](#attorney-records): 16
 - [`case`](#case-records): 10
 - [`organization`](#organization-records): 20
-- [`person`](#person-records): 25
+- [`person`](#person-records): 28
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 122
+- [`source`](#source-records): 127
 - [`statute`](#statute-records): 3
 - [`topic`](#topic-records): 8
 
@@ -63,6 +63,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-BEN-WIZNER: Ben Wizner`](source-docs/knowledge/people/PERSON-BEN-WIZNER.md)
 - [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
@@ -81,6 +82,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 - [`PERSON-LEE-TIEN: Lee Tien`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
 - [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
@@ -93,6 +95,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+- [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - [`PERSON-TIM-BERNERS-LEE: Tim Berners-Lee`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
 - [`PERSON-VINT-CERF: Vint Cerf`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
@@ -100,12 +103,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+- [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
@@ -115,6 +122,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-EARN-IT: Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
@@ -176,6 +184,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-BEN-WIZNER: Ben Wizner`](source-docs/knowledge/people/PERSON-BEN-WIZNER.md)
 - [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
@@ -194,6 +203,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 - [`PERSON-LEE-TIEN: Lee Tien`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
 - [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
@@ -206,6 +216,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+- [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - [`PERSON-TIM-BERNERS-LEE: Tim Berners-Lee`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
 - [`PERSON-VINT-CERF: Vint Cerf`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
@@ -213,12 +224,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+- [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
@@ -228,6 +243,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-EARN-IT: Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
@@ -410,6 +426,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-ALAN-KAY: Alan Kay`](source-docs/knowledge/people/PERSON-ALAN-KAY.md)
 - [`PERSON-ANDREW-RUSSELL: Andrew Russell`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md)
 - [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 - [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
@@ -419,6 +436,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-LAUREN-WEINSTEIN: Lauren Weinstein`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md)
 - [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
 - [`PERSON-PAUL-VIXIE: Paul Vixie`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
@@ -428,6 +446,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+- [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - [`PERSON-TIM-BERNERS-LEE: Tim Berners-Lee`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
 - [`PERSON-VINT-CERF: Vint Cerf`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
@@ -451,6 +470,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 - [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+- [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
@@ -493,8 +513,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-KNIGHT-ABOUT: Knight First Amendment Institute About Page`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
 - [`SRC-KNIGHT-CONTACT: Knight First Amendment Institute Contact and FAQ Page`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+- [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
@@ -557,6 +580,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WIZNER-ACLU: Ben Wizner ACLU Staff Biography`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-EARN-IT: Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)

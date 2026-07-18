@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-18 | **Records:** 85 | **Sources referenced:** 116
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-18 | **Records:** 88 | **Sources referenced:** 121
 
 <div class="oir-handbook" markdown="1">
 
@@ -93,6 +93,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Alan Kay](#PERSON-ALAN-KAY) (`PERSON-ALAN-KAY`)
 - [Andrew Russell](#PERSON-ANDREW-RUSSELL) (`PERSON-ANDREW-RUSSELL`)
 - [Bruce Schneier](#PERSON-BRUCE-SCHNEIER) (`PERSON-BRUCE-SCHNEIER`)
+- [Cory Booker](#PERSON-CORY-BOOKER) (`PERSON-CORY-BOOKER`)
 - [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
 - [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
 - [Henry Fonda](#PERSON-HENRY-FONDA) (`PERSON-HENRY-FONDA`)
@@ -102,6 +103,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Lauren Weinstein](#PERSON-LAUREN-WEINSTEIN) (`PERSON-LAUREN-WEINSTEIN`)
 - [Lawrence Lessig](#PERSON-LAWRENCE-LESSIG) (`PERSON-LAWRENCE-LESSIG`)
 - [Matt Blaze](#PERSON-MATT-BLAZE) (`PERSON-MATT-BLAZE`)
+- [Mike Lee](#PERSON-MIKE-LEE) (`PERSON-MIKE-LEE`)
 - [Orin Kerr](#PERSON-ORIN-KERR) (`PERSON-ORIN-KERR`)
 - [Paul Vixie](#PERSON-PAUL-VIXIE) (`PERSON-PAUL-VIXIE`)
 - [Phil Zimmermann](#PERSON-PHIL-ZIMMERMANN) (`PERSON-PHIL-ZIMMERMANN`)
@@ -111,6 +113,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Ron Rivest](#PERSON-RON-RIVEST) (`PERSON-RON-RIVEST`)
 - [Ron Wyden](#PERSON-RON-WYDEN) (`PERSON-RON-WYDEN`)
 - [Thomas Haigh](#PERSON-THOMAS-HAIGH) (`PERSON-THOMAS-HAIGH`)
+- [Thomas Massie](#PERSON-THOMAS-MASSIE) (`PERSON-THOMAS-MASSIE`)
 - [Tim Berners-Lee](#PERSON-TIM-BERNERS-LEE) (`PERSON-TIM-BERNERS-LEE`)
 - [Vint Cerf](#PERSON-VINT-CERF) (`PERSON-VINT-CERF`)
 - [Whitfield Diffie](#PERSON-WHITFIELD-DIFFIE) (`PERSON-WHITFIELD-DIFFIE`)
@@ -304,6 +307,15 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 - **Tags:** organization, open-source-software, digital-rights, outreach
 
 Cooley is a global law firm that is the
+
+### Cory Booker { #PERSON-CORY-BOOKER-glossary }
+
+- **Record ID:** `PERSON-CORY-BOOKER`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, privacy, surveillance
+
+Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.
 
 ### Corynne McSherry { #PERSON-CORYNNE-MCSHERRY-glossary }
 
@@ -593,6 +605,15 @@ Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Elec
 
 Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
 
+### Mike Lee { #PERSON-MIKE-LEE-glossary }
+
+- **Record ID:** `PERSON-MIKE-LEE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, privacy, surveillance, fourth-amendment
+
+Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
+
 ### Mitch Stoltz { #PERSON-MITCH-STOLTZ-glossary }
 
 - **Record ID:** `PERSON-MITCH-STOLTZ`
@@ -817,6 +838,15 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 - **Tags:** person, internet-architecture, open-source-software
 
 Thomas Haigh is a historian of computing at the University of Wisconsin–Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.
+
+### Thomas Massie { #PERSON-THOMAS-MASSIE-glossary }
+
+- **Record ID:** `PERSON-THOMAS-MASSIE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, internet-governance, digital-rights, privacy, surveillance
+
+Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan House amendments to block government-mandated encryption backdoors and limit surveillance cooperation that weakens security standards.
 
 ### Tim Berners-Lee { #PERSON-TIM-BERNERS-LEE-glossary }
 
@@ -1261,6 +1291,13 @@ Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technol
 
 Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
 
+#### [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): Cory Booker { #PERSON-CORY-BOOKER }
+
+- Status: `draft`
+- Sources: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+
+Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.
+
 #### [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md): danah boyd { #PERSON-DANAH-BOYD }
 
 - Status: `draft`
@@ -1324,6 +1361,13 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 
 Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
 
+#### [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): Mike Lee { #PERSON-MIKE-LEE }
+
+- Status: `draft`
+- Sources: [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md), [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+
+Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
+
 #### [`PERSON-ORIN-KERR`](source-docs/knowledge/people/PERSON-ORIN-KERR.md): Orin Kerr { #PERSON-ORIN-KERR }
 
 - Status: `draft`
@@ -1386,6 +1430,13 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 - Sources: [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
 Thomas Haigh is a historian of computing at the University of Wisconsin–Milwaukee, chair of the History department, and co-author of A New History of Modern Computing who specializes in software, data systems, and IT industry history.
+
+#### [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md): Thomas Massie { #PERSON-THOMAS-MASSIE }
+
+- Status: `draft`
+- Sources: [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+
+Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan House amendments to block government-mandated encryption backdoors and limit surveillance cooperation that weakens security standards.
 
 #### [`PERSON-TIM-BERNERS-LEE`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md): Tim Berners-Lee { #PERSON-TIM-BERNERS-LEE }
 
@@ -1533,6 +1584,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`verified`)
 - [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography (`verified`)
 - [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md): Matt Blaze Georgetown Faculty Profile (`verified`)
+- [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising (`draft`)
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
 - [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`verified`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
@@ -1575,8 +1627,11 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee (`draft`)
 - [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md): Knight First Amendment Institute About Page (`verified`)
 - [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md): Knight First Amendment Institute Contact and FAQ Page (`verified`)
+- [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md): Encryption backdoors aren't worth the price (`draft`)
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md): Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans (`draft`)
 - [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page (`verified`)
 - [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`draft`)
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security (`draft`)
 - [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography (`verified`)
 - [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md): Heather Meeker About Page (`verified`)
 - [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md): Eben Moglen Columbia Law School Faculty Page (`verified`)
@@ -1636,6 +1691,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md): Wilson Sonsini Software Industry Practice Page (`draft`)
 - [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md): Ben Wizner ACLU Staff Biography (`verified`)
 - [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md): Wyden Introduces Reforms to the Computer Fraud and Abuse Act (`draft`)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`draft`)
 - [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md): Wyden Remarks at Section 230 Briefing Hosted by EFF (`draft`)
 - [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography (`verified`)
 - [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile (`verified`)

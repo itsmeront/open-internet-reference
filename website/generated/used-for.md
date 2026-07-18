@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 142
+Term count: 145
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -206,6 +206,10 @@ Term count: 142
 - [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
 - [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
+## `PERSON-CORY-BOOKER` { #person-cory-booker }
+
+- [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+
 ## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
 
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
@@ -282,6 +286,11 @@ Term count: 142
 
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 
+## `PERSON-MIKE-LEE` { #person-mike-lee }
+
+- [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+
 ## `PERSON-MITCH-STOLTZ` { #person-mitch-stoltz }
 
 - [`SRC-STOLTZ-EFF-BIO: Mitch Stoltz EFF Staff Biography`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
@@ -329,8 +338,10 @@ Term count: 142
 
 ## `PERSON-RON-WYDEN` { #person-ron-wyden }
 
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- [`SRC-WYDEN-EARN-IT: Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
@@ -339,6 +350,10 @@ Term count: 142
 ## `PERSON-THOMAS-HAIGH` { #person-thomas-haigh }
 
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
+
+## `PERSON-THOMAS-MASSIE` { #person-thomas-massie }
+
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 
 ## `PERSON-TIM-BERNERS-LEE` { #person-tim-berners-lee }
 
@@ -354,7 +369,9 @@ Term count: 142
 
 ## `PERSON-ZOE-LOFGREN` { #person-zoe-lofgren }
 
+- [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 
 ## `STAT-CFAA-1030` { #stat-cfaa-1030 }
 

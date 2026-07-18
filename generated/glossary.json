@@ -1698,6 +1698,47 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-CORY-BOOKER",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-CORY-BOOKER.md",
+      "relationships": [
+        {
+          "object": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BOOKER-SURVEILLANCE-ADVERTISING"
+          ],
+          "subject": "PERSON-CORY-BOOKER"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+          ],
+          "subject": "PERSON-CORY-BOOKER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-CORY-BOOKER.md",
+      "sources": [
+        "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+      ],
+      "status": "draft",
+      "summary": "Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Cory Booker",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-CORYNNE-MCSHERRY",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
@@ -2390,6 +2431,48 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-MIKE-LEE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-MIKE-LEE.md",
+      "relationships": [
+        {
+          "object": "SRC-LEE-ENCRYPTION-BACKDOORS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LEE-ENCRYPTION-BACKDOORS"
+          ],
+          "subject": "PERSON-MIKE-LEE"
+        },
+        {
+          "object": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+          ],
+          "subject": "PERSON-MIKE-LEE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MIKE-LEE.md",
+      "sources": [
+        "SRC-LEE-ENCRYPTION-BACKDOORS",
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+      ],
+      "status": "draft",
+      "summary": "Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "surveillance",
+        "fourth-amendment"
+      ],
+      "title": "Mike Lee",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-MITCH-STOLTZ",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
@@ -2809,6 +2892,38 @@
         "open-source-software"
       ],
       "title": "Thomas Haigh",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-THOMAS-MASSIE",
+      "last_verified": "2026-06-25",
+      "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
+      "relationships": [
+        {
+          "object": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MASSIE-ENCRYPTION-AMENDMENT"
+          ],
+          "subject": "PERSON-THOMAS-MASSIE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md",
+      "sources": [
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT"
+      ],
+      "status": "draft",
+      "summary": "Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan House amendments to block government-mandated encryption backdoors and limit surveillance cooperation that weakens security standards.",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Thomas Massie",
       "type": "person",
       "used_for": []
     },
