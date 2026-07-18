@@ -1,15 +1,15 @@
 {
   "by_status": {
-    "draft": 98,
-    "verified": 100
+    "draft": 101,
+    "verified": 103
   },
   "by_type": {
     "attorney": 16,
     "case": 10,
-    "organization": 19,
-    "person": 23,
+    "organization": 20,
+    "person": 25,
     "protocol": 3,
-    "source": 116,
+    "source": 119,
     "statute": 3,
     "topic": 8
   },
@@ -48,6 +48,7 @@
     "CASE-VAN-BUREN-V-US",
     "ORG-ACLU",
     "ORG-CDT",
+    "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
     "ORG-COOLEY",
     "ORG-EFF",
     "ORG-EPIC",
@@ -78,7 +79,9 @@
     "PERSON-EBEN-MOGLEN",
     "PERSON-ESHA-BHANDARI",
     "PERSON-HEATHER-MEEKER",
+    "PERSON-HENRY-FONDA",
     "PERSON-JAMEEL-JAFFER",
+    "PERSON-JANE-FONDA",
     "PERSON-JANET-ABBATE",
     "PERSON-JENNIFER-GRANICK",
     "PERSON-JONATHAN-ZITTRAIN",
@@ -122,7 +125,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 98,
-    "records": 198
+    "needing_review": 101,
+    "records": 204
   }
 }

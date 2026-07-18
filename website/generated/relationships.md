@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 184
+Edge count: 196
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -208,6 +208,26 @@ Edge count: 184
 
 - Declared in: [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md)
 - Sources: [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
+
+## [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+
+## [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+
+## [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
 
 ## [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md) `cites` [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 
@@ -529,6 +549,21 @@ Edge count: 184
 - Declared in: [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 - Sources: [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 
+## [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+- Declared in: [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+- Declared in: [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
 ## [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md) `affiliated_with` [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 
 - Declared in: [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
@@ -538,6 +573,26 @@ Edge count: 184
 
 - Declared in: [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
 - Sources: [`SRC-JAFFER-KNIGHT`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
+
+## [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+- Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md), [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+- Declared in: [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md), [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `cites` [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+
+- Declared in: [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+
+## [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+- Declared in: [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
 ## [`PERSON-JANET-ABBATE`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md) `cites` [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md)
 
@@ -848,6 +903,11 @@ Edge count: 184
 
 - Declared in: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - Sources: [`SRC-RENO-V-ACLU-JUSTIA`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
+
+## [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+- Declared in: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
 
 ## [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 

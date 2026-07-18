@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 116
+Record count: 119
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -212,6 +212,46 @@ Google Research profile for Vinton G. Cerf describing his role as Chief Internet
 
 ### Cited By
 - [`PERSON-VINT-CERF: Vint Cerf`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
+
+## `SRC-CFA-HOME`: Committee for the First Amendment Homepage { #SRC-CFA-HOME }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-CFA-HOME.md`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- Tags: source, organization, first-amendment
+
+Official homepage of the Committee for the First Amendment describing its mission, joint statement, and timeline of press and creative-expression events.
+
+### Cited By
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+## `SRC-CFA-JOIN`: Committee for the First Amendment Join Page { #SRC-CFA-JOIN }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-CFA-JOIN.md`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+- Tags: source, organization, first-amendment
+
+Official join page inviting entertainment-industry colleagues to sign the Committee's statement.
+
+### Cited By
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+## `SRC-CFA-RELAUNCH-CNN`: Jane Fonda Relaunches Committee for the First Amendment (CNN) { #SRC-CFA-RELAUNCH-CNN }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+- Tags: source, organization, first-amendment
+
+CNN reporting on Jane Fonda's October 2025 relaunch of the Committee for the First Amendment, including signatory count and historical context.
+
+### Cited By
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 
 ## `SRC-CHESTEK-ABOUT`: Pamela Chestek About Page { #SRC-CHESTEK-ABOUT }
 

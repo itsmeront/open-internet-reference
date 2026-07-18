@@ -122,6 +122,14 @@
     },
     {
       "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-JOIN",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "term": "`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`"
+    },
+    {
+      "sources": [
         "SRC-COOLEY-TECH"
       ],
       "term": "`ORG-COOLEY`"
@@ -321,9 +329,22 @@
     },
     {
       "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "term": "`PERSON-HENRY-FONDA`"
+    },
+    {
+      "sources": [
         "SRC-JAFFER-KNIGHT"
       ],
       "term": "`PERSON-JAMEEL-JAFFER`"
+    },
+    {
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "term": "`PERSON-JANE-FONDA`"
     },
     {
       "sources": [

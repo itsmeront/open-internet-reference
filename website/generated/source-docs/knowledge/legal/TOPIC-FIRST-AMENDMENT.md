@@ -28,7 +28,12 @@ relationships:
     object: TOPIC-CODE-AS-SPEECH
     sources:
       - SRC-RENO-V-ACLU-JUSTIA
-last_verified: "2026-06-19"
+  - subject: TOPIC-FIRST-AMENDMENT
+    predicate: related_to
+    object: ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT
+    sources:
+      - SRC-CFA-HOME
+last_verified: "2026-07-18"
 ---
 
 # Generated Source Mirror
@@ -43,9 +48,9 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
     - **Status**: `draft`
     - **Sources**: 2
-    - **Relationships**: 3
+    - **Relationships**: 4
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-19
+    - **Last verified**: 2026-07-18
 
 ---
 
@@ -77,6 +82,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 - `TOPIC-FIRST-AMENDMENT` cites [`SRC-US-CONST-AMEND-I-LII`](https://www.law.cornell.edu/constitution/first_amendment).
 - `TOPIC-FIRST-AMENDMENT` related_to `CASE-RENO-V-ACLU`.
 - `TOPIC-FIRST-AMENDMENT` related_to `TOPIC-CODE-AS-SPEECH`.
+- `TOPIC-FIRST-AMENDMENT` related_to `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`.
 
 ## Sources
 

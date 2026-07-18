@@ -184,6 +184,27 @@
       "record_title": "RFC 9293: Transmission Control Protocol (TCP)"
     },
     {
+      "date": "2025",
+      "description": "Publication date for Committee for the First Amendment Join Page.",
+      "event_type": "publication",
+      "record_id": "SRC-CFA-JOIN",
+      "record_title": "Committee for the First Amendment Join Page"
+    },
+    {
+      "date": "2025 (relaunch era; site content updated through 2026)",
+      "description": "Publication date for Committee for the First Amendment Homepage.",
+      "event_type": "publication",
+      "record_id": "SRC-CFA-HOME",
+      "record_title": "Committee for the First Amendment Homepage"
+    },
+    {
+      "date": "2025-10-01",
+      "description": "Publication date for Jane Fonda Relaunches Committee for the First Amendment (CNN).",
+      "event_type": "publication",
+      "record_id": "SRC-CFA-RELAUNCH-CNN",
+      "record_title": "Jane Fonda Relaunches Committee for the First Amendment (CNN)"
+    },
+    {
       "date": "2026-06-01",
       "description": "Publication date for FOSS Force - Cohn Returns to the Courtroom.",
       "event_type": "publication",
@@ -504,13 +525,6 @@
       "event_type": "verification",
       "record_id": "TOPIC-COMPUTER-FRAUD",
       "record_title": "Computer Fraud and Abuse"
-    },
-    {
-      "date": "2026-06-19",
-      "description": "Last verified date for First Amendment.",
-      "event_type": "verification",
-      "record_id": "TOPIC-FIRST-AMENDMENT",
-      "record_title": "First Amendment"
     },
     {
       "date": "2026-06-19",
@@ -1561,6 +1575,55 @@
       "event_type": "verification",
       "record_id": "SRC-ZITTRAIN-HLS",
       "record_title": "Jonathan L. Zittrain Harvard Law School Faculty Profile"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Committee for the First Amendment.",
+      "event_type": "verification",
+      "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "record_title": "Committee for the First Amendment"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Henry Fonda.",
+      "event_type": "verification",
+      "record_id": "PERSON-HENRY-FONDA",
+      "record_title": "Henry Fonda"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Jane Fonda.",
+      "event_type": "verification",
+      "record_id": "PERSON-JANE-FONDA",
+      "record_title": "Jane Fonda"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Committee for the First Amendment Homepage.",
+      "event_type": "verification",
+      "record_id": "SRC-CFA-HOME",
+      "record_title": "Committee for the First Amendment Homepage"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Committee for the First Amendment Join Page.",
+      "event_type": "verification",
+      "record_id": "SRC-CFA-JOIN",
+      "record_title": "Committee for the First Amendment Join Page"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for Jane Fonda Relaunches Committee for the First Amendment (CNN).",
+      "event_type": "verification",
+      "record_id": "SRC-CFA-RELAUNCH-CNN",
+      "record_title": "Jane Fonda Relaunches Committee for the First Amendment (CNN)"
+    },
+    {
+      "date": "2026-07-18",
+      "description": "Last verified date for First Amendment.",
+      "event_type": "verification",
+      "record_id": "TOPIC-FIRST-AMENDMENT",
+      "record_title": "First Amendment"
     },
     {
       "date": "Not dated",

@@ -13,6 +13,7 @@ Organizations that defend digital rights, support open source software, and prot
 - [`ORG-RCFP`](../generated/source-docs/knowledge/organizations/ORG-RCFP.md): Reporters Committee for Freedom of the Press — pro bono legal services for journalists and press freedom.
 - [`ORG-INSTITUTE-FOR-JUSTICE`](../generated/source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): Institute for Justice — nonprofit public interest law firm defending free speech and government overreach.
 - [`ORG-INSTITUTE-FOR-FREE-SPEECH`](../generated/source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md): Institute for Free Speech — First Amendment political speech litigation and advocacy.
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](../generated/source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): Committee for the First Amendment — entertainment-industry coalition opposing government censorship and intimidation; relaunched 2025.
 
 ## Open Source and Software Freedom
 

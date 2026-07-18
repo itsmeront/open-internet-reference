@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 82
+Record count: 85
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -111,6 +111,15 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 - Tags: organization, digital-rights, privacy, internet-governance, civil-society, outreach
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+## `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`: Committee for the First Amendment { #ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Tags: organization, first-amendment, civil-society, outreach
+
+The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.
 
 ## `ORG-COOLEY`: Cooley { #ORG-COOLEY }
 
@@ -382,6 +391,15 @@ Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project an
 
 Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
 
+## `PERSON-HENRY-FONDA`: Henry Fonda { #PERSON-HENRY-FONDA }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-HENRY-FONDA.md`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- Tags: person, first-amendment, civil-society
+
+Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
+
 ## `PERSON-JAMEEL-JAFFER`: Jameel Jaffer { #PERSON-JAMEEL-JAFFER }
 
 - Type: `attorney`
@@ -390,6 +408,15 @@ Heather Meeker is an open source licensing attorney and partner at Tech Law Part
 - Tags: attorney, first-amendment, privacy, digital-rights
 
 Jameel Jaffer is the inaugural executive director of the Knight First Amendment Institute at Columbia University and a former ACLU litigator known for post-9/11 transparency, surveillance, and national security cases.
+
+## `PERSON-JANE-FONDA`: Jane Fonda { #PERSON-JANE-FONDA }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-JANE-FONDA.md`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Tags: person, first-amendment, civil-society
+
+Jane Fonda is an actor and activist who publicly relaunched the Committee for the First Amendment in October 2025 to oppose government censorship and intimidation of artists and other speakers.
 
 ## `PERSON-JANET-ABBATE`: Janet Abbate { #PERSON-JANET-ABBATE }
 

@@ -471,6 +471,166 @@
       ]
     },
     {
+      "source_id": "SRC-CFA-HOME",
+      "source_title": "Committee for the First Amendment Homepage",
+      "usages": [
+        {
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CFA-HOME",
+          "predicate": "cites",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-CFA-HOME",
+          "predicate": "cites",
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CFA-JOIN",
+      "source_title": "Committee for the First Amendment Join Page",
+      "usages": [
+        {
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CFA-JOIN",
+          "predicate": "cites",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CFA-RELAUNCH-CNN",
+      "source_title": "Jane Fonda Relaunches Committee for the First Amendment (CNN)",
+      "usages": [
+        {
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "PERSON-HENRY-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "record_title": "Committee for the First Amendment",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-HENRY-FONDA",
+          "record_title": "Henry Fonda",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-HENRY-FONDA",
+          "record_title": "Henry Fonda",
+          "subject": "PERSON-HENRY-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "record_id": "PERSON-HENRY-FONDA",
+          "record_title": "Henry Fonda",
+          "subject": "PERSON-HENRY-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "record_id": "PERSON-JANE-FONDA",
+          "record_title": "Jane Fonda",
+          "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CHESTEK-ABOUT",
       "source_title": "Pamela Chestek About Page",
       "usages": [

@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 139
+Term count: 142
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -85,6 +85,12 @@ Term count: 139
 
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
+
+## `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT` { #org-committee-for-the-first-amendment }
+
+- [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- [`SRC-CFA-JOIN: Committee for the First Amendment Join Page`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+- [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
 ## `ORG-COOLEY` { #org-cooley }
 
@@ -225,9 +231,18 @@ Term count: 139
 
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 
+## `PERSON-HENRY-FONDA` { #person-henry-fonda }
+
+- [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
 ## `PERSON-JAMEEL-JAFFER` { #person-jameel-jaffer }
 
 - [`SRC-JAFFER-KNIGHT: Jameel Jaffer Knight Institute Biography`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
+
+## `PERSON-JANE-FONDA` { #person-jane-fonda }
+
+- [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
 ## `PERSON-JANET-ABBATE` { #person-janet-abbate }
 

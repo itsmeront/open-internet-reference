@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 82,
+  "record_count": 85,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -359,6 +359,20 @@
       "type": "organization"
     },
     {
+      "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-JOIN",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.",
+      "title": "Committee for the First Amendment",
+      "type": "organization"
+    },
+    {
       "id": "ORG-COOLEY",
       "path": "knowledge/organizations/ORG-COOLEY.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-COOLEY.md",
@@ -635,6 +649,31 @@
       "status": "draft",
       "summary": "David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.",
       "title": "David P. Reed",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-HENRY-FONDA",
+      "path": "knowledge/people/PERSON-HENRY-FONDA.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-HENRY-FONDA.md",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.",
+      "title": "Henry Fonda",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-JANE-FONDA",
+      "path": "knowledge/people/PERSON-JANE-FONDA.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JANE-FONDA.md",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "Jane Fonda is an actor and activist who publicly relaunched the Committee for the First Amendment in October 2025 to oppose government censorship and intimidation of artists and other speakers.",
+      "title": "Jane Fonda",
       "type": "person"
     },
     {

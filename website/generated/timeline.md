@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 292
+Event count: 301
 
 ## 1987-11
 
@@ -93,6 +93,18 @@ Event count: 292
 
 - `publication`: [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md) - Publication date for RFC 9293: Transmission Control Protocol (TCP).
 
+## 2025
+
+- `publication`: [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md) - Publication date for Committee for the First Amendment Join Page.
+
+## 2025 (relaunch era; site content updated through 2026)
+
+- `publication`: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md) - Publication date for Committee for the First Amendment Homepage.
+
+## 2025-10-01
+
+- `publication`: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md) - Publication date for Jane Fonda Relaunches Committee for the First Amendment (CNN).
+
 ## 2026-06-01
 
 - `publication`: [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md) - Publication date for FOSS Force - Cohn Returns to the Courtroom.
@@ -150,7 +162,6 @@ Event count: 292
 - `verification`: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) - Last verified date for 17 U.S.C. § 512.
 - `verification`: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) - Last verified date for Code as Speech.
 - `verification`: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) - Last verified date for Computer Fraud and Abuse.
-- `verification`: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) - Last verified date for First Amendment.
 - `verification`: [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) - Last verified date for Fourth Amendment.
 - `verification`: [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) - Last verified date for Intermediary Liability.
 - `verification`: [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md) - Last verified date for Onion Routing.
@@ -307,6 +318,16 @@ Event count: 292
 - `verification`: [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md) - Last verified date for Ben Wizner ACLU Staff Biography.
 - `verification`: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md) - Last verified date for Phil Zimmermann Official Biography.
 - `verification`: [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md) - Last verified date for Jonathan L. Zittrain Harvard Law School Faculty Profile.
+
+## 2026-07-18
+
+- `verification`: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) - Last verified date for Committee for the First Amendment.
+- `verification`: [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) - Last verified date for Henry Fonda.
+- `verification`: [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) - Last verified date for Jane Fonda.
+- `verification`: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md) - Last verified date for Committee for the First Amendment Homepage.
+- `verification`: [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md) - Last verified date for Committee for the First Amendment Join Page.
+- `verification`: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md) - Last verified date for Jane Fonda Relaunches Committee for the First Amendment (CNN).
+- `verification`: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) - Last verified date for First Amendment.
 
 ## Not dated
 

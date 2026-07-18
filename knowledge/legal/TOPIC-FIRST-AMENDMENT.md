@@ -28,7 +28,12 @@ relationships:
     object: TOPIC-CODE-AS-SPEECH
     sources:
       - SRC-RENO-V-ACLU-JUSTIA
-last_verified: "2026-06-19"
+  - subject: TOPIC-FIRST-AMENDMENT
+    predicate: related_to
+    object: ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT
+    sources:
+      - SRC-CFA-HOME
+last_verified: "2026-07-18"
 ---
 
 # First Amendment
@@ -59,6 +64,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 - `TOPIC-FIRST-AMENDMENT` cites `SRC-US-CONST-AMEND-I-LII`.
 - `TOPIC-FIRST-AMENDMENT` related_to `CASE-RENO-V-ACLU`.
 - `TOPIC-FIRST-AMENDMENT` related_to `TOPIC-CODE-AS-SPEECH`.
+- `TOPIC-FIRST-AMENDMENT` related_to `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`.
 
 ## Sources
 

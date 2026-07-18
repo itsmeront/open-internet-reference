@@ -619,6 +619,80 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "last_verified": "2026-07-18",
+      "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "relationships": [
+        {
+          "object": "SRC-CFA-HOME",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-HOME"
+          ],
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+        },
+        {
+          "object": "SRC-CFA-JOIN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-JOIN"
+          ],
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+        },
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CFA-HOME"
+          ],
+          "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-CFA-HOME",
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-JANE-FONDA"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-HENRY-FONDA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-JOIN",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Committee for the First Amendment",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "ORG-COOLEY",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-COOLEY.md",
@@ -1850,6 +1924,44 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "PERSON-HENRY-FONDA",
+      "last_verified": "2026-07-18",
+      "path": "knowledge/people/PERSON-HENRY-FONDA.md",
+      "relationships": [
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-HENRY-FONDA"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-HENRY-FONDA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-HENRY-FONDA.md",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.",
+      "tags": [
+        "person",
+        "first-amendment",
+        "civil-society"
+      ],
+      "title": "Henry Fonda",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "PERSON-JAMEEL-JAFFER",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
@@ -1885,6 +1997,54 @@
       ],
       "title": "Jameel Jaffer",
       "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "PERSON-JANE-FONDA",
+      "last_verified": "2026-07-18",
+      "path": "knowledge/people/PERSON-JANE-FONDA.md",
+      "relationships": [
+        {
+          "object": "SRC-CFA-HOME",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-HOME"
+          ],
+          "subject": "PERSON-JANE-FONDA"
+        },
+        {
+          "object": "SRC-CFA-RELAUNCH-CNN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-JANE-FONDA"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-CFA-HOME",
+            "SRC-CFA-RELAUNCH-CNN"
+          ],
+          "subject": "PERSON-JANE-FONDA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JANE-FONDA.md",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "Jane Fonda is an actor and activist who publicly relaunched the Committee for the First Amendment in October 2025 to oppose government censorship and intimidation of artists and other speakers.",
+      "tags": [
+        "person",
+        "first-amendment",
+        "civil-society"
+      ],
+      "title": "Jane Fonda",
+      "type": "person",
       "used_for": []
     },
     {
@@ -3141,7 +3301,7 @@
     {
       "bibliographic_metadata": {},
       "id": "TOPIC-FIRST-AMENDMENT",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-18",
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -3165,6 +3325,14 @@
           "predicate": "related_to",
           "sources": [
             "SRC-RENO-V-ACLU-JUSTIA"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
+        },
+        {
+          "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CFA-HOME"
           ],
           "subject": "TOPIC-FIRST-AMENDMENT"
         }

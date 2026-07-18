@@ -4,23 +4,23 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 198
-- Records needing review: 98
+- Records: 204
+- Records needing review: 101
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 98
-- [`verified`](#verified-records): 100
+- [`draft`](#draft-records): 101
+- [`verified`](#verified-records): 103
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
 - [`case`](#case-records): 10
-- [`organization`](#organization-records): 19
-- [`person`](#person-records): 23
+- [`organization`](#organization-records): 20
+- [`person`](#person-records): 25
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 116
+- [`source`](#source-records): 119
 - [`statute`](#statute-records): 3
 - [`topic`](#topic-records): 8
 
@@ -38,6 +38,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
@@ -68,7 +69,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
+- [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
 - [`PERSON-JAMEEL-JAFFER: Jameel Jaffer`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
+- [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
 - [`PERSON-JENNIFER-GRANICK: Jennifer Granick`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
 - [`PERSON-JONATHAN-ZITTRAIN: Jonathan Zittrain`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)
@@ -145,6 +148,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
@@ -175,7 +179,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
+- [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
 - [`PERSON-JAMEEL-JAFFER: Jameel Jaffer`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
+- [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
 - [`PERSON-JENNIFER-GRANICK: Jennifer Granick`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
 - [`PERSON-JONATHAN-ZITTRAIN: Jonathan Zittrain`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)
@@ -251,6 +257,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 - [`SRC-CERF-GOOGLE: Vinton G. Cerf Google Research Profile`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
+- [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- [`SRC-CFA-JOIN: Committee for the First Amendment Join Page`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+- [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 - [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
@@ -371,6 +380,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
+- [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
@@ -396,6 +406,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
+- [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
 - [`PERSON-JONATHAN-ZITTRAIN: Jonathan Zittrain`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)
 - [`PERSON-LAUREN-WEINSTEIN: Lauren Weinstein`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md)
@@ -440,6 +452,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 - [`SRC-CERF-GOOGLE: Vinton G. Cerf Google Research Profile`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
+- [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- [`SRC-CFA-JOIN: Committee for the First Amendment Join Page`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+- [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 - [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
