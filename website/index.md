@@ -12,7 +12,7 @@ Our mission: help technologists, researchers, attorneys, and civil society organ
 
 Groups that defend digital rights and support open source software companies:
 
-- **Digital civil liberties** — [EFF](generated/source-docs/knowledge/organizations/ORG-EFF.md), [ACLU](generated/source-docs/knowledge/organizations/ORG-ACLU.md), [Knight First Amendment Institute](generated/source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md), [CDT](generated/source-docs/knowledge/organizations/ORG-CDT.md), [Institute for Justice](generated/source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
+- **Digital civil liberties** — [EFF](generated/source-docs/knowledge/organizations/ORG-EFF.md), [ACLU](generated/source-docs/knowledge/organizations/ORG-ACLU.md), [Knight First Amendment Institute](generated/source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md), [Committee for the First Amendment](generated/source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md), [CDT](generated/source-docs/knowledge/organizations/ORG-CDT.md), [Institute for Justice](generated/source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
 - **Open source and software freedom** — [OSI](generated/source-docs/knowledge/organizations/ORG-OSI.md), [Free Software Foundation](generated/source-docs/knowledge/organizations/ORG-FSF.md), [Software Freedom Conservancy](generated/source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md), [SFLC](generated/source-docs/knowledge/organizations/ORG-SFLC.md)
 - **Privacy and security** — [Tor Project](generated/source-docs/knowledge/organizations/ORG-TOR-PROJECT.md), [Signal](generated/source-docs/knowledge/organizations/ORG-SIGNAL.md)
 

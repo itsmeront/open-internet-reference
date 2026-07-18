@@ -507,6 +507,93 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-18",
+        "archive url": "None recorded",
+        "author or issuing body": "Committee for the First Amendment",
+        "publication date": "2025 (relaunch era; site content updated through 2026)",
+        "source type": "Official organizational page",
+        "url": "https://www.committeeforthefirstamendment.com/"
+      },
+      "id": "SRC-CFA-HOME",
+      "last_verified": "2026-07-18",
+      "path": "bibliography/organizations/SRC-CFA-HOME.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-CFA-HOME.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official homepage of the Committee for the First Amendment describing its mission, joint statement, and timeline of press and creative-expression events.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Committee for the First Amendment Homepage",
+      "type": "source",
+      "used_for": [
+        "`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`",
+        "`PERSON-JANE-FONDA`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-18",
+        "archive url": "None recorded",
+        "author or issuing body": "Committee for the First Amendment",
+        "publication date": "2025",
+        "source type": "Official organizational page",
+        "url": "https://www.committeeforthefirstamendment.com/join"
+      },
+      "id": "SRC-CFA-JOIN",
+      "last_verified": "2026-07-18",
+      "path": "bibliography/organizations/SRC-CFA-JOIN.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-CFA-JOIN.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official join page inviting entertainment-industry colleagues to sign the Committee's statement.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Committee for the First Amendment Join Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-18",
+        "archive url": "None recorded",
+        "author or issuing body": "Elizabeth Wagmeister, CNN",
+        "publication date": "2025-10-01",
+        "source type": "News reporting",
+        "url": "https://www.cnn.com/2025/10/01/entertainment/jane-fonda-relaunches-committee-first-amendment"
+      },
+      "id": "SRC-CFA-RELAUNCH-CNN",
+      "last_verified": "2026-07-18",
+      "path": "bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "CNN reporting on Jane Fonda's October 2025 relaunch of the Committee for the First Amendment, including signatory count and historical context.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment"
+      ],
+      "title": "Jane Fonda Relaunches Committee for the First Amendment (CNN)",
+      "type": "source",
+      "used_for": [
+        "`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`",
+        "`PERSON-JANE-FONDA`",
+        "`PERSON-HENRY-FONDA`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Chestek Legal",

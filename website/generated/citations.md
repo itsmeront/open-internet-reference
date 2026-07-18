@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 116
+Source count: 119
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -108,6 +108,35 @@ Source count: 116
 
 - Page source in [`PERSON-VINT-CERF`](source-docs/knowledge/people/PERSON-VINT-CERF.md)
 - Relationship source in [`PERSON-VINT-CERF`](source-docs/knowledge/people/PERSON-VINT-CERF.md): [`PERSON-VINT-CERF`](source-docs/knowledge/people/PERSON-VINT-CERF.md) `cites` [`SRC-CERF-GOOGLE`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
+
+## [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md): Committee for the First Amendment Homepage
+
+- Page source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Page source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Relationship source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `cites` [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+- Relationship source in [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+
+## [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md): Committee for the First Amendment Join Page
+
+- Page source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
+
+## [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md): Jane Fonda Relaunches Committee for the First Amendment (CNN)
+
+- Page source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Page source in [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- Relationship source in [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md): [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md): [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+- Page source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+- Relationship source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
+- Relationship source in [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md): [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md) `cites` [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
 ## [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md): Pamela Chestek About Page
 

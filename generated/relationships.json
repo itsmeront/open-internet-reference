@@ -412,6 +412,46 @@
       "subject": "ORG-CDT"
     },
     {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-CFA-HOME",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-HOME"
+      ],
+      "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-CFA-JOIN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-JOIN"
+      ],
+      "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "SRC-CFA-RELAUNCH-CNN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CFA-HOME"
+      ],
+      "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
+    },
+    {
       "declared_in": "ORG-COOLEY",
       "notes": null,
       "object": "SRC-COOLEY-TECH",
@@ -1053,6 +1093,36 @@
       "subject": "PERSON-HEATHER-MEEKER"
     },
     {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-HENRY-FONDA"
+    },
+    {
+      "declared_in": "PERSON-HENRY-FONDA",
+      "notes": null,
+      "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-HENRY-FONDA"
+    },
+    {
+      "declared_in": "PERSON-HENRY-FONDA",
+      "notes": null,
+      "object": "SRC-CFA-RELAUNCH-CNN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-HENRY-FONDA"
+    },
+    {
       "declared_in": "PERSON-JAMEEL-JAFFER",
       "notes": null,
       "object": "ORG-KNIGHT-FIRST-AMENDMENT",
@@ -1071,6 +1141,48 @@
         "SRC-JAFFER-KNIGHT"
       ],
       "subject": "PERSON-JAMEEL-JAFFER"
+    },
+    {
+      "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-JANE-FONDA"
+    },
+    {
+      "declared_in": "PERSON-JANE-FONDA",
+      "notes": null,
+      "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-JANE-FONDA"
+    },
+    {
+      "declared_in": "PERSON-JANE-FONDA",
+      "notes": null,
+      "object": "SRC-CFA-HOME",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-HOME"
+      ],
+      "subject": "PERSON-JANE-FONDA"
+    },
+    {
+      "declared_in": "PERSON-JANE-FONDA",
+      "notes": null,
+      "object": "SRC-CFA-RELAUNCH-CNN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "subject": "PERSON-JANE-FONDA"
     },
     {
       "declared_in": "PERSON-JANET-ABBATE",
@@ -1691,6 +1803,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-RENO-V-ACLU-JUSTIA"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CFA-HOME"
       ],
       "subject": "TOPIC-FIRST-AMENDMENT"
     },

@@ -1,6 +1,6 @@
 {
   "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
-  "record_count": 33,
+  "record_count": 34,
   "records": [
     {
       "id": "ORG-ACLU",
@@ -42,6 +42,27 @@
         "outreach"
       ],
       "title": "Center for Democracy and Technology",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "last_verified": "2026-07-18",
+      "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "sources": [
+        "SRC-CFA-HOME",
+        "SRC-CFA-JOIN",
+        "SRC-CFA-RELAUNCH-CNN"
+      ],
+      "status": "draft",
+      "summary": "The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Committee for the First Amendment",
       "type": "organization"
     },
     {

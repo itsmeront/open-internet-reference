@@ -4,7 +4,7 @@ This page is generated from records tagged `outreach`. Do not edit it manually.
 
 This is a prototype index, not a verified contact database. Contact details should be checked against official public sources before use.
 
-Record count: 33
+Record count: 34
 
 ## [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): American Civil Liberties Union
 
@@ -23,6 +23,15 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 - Sources: [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md), [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+## [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md): Committee for the First Amendment
+
+- Type: `organization`
+- Status: `draft`
+- Last verified: `2026-07-18`
+- Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md), [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md), [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.
 
 ## [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md): Cooley
 

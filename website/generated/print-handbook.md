@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-04</dd>
+        <dd>2026-07-18</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>82</dd>
+        <dd>85</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>113</dd>
+        <dd>116</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -102,6 +102,7 @@ Knowledge records included in this handbook, grouped by type.
 
 - [American Civil Liberties Union](#ORG-ACLU) (`ORG-ACLU`)
 - [Center for Democracy and Technology](#ORG-CDT) (`ORG-CDT`)
+- [Committee for the First Amendment](#ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT) (`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`)
 - [Cooley](#ORG-COOLEY) (`ORG-COOLEY`)
 - [Electronic Frontier Foundation](#ORG-EFF) (`ORG-EFF`)
 - [Electronic Privacy Information Center](#ORG-EPIC) (`ORG-EPIC`)
@@ -127,6 +128,8 @@ Knowledge records included in this handbook, grouped by type.
 - [Bruce Schneier](#PERSON-BRUCE-SCHNEIER) (`PERSON-BRUCE-SCHNEIER`)
 - [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
 - [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
+- [Henry Fonda](#PERSON-HENRY-FONDA) (`PERSON-HENRY-FONDA`)
+- [Jane Fonda](#PERSON-JANE-FONDA) (`PERSON-JANE-FONDA`)
 - [Janet Abbate](#PERSON-JANET-ABBATE) (`PERSON-JANET-ABBATE`)
 - [Jonathan Zittrain](#PERSON-JONATHAN-ZITTRAIN) (`PERSON-JONATHAN-ZITTRAIN`)
 - [Lauren Weinstein](#PERSON-LAUREN-WEINSTEIN) (`PERSON-LAUREN-WEINSTEIN`)
@@ -299,6 +302,15 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 
 The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
 
+### Committee for the First Amendment { #ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT-glossary }
+
+- **Record ID:** `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.
+
 ### Computer Fraud and Abuse { #TOPIC-COMPUTER-FRAUD-glossary }
 
 - **Record ID:** `TOPIC-COMPUTER-FRAUD`
@@ -452,6 +464,15 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 
 Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
 
+### Henry Fonda { #PERSON-HENRY-FONDA-glossary }
+
+- **Record ID:** `PERSON-HENRY-FONDA`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, first-amendment, civil-society
+
+Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
+
 ### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH-glossary }
 
 - **Record ID:** `ORG-INSTITUTE-FOR-FREE-SPEECH`
@@ -487,6 +508,15 @@ Intermediary liability concerns when online platforms, service providers, or oth
 - **Tags:** attorney, first-amendment, privacy, digital-rights
 
 Jameel Jaffer is the inaugural executive director of the Knight First Amendment Institute at Columbia University and a former ACLU litigator known for post-9/11 transparency, surveillance, and national security cases.
+
+### Jane Fonda { #PERSON-JANE-FONDA-glossary }
+
+- **Record ID:** `PERSON-JANE-FONDA`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, first-amendment, civil-society
+
+Jane Fonda is an actor and activist who publicly relaunched the Committee for the First Amendment in October 2025 to oppose government censorship and intimidation of artists and other speakers.
 
 ### Janet Abbate { #PERSON-JANET-ABBATE-glossary }
 
@@ -1227,6 +1257,17 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 
 ---
 
+#### Committee for the First Amendment { #ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT }
+
+- **Record ID:** `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`
+- **Status:** draft
+- **Sources:** Committee for the First Amendment Homepage (`SRC-CFA-HOME`), Committee for the First Amendment Join Page (`SRC-CFA-JOIN`), Jane Fonda Relaunches Committee for the First Amendment (CNN) (`SRC-CFA-RELAUNCH-CNN`)
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.
+
+---
+
 #### Cooley { #ORG-COOLEY }
 
 - **Record ID:** `ORG-COOLEY`
@@ -1468,6 +1509,28 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 - **Tags:** person, internet-architecture, distributed-systems, network-protocols
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
+
+---
+
+#### Henry Fonda { #PERSON-HENRY-FONDA }
+
+- **Record ID:** `PERSON-HENRY-FONDA`
+- **Status:** draft
+- **Sources:** Jane Fonda Relaunches Committee for the First Amendment (CNN) (`SRC-CFA-RELAUNCH-CNN`)
+- **Tags:** person, first-amendment, civil-society
+
+Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
+
+---
+
+#### Jane Fonda { #PERSON-JANE-FONDA }
+
+- **Record ID:** `PERSON-JANE-FONDA`
+- **Status:** draft
+- **Sources:** Committee for the First Amendment Homepage (`SRC-CFA-HOME`), Jane Fonda Relaunches Committee for the First Amendment (CNN) (`SRC-CFA-RELAUNCH-CNN`)
+- **Tags:** person, first-amendment, civil-society
+
+Jane Fonda is an actor and activist who publicly relaunched the Committee for the First Amendment in October 2025 to oppose government censorship and intimidation of artists and other speakers.
 
 ---
 
@@ -1983,6 +2046,33 @@ Official who-we-are page of CDT describing organizational focus and values.
 - **Status:** verified
 
 Google Research profile for Vinton G. Cerf describing his role as Chief Internet Evangelist and co-designer of TCP/IP.
+
+---
+
+### Committee for the First Amendment Homepage
+
+- **Source ID:** `SRC-CFA-HOME`
+- **Status:** verified
+
+Official homepage of the Committee for the First Amendment describing its mission, joint statement, and timeline of press and creative-expression events.
+
+---
+
+### Committee for the First Amendment Join Page
+
+- **Source ID:** `SRC-CFA-JOIN`
+- **Status:** verified
+
+Official join page inviting entertainment-industry colleagues to sign the Committee's statement.
+
+---
+
+### Jane Fonda Relaunches Committee for the First Amendment (CNN)
+
+- **Source ID:** `SRC-CFA-RELAUNCH-CNN`
+- **Status:** verified
+
+CNN reporting on Jane Fonda's October 2025 relaunch of the Committee for the First Amendment, including signatory count and historical context.
 
 ---
 
