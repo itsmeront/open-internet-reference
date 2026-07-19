@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 88
+Record count: 92
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -48,6 +48,15 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 - Tags: first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.
+
+## `CASE-LENZ-V-UNIVERSAL`: Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-LENZ-V-UNIVERSAL.md`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Tags: copyright, digital-rights, safe-harbor
+
+Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
 
 ## `CASE-PACKINGHAM-V-NC`: Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
 
@@ -724,6 +733,15 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
 
+## `STAT-USC-107`: 17 U.S.C. § 107 { #STAT-USC-107 }
+
+- Type: `statute`
+- Status: `draft`
+- Path: [`knowledge/legal/STAT-USC-107.md`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Tags: copyright, digital-rights
+
+17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
+
 ## `TOPIC-CODE-AS-SPEECH`: Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
 - Type: `topic`
@@ -741,6 +759,24 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 - Tags: computer-crime, technology-law, digital-rights
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+## `TOPIC-DMCA-TAKEDOWN-RESPONSE`: DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Tags: copyright, safe-harbor, digital-rights, intermediary-liability
+
+U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+## `TOPIC-FAIR-USE-VIDEO`: Fair Use and Video { #TOPIC-FAIR-USE-VIDEO }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-FAIR-USE-VIDEO.md`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Tags: copyright, digital-rights
+
+U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.
 
 ## `TOPIC-FIRST-AMENDMENT`: First Amendment { #TOPIC-FIRST-AMENDMENT }
 

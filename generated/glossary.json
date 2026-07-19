@@ -70,7 +70,7 @@
     {
       "bibliographic_metadata": {},
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-19",
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "relationships": [
         {
@@ -78,6 +78,14 @@
           "predicate": "cites",
           "sources": [
             "SRC-BROWN-V-EMA-LII"
+          ],
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+        },
+        {
+          "object": "SRC-BROWN-V-EMA-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BROWN-V-EMA-GOVINFO"
           ],
           "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
         },
@@ -92,7 +100,8 @@
       ],
       "source_doc_path": "source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "sources": [
-        "SRC-BROWN-V-EMA-LII"
+        "SRC-BROWN-V-EMA-LII",
+        "SRC-BROWN-V-EMA-GOVINFO"
       ],
       "status": "draft",
       "summary": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.",
@@ -250,8 +259,80 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "CASE-LENZ-V-UNIVERSAL",
+      "last_verified": "2026-07-19",
+      "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
+      "relationships": [
+        {
+          "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        },
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "CASE-LENZ-V-UNIVERSAL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9",
+        "SRC-USC-17-107-LII",
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "status": "draft",
+      "summary": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. \u00a7 512(c).",
+      "tags": [
+        "copyright",
+        "digital-rights",
+        "safe-harbor"
+      ],
+      "title": "Lenz v. Universal Music Corp.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "CASE-PACKINGHAM-V-NC",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
       "relationships": [
         {
@@ -271,6 +352,14 @@
           "subject": "CASE-PACKINGHAM-V-NC"
         },
         {
+          "object": "SRC-PACKINGHAM-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-PACKINGHAM-GOVINFO"
+          ],
+          "subject": "CASE-PACKINGHAM-V-NC"
+        },
+        {
           "object": "TOPIC-FIRST-AMENDMENT",
           "predicate": "related_to",
           "sources": [
@@ -282,7 +371,8 @@
       "source_doc_path": "source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md",
       "sources": [
         "SRC-PACKINGHAM-LII",
-        "SRC-PACKINGHAM-JUSTIA"
+        "SRC-PACKINGHAM-JUSTIA",
+        "SRC-PACKINGHAM-GOVINFO"
       ],
       "status": "draft",
       "summary": "Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.",
@@ -538,7 +628,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-ACLU",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-ACLU.md",
       "relationships": [
         {
@@ -578,7 +668,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-CDT",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-CDT.md",
       "relationships": [
         {
@@ -765,7 +855,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-EPIC",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-EPIC.md",
       "relationships": [
         {
@@ -806,7 +896,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-FENWICK",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-FENWICK.md",
       "relationships": [
         {
@@ -966,7 +1056,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-KNIGHT-FIRST-AMENDMENT",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -1168,7 +1258,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-SFLC",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SFLC.md",
       "relationships": [
         {
@@ -1180,17 +1270,35 @@
           "subject": "ORG-SFLC"
         },
         {
+          "object": "SRC-SFLC-CONTACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SFLC-CONTACT"
+          ],
+          "subject": "ORG-SFLC"
+        },
+        {
           "object": "ORG-FSF",
           "predicate": "related_to",
           "sources": [
             "SRC-SFLC-ABOUT"
           ],
           "subject": "ORG-SFLC"
+        },
+        {
+          "object": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SFLC-ABOUT",
+            "SRC-SFC-ABOUT"
+          ],
+          "subject": "ORG-SFLC"
         }
       ],
       "source_doc_path": "source-docs/knowledge/organizations/ORG-SFLC.md",
       "sources": [
-        "SRC-SFLC-ABOUT"
+        "SRC-SFLC-ABOUT",
+        "SRC-SFLC-CONTACT"
       ],
       "status": "draft",
       "summary": "The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.",
@@ -1265,7 +1373,7 @@
     {
       "bibliographic_metadata": {},
       "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "relationships": [
         {
@@ -1283,12 +1391,39 @@
             "SRC-SFC-HOME"
           ],
           "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+        },
+        {
+          "object": "SRC-SFC-APPLY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SFC-APPLY"
+          ],
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+        },
+        {
+          "object": "SRC-SFC-PROJECTS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SFC-PROJECTS"
+          ],
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+        },
+        {
+          "object": "ORG-SFLC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SFC-ABOUT",
+            "SRC-SFLC-ABOUT"
+          ],
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
         }
       ],
       "source_doc_path": "source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "sources": [
         "SRC-SFC-ABOUT",
-        "SRC-SFC-HOME"
+        "SRC-SFC-HOME",
+        "SRC-SFC-APPLY",
+        "SRC-SFC-PROJECTS"
       ],
       "status": "draft",
       "summary": "Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.",
@@ -1605,7 +1740,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-CINDY-COHN",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-CINDY-COHN.md",
       "relationships": [
         {
@@ -1699,7 +1834,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-CORY-BOOKER",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-CORY-BOOKER.md",
       "relationships": [
         {
@@ -1717,12 +1852,21 @@
             "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
           ],
           "subject": "PERSON-CORY-BOOKER"
+        },
+        {
+          "object": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
+          ],
+          "subject": "PERSON-CORY-BOOKER"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-CORY-BOOKER.md",
       "sources": [
         "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
-        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
       ],
       "status": "draft",
       "summary": "Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.",
@@ -1842,7 +1986,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-EBEN-MOGLEN",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
       "relationships": [
         {
@@ -1858,6 +2002,14 @@
           "predicate": "cites",
           "sources": [
             "SRC-MOGLEN-DSI"
+          ],
+          "subject": "PERSON-EBEN-MOGLEN"
+        },
+        {
+          "object": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
           ],
           "subject": "PERSON-EBEN-MOGLEN"
         },
@@ -1881,7 +2033,8 @@
       "source_doc_path": "source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md",
       "sources": [
         "SRC-MOGLEN-COLUMBIA",
-        "SRC-MOGLEN-DSI"
+        "SRC-MOGLEN-DSI",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
       ],
       "status": "draft",
       "summary": "Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.",
@@ -2432,7 +2585,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-MIKE-LEE",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-MIKE-LEE.md",
       "relationships": [
         {
@@ -2450,12 +2603,21 @@
             "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
           ],
           "subject": "PERSON-MIKE-LEE"
+        },
+        {
+          "object": "SRC-LEE-SENATE-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LEE-SENATE-BIO"
+          ],
+          "subject": "PERSON-MIKE-LEE"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-MIKE-LEE.md",
       "sources": [
         "SRC-LEE-ENCRYPTION-BACKDOORS",
-        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+        "SRC-LEE-SENATE-BIO"
       ],
       "status": "draft",
       "summary": "Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.",
@@ -2694,7 +2856,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-RAND-PAUL",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-RAND-PAUL.md",
       "relationships": [
         {
@@ -2712,12 +2874,48 @@
             "SRC-PAUL-FISA"
           ],
           "subject": "PERSON-RAND-PAUL"
+        },
+        {
+          "object": "SRC-LOFGREN-AARONS-LAW",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LOFGREN-AARONS-LAW"
+          ],
+          "subject": "PERSON-RAND-PAUL"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+          ],
+          "subject": "PERSON-RAND-PAUL"
+        },
+        {
+          "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-USA-RIGHTS-ACT"
+          ],
+          "subject": "PERSON-RAND-PAUL"
+        },
+        {
+          "object": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS"
+          ],
+          "subject": "PERSON-RAND-PAUL"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-RAND-PAUL.md",
       "sources": [
         "SRC-PAUL-FOURTH-AMENDMENT",
-        "SRC-PAUL-FISA"
+        "SRC-PAUL-FISA",
+        "SRC-LOFGREN-AARONS-LAW",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+        "SRC-WYDEN-USA-RIGHTS-ACT",
+        "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS"
       ],
       "status": "draft",
       "summary": "Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.",
@@ -2827,7 +3025,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-RON-WYDEN",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-RON-WYDEN.md",
       "relationships": [
         {
@@ -2845,12 +3043,39 @@
             "SRC-WYDEN-AARONS-LAW"
           ],
           "subject": "PERSON-RON-WYDEN"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+          ],
+          "subject": "PERSON-RON-WYDEN"
+        },
+        {
+          "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-USA-RIGHTS-ACT"
+          ],
+          "subject": "PERSON-RON-WYDEN"
+        },
+        {
+          "object": "SRC-WYDEN-EARN-IT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-WYDEN-EARN-IT"
+          ],
+          "subject": "PERSON-RON-WYDEN"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-RON-WYDEN.md",
       "sources": [
         "SRC-WYDEN-SECTION-230",
-        "SRC-WYDEN-AARONS-LAW"
+        "SRC-WYDEN-AARONS-LAW",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+        "SRC-WYDEN-USA-RIGHTS-ACT",
+        "SRC-WYDEN-EARN-IT"
       ],
       "status": "draft",
       "summary": "Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.",
@@ -3199,7 +3424,7 @@
     {
       "bibliographic_metadata": {},
       "id": "STAT-DMCA-512",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "path": "knowledge/legal/STAT-DMCA-512.md",
       "relationships": [
         {
@@ -3235,6 +3460,22 @@
           "subject": "STAT-DMCA-512"
         },
         {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "STAT-DMCA-512"
+        },
+        {
           "object": "CASE-PERFECT10-V-CCBILL",
           "predicate": "related_to",
           "sources": [
@@ -3247,7 +3488,9 @@
       "sources": [
         "SRC-USC-17-512-LII",
         "SRC-USC-17-512-GOVINFO",
-        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-COPYRIGHT-512-INDEX",
+        "SRC-LENZ-V-UNIVERSAL-CA9"
       ],
       "status": "draft",
       "summary": "17 U.S.C. \u00a7 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.",
@@ -3305,6 +3548,69 @@
         "first-amendment"
       ],
       "title": "Section 230 (47 U.S.C. \u00a7 230)",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "STAT-USC-107",
+      "last_verified": "2026-07-19",
+      "path": "knowledge/legal/STAT-USC-107.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "STAT-USC-107"
+        },
+        {
+          "object": "SRC-USC-17-107-GOVINFO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-107-GOVINFO"
+          ],
+          "subject": "STAT-USC-107"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "STAT-USC-107"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "STAT-USC-107"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-ORACLE-JUSTIA"
+          ],
+          "subject": "STAT-USC-107"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-USC-107.md",
+      "sources": [
+        "SRC-USC-17-107-LII",
+        "SRC-USC-17-107-GOVINFO",
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "status": "draft",
+      "summary": "17 U.S.C. \u00a7 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.",
+      "tags": [
+        "copyright",
+        "digital-rights"
+      ],
+      "title": "17 U.S.C. \u00a7 107",
       "type": "statute",
       "used_for": []
     },
@@ -3410,6 +3716,169 @@
         "digital-rights"
       ],
       "title": "Computer Fraud and Abuse",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "last_verified": "2026-07-19",
+      "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-512-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "SRC-EFF-BLOGGERS-IP",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-LII"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-512-GOVINFO"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
+      "sources": [
+        "SRC-USC-17-512-LII",
+        "SRC-USC-17-512-GOVINFO",
+        "SRC-EFF-BLOGGERS-IP",
+        "SRC-LENZ-V-UNIVERSAL-CA9",
+        "SRC-COPYRIGHT-512-INDEX"
+      ],
+      "status": "draft",
+      "summary": "U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. \u00a7 512, documented from statute and cited sources.",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "digital-rights",
+        "intermediary-liability"
+      ],
+      "title": "DMCA Takedown and Counter-Notification",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-FAIR-USE-VIDEO",
+      "last_verified": "2026-07-19",
+      "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "SRC-EFF-BLOGGERS-IP",
+          "predicate": "cites",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LENZ-V-UNIVERSAL-CA9"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-EFF-BLOGGERS-IP"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
+      "sources": [
+        "SRC-USC-17-107-LII",
+        "SRC-USC-17-107-GOVINFO",
+        "SRC-EFF-BLOGGERS-IP",
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "status": "draft",
+      "summary": "U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.",
+      "tags": [
+        "copyright",
+        "digital-rights"
+      ],
+      "title": "Fair Use and Video",
       "type": "topic",
       "used_for": []
     },

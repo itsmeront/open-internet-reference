@@ -9,6 +9,7 @@ tags:
   - digital-rights
 sources:
   - SRC-BROWN-V-EMA-LII
+  - SRC-BROWN-V-EMA-GOVINFO
 relationships:
   - subject: CASE-BROWN-V-ENTERTAINMENT-MERCHANTS
     predicate: cites
@@ -16,11 +17,16 @@ relationships:
     sources:
       - SRC-BROWN-V-EMA-LII
   - subject: CASE-BROWN-V-ENTERTAINMENT-MERCHANTS
+    predicate: cites
+    object: SRC-BROWN-V-EMA-GOVINFO
+    sources:
+      - SRC-BROWN-V-EMA-GOVINFO
+  - subject: CASE-BROWN-V-ENTERTAINMENT-MERCHANTS
     predicate: related_to
     object: TOPIC-FIRST-AMENDMENT
     sources:
       - SRC-BROWN-V-EMA-LII
-last_verified: "2026-07-04"
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -34,10 +40,10 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 1
-    - **Relationships**: 2
-    - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
+    - **Sources**: 2
+    - **Relationships**: 3
+    - **Research debt items**: 2
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -70,14 +76,18 @@ The decision is foundational for treating interactive software — including gam
 ## Relationships
 
 - `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` cites [`SRC-BROWN-V-EMA-LII`](../../../bibliography.md#SRC-BROWN-V-EMA-LII).
+- `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` cites [`SRC-BROWN-V-EMA-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-564/USREPORTS-564-786).
 - `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` related_to `TOPIC-FIRST-AMENDMENT`.
 
 ## Sources
 
 1. [`SRC-BROWN-V-EMA-LII`](../../../bibliography.md#SRC-BROWN-V-EMA-LII): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 
+Additional sources (not yet cited in footnotes):
+
+- [`SRC-BROWN-V-EMA-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-564/USREPORTS-564-786): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo).
+
 ## Research Debt
 
-- Add GovInfo or official U.S. Reports PDF source.
 - Add Jenner & Block or party briefs documenting Katie Fallow's role if publicly available.
 - Corroborate attorney participation claims with docket or secondary reporting beyond biographies.

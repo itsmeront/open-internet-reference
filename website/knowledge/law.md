@@ -30,8 +30,17 @@ These cases establish privacy protections in the digital context.
 
 ## Statutes
 
+- [`STAT-USC-107`](../generated/source-docs/knowledge/legal/STAT-USC-107.md): **17 U.S.C. § 107** — fair use limitation on exclusive copyright rights.
 - [`STAT-DMCA-512`](../generated/source-docs/knowledge/legal/STAT-DMCA-512.md): **17 U.S.C. § 512** — DMCA safe harbor for online service providers.
 - [`STAT-CFAA-1030`](../generated/source-docs/knowledge/legal/STAT-CFAA-1030.md): **18 U.S.C. § 1030** — Computer Fraud and Abuse Act.
+
+## Copyright and Video
+
+Statutory and case sources on fair use and DMCA notice-and-takedown procedure:
+
+- [`TOPIC-FAIR-USE-VIDEO`](../generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): **Fair Use and Video** — 17 U.S.C. § 107 and cited sources on fair use in video.
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](../generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): **DMCA Takedown and Counter-Notification** — § 512 notice and counter-notification procedure.
+- [`CASE-LENZ-V-UNIVERSAL`](../generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): **Lenz v. Universal** — fair use consideration before DMCA takedown notices.
 
 ## Legal Topics
 

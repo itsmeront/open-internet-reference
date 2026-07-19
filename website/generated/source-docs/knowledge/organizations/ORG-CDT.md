@@ -25,7 +25,7 @@ relationships:
     object: SRC-CDT-WHO
     sources:
       - SRC-CDT-WHO
-last_verified: "2026-06-25"
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -41,8 +41,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 6
-    - **Last verified**: 2026-06-25
+    - **Research debt items**: 3
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -58,10 +58,12 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 - The official about page states CDT works to preserve the user-controlled nature of the internet and champions freedom of expression.[^1]
 - CDT supports laws, corporate policies, and technology tools that protect the privacy of internet users.[^1]
 - CDT advocates for stronger legal controls on government surveillance.[^1]
-- The who-we-are page states CDT promotes democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.[^1]
+- The who-we-are page restates CDT's mission of promoting democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.[^2]
 
 
-[^1]: [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT) — Center for Democracy and Technology About Page. Self-reported profile; corroboration pending.
+[^1]: [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT) — Center for Democracy and Technology About Page. Official organizational record.
+
+[^2]: [`SRC-CDT-WHO`](../../../bibliography.md#SRC-CDT-WHO) — Center for Democracy and Technology Who We Are Page. Official organizational record.
 
 ## Public Contact Information
 
@@ -81,16 +83,10 @@ CDT works at the intersection of technology policy and individual rights, making
 ## Sources
 
 1. [`SRC-CDT-ABOUT`](../../../bibliography.md#SRC-CDT-ABOUT): Center for Democracy and Technology About Page.
-
-Additional sources (not yet cited in footnotes):
-
-- [`SRC-CDT-WHO`](../../../bibliography.md#SRC-CDT-WHO): Center for Democracy and Technology Who We Are Page.
+2. [`SRC-CDT-WHO`](../../../bibliography.md#SRC-CDT-WHO): Center for Democracy and Technology Who We Are Page.
 
 ## Research Debt
 
-- Add details on CDT's specific policy work areas (AI, privacy, surveillance, expression).
-- Document CDT Europe operations.
-- Add information on how to engage with CDT policy work.
-- Add notable amicus briefs and policy submissions relevant to software.
-- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Add bibliography sources for CDT Europe operations.
+- Add notable amicus briefs and policy submissions relevant to software with primary filing records.
+- Corroborate organizational impact claims with independent reporting where analysis requires it.

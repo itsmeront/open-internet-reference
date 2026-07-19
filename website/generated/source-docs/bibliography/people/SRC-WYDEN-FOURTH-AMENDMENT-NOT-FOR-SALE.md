@@ -53,3 +53,4 @@ Official Senate press release. Primary source for Wyden and Paul's Fourth Amendm
 
 - [`PERSON-RON-WYDEN`](../../../used-for.md#person-ron-wyden)
 - [`PERSON-RAND-PAUL`](../../../used-for.md#person-rand-paul)
+- [`PERSON-CORY-BOOKER`](../../../used-for.md#person-cory-booker)

@@ -11,6 +11,7 @@ tags:
 sources:
   - SRC-PACKINGHAM-LII
   - SRC-PACKINGHAM-JUSTIA
+  - SRC-PACKINGHAM-GOVINFO
 relationships:
   - subject: CASE-PACKINGHAM-V-NC
     predicate: cites
@@ -23,11 +24,16 @@ relationships:
     sources:
       - SRC-PACKINGHAM-JUSTIA
   - subject: CASE-PACKINGHAM-V-NC
+    predicate: cites
+    object: SRC-PACKINGHAM-GOVINFO
+    sources:
+      - SRC-PACKINGHAM-GOVINFO
+  - subject: CASE-PACKINGHAM-V-NC
     predicate: related_to
     object: TOPIC-FIRST-AMENDMENT
     sources:
       - SRC-PACKINGHAM-LII
-last_verified: "2026-06-25"
+last_verified: "2026-07-19"
 ---
 
 # Packingham v. North Carolina
@@ -76,6 +82,7 @@ This case establishes that access to internet platforms is constitutionally prot
 
 - `CASE-PACKINGHAM-V-NC` cites `SRC-PACKINGHAM-LII`.
 - `CASE-PACKINGHAM-V-NC` cites `SRC-PACKINGHAM-JUSTIA`.
+- `CASE-PACKINGHAM-V-NC` cites `SRC-PACKINGHAM-GOVINFO`.
 - `CASE-PACKINGHAM-V-NC` related_to `TOPIC-FIRST-AMENDMENT`.
 
 ## Sources
@@ -85,10 +92,9 @@ This case establishes that access to internet platforms is constitutionally prot
 Additional sources (not yet cited in footnotes):
 
 - `SRC-PACKINGHAM-JUSTIA`: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).
+- `SRC-PACKINGHAM-GOVINFO`: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).
 
 ## Research Debt
 
-- Add GovInfo source for the official opinion.
 - Connect to later cases applying this precedent to internet access restrictions.
 - Relate to platform deplatforming and government-compelled censorship debates.
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

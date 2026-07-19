@@ -23,7 +23,7 @@ relationships:
     object: SRC-FENWICK-HISTORY
     sources:
       - SRC-FENWICK-HISTORY
-last_verified: "2026-06-25"
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -39,8 +39,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 2
     - **Relationships**: 2
-    - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
+    - **Research debt items**: 2
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -52,12 +52,12 @@ Fenwick & West is a Silicon Valley law firm founded in 1972 that provides compre
 
 ## Verified Facts
 
-- Founded in 1972 in Palo Alto.[^1]
-- Pioneered technology law in Silicon Valley.[^1]
+- Founded in 1972 in Palo Alto.[^1][^2]
+- Pioneered technology law in Silicon Valley.[^1][^2]
 - Technology Transactions practice grounded in copyright, data privacy, open source, patent and trademark.[^1]
 - Represents 1,500+ VC-backed companies.[^1]
-- Created one of the first software license agreements, the first shrinkwrap license (1976), and the first software clean room protocols.[^1]
-- Over 500 attorneys.[^1]
+- Created one of the first software license agreements, the first shrinkwrap license (1976), and the first software clean room protocols.[^2]
+- Over 500 attorneys.[^1][^2]
 
 ## Historical Context
 
@@ -65,6 +65,8 @@ Fenwick & West was founded in 1972 in Palo Alto at the dawn of the personal comp
 
 
 [^1]: [`SRC-FENWICK-TECH`](../../../bibliography.md#SRC-FENWICK-TECH) — Fenwick Technology Transactions Practice Page. Official organizational record.
+
+[^2]: [`SRC-FENWICK-HISTORY`](../../../bibliography.md#SRC-FENWICK-HISTORY) — Fenwick & West Firm History Page. Official organizational record; historical firsts should be corroborated for outreach use.
 
 ## Analysis
 
@@ -82,14 +84,9 @@ Pioneered software licensing and IP law. Deep open source expertise. Created ind
 ## Sources
 
 1. [`SRC-FENWICK-TECH`](../../../bibliography.md#SRC-FENWICK-TECH): Fenwick Technology Transactions Practice Page.
-
-Additional sources (not yet cited in footnotes):
-
-- [`SRC-FENWICK-HISTORY`](../../../bibliography.md#SRC-FENWICK-HISTORY): Fenwick & West Firm History Page.
+2. [`SRC-FENWICK-HISTORY`](../../../bibliography.md#SRC-FENWICK-HISTORY): Fenwick & West Firm History Page.
 
 ## Research Debt
 
-- Add independent sources for firm history and notable matters.
-- Document specific open source licensing work and clean room protocol development.
-- Identify key attorneys in the technology transactions and open source practices.
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Add independent sources for landmark litigation and transaction claims on the firm history page.
+- Identify key attorneys in the technology transactions and open source practices from official practice pages.

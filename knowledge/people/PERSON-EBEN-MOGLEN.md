@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-MOGLEN-COLUMBIA
   - SRC-MOGLEN-DSI
+  - SRC-ZIMMERMANN-INVESTIGATION-CLOSED
 relationships:
   - subject: PERSON-EBEN-MOGLEN
     predicate: cites
@@ -24,6 +25,11 @@ relationships:
     sources:
       - SRC-MOGLEN-DSI
   - subject: PERSON-EBEN-MOGLEN
+    predicate: cites
+    object: SRC-ZIMMERMANN-INVESTIGATION-CLOSED
+    sources:
+      - SRC-ZIMMERMANN-INVESTIGATION-CLOSED
+  - subject: PERSON-EBEN-MOGLEN
     predicate: affiliated_with
     object: ORG-SFLC
     sources:
@@ -33,7 +39,7 @@ relationships:
     object: ORG-FSF
     sources:
       - SRC-MOGLEN-DSI
-last_verified: "2026-06-25"
+last_verified: "2026-07-19"
 ---
 
 # Eben Moglen
@@ -45,16 +51,21 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 ## Verified Facts
 
 - The official Columbia Law School faculty page identifies Moglen as Professor of Law with areas of study in Intellectual Property, Technology, and Legal History.[^1]
-- The Columbia Data Science Institute profile states Moglen served as general counsel to the Free Software Foundation since 1994.[^1]
-- Moglen was an FSF board member from 2000 to 2007.[^1]
-- As FSF counsel, Moglen was charged with enforcing the GPL on behalf of the FSF and later became heavily involved in drafting GPL version 3.[^1]
-- Moglen founded the Software Freedom Law Center in February 2005.[^1]
+- The Columbia Data Science Institute profile states Moglen served as general counsel to the Free Software Foundation since 1994.[^2]
+- Moglen was an FSF board member from 2000 to 2007.[^2]
+- As FSF counsel, Moglen was charged with enforcing the GPL on behalf of the FSF and later became heavily involved in drafting GPL version 3.[^2]
+- Moglen founded the Software Freedom Law Center in February 2005.[^2]
 - He worked as a designer of advanced computer programming languages at IBM from 1979 to 1985.[^1]
 - In 1991 he represented Philip Zimmermann, the developer of PGP, when Zimmermann was threatened with prosecution for distributing strong encryption as free software.[^1]
+- Federal prosecutors closed the PGP criminal investigation without filing charges against Zimmermann in January 1996.[^3]
 - Moglen received the EFF Pioneer Award in 2003.[^1]
 
 
-[^1]: `SRC-MOGLEN-COLUMBIA` — Eben Moglen Columbia Law School Faculty Page. Official source; review reliability tier.
+[^1]: `SRC-MOGLEN-COLUMBIA` — Eben Moglen Columbia Law School Faculty Page. Official source.
+
+[^2]: `SRC-MOGLEN-DSI` — Eben Moglen Columbia Data Science Institute Profile. Official institutional profile.
+
+[^3]: `SRC-ZIMMERMANN-INVESTIGATION-CLOSED` — EPIC Alert — Charges Dropped Against Phil Zimmermann. Secondary reporting of U.S. Attorney declination.
 
 ## Expert Testimony and Public Advocacy
 
@@ -77,21 +88,18 @@ Moglen is one of the most significant legal figures in the free software and ope
 
 - `PERSON-EBEN-MOGLEN` cites `SRC-MOGLEN-COLUMBIA`.
 - `PERSON-EBEN-MOGLEN` cites `SRC-MOGLEN-DSI`.
+- `PERSON-EBEN-MOGLEN` cites `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`.
 - `PERSON-EBEN-MOGLEN` affiliated_with `ORG-SFLC`.
 - `PERSON-EBEN-MOGLEN` affiliated_with `ORG-FSF`.
 
 ## Sources
 
 1. `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page.
-
-Additional sources (not yet cited in footnotes):
-
-- `SRC-MOGLEN-DSI`: Eben Moglen Columbia Data Science Institute Profile.
+2. `SRC-MOGLEN-DSI`: Eben Moglen Columbia Data Science Institute Profile.
+3. `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`: EPIC Alert — Charges Dropped Against Phil Zimmermann.
 
 ## Research Debt
 
-- Add details on Zimmermann/PGP defense outcomes.
-- Document role in FreedomBox Foundation (founded 2011).
-- Add more detail on GPL enforcement cases.
-- Document current SFLC intake process for projects needing legal help.
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Document role in FreedomBox Foundation (founded 2011) with an official organizational source.
+- Add case-specific sources for notable GPL enforcement actions.
+- Cross-link SFLC intake process documented on `ORG-SFLC`.

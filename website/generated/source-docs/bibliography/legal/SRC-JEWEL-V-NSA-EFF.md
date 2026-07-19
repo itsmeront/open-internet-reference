@@ -51,4 +51,3 @@ Official EFF case page. EFF was counsel in this case, making this a firsthand li
 ## Used For
 
 - [`PERSON-CINDY-COHN`](../../../used-for.md#person-cindy-cohn)
-- [`CASE-BERNSTEIN-V-DOJ`](../../../used-for.md#case-bernstein-v-doj)

@@ -1,17 +1,17 @@
 {
   "by_status": {
-    "draft": 112,
-    "verified": 103
+    "draft": 116,
+    "verified": 116
   },
   "by_type": {
     "attorney": 16,
-    "case": 10,
+    "case": 11,
     "organization": 20,
     "person": 28,
     "protocol": 3,
-    "source": 127,
-    "statute": 3,
-    "topic": 8
+    "source": 140,
+    "statute": 4,
+    "topic": 10
   },
   "description": "Generated review status dashboard.",
   "missing_last_verified": [
@@ -49,6 +49,7 @@
     "CASE-CARPENTER-V-US",
     "CASE-GOOGLE-V-ORACLE",
     "CASE-JUNGER-V-DALEY",
+    "CASE-LENZ-V-UNIVERSAL",
     "CASE-PACKINGHAM-V-NC",
     "CASE-PERFECT10-V-CCBILL",
     "CASE-RENO-V-ACLU",
@@ -124,8 +125,11 @@
     "STAT-CFAA-1030",
     "STAT-DMCA-512",
     "STAT-SECTION-230",
+    "STAT-USC-107",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
+    "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+    "TOPIC-FAIR-USE-VIDEO",
     "TOPIC-FIRST-AMENDMENT",
     "TOPIC-FOURTH-AMENDMENT",
     "TOPIC-INTERMEDIARY-LIABILITY",
@@ -136,7 +140,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 112,
-    "records": 215
+    "needing_review": 116,
+    "records": 232
   }
 }

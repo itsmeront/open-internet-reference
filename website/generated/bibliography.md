@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 127
+Record count: 140
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -149,6 +149,18 @@ Microsoft Research profile and institutional announcements for danah boyd descri
 
 ### Cited By
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
+
+## `SRC-BROWN-V-EMA-GOVINFO`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) { #SRC-BROWN-V-EMA-GOVINFO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
+- Tags: source, case-law, first-amendment, digital-rights
+
+Official GovInfo United States Reports record for Brown v. Entertainment Merchants Assn.
+
+### Cited By
+- [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 
 ## `SRC-BROWN-V-EMA-LII`: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) { #SRC-BROWN-V-EMA-LII }
 
@@ -325,6 +337,19 @@ Official Cooley LLP practice page describing the firm's technology industry repr
 ### Cited By
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
 
+## `SRC-COPYRIGHT-512-INDEX`: U.S. Copyright Office Section 512 Resources { #SRC-COPYRIGHT-512-INDEX }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-COPYRIGHT-512-INDEX.md`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
+- Tags: source, copyright, safe-harbor
+
+U.S. Copyright Office index page for Section 512 of the Copyright Act, including safe harbor and notice-and-takedown guidance.
+
+### Cited By
+- [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+
 ## `SRC-CORLEY-LII`: Universal City Studios v. Corley Opinion Text (Open Casebook) { #SRC-CORLEY-LII }
 
 - Type: `source`
@@ -360,6 +385,21 @@ Official EFF about page describing the organization's mission, history, and nonp
 
 ### Cited By
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
+
+## `SRC-EFF-BLOGGERS-IP`: EFF Legal Guide for Bloggers — Intellectual Property { #SRC-EFF-BLOGGERS-IP }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-EFF-BLOGGERS-IP.md`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+- Tags: source, copyright, digital-rights
+
+Electronic Frontier Foundation guide explaining fair use, DMCA takedown and counter-notice procedures, and related intellectual property questions for online creators.
+
+### Cited By
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 
 ## `SRC-EFF-CONTACT`: Electronic Frontier Foundation Contact Page { #SRC-EFF-CONTACT }
 
@@ -433,6 +473,18 @@ Official Fenwick & West practice page describing the Technology Transactions gro
 ### Cited By
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
 
+## `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) { #SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+- Tags: source, statute, fourth-amendment, privacy, surveillance, digital-rights
+
+Introduced Senate bill text for the Fourth Amendment Is Not For Sale Act, listing original sponsors and co-sponsors.
+
+### Cited By
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+
 ## `SRC-FSF-ABOUT`: Free Software Foundation About Page { #SRC-FSF-ABOUT }
 
 - Type: `source`
@@ -468,6 +520,7 @@ Justia reproduction of the Supreme Court opinion in Google LLC v. Oracle America
 
 ### Cited By
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 
 ## `SRC-GRANICK-ACLU-BIO`: Jennifer Granick ACLU Staff Biography { #SRC-GRANICK-ACLU-BIO }
 
@@ -673,6 +726,34 @@ Press release from Senator Mike Lee's office announcing the bipartisan Governmen
 ### Cited By
 - [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 
+## `SRC-LEE-SENATE-BIO`: Mike Lee Official Senate Biography { #SRC-LEE-SENATE-BIO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-LEE-SENATE-BIO.md`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+- Tags: source, person, internet-governance, privacy, surveillance
+
+Official U.S. Senate biography page for Senator Mike Lee of Utah, including committee assignments and professional background.
+
+### Cited By
+- [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+
+## `SRC-LENZ-V-UNIVERSAL-CA9`: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) { #SRC-LENZ-V-UNIVERSAL-CA9 }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- Tags: source, case, copyright, digital-rights
+
+Ninth Circuit opinion holding that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+### Cited By
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
 ## `SRC-LESSIG-HARVARD`: Lawrence Lessig Harvard Law School Faculty Page { #SRC-LESSIG-HARVARD }
 
 - Type: `source`
@@ -695,6 +776,7 @@ Official Harvard Law School faculty page for Lawrence Lessig.
 Press release from Representative Zoe Lofgren's office announcing the introduction of bipartisan bicameral Aaron's Law to reform the Computer Fraud and Abuse Act.
 
 ### Cited By
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-ZOE-LOFGREN: Zoe Lofgren`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
 
 ## `SRC-MASSIE-ENCRYPTION-AMENDMENT`: House Passes Massie Amendment to Strengthen Privacy and Security { #SRC-MASSIE-ENCRYPTION-AMENDMENT }
@@ -828,6 +910,18 @@ Official history page of the Open Source Initiative documenting its founding and
 
 ### Cited By
 - [`ORG-OSI: Open Source Initiative`](source-docs/knowledge/organizations/ORG-OSI.md)
+
+## `SRC-PACKINGHAM-GOVINFO`: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo) { #SRC-PACKINGHAM-GOVINFO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-PACKINGHAM-GOVINFO.md`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
+- Tags: source, case-law, first-amendment, internet-governance, digital-rights
+
+Official GovInfo United States Reports record for Packingham v. North Carolina.
+
+### Cited By
+- [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 
 ## `SRC-PACKINGHAM-JUSTIA`: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) { #SRC-PACKINGHAM-JUSTIA }
 
@@ -1109,6 +1203,19 @@ Cornell Legal Information Institute page for 47 U.S.C. § 230, the Section 230 i
 Official about page of Software Freedom Conservancy describing its mission and activities.
 
 ### Cited By
+- [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
+## `SRC-SFC-APPLY`: Applying to Join Conservancy as a Member Project { #SRC-SFC-APPLY }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFC-APPLY.md`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official Software Freedom Conservancy page describing how FOSS projects apply for fiscal sponsorship membership.
+
+### Cited By
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 
 ## `SRC-SFC-HOME`: Software Freedom Conservancy Home Page { #SRC-SFC-HOME }
@@ -1123,6 +1230,18 @@ Official home page of Software Freedom Conservancy with mission statement.
 ### Cited By
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 
+## `SRC-SFC-PROJECTS`: Project Membership in Software Freedom Conservancy { #SRC-SFC-PROJECTS }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFC-PROJECTS.md`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
+- Tags: source, organization, open-source-software
+
+Official Software Freedom Conservancy page describing member project services and membership overview.
+
+### Cited By
+- [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
 ## `SRC-SFLC-ABOUT`: Software Freedom Law Center Team Page { #SRC-SFLC-ABOUT }
 
 - Type: `source`
@@ -1131,6 +1250,19 @@ Official home page of Software Freedom Conservancy with mission statement.
 - Tags: source, organization, open-source-software
 
 Official team page of the Software Freedom Law Center describing its staff and mission.
+
+### Cited By
+- [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
+## `SRC-SFLC-CONTACT`: Software Freedom Law Center Contact Page { #SRC-SFLC-CONTACT }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/organizations/SRC-SFLC-CONTACT.md`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
+- Tags: source, organization, open-source-software, outreach
+
+Official SFLC contact page describing how FOSS projects can request legal advice and other contact paths.
 
 ### Cited By
 - [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
@@ -1269,6 +1401,33 @@ Cornell Legal Information Institute page for the Fourth Amendment to the U.S. Co
 ### Cited By
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
+## `SRC-USC-17-107-GOVINFO`: 17 U.S.C. § 107 (GovInfo) { #SRC-USC-17-107-GOVINFO }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-USC-17-107-GOVINFO.md`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- Tags: source, statute, copyright
+
+Official GovInfo U.S. Code page for 17 U.S.C. section 107, the fair use limitation on exclusive copyright rights.
+
+### Cited By
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
+## `SRC-USC-17-107-LII`: 17 U.S.C. § 107 { #SRC-USC-17-107-LII }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/legal/SRC-USC-17-107-LII.md`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Tags: source, statute, copyright
+
+Cornell Legal Information Institute page for 17 U.S.C. section 107, the U.S. fair use statute.
+
+### Cited By
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
 ## `SRC-USC-17-512-GOVINFO`: 17 U.S.C. § 512 (GovInfo) { #SRC-USC-17-512-GOVINFO }
 
 - Type: `source`
@@ -1281,6 +1440,7 @@ Official GovInfo U.S. Code page for 17 U.S.C. section 512, the DMCA online servi
 ### Cited By
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
 
@@ -1295,6 +1455,7 @@ Cornell Legal Information Institute page for 17 U.S.C. section 512, the copyrigh
 
 ### Cited By
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
 
 ## `SRC-USC-18-1030-GOVINFO`: 18 U.S.C. § 1030 (GovInfo) { #SRC-USC-18-1030-GOVINFO }
@@ -1480,7 +1641,7 @@ Press release from Senator Ron Wyden's office announcing the introduction of Aar
 Press release from Senator Ron Wyden's office opposing the EARN IT Act and warning that it would undermine strong encryption.
 
 ### Cited By
-- No citing knowledge records yet.
+- [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 
 ## `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act { #SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE }
 
@@ -1493,6 +1654,8 @@ Press release from Senator Ron Wyden's office announcing the reintroduction of t
 
 ### Cited By
 - [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 
 ## `SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms { #SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS }
 
@@ -1504,7 +1667,7 @@ Press release from Senator Ron Wyden's office announcing the reintroduction of t
 Press release from Senator Ron Wyden's office describing joint surveillance reform amendments with Senator Rand Paul, including a prohibition on requiring companies to weaken encryption.
 
 ### Cited By
-- No citing knowledge records yet.
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 
 ## `SRC-WYDEN-SECTION-230`: Wyden Remarks at Section 230 Briefing Hosted by EFF { #SRC-WYDEN-SECTION-230 }
 
@@ -1528,7 +1691,8 @@ Press release from Senator Ron Wyden's office regarding his remarks at an EFF-ho
 Press release from Senator Ron Wyden's office announcing the introduction of the USA RIGHTS Act to reform Section 702 surveillance with civil liberties protections.
 
 ### Cited By
-- No citing knowledge records yet.
+- [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 
 ## `SRC-ZIMMERMANN-BIO`: Phil Zimmermann Official Biography { #SRC-ZIMMERMANN-BIO }
 
@@ -1541,6 +1705,18 @@ Official biography page for Phil Zimmermann describing PGP creation, export inve
 
 ### Cited By
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+
+## `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`: EPIC Alert — Charges Dropped Against Phil Zimmermann { #SRC-ZIMMERMANN-INVESTIGATION-CLOSED }
+
+- Type: `source`
+- Status: `verified`
+- Path: [`bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+- Tags: source, person, cryptography, digital-rights
+
+EPIC Alert reporting that federal prosecutors closed the criminal investigation into Phil Zimmermann without filing charges over PGP distribution.
+
+### Cited By
+- [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 
 ## `SRC-ZITTRAIN-HLS`: Jonathan L. Zittrain Harvard Law School Faculty Profile { #SRC-ZITTRAIN-HLS }
 

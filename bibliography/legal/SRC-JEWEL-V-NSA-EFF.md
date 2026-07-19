@@ -33,4 +33,3 @@ Official EFF case page. EFF was counsel in this case, making this a firsthand li
 ## Used For
 
 - `PERSON-CINDY-COHN`
-- `CASE-BERNSTEIN-V-DOJ`

@@ -34,5 +34,6 @@ GovInfo is an official U.S. Government Publishing Office source for the U.S. Cod
 - `STAT-DMCA-512`
 - `TOPIC-SAFE-HARBOR`
 - `TOPIC-INTERMEDIARY-LIABILITY`
+- `TOPIC-DMCA-TAKEDOWN-RESPONSE`
 - Copyright safe harbor
 - Intermediary liability

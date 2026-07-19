@@ -2,11 +2,15 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 320
+Event count: 350
 
 ## 1987-11
 
 - `publication`: [`SRC-RFC-1034`](source-docs/bibliography/technical/SRC-RFC-1034.md) - Publication date for RFC 1034: Domain Names - Concepts and Facilities.
+
+## 1996-01-11
+
+- `publication`: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md) - Publication date for EPIC Alert — Charges Dropped Against Phil Zimmermann.
 
 ## 1997
 
@@ -43,11 +47,16 @@ Event count: 320
 
 ## 2011-06-27
 
+- `publication`: [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md) - Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo).
 - `publication`: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md) - Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).
 
 ## 2015-04-20
 
 - `publication`: [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md) - Publication date for EFF at 25 - Remembering the Case that Established Code as Speech.
+
+## 2015-09-14
+
+- `publication`: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md) - Publication date for Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015).
 
 ## 2016
 
@@ -64,6 +73,7 @@ Event count: 320
 
 ## 2017-06-19
 
+- `publication`: [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md) - Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).
 - `publication`: [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md) - Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).
 - `publication`: [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md) - Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII).
 
@@ -82,6 +92,7 @@ Event count: 320
 
 ## 2021
 
+- `publication`: [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md) - Publication date for S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress).
 - `publication`: [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md) - Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).
 - `publication`: [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md) - Publication date for Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
 
@@ -147,7 +158,6 @@ Event count: 320
 - `verification`: [`CASE-PERFECT10-V-CCBILL`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md) - Last verified date for Perfect 10, Inc. v. CCBill LLC.
 - `verification`: [`CASE-RENO-V-ACLU`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md) - Last verified date for Reno v. American Civil Liberties Union.
 - `verification`: [`CASE-VAN-BUREN-V-US`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md) - Last verified date for Van Buren v. United States.
-- `verification`: [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) - Last verified date for American Civil Liberties Union.
 - `verification`: [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md) - Last verified date for Electronic Frontier Foundation.
 - `verification`: [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) - Last verified date for Signal.
 - `verification`: [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md) - Last verified date for Tor Project.
@@ -171,7 +181,6 @@ Event count: 320
 - `verification`: [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md) - Last verified date for 18 U.S.C. § 1030 (GovInfo).
 - `verification`: [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md) - Last verified date for Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo).
 - `verification`: [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md) - Last verified date for Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII).
-- `verification`: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) - Last verified date for 17 U.S.C. § 512.
 - `verification`: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) - Last verified date for Code as Speech.
 - `verification`: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) - Last verified date for Computer Fraud and Abuse.
 - `verification`: [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) - Last verified date for Fourth Amendment.
@@ -184,34 +193,22 @@ Event count: 320
 - `verification`: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) - Last verified date for Bernstein v. United States Department of Justice.
 - `verification`: [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md) - Last verified date for Google LLC v. Oracle America, Inc..
 - `verification`: [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) - Last verified date for Junger v. Daley.
-- `verification`: [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) - Last verified date for Packingham v. North Carolina.
 - `verification`: [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) - Last verified date for Universal City Studios v. Corley.
-- `verification`: [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md) - Last verified date for Center for Democracy and Technology.
 - `verification`: [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md) - Last verified date for Cooley.
-- `verification`: [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md) - Last verified date for Fenwick & West.
 - `verification`: [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) - Last verified date for Free Software Foundation.
 - `verification`: [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) - Last verified date for Institute for Justice.
-- `verification`: [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) - Last verified date for Knight First Amendment Institute.
 - `verification`: [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md) - Last verified date for Open Source Initiative.
 - `verification`: [`ORG-PERKINS-COIE`](source-docs/knowledge/organizations/ORG-PERKINS-COIE.md) - Last verified date for Perkins Coie.
-- `verification`: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) - Last verified date for Software Freedom Law Center.
-- `verification`: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) - Last verified date for Software Freedom Conservancy.
 - `verification`: [`ORG-WILSON-SONSINI`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md) - Last verified date for Wilson Sonsini Goodrich & Rosati.
 - `verification`: [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md) - Last verified date for Bruce Schneier.
-- `verification`: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) - Last verified date for Cindy Cohn.
-- `verification`: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) - Last verified date for Cory Booker.
 - `verification`: [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) - Last verified date for Corynne McSherry.
-- `verification`: [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) - Last verified date for Eben Moglen.
 - `verification`: [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) - Last verified date for Jennifer Granick.
 - `verification`: [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) - Last verified date for Kit Walsh.
 - `verification`: [`PERSON-LAUREN-WEINSTEIN`](source-docs/knowledge/people/PERSON-LAUREN-WEINSTEIN.md) - Last verified date for Lauren Weinstein.
 - `verification`: [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) - Last verified date for Lawrence Lessig.
 - `verification`: [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) - Last verified date for Matt Blaze.
-- `verification`: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) - Last verified date for Mike Lee.
 - `verification`: [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) - Last verified date for Mitch Stoltz.
-- `verification`: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) - Last verified date for Rand Paul.
 - `verification`: [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) - Last verified date for Ro Khanna.
-- `verification`: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) - Last verified date for Ron Wyden.
 - `verification`: [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) - Last verified date for Thomas Massie.
 - `verification`: [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) - Last verified date for Zoe Lofgren.
 - `verification`: [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md) - Last verified date for Bernstein v. US Dept. of Justice EFF Case Page.
@@ -278,8 +275,6 @@ Event count: 320
 
 ## 2026-07-04
 
-- `verification`: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) - Last verified date for Brown v. Entertainment Merchants Assn..
-- `verification`: [`ORG-EPIC`](source-docs/knowledge/organizations/ORG-EPIC.md) - Last verified date for Electronic Privacy Information Center.
 - `verification`: [`ORG-INSTITUTE-FOR-FREE-SPEECH`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md) - Last verified date for Institute for Free Speech.
 - `verification`: [`ORG-PUBLIC-KNOWLEDGE`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md) - Last verified date for Public Knowledge.
 - `verification`: [`ORG-RCFP`](source-docs/knowledge/organizations/ORG-RCFP.md) - Last verified date for Reporters Committee for Freedom of the Press.
@@ -352,6 +347,42 @@ Event count: 320
 - `verification`: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md) - Last verified date for Jane Fonda Relaunches Committee for the First Amendment (CNN).
 - `verification`: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) - Last verified date for First Amendment.
 
+## 2026-07-19
+
+- `verification`: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) - Last verified date for Brown v. Entertainment Merchants Assn..
+- `verification`: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) - Last verified date for Lenz v. Universal Music Corp..
+- `verification`: [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) - Last verified date for Packingham v. North Carolina.
+- `verification`: [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) - Last verified date for American Civil Liberties Union.
+- `verification`: [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md) - Last verified date for Center for Democracy and Technology.
+- `verification`: [`ORG-EPIC`](source-docs/knowledge/organizations/ORG-EPIC.md) - Last verified date for Electronic Privacy Information Center.
+- `verification`: [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md) - Last verified date for Fenwick & West.
+- `verification`: [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) - Last verified date for Knight First Amendment Institute.
+- `verification`: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) - Last verified date for Software Freedom Law Center.
+- `verification`: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) - Last verified date for Software Freedom Conservancy.
+- `verification`: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) - Last verified date for Cindy Cohn.
+- `verification`: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) - Last verified date for Cory Booker.
+- `verification`: [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) - Last verified date for Eben Moglen.
+- `verification`: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) - Last verified date for Mike Lee.
+- `verification`: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) - Last verified date for Rand Paul.
+- `verification`: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) - Last verified date for Ron Wyden.
+- `verification`: [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md) - Last verified date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo).
+- `verification`: [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md) - Last verified date for U.S. Copyright Office Section 512 Resources.
+- `verification`: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md) - Last verified date for EFF Legal Guide for Bloggers — Intellectual Property.
+- `verification`: [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md) - Last verified date for S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress).
+- `verification`: [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md) - Last verified date for Mike Lee Official Senate Biography.
+- `verification`: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md) - Last verified date for Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015).
+- `verification`: [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md) - Last verified date for Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).
+- `verification`: [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md) - Last verified date for Applying to Join Conservancy as a Member Project.
+- `verification`: [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md) - Last verified date for Project Membership in Software Freedom Conservancy.
+- `verification`: [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md) - Last verified date for Software Freedom Law Center Contact Page.
+- `verification`: [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md) - Last verified date for 17 U.S.C. § 107 (GovInfo).
+- `verification`: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md) - Last verified date for 17 U.S.C. § 107.
+- `verification`: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md) - Last verified date for EPIC Alert — Charges Dropped Against Phil Zimmermann.
+- `verification`: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) - Last verified date for 17 U.S.C. § 512.
+- `verification`: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) - Last verified date for 17 U.S.C. § 107.
+- `verification`: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) - Last verified date for DMCA Takedown and Counter-Notification.
+- `verification`: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) - Last verified date for Fair Use and Video.
+
 ## Not dated
 
 - `publication`: [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md) - Publication date for Janet Abbate Virginia Tech Faculty Profile.
@@ -381,6 +412,7 @@ Event count: 320
 - `publication`: [`SRC-KAHN-CNRI`](source-docs/bibliography/people/SRC-KAHN-CNRI.md) - Publication date for Robert E. Kahn CNRI Biography.
 - `publication`: [`SRC-KAY-CHM`](source-docs/bibliography/people/SRC-KAY-CHM.md) - Publication date for Alan Kay Computer History Museum Profile.
 - `publication`: [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md) - Publication date for Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee.
+- `publication`: [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md) - Publication date for Mike Lee Official Senate Biography.
 - `publication`: [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md) - Publication date for Lawrence Lessig Harvard Law School Faculty Page.
 - `publication`: [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md) - Publication date for Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law.
 - `publication`: [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md) - Publication date for House Passes Massie Amendment to Strengthen Privacy and Security.
@@ -400,9 +432,14 @@ Event count: 320
 - `publication`: [`SRC-REED-BIO`](source-docs/bibliography/people/SRC-REED-BIO.md) - Publication date for David P. Reed Official Biography.
 - `publication`: [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md) - Publication date for Bruce Schneier About Page.
 - `publication`: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md) - Publication date for Software Freedom Conservancy About Page.
+- `publication`: [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md) - Publication date for Applying to Join Conservancy as a Member Project.
 - `publication`: [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md) - Publication date for Software Freedom Conservancy Home Page.
+- `publication`: [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md) - Publication date for Project Membership in Software Freedom Conservancy.
 - `publication`: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md) - Publication date for Software Freedom Law Center Team Page.
+- `publication`: [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md) - Publication date for Software Freedom Law Center Contact Page.
 - `publication`: [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md) - Publication date for Lee Tien EFF Staff Biography.
+- `publication`: [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md) - Publication date for 17 U.S.C. § 107 (GovInfo).
+- `publication`: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md) - Publication date for 17 U.S.C. § 107.
 - `publication`: [`SRC-VIXIE-IHOF`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md) - Publication date for Paul Vixie Internet Hall of Fame Profile.
 - `publication`: [`SRC-WEINSTEIN-BIO`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md) - Publication date for Lauren Weinstein Biography Page.
 - `publication`: [`SRC-WESSLER-ACLU`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md) - Publication date for Nathan Freed Wessler ACLU Staff Biography.
@@ -418,6 +455,14 @@ Event count: 320
 - `publication`: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md) - Publication date for Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program.
 - `publication`: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md) - Publication date for Phil Zimmermann Official Biography.
 - `publication`: [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md) - Publication date for Jonathan L. Zittrain Harvard Law School Faculty Profile.
+
+## Not dated (maintained guide)
+
+- `publication`: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md) - Publication date for EFF Legal Guide for Bloggers — Intellectual Property.
+
+## Not dated (maintained page)
+
+- `publication`: [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md) - Publication date for U.S. Copyright Office Section 512 Resources.
 
 ## Not dated (maintained)
 
