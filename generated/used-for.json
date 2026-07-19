@@ -6,13 +6,13 @@
       "sources": [
         "SRC-BERNSTEIN-EFF",
         "SRC-BERNSTEIN-EFF-25",
-        "SRC-BERNSTEIN-JUSTIA",
-        "SRC-JEWEL-V-NSA-EFF"
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "term": "`CASE-BERNSTEIN-V-DOJ`"
     },
     {
       "sources": [
+        "SRC-BROWN-V-EMA-GOVINFO",
         "SRC-BROWN-V-EMA-LII"
       ],
       "term": "`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`"
@@ -39,6 +39,14 @@
     },
     {
       "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`CASE-LENZ-V-UNIVERSAL`"
+    },
+    {
+      "sources": [
+        "SRC-PACKINGHAM-GOVINFO",
         "SRC-PACKINGHAM-JUSTIA",
         "SRC-PACKINGHAM-LII"
       ],
@@ -210,7 +218,8 @@
     },
     {
       "sources": [
-        "SRC-SFLC-ABOUT"
+        "SRC-SFLC-ABOUT",
+        "SRC-SFLC-CONTACT"
       ],
       "term": "`ORG-SFLC`"
     },
@@ -226,7 +235,9 @@
     {
       "sources": [
         "SRC-SFC-ABOUT",
-        "SRC-SFC-HOME"
+        "SRC-SFC-APPLY",
+        "SRC-SFC-HOME",
+        "SRC-SFC-PROJECTS"
       ],
       "term": "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
     },
@@ -292,7 +303,9 @@
     },
     {
       "sources": [
-        "SRC-BOOKER-SURVEILLANCE-ADVERTISING"
+        "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
       ],
       "term": "`PERSON-CORY-BOOKER`"
     },
@@ -317,7 +330,8 @@
     {
       "sources": [
         "SRC-MOGLEN-COLUMBIA",
-        "SRC-MOGLEN-DSI"
+        "SRC-MOGLEN-DSI",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
       ],
       "term": "`PERSON-EBEN-MOGLEN`"
     },
@@ -411,7 +425,8 @@
     {
       "sources": [
         "SRC-LEE-ENCRYPTION-BACKDOORS",
-        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM"
+        "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+        "SRC-LEE-SENATE-BIO"
       ],
       "term": "`PERSON-MIKE-LEE`"
     },
@@ -447,12 +462,14 @@
     },
     {
       "sources": [
-        "SRC-ZIMMERMANN-BIO"
+        "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
       ],
       "term": "`PERSON-PHIL-ZIMMERMANN`"
     },
     {
       "sources": [
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
         "SRC-LOFGREN-AARONS-LAW",
         "SRC-PAUL-FISA",
         "SRC-PAUL-FOURTH-AMENDMENT",
@@ -482,6 +499,7 @@
     },
     {
       "sources": [
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
         "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
         "SRC-LOFGREN-AARONS-LAW",
         "SRC-WYDEN-AARONS-LAW",
@@ -542,6 +560,7 @@
     },
     {
       "sources": [
+        "SRC-COPYRIGHT-512-INDEX",
         "SRC-PERFECT10-V-CCBILL-JUSTIA",
         "SRC-USC-17-512-GOVINFO"
       ],
@@ -556,12 +575,37 @@
     },
     {
       "sources": [
+        "SRC-USC-17-107-GOVINFO",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`STAT-USC-107`"
+    },
+    {
+      "sources": [
         "SRC-USC-18-1030-GOVINFO",
         "SRC-USC-18-1030-LII",
         "SRC-VAN-BUREN-GOVINFO",
         "SRC-VAN-BUREN-LII"
       ],
       "term": "`TOPIC-COMPUTER-FRAUD`"
+    },
+    {
+      "sources": [
+        "SRC-COPYRIGHT-512-INDEX",
+        "SRC-EFF-BLOGGERS-IP",
+        "SRC-LENZ-V-UNIVERSAL-CA9",
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "term": "`TOPIC-DMCA-TAKEDOWN-RESPONSE`"
+    },
+    {
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP",
+        "SRC-LENZ-V-UNIVERSAL-CA9",
+        "SRC-USC-17-107-GOVINFO",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`TOPIC-FAIR-USE-VIDEO`"
     },
     {
       "sources": [

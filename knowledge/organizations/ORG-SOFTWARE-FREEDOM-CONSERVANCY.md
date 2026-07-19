@@ -13,6 +13,8 @@ tags:
 sources:
   - SRC-SFC-ABOUT
   - SRC-SFC-HOME
+  - SRC-SFC-APPLY
+  - SRC-SFC-PROJECTS
 relationships:
   - subject: ORG-SOFTWARE-FREEDOM-CONSERVANCY
     predicate: cites
@@ -24,7 +26,23 @@ relationships:
     object: SRC-SFC-HOME
     sources:
       - SRC-SFC-HOME
-last_verified: "2026-06-25"
+  - subject: ORG-SOFTWARE-FREEDOM-CONSERVANCY
+    predicate: cites
+    object: SRC-SFC-APPLY
+    sources:
+      - SRC-SFC-APPLY
+  - subject: ORG-SOFTWARE-FREEDOM-CONSERVANCY
+    predicate: cites
+    object: SRC-SFC-PROJECTS
+    sources:
+      - SRC-SFC-PROJECTS
+  - subject: ORG-SOFTWARE-FREEDOM-CONSERVANCY
+    predicate: related_to
+    object: ORG-SFLC
+    sources:
+      - SRC-SFC-ABOUT
+      - SRC-SFLC-ABOUT
+last_verified: "2026-07-19"
 ---
 
 # Software Freedom Conservancy
@@ -40,15 +58,25 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 - Conservancy was established in 2006.[^1]
 - Conservancy provides fiscal sponsorship and organizational infrastructure for member FOSS projects.[^1]
 - Conservancy engages in copyleft compliance work, including GPL enforcement.[^1]
+- Conservancy's projects page states it provides nonprofit infrastructure and services so member project developers can focus on software development.[^3]
+- Prospective member projects are encouraged to apply for membership through Conservancy's application process.[^3][^4]
+- Conservancy's application page states projects should email `apply@sfconservancy.org` with a brief project description and website link to begin an inquiry.[^4]
 
 
-[^1]: `SRC-SFC-ABOUT` — Software Freedom Conservancy About Page. Self-reported profile; corroboration pending.
-[^2]: `SRC-SFC-HOME` — Software Freedom Conservancy Home Page. Official source; review reliability tier.
+[^1]: `SRC-SFC-ABOUT` — Software Freedom Conservancy About Page. Official organizational record.
+
+[^2]: `SRC-SFC-HOME` — Software Freedom Conservancy Home Page. Official organizational record.
+
+[^3]: `SRC-SFC-PROJECTS` — Project Membership in Software Freedom Conservancy. Official organizational record.
+
+[^4]: `SRC-SFC-APPLY` — Applying to Join Conservancy as a Member Project. Official organizational record.
 
 ## Public Contact Information
 
 - Website: https://sfconservancy.org/
 - About: https://sfconservancy.org/about/
+- Member projects: https://sfconservancy.org/projects/
+- Apply: https://sfconservancy.org/projects/apply/
 - Compliance: https://sfconservancy.org/copyleft-compliance/
 
 ## Relevance to Open Source and Software Companies
@@ -59,17 +87,19 @@ Software Freedom Conservancy directly supports open source projects by providing
 
 - `ORG-SOFTWARE-FREEDOM-CONSERVANCY` cites `SRC-SFC-ABOUT`.
 - `ORG-SOFTWARE-FREEDOM-CONSERVANCY` cites `SRC-SFC-HOME`.
+- `ORG-SOFTWARE-FREEDOM-CONSERVANCY` cites `SRC-SFC-APPLY`.
+- `ORG-SOFTWARE-FREEDOM-CONSERVANCY` cites `SRC-SFC-PROJECTS`.
+- `ORG-SOFTWARE-FREEDOM-CONSERVANCY` related_to `ORG-SFLC`.
 
 ## Sources
 
 1. `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page.
 2. `SRC-SFC-HOME`: Software Freedom Conservancy Home Page.
+3. `SRC-SFC-PROJECTS`: Project Membership in Software Freedom Conservancy.
+4. `SRC-SFC-APPLY`: Applying to Join Conservancy as a Member Project.
 
 ## Research Debt
 
-- Add list of member projects.
-- Document copyleft enforcement cases and outcomes.
-- Add details on how new projects can apply for membership.
-- Document relationship with Software Freedom Law Center.
-- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Add a maintained member-project list with an official Conservancy source.
+- Document copyleft enforcement cases and outcomes with court or settlement records where public.
+- Add independent comparison of Conservancy fiscal sponsorship versus SFLC legal services.

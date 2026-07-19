@@ -54,6 +54,16 @@
     {
       "declared_in": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
       "notes": null,
+      "object": "SRC-BROWN-V-EMA-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BROWN-V-EMA-GOVINFO"
+      ],
+      "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS"
+    },
+    {
+      "declared_in": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "notes": null,
       "object": "SRC-BROWN-V-EMA-LII",
       "predicate": "cites",
       "sources": [
@@ -160,6 +170,76 @@
         "SRC-JUNGER-CMU"
       ],
       "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "SRC-USC-17-107-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "STAT-DMCA-512",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-LENZ-V-UNIVERSAL",
+      "notes": null,
+      "object": "TOPIC-FAIR-USE-VIDEO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-PACKINGHAM-V-NC",
+      "notes": null,
+      "object": "SRC-PACKINGHAM-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PACKINGHAM-GOVINFO"
+      ],
+      "subject": "CASE-PACKINGHAM-V-NC"
     },
     {
       "declared_in": "CASE-PACKINGHAM-V-NC",
@@ -694,10 +774,31 @@
     {
       "declared_in": "ORG-SFLC",
       "notes": null,
+      "object": "SRC-SFLC-CONTACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFLC-CONTACT"
+      ],
+      "subject": "ORG-SFLC"
+    },
+    {
+      "declared_in": "ORG-SFLC",
+      "notes": null,
       "object": "ORG-FSF",
       "predicate": "related_to",
       "sources": [
         "SRC-SFLC-ABOUT"
+      ],
+      "subject": "ORG-SFLC"
+    },
+    {
+      "declared_in": "ORG-SFLC",
+      "notes": null,
+      "object": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SFLC-ABOUT",
+        "SRC-SFC-ABOUT"
       ],
       "subject": "ORG-SFLC"
     },
@@ -754,10 +855,41 @@
     {
       "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
       "notes": null,
+      "object": "SRC-SFC-APPLY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFC-APPLY"
+      ],
+      "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+    },
+    {
+      "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "notes": null,
       "object": "SRC-SFC-HOME",
       "predicate": "cites",
       "sources": [
         "SRC-SFC-HOME"
+      ],
+      "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+    },
+    {
+      "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "notes": null,
+      "object": "SRC-SFC-PROJECTS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SFC-PROJECTS"
+      ],
+      "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
+    },
+    {
+      "declared_in": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "notes": null,
+      "object": "ORG-SFLC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SFC-ABOUT",
+        "SRC-SFLC-ABOUT"
       ],
       "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
     },
@@ -995,6 +1127,16 @@
     {
       "declared_in": "PERSON-CORY-BOOKER",
       "notes": null,
+      "object": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
+      ],
+      "subject": "PERSON-CORY-BOOKER"
+    },
+    {
+      "declared_in": "PERSON-CORY-BOOKER",
+      "notes": null,
       "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
       "predicate": "cites",
       "sources": [
@@ -1079,6 +1221,16 @@
       "predicate": "cites",
       "sources": [
         "SRC-MOGLEN-DSI"
+      ],
+      "subject": "PERSON-EBEN-MOGLEN"
+    },
+    {
+      "declared_in": "PERSON-EBEN-MOGLEN",
+      "notes": null,
+      "object": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
       ],
       "subject": "PERSON-EBEN-MOGLEN"
     },
@@ -1386,6 +1538,16 @@
       "subject": "PERSON-MIKE-LEE"
     },
     {
+      "declared_in": "PERSON-MIKE-LEE",
+      "notes": null,
+      "object": "SRC-LEE-SENATE-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LEE-SENATE-BIO"
+      ],
+      "subject": "PERSON-MIKE-LEE"
+    },
+    {
       "declared_in": "PERSON-MITCH-STOLTZ",
       "notes": null,
       "object": "ORG-EFF",
@@ -1489,6 +1651,16 @@
     {
       "declared_in": "PERSON-RAND-PAUL",
       "notes": null,
+      "object": "SRC-LOFGREN-AARONS-LAW",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LOFGREN-AARONS-LAW"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
       "object": "SRC-PAUL-FISA",
       "predicate": "cites",
       "sources": [
@@ -1503,6 +1675,36 @@
       "predicate": "cites",
       "sources": [
         "SRC-PAUL-FOURTH-AMENDMENT"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
+      "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
+      "object": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS"
+      ],
+      "subject": "PERSON-RAND-PAUL"
+    },
+    {
+      "declared_in": "PERSON-RAND-PAUL",
+      "notes": null,
+      "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-USA-RIGHTS-ACT"
       ],
       "subject": "PERSON-RAND-PAUL"
     },
@@ -1549,10 +1751,40 @@
     {
       "declared_in": "PERSON-RON-WYDEN",
       "notes": null,
+      "object": "SRC-WYDEN-EARN-IT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-EARN-IT"
+      ],
+      "subject": "PERSON-RON-WYDEN"
+    },
+    {
+      "declared_in": "PERSON-RON-WYDEN",
+      "notes": null,
+      "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
+      ],
+      "subject": "PERSON-RON-WYDEN"
+    },
+    {
+      "declared_in": "PERSON-RON-WYDEN",
+      "notes": null,
       "object": "SRC-WYDEN-SECTION-230",
       "predicate": "cites",
       "sources": [
         "SRC-WYDEN-SECTION-230"
+      ],
+      "subject": "PERSON-RON-WYDEN"
+    },
+    {
+      "declared_in": "PERSON-RON-WYDEN",
+      "notes": null,
+      "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WYDEN-USA-RIGHTS-ACT"
       ],
       "subject": "PERSON-RON-WYDEN"
     },
@@ -1709,10 +1941,30 @@
     {
       "declared_in": "STAT-DMCA-512",
       "notes": null,
+      "object": "CASE-LENZ-V-UNIVERSAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
       "object": "CASE-PERFECT10-V-CCBILL",
       "predicate": "related_to",
       "sources": [
         "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "STAT-DMCA-512"
+    },
+    {
+      "declared_in": "STAT-DMCA-512",
+      "notes": null,
+      "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-LII"
       ],
       "subject": "STAT-DMCA-512"
     },
@@ -1765,6 +2017,56 @@
         "SRC-SECTION-230-EFF"
       ],
       "subject": "STAT-SECTION-230"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
+      "object": "SRC-USC-17-107-GOVINFO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-107-GOVINFO"
+      ],
+      "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
+      "object": "SRC-USC-17-107-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
+      "object": "CASE-GOOGLE-V-ORACLE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-ORACLE-JUSTIA"
+      ],
+      "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
+      "object": "CASE-LENZ-V-UNIVERSAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
+      "object": "TOPIC-FAIR-USE-VIDEO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "STAT-USC-107"
     },
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
@@ -1835,6 +2137,146 @@
         "SRC-USC-18-1030-GOVINFO"
       ],
       "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "SRC-EFF-BLOGGERS-IP",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "SRC-USC-17-512-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "CASE-LENZ-V-UNIVERSAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "STAT-DMCA-512",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-LII"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "TOPIC-FAIR-USE-VIDEO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "notes": null,
+      "object": "TOPIC-SAFE-HARBOR",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-512-GOVINFO"
+      ],
+      "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "SRC-EFF-BLOGGERS-IP",
+      "predicate": "cites",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "SRC-USC-17-107-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "CASE-LENZ-V-UNIVERSAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LENZ-V-UNIVERSAL-CA9"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "ORG-EFF",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
+      "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-EFF-BLOGGERS-IP"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
     },
     {
       "declared_in": "TOPIC-FIRST-AMENDMENT",

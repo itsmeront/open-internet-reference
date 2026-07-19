@@ -356,6 +356,34 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
+        "publication date": "2011-06-27",
+        "source type": "Court case",
+        "url or citation": "https://www.govinfo.gov/app/details/USREPORTS-564/USREPORTS-564-786"
+      },
+      "id": "SRC-BROWN-V-EMA-GOVINFO",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo United States Reports record for Brown v. Entertainment Merchants Assn.",
+      "tags": [
+        "source",
+        "case-law",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Supreme Court of the United States",
@@ -766,6 +794,35 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "U.S. Copyright Office",
+        "publication date": "Not dated (maintained page)",
+        "source type": "Official government guidance index",
+        "url": "https://www.copyright.gov/512/"
+      },
+      "id": "SRC-COPYRIGHT-512-INDEX",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-COPYRIGHT-512-INDEX.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "U.S. Copyright Office index page for Section 512 of the Copyright Act, including safe harbor and notice-and-takedown guidance.",
+      "tags": [
+        "source",
+        "copyright",
+        "safe-harbor"
+      ],
+      "title": "U.S. Copyright Office Section 512 Resources",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-DMCA-TAKEDOWN-RESPONSE`",
+        "`STAT-DMCA-512`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "United States Court of Appeals for the Second Circuit",
@@ -850,6 +907,35 @@
         "Electronic Frontier Foundation",
         "Digital civil liberties organizations",
         "Outreach verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "publication date": "Not dated (maintained guide)",
+        "source type": "Organizational legal guide",
+        "url": "https://www.eff.org/issues/bloggers/legal/liability/IP"
+      },
+      "id": "SRC-EFF-BLOGGERS-IP",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-EFF-BLOGGERS-IP.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Electronic Frontier Foundation guide explaining fair use, DMCA takedown and counter-notice procedures, and related intellectual property questions for online creators.",
+      "tags": [
+        "source",
+        "copyright",
+        "digital-rights"
+      ],
+      "title": "EFF Legal Guide for Bloggers \u2014 Intellectual Property",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-FAIR-USE-VIDEO`",
+        "`TOPIC-DMCA-TAKEDOWN-RESPONSE`"
       ]
     },
     {
@@ -1024,6 +1110,38 @@
       "used_for": [
         "`ORG-FENWICK`",
         "`CONTACT-FENWICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "author or issuing body": "United States Senate; published via GovInfo",
+        "publication date": "2021",
+        "source type": "Introduced bill text",
+        "url or citation": "https://www.govinfo.gov/content/pkg/BILLS-117s1265is/pdf/BILLS-117s1265is.pdf"
+      },
+      "id": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Introduced Senate bill text for the Fourth Amendment Is Not For Sale Act, listing original sponsors and co-sponsors.",
+      "tags": [
+        "source",
+        "statute",
+        "fourth-amendment",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ],
+      "title": "S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RON-WYDEN`",
+        "`PERSON-RAND-PAUL`",
+        "`PERSON-CORY-BOOKER`"
       ]
     },
     {
@@ -1308,8 +1426,7 @@
       "title": "EFF Jewel v. NSA Case Page - Supreme Court Rejection",
       "type": "source",
       "used_for": [
-        "`PERSON-CINDY-COHN`",
-        "`CASE-BERNSTEIN-V-DOJ`"
+        "`PERSON-CINDY-COHN`"
       ]
     },
     {
@@ -1609,6 +1726,67 @@
         "`PERSON-MIKE-LEE`",
         "`PERSON-RON-WYDEN`",
         "`PERSON-ZOE-LOFGREN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Mike Lee",
+        "publication date": "Not dated",
+        "source type": "Official Senate biography page",
+        "url": "https://www.lee.senate.gov/about-mike"
+      },
+      "id": "SRC-LEE-SENATE-BIO",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/people/SRC-LEE-SENATE-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official U.S. Senate biography page for Senator Mike Lee of Utah, including committee assignments and professional background.",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "privacy",
+        "surveillance"
+      ],
+      "title": "Mike Lee Official Senate Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MIKE-LEE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the Ninth Circuit",
+        "publication date": "2015-09-14",
+        "source type": "Appellate court opinion (PDF)",
+        "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2015/09/14/13-16106.pdf"
+      },
+      "id": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Ninth Circuit opinion holding that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. \u00a7 512(c).",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "digital-rights"
+      ],
+      "title": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)",
+      "type": "source",
+      "used_for": [
+        "`CASE-LENZ-V-UNIVERSAL`",
+        "`TOPIC-FAIR-USE-VIDEO`",
+        "`TOPIC-DMCA-TAKEDOWN-RESPONSE`"
       ]
     },
     {
@@ -1989,6 +2167,35 @@
       "type": "source",
       "used_for": [
         "`ORG-OSI`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
+        "publication date": "2017-06-19",
+        "source type": "Court case",
+        "url or citation": "https://www.govinfo.gov/app/details/USREPORTS-582/USREPORTS-582-98"
+      },
+      "id": "SRC-PACKINGHAM-GOVINFO",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-PACKINGHAM-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo United States Reports record for Packingham v. North Carolina.",
+      "tags": [
+        "source",
+        "case-law",
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ],
+      "title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`CASE-PACKINGHAM-V-NC`"
       ]
     },
     {
@@ -2681,6 +2888,35 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Conservancy",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://sfconservancy.org/projects/apply/"
+      },
+      "id": "SRC-SFC-APPLY",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/organizations/SRC-SFC-APPLY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFC-APPLY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Software Freedom Conservancy page describing how FOSS projects apply for fiscal sponsorship membership.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Applying to Join Conservancy as a Member Project",
+      "type": "source",
+      "used_for": [
+        "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Software Freedom Conservancy",
@@ -2709,6 +2945,34 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Conservancy",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://sfconservancy.org/projects/"
+      },
+      "id": "SRC-SFC-PROJECTS",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/organizations/SRC-SFC-PROJECTS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Software Freedom Conservancy page describing member project services and membership overview.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software"
+      ],
+      "title": "Project Membership in Software Freedom Conservancy",
+      "type": "source",
+      "used_for": [
+        "`ORG-SOFTWARE-FREEDOM-CONSERVANCY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Software Freedom Law Center",
@@ -2730,6 +2994,35 @@
         "open-source-software"
       ],
       "title": "Software Freedom Law Center Team Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-SFLC`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Software Freedom Law Center",
+        "publication date": "Not dated",
+        "source type": "Official organizational page",
+        "url": "https://softwarefreedom.org/about/contact/"
+      },
+      "id": "SRC-SFLC-CONTACT",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/organizations/SRC-SFLC-CONTACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official SFLC contact page describing how FOSS projects can request legal advice and other contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Software Freedom Law Center Contact Page",
       "type": "source",
       "used_for": [
         "`ORG-SFLC`"
@@ -3073,6 +3366,65 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Code; page hosted by GovInfo",
+        "publication date": "Not dated",
+        "source type": "Statute",
+        "url": "https://www.govinfo.gov/link/uscode/17/107"
+      },
+      "id": "SRC-USC-17-107-GOVINFO",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-USC-17-107-GOVINFO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official GovInfo U.S. Code page for 17 U.S.C. section 107, the fair use limitation on exclusive copyright rights.",
+      "tags": [
+        "source",
+        "statute",
+        "copyright"
+      ],
+      "title": "17 U.S.C. \u00a7 107 (GovInfo)",
+      "type": "source",
+      "used_for": [
+        "`STAT-USC-107`",
+        "`TOPIC-FAIR-USE-VIDEO`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Code; page hosted by Cornell Legal Information Institute",
+        "publication date": "Not dated",
+        "source type": "Statute",
+        "url": "https://www.law.cornell.edu/uscode/text/17/107"
+      },
+      "id": "SRC-USC-17-107-LII",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/legal/SRC-USC-17-107-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-17-107-LII.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Cornell Legal Information Institute page for 17 U.S.C. section 107, the U.S. fair use statute.",
+      "tags": [
+        "source",
+        "statute",
+        "copyright"
+      ],
+      "title": "17 U.S.C. \u00a7 107",
+      "type": "source",
+      "used_for": [
+        "`STAT-USC-107`",
+        "`TOPIC-FAIR-USE-VIDEO`",
+        "`CASE-LENZ-V-UNIVERSAL`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "United States Code; page hosted by GovInfo",
         "source type": "Statute",
@@ -3098,6 +3450,7 @@
         "`STAT-DMCA-512`",
         "`TOPIC-SAFE-HARBOR`",
         "`TOPIC-INTERMEDIARY-LIABILITY`",
+        "`TOPIC-DMCA-TAKEDOWN-RESPONSE`",
         "Copyright safe harbor",
         "Intermediary liability"
       ]
@@ -3603,7 +3956,8 @@
       "type": "source",
       "used_for": [
         "`PERSON-RON-WYDEN`",
-        "`PERSON-RAND-PAUL`"
+        "`PERSON-RAND-PAUL`",
+        "`PERSON-CORY-BOOKER`"
       ]
     },
     {
@@ -3723,6 +4077,36 @@
       "title": "Phil Zimmermann Official Biography",
       "type": "source",
       "used_for": [
+        "`PERSON-PHIL-ZIMMERMANN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-19",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Privacy Information Center",
+        "publication date": "1996-01-11",
+        "source type": "Advocacy alert / secondary reporting",
+        "url": "https://archive.epic.org/alert/EPIC_Alert_3.01.html"
+      },
+      "id": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "EPIC Alert reporting that federal prosecutors closed the criminal investigation into Phil Zimmermann without filing charges over PGP distribution.",
+      "tags": [
+        "source",
+        "person",
+        "cryptography",
+        "digital-rights"
+      ],
+      "title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann",
+      "type": "source",
+      "used_for": [
+        "`PERSON-EBEN-MOGLEN`",
         "`PERSON-PHIL-ZIMMERMANN`"
       ]
     },

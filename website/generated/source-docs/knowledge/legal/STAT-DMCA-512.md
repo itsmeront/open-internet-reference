@@ -12,6 +12,8 @@ sources:
   - SRC-USC-17-512-LII
   - SRC-USC-17-512-GOVINFO
   - SRC-PERFECT10-V-CCBILL-JUSTIA
+  - SRC-COPYRIGHT-512-INDEX
+  - SRC-LENZ-V-UNIVERSAL-CA9
 relationships:
   - subject: STAT-DMCA-512
     predicate: cites
@@ -35,10 +37,20 @@ relationships:
       - SRC-USC-17-512-GOVINFO
   - subject: STAT-DMCA-512
     predicate: related_to
+    object: TOPIC-DMCA-TAKEDOWN-RESPONSE
+    sources:
+      - SRC-USC-17-512-LII
+  - subject: STAT-DMCA-512
+    predicate: related_to
+    object: CASE-LENZ-V-UNIVERSAL
+    sources:
+      - SRC-LENZ-V-UNIVERSAL-CA9
+  - subject: STAT-DMCA-512
+    predicate: related_to
     object: CASE-PERFECT10-V-CCBILL
     sources:
       - SRC-PERFECT10-V-CCBILL-JUSTIA
-last_verified: "2026-06-19"
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -52,10 +64,10 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 3
-    - **Relationships**: 5
+    - **Sources**: 5
+    - **Relationships**: 7
     - **Research debt items**: 2
-    - **Last verified**: 2026-06-19
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -88,6 +100,8 @@ Legal analysis has not yet been drafted. Future work should compare the Cornell 
 - `STAT-DMCA-512` cites [`SRC-USC-17-512-GOVINFO`](https://www.govinfo.gov/link/uscode/17/512).
 - `STAT-DMCA-512` related_to `TOPIC-SAFE-HARBOR`.
 - `STAT-DMCA-512` related_to `TOPIC-INTERMEDIARY-LIABILITY`.
+- `STAT-DMCA-512` related_to `TOPIC-DMCA-TAKEDOWN-RESPONSE`.
+- `STAT-DMCA-512` related_to `CASE-LENZ-V-UNIVERSAL`.
 - `STAT-DMCA-512` related_to `CASE-PERFECT10-V-CCBILL`.
 
 ## Sources

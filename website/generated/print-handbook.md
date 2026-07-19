@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-18</dd>
+        <dd>2026-07-19</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>88</dd>
+        <dd>92</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>121</dd>
+        <dd>137</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -92,6 +92,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
+- [Lenz v. Universal Music Corp.](#CASE-LENZ-V-UNIVERSAL) (`CASE-LENZ-V-UNIVERSAL`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
@@ -163,11 +164,14 @@ Knowledge records included in this handbook, grouped by type.
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
+- [17 U.S.C. § 107](#STAT-USC-107) (`STAT-USC-107`)
 
 ### Topic
 
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
+- [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
+- [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
 - [First Amendment](#TOPIC-FIRST-AMENDMENT) (`TOPIC-FIRST-AMENDMENT`)
 - [Fourth Amendment](#TOPIC-FOURTH-AMENDMENT) (`TOPIC-FOURTH-AMENDMENT`)
 - [Intermediary Liability](#TOPIC-INTERMEDIARY-LIABILITY) (`TOPIC-INTERMEDIARY-LIABILITY`)
@@ -178,6 +182,15 @@ Knowledge records included in this handbook, grouped by type.
 ## Glossary
 
 Quick reference for knowledge records included in this handbook.
+
+### 17 U.S.C. § 107 { #STAT-USC-107-glossary }
+
+- **Record ID:** `STAT-USC-107`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** copyright, digital-rights
+
+17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
 ### 17 U.S.C. § 512 { #STAT-DMCA-512-glossary }
 
@@ -377,6 +390,15 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
 
+### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
+
+- **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** copyright, safe-harbor, digital-rights, intermediary-liability
+
+U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
 - **Record ID:** `PROTOCOL-DNS`
@@ -421,6 +443,15 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 - **Tags:** attorney, digital-rights, privacy, first-amendment
 
 Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.
+
+### Fair Use and Video { #TOPIC-FAIR-USE-VIDEO-glossary }
+
+- **Record ID:** `TOPIC-FAIR-USE-VIDEO`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** copyright, digital-rights
+
+U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.
 
 ### Fenwick & West { #ORG-FENWICK-glossary }
 
@@ -628,6 +659,15 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 - **Tags:** attorney, privacy, digital-rights, internet-governance
 
 Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.
+
+### Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL-glossary }
+
+- **Record ID:** `CASE-LENZ-V-UNIVERSAL`
+- **Type:** case
+- **Status:** draft
+- **Tags:** copyright, digital-rights, safe-harbor
+
+Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
 
 ### Matt Blaze { #PERSON-MATT-BLAZE-glossary }
 
@@ -1034,7 +1074,7 @@ Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, sp
 
 - **Record ID:** `PERSON-EBEN-MOGLEN`
 - **Status:** draft
-- **Sources:** Eben Moglen Columbia Law School Faculty Page (`SRC-MOGLEN-COLUMBIA`), Eben Moglen Columbia Data Science Institute Profile (`SRC-MOGLEN-DSI`)
+- **Sources:** Eben Moglen Columbia Law School Faculty Page (`SRC-MOGLEN-COLUMBIA`), Eben Moglen Columbia Data Science Institute Profile (`SRC-MOGLEN-DSI`), EPIC Alert — Charges Dropped Against Phil Zimmermann (`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`)
 - **Tags:** attorney, open-source-software, digital-rights, cryptography
 
 Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.
@@ -1168,7 +1208,7 @@ Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999),
 
 - **Record ID:** `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`
 - **Status:** draft
-- **Sources:** Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`SRC-BROWN-V-EMA-LII`)
+- **Sources:** Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`SRC-BROWN-V-EMA-LII`), Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) (`SRC-BROWN-V-EMA-GOVINFO`)
 - **Tags:** first-amendment, digital-rights
 
 Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
@@ -1208,11 +1248,22 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 
 ---
 
+#### Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
+
+- **Record ID:** `CASE-LENZ-V-UNIVERSAL`
+- **Status:** draft
+- **Sources:** Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`SRC-LENZ-V-UNIVERSAL-CA9`), 17 U.S.C. § 107 (`SRC-USC-17-107-LII`), EFF Legal Guide for Bloggers — Intellectual Property (`SRC-EFF-BLOGGERS-IP`)
+- **Tags:** copyright, digital-rights, safe-harbor
+
+Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+---
+
 #### Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
 
 - **Record ID:** `CASE-PACKINGHAM-V-NC`
 - **Status:** draft
-- **Sources:** Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII) (`SRC-PACKINGHAM-LII`), Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) (`SRC-PACKINGHAM-JUSTIA`)
+- **Sources:** Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII) (`SRC-PACKINGHAM-LII`), Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) (`SRC-PACKINGHAM-JUSTIA`), Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo) (`SRC-PACKINGHAM-GOVINFO`)
 - **Tags:** first-amendment, internet-governance, digital-rights
 
 Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.
@@ -1434,7 +1485,7 @@ The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provid
 
 - **Record ID:** `ORG-SFLC`
 - **Status:** draft
-- **Sources:** Software Freedom Law Center Team Page (`SRC-SFLC-ABOUT`)
+- **Sources:** Software Freedom Law Center Team Page (`SRC-SFLC-ABOUT`), Software Freedom Law Center Contact Page (`SRC-SFLC-CONTACT`)
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
@@ -1456,7 +1507,7 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 
 - **Record ID:** `ORG-SOFTWARE-FREEDOM-CONSERVANCY`
 - **Status:** draft
-- **Sources:** Software Freedom Conservancy About Page (`SRC-SFC-ABOUT`), Software Freedom Conservancy Home Page (`SRC-SFC-HOME`)
+- **Sources:** Software Freedom Conservancy About Page (`SRC-SFC-ABOUT`), Software Freedom Conservancy Home Page (`SRC-SFC-HOME`), Applying to Join Conservancy as a Member Project (`SRC-SFC-APPLY`), Project Membership in Software Freedom Conservancy (`SRC-SFC-PROJECTS`)
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
@@ -1524,7 +1575,7 @@ Bruce Schneier is an internationally renowned security technologist, cryptograph
 
 - **Record ID:** `PERSON-CORY-BOOKER`
 - **Status:** draft
-- **Sources:** Booker Announces Introduction of Bill to Ban Surveillance Advertising (`SRC-BOOKER-SURVEILLANCE-ADVERTISING`), Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`)
+- **Sources:** Booker Announces Introduction of Bill to Ban Surveillance Advertising (`SRC-BOOKER-SURVEILLANCE-ADVERTISING`), Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`), S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`)
 - **Tags:** person, internet-governance, digital-rights, privacy, surveillance
 
 Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.
@@ -1634,7 +1685,7 @@ Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt
 
 - **Record ID:** `PERSON-MIKE-LEE`
 - **Status:** draft
-- **Sources:** Encryption backdoors aren't worth the price (`SRC-LEE-ENCRYPTION-BACKDOORS`), Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans (`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`)
+- **Sources:** Encryption backdoors aren't worth the price (`SRC-LEE-ENCRYPTION-BACKDOORS`), Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans (`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`), Mike Lee Official Senate Biography (`SRC-LEE-SENATE-BIO`)
 - **Tags:** person, internet-governance, digital-rights, privacy, surveillance, fourth-amendment
 
 Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
@@ -1678,7 +1729,7 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 
 - **Record ID:** `PERSON-RAND-PAUL`
 - **Status:** draft
-- **Sources:** Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights (`SRC-PAUL-FOURTH-AMENDMENT`), Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe (`SRC-PAUL-FISA`)
+- **Sources:** Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights (`SRC-PAUL-FOURTH-AMENDMENT`), Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe (`SRC-PAUL-FISA`), Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`SRC-LOFGREN-AARONS-LAW`), Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`), Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program (`SRC-WYDEN-USA-RIGHTS-ACT`), Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms (`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`)
 - **Tags:** person, privacy, fourth-amendment, surveillance, digital-rights
 
 Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
@@ -1722,7 +1773,7 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 
 - **Record ID:** `PERSON-RON-WYDEN`
 - **Status:** draft
-- **Sources:** Wyden Remarks at Section 230 Briefing Hosted by EFF (`SRC-WYDEN-SECTION-230`), Wyden Introduces Reforms to the Computer Fraud and Abuse Act (`SRC-WYDEN-AARONS-LAW`)
+- **Sources:** Wyden Remarks at Section 230 Briefing Hosted by EFF (`SRC-WYDEN-SECTION-230`), Wyden Introduces Reforms to the Computer Fraud and Abuse Act (`SRC-WYDEN-AARONS-LAW`), Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`), Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program (`SRC-WYDEN-USA-RIGHTS-ACT`), Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe (`SRC-WYDEN-EARN-IT`)
 - **Tags:** person, internet-governance, digital-rights, privacy, first-amendment
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
@@ -1847,7 +1898,7 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 
 - **Record ID:** `STAT-DMCA-512`
 - **Status:** draft
-- **Sources:** 17 U.S.C. § 512 (`SRC-USC-17-512-LII`), 17 U.S.C. § 512 (GovInfo) (`SRC-USC-17-512-GOVINFO`), Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) (`SRC-PERFECT10-V-CCBILL-JUSTIA`)
+- **Sources:** 17 U.S.C. § 512 (`SRC-USC-17-512-LII`), 17 U.S.C. § 512 (GovInfo) (`SRC-USC-17-512-GOVINFO`), Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) (`SRC-PERFECT10-V-CCBILL-JUSTIA`), U.S. Copyright Office Section 512 Resources (`SRC-COPYRIGHT-512-INDEX`), Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`SRC-LENZ-V-UNIVERSAL-CA9`)
 - **Tags:** copyright, safe-harbor, intermediary-liability
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
@@ -1862,6 +1913,17 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 - **Tags:** internet-governance, intermediary-liability, digital-rights, first-amendment
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
+
+---
+
+#### 17 U.S.C. § 107 { #STAT-USC-107 }
+
+- **Record ID:** `STAT-USC-107`
+- **Status:** draft
+- **Sources:** 17 U.S.C. § 107 (`SRC-USC-17-107-LII`), 17 U.S.C. § 107 (GovInfo) (`SRC-USC-17-107-GOVINFO`), EFF Legal Guide for Bloggers — Intellectual Property (`SRC-EFF-BLOGGERS-IP`)
+- **Tags:** copyright, digital-rights
+
+17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
 ---
 
@@ -1886,6 +1948,28 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 - **Tags:** computer-crime, technology-law, digital-rights
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+---
+
+#### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
+
+- **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
+- **Status:** draft
+- **Sources:** 17 U.S.C. § 512 (`SRC-USC-17-512-LII`), 17 U.S.C. § 512 (GovInfo) (`SRC-USC-17-512-GOVINFO`), EFF Legal Guide for Bloggers — Intellectual Property (`SRC-EFF-BLOGGERS-IP`), Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`SRC-LENZ-V-UNIVERSAL-CA9`), U.S. Copyright Office Section 512 Resources (`SRC-COPYRIGHT-512-INDEX`)
+- **Tags:** copyright, safe-harbor, digital-rights, intermediary-liability
+
+U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+---
+
+#### Fair Use and Video { #TOPIC-FAIR-USE-VIDEO }
+
+- **Record ID:** `TOPIC-FAIR-USE-VIDEO`
+- **Status:** draft
+- **Sources:** 17 U.S.C. § 107 (`SRC-USC-17-107-LII`), 17 U.S.C. § 107 (GovInfo) (`SRC-USC-17-107-GOVINFO`), EFF Legal Guide for Bloggers — Intellectual Property (`SRC-EFF-BLOGGERS-IP`), Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`SRC-LENZ-V-UNIVERSAL-CA9`)
+- **Tags:** copyright, digital-rights
+
+U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.
 
 ---
 
@@ -2067,6 +2151,15 @@ Microsoft Research profile and institutional announcements for danah boyd descri
 
 ---
 
+### Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)
+
+- **Source ID:** `SRC-BROWN-V-EMA-GOVINFO`
+- **Status:** verified
+
+Official GovInfo United States Reports record for Brown v. Entertainment Merchants Assn.
+
+---
+
 ### Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)
 
 - **Source ID:** `SRC-BROWN-V-EMA-LII`
@@ -2193,6 +2286,15 @@ Official Cooley LLP practice page describing the firm's technology industry repr
 
 ---
 
+### U.S. Copyright Office Section 512 Resources
+
+- **Source ID:** `SRC-COPYRIGHT-512-INDEX`
+- **Status:** verified
+
+U.S. Copyright Office index page for Section 512 of the Copyright Act, including safe harbor and notice-and-takedown guidance.
+
+---
+
 ### Universal City Studios v. Corley Opinion Text (Open Casebook)
 
 - **Source ID:** `SRC-CORLEY-LII`
@@ -2217,6 +2319,15 @@ Stanford Center for International Security and Cooperation profile for Whitfield
 - **Status:** verified
 
 Official EFF about page describing the organization's mission, history, and nonprofit status.
+
+---
+
+### EFF Legal Guide for Bloggers — Intellectual Property
+
+- **Source ID:** `SRC-EFF-BLOGGERS-IP`
+- **Status:** verified
+
+Electronic Frontier Foundation guide explaining fair use, DMCA takedown and counter-notice procedures, and related intellectual property questions for online creators.
 
 ---
 
@@ -2271,6 +2382,15 @@ Official Fenwick & West page documenting the firm's history and pioneering role 
 - **Status:** draft
 
 Official Fenwick & West practice page describing the Technology Transactions group.
+
+---
+
+### S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)
+
+- **Source ID:** `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`
+- **Status:** verified
+
+Introduced Senate bill text for the Fourth Amendment Is Not For Sale Act, listing original sponsors and co-sponsors.
 
 ---
 
@@ -2454,6 +2574,24 @@ Press release from Senator Mike Lee's office announcing the bipartisan Governmen
 
 ---
 
+### Mike Lee Official Senate Biography
+
+- **Source ID:** `SRC-LEE-SENATE-BIO`
+- **Status:** verified
+
+Official U.S. Senate biography page for Senator Mike Lee of Utah, including committee assignments and professional background.
+
+---
+
+### Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)
+
+- **Source ID:** `SRC-LENZ-V-UNIVERSAL-CA9`
+- **Status:** verified
+
+Ninth Circuit opinion holding that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+---
+
 ### Lawrence Lessig Harvard Law School Faculty Page
 
 - **Source ID:** `SRC-LESSIG-HARVARD`
@@ -2541,6 +2679,15 @@ Official about page of the Open Source Initiative describing its mission and glo
 - **Status:** verified
 
 Official history page of the Open Source Initiative documenting its founding and development.
+
+---
+
+### Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)
+
+- **Source ID:** `SRC-PACKINGHAM-GOVINFO`
+- **Status:** verified
+
+Official GovInfo United States Reports record for Packingham v. North Carolina.
 
 ---
 
@@ -2751,6 +2898,15 @@ Official about page of Software Freedom Conservancy describing its mission and a
 
 ---
 
+### Applying to Join Conservancy as a Member Project
+
+- **Source ID:** `SRC-SFC-APPLY`
+- **Status:** verified
+
+Official Software Freedom Conservancy page describing how FOSS projects apply for fiscal sponsorship membership.
+
+---
+
 ### Software Freedom Conservancy Home Page
 
 - **Source ID:** `SRC-SFC-HOME`
@@ -2760,12 +2916,30 @@ Official home page of Software Freedom Conservancy with mission statement.
 
 ---
 
+### Project Membership in Software Freedom Conservancy
+
+- **Source ID:** `SRC-SFC-PROJECTS`
+- **Status:** verified
+
+Official Software Freedom Conservancy page describing member project services and membership overview.
+
+---
+
 ### Software Freedom Law Center Team Page
 
 - **Source ID:** `SRC-SFLC-ABOUT`
 - **Status:** verified
 
 Official team page of the Software Freedom Law Center describing its staff and mission.
+
+---
+
+### Software Freedom Law Center Contact Page
+
+- **Source ID:** `SRC-SFLC-CONTACT`
+- **Status:** verified
+
+Official SFLC contact page describing how FOSS projects can request legal advice and other contact paths.
 
 ---
 
@@ -2865,6 +3039,24 @@ Cornell Legal Information Institute page for the First Amendment to the U.S. Con
 - **Status:** verified
 
 Cornell Legal Information Institute page for the Fourth Amendment to the U.S. Constitution.
+
+---
+
+### 17 U.S.C. § 107 (GovInfo)
+
+- **Source ID:** `SRC-USC-17-107-GOVINFO`
+- **Status:** verified
+
+Official GovInfo U.S. Code page for 17 U.S.C. section 107, the fair use limitation on exclusive copyright rights.
+
+---
+
+### 17 U.S.C. § 107
+
+- **Source ID:** `SRC-USC-17-107-LII`
+- **Status:** verified
+
+Cornell Legal Information Institute page for 17 U.S.C. section 107, the U.S. fair use statute.
 
 ---
 
@@ -3012,12 +3204,30 @@ Press release from Senator Ron Wyden's office announcing the introduction of Aar
 
 ---
 
+### Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe
+
+- **Source ID:** `SRC-WYDEN-EARN-IT`
+- **Status:** draft
+
+Press release from Senator Ron Wyden's office opposing the EARN IT Act and warning that it would undermine strong encryption.
+
+---
+
 ### Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act
 
 - **Source ID:** `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`
 - **Status:** draft
 
 Press release from Senator Ron Wyden's office announcing the reintroduction of the Fourth Amendment Is Not For Sale Act with Senator Rand Paul and bipartisan co-sponsors.
+
+---
+
+### Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms
+
+- **Source ID:** `SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`
+- **Status:** draft
+
+Press release from Senator Ron Wyden's office describing joint surveillance reform amendments with Senator Rand Paul, including a prohibition on requiring companies to weaken encryption.
 
 ---
 
@@ -3030,12 +3240,30 @@ Press release from Senator Ron Wyden's office regarding his remarks at an EFF-ho
 
 ---
 
+### Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program
+
+- **Source ID:** `SRC-WYDEN-USA-RIGHTS-ACT`
+- **Status:** draft
+
+Press release from Senator Ron Wyden's office announcing the introduction of the USA RIGHTS Act to reform Section 702 surveillance with civil liberties protections.
+
+---
+
 ### Phil Zimmermann Official Biography
 
 - **Source ID:** `SRC-ZIMMERMANN-BIO`
 - **Status:** verified
 
 Official biography page for Phil Zimmermann describing PGP creation, export investigation, and cryptography awards.
+
+---
+
+### EPIC Alert — Charges Dropped Against Phil Zimmermann
+
+- **Source ID:** `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`
+- **Status:** verified
+
+EPIC Alert reporting that federal prosecutors closed the criminal investigation into Phil Zimmermann without filing charges over PGP distribution.
 
 ---
 

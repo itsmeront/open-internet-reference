@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-18 | **Records:** 88 | **Sources referenced:** 121
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-19 | **Records:** 92 | **Sources referenced:** 137
 
 <div class="oir-handbook" markdown="1">
 
@@ -59,6 +59,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
+- [Lenz v. Universal Music Corp.](#CASE-LENZ-V-UNIVERSAL) (`CASE-LENZ-V-UNIVERSAL`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
@@ -130,11 +131,14 @@ Knowledge records included in this handbook, grouped by type.
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
+- [17 U.S.C. § 107](#STAT-USC-107) (`STAT-USC-107`)
 
 ### Topic
 
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
+- [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
+- [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
 - [First Amendment](#TOPIC-FIRST-AMENDMENT) (`TOPIC-FIRST-AMENDMENT`)
 - [Fourth Amendment](#TOPIC-FOURTH-AMENDMENT) (`TOPIC-FOURTH-AMENDMENT`)
 - [Intermediary Liability](#TOPIC-INTERMEDIARY-LIABILITY) (`TOPIC-INTERMEDIARY-LIABILITY`)
@@ -145,6 +149,15 @@ Knowledge records included in this handbook, grouped by type.
 ## Glossary
 
 Quick reference for knowledge records included in this handbook.
+
+### 17 U.S.C. § 107 { #STAT-USC-107-glossary }
+
+- **Record ID:** `STAT-USC-107`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** copyright, digital-rights
+
+17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
 ### 17 U.S.C. § 512 { #STAT-DMCA-512-glossary }
 
@@ -344,6 +357,15 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
 
+### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
+
+- **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** copyright, safe-harbor, digital-rights, intermediary-liability
+
+U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
 - **Record ID:** `PROTOCOL-DNS`
@@ -388,6 +410,15 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 - **Tags:** attorney, digital-rights, privacy, first-amendment
 
 Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.
+
+### Fair Use and Video { #TOPIC-FAIR-USE-VIDEO-glossary }
+
+- **Record ID:** `TOPIC-FAIR-USE-VIDEO`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** copyright, digital-rights
+
+U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.
 
 ### Fenwick & West { #ORG-FENWICK-glossary }
 
@@ -595,6 +626,15 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 - **Tags:** attorney, privacy, digital-rights, internet-governance
 
 Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.
+
+### Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL-glossary }
+
+- **Record ID:** `CASE-LENZ-V-UNIVERSAL`
+- **Type:** case
+- **Status:** draft
+- **Tags:** copyright, digital-rights, safe-harbor
+
+Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
 
 ### Matt Blaze { #PERSON-MATT-BLAZE-glossary }
 
@@ -980,7 +1020,7 @@ Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, sp
 #### [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): Eben Moglen { #PERSON-EBEN-MOGLEN }
 
 - Status: `draft`
-- Sources: [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md), [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+- Sources: [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md), [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md), [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 Eben Moglen is a professor of law at Columbia Law School and founding director of the Software Freedom Law Center, who served as general counsel to the Free Software Foundation and was heavily involved in drafting the GNU General Public License version 3.
 
@@ -1066,7 +1106,7 @@ Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999),
 #### [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
 
 - Status: `draft`
-- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+- Sources: [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md), [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 
 Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.
 
@@ -1091,10 +1131,17 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 
 Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.
 
+#### [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
+
+- Status: `draft`
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md), [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
 #### [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md): Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
 
 - Status: `draft`
-- Sources: [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md), [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
+- Sources: [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md), [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md), [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 
 Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.
 
@@ -1236,7 +1283,7 @@ The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provid
 #### [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): Software Freedom Law Center { #ORG-SFLC }
 
 - Status: `draft`
-- Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md), [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
 
@@ -1250,7 +1297,7 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 #### [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): Software Freedom Conservancy { #ORG-SOFTWARE-FREEDOM-CONSERVANCY }
 
 - Status: `draft`
-- Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md), [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md), [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
 
@@ -1294,7 +1341,7 @@ Bruce Schneier is an internationally renowned security technologist, cryptograph
 #### [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): Cory Booker { #PERSON-CORY-BOOKER }
 
 - Status: `draft`
-- Sources: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- Sources: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md), [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 
 Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.
 
@@ -1364,7 +1411,7 @@ Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt
 #### [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): Mike Lee { #PERSON-MIKE-LEE }
 
 - Status: `draft`
-- Sources: [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md), [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+- Sources: [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md), [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md), [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
 
 Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
 
@@ -1392,7 +1439,7 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 #### [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): Rand Paul { #PERSON-RAND-PAUL }
 
 - Status: `draft`
-- Sources: [`SRC-PAUL-FOURTH-AMENDMENT`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md), [`SRC-PAUL-FISA`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
+- Sources: [`SRC-PAUL-FOURTH-AMENDMENT`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md), [`SRC-PAUL-FISA`](source-docs/bibliography/people/SRC-PAUL-FISA.md), [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md), [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md), [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 
 Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
 
@@ -1420,7 +1467,7 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 #### [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): Ron Wyden { #PERSON-RON-WYDEN }
 
 - Status: `draft`
-- Sources: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md), [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
+- Sources: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md), [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md), [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md), [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
 
@@ -1501,7 +1548,7 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 #### [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): 17 U.S.C. § 512 { #STAT-DMCA-512 }
 
 - Status: `draft`
-- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md), [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md), [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md), [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md), [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
 
@@ -1511,6 +1558,13 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 - Sources: [`SRC-SECTION-230-LII`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md), [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
+
+#### [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): 17 U.S.C. § 107 { #STAT-USC-107 }
+
+- Status: `draft`
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md), [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md), [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
 ### Topic
 
@@ -1527,6 +1581,20 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 - Sources: [`SRC-USC-18-1030-LII`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md), [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md), [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+#### [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
+
+- Status: `draft`
+- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md), [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md), [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md), [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
+
+U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+#### [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): Fair Use and Video { #TOPIC-FAIR-USE-VIDEO }
+
+- Status: `draft`
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md), [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md), [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md), [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+U.S. fair use law as it applies to video that incorporates copyrighted music, footage, clips, or other third-party material, documented from statute and cited sources.
 
 #### [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): First Amendment { #TOPIC-FIRST-AMENDMENT }
 
@@ -1586,6 +1654,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md): Matt Blaze Georgetown Faculty Profile (`verified`)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising (`draft`)
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
+- [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) (`verified`)
 - [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`verified`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
@@ -1600,15 +1669,18 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
 - [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md): FOSS Force - Cohn Returns to the Courtroom (`verified`)
 - [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md): Cooley Technology Industry Practice Page (`draft`)
+- [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md): U.S. Copyright Office Section 512 Resources (`verified`)
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
 - [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md): Whitfield Diffie Stanford CISAC Profile (`verified`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
+- [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md): EFF Legal Guide for Bloggers — Intellectual Property (`verified`)
 - [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page (`verified`)
 - [`SRC-EPIC-ABOUT`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md): EPIC About Page (`verified`)
 - [`SRC-EPIC-CONTACT`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md): EPIC Contact Page (`verified`)
 - [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md): Katie Fallow Knight Institute Biography (`verified`)
 - [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md): Fenwick & West Firm History Page (`draft`)
 - [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md): Fenwick Technology Transactions Practice Page (`draft`)
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`verified`)
 - [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page (`verified`)
 - [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md): Free Software Foundation Press Information (`verified`)
 - [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`draft`)
@@ -1629,6 +1701,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md): Knight First Amendment Institute Contact and FAQ Page (`verified`)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md): Encryption backdoors aren't worth the price (`draft`)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md): Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans (`draft`)
+- [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md): Mike Lee Official Senate Biography (`verified`)
+- [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md): Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`verified`)
 - [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page (`verified`)
 - [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`draft`)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security (`draft`)
@@ -1639,6 +1713,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ORIN-KERR-GWU`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md): Orin Kerr George Washington University Law Faculty Page (`verified`)
 - [`SRC-OSI-ABOUT`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md): Open Source Initiative About Page (`verified`)
 - [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md): Open Source Initiative History Page (`verified`)
+- [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo) (`verified`)
 - [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia) (`verified`)
 - [`SRC-PACKINGHAM-LII`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII) (`verified`)
 - [`SRC-PAUL-FISA`](source-docs/bibliography/people/SRC-PAUL-FISA.md): Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe (`draft`)
@@ -1662,8 +1737,11 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md): EFF Section 230 Page (`verified`)
 - [`SRC-SECTION-230-LII`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md): 47 U.S.C. § 230 (Cornell LII) (`verified`)
 - [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md): Software Freedom Conservancy About Page (`verified`)
+- [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md): Applying to Join Conservancy as a Member Project (`verified`)
 - [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md): Software Freedom Conservancy Home Page (`verified`)
+- [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md): Project Membership in Software Freedom Conservancy (`verified`)
 - [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md): Software Freedom Law Center Team Page (`verified`)
+- [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md): Software Freedom Law Center Contact Page (`verified`)
 - [`SRC-SIGNAL-DOCS`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md): Signal Protocol Documentation (`verified`)
 - [`SRC-SIGNAL-DOUBLE-RATCHET`](source-docs/bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md): The Double Ratchet Algorithm (`verified`)
 - [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md): Signal Official Website (`verified`)
@@ -1675,6 +1753,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md): Tor Project History Page (`verified`)
 - [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII) (`verified`)
 - [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md): U.S. Constitution Fourth Amendment (Cornell LII) (`verified`)
+- [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md): 17 U.S.C. § 107 (GovInfo) (`verified`)
+- [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md): 17 U.S.C. § 107 (`verified`)
 - [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md): 17 U.S.C. § 512 (GovInfo) (`verified`)
 - [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md): 17 U.S.C. § 512 (`verified`)
 - [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md): 18 U.S.C. § 1030 (GovInfo) (`verified`)
@@ -1691,8 +1771,12 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-WILSON-SONSINI-SOFTWARE`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md): Wilson Sonsini Software Industry Practice Page (`draft`)
 - [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md): Ben Wizner ACLU Staff Biography (`verified`)
 - [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md): Wyden Introduces Reforms to the Computer Fraud and Abuse Act (`draft`)
+- [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md): Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe (`draft`)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act (`draft`)
+- [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md): Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms (`draft`)
 - [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md): Wyden Remarks at Section 230 Briefing Hosted by EFF (`draft`)
+- [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md): Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program (`draft`)
 - [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography (`verified`)
+- [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md): EPIC Alert — Charges Dropped Against Phil Zimmermann (`verified`)
 - [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile (`verified`)
 </div>

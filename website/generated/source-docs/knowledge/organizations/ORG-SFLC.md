@@ -12,6 +12,7 @@ tags:
   - outreach
 sources:
   - SRC-SFLC-ABOUT
+  - SRC-SFLC-CONTACT
 relationships:
   - subject: ORG-SFLC
     predicate: cites
@@ -19,11 +20,22 @@ relationships:
     sources:
       - SRC-SFLC-ABOUT
   - subject: ORG-SFLC
+    predicate: cites
+    object: SRC-SFLC-CONTACT
+    sources:
+      - SRC-SFLC-CONTACT
+  - subject: ORG-SFLC
     predicate: related_to
     object: ORG-FSF
     sources:
       - SRC-SFLC-ABOUT
-last_verified: "2026-06-25"
+  - subject: ORG-SFLC
+    predicate: related_to
+    object: ORG-SOFTWARE-FREEDOM-CONSERVANCY
+    sources:
+      - SRC-SFLC-ABOUT
+      - SRC-SFC-ABOUT
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -37,10 +49,10 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 1
-    - **Relationships**: 2
-    - **Research debt items**: 6
-    - **Last verified**: 2026-06-25
+    - **Sources**: 2
+    - **Relationships**: 4
+    - **Research debt items**: 2
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -57,14 +69,19 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 - SFLC helps free software project leaders organize and manage their work in ways that anticipate and avoid potential legal pitfalls.[^1]
 - Eben Moglen, SFLC's founding director, is a professor at Columbia Law School.[^1]
 - Moglen served as general counsel to the Free Software Foundation since 1994 and was involved in drafting GPL version 3.[^1]
+- FOSS projects seeking legal advice should email `help@softwarefreedom.org`.[^2]
+- SFLC states it cannot give legal advice over IRC and directs projects needing help to email `help@softwarefreedom.org`.[^2]
 
 
-[^1]: [`SRC-SFLC-ABOUT`](../../../bibliography.md#SRC-SFLC-ABOUT) — Software Freedom Law Center Team Page. Self-reported profile; corroboration pending.
+[^1]: [`SRC-SFLC-ABOUT`](../../../bibliography.md#SRC-SFLC-ABOUT) — Software Freedom Law Center Team Page. Official organizational record.
+
+[^2]: [`SRC-SFLC-CONTACT`](../../../bibliography.md#SRC-SFLC-CONTACT) — Software Freedom Law Center Contact Page. Official organizational record.
 
 ## Public Contact Information
 
 - Website: https://softwarefreedom.org/
 - Team: https://softwarefreedom.org/about/team/
+- Legal advice: help@softwarefreedom.org
 
 ## Relevance to Open Source and Software Companies
 
@@ -73,17 +90,16 @@ SFLC provides direct legal services to open source projects at no cost. They hel
 ## Relationships
 
 - `ORG-SFLC` cites [`SRC-SFLC-ABOUT`](../../../bibliography.md#SRC-SFLC-ABOUT).
+- `ORG-SFLC` cites [`SRC-SFLC-CONTACT`](../../../bibliography.md#SRC-SFLC-CONTACT).
 - `ORG-SFLC` related_to `ORG-FSF`.
+- `ORG-SFLC` related_to `ORG-SOFTWARE-FREEDOM-CONSERVANCY`.
 
 ## Sources
 
 1. [`SRC-SFLC-ABOUT`](../../../bibliography.md#SRC-SFLC-ABOUT): Software Freedom Law Center Team Page.
+2. [`SRC-SFLC-CONTACT`](../../../bibliography.md#SRC-SFLC-CONTACT): Software Freedom Law Center Contact Page.
 
 ## Research Debt
 
-- Add information about specific legal services offered.
-- Document notable cases handled by SFLC.
-- Add detail on how projects can request legal assistance.
-- Note relationship and distinctions between SFLC and Software Freedom Conservancy.
-- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
-- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+- Document notable cases handled by SFLC with docket or case-page sources.
+- Add independent comparison of SFLC legal services versus Conservancy fiscal sponsorship using official materials from both organizations.

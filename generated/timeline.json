@@ -9,6 +9,13 @@
       "record_title": "RFC 1034: Domain Names - Concepts and Facilities"
     },
     {
+      "date": "1996-01-11",
+      "description": "Publication date for EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann.",
+      "event_type": "publication",
+      "record_id": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+      "record_title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann"
+    },
+    {
       "date": "1997",
       "description": "Publication date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).",
       "event_type": "publication",
@@ -73,6 +80,13 @@
     },
     {
       "date": "2011-06-27",
+      "description": "Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-BROWN-V-EMA-GOVINFO",
+      "record_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)"
+    },
+    {
+      "date": "2011-06-27",
       "description": "Publication date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII).",
       "event_type": "publication",
       "record_id": "SRC-BROWN-V-EMA-LII",
@@ -84,6 +98,13 @@
       "event_type": "publication",
       "record_id": "SRC-BERNSTEIN-EFF-25",
       "record_title": "EFF at 25 - Remembering the Case that Established Code as Speech"
+    },
+    {
+      "date": "2015-09-14",
+      "description": "Publication date for Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015).",
+      "event_type": "publication",
+      "record_id": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "record_title": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)"
     },
     {
       "date": "2016",
@@ -112,6 +133,13 @@
       "event_type": "publication",
       "record_id": "SRC-SIGNAL-X3DH",
       "record_title": "The X3DH Key Agreement Protocol"
+    },
+    {
+      "date": "2017-06-19",
+      "description": "Publication date for Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-PACKINGHAM-GOVINFO",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)"
     },
     {
       "date": "2017-06-19",
@@ -154,6 +182,13 @@
       "event_type": "publication",
       "record_id": "SRC-BLAZE-GEORGETOWN",
       "record_title": "Matt Blaze Georgetown Faculty Profile"
+    },
+    {
+      "date": "2021",
+      "description": "Publication date for S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress).",
+      "event_type": "publication",
+      "record_id": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+      "record_title": "S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)"
     },
     {
       "date": "2021",
@@ -360,13 +395,6 @@
     },
     {
       "date": "2026-06-19",
-      "description": "Last verified date for American Civil Liberties Union.",
-      "event_type": "verification",
-      "record_id": "ORG-ACLU",
-      "record_title": "American Civil Liberties Union"
-    },
-    {
-      "date": "2026-06-19",
       "description": "Last verified date for Electronic Frontier Foundation.",
       "event_type": "verification",
       "record_id": "ORG-EFF",
@@ -528,13 +556,6 @@
     },
     {
       "date": "2026-06-19",
-      "description": "Last verified date for 17 U.S.C. \u00a7 512.",
-      "event_type": "verification",
-      "record_id": "STAT-DMCA-512",
-      "record_title": "17 U.S.C. \u00a7 512"
-    },
-    {
-      "date": "2026-06-19",
       "description": "Last verified date for Code as Speech.",
       "event_type": "verification",
       "record_id": "TOPIC-CODE-AS-SPEECH",
@@ -598,13 +619,6 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Packingham v. North Carolina.",
-      "event_type": "verification",
-      "record_id": "CASE-PACKINGHAM-V-NC",
-      "record_title": "Packingham v. North Carolina"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Universal City Studios v. Corley.",
       "event_type": "verification",
       "record_id": "CASE-UNIVERSAL-V-CORLEY",
@@ -612,24 +626,10 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Center for Democracy and Technology.",
-      "event_type": "verification",
-      "record_id": "ORG-CDT",
-      "record_title": "Center for Democracy and Technology"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Cooley.",
       "event_type": "verification",
       "record_id": "ORG-COOLEY",
       "record_title": "Cooley"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Fenwick & West.",
-      "event_type": "verification",
-      "record_id": "ORG-FENWICK",
-      "record_title": "Fenwick & West"
     },
     {
       "date": "2026-06-25",
@@ -647,13 +647,6 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Knight First Amendment Institute.",
-      "event_type": "verification",
-      "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
-      "record_title": "Knight First Amendment Institute"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Open Source Initiative.",
       "event_type": "verification",
       "record_id": "ORG-OSI",
@@ -665,20 +658,6 @@
       "event_type": "verification",
       "record_id": "ORG-PERKINS-COIE",
       "record_title": "Perkins Coie"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Software Freedom Law Center.",
-      "event_type": "verification",
-      "record_id": "ORG-SFLC",
-      "record_title": "Software Freedom Law Center"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Software Freedom Conservancy.",
-      "event_type": "verification",
-      "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
-      "record_title": "Software Freedom Conservancy"
     },
     {
       "date": "2026-06-25",
@@ -696,31 +675,10 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Cindy Cohn.",
-      "event_type": "verification",
-      "record_id": "PERSON-CINDY-COHN",
-      "record_title": "Cindy Cohn"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Cory Booker.",
-      "event_type": "verification",
-      "record_id": "PERSON-CORY-BOOKER",
-      "record_title": "Cory Booker"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Corynne McSherry.",
       "event_type": "verification",
       "record_id": "PERSON-CORYNNE-MCSHERRY",
       "record_title": "Corynne McSherry"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Eben Moglen.",
-      "event_type": "verification",
-      "record_id": "PERSON-EBEN-MOGLEN",
-      "record_title": "Eben Moglen"
     },
     {
       "date": "2026-06-25",
@@ -759,13 +717,6 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Mike Lee.",
-      "event_type": "verification",
-      "record_id": "PERSON-MIKE-LEE",
-      "record_title": "Mike Lee"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Mitch Stoltz.",
       "event_type": "verification",
       "record_id": "PERSON-MITCH-STOLTZ",
@@ -773,24 +724,10 @@
     },
     {
       "date": "2026-06-25",
-      "description": "Last verified date for Rand Paul.",
-      "event_type": "verification",
-      "record_id": "PERSON-RAND-PAUL",
-      "record_title": "Rand Paul"
-    },
-    {
-      "date": "2026-06-25",
       "description": "Last verified date for Ro Khanna.",
       "event_type": "verification",
       "record_id": "PERSON-RO-KHANNA",
       "record_title": "Ro Khanna"
-    },
-    {
-      "date": "2026-06-25",
-      "description": "Last verified date for Ron Wyden.",
-      "event_type": "verification",
-      "record_id": "PERSON-RON-WYDEN",
-      "record_title": "Ron Wyden"
     },
     {
       "date": "2026-06-25",
@@ -1232,20 +1169,6 @@
       "event_type": "verification",
       "record_id": "STAT-SECTION-230",
       "record_title": "Section 230 (47 U.S.C. \u00a7 230)"
-    },
-    {
-      "date": "2026-07-04",
-      "description": "Last verified date for Brown v. Entertainment Merchants Assn..",
-      "event_type": "verification",
-      "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
-      "record_title": "Brown v. Entertainment Merchants Assn."
-    },
-    {
-      "date": "2026-07-04",
-      "description": "Last verified date for Electronic Privacy Information Center.",
-      "event_type": "verification",
-      "record_id": "ORG-EPIC",
-      "record_title": "Electronic Privacy Information Center"
     },
     {
       "date": "2026-07-04",
@@ -1724,6 +1647,237 @@
       "record_title": "First Amendment"
     },
     {
+      "date": "2026-07-19",
+      "description": "Last verified date for Brown v. Entertainment Merchants Assn..",
+      "event_type": "verification",
+      "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "record_title": "Brown v. Entertainment Merchants Assn."
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Lenz v. Universal Music Corp..",
+      "event_type": "verification",
+      "record_id": "CASE-LENZ-V-UNIVERSAL",
+      "record_title": "Lenz v. Universal Music Corp."
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Packingham v. North Carolina.",
+      "event_type": "verification",
+      "record_id": "CASE-PACKINGHAM-V-NC",
+      "record_title": "Packingham v. North Carolina"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for American Civil Liberties Union.",
+      "event_type": "verification",
+      "record_id": "ORG-ACLU",
+      "record_title": "American Civil Liberties Union"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Center for Democracy and Technology.",
+      "event_type": "verification",
+      "record_id": "ORG-CDT",
+      "record_title": "Center for Democracy and Technology"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Electronic Privacy Information Center.",
+      "event_type": "verification",
+      "record_id": "ORG-EPIC",
+      "record_title": "Electronic Privacy Information Center"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Fenwick & West.",
+      "event_type": "verification",
+      "record_id": "ORG-FENWICK",
+      "record_title": "Fenwick & West"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Knight First Amendment Institute.",
+      "event_type": "verification",
+      "record_id": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "record_title": "Knight First Amendment Institute"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Software Freedom Law Center.",
+      "event_type": "verification",
+      "record_id": "ORG-SFLC",
+      "record_title": "Software Freedom Law Center"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Software Freedom Conservancy.",
+      "event_type": "verification",
+      "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "record_title": "Software Freedom Conservancy"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Cindy Cohn.",
+      "event_type": "verification",
+      "record_id": "PERSON-CINDY-COHN",
+      "record_title": "Cindy Cohn"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Cory Booker.",
+      "event_type": "verification",
+      "record_id": "PERSON-CORY-BOOKER",
+      "record_title": "Cory Booker"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Eben Moglen.",
+      "event_type": "verification",
+      "record_id": "PERSON-EBEN-MOGLEN",
+      "record_title": "Eben Moglen"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Mike Lee.",
+      "event_type": "verification",
+      "record_id": "PERSON-MIKE-LEE",
+      "record_title": "Mike Lee"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Rand Paul.",
+      "event_type": "verification",
+      "record_id": "PERSON-RAND-PAUL",
+      "record_title": "Rand Paul"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Ron Wyden.",
+      "event_type": "verification",
+      "record_id": "PERSON-RON-WYDEN",
+      "record_title": "Ron Wyden"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-BROWN-V-EMA-GOVINFO",
+      "record_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for U.S. Copyright Office Section 512 Resources.",
+      "event_type": "verification",
+      "record_id": "SRC-COPYRIGHT-512-INDEX",
+      "record_title": "U.S. Copyright Office Section 512 Resources"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for EFF Legal Guide for Bloggers \u2014 Intellectual Property.",
+      "event_type": "verification",
+      "record_id": "SRC-EFF-BLOGGERS-IP",
+      "record_title": "EFF Legal Guide for Bloggers \u2014 Intellectual Property"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress).",
+      "event_type": "verification",
+      "record_id": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+      "record_title": "S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Mike Lee Official Senate Biography.",
+      "event_type": "verification",
+      "record_id": "SRC-LEE-SENATE-BIO",
+      "record_title": "Mike Lee Official Senate Biography"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015).",
+      "event_type": "verification",
+      "record_id": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "record_title": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-PACKINGHAM-GOVINFO",
+      "record_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Applying to Join Conservancy as a Member Project.",
+      "event_type": "verification",
+      "record_id": "SRC-SFC-APPLY",
+      "record_title": "Applying to Join Conservancy as a Member Project"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Project Membership in Software Freedom Conservancy.",
+      "event_type": "verification",
+      "record_id": "SRC-SFC-PROJECTS",
+      "record_title": "Project Membership in Software Freedom Conservancy"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Software Freedom Law Center Contact Page.",
+      "event_type": "verification",
+      "record_id": "SRC-SFLC-CONTACT",
+      "record_title": "Software Freedom Law Center Contact Page"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 107 (GovInfo).",
+      "event_type": "verification",
+      "record_id": "SRC-USC-17-107-GOVINFO",
+      "record_title": "17 U.S.C. \u00a7 107 (GovInfo)"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 107.",
+      "event_type": "verification",
+      "record_id": "SRC-USC-17-107-LII",
+      "record_title": "17 U.S.C. \u00a7 107"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann.",
+      "event_type": "verification",
+      "record_id": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+      "record_title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 512.",
+      "event_type": "verification",
+      "record_id": "STAT-DMCA-512",
+      "record_title": "17 U.S.C. \u00a7 512"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for 17 U.S.C. \u00a7 107.",
+      "event_type": "verification",
+      "record_id": "STAT-USC-107",
+      "record_title": "17 U.S.C. \u00a7 107"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for DMCA Takedown and Counter-Notification.",
+      "event_type": "verification",
+      "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "record_title": "DMCA Takedown and Counter-Notification"
+    },
+    {
+      "date": "2026-07-19",
+      "description": "Last verified date for Fair Use and Video.",
+      "event_type": "verification",
+      "record_id": "TOPIC-FAIR-USE-VIDEO",
+      "record_title": "Fair Use and Video"
+    },
+    {
       "date": "Not dated",
       "description": "Publication date for Janet Abbate Virginia Tech Faculty Profile.",
       "event_type": "publication",
@@ -1914,6 +2068,13 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Mike Lee Official Senate Biography.",
+      "event_type": "publication",
+      "record_id": "SRC-LEE-SENATE-BIO",
+      "record_title": "Mike Lee Official Senate Biography"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Lawrence Lessig Harvard Law School Faculty Page.",
       "event_type": "publication",
       "record_id": "SRC-LESSIG-HARVARD",
@@ -2047,10 +2208,24 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Applying to Join Conservancy as a Member Project.",
+      "event_type": "publication",
+      "record_id": "SRC-SFC-APPLY",
+      "record_title": "Applying to Join Conservancy as a Member Project"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Software Freedom Conservancy Home Page.",
       "event_type": "publication",
       "record_id": "SRC-SFC-HOME",
       "record_title": "Software Freedom Conservancy Home Page"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for Project Membership in Software Freedom Conservancy.",
+      "event_type": "publication",
+      "record_id": "SRC-SFC-PROJECTS",
+      "record_title": "Project Membership in Software Freedom Conservancy"
     },
     {
       "date": "Not dated",
@@ -2061,10 +2236,31 @@
     },
     {
       "date": "Not dated",
+      "description": "Publication date for Software Freedom Law Center Contact Page.",
+      "event_type": "publication",
+      "record_id": "SRC-SFLC-CONTACT",
+      "record_title": "Software Freedom Law Center Contact Page"
+    },
+    {
+      "date": "Not dated",
       "description": "Publication date for Lee Tien EFF Staff Biography.",
       "event_type": "publication",
       "record_id": "SRC-TIEN-EFF",
       "record_title": "Lee Tien EFF Staff Biography"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for 17 U.S.C. \u00a7 107 (GovInfo).",
+      "event_type": "publication",
+      "record_id": "SRC-USC-17-107-GOVINFO",
+      "record_title": "17 U.S.C. \u00a7 107 (GovInfo)"
+    },
+    {
+      "date": "Not dated",
+      "description": "Publication date for 17 U.S.C. \u00a7 107.",
+      "event_type": "publication",
+      "record_id": "SRC-USC-17-107-LII",
+      "record_title": "17 U.S.C. \u00a7 107"
     },
     {
       "date": "Not dated",
@@ -2170,6 +2366,20 @@
       "event_type": "publication",
       "record_id": "SRC-ZITTRAIN-HLS",
       "record_title": "Jonathan L. Zittrain Harvard Law School Faculty Profile"
+    },
+    {
+      "date": "Not dated (maintained guide)",
+      "description": "Publication date for EFF Legal Guide for Bloggers \u2014 Intellectual Property.",
+      "event_type": "publication",
+      "record_id": "SRC-EFF-BLOGGERS-IP",
+      "record_title": "EFF Legal Guide for Bloggers \u2014 Intellectual Property"
+    },
+    {
+      "date": "Not dated (maintained page)",
+      "description": "Publication date for U.S. Copyright Office Section 512 Resources.",
+      "event_type": "publication",
+      "record_id": "SRC-COPYRIGHT-512-INDEX",
+      "record_title": "U.S. Copyright Office Section 512 Resources"
     },
     {
       "date": "Not dated (maintained)",

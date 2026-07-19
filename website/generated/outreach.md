@@ -4,13 +4,13 @@ This page is generated from records tagged `outreach`. Do not edit it manually.
 
 This is a prototype index, not a verified contact database. Contact details should be checked against official public sources before use.
 
-Record count: 34
+Record count: 36
 
 ## [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): American Civil Liberties Union
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-19`
+- Last verified: `2026-07-19`
 - Sources: [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md), [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
@@ -19,7 +19,7 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-25`
+- Last verified: `2026-07-19`
 - Sources: [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md), [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
@@ -55,7 +55,7 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-07-04`
+- Last verified: `2026-07-19`
 - Sources: [`SRC-EPIC-ABOUT`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md), [`SRC-EPIC-CONTACT`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
 
 EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.
@@ -64,7 +64,7 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-25`
+- Last verified: `2026-07-19`
 - Sources: [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md), [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 
 Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
@@ -100,7 +100,7 @@ The Institute for Justice is a nonprofit public interest law firm whose mission 
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-25`
+- Last verified: `2026-07-19`
 - Sources: [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md), [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
 
 The Knight First Amendment Institute at Columbia University defends the freedoms of speech and the press in the digital age through strategic litigation, research, and public education.
@@ -145,8 +145,8 @@ The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provid
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-25`
-- Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- Last verified: `2026-07-19`
+- Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md), [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
 
@@ -154,8 +154,8 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 
 - Type: `organization`
 - Status: `draft`
-- Last verified: `2026-06-25`
-- Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- Last verified: `2026-07-19`
+- Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md), [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md), [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
 
@@ -264,6 +264,22 @@ Official Public Knowledge contact page with phone, fax, email, and Washington, D
 - Last verified: `2026-07-04`
 
 Official Reporters Committee for Freedom of the Press contact page with hotline, media, and general inquiry paths.
+
+## [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md): Applying to Join Conservancy as a Member Project
+
+- Type: `source`
+- Status: `verified`
+- Last verified: `2026-07-19`
+
+Official Software Freedom Conservancy page describing how FOSS projects apply for fiscal sponsorship membership.
+
+## [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md): Software Freedom Law Center Contact Page
+
+- Type: `source`
+- Status: `verified`
+- Last verified: `2026-07-19`
+
+Official SFLC contact page describing how FOSS projects can request legal advice and other contact paths.
 
 ## [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page
 

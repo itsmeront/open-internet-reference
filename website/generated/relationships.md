@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 201
+Edge count: 245
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -28,6 +28,11 @@ Edge count: 201
 
 - Declared in: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
+
+- Declared in: [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Sources: [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 
 ## [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
@@ -83,6 +88,41 @@ Edge count: 201
 
 - Declared in: [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - Sources: [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
+- Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `cites` [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
+
+- Declared in: [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+- Sources: [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 
 ## [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `cites` [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
 
@@ -349,10 +389,20 @@ Edge count: 201
 - Declared in: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 
+## [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `cites` [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
+
+- Declared in: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- Sources: [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
+
 ## [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 
 - Declared in: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+
+## [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+
+- Declared in: [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- Sources: [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md), [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
 
 ## [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) `cites` [`SRC-SIGNAL-DOCS`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md)
 
@@ -379,10 +429,25 @@ Edge count: 201
 - Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
 
+## [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
+
+- Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Sources: [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
+
 ## [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
 
 - Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Sources: [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+
+## [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
+
+- Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Sources: [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
+
+## [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `related_to` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+
+- Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 
 ## [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md) `cites` [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 
@@ -499,6 +564,11 @@ Edge count: 201
 - Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - Sources: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 
+## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+
+- Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Sources: [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+
 ## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
 - Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
@@ -543,6 +613,11 @@ Edge count: 201
 
 - Declared in: [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - Sources: [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+
+## [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+
+- Declared in: [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+- Sources: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 ## [`PERSON-ESHA-BHANDARI`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md) `affiliated_with` [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 
@@ -694,6 +769,11 @@ Edge count: 201
 - Declared in: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - Sources: [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 
+## [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+
+- Declared in: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- Sources: [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+
 ## [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
 - Declared in: [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
@@ -744,6 +824,11 @@ Edge count: 201
 - Declared in: [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
 
+## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+
+- Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Sources: [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+
 ## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-PAUL-FISA`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
 
 - Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
@@ -753,6 +838,21 @@ Edge count: 201
 
 - Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - Sources: [`SRC-PAUL-FOURTH-AMENDMENT`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
+
+## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+
+- Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Sources: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+
+## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
+
+- Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Sources: [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
+
+## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+
+- Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Sources: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
 ## [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) `cites` [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 
@@ -774,10 +874,25 @@ Edge count: 201
 - Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Sources: [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
 
+## [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
+
+- Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Sources: [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
+
+## [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+
+- Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Sources: [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+
 ## [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 
 - Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Sources: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
+
+## [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+
+- Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Sources: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
 ## [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) `cites` [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
@@ -854,10 +969,20 @@ Edge count: 201
 - Declared in: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
 
+## [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+
+- Declared in: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
 ## [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`CASE-PERFECT10-V-CCBILL`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 
 - Declared in: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - Sources: [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+
+## [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+
+- Declared in: [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
 
 ## [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 
@@ -883,6 +1008,31 @@ Edge count: 201
 
 - Declared in: [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - Sources: [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
+
+## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+
+- Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Sources: [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+
+## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+- Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+
+- Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Sources: [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+
+## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+
+- Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
+- Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
 ## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
 
@@ -918,6 +1068,76 @@ Edge count: 201
 
 - Declared in: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Sources: [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+
+- Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Sources: [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+
+- Declared in: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Sources: [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 
 ## [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `cites` [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 

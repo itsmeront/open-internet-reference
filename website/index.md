@@ -41,7 +41,8 @@ Court cases, statutes, and legal topics that establish precedent:
 - **Internet freedom** — [Reno v. ACLU](generated/source-docs/knowledge/legal/CASE-RENO-V-ACLU.md), [Packingham v. North Carolina](generated/source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - **Digital privacy** — [Carpenter v. United States](generated/source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - **Computer crime** — [Van Buren v. United States](generated/source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
-- **Statutes** — [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- **Copyright and video** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown and counter-notification](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Lenz v. Universal](generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 
 ## Generated Indexes
 

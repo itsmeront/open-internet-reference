@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 127
+Source count: 140
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -73,6 +73,11 @@ Source count: 127
 
 - Page source in [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - Relationship source in [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md): [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md) `cites` [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+
+## [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)
+
+- Page source in [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Relationship source in [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 
 ## [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)
 
@@ -169,6 +174,11 @@ Source count: 127
 - Page source in [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md)
 - Relationship source in [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md): [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md) `cites` [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 
+## [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md): U.S. Copyright Office Section 512 Resources
+
+- Page source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- Page source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+
 ## [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook)
 
 - Page source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
@@ -185,6 +195,19 @@ Source count: 127
 
 - Page source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md): [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md) `cites` [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
+
+## [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md): EFF Legal Guide for Bloggers — Intellectual Property
+
+- Page source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Page source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Page source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 
 ## [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page
 
@@ -218,6 +241,11 @@ Source count: 127
 - Page source in [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md)
 - Relationship source in [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md): [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md) `cites` [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 
+## [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)
+
+- Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+
 ## [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page
 
 - Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
@@ -233,6 +261,7 @@ Source count: 127
 - Page source in [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - Relationship source in [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md) `cites` [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - Relationship source in [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 
 ## [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography
 
@@ -325,6 +354,27 @@ Source count: 127
 - Page source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - Relationship source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 
+## [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md): Mike Lee Official Senate Biography
+
+- Page source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- Relationship source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+
+## [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md): Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)
+
+- Page source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Page source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Page source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Page source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+
 ## [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page
 
 - Page source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
@@ -332,6 +382,8 @@ Source count: 127
 
 ## [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law
 
+- Page source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - Page source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
 - Relationship source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md): [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 
@@ -389,6 +441,11 @@ Source count: 127
 
 - Page source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md)
 - Relationship source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md): [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md) `cites` [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+
+## [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)
+
+- Page source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
+- Relationship source in [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md): [`CASE-PACKINGHAM-V-NC`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md) `cites` [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 
 ## [`SRC-PACKINGHAM-JUSTIA`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)
 
@@ -522,19 +579,38 @@ Source count: 127
 
 ## [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md): Software Freedom Conservancy About Page
 
+- Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `related_to` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+
+## [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md): Applying to Join Conservancy as a Member Project
+
+- Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
 
 ## [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md): Software Freedom Conservancy Home Page
 
 - Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
 
+## [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md): Project Membership in Software Freedom Conservancy
+
+- Page source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `cites` [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
+
 ## [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md): Software Freedom Law Center Team Page
 
 - Page source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `cites` [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 - Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
+- Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `related_to` [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- Relationship source in [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md) `related_to` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+
+## [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md): Software Freedom Law Center Contact Page
+
+- Page source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
+- Relationship source in [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md): [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `cites` [`SRC-SFLC-CONTACT`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 
 ## [`SRC-SIGNAL-DOCS`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md): Signal Protocol Documentation
 
@@ -600,6 +676,24 @@ Source count: 127
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Relationship source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `cites` [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
 
+## [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md): 17 U.S.C. § 107 (GovInfo)
+
+- Page source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- Page source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+
+## [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md): 17 U.S.C. § 107
+
+- Page source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Page source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+
 ## [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md): 17 U.S.C. § 512 (GovInfo)
 
 - Page source in [`CASE-PERFECT10-V-CCBILL`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
@@ -608,6 +702,8 @@ Source count: 127
 - Page source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `cites` [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 - Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
 - Page source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `cites` [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 - Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
@@ -620,7 +716,11 @@ Source count: 127
 
 - Page source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `cites` [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
+- Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - Relationship source in [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md): [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md) `related_to` [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+- Page source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
+- Relationship source in [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - Page source in [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
 - Relationship source in [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md): [`TOPIC-SAFE-HARBOR`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 
@@ -713,16 +813,22 @@ Source count: 127
 
 ## [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md): Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe
 
-- No citation usages yet.
+- Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 
 ## [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act
 
 - Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- Page source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
+- Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
 ## [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md): Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms
 
-- No citation usages yet.
+- Page source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 
 ## [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md): Wyden Remarks at Section 230 Briefing Hosted by EFF
 
@@ -731,12 +837,20 @@ Source count: 127
 
 ## [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md): Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program
 
-- No citation usages yet.
+- Page source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
+- Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+- Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
 ## [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography
 
 - Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Relationship source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md): EPIC Alert — Charges Dropped Against Phil Zimmermann
+
+- Page source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+- Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 ## [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile
 

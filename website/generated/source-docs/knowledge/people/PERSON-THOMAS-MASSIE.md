@@ -59,7 +59,7 @@ Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan Hous
 
 ## Key Legislation
 
-- **[Anti-encryption backdoor amendment (NIST)](../generated/source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)** (with Lofgren, Poe): Appropriations amendment blocking NIST from cooperating with NSA efforts to weaken encryption standards.
+- **[Anti-encryption backdoor amendment (NIST)](../../bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)** (with Lofgren, Poe): Appropriations amendment blocking NIST from cooperating with NSA efforts to weaken encryption standards.
 - **Anti-encryption backdoor amendments** (multiple years): House-passed amendments to prevent agencies from compelling companies to build surveillance backdoors into products.
 
 ## Historical Context

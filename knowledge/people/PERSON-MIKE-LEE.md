@@ -14,6 +14,7 @@ tags:
 sources:
   - SRC-LEE-ENCRYPTION-BACKDOORS
   - SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM
+  - SRC-LEE-SENATE-BIO
 relationships:
   - subject: PERSON-MIKE-LEE
     predicate: cites
@@ -25,7 +26,12 @@ relationships:
     object: SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM
     sources:
       - SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM
-last_verified: "2026-06-25"
+  - subject: PERSON-MIKE-LEE
+    predicate: cites
+    object: SRC-LEE-SENATE-BIO
+    sources:
+      - SRC-LEE-SENATE-BIO
+last_verified: "2026-07-19"
 ---
 
 # Mike Lee
@@ -36,17 +42,22 @@ Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-author
 
 ## Verified Facts
 
-- U.S. Senator from Utah.[^1]
+- U.S. Senator from Utah, elected in 2010.[^3]
 - Stated that federal encryption backdoor mandates are not worth the price in lost civil liberties.[^1]
 - Argued that criminals could use foreign devices or independent encryption apps to evade mandated backdoors.[^1]
 - Warned that weakening encryption would compromise online transactions and private information.[^1]
 - Introduced the bipartisan Government Surveillance Reform Act with Wyden and Lofgren.[^2]
 - The Government Surveillance Reform Act would reauthorize Section 702 with warrant requirements for U.S. person queries and limits on data-broker purchases.[^2]
+- Lee is Chairman of the Senate Energy and Natural Resources Committee.[^3]
+- Lee is Chairman of the Senate Judiciary Subcommittee on Antitrust, Competition Policy, and Consumer Rights.[^3]
+- Lee serves on the Senate Foreign Relations and Budget Committees.[^3]
 
 
 [^1]: `SRC-LEE-ENCRYPTION-BACKDOORS` — Encryption backdoors aren't worth the price. Official Senate statement.
 
 [^2]: `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM` — Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans. Official Senate press release.
+
+[^3]: `SRC-LEE-SENATE-BIO` — Mike Lee Official Senate Biography. Official Senate biography page.
 
 ## Key Legislation
 
@@ -65,17 +76,15 @@ Lee's surveillance reform bills would restrict warrantless government access to 
 
 - `PERSON-MIKE-LEE` cites `SRC-LEE-ENCRYPTION-BACKDOORS`.
 - `PERSON-MIKE-LEE` cites `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`.
+- `PERSON-MIKE-LEE` cites `SRC-LEE-SENATE-BIO`.
 
 ## Sources
 
 1. `SRC-LEE-ENCRYPTION-BACKDOORS`: Encryption backdoors aren't worth the price.
-
-Additional sources (not yet cited in footnotes):
-
-- `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.
+2. `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.
+3. `SRC-LEE-SENATE-BIO`: Mike Lee Official Senate Biography.
 
 ## Research Debt
 
 - Add source for Lee's Security and Freedom Enhancement (SAFE) Act and other FISA reform bills.
-- Document Lee's committee assignments from an official congressional biography.
 - Add independent congressional record sources for Government Surveillance Reform Act provisions.

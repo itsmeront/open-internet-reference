@@ -305,6 +305,25 @@
       ]
     },
     {
+      "source_id": "SRC-BROWN-V-EMA-GOVINFO",
+      "source_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "record_title": "Brown v. Entertainment Merchants Assn.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BROWN-V-EMA-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "record_title": "Brown v. Entertainment Merchants Assn.",
+          "subject": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BROWN-V-EMA-LII",
       "source_title": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)",
       "usages": [
@@ -753,6 +772,22 @@
       ]
     },
     {
+      "source_id": "SRC-COPYRIGHT-512-INDEX",
+      "source_title": "U.S. Copyright Office Section 512 Resources",
+      "usages": [
+        {
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CORLEY-LII",
       "source_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)",
       "usages": [
@@ -821,6 +856,80 @@
           "record_id": "ORG-EFF",
           "record_title": "Electronic Frontier Foundation",
           "subject": "ORG-EFF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-EFF-BLOGGERS-IP",
+      "source_title": "EFF Legal Guide for Bloggers \u2014 Intellectual Property",
+      "usages": [
+        {
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EFF-BLOGGERS-IP",
+          "predicate": "cites",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-EFF-BLOGGERS-IP",
+          "predicate": "cites",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-EFF",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
           "usage": "relationship_source"
         }
       ]
@@ -956,6 +1065,25 @@
       ]
     },
     {
+      "source_id": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+      "source_title": "S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)",
+      "usages": [
+        {
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+          "predicate": "cites",
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "subject": "PERSON-CORY-BOOKER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FSF-ABOUT",
       "source_title": "Free Software Foundation About Page",
       "usages": [
@@ -1016,6 +1144,14 @@
           "record_id": "CASE-GOOGLE-V-ORACLE",
           "record_title": "Google LLC v. Oracle America, Inc.",
           "subject": "CASE-GOOGLE-V-ORACLE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
           "usage": "relationship_source"
         }
       ]
@@ -1392,6 +1528,123 @@
       ]
     },
     {
+      "source_id": "SRC-LEE-SENATE-BIO",
+      "source_title": "Mike Lee Official Senate Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LEE-SENATE-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-MIKE-LEE",
+          "record_title": "Mike Lee",
+          "subject": "PERSON-MIKE-LEE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LENZ-V-UNIVERSAL-CA9",
+      "source_title": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)",
+      "usages": [
+        {
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+          "predicate": "cites",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LENZ-V-UNIVERSAL-CA9",
+          "predicate": "cites",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-LENZ-V-UNIVERSAL",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-LESSIG-HARVARD",
       "source_title": "Lawrence Lessig Harvard Law School Faculty Page",
       "usages": [
@@ -1414,6 +1667,19 @@
       "source_id": "SRC-LOFGREN-AARONS-LAW",
       "source_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
       "usages": [
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LOFGREN-AARONS-LAW",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        },
         {
           "record_id": "PERSON-ZOE-LOFGREN",
           "record_title": "Zoe Lofgren",
@@ -1616,6 +1882,25 @@
           "record_id": "ORG-OSI",
           "record_title": "Open Source Initiative",
           "subject": "ORG-OSI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PACKINGHAM-GOVINFO",
+      "source_title": "Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)",
+      "usages": [
+        {
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PACKINGHAM-GOVINFO",
+          "predicate": "cites",
+          "record_id": "CASE-PACKINGHAM-V-NC",
+          "record_title": "Packingham v. North Carolina",
+          "subject": "CASE-PACKINGHAM-V-NC",
           "usage": "relationship_source"
         }
       ]
@@ -2185,12 +2470,47 @@
       "source_title": "Software Freedom Conservancy About Page",
       "usages": [
         {
+          "object": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "predicate": "related_to",
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "subject": "ORG-SFLC",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
           "record_title": "Software Freedom Conservancy",
           "usage": "page_source"
         },
         {
           "object": "SRC-SFC-ABOUT",
+          "predicate": "cites",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-SFLC",
+          "predicate": "related_to",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SFC-APPLY",
+      "source_title": "Applying to Join Conservancy as a Member Project",
+      "usages": [
+        {
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFC-APPLY",
           "predicate": "cites",
           "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
           "record_title": "Software Freedom Conservancy",
@@ -2219,6 +2539,25 @@
       ]
     },
     {
+      "source_id": "SRC-SFC-PROJECTS",
+      "source_title": "Project Membership in Software Freedom Conservancy",
+      "usages": [
+        {
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFC-PROJECTS",
+          "predicate": "cites",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-SFLC-ABOUT",
       "source_title": "Software Freedom Law Center Team Page",
       "usages": [
@@ -2238,6 +2577,41 @@
         {
           "object": "ORG-FSF",
           "predicate": "related_to",
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "subject": "ORG-SFLC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "predicate": "related_to",
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "subject": "ORG-SFLC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-SFLC",
+          "predicate": "related_to",
+          "record_id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "record_title": "Software Freedom Conservancy",
+          "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SFLC-CONTACT",
+      "source_title": "Software Freedom Law Center Contact Page",
+      "usages": [
+        {
+          "record_id": "ORG-SFLC",
+          "record_title": "Software Freedom Law Center",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SFLC-CONTACT",
+          "predicate": "cites",
           "record_id": "ORG-SFLC",
           "record_title": "Software Freedom Law Center",
           "subject": "ORG-SFLC",
@@ -2521,6 +2895,99 @@
       ]
     },
     {
+      "source_id": "SRC-USC-17-107-GOVINFO",
+      "source_title": "17 U.S.C. \u00a7 107 (GovInfo)",
+      "usages": [
+        {
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-107-GOVINFO",
+          "predicate": "cites",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USC-17-107-LII",
+      "source_title": "17 U.S.C. \u00a7 107",
+      "usages": [
+        {
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-LENZ-V-UNIVERSAL",
+          "record_title": "Lenz v. Universal Music Corp.",
+          "subject": "CASE-LENZ-V-UNIVERSAL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FAIR-USE-VIDEO",
+          "predicate": "related_to",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-107-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-USC-17-512-GOVINFO",
       "source_title": "17 U.S.C. \u00a7 512 (GovInfo)",
       "usages": [
@@ -2564,6 +3031,19 @@
           "record_id": "STAT-DMCA-512",
           "record_title": "17 U.S.C. \u00a7 512",
           "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-SAFE-HARBOR",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
           "usage": "relationship_source"
         },
         {
@@ -2636,11 +3116,40 @@
           "usage": "relationship_source"
         },
         {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "record_id": "STAT-DMCA-512",
+          "record_title": "17 U.S.C. \u00a7 512",
+          "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
           "object": "TOPIC-SAFE-HARBOR",
           "predicate": "related_to",
           "record_id": "STAT-DMCA-512",
           "record_title": "17 U.S.C. \u00a7 512",
           "subject": "STAT-DMCA-512",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USC-17-512-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-DMCA-512",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "record_title": "DMCA Takedown and Counter-Notification",
+          "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
           "usage": "relationship_source"
         },
         {
@@ -3048,7 +3557,21 @@
     {
       "source_id": "SRC-WYDEN-EARN-IT",
       "source_title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe",
-      "usages": []
+      "usages": [
+        {
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-EARN-IT",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
@@ -3066,13 +3589,53 @@
           "record_title": "Cory Booker",
           "subject": "PERSON-CORY-BOOKER",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
         }
       ]
     },
     {
       "source_id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
       "source_title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms",
-      "usages": []
+      "usages": [
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-WYDEN-SECTION-230",
@@ -3096,7 +3659,34 @@
     {
       "source_id": "SRC-WYDEN-USA-RIGHTS-ACT",
       "source_title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program",
-      "usages": []
+      "usages": [
+        {
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+          "predicate": "cites",
+          "record_id": "PERSON-RAND-PAUL",
+          "record_title": "Rand Paul",
+          "subject": "PERSON-RAND-PAUL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WYDEN-USA-RIGHTS-ACT",
+          "predicate": "cites",
+          "record_id": "PERSON-RON-WYDEN",
+          "record_title": "Ron Wyden",
+          "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-ZIMMERMANN-BIO",
@@ -3113,6 +3703,25 @@
           "record_id": "PERSON-PHIL-ZIMMERMANN",
           "record_title": "Phil Zimmermann",
           "subject": "PERSON-PHIL-ZIMMERMANN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+      "source_title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann",
+      "usages": [
+        {
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+          "predicate": "cites",
+          "record_id": "PERSON-EBEN-MOGLEN",
+          "record_title": "Eben Moglen",
+          "subject": "PERSON-EBEN-MOGLEN",
           "usage": "relationship_source"
         }
       ]

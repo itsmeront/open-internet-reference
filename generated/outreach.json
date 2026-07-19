@@ -1,10 +1,10 @@
 {
   "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
-  "record_count": 34,
+  "record_count": 36,
   "records": [
     {
       "id": "ORG-ACLU",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-ACLU.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-ACLU.md",
       "sources": [
@@ -24,7 +24,7 @@
     },
     {
       "id": "ORG-CDT",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-CDT.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-CDT.md",
       "sources": [
@@ -106,7 +106,7 @@
     },
     {
       "id": "ORG-EPIC",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-EPIC.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-EPIC.md",
       "sources": [
@@ -127,7 +127,7 @@
     },
     {
       "id": "ORG-FENWICK",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-FENWICK.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-FENWICK.md",
       "sources": [
@@ -207,7 +207,7 @@
     },
     {
       "id": "ORG-KNIGHT-FIRST-AMENDMENT",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
       "sources": [
@@ -309,11 +309,12 @@
     },
     {
       "id": "ORG-SFLC",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SFLC.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-SFLC.md",
       "sources": [
-        "SRC-SFLC-ABOUT"
+        "SRC-SFLC-ABOUT",
+        "SRC-SFLC-CONTACT"
       ],
       "status": "draft",
       "summary": "The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.",
@@ -329,12 +330,14 @@
     },
     {
       "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "sources": [
         "SRC-SFC-ABOUT",
-        "SRC-SFC-HOME"
+        "SRC-SFC-HOME",
+        "SRC-SFC-APPLY",
+        "SRC-SFC-PROJECTS"
       ],
       "status": "draft",
       "summary": "Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.",
@@ -573,6 +576,40 @@
         "first-amendment"
       ],
       "title": "Reporters Committee Contact Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-SFC-APPLY",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/organizations/SRC-SFC-APPLY.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFC-APPLY.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official Software Freedom Conservancy page describing how FOSS projects apply for fiscal sponsorship membership.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Applying to Join Conservancy as a Member Project",
+      "type": "source"
+    },
+    {
+      "id": "SRC-SFLC-CONTACT",
+      "last_verified": "2026-07-19",
+      "path": "bibliography/organizations/SRC-SFLC-CONTACT.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md",
+      "sources": [],
+      "status": "verified",
+      "summary": "Official SFLC contact page describing how FOSS projects can request legal advice and other contact paths.",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ],
+      "title": "Software Freedom Law Center Contact Page",
       "type": "source"
     },
     {

@@ -11,6 +11,7 @@ tags:
 sources:
   - SRC-PACKINGHAM-LII
   - SRC-PACKINGHAM-JUSTIA
+  - SRC-PACKINGHAM-GOVINFO
 relationships:
   - subject: CASE-PACKINGHAM-V-NC
     predicate: cites
@@ -23,11 +24,16 @@ relationships:
     sources:
       - SRC-PACKINGHAM-JUSTIA
   - subject: CASE-PACKINGHAM-V-NC
+    predicate: cites
+    object: SRC-PACKINGHAM-GOVINFO
+    sources:
+      - SRC-PACKINGHAM-GOVINFO
+  - subject: CASE-PACKINGHAM-V-NC
     predicate: related_to
     object: TOPIC-FIRST-AMENDMENT
     sources:
       - SRC-PACKINGHAM-LII
-last_verified: "2026-06-25"
+last_verified: "2026-07-19"
 ---
 
 # Generated Source Mirror
@@ -41,10 +47,10 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 2
-    - **Relationships**: 3
-    - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
+    - **Sources**: 3
+    - **Relationships**: 4
+    - **Research debt items**: 2
+    - **Last verified**: 2026-07-19
 
 ---
 
@@ -94,6 +100,7 @@ This case establishes that access to internet platforms is constitutionally prot
 
 - `CASE-PACKINGHAM-V-NC` cites [`SRC-PACKINGHAM-LII`](../../../bibliography.md#SRC-PACKINGHAM-LII).
 - `CASE-PACKINGHAM-V-NC` cites [`SRC-PACKINGHAM-JUSTIA`](../../../bibliography.md#SRC-PACKINGHAM-JUSTIA).
+- `CASE-PACKINGHAM-V-NC` cites [`SRC-PACKINGHAM-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-582/USREPORTS-582-98).
 - `CASE-PACKINGHAM-V-NC` related_to `TOPIC-FIRST-AMENDMENT`.
 
 ## Sources
@@ -103,10 +110,9 @@ This case establishes that access to internet platforms is constitutionally prot
 Additional sources (not yet cited in footnotes):
 
 - [`SRC-PACKINGHAM-JUSTIA`](../../../bibliography.md#SRC-PACKINGHAM-JUSTIA): Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia).
+- [`SRC-PACKINGHAM-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-582/USREPORTS-582-98): Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo).
 
 ## Research Debt
 
-- Add GovInfo source for the official opinion.
 - Connect to later cases applying this precedent to internet access restrictions.
 - Relate to platform deplatforming and government-compelled censorship debates.
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

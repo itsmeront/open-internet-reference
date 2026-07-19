@@ -2,17 +2,17 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 145
+Term count: 149
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
 - [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 - [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 - [`SRC-BERNSTEIN-JUSTIA: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia)`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
-- [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
 ## `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` { #case-brown-v-entertainment-merchants }
 
+- [`SRC-BROWN-V-EMA-GOVINFO: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 
 ## `CASE-CARPENTER-V-US` { #case-carpenter-v-us }
@@ -29,8 +29,14 @@ Term count: 145
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 - [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
 
+## `CASE-LENZ-V-UNIVERSAL` { #case-lenz-v-universal }
+
+- [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
 ## `CASE-PACKINGHAM-V-NC` { #case-packingham-v-nc }
 
+- [`SRC-PACKINGHAM-GOVINFO: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 - [`SRC-PACKINGHAM-JUSTIA: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
 - [`SRC-PACKINGHAM-LII: Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
 
@@ -151,6 +157,7 @@ Term count: 145
 ## `ORG-SFLC` { #org-sflc }
 
 - [`SRC-SFLC-ABOUT: Software Freedom Law Center Team Page`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- [`SRC-SFLC-CONTACT: Software Freedom Law Center Contact Page`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 
 ## `ORG-SIGNAL` { #org-signal }
 
@@ -162,7 +169,9 @@ Term count: 145
 ## `ORG-SOFTWARE-FREEDOM-CONSERVANCY` { #org-software-freedom-conservancy }
 
 - [`SRC-SFC-ABOUT: Software Freedom Conservancy About Page`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- [`SRC-SFC-APPLY: Applying to Join Conservancy as a Member Project`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
 - [`SRC-SFC-HOME: Software Freedom Conservancy Home Page`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- [`SRC-SFC-PROJECTS: Project Membership in Software Freedom Conservancy`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 
 ## `ORG-TOR-PROJECT` { #org-tor-project }
 
@@ -209,6 +218,8 @@ Term count: 145
 ## `PERSON-CORY-BOOKER` { #person-cory-booker }
 
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+- [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
 ## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
 
@@ -226,6 +237,7 @@ Term count: 145
 
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
 - [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+- [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 ## `PERSON-ESHA-BHANDARI` { #person-esha-bhandari }
 
@@ -290,6 +302,7 @@ Term count: 145
 
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+- [`SRC-LEE-SENATE-BIO: Mike Lee Official Senate Biography`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
 
 ## `PERSON-MITCH-STOLTZ` { #person-mitch-stoltz }
 
@@ -314,9 +327,11 @@ Term count: 145
 ## `PERSON-PHIL-ZIMMERMANN` { #person-phil-zimmermann }
 
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 ## `PERSON-RAND-PAUL` { #person-rand-paul }
 
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
 - [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
@@ -338,6 +353,7 @@ Term count: 145
 
 ## `PERSON-RON-WYDEN` { #person-ron-wyden }
 
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
@@ -382,6 +398,7 @@ Term count: 145
 
 ## `STAT-DMCA-512` { #stat-dmca-512 }
 
+- [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 
@@ -390,12 +407,31 @@ Term count: 145
 - [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 - [`SRC-SECTION-230-LII: 47 U.S.C. § 230 (Cornell LII)`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
 
+## `STAT-USC-107` { #stat-usc-107 }
+
+- [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
 ## `TOPIC-COMPUTER-FRAUD` { #topic-computer-fraud }
 
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
 - [`SRC-USC-18-1030-LII: 18 U.S.C. § 1030`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md)
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+
+## `TOPIC-DMCA-TAKEDOWN-RESPONSE` { #topic-dmca-takedown-response }
+
+- [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
+- [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+- [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
+
+## `TOPIC-FAIR-USE-VIDEO` { #topic-fair-use-video }
+
+- [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
+- [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
+- [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
 ## `TOPIC-FOURTH-AMENDMENT` { #topic-fourth-amendment }
 

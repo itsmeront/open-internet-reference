@@ -23,7 +23,7 @@ relationships:
     object: SRC-ACLU-HISTORY
     sources:
       - SRC-ACLU-HISTORY
-last_verified: "2026-06-19"
+last_verified: "2026-07-19"
 ---
 
 # American Civil Liberties Union
@@ -35,9 +35,9 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 ## Verified Facts
 
 - ACLU maintains an official contact page at `https://www.aclu.org/about/contact-us`.[^1]
-- ACLU maintains an official history page at `https://www.aclu.org/about/aclu-history`.[^1]
-- The official history page states that the ACLU formed in response to civil liberties abuses during the post-World War I period, including the Palmer Raids.[^1]
-- The official history page describes the ACLU as defending rights enumerated in the U.S. Constitution.[^1]
+- ACLU maintains an official history page at `https://www.aclu.org/about/aclu-history`.[^2]
+- The official history page states that the ACLU formed in response to civil liberties abuses during the post-World War I period, including the Palmer Raids.[^2]
+- The official history page describes the ACLU as defending rights enumerated in the U.S. Constitution.[^2]
 
 ## Historical Context
 
@@ -45,6 +45,8 @@ Historical context has not yet been drafted beyond the summary on the official h
 
 
 [^1]: `SRC-ACLU-CONTACT` — American Civil Liberties Union Contact Page. Official organizational record.
+
+[^2]: `SRC-ACLU-HISTORY` — American Civil Liberties Union History Page. Self-reported profile; corroboration pending.
 
 ## Analysis
 
@@ -58,13 +60,9 @@ Analysis has not yet been drafted. Future work should use independent sources to
 ## Sources
 
 1. `SRC-ACLU-CONTACT`: American Civil Liberties Union Contact Page.
-
-Additional sources (not yet cited in footnotes):
-
-- `SRC-ACLU-HISTORY`: American Civil Liberties Union History Page.
+2. `SRC-ACLU-HISTORY`: American Civil Liberties Union History Page.
 
 ## Research Debt
 
 - Add independent sources for history and technology-related civil liberties work.
 - Create a separate contact record only after outreach use requirements are defined.
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

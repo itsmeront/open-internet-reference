@@ -24,7 +24,7 @@ relationships:
     object: SRC-EPIC-CONTACT
     sources:
       - SRC-EPIC-CONTACT
-last_verified: "2026-07-04"
+last_verified: "2026-07-19"
 ---
 
 # Electronic Privacy Information Center
@@ -38,7 +38,7 @@ EPIC is a U.S. 501(c)(3) nonprofit research and advocacy center founded in 1994 
 - EPIC was established in 1994 to protect privacy, freedom of expression, and democratic values in the information age.[^1]
 - EPIC describes its mission as securing the fundamental right to privacy in the digital age for all people through advocacy, research, and litigation.[^1]
 - EPIC is a 501(c)(3) nonprofit with no clients, customers, or shareholders.[^1]
-- Program areas include surveillance oversight, consumer privacy advocacy, AI and human rights, platform accountability and governance, telephone subscriber privacy, health privacy, and open government.[^2]
+- Program areas include surveillance oversight, consumer privacy advocacy, AI and human rights, platform accountability and governance, telephone subscriber privacy, health privacy, and open government.[^1]
 - EPIC routinely files amicus briefs, pursues open government cases, and speaks before Congress and judicial organizations.[^1]
 - The official contact page lists address 1519 New Hampshire Avenue NW, Washington, DC 20036; phone (202) 483-1140; general inquiries info@epic.org; press inquiries press@epic.org.[^2]
 
@@ -69,8 +69,4 @@ EPIC's work on surveillance, consumer privacy, AI accountability, and platform g
 
 ## Research Debt
 
-- Document specific amicus briefs and litigation involving software platforms.
 - Add intake path for organizations seeking EPIC advocacy support.
-- Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
-- Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
-- Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

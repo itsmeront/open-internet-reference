@@ -4,25 +4,25 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 215
-- Records needing review: 112
+- Records: 232
+- Records needing review: 116
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 112
-- [`verified`](#verified-records): 103
+- [`draft`](#draft-records): 116
+- [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
-- [`case`](#case-records): 10
+- [`case`](#case-records): 11
 - [`organization`](#organization-records): 20
 - [`person`](#person-records): 28
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 127
-- [`statute`](#statute-records): 3
-- [`topic`](#topic-records): 8
+- [`source`](#source-records): 140
+- [`statute`](#statute-records): 4
+- [`topic`](#topic-records): 10
 
 ## Records Needing Review
 
@@ -31,6 +31,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
@@ -130,8 +131,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
@@ -152,6 +156,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
@@ -251,8 +256,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
@@ -273,6 +281,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+- [`SRC-BROWN-V-EMA-GOVINFO: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
@@ -286,13 +295,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 - [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+- [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
+- [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
 - [`SRC-EPIC-ABOUT: EPIC About Page`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
 - [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
 - [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
@@ -309,6 +321,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-KAY-CHM: Alan Kay Computer History Museum Profile`](source-docs/bibliography/people/SRC-KAY-CHM.md)
 - [`SRC-KNIGHT-ABOUT: Knight First Amendment Institute About Page`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
 - [`SRC-KNIGHT-CONTACT: Knight First Amendment Institute Contact and FAQ Page`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+- [`SRC-LEE-SENATE-BIO: Mike Lee Official Senate Biography`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+- [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
@@ -317,6 +331,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-ORIN-KERR-GWU: Orin Kerr George Washington University Law Faculty Page`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md)
 - [`SRC-OSI-ABOUT: Open Source Initiative About Page`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
 - [`SRC-OSI-HISTORY: Open Source Initiative History Page`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+- [`SRC-PACKINGHAM-GOVINFO: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 - [`SRC-PACKINGHAM-JUSTIA: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
 - [`SRC-PACKINGHAM-LII: Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
@@ -337,8 +352,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 - [`SRC-SECTION-230-LII: 47 U.S.C. § 230 (Cornell LII)`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
 - [`SRC-SFC-ABOUT: Software Freedom Conservancy About Page`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- [`SRC-SFC-APPLY: Applying to Join Conservancy as a Member Project`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
 - [`SRC-SFC-HOME: Software Freedom Conservancy Home Page`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- [`SRC-SFC-PROJECTS: Project Membership in Software Freedom Conservancy`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 - [`SRC-SFLC-ABOUT: Software Freedom Law Center Team Page`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- [`SRC-SFLC-CONTACT: Software Freedom Law Center Contact Page`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 - [`SRC-SIGNAL-DOCS: Signal Protocol Documentation`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md)
 - [`SRC-SIGNAL-DOUBLE-RATCHET: The Double Ratchet Algorithm`](source-docs/bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md)
 - [`SRC-SIGNAL-HOME: Signal Official Website`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md)
@@ -350,6 +368,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
 - [`SRC-US-CONST-AMEND-I-LII: U.S. Constitution First Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
+- [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 - [`SRC-USC-17-512-LII: 17 U.S.C. § 512`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
@@ -364,6 +384,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WILLIAMSON-LEGAL: Aaron Williamson Williamson Legal Team Page`](source-docs/bibliography/people/SRC-WILLIAMSON-LEGAL.md)
 - [`SRC-WIZNER-ACLU: Ben Wizner ACLU Staff Biography`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 - [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
 
 ## attorney Records { #attorney-records }
@@ -392,6 +413,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
@@ -472,6 +494,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+- [`SRC-BROWN-V-EMA-GOVINFO: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
@@ -486,15 +509,18 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 - [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
+- [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
 - [`SRC-EPIC-ABOUT: EPIC About Page`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
 - [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
 - [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -515,6 +541,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-KNIGHT-CONTACT: Knight First Amendment Institute Contact and FAQ Page`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
+- [`SRC-LEE-SENATE-BIO: Mike Lee Official Senate Biography`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+- [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
@@ -528,6 +556,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-ORIN-KERR-GWU: Orin Kerr George Washington University Law Faculty Page`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md)
 - [`SRC-OSI-ABOUT: Open Source Initiative About Page`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md)
 - [`SRC-OSI-HISTORY: Open Source Initiative History Page`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+- [`SRC-PACKINGHAM-GOVINFO: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md)
 - [`SRC-PACKINGHAM-JUSTIA: Packingham v. North Carolina, 582 U.S. 98 (2017) (Justia)`](source-docs/bibliography/legal/SRC-PACKINGHAM-JUSTIA.md)
 - [`SRC-PACKINGHAM-LII: Packingham v. North Carolina, 582 U.S. 98 (2017) (Cornell LII)`](source-docs/bibliography/legal/SRC-PACKINGHAM-LII.md)
 - [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
@@ -551,8 +580,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 - [`SRC-SECTION-230-LII: 47 U.S.C. § 230 (Cornell LII)`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
 - [`SRC-SFC-ABOUT: Software Freedom Conservancy About Page`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md)
+- [`SRC-SFC-APPLY: Applying to Join Conservancy as a Member Project`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md)
 - [`SRC-SFC-HOME: Software Freedom Conservancy Home Page`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
+- [`SRC-SFC-PROJECTS: Project Membership in Software Freedom Conservancy`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 - [`SRC-SFLC-ABOUT: Software Freedom Law Center Team Page`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
+- [`SRC-SFLC-CONTACT: Software Freedom Law Center Contact Page`](source-docs/bibliography/organizations/SRC-SFLC-CONTACT.md)
 - [`SRC-SIGNAL-DOCS: Signal Protocol Documentation`](source-docs/bibliography/organizations/SRC-SIGNAL-DOCS.md)
 - [`SRC-SIGNAL-DOUBLE-RATCHET: The Double Ratchet Algorithm`](source-docs/bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md)
 - [`SRC-SIGNAL-HOME: Signal Official Website`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md)
@@ -564,6 +596,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
 - [`SRC-US-CONST-AMEND-I-LII: U.S. Constitution First Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
+- [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 - [`SRC-USC-17-512-LII: 17 U.S.C. § 512`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
@@ -586,6 +620,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 - [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
 
 ## statute Records { #statute-records }
@@ -593,11 +628,14 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 
 ## topic Records { #topic-records }
 
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
