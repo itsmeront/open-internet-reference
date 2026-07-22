@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-07-19 07:59 UTC
+Last updated: 2026-07-22 08:09 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -10,7 +10,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 |--------|-------|
 | Tags declared in TAXONOMY.md | 51 |
 | Tags used in content | 42 |
-| Total tag applications | 925 |
+| Total tag applications | 987 |
 | Orphan tags (declared but unused) | 22 |
 | Undeclared tags (used but not in TAXONOMY.md) | 13 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,34 +20,34 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 128 | ✓ |
-| `digital-rights` | 118 | ✓ |
-| `organization` | 75 | ✓ |
-| `privacy` | 69 | ✓ |
-| `person` | 62 | ⚠️ undeclared |
-| `first-amendment` | 56 | ✓ |
-| `open-source-software` | 53 | ✓ |
-| `outreach` | 51 | ⚠️ undeclared |
-| `internet-governance` | 43 | ✓ |
+| `source` | 141 | ✓ |
+| `digital-rights` | 128 | ✓ |
+| `organization` | 78 | ✓ |
+| `privacy` | 71 | ✓ |
+| `person` | 64 | ⚠️ undeclared |
+| `first-amendment` | 58 | ✓ |
+| `open-source-software` | 56 | ✓ |
+| `outreach` | 53 | ⚠️ undeclared |
+| `internet-governance` | 45 | ✓ |
 | `attorney` | 35 | ✓ |
-| `cryptography` | 25 | ✓ |
+| `cryptography` | 26 | ✓ |
+| `copyright` | 26 | ✓ |
+| `surveillance` | 24 | ✓ |
 | `internet-architecture` | 22 | ✓ |
-| `surveillance` | 22 | ✓ |
-| `copyright` | 17 | ✓ |
 | `speech-and-code` | 17 | ✓ |
+| `fourth-amendment` | 15 | ✓ |
 | `civil-society` | 15 | ✓ |
-| `fourth-amendment` | 14 | ✓ |
-| `case` | 11 | ✓ |
+| `case` | 12 | ✓ |
+| `safe-harbor` | 10 | ✓ |
+| `intermediary-liability` | 10 | ✓ |
 | `computer-crime` | 10 | ✓ |
-| `intermediary-liability` | 9 | ✓ |
-| `case-law` | 8 | ⚠️ undeclared |
+| `case-law` | 10 | ⚠️ undeclared |
 | `network-protocols` | 7 | ✓ |
-| `safe-harbor` | 7 | ✓ |
+| `statute` | 7 | ✓ |
 | `secure-messaging` | 6 | ✓ |
 | `constitutional-law` | 5 | ✓ |
 | `distributed-systems` | 4 | ✓ |
 | `technology-law` | 4 | ⚠️ undeclared |
-| `statute` | 4 | ✓ |
 | `technical` | 3 | ⚠️ undeclared |
 | `civil-liberties` | 3 | ⚠️ undeclared |
 | `technical-standard` | 3 | ⚠️ undeclared |
@@ -100,13 +100,13 @@ These tags are used in content but not listed in `TAXONOMY.md`:
 |-----|---------|
 | `academic` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
 | `academic-paper` | `bibliography/academic/SRC-KADEMLIA-PAPER.md` |
-| `case-law` | `bibliography/legal/SRC-RENO-V-ACLU-LOC.md`, `bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md`, `bibliography/legal/SRC-CARPENTER-GOVINFO.md` +5 more |
+| `case-law` | `bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md`, `bibliography/legal/SRC-RENO-V-ACLU-LOC.md`, `bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md` +7 more |
 | `civil-liberties` | `knowledge/organizations/ORG-ACLU.md`, `bibliography/organizations/SRC-ACLU-HISTORY.md`, `bibliography/organizations/SRC-ACLU-CONTACT.md` |
 | `example-tag` | `knowledge/_templates/knowledge-page.md` |
 | `imported-source` | `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `onion-routing` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
-| `outreach` | `knowledge/organizations/ORG-SFLC.md`, `knowledge/organizations/ORG-COOLEY.md`, `knowledge/organizations/ORG-ACLU.md` +48 more |
-| `person` | `knowledge/people/PERSON-THOMAS-MASSIE.md`, `knowledge/people/PERSON-RON-WYDEN.md`, `knowledge/people/PERSON-BRUCE-SCHNEIER.md` +59 more |
+| `outreach` | `knowledge/organizations/ORG-SFLC.md`, `knowledge/organizations/ORG-COOLEY.md`, `knowledge/organizations/ORG-ACLU.md` +50 more |
+| `person` | `knowledge/people/PERSON-THOMAS-MASSIE.md`, `knowledge/people/PERSON-RON-WYDEN.md`, `knowledge/people/PERSON-BRUCE-SCHNEIER.md` +61 more |
 | `project-governance` | `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `technical` | `knowledge/technical/TOPIC-ONION-ROUTING.md`, `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography/technical/SRC-SIGNAL-X3DH.md` |
 | `technical-standard` | `bibliography/technical/SRC-RFC-1034.md`, `bibliography/technical/SRC-RFC-9293.md`, `bibliography/technical/SRC-RFC-8446.md` |

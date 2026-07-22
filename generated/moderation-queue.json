@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-07-19T07:59:25.963078Z",
+  "generated_at": "2026-07-22T08:09:00.628095Z",
   "summary": {
-    "open_prs": 0,
+    "open_prs": 1,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 132,
+    "draft_content": 136,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [],
+  "pull_requests": [
+    {
+      "number": 56,
+      "title": "chore: update moderation and taxonomy reports [automated]",
+      "author": "app/github-actions",
+      "labels": [],
+      "areas": [
+        "website"
+      ],
+      "age_days": 1,
+      "stale_days": 1,
+      "is_ai": false,
+      "is_draft": false,
+      "needs_review": false,
+      "is_stale": false,
+      "priority": 0
+    }
+  ],
   "draft_content": [
     {
       "path": "knowledge/_templates/knowledge-page.md",
@@ -84,7 +101,7 @@
       "id": "STAT-DMCA-512",
       "title": "17 U.S.C. \u00a7 512",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "tags": [
         "copyright",
         "safe-harbor",
@@ -110,7 +127,7 @@
       "id": "CASE-PACKINGHAM-V-NC",
       "title": "Packingham v. North Carolina",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "first-amendment",
         "internet-governance",
@@ -140,6 +157,18 @@
         "copyright",
         "speech-and-code",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
+      "id": "CASE-LENZ-V-UNIVERSAL",
+      "title": "Lenz v. Universal Music Corp.",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "digital-rights",
+        "safe-harbor"
       ]
     },
     {
@@ -207,6 +236,17 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
+      "id": "TOPIC-FAIR-USE-VIDEO",
+      "title": "Fair Use and Video",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
       "id": "CASE-BERNSTEIN-V-DOJ",
       "title": "Bernstein v. United States Department of Justice",
@@ -246,11 +286,22 @@
       ]
     },
     {
+      "path": "knowledge/legal/STAT-USC-107.md",
+      "id": "STAT-USC-107",
+      "title": "17 U.S.C. \u00a7 107",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
       "title": "Brown v. Entertainment Merchants Assn.",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-19",
       "tags": [
         "first-amendment",
         "digital-rights"
@@ -268,6 +319,19 @@
         "speech-and-code",
         "export-control",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
+      "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "title": "DMCA Takedown and Counter-Notification",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "digital-rights",
+        "intermediary-liability"
       ]
     },
     {
@@ -327,7 +391,7 @@
       "id": "ORG-SFLC",
       "title": "Software Freedom Law Center",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "open-source-software",
@@ -354,7 +418,7 @@
       "id": "ORG-ACLU",
       "title": "American Civil Liberties Union",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "civil-liberties",
@@ -407,7 +471,7 @@
       "id": "ORG-KNIGHT-FIRST-AMENDMENT",
       "title": "Knight First Amendment Institute",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "first-amendment",
@@ -421,7 +485,7 @@
       "id": "ORG-EPIC",
       "title": "Electronic Privacy Information Center",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "privacy",
@@ -461,7 +525,7 @@
       "id": "ORG-CDT",
       "title": "Center for Democracy and Technology",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "digital-rights",
@@ -555,7 +619,7 @@
       "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
       "title": "Software Freedom Conservancy",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "open-source-software",
@@ -569,7 +633,7 @@
       "id": "ORG-FENWICK",
       "title": "Fenwick & West",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "organization",
         "open-source-software",
@@ -650,7 +714,7 @@
       "id": "PERSON-RON-WYDEN",
       "title": "Ron Wyden",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "person",
         "internet-governance",
@@ -757,7 +821,7 @@
       "id": "PERSON-CINDY-COHN",
       "title": "Cindy Cohn",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "attorney",
         "digital-rights",
@@ -797,7 +861,7 @@
       "id": "PERSON-MIKE-LEE",
       "title": "Mike Lee",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "person",
         "internet-governance",
@@ -836,7 +900,7 @@
       "id": "PERSON-EBEN-MOGLEN",
       "title": "Eben Moglen",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "attorney",
         "open-source-software",
@@ -965,7 +1029,7 @@
       "id": "PERSON-RAND-PAUL",
       "title": "Rand Paul",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "person",
         "privacy",
@@ -1120,7 +1184,7 @@
       "id": "PERSON-CORY-BOOKER",
       "title": "Cory Booker",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-19",
       "tags": [
         "person",
         "internet-governance",

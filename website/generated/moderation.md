@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-19 07:59 UTC
+Last updated: 2026-07-22 08:09 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,20 +8,22 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
+| Open PRs awaiting review | 1 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 132 |
+| Draft content items | 136 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#56](https://github.com/itsmeront/open-internet-reference/pull/56) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (132)
+### 📋 Draft (136)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -36,17 +38,17 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `CASE-PACKINGHAM-V-NC` | Packingham v. North Carolina | `knowledge/legal/CASE-PACKINGHAM-V-NC.md` |
 | `TOPIC-COMPUTER-FRAUD` | Computer Fraud and Abuse | `knowledge/legal/TOPIC-COMPUTER-FRAUD.md` |
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
+| `CASE-LENZ-V-UNIVERSAL` | Lenz v. Universal Music Corp. | `knowledge/legal/CASE-LENZ-V-UNIVERSAL.md` |
 | `TOPIC-SAFE-HARBOR` | Online Service Provider Safe Harbor | `knowledge/legal/TOPIC-SAFE-HARBOR.md` |
 | `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
 | `CASE-GOOGLE-V-ORACLE` | Google LLC v. Oracle America, Inc. | `knowledge/legal/CASE-GOOGLE-V-ORACLE.md` |
 | `STAT-CFAA-1030` | Computer Fraud and Abuse Act (18 U.S.C.  | `knowledge/legal/STAT-CFAA-1030.md` |
 | `CASE-CARPENTER-V-US` | Carpenter v. United States | `knowledge/legal/CASE-CARPENTER-V-US.md` |
+| `TOPIC-FAIR-USE-VIDEO` | Fair Use and Video | `knowledge/legal/TOPIC-FAIR-USE-VIDEO.md` |
 | `CASE-BERNSTEIN-V-DOJ` | Bernstein v. United States Department of | `knowledge/legal/CASE-BERNSTEIN-V-DOJ.md` |
 | `CASE-PERFECT10-V-CCBILL` | Perfect 10, Inc. v. CCBill LLC | `knowledge/legal/CASE-PERFECT10-V-CCBILL.md` |
-| `CASE-VAN-BUREN-V-US` | Van Buren v. United States | `knowledge/legal/CASE-VAN-BUREN-V-US.md` |
-| `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` | Brown v. Entertainment Merchants Assn. | `knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md` |
 
-*...and 112 more*
+*...and 116 more*
 
 ## Stale Verifications
 
