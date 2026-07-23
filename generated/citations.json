@@ -753,6 +753,54 @@
       ]
     },
     {
+      "source_id": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+      "source_title": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)",
+      "usages": [
+        {
+          "record_id": "CASE-COIN-CENTER-V-YELLEN",
+          "record_title": "Coin Center v. Yellen",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+          "predicate": "cites",
+          "record_id": "CASE-COIN-CENTER-V-YELLEN",
+          "record_title": "Coin Center v. Yellen",
+          "subject": "CASE-COIN-CENTER-V-YELLEN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-VAN-LOON-V-TREASURY",
+          "predicate": "related_to",
+          "record_id": "CASE-COIN-CENTER-V-YELLEN",
+          "record_title": "Coin Center v. Yellen",
+          "subject": "CASE-COIN-CENTER-V-YELLEN",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "CASE-COIN-CENTER-V-YELLEN",
+          "record_title": "Coin Center v. Yellen",
+          "subject": "CASE-COIN-CENTER-V-YELLEN",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-COIN-CENTER-V-YELLEN",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-COOLEY-TECH",
       "source_title": "Cooley Technology Industry Practice Page",
       "usages": [
@@ -837,6 +885,62 @@
           "record_id": "PERSON-WHITFIELD-DIFFIE",
           "record_title": "Whitfield Diffie",
           "subject": "PERSON-WHITFIELD-DIFFIE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOJ-STORM-CONVICTION-2025",
+      "source_title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOJ-STORM-INDICTMENT",
+      "source_title": "United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DOJ-STORM-INDICTMENT",
+          "predicate": "cites",
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "subject": "CASE-US-V-STORM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "subject": "CASE-US-V-STORM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
           "usage": "relationship_source"
         }
       ]
@@ -1027,6 +1131,17 @@
       ]
     },
     {
+      "source_id": "SRC-FBI-SEMENOV",
+      "source_title": "FBI Wanted \u2014 Roman Semenov",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FENWICK-HISTORY",
       "source_title": "Fenwick & West Firm History Page",
       "usages": [
@@ -1198,6 +1313,51 @@
           "record_id": "PERSON-THOMAS-HAIGH",
           "record_title": "Thomas Haigh",
           "subject": "PERSON-THOMAS-HAIGH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-IEEPA-50-USC-1702-LII",
+      "source_title": "50 U.S.C. \u00a7 1702 \u2014 International Emergency Economic Powers (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "interprets",
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "subject": "CASE-VAN-LOON-V-TREASURY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-IEEPA",
+          "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IEEPA-50-USC-1702-LII",
+          "predicate": "cites",
+          "record_id": "STAT-IEEPA",
+          "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+          "subject": "STAT-IEEPA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
           "usage": "relationship_source"
         }
       ]
@@ -1815,6 +1975,33 @@
       ]
     },
     {
+      "source_id": "SRC-OFAC-FAQ-1076",
+      "source_title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
+      "usages": [
+        {
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OFAC-TC-REMOVAL-20250321",
+      "source_title": "OFAC Recent Actions \u2014 Cyber-related Designation Removal (Mar. 21, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-OIR-BOOTSTRAP-PROMPT",
       "source_title": "OIR Bootstrap Prompt",
       "usages": []
@@ -2079,6 +2266,62 @@
           "record_title": "Perkins Coie",
           "subject": "ORG-PERKINS-COIE",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PERTSEV-ECLI-2024",
+      "source_title": "Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-PERTSEV-ECLI-2024",
+          "predicate": "cites",
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "subject": "CASE-NL-V-PERTSEV",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "subject": "CASE-NL-V-PERTSEV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-NL-V-PERTSEV",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+      "source_title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
         }
       ]
     },
@@ -2836,6 +3079,101 @@
       ]
     },
     {
+      "source_id": "SRC-TREASURY-SEMENOV-2023",
+      "source_title": "Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)",
+      "usages": [
+        {
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "record_id": "CASE-NL-V-PERTSEV",
+          "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+          "subject": "CASE-NL-V-PERTSEV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-NL-V-PERTSEV",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-STORM",
+          "record_title": "United States v. Storm",
+          "subject": "CASE-US-V-STORM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TREASURY-TC-AUG-2022",
+      "source_title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)",
+      "usages": [
+        {
+          "record_id": "CASE-COIN-CENTER-V-YELLEN",
+          "record_title": "Coin Center v. Yellen",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TREASURY-TC-DELIST-2025",
+      "source_title": "Tornado Cash Delisting (Mar. 21, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TREASURY-TC-NOV-2022",
+      "source_title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-US-CONST-AMEND-I-LII",
       "source_title": "U.S. Constitution First Amendment (Cornell LII)",
       "usages": [
@@ -3328,6 +3666,136 @@
           "record_id": "TOPIC-COMPUTER-FRAUD",
           "record_title": "Computer Fraud and Abuse",
           "subject": "TOPIC-COMPUTER-FRAUD",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "source_title": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)",
+      "usages": [
+        {
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+          "predicate": "cites",
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "subject": "CASE-VAN-LOON-V-TREASURY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "interprets",
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "subject": "CASE-VAN-LOON-V-TREASURY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "subject": "CASE-VAN-LOON-V-TREASURY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "CASE-VAN-LOON-V-TREASURY",
+          "record_title": "Van Loon v. Department of the Treasury",
+          "subject": "CASE-VAN-LOON-V-TREASURY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-IEEPA",
+          "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-VAN-LOON-V-TREASURY",
+          "predicate": "related_to",
+          "record_id": "STAT-IEEPA",
+          "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+          "subject": "STAT-IEEPA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "STAT-IEEPA",
+          "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+          "subject": "STAT-IEEPA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+          "predicate": "cites",
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "subject": "TECH-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-VAN-LOON-V-TREASURY",
+          "predicate": "related_to",
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "subject": "TECH-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "TECH-TORNADO-CASH",
+          "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "subject": "TECH-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+          "predicate": "cites",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-VAN-LOON-V-TREASURY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-TORNADO-CASH",
+          "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
+          "subject": "TOPIC-TORNADO-CASH",
           "usage": "relationship_source"
         }
       ]

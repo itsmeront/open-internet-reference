@@ -31,7 +31,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 1
     - **Relationships**: 1
-    - **Research debt items**: 3
+    - **Research debt items**: 4
     - **Last verified**: 2026-06-17
 
 ---
@@ -71,3 +71,4 @@ Technical analysis has not yet been drafted. Future work should summarize TCP's 
 - Add historical RFC lineage.
 - Add a concise technical summary of TCP's service model.
 - Add relationships to internet architecture and transport-layer topics after those pages exist.
+- Evaluate evidence-backed relationship to `TOPIC-TORNADO-CASH` / `TECH-TORNADO-CASH` regarding intermediary choke points versus protocol persistence (requires censorship-architecture sources, not only Van Loon).

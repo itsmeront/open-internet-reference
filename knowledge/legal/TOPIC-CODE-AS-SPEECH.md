@@ -82,3 +82,4 @@ Additional sources (not yet cited in footnotes):
 - Add case law on software publication and encryption export controls.
 - Distinguish expressive code claims from Internet content regulation and commercial speech doctrines.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Evaluate whether `TOPIC-TORNADO-CASH` / `CASE-VAN-LOON-V-TREASURY` should be linked after First Amendment claims in the Tornado Cash civil record are sourced; Van Loon’s published holding is an IEEPA “property” ruling, not a code-as-speech holding.

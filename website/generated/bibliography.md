@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 140
+Record count: 154
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -325,6 +325,19 @@ FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 
+## `SRC-COIN-CENTER-YELLEN-NDFLA-2023`: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023) { #SRC-COIN-CENTER-YELLEN-NDFLA-2023 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
+- Tags: source, case, sanctions
+
+Northern District of Florida summary-judgment opinion upholding OFAC’s Tornado Cash designation.
+
+### Cited By
+- [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
 ## `SRC-COOLEY-TECH`: Cooley Technology Industry Practice Page { #SRC-COOLEY-TECH }
 
 - Type: `source`
@@ -373,6 +386,32 @@ Stanford Center for International Security and Cooperation profile for Whitfield
 
 ### Cited By
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
+
+## `SRC-DOJ-STORM-CONVICTION-2025`: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) { #SRC-DOJ-STORM-CONVICTION-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- Tags: source, case, computer-crime
+
+U.S. Attorney’s Office SDNY page stating Roman Storm was convicted in August 2025 of conspiring to operate an unlicensed money transmitting business.
+
+### Cited By
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-DOJ-STORM-INDICTMENT`: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) { #SRC-DOJ-STORM-INDICTMENT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- Tags: source, case, computer-crime, sanctions
+
+DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-laundering, unlicensed money-transmitting, and IEEPA conspiracies related to Tornado Cash.
+
+### Cited By
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-EFF-ABOUT`: Electronic Frontier Foundation About Page { #SRC-EFF-ABOUT }
 
@@ -448,6 +487,18 @@ Official Knight First Amendment Institute biography for deputy litigation direct
 
 ### Cited By
 - [`PERSON-KATIE-FALLOW: Katie Fallow`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+
+## `SRC-FBI-SEMENOV`: FBI Wanted — Roman Semenov { #SRC-FBI-SEMENOV }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-FBI-SEMENOV.md`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
+- Tags: source, case, computer-crime, sanctions
+
+FBI Wanted poster for Roman Semenov describing charges related to Tornado Cash and listing him as a fugitive.
+
+### Cited By
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 
 ## `SRC-FENWICK-HISTORY`: Fenwick & West Firm History Page { #SRC-FENWICK-HISTORY }
 
@@ -545,6 +596,20 @@ Official UWM History Department faculty profile for Thomas Haigh describing his 
 
 ### Cited By
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+
+## `SRC-IEEPA-50-USC-1702-LII`: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) { #SRC-IEEPA-50-USC-1702-LII }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- Tags: source, statute, sanctions
+
+Cornell LII page for 50 U.S.C. § 1702, the IEEPA provision authorizing regulation of property in which foreign nations or nationals have interests.
+
+### Cited By
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-IFS-ABOUT-US`: Institute for Free Speech About Us Page { #SRC-IFS-ABOUT-US }
 
@@ -839,6 +904,31 @@ Columbia Data Science Institute profile of Eben Moglen describing his work with 
 ### Cited By
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 
+## `SRC-OFAC-FAQ-1076`: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation { #SRC-OFAC-FAQ-1076 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-OFAC-FAQ-1076.md`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- Tags: source, sanctions, open-source-software
+
+OFAC FAQ describing Tornado Cash designation history, SDN identifiers, and guidance on open-source code interactions.
+
+### Cited By
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-OFAC-TC-REMOVAL-20250321`: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025) { #SRC-OFAC-TC-REMOVAL-20250321 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
+- Tags: source, sanctions
+
+OFAC recent-actions notice documenting removal of Tornado Cash SDN list entries on March 21, 2025.
+
+### Cited By
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+
 ## `SRC-OIR-BOOTSTRAP-PROMPT`: OIR Bootstrap Prompt { #SRC-OIR-BOOTSTRAP-PROMPT }
 
 - Type: `source`
@@ -997,6 +1087,32 @@ Official Perkins Coie practice page describing the Technology Transactions & Pri
 
 ### Cited By
 - [`ORG-PERKINS-COIE: Perkins Coie`](source-docs/knowledge/organizations/ORG-PERKINS-COIE.md)
+
+## `SRC-PERTSEV-ECLI-2024`: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024) { #SRC-PERTSEV-ECLI-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-PERTSEV-ECLI-2024.md`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- Tags: source, case, computer-crime, privacy
+
+Dutch district court judgment convicting a Tornado Cash developer of money laundering and imposing a 64-month prison sentence.
+
+### Cited By
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-PERTSEV-RECHTSPRAAK-EN-2024`: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024) { #SRC-PERTSEV-RECHTSPRAAK-EN-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- Tags: source, case, computer-crime
+
+English-language Rechtspraak.nl news page summarizing the East Brabant District Court conviction of Tornado Cash developer Alexey Pertsev.
+
+### Cited By
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-PUBLIC-KNOWLEDGE-ABOUT`: Public Knowledge About Page { #SRC-PUBLIC-KNOWLEDGE-ABOUT }
 
@@ -1376,6 +1492,61 @@ Official Tor Project history page describing onion routing origins and the organ
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 
+## `SRC-TREASURY-SEMENOV-2023`: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) { #SRC-TREASURY-SEMENOV-2023 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TREASURY-SEMENOV-2023.md`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- Tags: source, sanctions, computer-crime
+
+Treasury press release announcing OFAC designation of Roman Semenov and describing coordinated DOJ charges against Semenov and Roman Storm.
+
+### Cited By
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-TREASURY-TC-AUG-2022`: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) { #SRC-TREASURY-TC-AUG-2022 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TREASURY-TC-AUG-2022.md`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- Tags: source, sanctions, digital-rights
+
+Treasury press release announcing OFAC’s August 8, 2022 designation of Tornado Cash under E.O. 13694.
+
+### Cited By
+- [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-TREASURY-TC-DELIST-2025`: Tornado Cash Delisting (Mar. 21, 2025) { #SRC-TREASURY-TC-DELIST-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- Tags: source, sanctions, digital-rights
+
+Treasury press release announcing discretionary removal of economic sanctions against Tornado Cash on March 21, 2025.
+
+### Cited By
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-TREASURY-TC-NOV-2022`: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022) { #SRC-TREASURY-TC-NOV-2022 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TREASURY-TC-NOV-2022.md`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- Tags: source, sanctions, digital-rights
+
+Treasury press release announcing OFAC’s November 8, 2022 delisting and simultaneous redesignation of Tornado Cash under E.O. 13722 and E.O. 13694.
+
+### Cited By
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
 ## `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII) { #SRC-US-CONST-AMEND-I-LII }
 
 - Type: `source`
@@ -1510,6 +1681,21 @@ Cornell Legal Information Institute page for the Supreme Court decision interpre
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+
+## `SRC-VAN-LOON-5TH-CIR-JUSTIA`: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) { #SRC-VAN-LOON-5TH-CIR-JUSTIA }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+- Tags: source, case, sanctions, open-source-software, censorship-resistance
+
+Justia reproduction of the Fifth Circuit opinion holding that Tornado Cash immutable smart contracts are not IEEPA property.
+
+### Cited By
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-VIXIE-IHOF`: Paul Vixie Internet Hall of Fame Profile { #SRC-VIXIE-IHOF }
 

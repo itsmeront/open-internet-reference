@@ -4,39 +4,44 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 232
-- Records needing review: 116
+- Records: 253
+- Records needing review: 137
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 116
+- [`draft`](#draft-records): 137
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
-- [`case`](#case-records): 11
+- [`case`](#case-records): 15
 - [`organization`](#organization-records): 20
 - [`person`](#person-records): 28
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 140
-- [`statute`](#statute-records): 4
-- [`topic`](#topic-records): 10
+- [`source`](#source-records): 154
+- [`statute`](#statute-records): 5
+- [`technology`](#technology-records): 1
+- [`topic`](#topic-records): 11
 
 ## Records Needing Review
 
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
@@ -105,21 +110,35 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
 - [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
 - [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+- [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
@@ -130,8 +149,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
@@ -142,6 +163,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## Records Missing Verification Date
 
@@ -154,14 +176,18 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
@@ -230,21 +256,35 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
 - [`SRC-PAUL-FISA: Fox News Op-Ed: Sen. Rand Paul — My FISA Reform Amendment Will Keep America Safe`](source-docs/bibliography/people/SRC-PAUL-FISA.md)
 - [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+- [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
@@ -255,8 +295,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
@@ -267,6 +309,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## verified Records { #verified-records }
 
@@ -411,14 +454,18 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
+- [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 
 ## organization Records { #organization-records }
 
@@ -508,16 +555,20 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 - [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
+- [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+- [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
 - [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
 - [`SRC-EPIC-ABOUT: EPIC About Page`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
 - [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
 - [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
+- [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
@@ -526,6 +577,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
 - [`SRC-IJ-FIRST-AMENDMENT: Institute for Justice First Amendment Practice Area`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
@@ -550,6 +602,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
 - [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
 - [`SRC-OIR-PROJECT-CHARTER-DOCX: Open Internet Reference Project Charter`](source-docs/bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md)
 - [`SRC-OIR-ROADMAP-DOCX: Open Internet Reference Roadmap`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md)
@@ -563,6 +617,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PAUL-FOURTH-AMENDMENT: Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights`](source-docs/bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md)
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
+- [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
 - [`SRC-PUBLIC-KNOWLEDGE-ABOUT: Public Knowledge About Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md)
 - [`SRC-PUBLIC-KNOWLEDGE-CONTACT: Public Knowledge Contact Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
 - [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
@@ -594,6 +650,10 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
 - [`SRC-US-CONST-AMEND-I-LII: U.S. Constitution First Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
@@ -604,6 +664,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-USC-18-1030-LII: 18 U.S.C. § 1030`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md)
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-VIXIE-IHOF: Paul Vixie Internet Hall of Fame Profile`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
 - [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
 - [`SRC-WEINSTEIN-BIO: Lauren Weinstein Biography Page`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md)
@@ -627,8 +688,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
+- [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+
+## technology Records { #technology-records }
+
+- [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 
 ## topic Records { #topic-records }
 
@@ -642,3 +708,4 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 - [`TOPIC-SAFE-HARBOR: Online Service Provider Safe Harbor`](source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md)
+- [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)

@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 149
+Term count: 156
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -20,6 +20,10 @@ Term count: 149
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 
+## `CASE-COIN-CENTER-V-YELLEN` { #case-coin-center-v-yellen }
+
+- [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
+
 ## `CASE-GOOGLE-V-ORACLE` { #case-google-v-oracle }
 
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -33,6 +37,12 @@ Term count: 149
 
 - [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `CASE-NL-V-PERTSEV` { #case-nl-v-pertsev }
+
+- [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 
 ## `CASE-PACKINGHAM-V-NC` { #case-packingham-v-nc }
 
@@ -54,10 +64,28 @@ Term count: 149
 
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 
+## `CASE-US-V-STORM` { #case-us-v-storm }
+
+- [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+
 ## `CASE-VAN-BUREN-V-US` { #case-van-buren-v-us }
 
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+
+## `CASE-VAN-LOON-V-TREASURY` { #case-van-loon-v-treasury }
+
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
 ## `CONTACT-COOLEY` { #contact-cooley }
 
@@ -402,6 +430,11 @@ Term count: 149
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 
+## `STAT-IEEPA` { #stat-ieepa }
+
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
 ## `STAT-SECTION-230` { #stat-section-230 }
 
 - [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
@@ -411,6 +444,11 @@ Term count: 149
 
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `TECH-TORNADO-CASH` { #tech-tornado-cash }
+
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
 ## `TOPIC-COMPUTER-FRAUD` { #topic-computer-fraud }
 
@@ -453,6 +491,23 @@ Term count: 149
 
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
 - [`SRC-USC-17-512-GOVINFO: 17 U.S.C. § 512 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
+
+## `TOPIC-TORNADO-CASH` { #topic-tornado-cash }
+
+- [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
+- [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
+- [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
+- [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
+- [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
+- [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+- [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+- [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+- [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
+- [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
 ## American Civil Liberties Union { #american-civil-liberties-union }
 
