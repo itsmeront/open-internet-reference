@@ -7,7 +7,9 @@ The Open Internet Reference knowledge base documents organizations, lawyers, cou
 - [Organizations](organizations.md) — groups that defend digital rights and support open source software companies.
 - [Lawyers](lawyers.md) — attorneys and legal scholars known for fighting censorship and protecting software rights.
 - [Technical Experts](experts.md) — engineers and scholars who explain internet architecture, cryptography, and platform policy (useful for expert consultation in litigation).
-- [Law](law.md) — court cases, statutes, and legal topics that establish precedent.
+- [Policymakers](policymakers.md) — legislators active on digital rights, privacy, encryption, and internet freedom.
+- [Law](law.md) — court cases and statutes that establish precedent.
+- [Topics](topics.md) — durable concept and case-study pages (`TOPIC-*`), including legal doctrine and technical topics.
 
 ## Generated Indexes
 
