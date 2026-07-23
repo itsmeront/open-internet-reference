@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 154
+Source count: 161
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -52,6 +52,9 @@ Source count: 154
 - Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `argued` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 
 ## [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography
 
@@ -194,15 +197,31 @@ Source count: 154
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `cites` [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 
 ## [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md): Whitfield Diffie Stanford CISAC Profile
 
 - Page source in [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 - Relationship source in [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md): [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md) `cites` [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 
+## [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md): DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)
+
+- Page source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Relationship source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `cites` [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- Relationship source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+
+## [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md): DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)
+
+- Page source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
 ## [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md): SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)
 
 - Page source in [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md): United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)
@@ -210,6 +229,8 @@ Source count: 154
 - Page source in [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - Relationship source in [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md): [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md) `cites` [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
 - Relationship source in [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md): [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 
@@ -235,6 +256,11 @@ Source count: 154
 
 - Page source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md): [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md) `cites` [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
+
+## [`SRC-EFF-SKLYAROV-CASE`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md): EFF Case Page — US v. ElcomSoft / Sklyarov
+
+- Page source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Relationship source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 
 ## [`SRC-EPIC-ABOUT`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md): EPIC About Page
 
@@ -325,6 +351,21 @@ Source count: 154
 - Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `cites` [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
 - Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
+## [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md): IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)
+
+- Page source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `cites` [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+
+## [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md): IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)
+
+- Page source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `cites` [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
 ## [`SRC-JAFFER-KNIGHT`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md): Jameel Jaffer Knight Institute Biography
 
 - Page source in [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
@@ -347,6 +388,7 @@ Source count: 154
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric
 
@@ -535,6 +577,8 @@ Source count: 154
 - Page source in [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - Relationship source in [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md): [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md) `cites` [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - Relationship source in [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md): [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 
@@ -720,6 +764,16 @@ Source count: 154
 - Relationship source in [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md) `cites` [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
 - Relationship source in [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md) `related_to` [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 
+## [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md): Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)
+
+- Page source in [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Relationship source in [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `cites` [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+- Relationship source in [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`STAT-IEEPA`](source-docs/knowledge/legal/STAT-IEEPA.md)
+- Relationship source in [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+
 ## [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md): Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)
 
 - Page source in [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
@@ -733,6 +787,7 @@ Source count: 154
 - Page source in [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - Page source in [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Page source in [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md): Tornado Cash Delisting (Mar. 21, 2025)
@@ -853,6 +908,8 @@ Source count: 154
 - Relationship source in [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) `cites` [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - Relationship source in [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) `related_to` [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Relationship source in [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `cites` [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
@@ -946,13 +1003,28 @@ Source count: 154
 
 ## [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography
 
+- Page source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Relationship source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
 
+## [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md): Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)
+
+- Page source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Relationship source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `cites` [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+- Relationship source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- Relationship source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- Relationship source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+
 ## [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md): EPIC Alert — Charges Dropped Against Phil Zimmermann
 
+- Page source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Relationship source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Page source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+- Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 
 ## [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile
 

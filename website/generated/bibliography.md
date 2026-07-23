@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 154
+Record count: 161
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -101,6 +101,7 @@ Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
 ### Cited By
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography { #SRC-BHANDARI-ACLU }
 
@@ -374,6 +375,7 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 
 ### Cited By
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-DIFFIE-CISAC`: Whitfield Diffie Stanford CISAC Profile { #SRC-DIFFIE-CISAC }
 
@@ -387,6 +389,32 @@ Stanford Center for International Security and Cooperation profile for Whitfield
 ### Cited By
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 
+## `SRC-DOJ-SKLYAROV-AGREE-2001`: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) { #SRC-DOJ-SKLYAROV-AGREE-2001 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- Tags: source, case, copyright, open-source-risk
+
+DOJ Cybercrime archive press release on Dmitry Sklyarov’s deferred-prosecution agreement in the first DMCA criminal case.
+
+### Cited By
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+## `SRC-DOJ-SKLYAROV-INDICTMENT-2001`: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) { #SRC-DOJ-SKLYAROV-INDICTMENT-2001 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
+- Tags: source, case, copyright, open-source-risk
+
+Archived DOJ press release announcing the first DMCA criminal indictment against Dmitry Sklyarov and Elcomsoft Co. Ltd.
+
+### Cited By
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
 ## `SRC-DOJ-STORM-CONVICTION-2025`: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) { #SRC-DOJ-STORM-CONVICTION-2025 }
 
 - Type: `source`
@@ -398,6 +426,7 @@ U.S. Attorney’s Office SDNY page stating Roman Storm was convicted in August 2
 
 ### Cited By
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-DOJ-STORM-INDICTMENT`: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) { #SRC-DOJ-STORM-INDICTMENT }
@@ -411,6 +440,7 @@ DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-launderi
 
 ### Cited By
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-EFF-ABOUT`: Electronic Frontier Foundation About Page { #SRC-EFF-ABOUT }
@@ -451,6 +481,18 @@ Official EFF contact page with public legal assistance, general information, pre
 
 ### Cited By
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
+
+## `SRC-EFF-SKLYAROV-CASE`: EFF Case Page — US v. ElcomSoft / Sklyarov { #SRC-EFF-SKLYAROV-CASE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-EFF-SKLYAROV-CASE.md`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
+- Tags: source, case, copyright
+
+EFF case page documenting the Sklyarov/ElcomSoft DMCA prosecution, deferred prosecution of Sklyarov, and related materials.
+
+### Cited By
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 
 ## `SRC-EPIC-ABOUT`: EPIC About Page { #SRC-EPIC-ABOUT }
 
@@ -647,6 +689,32 @@ Official First Amendment issues page of the Institute for Justice describing its
 ### Cited By
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
 
+## `SRC-IRS-SAMOURAI-PLEA-2025`: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) { #SRC-IRS-SAMOURAI-PLEA-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- Tags: source, case, computer-crime, open-source-risk
+
+IRS Criminal Investigation announcement of guilty pleas by Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill.
+
+### Cited By
+- [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+## `SRC-IRS-SAMOURAI-SENTENCE-2025`: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) { #SRC-IRS-SAMOURAI-SENTENCE-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+- Tags: source, case, computer-crime, open-source-risk
+
+IRS Criminal Investigation announcement of prison sentences for Samourai Wallet co-founders Rodriguez and Hill.
+
+### Cited By
+- [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
 ## `SRC-JAFFER-KNIGHT`: Jameel Jaffer Knight Institute Biography { #SRC-JAFFER-KNIGHT }
 
 - Type: `source`
@@ -694,6 +762,7 @@ Full text of the Sixth Circuit opinion in Junger v. Daley hosted by Carnegie Mel
 
 ### Cited By
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-KADEMLIA-PAPER`: Kademlia: A Peer-to-Peer Information System Based on the XOR Metric { #SRC-KADEMLIA-PAPER }
 
@@ -1099,6 +1168,7 @@ Dutch district court judgment convicting a Tornado Cash developer of money laund
 
 ### Cited By
 - [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-PERTSEV-RECHTSPRAAK-EN-2024`: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024) { #SRC-PERTSEV-RECHTSPRAAK-EN-2024 }
@@ -1492,6 +1562,19 @@ Official Tor Project history page describing onion routing origins and the organ
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 
+## `SRC-TREASURY-BLENDER-2022`: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) { #SRC-TREASURY-BLENDER-2022 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TREASURY-BLENDER-2022.md`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+- Tags: source, sanctions, digital-rights
+
+Treasury press release announcing OFAC’s May 6, 2022 designation of Blender.io as the first sanctioned virtual currency mixer.
+
+### Cited By
+- [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
 ## `SRC-TREASURY-SEMENOV-2023`: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) { #SRC-TREASURY-SEMENOV-2023 }
 
 - Type: `source`
@@ -1519,6 +1602,7 @@ Treasury press release announcing OFAC’s August 8, 2022 designation of Tornado
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-TREASURY-TC-DELIST-2025`: Tornado Cash Delisting (Mar. 21, 2025) { #SRC-TREASURY-TC-DELIST-2025 }
@@ -1695,6 +1779,7 @@ Justia reproduction of the Fifth Circuit opinion holding that Tornado Cash immut
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## `SRC-VIXIE-IHOF`: Paul Vixie Internet Hall of Fame Profile { #SRC-VIXIE-IHOF }
@@ -1890,7 +1975,22 @@ Press release from Senator Ron Wyden's office announcing the introduction of the
 Official biography page for Phil Zimmermann describing PGP creation, export investigation, and cryptography awards.
 
 ### Cited By
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+
+## `SRC-ZIMMERMANN-DECLINATION-1996`: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text) { #SRC-ZIMMERMANN-DECLINATION-1996 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+- Tags: source, cryptography, export-control, open-source-risk
+
+Zimmermann site publication of the U.S. Attorney declination closing the PGP export investigation without prosecution.
+
+### Cited By
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`: EPIC Alert — Charges Dropped Against Phil Zimmermann { #SRC-ZIMMERMANN-INVESTIGATION-CLOSED }
 
@@ -1902,7 +2002,9 @@ Official biography page for Phil Zimmermann describing PGP creation, export inve
 EPIC Alert reporting that federal prosecutors closed the criminal investigation into Phil Zimmermann without filing charges over PGP distribution.
 
 ### Cited By
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+- [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 
 ## `SRC-ZITTRAIN-HLS`: Jonathan L. Zittrain Harvard Law School Faculty Profile { #SRC-ZITTRAIN-HLS }
 

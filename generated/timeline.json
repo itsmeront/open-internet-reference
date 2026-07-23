@@ -16,6 +16,13 @@
       "record_title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann"
     },
     {
+      "date": "1996-01-12",
+      "description": "Publication date for Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text).",
+      "event_type": "publication",
+      "record_id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "record_title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)"
+    },
+    {
       "date": "1997",
       "description": "Publication date for Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).",
       "event_type": "publication",
@@ -51,11 +58,25 @@
       "record_title": "Junger v. Daley Opinion Text (CMU)"
     },
     {
+      "date": "2001-08-28",
+      "description": "Publication date for DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001).",
+      "event_type": "publication",
+      "record_id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "record_title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)"
+    },
+    {
       "date": "2001-11-28",
       "description": "Publication date for Universal City Studios v. Corley Opinion Text (Open Casebook).",
       "event_type": "publication",
       "record_id": "SRC-CORLEY-LII",
       "record_title": "Universal City Studios v. Corley Opinion Text (Open Casebook)"
+    },
+    {
+      "date": "2001-12-13",
+      "description": "Publication date for DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001).",
+      "event_type": "publication",
+      "record_id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "record_title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)"
     },
     {
       "date": "2002",
@@ -219,6 +240,13 @@
       "record_title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising"
     },
     {
+      "date": "2022-05-06",
+      "description": "Publication date for Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022).",
+      "event_type": "publication",
+      "record_id": "SRC-TREASURY-BLENDER-2022",
+      "record_title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)"
+    },
+    {
       "date": "2022-06-13",
       "description": "Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.",
       "event_type": "publication",
@@ -331,6 +359,13 @@
       "record_title": "Tornado Cash Delisting (Mar. 21, 2025)"
     },
     {
+      "date": "2025-07-30",
+      "description": "Publication date for IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025).",
+      "event_type": "publication",
+      "record_id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "record_title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)"
+    },
+    {
       "date": "2025-08",
       "description": "Publication date for SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025).",
       "event_type": "publication",
@@ -343,6 +378,13 @@
       "event_type": "publication",
       "record_id": "SRC-CFA-RELAUNCH-CNN",
       "record_title": "Jane Fonda Relaunches Committee for the First Amendment (CNN)"
+    },
+    {
+      "date": "2025-11",
+      "description": "Publication date for IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025).",
+      "event_type": "publication",
+      "record_id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "record_title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)"
     },
     {
       "date": "2026-06-01",
@@ -1403,13 +1445,6 @@
     },
     {
       "date": "2026-07-04",
-      "description": "Last verified date for Phil Zimmermann.",
-      "event_type": "verification",
-      "record_id": "PERSON-PHIL-ZIMMERMANN",
-      "record_title": "Phil Zimmermann"
-    },
-    {
-      "date": "2026-07-04",
       "description": "Last verified date for Robert Kahn.",
       "event_type": "verification",
       "record_id": "PERSON-ROBERT-KAHN",
@@ -1977,6 +2012,20 @@
     },
     {
       "date": "2026-07-23",
+      "description": "Last verified date for United States v. Rodriguez (Samourai Wallet).",
+      "event_type": "verification",
+      "record_id": "CASE-US-V-RODRIGUEZ",
+      "record_title": "United States v. Rodriguez (Samourai Wallet)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for United States v. Sklyarov / Elcomsoft.",
+      "event_type": "verification",
+      "record_id": "CASE-US-V-SKLYAROV",
+      "record_title": "United States v. Sklyarov / Elcomsoft"
+    },
+    {
+      "date": "2026-07-23",
       "description": "Last verified date for United States v. Storm.",
       "event_type": "verification",
       "record_id": "CASE-US-V-STORM",
@@ -1991,10 +2040,45 @@
     },
     {
       "date": "2026-07-23",
+      "description": "Last verified date for OFAC Designation of Blender.io (May 6, 2022).",
+      "event_type": "verification",
+      "record_id": "EVENT-OFAC-BLENDER-2022",
+      "record_title": "OFAC Designation of Blender.io (May 6, 2022)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996).",
+      "event_type": "verification",
+      "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for Phil Zimmermann.",
+      "event_type": "verification",
+      "record_id": "PERSON-PHIL-ZIMMERMANN",
+      "record_title": "Phil Zimmermann"
+    },
+    {
+      "date": "2026-07-23",
       "description": "Last verified date for Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023).",
       "event_type": "verification",
       "record_id": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
       "record_title": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001).",
+      "event_type": "verification",
+      "record_id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "record_title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001).",
+      "event_type": "verification",
+      "record_id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "record_title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)"
     },
     {
       "date": "2026-07-23",
@@ -2012,6 +2096,13 @@
     },
     {
       "date": "2026-07-23",
+      "description": "Last verified date for EFF Case Page \u2014 US v. ElcomSoft / Sklyarov.",
+      "event_type": "verification",
+      "record_id": "SRC-EFF-SKLYAROV-CASE",
+      "record_title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov"
+    },
+    {
+      "date": "2026-07-23",
       "description": "Last verified date for FBI Wanted \u2014 Roman Semenov.",
       "event_type": "verification",
       "record_id": "SRC-FBI-SEMENOV",
@@ -2023,6 +2114,20 @@
       "event_type": "verification",
       "record_id": "SRC-IEEPA-50-USC-1702-LII",
       "record_title": "50 U.S.C. \u00a7 1702 \u2014 International Emergency Economic Powers (Cornell LII)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025).",
+      "event_type": "verification",
+      "record_id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "record_title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025).",
+      "event_type": "verification",
+      "record_id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "record_title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)"
     },
     {
       "date": "2026-07-23",
@@ -2051,6 +2156,13 @@
       "event_type": "verification",
       "record_id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
       "record_title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022).",
+      "event_type": "verification",
+      "record_id": "SRC-TREASURY-BLENDER-2022",
+      "record_title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)"
     },
     {
       "date": "2026-07-23",
@@ -2089,6 +2201,13 @@
     },
     {
       "date": "2026-07-23",
+      "description": "Last verified date for Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text).",
+      "event_type": "verification",
+      "record_id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "record_title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)"
+    },
+    {
+      "date": "2026-07-23",
       "description": "Last verified date for International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708).",
       "event_type": "verification",
       "record_id": "STAT-IEEPA",
@@ -2100,6 +2219,13 @@
       "event_type": "verification",
       "record_id": "TECH-TORNADO-CASH",
       "record_title": "Tornado Cash (Ethereum Mixer Protocol)"
+    },
+    {
+      "date": "2026-07-23",
+      "description": "Last verified date for Documented Proceedings Involving Software Authors and Operators.",
+      "event_type": "verification",
+      "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "record_title": "Documented Proceedings Involving Software Authors and Operators"
     },
     {
       "date": "2026-07-23",

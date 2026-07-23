@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 271
+Edge count: 297
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -234,6 +234,36 @@ Edge count: 271
 - Declared in: [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 - Sources: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 
+## [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `cites` [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+- Declared in: [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+
+- Declared in: [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `cites` [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+
+- Declared in: [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Sources: [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+
+## [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+
+- Declared in: [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Sources: [`SRC-EFF-SKLYAROV-CASE`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
+
+## [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Sources: [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+
 ## [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md) `cites` [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
 
 - Declared in: [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
@@ -293,6 +323,46 @@ Edge count: 271
 
 - Declared in: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `cites` [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+- Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`STAT-IEEPA`](source-docs/knowledge/legal/STAT-IEEPA.md)
+
+- Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+- Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `cites` [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+- Declared in: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+- Declared in: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Sources: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+
+## [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+
+- Declared in: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 
 ## [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) `cites` [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md)
 
@@ -889,6 +959,11 @@ Edge count: 271
 - Declared in: [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
 
+## [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+
+- Declared in: [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
 ## [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 
 - Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
@@ -1163,6 +1238,61 @@ Edge count: 271
 
 - Declared in: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Sources: [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `cites` [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
 ## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 

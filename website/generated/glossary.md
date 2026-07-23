@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 99
+Record count: 104
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -112,6 +112,24 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.
 
+## `CASE-US-V-RODRIGUEZ`: United States v. Rodriguez (Samourai Wallet) { #CASE-US-V-RODRIGUEZ }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-US-V-RODRIGUEZ.md`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Tags: case, computer-crime, open-source-risk, developer-rights, privacy, case-studies
+
+Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.
+
+## `CASE-US-V-SKLYAROV`: United States v. Sklyarov / Elcomsoft { #CASE-US-V-SKLYAROV }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-US-V-SKLYAROV.md`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
+- Tags: case, copyright, open-source-risk, developer-rights, speech-and-code, case-studies
+
+Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.
+
 ## `CASE-US-V-STORM`: United States v. Storm { #CASE-US-V-STORM }
 
 - Type: `case`
@@ -138,6 +156,24 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - Tags: case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
+
+## `EVENT-OFAC-BLENDER-2022`: OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022 }
+
+- Type: `historical_event`
+- Status: `draft`
+- Path: [`knowledge/legal/EVENT-OFAC-BLENDER-2022.md`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- Tags: historical-event, sanctions, digital-rights, case-studies, open-source-risk
+
+On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 — Treasury’s first sanctions action against a virtual currency mixer — citing laundering of proceeds linked to DPRK cyber activity.
+
+## `EVENT-ZIMMERMANN-PGP-INVESTIGATION`: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION }
+
+- Type: `historical_event`
+- Status: `draft`
+- Path: [`knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Tags: historical-event, cryptography, export-control, open-source-risk, developer-rights, speech-and-code, case-studies
+
+U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.
 
 ## `ORG-ACLU`: American Civil Liberties Union { #ORG-ACLU }
 
@@ -813,6 +849,15 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 - Tags: computer-crime, technology-law, digital-rights
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+## `TOPIC-DEVELOPER-SOFTWARE-LIABILITY`: Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Tags: developer-rights, open-source-risk, case-studies, computer-crime, sanctions, speech-and-code, copyright, export-control, cryptography, digital-rights
+
+Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
 ## `TOPIC-DMCA-TAKEDOWN-RESPONSE`: DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
 

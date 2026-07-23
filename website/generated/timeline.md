@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 383
+Event count: 401
 
 ## 1987-11
 
@@ -11,6 +11,10 @@ Event count: 383
 ## 1996-01-11
 
 - `publication`: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md) - Publication date for EPIC Alert — Charges Dropped Against Phil Zimmermann.
+
+## 1996-01-12
+
+- `publication`: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md) - Publication date for Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text).
 
 ## 1997
 
@@ -29,9 +33,17 @@ Event count: 383
 
 - `publication`: [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md) - Publication date for Junger v. Daley Opinion Text (CMU).
 
+## 2001-08-28
+
+- `publication`: [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md) - Publication date for DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001).
+
 ## 2001-11-28
 
 - `publication`: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md) - Publication date for Universal City Studios v. Corley Opinion Text (Open Casebook).
+
+## 2001-12-13
+
+- `publication`: [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md) - Publication date for DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001).
 
 ## 2002
 
@@ -104,6 +116,10 @@ Event count: 383
 
 - `publication`: [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md) - Publication date for Booker Announces Introduction of Bill to Ban Surveillance Advertising.
 
+## 2022-05-06
+
+- `publication`: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md) - Publication date for Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022).
+
 ## 2022-06-13
 
 - `publication`: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md) - Publication date for EFF Jewel v. NSA Case Page - Supreme Court Rejection.
@@ -156,6 +172,10 @@ Event count: 383
 - `publication`: [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md) - Publication date for OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025).
 - `publication`: [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md) - Publication date for Tornado Cash Delisting (Mar. 21, 2025).
 
+## 2025-07-30
+
+- `publication`: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md) - Publication date for IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025).
+
 ## 2025-08
 
 - `publication`: [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md) - Publication date for SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025).
@@ -163,6 +183,10 @@ Event count: 383
 ## 2025-10-01
 
 - `publication`: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md) - Publication date for Jane Fonda Relaunches Committee for the First Amendment (CNN).
+
+## 2025-11
+
+- `publication`: [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md) - Publication date for IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025).
 
 ## 2026-06-01
 
@@ -332,7 +356,6 @@ Event count: 383
 - `verification`: [`PERSON-ORIN-KERR`](source-docs/knowledge/people/PERSON-ORIN-KERR.md) - Last verified date for Orin Kerr.
 - `verification`: [`PERSON-PAMELA-CHESTEK`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md) - Last verified date for Pamela Chestek.
 - `verification`: [`PERSON-PAUL-VIXIE`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md) - Last verified date for Paul Vixie.
-- `verification`: [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) - Last verified date for Phil Zimmermann.
 - `verification`: [`PERSON-ROBERT-KAHN`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md) - Last verified date for Robert Kahn.
 - `verification`: [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md) - Last verified date for Ron Rivest.
 - `verification`: [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) - Last verified date for Thomas Haigh.
@@ -423,24 +446,37 @@ Event count: 383
 
 - `verification`: [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md) - Last verified date for Coin Center v. Yellen.
 - `verification`: [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md) - Last verified date for Netherlands v. Pertsev (Tornado Cash).
+- `verification`: [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) - Last verified date for United States v. Rodriguez (Samourai Wallet).
+- `verification`: [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md) - Last verified date for United States v. Sklyarov / Elcomsoft.
 - `verification`: [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md) - Last verified date for United States v. Storm.
 - `verification`: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md) - Last verified date for Van Loon v. Department of the Treasury.
+- `verification`: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) - Last verified date for OFAC Designation of Blender.io (May 6, 2022).
+- `verification`: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) - Last verified date for U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996).
+- `verification`: [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) - Last verified date for Phil Zimmermann.
 - `verification`: [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md) - Last verified date for Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023).
+- `verification`: [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md) - Last verified date for DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001).
+- `verification`: [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md) - Last verified date for DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001).
 - `verification`: [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md) - Last verified date for SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025).
 - `verification`: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md) - Last verified date for United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023).
+- `verification`: [`SRC-EFF-SKLYAROV-CASE`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md) - Last verified date for EFF Case Page — US v. ElcomSoft / Sklyarov.
 - `verification`: [`SRC-FBI-SEMENOV`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md) - Last verified date for FBI Wanted — Roman Semenov.
 - `verification`: [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md) - Last verified date for 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII).
+- `verification`: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md) - Last verified date for IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025).
+- `verification`: [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md) - Last verified date for IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025).
 - `verification`: [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md) - Last verified date for OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation.
 - `verification`: [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md) - Last verified date for OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025).
 - `verification`: [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md) - Last verified date for Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024).
 - `verification`: [`SRC-PERTSEV-RECHTSPRAAK-EN-2024`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md) - Last verified date for Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024).
+- `verification`: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md) - Last verified date for Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022).
 - `verification`: [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md) - Last verified date for Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023).
 - `verification`: [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md) - Last verified date for U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022).
 - `verification`: [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md) - Last verified date for Tornado Cash Delisting (Mar. 21, 2025).
 - `verification`: [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md) - Last verified date for Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022).
 - `verification`: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md) - Last verified date for Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia).
+- `verification`: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md) - Last verified date for Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text).
 - `verification`: [`STAT-IEEPA`](source-docs/knowledge/legal/STAT-IEEPA.md) - Last verified date for International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708).
 - `verification`: [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) - Last verified date for Tornado Cash (Ethereum Mixer Protocol).
+- `verification`: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) - Last verified date for Documented Proceedings Involving Software Authors and Operators.
 - `verification`: [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) - Last verified date for Tornado Cash Sanctions and Developer Prosecutions.
 
 ## Not dated

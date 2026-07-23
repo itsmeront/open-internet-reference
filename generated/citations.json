@@ -217,6 +217,27 @@
           "record_title": "Cindy Cohn",
           "subject": "PERSON-CINDY-COHN",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -867,6 +888,19 @@
           "record_title": "Universal City Studios v. Corley",
           "subject": "CASE-UNIVERSAL-V-CORLEY",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -890,12 +924,73 @@
       ]
     },
     {
+      "source_id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "source_title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DOJ-SKLYAROV-AGREE-2001",
+          "predicate": "cites",
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "subject": "CASE-US-V-SKLYAROV",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "subject": "CASE-US-V-SKLYAROV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-SKLYAROV",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "source_title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-DOJ-STORM-CONVICTION-2025",
       "source_title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
       "usages": [
         {
           "record_id": "CASE-US-V-STORM",
           "record_title": "United States v. Storm",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
           "usage": "page_source"
         },
         {
@@ -928,6 +1023,19 @@
           "record_id": "CASE-US-V-STORM",
           "record_title": "United States v. Storm",
           "subject": "CASE-US-V-STORM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
           "usage": "relationship_source"
         },
         {
@@ -1053,6 +1161,25 @@
           "record_id": "ORG-EFF",
           "record_title": "Electronic Frontier Foundation",
           "subject": "ORG-EFF",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-EFF-SKLYAROV-CASE",
+      "source_title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-SKLYAROV",
+          "record_title": "United States v. Sklyarov / Elcomsoft",
+          "subject": "CASE-US-V-SKLYAROV",
           "usage": "relationship_source"
         }
       ]
@@ -1428,6 +1555,78 @@
       ]
     },
     {
+      "source_id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "source_title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-RODRIGUEZ",
+          "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+          "predicate": "cites",
+          "record_id": "CASE-US-V-RODRIGUEZ",
+          "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "subject": "CASE-US-V-RODRIGUEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-RODRIGUEZ",
+          "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "subject": "CASE-US-V-RODRIGUEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-US-V-RODRIGUEZ",
+          "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "subject": "CASE-US-V-RODRIGUEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-RODRIGUEZ",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "source_title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-US-V-RODRIGUEZ",
+          "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+          "predicate": "cites",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-JAFFER-KNIGHT",
       "source_title": "Jameel Jaffer Knight Institute Biography",
       "usages": [
@@ -1524,6 +1723,11 @@
           "record_title": "Junger v. Daley",
           "subject": "CASE-JUNGER-V-DALEY",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
         }
       ]
     },
@@ -2292,6 +2496,19 @@
           "record_id": "CASE-NL-V-PERTSEV",
           "record_title": "Netherlands v. Pertsev (Tornado Cash)",
           "subject": "CASE-NL-V-PERTSEV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-NL-V-PERTSEV",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
           "usage": "relationship_source"
         },
         {
@@ -3079,6 +3296,62 @@
       ]
     },
     {
+      "source_id": "SRC-TREASURY-BLENDER-2022",
+      "source_title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
+      "usages": [
+        {
+          "record_id": "EVENT-OFAC-BLENDER-2022",
+          "record_title": "OFAC Designation of Blender.io (May 6, 2022)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TREASURY-BLENDER-2022",
+          "predicate": "cites",
+          "record_id": "EVENT-OFAC-BLENDER-2022",
+          "record_title": "OFAC Designation of Blender.io (May 6, 2022)",
+          "subject": "EVENT-OFAC-BLENDER-2022",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "related_to",
+          "record_id": "EVENT-OFAC-BLENDER-2022",
+          "record_title": "OFAC Designation of Blender.io (May 6, 2022)",
+          "subject": "EVENT-OFAC-BLENDER-2022",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "EVENT-OFAC-BLENDER-2022",
+          "record_title": "OFAC Designation of Blender.io (May 6, 2022)",
+          "subject": "EVENT-OFAC-BLENDER-2022",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "EVENT-OFAC-BLENDER-2022",
+          "record_title": "OFAC Designation of Blender.io (May 6, 2022)",
+          "subject": "EVENT-OFAC-BLENDER-2022",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-OFAC-BLENDER-2022",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-TREASURY-SEMENOV-2023",
       "source_title": "Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)",
       "usages": [
@@ -3132,6 +3405,11 @@
         {
           "record_id": "TECH-TORNADO-CASH",
           "record_title": "Tornado Cash (Ethereum Mixer Protocol)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
           "usage": "page_source"
         },
         {
@@ -3762,6 +4040,19 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "TOPIC-TORNADO-CASH",
           "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
           "usage": "page_source"
@@ -4161,6 +4452,11 @@
       "source_title": "Phil Zimmermann Official Biography",
       "usages": [
         {
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "usage": "page_source"
+        },
+        {
           "record_id": "PERSON-PHIL-ZIMMERMANN",
           "record_title": "Phil Zimmermann",
           "usage": "page_source"
@@ -4176,9 +4472,83 @@
       ]
     },
     {
+      "source_id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "source_title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
+      "usages": [
+        {
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ZIMMERMANN-DECLINATION-1996",
+          "predicate": "cites",
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PHIL-ZIMMERMANN",
+          "predicate": "related_to",
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PHIL-ZIMMERMANN",
+          "record_title": "Phil Zimmermann",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "record_id": "PERSON-PHIL-ZIMMERMANN",
+          "record_title": "Phil Zimmermann",
+          "subject": "PERSON-PHIL-ZIMMERMANN",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
       "source_title": "EPIC Alert \u2014 Charges Dropped Against Phil Zimmermann",
       "usages": [
+        {
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "usage": "relationship_source"
+        },
         {
           "record_id": "PERSON-EBEN-MOGLEN",
           "record_title": "Eben Moglen",
@@ -4191,6 +4561,11 @@
           "record_title": "Eben Moglen",
           "subject": "PERSON-EBEN-MOGLEN",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PHIL-ZIMMERMANN",
+          "record_title": "Phil Zimmermann",
+          "usage": "page_source"
         }
       ]
     },

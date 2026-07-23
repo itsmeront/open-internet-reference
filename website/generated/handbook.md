@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-23 | **Records:** 99 | **Sources referenced:** 151
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-23 | **Records:** 104 | **Sources referenced:** 158
 
 <div class="oir-handbook" markdown="1">
 
@@ -66,9 +66,16 @@ Knowledge records included in this handbook, grouped by type.
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
 - [Universal City Studios v. Corley](#CASE-UNIVERSAL-V-CORLEY) (`CASE-UNIVERSAL-V-CORLEY`)
+- [United States v. Rodriguez (Samourai Wallet)](#CASE-US-V-RODRIGUEZ) (`CASE-US-V-RODRIGUEZ`)
+- [United States v. Sklyarov / Elcomsoft](#CASE-US-V-SKLYAROV) (`CASE-US-V-SKLYAROV`)
 - [United States v. Storm](#CASE-US-V-STORM) (`CASE-US-V-STORM`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
 - [Van Loon v. Department of the Treasury](#CASE-VAN-LOON-V-TREASURY) (`CASE-VAN-LOON-V-TREASURY`)
+
+### Historical Event
+
+- [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
+- [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
 
 ### Organization
 
@@ -146,6 +153,7 @@ Knowledge records included in this handbook, grouped by type.
 
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
+- [Documented Proceedings Involving Software Authors and Operators](#TOPIC-DEVELOPER-SOFTWARE-LIABILITY) (`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`)
 - [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
 - [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
 - [First Amendment](#TOPIC-FIRST-AMENDMENT) (`TOPIC-FIRST-AMENDMENT`)
@@ -384,6 +392,15 @@ David P. Reed is a computer scientist and co-inventor of the end-to-end principl
 - **Tags:** copyright, safe-harbor, digital-rights, intermediary-liability
 
 U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+### Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY-glossary }
+
+- **Record ID:** `TOPIC-DEVELOPER-SOFTWARE-LIABILITY`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** developer-rights, open-source-risk, case-studies, computer-crime, sanctions, speech-and-code, copyright, export-control, cryptography, digital-rights
+
+Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
@@ -709,6 +726,15 @@ Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technol
 
 East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.
 
+### OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022-glossary }
+
+- **Record ID:** `EVENT-OFAC-BLENDER-2022`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, sanctions, digital-rights, case-studies, open-source-risk
+
+On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 — Treasury’s first sanctions action against a virtual currency mixer — citing laundering of proceeds linked to DPRK cyber activity.
+
 ### Onion Routing { #TOPIC-ONION-ROUTING-glossary }
 
 - **Record ID:** `TOPIC-ONION-ROUTING`
@@ -978,6 +1004,33 @@ Transmission Control Protocol (TCP) is an internet transport protocol specified 
 - **Tags:** cryptography, privacy, secure-messaging
 
 Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
+
+### U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION-glossary }
+
+- **Record ID:** `EVENT-ZIMMERMANN-PGP-INVESTIGATION`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, cryptography, export-control, open-source-risk, developer-rights, speech-and-code, case-studies
+
+U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.
+
+### United States v. Rodriguez (Samourai Wallet) { #CASE-US-V-RODRIGUEZ-glossary }
+
+- **Record ID:** `CASE-US-V-RODRIGUEZ`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, computer-crime, open-source-risk, developer-rights, privacy, case-studies
+
+Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.
+
+### United States v. Sklyarov / Elcomsoft { #CASE-US-V-SKLYAROV-glossary }
+
+- **Record ID:** `CASE-US-V-SKLYAROV`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, open-source-risk, developer-rights, speech-and-code, case-studies
+
+Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.
 
 ### United States v. Storm { #CASE-US-V-STORM-glossary }
 
@@ -1253,6 +1306,20 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.
 
+#### [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): United States v. Rodriguez (Samourai Wallet) { #CASE-US-V-RODRIGUEZ }
+
+- Status: `draft`
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md), [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
+Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.
+
+#### [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): United States v. Sklyarov / Elcomsoft { #CASE-US-V-SKLYAROV }
+
+- Status: `draft`
+- Sources: [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md), [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md), [`SRC-EFF-SKLYAROV-CASE`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
+
+Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.
+
 #### [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md): United States v. Storm { #CASE-US-V-STORM }
 
 - Status: `draft`
@@ -1273,6 +1340,22 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md), [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md), [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md), [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md), [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md), [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
+
+### Historical Event
+
+#### [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022 }
+
+- Status: `draft`
+- Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 — Treasury’s first sanctions action against a virtual currency mixer — citing laundering of proceeds linked to DPRK cyber activity.
+
+#### [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION }
+
+- Status: `draft`
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md), [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md), [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.
 
 ### Organization
 
@@ -1533,7 +1616,7 @@ Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for 
 #### [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): Phil Zimmermann { #PERSON-PHIL-ZIMMERMANN }
 
 - Status: `draft`
-- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md), [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md), [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 
 Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.
 
@@ -1699,6 +1782,13 @@ The code-as-speech doctrine concerns whether software, encryption, or other expr
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
 
+#### [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY }
+
+- Status: `draft`
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md), [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md), [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md), [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md), [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md), [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md), [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md), [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md), [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md), [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md), [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md), [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
+Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
+
 #### [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
 
 - Status: `draft`
@@ -1797,11 +1887,14 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md): U.S. Copyright Office Section 512 Resources (`verified`)
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
 - [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md): Whitfield Diffie Stanford CISAC Profile (`verified`)
+- [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md): DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) (`draft`)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md): DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`draft`)
 - [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md): SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`draft`)
 - [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md): United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`draft`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
 - [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md): EFF Legal Guide for Bloggers — Intellectual Property (`verified`)
 - [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page (`verified`)
+- [`SRC-EFF-SKLYAROV-CASE`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md): EFF Case Page — US v. ElcomSoft / Sklyarov (`draft`)
 - [`SRC-EPIC-ABOUT`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md): EPIC About Page (`verified`)
 - [`SRC-EPIC-CONTACT`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md): EPIC Contact Page (`verified`)
 - [`SRC-FALLOW-KNIGHT`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md): Katie Fallow Knight Institute Biography (`verified`)
@@ -1818,6 +1911,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md): Institute for Free Speech About Us Page (`verified`)
 - [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page (`verified`)
 - [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md): Institute for Justice First Amendment Practice Area (`verified`)
+- [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md): IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) (`draft`)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md): IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) (`draft`)
 - [`SRC-JAFFER-KNIGHT`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md): Jameel Jaffer Knight Institute Biography (`verified`)
 - [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md): EFF Jewel v. NSA Case Page - Supreme Court Rejection (`verified`)
 - [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md): Junger v. Daley ACLU Ohio Case Page (`verified`)
@@ -1884,6 +1979,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router (`verified`)
 - [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page (`verified`)
 - [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md): Tor Project History Page (`verified`)
+- [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md): Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) (`draft`)
 - [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md): Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) (`draft`)
 - [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md): U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`draft`)
 - [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md): Tornado Cash Delisting (Mar. 21, 2025) (`draft`)
@@ -1915,6 +2011,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md): Wyden Remarks at Section 230 Briefing Hosted by EFF (`draft`)
 - [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md): Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program (`draft`)
 - [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography (`verified`)
+- [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md): Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text) (`draft`)
 - [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md): EPIC Alert — Charges Dropped Against Phil Zimmermann (`verified`)
 - [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile (`verified`)
 </div>

@@ -4,26 +4,27 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 253
-- Records needing review: 137
+- Records: 265
+- Records needing review: 149
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 137
+- [`draft`](#draft-records): 149
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
-- [`case`](#case-records): 15
+- [`case`](#case-records): 17
+- [`historical_event`](#historical-event-records): 2
 - [`organization`](#organization-records): 20
 - [`person`](#person-records): 28
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 154
+- [`source`](#source-records): 161
 - [`statute`](#statute-records): 5
 - [`technology`](#technology-records): 1
-- [`topic`](#topic-records): 11
+- [`topic`](#topic-records): 12
 
 ## Records Needing Review
 
@@ -39,9 +40,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
@@ -112,13 +117,18 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
@@ -134,6 +144,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
@@ -147,6 +158,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
@@ -155,6 +167,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
@@ -185,9 +198,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
@@ -258,13 +275,18 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
+- [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
@@ -280,6 +302,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
@@ -293,6 +316,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
@@ -301,6 +325,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
@@ -463,9 +488,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+
+## historical_event Records { #historical-event-records }
+
+- [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
+- [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 
 ## organization Records { #organization-records }
 
@@ -560,11 +592,14 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+- [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
 - [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
+- [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
 - [`SRC-EPIC-ABOUT: EPIC About Page`](source-docs/bibliography/organizations/SRC-EPIC-ABOUT.md)
 - [`SRC-EPIC-CONTACT: EPIC Contact Page`](source-docs/bibliography/organizations/SRC-EPIC-CONTACT.md)
 - [`SRC-FALLOW-KNIGHT: Katie Fallow Knight Institute Biography`](source-docs/bibliography/people/SRC-FALLOW-KNIGHT.md)
@@ -581,6 +616,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
 - [`SRC-IJ-FIRST-AMENDMENT: Institute for Justice First Amendment Practice Area`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
+- [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-JAFFER-KNIGHT: Jameel Jaffer Knight Institute Biography`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
 - [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
@@ -650,6 +687,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
@@ -681,6 +719,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 - [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
 
@@ -700,6 +739,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)

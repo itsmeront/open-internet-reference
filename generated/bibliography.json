@@ -913,6 +913,66 @@
       "bibliographic_metadata": {
         "access date": "2026-07-23",
         "archive url": "None recorded",
+        "author or issuing body": "U.S. Department of Justice (Cybercrime archive)",
+        "publication date": "2001-12-13",
+        "source type": "Official government press release (archived)",
+        "url": "https://www.justice.gov/archive/criminal/cybercrime/press-releases/2001/sklyarovAgree.htm"
+      },
+      "id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "DOJ Cybercrime archive press release on Dmitry Sklyarov\u2019s deferred-prosecution agreement in the first DMCA criminal case.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ],
+      "title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-SKLYAROV`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "https://web.archive.org/web/20110613202855/http://www.cybercrime.gov/Sklyarovindictment.htm",
+        "author or issuing body": "U.S. Department of Justice (Cybercrime archive via Wayback Machine copy)",
+        "publication date": "2001-08-28",
+        "source type": "Official government press release (archived mirror)",
+        "url": "https://web.archive.org/web/20110613202855/http://www.cybercrime.gov/Sklyarovindictment.htm"
+      },
+      "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Archived DOJ press release announcing the first DMCA criminal indictment against Dmitry Sklyarov and Elcomsoft Co. Ltd.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ],
+      "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-SKLYAROV`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
         "author or issuing body": "United States Attorney\u2019s Office, Southern District of New York",
         "publication date": "2025-08",
         "source type": "Official government case summary webpage",
@@ -1055,6 +1115,34 @@
         "Electronic Frontier Foundation",
         "Digital civil liberties organizations",
         "Outreach contact verification"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
+        "author or issuing body": "Electronic Frontier Foundation",
+        "source type": "Organization case page",
+        "url": "https://www.eff.org/cases/us-v-elcomsoft-sklyarov"
+      },
+      "id": "SRC-EFF-SKLYAROV-CASE",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-EFF-SKLYAROV-CASE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "EFF case page documenting the Sklyarov/ElcomSoft DMCA prosecution, deferred prosecution of Sklyarov, and related materials.",
+      "tags": [
+        "source",
+        "case",
+        "copyright"
+      ],
+      "title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-SKLYAROV`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
       ]
     },
     {
@@ -1517,6 +1605,66 @@
       "type": "source",
       "used_for": [
         "`ORG-INSTITUTE-FOR-JUSTICE`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
+        "author or issuing body": "Internal Revenue Service, Criminal Investigation",
+        "publication date": "2025-07-30",
+        "source type": "Official government press announcement",
+        "url": "https://www.irs.gov/compliance/criminal-investigation/founders-of-samourai-wallet-cryptocurrency-mixing-service-plead-guilty"
+      },
+      "id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "IRS Criminal Investigation announcement of guilty pleas by Samourai Wallet co-founders Keonne Rodriguez and William Lonergan Hill.",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
+      ],
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-RODRIGUEZ`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
+        "author or issuing body": "Internal Revenue Service, Criminal Investigation",
+        "publication date": "2025-11",
+        "source type": "Official government press announcement",
+        "url": "https://www.irs.gov/compliance/criminal-investigation/founders-of-samourai-wallet-cryptocurrency-mixing-service-sentenced-to-five-and-four-years-in-prison"
+      },
+      "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "IRS Criminal Investigation announcement of prison sentences for Samourai Wallet co-founders Rodriguez and Hill.",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
+      ],
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-RODRIGUEZ`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
       ]
     },
     {
@@ -3575,6 +3723,36 @@
         "access date": "2026-07-23",
         "archive url": "None recorded",
         "author or issuing body": "U.S. Department of the Treasury",
+        "publication date": "2022-05-06",
+        "source type": "Official government press release",
+        "url": "https://home.treasury.gov/news/press-releases/jy0768"
+      },
+      "id": "SRC-TREASURY-BLENDER-2022",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Treasury press release announcing OFAC\u2019s May 6, 2022 designation of Blender.io as the first sanctioned virtual currency mixer.",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ],
+      "title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OFAC-BLENDER-2022`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`",
+        "`TOPIC-TORNADO-CASH`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
+        "author or issuing body": "U.S. Department of the Treasury",
         "publication date": "2023-08-23",
         "source type": "Official government press release",
         "url": "https://home.treasury.gov/news/press-releases/jy1702"
@@ -4496,6 +4674,37 @@
       "type": "source",
       "used_for": [
         "`PERSON-PHIL-ZIMMERMANN`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-23",
+        "archive url": "None recorded",
+        "author or issuing body": "Philip Zimmermann (publishing U.S. Attorney correspondence via counsel)",
+        "publication date": "1996-01-12",
+        "source type": "Republished government declination / contemporaneous counsel notice",
+        "url": "https://philzimmermann.com/EN/news/PRZ_case_dropped.html"
+      },
+      "id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "last_verified": "2026-07-23",
+      "path": "bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Zimmermann site publication of the U.S. Attorney declination closing the PGP export investigation without prosecution.",
+      "tags": [
+        "source",
+        "cryptography",
+        "export-control",
+        "open-source-risk"
+      ],
+      "title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-ZIMMERMANN-PGP-INVESTIGATION`",
+        "`PERSON-PHIL-ZIMMERMANN`",
+        "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
       ]
     },
     {

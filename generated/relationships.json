@@ -462,6 +462,66 @@
       "subject": "CASE-UNIVERSAL-V-CORLEY"
     },
     {
+      "declared_in": "CASE-US-V-RODRIGUEZ",
+      "notes": null,
+      "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "CASE-US-V-RODRIGUEZ"
+    },
+    {
+      "declared_in": "CASE-US-V-RODRIGUEZ",
+      "notes": null,
+      "object": "CASE-US-V-STORM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "CASE-US-V-RODRIGUEZ"
+    },
+    {
+      "declared_in": "CASE-US-V-RODRIGUEZ",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "CASE-US-V-RODRIGUEZ"
+    },
+    {
+      "declared_in": "CASE-US-V-SKLYAROV",
+      "notes": null,
+      "object": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DOJ-SKLYAROV-AGREE-2001"
+      ],
+      "subject": "CASE-US-V-SKLYAROV"
+    },
+    {
+      "declared_in": "CASE-US-V-SKLYAROV",
+      "notes": null,
+      "object": "CASE-UNIVERSAL-V-CORLEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-EFF-SKLYAROV-CASE"
+      ],
+      "subject": "CASE-US-V-SKLYAROV"
+    },
+    {
+      "declared_in": "CASE-US-V-SKLYAROV",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOJ-SKLYAROV-AGREE-2001"
+      ],
+      "subject": "CASE-US-V-SKLYAROV"
+    },
+    {
       "declared_in": "CASE-US-V-STORM",
       "notes": null,
       "object": "SRC-DOJ-STORM-INDICTMENT",
@@ -581,6 +641,86 @@
         "SRC-VAN-LOON-5TH-CIR-JUSTIA"
       ],
       "subject": "CASE-VAN-LOON-V-TREASURY"
+    },
+    {
+      "declared_in": "EVENT-OFAC-BLENDER-2022",
+      "notes": null,
+      "object": "SRC-TREASURY-BLENDER-2022",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "subject": "EVENT-OFAC-BLENDER-2022"
+    },
+    {
+      "declared_in": "EVENT-OFAC-BLENDER-2022",
+      "notes": null,
+      "object": "STAT-IEEPA",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "subject": "EVENT-OFAC-BLENDER-2022"
+    },
+    {
+      "declared_in": "EVENT-OFAC-BLENDER-2022",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "subject": "EVENT-OFAC-BLENDER-2022"
+    },
+    {
+      "declared_in": "EVENT-OFAC-BLENDER-2022",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "subject": "EVENT-OFAC-BLENDER-2022"
+    },
+    {
+      "declared_in": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "notes": null,
+      "object": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+    },
+    {
+      "declared_in": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "notes": null,
+      "object": "CASE-BERNSTEIN-V-DOJ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+      ],
+      "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+    },
+    {
+      "declared_in": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "notes": null,
+      "object": "PERSON-PHIL-ZIMMERMANN",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+    },
+    {
+      "declared_in": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
     },
     {
       "declared_in": "ORG-ACLU",
@@ -1780,6 +1920,16 @@
       "subject": "PERSON-PHIL-ZIMMERMANN"
     },
     {
+      "declared_in": "PERSON-PHIL-ZIMMERMANN",
+      "notes": null,
+      "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "PERSON-PHIL-ZIMMERMANN"
+    },
+    {
       "declared_in": "PERSON-RAND-PAUL",
       "notes": null,
       "object": "SRC-LOFGREN-AARONS-LAW",
@@ -2328,6 +2478,116 @@
         "SRC-USC-18-1030-GOVINFO"
       ],
       "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-BERNSTEIN-V-DOJ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-NL-V-PERTSEV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-UNIVERSAL-V-CORLEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-US-V-RODRIGUEZ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-US-V-SKLYAROV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOJ-SKLYAROV-AGREE-2001"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "CASE-US-V-STORM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOJ-STORM-INDICTMENT"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "EVENT-OFAC-BLENDER-2022",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
     },
     {
       "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
