@@ -86,6 +86,7 @@ nav:
       - Technical Experts: knowledge/experts.md
       - Policymakers: knowledge/policymakers.md
       - Law: knowledge/law.md
+      - Topics: knowledge/topics.md
       - Generated Glossary: generated/glossary.md
       - Relationship Graph: generated/relationships.md
       - Relationship Visualization: generated/relationship-graph.md

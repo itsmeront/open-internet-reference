@@ -1,6 +1,8 @@
 # Law
 
-Court cases, statutes, and legal topics that establish precedent protecting software rights, code as speech, privacy, and internet freedom.
+Court cases and statutes that establish precedent protecting software rights, code as speech, privacy, and internet freedom.
+
+For doctrine explanations and case-study topic pages (`TOPIC-*`), see [Topics](topics.md).
 
 ## Landmark Cases: Code as Speech
 
@@ -28,28 +30,29 @@ These cases establish privacy protections in the digital context.
 - [`CASE-VAN-BUREN-V-US`](../generated/source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md): **Van Buren v. United States** (2021) — narrowed CFAA "exceeds authorized access" to a gates-up-or-down inquiry, rejecting criminalization of policy-violating use.
 - [`CASE-PERFECT10-V-CCBILL`](../generated/source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md): **Perfect 10 v. CCBill** — safe harbor and intermediary liability.
 
+## Landmark Cases: Copyright
+
+- [`CASE-LENZ-V-UNIVERSAL`](../generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): **Lenz v. Universal** — fair use consideration before DMCA takedown notices.
+- [`CASE-GOOGLE-V-ORACLE`](../generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): **Google v. Oracle** — fair use of Java API declaring code in Android.
+
+## Landmark Cases: Sanctions and Immutable Software
+
+- [`CASE-VAN-LOON-V-TREASURY`](../generated/source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md): **Van Loon v. Treasury** (5th Cir. 2024) — Tornado Cash immutable smart contracts are not IEEPA “property.”
+- [`CASE-COIN-CENTER-V-YELLEN`](../generated/source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md): **Coin Center v. Yellen** (N.D. Fla. 2023) — district-court summary judgment upholding OFAC’s Tornado Cash designation (later mooted after delisting).
+- [`CASE-US-V-STORM`](../generated/source-docs/knowledge/legal/CASE-US-V-STORM.md): **United States v. Storm** — SDNY prosecution of a Tornado Cash co-founder.
+- [`CASE-NL-V-PERTSEV`](../generated/source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md): **Netherlands v. Pertsev** — Dutch money-laundering conviction related to Tornado Cash.
+
 ## Statutes
 
 - [`STAT-USC-107`](../generated/source-docs/knowledge/legal/STAT-USC-107.md): **17 U.S.C. § 107** — fair use limitation on exclusive copyright rights.
 - [`STAT-DMCA-512`](../generated/source-docs/knowledge/legal/STAT-DMCA-512.md): **17 U.S.C. § 512** — DMCA safe harbor for online service providers.
 - [`STAT-CFAA-1030`](../generated/source-docs/knowledge/legal/STAT-CFAA-1030.md): **18 U.S.C. § 1030** — Computer Fraud and Abuse Act.
+- [`STAT-SECTION-230`](../generated/source-docs/knowledge/legal/STAT-SECTION-230.md): **47 U.S.C. § 230** — intermediary liability protections for online platforms.
+- [`STAT-IEEPA`](../generated/source-docs/knowledge/legal/STAT-IEEPA.md): **IEEPA (50 U.S.C. §§ 1701–1708)** — emergency economic powers used for OFAC blocking programs.
 
-## Copyright and Video
+## Related Topics
 
-Statutory and case sources on fair use and DMCA notice-and-takedown procedure:
-
-- [`TOPIC-FAIR-USE-VIDEO`](../generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): **Fair Use and Video** — 17 U.S.C. § 107 and cited sources on fair use in video.
-- [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](../generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): **DMCA Takedown and Counter-Notification** — § 512 notice and counter-notification procedure.
-- [`CASE-LENZ-V-UNIVERSAL`](../generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): **Lenz v. Universal** — fair use consideration before DMCA takedown notices.
-
-## Legal Topics
-
-- [`TOPIC-FIRST-AMENDMENT`](../generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): First Amendment — freedom of speech and press.
-- [`TOPIC-FOURTH-AMENDMENT`](../generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): Fourth Amendment — protection against unreasonable searches.
-- [`TOPIC-CODE-AS-SPEECH`](../generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): Code as Speech — the doctrine that source code is constitutionally protected expression.
-- [`TOPIC-SAFE-HARBOR`](../generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md): Safe Harbor — online service provider liability protections.
-- [`TOPIC-INTERMEDIARY-LIABILITY`](../generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): Intermediary Liability — when platforms are liable for user content.
-- [`TOPIC-COMPUTER-FRAUD`](../generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): Computer Fraud and Abuse — criminalization of computer access.
+Concept pages that explain doctrines and procedures related to these authorities live on the [Topics](topics.md) browse page, including First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, computer fraud, and the Tornado Cash case study.
 
 ## Why This Matters
 

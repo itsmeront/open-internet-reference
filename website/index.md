@@ -35,14 +35,24 @@ Members of Congress actively legislating on digital rights, privacy, encryption,
 - **Internet governance** — [Ro Khanna](generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md) (Internet Bill of Rights, endorsed by Tim Berners-Lee)
 
 ### [Law](knowledge/law.md)
-Court cases, statutes, and legal topics that establish precedent:
+
+Court cases and statutes that establish precedent:
 
 - **Code as speech** — [Bernstein v. DOJ](generated/source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md), [Junger v. Daley](generated/source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md), [Universal City Studios v. Corley](generated/source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 - **Internet freedom** — [Reno v. ACLU](generated/source-docs/knowledge/legal/CASE-RENO-V-ACLU.md), [Packingham v. North Carolina](generated/source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - **Digital privacy** — [Carpenter v. United States](generated/source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - **Computer crime** — [Van Buren v. United States](generated/source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
-- **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md)
-- **Copyright and video** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown and counter-notification](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Lenz v. Universal](generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md), [IEEPA](generated/source-docs/knowledge/legal/STAT-IEEPA.md)
+- **Copyright cases** — [Lenz v. Universal](generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md), [Google v. Oracle](generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+
+### [Topics](knowledge/topics.md)
+
+Concept and case-study pages (`TOPIC-*`), separate from court opinions and statutes:
+
+- **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- **Technical topics** — [Onion Routing](generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md), [Kademlia](generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
+- **Case studies** — [Tornado Cash sanctions and prosecutions](generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## Generated Indexes
 
