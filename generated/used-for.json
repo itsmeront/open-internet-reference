@@ -26,6 +26,12 @@
     },
     {
       "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
+      ],
+      "term": "`CASE-COIN-CENTER-V-YELLEN`"
+    },
+    {
+      "sources": [
         "SRC-GOOGLE-ORACLE-JUSTIA"
       ],
       "term": "`CASE-GOOGLE-V-ORACLE`"
@@ -43,6 +49,14 @@
         "SRC-USC-17-107-LII"
       ],
       "term": "`CASE-LENZ-V-UNIVERSAL`"
+    },
+    {
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+        "SRC-TREASURY-SEMENOV-2023"
+      ],
+      "term": "`CASE-NL-V-PERTSEV`"
     },
     {
       "sources": [
@@ -74,10 +88,32 @@
     },
     {
       "sources": [
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-FBI-SEMENOV",
+        "SRC-TREASURY-SEMENOV-2023",
+        "SRC-TREASURY-TC-AUG-2022"
+      ],
+      "term": "`CASE-US-V-STORM`"
+    },
+    {
+      "sources": [
         "SRC-VAN-BUREN-GOVINFO",
         "SRC-VAN-BUREN-LII"
       ],
       "term": "`CASE-VAN-BUREN-V-US`"
+    },
+    {
+      "sources": [
+        "SRC-IEEPA-50-USC-1702-LII",
+        "SRC-OFAC-FAQ-1076",
+        "SRC-OFAC-TC-REMOVAL-20250321",
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-TREASURY-TC-DELIST-2025",
+        "SRC-TREASURY-TC-NOV-2022",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "term": "`CASE-VAN-LOON-V-TREASURY`"
     },
     {
       "sources": [
@@ -568,6 +604,13 @@
     },
     {
       "sources": [
+        "SRC-IEEPA-50-USC-1702-LII",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "term": "`STAT-IEEPA`"
+    },
+    {
+      "sources": [
         "SRC-SECTION-230-EFF",
         "SRC-SECTION-230-LII"
       ],
@@ -579,6 +622,13 @@
         "SRC-USC-17-107-LII"
       ],
       "term": "`STAT-USC-107`"
+    },
+    {
+      "sources": [
+        "SRC-OFAC-FAQ-1076",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "term": "`TECH-TORNADO-CASH`"
     },
     {
       "sources": [
@@ -635,6 +685,25 @@
         "SRC-USC-17-512-GOVINFO"
       ],
       "term": "`TOPIC-SAFE-HARBOR`"
+    },
+    {
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-FBI-SEMENOV",
+        "SRC-IEEPA-50-USC-1702-LII",
+        "SRC-OFAC-FAQ-1076",
+        "SRC-OFAC-TC-REMOVAL-20250321",
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+        "SRC-TREASURY-SEMENOV-2023",
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-TREASURY-TC-DELIST-2025",
+        "SRC-TREASURY-TC-NOV-2022",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "term": "`TOPIC-TORNADO-CASH`"
     },
     {
       "sources": [

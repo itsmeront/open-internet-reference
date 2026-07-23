@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 92
+Record count: 99
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -31,6 +31,15 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
 
+## `CASE-COIN-CENTER-V-YELLEN`: Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
+- Tags: case, sanctions, tornado-cash, case-studies, open-source-software
+
+Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC’s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.
+
 ## `CASE-GOOGLE-V-ORACLE`: Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
 
 - Type: `case`
@@ -57,6 +66,15 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 - Tags: copyright, digital-rights, safe-harbor
 
 Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+## `CASE-NL-V-PERTSEV`: Netherlands v. Pertsev (Tornado Cash) { #CASE-NL-V-PERTSEV }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-NL-V-PERTSEV.md`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
+- Tags: case, computer-crime, privacy, tornado-cash, case-studies, developer-rights, open-source-risk
+
+East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.
 
 ## `CASE-PACKINGHAM-V-NC`: Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
 
@@ -94,6 +112,15 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.
 
+## `CASE-US-V-STORM`: United States v. Storm { #CASE-US-V-STORM }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-US-V-STORM.md`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- Tags: case, computer-crime, sanctions, tornado-cash, case-studies, developer-rights, open-source-risk
+
+United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
 ## `CASE-VAN-BUREN-V-US`: Van Buren v. United States { #CASE-VAN-BUREN-V-US }
 
 - Type: `case`
@@ -102,6 +129,15 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 - Tags: computer-crime, technology-law, digital-rights
 
 Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.
+
+## `CASE-VAN-LOON-V-TREASURY`: Van Loon v. Department of the Treasury { #CASE-VAN-LOON-V-TREASURY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-VAN-LOON-V-TREASURY.md`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- Tags: case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
+
+Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
 
 ## `ORG-ACLU`: American Civil Liberties Union { #ORG-ACLU }
 
@@ -724,6 +760,15 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
 
+## `STAT-IEEPA`: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708) { #STAT-IEEPA }
+
+- Type: `statute`
+- Status: `draft`
+- Path: [`knowledge/legal/STAT-IEEPA.md`](source-docs/knowledge/legal/STAT-IEEPA.md)
+- Tags: statute, sanctions, digital-rights
+
+The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1708, authorizes the President to regulate transactions and block property in which foreign countries or nationals have interests during declared national emergencies; OFAC administers related sanctions programs.
+
 ## `STAT-SECTION-230`: Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230 }
 
 - Type: `statute`
@@ -741,6 +786,15 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 - Tags: copyright, digital-rights
 
 17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
+
+## `TECH-TORNADO-CASH`: Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-TORNADO-CASH.md`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- Tags: technology, privacy-preserving-systems, censorship-resistance, open-source-software, tornado-cash, case-studies
+
+Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
 
 ## `TOPIC-CODE-AS-SPEECH`: Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
@@ -831,3 +885,12 @@ Onion routing is a technique for anonymous communication over a network in which
 - Tags: copyright, safe-harbor, intermediary-liability, digital-rights
 
 Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. § 512.
+
+## `TOPIC-TORNADO-CASH`: Tornado Cash Sanctions and Developer Prosecutions { #TOPIC-TORNADO-CASH }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-TORNADO-CASH.md`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+- Tags: tornado-cash, case-studies, sanctions, open-source-software, censorship-resistance, privacy-preserving-systems, developer-rights, open-source-risk, digital-rights
+
+Tornado Cash is an open-source Ethereum mixing protocol that was designated by OFAC in 2022, challenged in civil litigation culminating in Van Loon (5th Cir. 2024), delisted in 2025, and remains the subject of developer criminal cases in the United States and the Netherlands.

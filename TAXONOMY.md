@@ -26,6 +26,7 @@ The taxonomy gives OIR a stable map for organizing knowledge pages, source recor
 - `due-process`
 - `prior-restraint`
 - `export-control`
+- `sanctions`
 - `computer-crime`
 - `copyright`
 - `safe-harbor`
@@ -66,6 +67,7 @@ The taxonomy gives OIR a stable map for organizing knowledge pages, source recor
 ## Case Study Tags
 
 - `axona`
+- `tornado-cash`
 - `software-publication`
 - `developer-rights`
 - `open-source-risk`

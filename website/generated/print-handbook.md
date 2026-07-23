@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-19</dd>
+        <dd>2026-07-23</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>92</dd>
+        <dd>99</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>137</dd>
+        <dd>151</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -90,14 +90,18 @@ Knowledge records included in this handbook, grouped by type.
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
 - [Lenz v. Universal Music Corp.](#CASE-LENZ-V-UNIVERSAL) (`CASE-LENZ-V-UNIVERSAL`)
+- [Netherlands v. Pertsev (Tornado Cash)](#CASE-NL-V-PERTSEV) (`CASE-NL-V-PERTSEV`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
 - [Universal City Studios v. Corley](#CASE-UNIVERSAL-V-CORLEY) (`CASE-UNIVERSAL-V-CORLEY`)
+- [United States v. Storm](#CASE-US-V-STORM) (`CASE-US-V-STORM`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
+- [Van Loon v. Department of the Treasury](#CASE-VAN-LOON-V-TREASURY) (`CASE-VAN-LOON-V-TREASURY`)
 
 ### Organization
 
@@ -163,8 +167,13 @@ Knowledge records included in this handbook, grouped by type.
 
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
+- [International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)](#STAT-IEEPA) (`STAT-IEEPA`)
 - [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
 - [17 U.S.C. § 107](#STAT-USC-107) (`STAT-USC-107`)
+
+### Technology
+
+- [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
 
@@ -178,6 +187,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Kademlia](#TOPIC-KADEMLIA) (`TOPIC-KADEMLIA`)
 - [Onion Routing](#TOPIC-ONION-ROUTING) (`TOPIC-ONION-ROUTING`)
 - [Online Service Provider Safe Harbor](#TOPIC-SAFE-HARBOR) (`TOPIC-SAFE-HARBOR`)
+- [Tornado Cash Sanctions and Developer Prosecutions](#TOPIC-TORNADO-CASH) (`TOPIC-TORNADO-CASH`)
 
 ## Glossary
 
@@ -317,6 +327,15 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 - **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law
 
 The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+
+### Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN-glossary }
+
+- **Record ID:** `CASE-COIN-CENTER-V-YELLEN`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, sanctions, tornado-cash, case-studies, open-source-software
+
+Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC’s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.
 
 ### Committee for the First Amendment { #ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT-glossary }
 
@@ -543,6 +562,15 @@ The Institute for Justice is a nonprofit public interest law firm whose mission 
 
 Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.
 
+### International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708) { #STAT-IEEPA-glossary }
+
+- **Record ID:** `STAT-IEEPA`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** statute, sanctions, digital-rights
+
+The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1708, authorizes the President to regulate transactions and block property in which foreign countries or nationals have interests during declared national emergencies; OFAC administers related sanctions programs.
+
 ### Jameel Jaffer { #PERSON-JAMEEL-JAFFER-glossary }
 
 - **Record ID:** `PERSON-JAMEEL-JAFFER`
@@ -704,6 +732,15 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 - **Tags:** attorney, privacy, surveillance, fourth-amendment, digital-rights
 
 Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technology Project who argued Carpenter v. United States, establishing a warrant requirement for cell phone location data.
+
+### Netherlands v. Pertsev (Tornado Cash) { #CASE-NL-V-PERTSEV-glossary }
+
+- **Record ID:** `CASE-NL-V-PERTSEV`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, computer-crime, privacy, tornado-cash, case-studies, developer-rights, open-source-risk
+
+East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.
 
 ### Onion Routing { #TOPIC-ONION-ROUTING-glossary }
 
@@ -939,6 +976,24 @@ Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds facu
 
 Tor Project is a nonprofit organization documented in OIR from official Tor Project pages about privacy and onion routing technology.
 
+### Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH-glossary }
+
+- **Record ID:** `TECH-TORNADO-CASH`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy-preserving-systems, censorship-resistance, open-source-software, tornado-cash, case-studies
+
+Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
+
+### Tornado Cash Sanctions and Developer Prosecutions { #TOPIC-TORNADO-CASH-glossary }
+
+- **Record ID:** `TOPIC-TORNADO-CASH`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** tornado-cash, case-studies, sanctions, open-source-software, censorship-resistance, privacy-preserving-systems, developer-rights, open-source-risk, digital-rights
+
+Tornado Cash is an open-source Ethereum mixing protocol that was designated by OFAC in 2022, challenged in civil litigation culminating in Van Loon (5th Cir. 2024), delisted in 2025, and remains the subject of developer criminal cases in the United States and the Netherlands.
+
 ### Transmission Control Protocol { #PROTOCOL-TCP-glossary }
 
 - **Record ID:** `PROTOCOL-TCP`
@@ -957,6 +1012,15 @@ Transmission Control Protocol (TCP) is an internet transport protocol specified 
 
 Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
+### United States v. Storm { #CASE-US-V-STORM-glossary }
+
+- **Record ID:** `CASE-US-V-STORM`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, computer-crime, sanctions, tornado-cash, case-studies, developer-rights, open-source-risk
+
+United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
 ### Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY-glossary }
 
 - **Record ID:** `CASE-UNIVERSAL-V-CORLEY`
@@ -974,6 +1038,15 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 - **Tags:** computer-crime, technology-law, digital-rights
 
 Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.
+
+### Van Loon v. Department of the Treasury { #CASE-VAN-LOON-V-TREASURY-glossary }
+
+- **Record ID:** `CASE-VAN-LOON-V-TREASURY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
+
+Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
 
 ### Vint Cerf { #PERSON-VINT-CERF-glossary }
 
@@ -1226,6 +1299,17 @@ Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acqu
 
 ---
 
+#### Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN }
+
+- **Record ID:** `CASE-COIN-CENTER-V-YELLEN`
+- **Status:** draft
+- **Sources:** Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023) (`SRC-COIN-CENTER-YELLEN-NDFLA-2023`), U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`)
+- **Tags:** case, sanctions, tornado-cash, case-studies, open-source-software
+
+Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC’s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.
+
+---
+
 #### Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
 
 - **Record ID:** `CASE-GOOGLE-V-ORACLE`
@@ -1256,6 +1340,17 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 - **Tags:** copyright, digital-rights, safe-harbor
 
 Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+---
+
+#### Netherlands v. Pertsev (Tornado Cash) { #CASE-NL-V-PERTSEV }
+
+- **Record ID:** `CASE-NL-V-PERTSEV`
+- **Status:** draft
+- **Sources:** Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024) (`SRC-PERTSEV-ECLI-2024`), Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024) (`SRC-PERTSEV-RECHTSPRAAK-EN-2024`), Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) (`SRC-TREASURY-SEMENOV-2023`)
+- **Tags:** case, computer-crime, privacy, tornado-cash, case-studies, developer-rights, open-source-risk
+
+East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.
 
 ---
 
@@ -1303,6 +1398,17 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 
 ---
 
+#### United States v. Storm { #CASE-US-V-STORM }
+
+- **Record ID:** `CASE-US-V-STORM`
+- **Status:** draft
+- **Sources:** United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`SRC-DOJ-STORM-INDICTMENT`), SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`SRC-DOJ-STORM-CONVICTION-2025`), Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) (`SRC-TREASURY-SEMENOV-2023`), FBI Wanted — Roman Semenov (`SRC-FBI-SEMENOV`)
+- **Tags:** case, computer-crime, sanctions, tornado-cash, case-studies, developer-rights, open-source-risk
+
+United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
+---
+
 #### Van Buren v. United States { #CASE-VAN-BUREN-V-US }
 
 - **Record ID:** `CASE-VAN-BUREN-V-US`
@@ -1311,6 +1417,17 @@ Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA ant
 - **Tags:** computer-crime, technology-law, digital-rights
 
 Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.
+
+---
+
+#### Van Loon v. Department of the Treasury { #CASE-VAN-LOON-V-TREASURY }
+
+- **Record ID:** `CASE-VAN-LOON-V-TREASURY`
+- **Status:** draft
+- **Sources:** Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`), U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`), Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022) (`SRC-TREASURY-TC-NOV-2022`), Tornado Cash Delisting (Mar. 21, 2025) (`SRC-TREASURY-TC-DELIST-2025`), OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025) (`SRC-OFAC-TC-REMOVAL-20250321`), 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`SRC-IEEPA-50-USC-1702-LII`)
+- **Tags:** case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
+
+Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
 
 ---
 
@@ -1905,6 +2022,17 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 
 ---
 
+#### International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708) { #STAT-IEEPA }
+
+- **Record ID:** `STAT-IEEPA`
+- **Status:** draft
+- **Sources:** 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`SRC-IEEPA-50-USC-1702-LII`), Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`)
+- **Tags:** statute, sanctions, digital-rights
+
+The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1708, authorizes the President to regulate transactions and block property in which foreign countries or nationals have interests during declared national emergencies; OFAC administers related sanctions programs.
+
+---
+
 #### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230 }
 
 - **Record ID:** `STAT-SECTION-230`
@@ -1924,6 +2052,19 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 - **Tags:** copyright, digital-rights
 
 17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
+
+---
+
+### Technology
+
+#### Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
+
+- **Record ID:** `TECH-TORNADO-CASH`
+- **Status:** draft
+- **Sources:** Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`), OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation (`SRC-OFAC-FAQ-1076`), U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`)
+- **Tags:** technology, privacy-preserving-systems, censorship-resistance, open-source-software, tornado-cash, case-studies
+
+Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
 
 ---
 
@@ -2036,6 +2177,17 @@ Onion routing is a technique for anonymous communication over a network in which
 - **Tags:** copyright, safe-harbor, intermediary-liability, digital-rights
 
 Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. § 512.
+
+---
+
+#### Tornado Cash Sanctions and Developer Prosecutions { #TOPIC-TORNADO-CASH }
+
+- **Record ID:** `TOPIC-TORNADO-CASH`
+- **Status:** draft
+- **Sources:** U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`), Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022) (`SRC-TREASURY-TC-NOV-2022`), Tornado Cash Delisting (Mar. 21, 2025) (`SRC-TREASURY-TC-DELIST-2025`), OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation (`SRC-OFAC-FAQ-1076`), Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`), Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023) (`SRC-COIN-CENTER-YELLEN-NDFLA-2023`), United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`SRC-DOJ-STORM-INDICTMENT`), SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`SRC-DOJ-STORM-CONVICTION-2025`), Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) (`SRC-TREASURY-SEMENOV-2023`), Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024) (`SRC-PERTSEV-ECLI-2024`), Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024) (`SRC-PERTSEV-RECHTSPRAAK-EN-2024`), 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`SRC-IEEPA-50-USC-1702-LII`)
+- **Tags:** tornado-cash, case-studies, sanctions, open-source-software, censorship-resistance, privacy-preserving-systems, developer-rights, open-source-risk, digital-rights
+
+Tornado Cash is an open-source Ethereum mixing protocol that was designated by OFAC in 2022, challenged in civil litigation culminating in Van Loon (5th Cir. 2024), delisted in 2025, and remains the subject of developer criminal cases in the United States and the Netherlands.
 
 ---
 
@@ -2277,6 +2429,15 @@ FOSS Force article reporting Cindy Cohn's plan to return to courtroom litigation
 
 ---
 
+### Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)
+
+- **Source ID:** `SRC-COIN-CENTER-YELLEN-NDFLA-2023`
+- **Status:** draft
+
+Northern District of Florida summary-judgment opinion upholding OFAC’s Tornado Cash designation.
+
+---
+
 ### Cooley Technology Industry Practice Page
 
 - **Source ID:** `SRC-COOLEY-TECH`
@@ -2310,6 +2471,24 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 - **Status:** verified
 
 Stanford Center for International Security and Cooperation profile for Whitfield Diffie describing public-key cryptography and policy work.
+
+---
+
+### SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)
+
+- **Source ID:** `SRC-DOJ-STORM-CONVICTION-2025`
+- **Status:** draft
+
+U.S. Attorney’s Office SDNY page stating Roman Storm was convicted in August 2025 of conspiring to operate an unlicensed money transmitting business.
+
+---
+
+### United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)
+
+- **Source ID:** `SRC-DOJ-STORM-INDICTMENT`
+- **Status:** draft
+
+DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-laundering, unlicensed money-transmitting, and IEEPA conspiracies related to Tornado Cash.
 
 ---
 
@@ -2364,6 +2543,15 @@ Official Electronic Privacy Information Center contact page with mailing address
 - **Status:** verified
 
 Official Knight First Amendment Institute biography for deputy litigation director Katie Fallow.
+
+---
+
+### FBI Wanted — Roman Semenov
+
+- **Source ID:** `SRC-FBI-SEMENOV`
+- **Status:** draft
+
+FBI Wanted poster for Roman Semenov describing charges related to Tornado Cash and listing him as a fugitive.
 
 ---
 
@@ -2436,6 +2624,15 @@ Official ACLU biography page for Jennifer Granick documenting her role as survei
 - **Status:** verified
 
 Official UWM History Department faculty profile for Thomas Haigh describing his research on the history of computing and information technology.
+
+---
+
+### 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)
+
+- **Source ID:** `SRC-IEEPA-50-USC-1702-LII`
+- **Status:** draft
+
+Cornell LII page for 50 U.S.C. § 1702, the IEEPA provision authorizing regulation of property in which foreign nations or nationals have interests.
 
 ---
 
@@ -2655,6 +2852,24 @@ Columbia Data Science Institute profile of Eben Moglen describing his work with 
 
 ---
 
+### OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation
+
+- **Source ID:** `SRC-OFAC-FAQ-1076`
+- **Status:** draft
+
+OFAC FAQ describing Tornado Cash designation history, SDN identifiers, and guidance on open-source code interactions.
+
+---
+
+### OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)
+
+- **Source ID:** `SRC-OFAC-TC-REMOVAL-20250321`
+- **Status:** draft
+
+OFAC recent-actions notice documenting removal of Tornado Cash SDN list entries on March 21, 2025.
+
+---
+
 ### Orin Kerr George Washington University Law Faculty Page
 
 - **Source ID:** `SRC-ORIN-KERR-GWU`
@@ -2742,6 +2957,24 @@ Ninth Circuit decision addressing DMCA § 512 safe harbor eligibility and red fl
 - **Status:** draft
 
 Official Perkins Coie practice page describing the Technology Transactions & Privacy practice group.
+
+---
+
+### Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)
+
+- **Source ID:** `SRC-PERTSEV-ECLI-2024`
+- **Status:** draft
+
+Dutch district court judgment convicting a Tornado Cash developer of money laundering and imposing a 64-month prison sentence.
+
+---
+
+### Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)
+
+- **Source ID:** `SRC-PERTSEV-RECHTSPRAAK-EN-2024`
+- **Status:** draft
+
+English-language Rechtspraak.nl news page summarizing the East Brabant District Court conviction of Tornado Cash developer Alexey Pertsev.
 
 ---
 
@@ -3024,6 +3257,42 @@ Official Tor Project history page describing onion routing origins and the organ
 
 ---
 
+### Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)
+
+- **Source ID:** `SRC-TREASURY-SEMENOV-2023`
+- **Status:** draft
+
+Treasury press release announcing OFAC designation of Roman Semenov and describing coordinated DOJ charges against Semenov and Roman Storm.
+
+---
+
+### U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)
+
+- **Source ID:** `SRC-TREASURY-TC-AUG-2022`
+- **Status:** draft
+
+Treasury press release announcing OFAC’s August 8, 2022 designation of Tornado Cash under E.O. 13694.
+
+---
+
+### Tornado Cash Delisting (Mar. 21, 2025)
+
+- **Source ID:** `SRC-TREASURY-TC-DELIST-2025`
+- **Status:** draft
+
+Treasury press release announcing discretionary removal of economic sanctions against Tornado Cash on March 21, 2025.
+
+---
+
+### Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)
+
+- **Source ID:** `SRC-TREASURY-TC-NOV-2022`
+- **Status:** draft
+
+Treasury press release announcing OFAC’s November 8, 2022 delisting and simultaneous redesignation of Tornado Cash under E.O. 13722 and E.O. 13694.
+
+---
+
 ### U.S. Constitution First Amendment (Cornell LII)
 
 - **Source ID:** `SRC-US-CONST-AMEND-I-LII`
@@ -3111,6 +3380,15 @@ Official GovInfo United States Reports record for Van Buren v. United States.
 - **Status:** verified
 
 Cornell Legal Information Institute page for the Supreme Court decision interpreting the CFAA phrase exceeds authorized access.
+
+---
+
+### Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)
+
+- **Source ID:** `SRC-VAN-LOON-5TH-CIR-JUSTIA`
+- **Status:** draft
+
+Justia reproduction of the Fifth Circuit opinion holding that Tornado Cash immutable smart contracts are not IEEPA property.
 
 ---
 

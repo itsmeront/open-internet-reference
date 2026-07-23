@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 92,
+  "record_count": 99,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -244,6 +244,19 @@
       "type": "case"
     },
     {
+      "id": "CASE-COIN-CENTER-V-YELLEN",
+      "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+        "SRC-TREASURY-TC-AUG-2022"
+      ],
+      "status": "draft",
+      "summary": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC\u2019s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.",
+      "title": "Coin Center v. Yellen",
+      "type": "case"
+    },
+    {
       "id": "CASE-GOOGLE-V-ORACLE",
       "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
@@ -280,6 +293,20 @@
       "status": "draft",
       "summary": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. \u00a7 512(c).",
       "title": "Lenz v. Universal Music Corp.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-NL-V-PERTSEV",
+      "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md",
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+        "SRC-TREASURY-SEMENOV-2023"
+      ],
+      "status": "draft",
+      "summary": "East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.",
+      "title": "Netherlands v. Pertsev (Tornado Cash)",
       "type": "case"
     },
     {
@@ -336,6 +363,21 @@
       "type": "case"
     },
     {
+      "id": "CASE-US-V-STORM",
+      "path": "knowledge/legal/CASE-US-V-STORM.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-STORM.md",
+      "sources": [
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-TREASURY-SEMENOV-2023",
+        "SRC-FBI-SEMENOV"
+      ],
+      "status": "draft",
+      "summary": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "title": "United States v. Storm",
+      "type": "case"
+    },
+    {
       "id": "CASE-VAN-BUREN-V-US",
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md",
@@ -347,6 +389,23 @@
       "status": "draft",
       "summary": "Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.",
       "title": "Van Buren v. United States",
+      "type": "case"
+    },
+    {
+      "id": "CASE-VAN-LOON-V-TREASURY",
+      "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-TREASURY-TC-NOV-2022",
+        "SRC-TREASURY-TC-DELIST-2025",
+        "SRC-OFAC-TC-REMOVAL-20250321",
+        "SRC-IEEPA-50-USC-1702-LII"
+      ],
+      "status": "draft",
+      "summary": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not \u201cproperty\u201d under IEEPA and that OFAC exceeded its statutory authority by blocking them.",
+      "title": "Van Loon v. Department of the Treasury",
       "type": "case"
     },
     {
@@ -1029,6 +1088,19 @@
       "type": "statute"
     },
     {
+      "id": "STAT-IEEPA",
+      "path": "knowledge/legal/STAT-IEEPA.md",
+      "source_doc_path": "source-docs/knowledge/legal/STAT-IEEPA.md",
+      "sources": [
+        "SRC-IEEPA-50-USC-1702-LII",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "status": "draft",
+      "summary": "The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. \u00a7\u00a7 1701\u20131708, authorizes the President to regulate transactions and block property in which foreign countries or nationals have interests during declared national emergencies; OFAC administers related sanctions programs.",
+      "title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+      "type": "statute"
+    },
+    {
       "id": "STAT-SECTION-230",
       "path": "knowledge/legal/STAT-SECTION-230.md",
       "source_doc_path": "source-docs/knowledge/legal/STAT-SECTION-230.md",
@@ -1054,6 +1126,20 @@
       "summary": "17 U.S.C. \u00a7 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.",
       "title": "17 U.S.C. \u00a7 107",
       "type": "statute"
+    },
+    {
+      "id": "TECH-TORNADO-CASH",
+      "path": "knowledge/technical/TECH-TORNADO-CASH.md",
+      "source_doc_path": "source-docs/knowledge/technical/TECH-TORNADO-CASH.md",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-OFAC-FAQ-1076",
+        "SRC-TREASURY-TC-AUG-2022"
+      ],
+      "status": "draft",
+      "summary": "Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.",
+      "title": "Tornado Cash (Ethereum Mixer Protocol)",
+      "type": "technology"
     },
     {
       "id": "TOPIC-CODE-AS-SPEECH",
@@ -1190,6 +1276,29 @@
       "status": "draft",
       "summary": "Safe harbor in U.S. copyright law commonly refers to limitations on intermediary liability for online service providers under 17 U.S.C. \u00a7 512.",
       "title": "Online Service Provider Safe Harbor",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-TORNADO-CASH",
+      "path": "knowledge/legal/TOPIC-TORNADO-CASH.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md",
+      "sources": [
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-TREASURY-TC-NOV-2022",
+        "SRC-TREASURY-TC-DELIST-2025",
+        "SRC-OFAC-FAQ-1076",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-TREASURY-SEMENOV-2023",
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+        "SRC-IEEPA-50-USC-1702-LII"
+      ],
+      "status": "draft",
+      "summary": "Tornado Cash is an open-source Ethereum mixing protocol that was designated by OFAC in 2022, challenged in civil litigation culminating in Van Loon (5th Cir. 2024), delisted in 2025, and remains the subject of developer criminal cases in the United States and the Netherlands.",
+      "title": "Tornado Cash Sanctions and Developer Prosecutions",
       "type": "topic"
     }
   ],

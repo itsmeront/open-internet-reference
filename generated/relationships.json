@@ -112,6 +112,36 @@
       "subject": "CASE-CARPENTER-V-US"
     },
     {
+      "declared_in": "CASE-COIN-CENTER-V-YELLEN",
+      "notes": null,
+      "object": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+      "predicate": "cites",
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
+      ],
+      "subject": "CASE-COIN-CENTER-V-YELLEN"
+    },
+    {
+      "declared_in": "CASE-COIN-CENTER-V-YELLEN",
+      "notes": null,
+      "object": "CASE-VAN-LOON-V-TREASURY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
+      ],
+      "subject": "CASE-COIN-CENTER-V-YELLEN"
+    },
+    {
+      "declared_in": "CASE-COIN-CENTER-V-YELLEN",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
+      ],
+      "subject": "CASE-COIN-CENTER-V-YELLEN"
+    },
+    {
       "declared_in": "CASE-GOOGLE-V-ORACLE",
       "notes": null,
       "object": "SRC-GOOGLE-ORACLE-JUSTIA",
@@ -230,6 +260,36 @@
         "SRC-LENZ-V-UNIVERSAL-CA9"
       ],
       "subject": "CASE-LENZ-V-UNIVERSAL"
+    },
+    {
+      "declared_in": "CASE-NL-V-PERTSEV",
+      "notes": null,
+      "object": "SRC-PERTSEV-ECLI-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024"
+      ],
+      "subject": "CASE-NL-V-PERTSEV"
+    },
+    {
+      "declared_in": "CASE-NL-V-PERTSEV",
+      "notes": null,
+      "object": "CASE-US-V-STORM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-SEMENOV-2023"
+      ],
+      "subject": "CASE-NL-V-PERTSEV"
+    },
+    {
+      "declared_in": "CASE-NL-V-PERTSEV",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024"
+      ],
+      "subject": "CASE-NL-V-PERTSEV"
     },
     {
       "declared_in": "CASE-PACKINGHAM-V-NC",
@@ -402,6 +462,36 @@
       "subject": "CASE-UNIVERSAL-V-CORLEY"
     },
     {
+      "declared_in": "CASE-US-V-STORM",
+      "notes": null,
+      "object": "SRC-DOJ-STORM-INDICTMENT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DOJ-STORM-INDICTMENT"
+      ],
+      "subject": "CASE-US-V-STORM"
+    },
+    {
+      "declared_in": "CASE-US-V-STORM",
+      "notes": null,
+      "object": "CASE-NL-V-PERTSEV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TREASURY-SEMENOV-2023"
+      ],
+      "subject": "CASE-US-V-STORM"
+    },
+    {
+      "declared_in": "CASE-US-V-STORM",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOJ-STORM-INDICTMENT"
+      ],
+      "subject": "CASE-US-V-STORM"
+    },
+    {
       "declared_in": "CASE-VAN-BUREN-V-US",
       "notes": null,
       "object": "SRC-USC-18-1030-GOVINFO",
@@ -450,6 +540,47 @@
         "SRC-VAN-BUREN-LII"
       ],
       "subject": "CASE-VAN-BUREN-V-US"
+    },
+    {
+      "declared_in": "CASE-VAN-LOON-V-TREASURY",
+      "notes": null,
+      "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "CASE-VAN-LOON-V-TREASURY"
+    },
+    {
+      "declared_in": "CASE-VAN-LOON-V-TREASURY",
+      "notes": null,
+      "object": "STAT-IEEPA",
+      "predicate": "interprets",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-IEEPA-50-USC-1702-LII"
+      ],
+      "subject": "CASE-VAN-LOON-V-TREASURY"
+    },
+    {
+      "declared_in": "CASE-VAN-LOON-V-TREASURY",
+      "notes": null,
+      "object": "TECH-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "CASE-VAN-LOON-V-TREASURY"
+    },
+    {
+      "declared_in": "CASE-VAN-LOON-V-TREASURY",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "CASE-VAN-LOON-V-TREASURY"
     },
     {
       "declared_in": "ORG-ACLU",
@@ -1989,6 +2120,36 @@
       "subject": "STAT-DMCA-512"
     },
     {
+      "declared_in": "STAT-IEEPA",
+      "notes": null,
+      "object": "SRC-IEEPA-50-USC-1702-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IEEPA-50-USC-1702-LII"
+      ],
+      "subject": "STAT-IEEPA"
+    },
+    {
+      "declared_in": "STAT-IEEPA",
+      "notes": null,
+      "object": "CASE-VAN-LOON-V-TREASURY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "STAT-IEEPA"
+    },
+    {
+      "declared_in": "STAT-IEEPA",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "STAT-IEEPA"
+    },
+    {
       "declared_in": "STAT-SECTION-230",
       "notes": null,
       "object": "SRC-SECTION-230-EFF",
@@ -2067,6 +2228,36 @@
         "SRC-USC-17-107-LII"
       ],
       "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "TECH-TORNADO-CASH",
+      "notes": null,
+      "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TECH-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TECH-TORNADO-CASH",
+      "notes": null,
+      "object": "CASE-VAN-LOON-V-TREASURY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TECH-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TECH-TORNADO-CASH",
+      "notes": null,
+      "object": "TOPIC-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TECH-TORNADO-CASH"
     },
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
@@ -2457,6 +2648,77 @@
         "SRC-USC-17-512-LII"
       ],
       "subject": "TOPIC-SAFE-HARBOR"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "CASE-COIN-CENTER-V-YELLEN",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "CASE-NL-V-PERTSEV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-PERTSEV-ECLI-2024"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "CASE-US-V-STORM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOJ-STORM-INDICTMENT"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "CASE-VAN-LOON-V-TREASURY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "STAT-IEEPA",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-IEEPA-50-USC-1702-LII"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-TORNADO-CASH",
+      "notes": null,
+      "object": "TECH-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+      ],
+      "subject": "TOPIC-TORNADO-CASH"
     }
   ],
   "schema_version": 1

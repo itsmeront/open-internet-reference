@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 350
+Event count: 383
 
 ## 1987-11
 
@@ -112,9 +112,36 @@ Event count: 350
 
 - `publication`: [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md) - Publication date for RFC 9293: Transmission Control Protocol (TCP).
 
+## 2022-08-08
+
+- `publication`: [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md) - Publication date for U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022).
+
+## 2022-11-08
+
+- `publication`: [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md) - Publication date for OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation.
+- `publication`: [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md) - Publication date for Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022).
+
+## 2023-08-23
+
+- `publication`: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md) - Publication date for United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023).
+- `publication`: [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md) - Publication date for Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023).
+
+## 2023-10-30
+
+- `publication`: [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md) - Publication date for Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023).
+
 ## 2023-11
 
 - `publication`: [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md) - Publication date for Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans.
+
+## 2024-05-14
+
+- `publication`: [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md) - Publication date for Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024).
+- `publication`: [`SRC-PERTSEV-RECHTSPRAAK-EN-2024`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md) - Publication date for Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024).
+
+## 2024-11-26
+
+- `publication`: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md) - Publication date for Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia).
 
 ## 2025
 
@@ -123,6 +150,15 @@ Event count: 350
 ## 2025 (relaunch era; site content updated through 2026)
 
 - `publication`: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md) - Publication date for Committee for the First Amendment Homepage.
+
+## 2025-03-21
+
+- `publication`: [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md) - Publication date for OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025).
+- `publication`: [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md) - Publication date for Tornado Cash Delisting (Mar. 21, 2025).
+
+## 2025-08
+
+- `publication`: [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md) - Publication date for SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025).
 
 ## 2025-10-01
 
@@ -382,6 +418,30 @@ Event count: 350
 - `verification`: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) - Last verified date for 17 U.S.C. § 107.
 - `verification`: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) - Last verified date for DMCA Takedown and Counter-Notification.
 - `verification`: [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) - Last verified date for Fair Use and Video.
+
+## 2026-07-23
+
+- `verification`: [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md) - Last verified date for Coin Center v. Yellen.
+- `verification`: [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md) - Last verified date for Netherlands v. Pertsev (Tornado Cash).
+- `verification`: [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md) - Last verified date for United States v. Storm.
+- `verification`: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md) - Last verified date for Van Loon v. Department of the Treasury.
+- `verification`: [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md) - Last verified date for Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023).
+- `verification`: [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md) - Last verified date for SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025).
+- `verification`: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md) - Last verified date for United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023).
+- `verification`: [`SRC-FBI-SEMENOV`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md) - Last verified date for FBI Wanted — Roman Semenov.
+- `verification`: [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md) - Last verified date for 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII).
+- `verification`: [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md) - Last verified date for OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation.
+- `verification`: [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md) - Last verified date for OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025).
+- `verification`: [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md) - Last verified date for Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024).
+- `verification`: [`SRC-PERTSEV-RECHTSPRAAK-EN-2024`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md) - Last verified date for Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024).
+- `verification`: [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md) - Last verified date for Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023).
+- `verification`: [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md) - Last verified date for U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022).
+- `verification`: [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md) - Last verified date for Tornado Cash Delisting (Mar. 21, 2025).
+- `verification`: [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md) - Last verified date for Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022).
+- `verification`: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md) - Last verified date for Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia).
+- `verification`: [`STAT-IEEPA`](source-docs/knowledge/legal/STAT-IEEPA.md) - Last verified date for International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708).
+- `verification`: [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) - Last verified date for Tornado Cash (Ethereum Mixer Protocol).
+- `verification`: [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) - Last verified date for Tornado Cash Sanctions and Developer Prosecutions.
 
 ## Not dated
 
