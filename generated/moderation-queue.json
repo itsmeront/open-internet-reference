@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-23T08:12:31.903262Z",
+  "generated_at": "2026-07-24T08:08:07.532384Z",
   "summary": {
     "open_prs": 0,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 136,
+    "draft_content": 169,
     "needs_sources": 0,
     "stale_verifications": 0
   },
@@ -65,6 +65,21 @@
         "peer-to-peer-networking",
         "distributed-systems",
         "distributed-hash-tables"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-TORNADO-CASH.md",
+      "id": "TECH-TORNADO-CASH",
+      "title": "Tornado Cash (Ethereum Mixer Protocol)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "technology",
+        "privacy-preserving-systems",
+        "censorship-resistance",
+        "open-source-software",
+        "tornado-cash",
+        "case-studies"
       ]
     },
     {
@@ -143,6 +158,20 @@
       ]
     },
     {
+      "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
+      "id": "EVENT-OFAC-BLENDER-2022",
+      "title": "OFAC Designation of Blender.io (May 6, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "historical-event",
+        "sanctions",
+        "digital-rights",
+        "case-studies",
+        "open-source-risk"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
       "id": "CASE-LENZ-V-UNIVERSAL",
       "title": "Lenz v. Universal Music Corp.",
@@ -191,6 +220,25 @@
         "speech-and-code",
         "digital-rights",
         "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
+      "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "title": "Documented Proceedings Involving Software Authors and Operators",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "developer-rights",
+        "open-source-risk",
+        "case-studies",
+        "computer-crime",
+        "sanctions",
+        "speech-and-code",
+        "copyright",
+        "export-control",
+        "cryptography",
+        "digital-rights"
       ]
     },
     {
@@ -269,6 +317,65 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "id": "CASE-US-V-RODRIGUEZ",
+      "title": "United States v. Rodriguez (Samourai Wallet)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "computer-crime",
+        "open-source-risk",
+        "developer-rights",
+        "privacy",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
+      "id": "CASE-COIN-CENTER-V-YELLEN",
+      "title": "Coin Center v. Yellen",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "sanctions",
+        "tornado-cash",
+        "case-studies",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "id": "CASE-US-V-SKLYAROV",
+      "title": "United States v. Sklyarov / Elcomsoft",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "copyright",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
+      "id": "CASE-VAN-LOON-V-TREASURY",
+      "title": "Van Loon v. Department of the Treasury",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "sanctions",
+        "open-source-software",
+        "censorship-resistance",
+        "tornado-cash",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/STAT-USC-107.md",
       "id": "STAT-USC-107",
       "title": "17 U.S.C. \u00a7 107",
@@ -288,6 +395,34 @@
       "tags": [
         "first-amendment",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-IEEPA.md",
+      "id": "STAT-IEEPA",
+      "title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "statute",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "historical-event",
+        "cryptography",
+        "export-control",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
       ]
     },
     {
@@ -341,6 +476,56 @@
         "copyright",
         "digital-rights",
         "safe-harbor"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-US-V-STORM.md",
+      "id": "CASE-US-V-STORM",
+      "title": "United States v. Storm",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "computer-crime",
+        "sanctions",
+        "tornado-cash",
+        "case-studies",
+        "developer-rights",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-TORNADO-CASH.md",
+      "id": "TOPIC-TORNADO-CASH",
+      "title": "Tornado Cash Sanctions and Developer Prosecutions",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "tornado-cash",
+        "case-studies",
+        "sanctions",
+        "open-source-software",
+        "censorship-resistance",
+        "privacy-preserving-systems",
+        "developer-rights",
+        "open-source-risk",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
+      "id": "CASE-NL-V-PERTSEV",
+      "title": "Netherlands v. Pertsev (Tornado Cash)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "computer-crime",
+        "privacy",
+        "tornado-cash",
+        "case-studies",
+        "developer-rights",
+        "open-source-risk"
       ]
     },
     {
@@ -1051,7 +1236,7 @@
       "id": "PERSON-PHIL-ZIMMERMANN",
       "title": "Phil Zimmermann",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-23",
       "tags": [
         "person",
         "cryptography",
@@ -1227,6 +1412,241 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-EFF-SKLYAROV-CASE.md",
+      "id": "SRC-EFF-SKLYAROV-CASE",
+      "title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md",
+      "id": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+      "title": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
+      "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md",
+      "id": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "title": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "sanctions",
+        "open-source-software",
+        "censorship-resistance"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-FBI-SEMENOV.md",
+      "id": "SRC-FBI-SEMENOV",
+      "title": "FBI Wanted \u2014 Roman Semenov",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md",
+      "id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md",
+      "id": "SRC-DOJ-STORM-INDICTMENT",
+      "title": "United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md",
+      "id": "SRC-DOJ-STORM-CONVICTION-2025",
+      "title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md",
+      "id": "SRC-OFAC-TC-REMOVAL-20250321",
+      "title": "OFAC Recent Actions \u2014 Cyber-related Designation Removal (Mar. 21, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-AUG-2022.md",
+      "id": "SRC-TREASURY-TC-AUG-2022",
+      "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md",
+      "id": "SRC-TREASURY-TC-DELIST-2025",
+      "title": "Tornado Cash Delisting (Mar. 21, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
+      "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-PERTSEV-ECLI-2024.md",
+      "id": "SRC-PERTSEV-ECLI-2024",
+      "title": "Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md",
+      "id": "SRC-IEEPA-50-USC-1702-LII",
+      "title": "50 U.S.C. \u00a7 1702 \u2014 International Emergency Economic Powers (Cornell LII)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "statute",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
+      "id": "SRC-TREASURY-BLENDER-2022",
+      "title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-SEMENOV-2023.md",
+      "id": "SRC-TREASURY-SEMENOV-2023",
+      "title": "Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-OFAC-FAQ-1076.md",
+      "id": "SRC-OFAC-FAQ-1076",
+      "title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-NOV-2022.md",
+      "id": "SRC-TREASURY-TC-NOV-2022",
+      "title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md",
+      "id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+      "title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
       "id": "SRC-GOOGLE-ORACLE-JUSTIA",
       "title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
@@ -1238,6 +1658,19 @@
         "copyright",
         "speech-and-code",
         "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
+      "id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
       ]
     },
     {
@@ -1409,6 +1842,19 @@
         "privacy",
         "surveillance",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
+      "id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "cryptography",
+        "export-control",
+        "open-source-risk"
       ]
     },
     {

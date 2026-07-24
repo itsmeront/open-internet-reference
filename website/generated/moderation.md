@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-23 08:12 UTC
+Last updated: 2026-07-24 08:08 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -11,7 +11,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | Open PRs awaiting review | 0 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 136 |
+| Draft content items | 169 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
@@ -21,7 +21,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (136)
+### 📋 Draft (169)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -30,23 +30,23 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `TOPIC-ONION-ROUTING` | Onion Routing | `knowledge/technical/TOPIC-ONION-ROUTING.md` |
 | `PROTOCOL-TCP` | Transmission Control Protocol | `knowledge/technical/PROTOCOL-TCP.md` |
 | `TOPIC-KADEMLIA` | Kademlia | `knowledge/technical/TOPIC-KADEMLIA.md` |
+| `TECH-TORNADO-CASH` | Tornado Cash (Ethereum Mixer Protocol) | `knowledge/technical/TECH-TORNADO-CASH.md` |
 | `PROTOCOL-TLS-13` | Transport Layer Security 1.3 | `knowledge/technical/PROTOCOL-TLS-13.md` |
 | `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
 | `TOPIC-FOURTH-AMENDMENT` | Fourth Amendment | `knowledge/legal/TOPIC-FOURTH-AMENDMENT.md` |
 | `CASE-PACKINGHAM-V-NC` | Packingham v. North Carolina | `knowledge/legal/CASE-PACKINGHAM-V-NC.md` |
 | `TOPIC-COMPUTER-FRAUD` | Computer Fraud and Abuse | `knowledge/legal/TOPIC-COMPUTER-FRAUD.md` |
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
+| `EVENT-OFAC-BLENDER-2022` | OFAC Designation of Blender.io (May 6, 2 | `knowledge/legal/EVENT-OFAC-BLENDER-2022.md` |
 | `CASE-LENZ-V-UNIVERSAL` | Lenz v. Universal Music Corp. | `knowledge/legal/CASE-LENZ-V-UNIVERSAL.md` |
 | `TOPIC-SAFE-HARBOR` | Online Service Provider Safe Harbor | `knowledge/legal/TOPIC-SAFE-HARBOR.md` |
 | `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
 | `CASE-GOOGLE-V-ORACLE` | Google LLC v. Oracle America, Inc. | `knowledge/legal/CASE-GOOGLE-V-ORACLE.md` |
+| `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` | Documented Proceedings Involving Softwar | `knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md` |
 | `STAT-CFAA-1030` | Computer Fraud and Abuse Act (18 U.S.C.  | `knowledge/legal/STAT-CFAA-1030.md` |
 | `CASE-CARPENTER-V-US` | Carpenter v. United States | `knowledge/legal/CASE-CARPENTER-V-US.md` |
-| `TOPIC-FAIR-USE-VIDEO` | Fair Use and Video | `knowledge/legal/TOPIC-FAIR-USE-VIDEO.md` |
-| `CASE-BERNSTEIN-V-DOJ` | Bernstein v. United States Department of | `knowledge/legal/CASE-BERNSTEIN-V-DOJ.md` |
-| `CASE-PERFECT10-V-CCBILL` | Perfect 10, Inc. v. CCBill LLC | `knowledge/legal/CASE-PERFECT10-V-CCBILL.md` |
 
-*...and 116 more*
+*...and 149 more*
 
 ## Stale Verifications
 
