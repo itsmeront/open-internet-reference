@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 156
+Term count: 161
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -64,6 +64,17 @@ Term count: 156
 
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 
+## `CASE-US-V-RODRIGUEZ` { #case-us-v-rodriguez }
+
+- [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
+## `CASE-US-V-SKLYAROV` { #case-us-v-sklyarov }
+
+- [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
+- [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
+
 ## `CASE-US-V-STORM` { #case-us-v-storm }
 
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
@@ -114,6 +125,14 @@ Term count: 156
 ## `CONTACT-WILSON-SONSINI` { #contact-wilson-sonsini }
 
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
+
+## `EVENT-OFAC-BLENDER-2022` { #event-ofac-blender-2022 }
+
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+
+## `EVENT-ZIMMERMANN-PGP-INVESTIGATION` { #event-zimmermann-pgp-investigation }
+
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 
 ## `ORG-CDT` { #org-cdt }
 
@@ -355,6 +374,7 @@ Term count: 156
 ## `PERSON-PHIL-ZIMMERMANN` { #person-phil-zimmermann }
 
 - [`SRC-ZIMMERMANN-BIO: Phil Zimmermann Official Biography`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED: EPIC Alert — Charges Dropped Against Phil Zimmermann`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 
 ## `PERSON-RAND-PAUL` { #person-rand-paul }
@@ -457,6 +477,16 @@ Term count: 156
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 
+## `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` { #topic-developer-software-liability }
+
+- [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
+- [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
+- [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
+- [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
+- [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
 ## `TOPIC-DMCA-TAKEDOWN-RESPONSE` { #topic-dmca-takedown-response }
 
 - [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
@@ -503,6 +533,7 @@ Term count: 156
 - [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)

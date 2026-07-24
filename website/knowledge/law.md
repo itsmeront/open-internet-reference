@@ -35,12 +35,18 @@ These cases establish privacy protections in the digital context.
 - [`CASE-LENZ-V-UNIVERSAL`](../generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): **Lenz v. Universal** — fair use consideration before DMCA takedown notices.
 - [`CASE-GOOGLE-V-ORACLE`](../generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): **Google v. Oracle** — fair use of Java API declaring code in Android.
 
-## Landmark Cases: Sanctions and Immutable Software
+## Landmark Cases: Sanctions and Cryptocurrency Privacy Software
 
 - [`CASE-VAN-LOON-V-TREASURY`](../generated/source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md): **Van Loon v. Treasury** (5th Cir. 2024) — Tornado Cash immutable smart contracts are not IEEPA “property.”
 - [`CASE-COIN-CENTER-V-YELLEN`](../generated/source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md): **Coin Center v. Yellen** (N.D. Fla. 2023) — district-court summary judgment upholding OFAC’s Tornado Cash designation (later mooted after delisting).
 - [`CASE-US-V-STORM`](../generated/source-docs/knowledge/legal/CASE-US-V-STORM.md): **United States v. Storm** — SDNY prosecution of a Tornado Cash co-founder.
 - [`CASE-NL-V-PERTSEV`](../generated/source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md): **Netherlands v. Pertsev** — Dutch money-laundering conviction related to Tornado Cash.
+- [`CASE-US-V-RODRIGUEZ`](../generated/source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): **United States v. Rodriguez** — Samourai Wallet co-founders’ guilty pleas and prison sentences for conspiracy to operate a money transmitting business knowing it transmitted crime proceeds.
+
+## Landmark Cases: Circumvention Software (DMCA)
+
+- [`CASE-US-V-SKLYAROV`](../generated/source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): **United States v. Sklyarov / Elcomsoft** — first DMCA criminal indictment of a programmer for ebook circumvention software; deferred prosecution of Sklyarov.
+- [`CASE-UNIVERSAL-V-CORLEY`](../generated/source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): **Universal City Studios v. Corley** (listed above under Code as Speech) — civil DMCA injunction against DeCSS distribution.
 
 ## Statutes
 
@@ -52,7 +58,7 @@ These cases establish privacy protections in the digital context.
 
 ## Related Topics
 
-Concept pages that explain doctrines and procedures related to these authorities live on the [Topics](topics.md) browse page, including First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, computer fraud, and the Tornado Cash case study.
+Concept and inventory pages live on the [Topics](topics.md) browse page, including [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) and the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md).
 
 ## Why This Matters
 

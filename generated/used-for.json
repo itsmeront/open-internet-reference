@@ -88,6 +88,21 @@
     },
     {
       "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "term": "`CASE-US-V-RODRIGUEZ`"
+    },
+    {
+      "sources": [
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-EFF-SKLYAROV-CASE"
+      ],
+      "term": "`CASE-US-V-SKLYAROV`"
+    },
+    {
+      "sources": [
         "SRC-DOJ-STORM-CONVICTION-2025",
         "SRC-DOJ-STORM-INDICTMENT",
         "SRC-FBI-SEMENOV",
@@ -156,6 +171,18 @@
         "SRC-WILSON-SONSINI-SOFTWARE"
       ],
       "term": "`CONTACT-WILSON-SONSINI`"
+    },
+    {
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "term": "`EVENT-OFAC-BLENDER-2022`"
+    },
+    {
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "term": "`EVENT-ZIMMERMANN-PGP-INVESTIGATION`"
     },
     {
       "sources": [
@@ -499,6 +526,7 @@
     {
       "sources": [
         "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-DECLINATION-1996",
         "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
       ],
       "term": "`PERSON-PHIL-ZIMMERMANN`"
@@ -641,6 +669,18 @@
     },
     {
       "sources": [
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-EFF-SKLYAROV-CASE",
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025",
+        "SRC-TREASURY-BLENDER-2022",
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "term": "`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`"
+    },
+    {
+      "sources": [
         "SRC-COPYRIGHT-512-INDEX",
         "SRC-EFF-BLOGGERS-IP",
         "SRC-LENZ-V-UNIVERSAL-CA9",
@@ -697,6 +737,7 @@
         "SRC-OFAC-TC-REMOVAL-20250321",
         "SRC-PERTSEV-ECLI-2024",
         "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+        "SRC-TREASURY-BLENDER-2022",
         "SRC-TREASURY-SEMENOV-2023",
         "SRC-TREASURY-TC-AUG-2022",
         "SRC-TREASURY-TC-DELIST-2025",

@@ -664,6 +664,107 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "CASE-US-V-RODRIGUEZ",
+      "last_verified": "2026-07-23",
+      "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "relationships": [
+        {
+          "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "CASE-US-V-RODRIGUEZ"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "CASE-US-V-RODRIGUEZ"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "CASE-US-V-RODRIGUEZ"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "status": "draft",
+      "summary": "Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.",
+      "tags": [
+        "case",
+        "computer-crime",
+        "open-source-risk",
+        "developer-rights",
+        "privacy",
+        "case-studies"
+      ],
+      "title": "United States v. Rodriguez (Samourai Wallet)",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "CASE-US-V-SKLYAROV",
+      "last_verified": "2026-07-23",
+      "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "relationships": [
+        {
+          "object": "SRC-DOJ-SKLYAROV-AGREE-2001",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DOJ-SKLYAROV-AGREE-2001"
+          ],
+          "subject": "CASE-US-V-SKLYAROV"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOJ-SKLYAROV-AGREE-2001"
+          ],
+          "subject": "CASE-US-V-SKLYAROV"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-EFF-SKLYAROV-CASE"
+          ],
+          "subject": "CASE-US-V-SKLYAROV"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "sources": [
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-EFF-SKLYAROV-CASE"
+      ],
+      "status": "draft",
+      "summary": "Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.",
+      "tags": [
+        "case",
+        "copyright",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
+      ],
+      "title": "United States v. Sklyarov / Elcomsoft",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "CASE-US-V-STORM",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-US-V-STORM.md",
@@ -840,6 +941,122 @@
       ],
       "title": "Van Loon v. Department of the Treasury",
       "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "EVENT-OFAC-BLENDER-2022",
+      "last_verified": "2026-07-23",
+      "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
+      "relationships": [
+        {
+          "object": "SRC-TREASURY-BLENDER-2022",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TREASURY-BLENDER-2022"
+          ],
+          "subject": "EVENT-OFAC-BLENDER-2022"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TREASURY-BLENDER-2022"
+          ],
+          "subject": "EVENT-OFAC-BLENDER-2022"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TREASURY-BLENDER-2022"
+          ],
+          "subject": "EVENT-OFAC-BLENDER-2022"
+        },
+        {
+          "object": "STAT-IEEPA",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TREASURY-BLENDER-2022"
+          ],
+          "subject": "EVENT-OFAC-BLENDER-2022"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "status": "draft",
+      "summary": "On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 \u2014 Treasury\u2019s first sanctions action against a virtual currency mixer \u2014 citing laundering of proceeds linked to DPRK cyber activity.",
+      "tags": [
+        "historical-event",
+        "sanctions",
+        "digital-rights",
+        "case-studies",
+        "open-source-risk"
+      ],
+      "title": "OFAC Designation of Blender.io (May 6, 2022)",
+      "type": "historical_event",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "last_verified": "2026-07-23",
+      "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "relationships": [
+        {
+          "object": "SRC-ZIMMERMANN-DECLINATION-1996",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+        },
+        {
+          "object": "PERSON-PHIL-ZIMMERMANN",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+          ],
+          "subject": "EVENT-ZIMMERMANN-PGP-INVESTIGATION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "status": "draft",
+      "summary": "U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.",
+      "tags": [
+        "historical-event",
+        "cryptography",
+        "export-control",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
+      ],
+      "title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+      "type": "historical_event",
       "used_for": []
     },
     {
@@ -3042,7 +3259,7 @@
     {
       "bibliographic_metadata": {},
       "id": "PERSON-PHIL-ZIMMERMANN",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-23",
       "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "relationships": [
         {
@@ -3052,11 +3269,21 @@
             "SRC-ZIMMERMANN-BIO"
           ],
           "subject": "PERSON-PHIL-ZIMMERMANN"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "PERSON-PHIL-ZIMMERMANN"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "sources": [
-        "SRC-ZIMMERMANN-BIO"
+        "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+        "SRC-ZIMMERMANN-DECLINATION-1996"
       ],
       "status": "draft",
       "summary": "Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.",
@@ -4031,6 +4258,136 @@
         "digital-rights"
       ],
       "title": "Computer Fraud and Abuse",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "last_verified": "2026-07-23",
+      "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
+      "relationships": [
+        {
+          "object": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-IRS-SAMOURAI-SENTENCE-2025"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-US-V-RODRIGUEZ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-US-V-STORM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOJ-STORM-INDICTMENT"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-NL-V-PERTSEV",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-PERTSEV-ECLI-2024"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "TOPIC-TORNADO-CASH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-VAN-LOON-5TH-CIR-JUSTIA"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "EVENT-OFAC-BLENDER-2022",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TREASURY-BLENDER-2022"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-US-V-SKLYAROV",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOJ-SKLYAROV-AGREE-2001"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CORLEY-LII"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025",
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-TREASURY-BLENDER-2022",
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-JUNGER-CMU",
+        "SRC-CORLEY-LII"
+      ],
+      "status": "draft",
+      "summary": "Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions \u2014 organized by legal tool and outcome.",
+      "tags": [
+        "developer-rights",
+        "open-source-risk",
+        "case-studies",
+        "computer-crime",
+        "sanctions",
+        "speech-and-code",
+        "copyright",
+        "export-control",
+        "cryptography",
+        "digital-rights"
+      ],
+      "title": "Documented Proceedings Involving Software Authors and Operators",
       "type": "topic",
       "used_for": []
     },

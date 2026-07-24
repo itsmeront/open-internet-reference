@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 99,
+  "record_count": 104,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -363,6 +363,33 @@
       "type": "case"
     },
     {
+      "id": "CASE-US-V-RODRIGUEZ",
+      "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "status": "draft",
+      "summary": "Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.",
+      "title": "United States v. Rodriguez (Samourai Wallet)",
+      "type": "case"
+    },
+    {
+      "id": "CASE-US-V-SKLYAROV",
+      "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "sources": [
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-EFF-SKLYAROV-CASE"
+      ],
+      "status": "draft",
+      "summary": "Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.",
+      "title": "United States v. Sklyarov / Elcomsoft",
+      "type": "case"
+    },
+    {
       "id": "CASE-US-V-STORM",
       "path": "knowledge/legal/CASE-US-V-STORM.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-STORM.md",
@@ -407,6 +434,32 @@
       "summary": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not \u201cproperty\u201d under IEEPA and that OFAC exceeded its statutory authority by blocking them.",
       "title": "Van Loon v. Department of the Treasury",
       "type": "case"
+    },
+    {
+      "id": "EVENT-OFAC-BLENDER-2022",
+      "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
+      "sources": [
+        "SRC-TREASURY-BLENDER-2022"
+      ],
+      "status": "draft",
+      "summary": "On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 \u2014 Treasury\u2019s first sanctions action against a virtual currency mixer \u2014 citing laundering of proceeds linked to DPRK cyber activity.",
+      "title": "OFAC Designation of Blender.io (May 6, 2022)",
+      "type": "historical_event"
+    },
+    {
+      "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "status": "draft",
+      "summary": "U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.",
+      "title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+      "type": "historical_event"
     },
     {
       "id": "ORG-ACLU",
@@ -873,7 +926,9 @@
       "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "sources": [
-        "SRC-ZIMMERMANN-BIO"
+        "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED",
+        "SRC-ZIMMERMANN-DECLINATION-1996"
       ],
       "status": "draft",
       "summary": "Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.",
@@ -1167,6 +1222,31 @@
       "status": "draft",
       "summary": "Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. \u00a7 1030.",
       "title": "Computer Fraud and Abuse",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025",
+        "SRC-DOJ-STORM-INDICTMENT",
+        "SRC-DOJ-STORM-CONVICTION-2025",
+        "SRC-PERTSEV-ECLI-2024",
+        "SRC-TREASURY-BLENDER-2022",
+        "SRC-TREASURY-TC-AUG-2022",
+        "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+        "SRC-DOJ-SKLYAROV-AGREE-2001",
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-JUNGER-CMU",
+        "SRC-CORLEY-LII"
+      ],
+      "status": "draft",
+      "summary": "Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions \u2014 organized by legal tool and outcome.",
+      "title": "Documented Proceedings Involving Software Authors and Operators",
       "type": "topic"
     },
     {

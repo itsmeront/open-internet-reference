@@ -1,18 +1,19 @@
 {
   "by_status": {
-    "draft": 137,
+    "draft": 149,
     "verified": 116
   },
   "by_type": {
     "attorney": 16,
-    "case": 15,
+    "case": 17,
+    "historical_event": 2,
     "organization": 20,
     "person": 28,
     "protocol": 3,
-    "source": 154,
+    "source": 161,
     "statute": 5,
     "technology": 1,
-    "topic": 11
+    "topic": 12
   },
   "description": "Generated review status dashboard.",
   "missing_last_verified": [
@@ -24,13 +25,18 @@
     "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
     "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
     "SRC-COOLEY-TECH",
+    "SRC-DOJ-SKLYAROV-AGREE-2001",
+    "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
     "SRC-DOJ-STORM-CONVICTION-2025",
     "SRC-DOJ-STORM-INDICTMENT",
+    "SRC-EFF-SKLYAROV-CASE",
     "SRC-FBI-SEMENOV",
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
     "SRC-GOOGLE-ORACLE-JUSTIA",
     "SRC-IEEPA-50-USC-1702-LII",
+    "SRC-IRS-SAMOURAI-PLEA-2025",
+    "SRC-IRS-SAMOURAI-SENTENCE-2025",
     "SRC-KHANNA-INTERNET-BILL",
     "SRC-LEE-ENCRYPTION-BACKDOORS",
     "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
@@ -46,6 +52,7 @@
     "SRC-PERKINS-COIE-TECH",
     "SRC-PERTSEV-ECLI-2024",
     "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+    "SRC-TREASURY-BLENDER-2022",
     "SRC-TREASURY-SEMENOV-2023",
     "SRC-TREASURY-TC-AUG-2022",
     "SRC-TREASURY-TC-DELIST-2025",
@@ -59,6 +66,7 @@
     "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
     "SRC-WYDEN-SECTION-230",
     "SRC-WYDEN-USA-RIGHTS-ACT",
+    "SRC-ZIMMERMANN-DECLINATION-1996",
     "CASE-BERNSTEIN-V-DOJ",
     "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
     "CASE-CARPENTER-V-US",
@@ -71,9 +79,13 @@
     "CASE-PERFECT10-V-CCBILL",
     "CASE-RENO-V-ACLU",
     "CASE-UNIVERSAL-V-CORLEY",
+    "CASE-US-V-RODRIGUEZ",
+    "CASE-US-V-SKLYAROV",
     "CASE-US-V-STORM",
     "CASE-VAN-BUREN-V-US",
     "CASE-VAN-LOON-V-TREASURY",
+    "EVENT-OFAC-BLENDER-2022",
+    "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
     "ORG-ACLU",
     "ORG-CDT",
     "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
@@ -149,6 +161,7 @@
     "TECH-TORNADO-CASH",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
+    "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
     "TOPIC-DMCA-TAKEDOWN-RESPONSE",
     "TOPIC-FAIR-USE-VIDEO",
     "TOPIC-FIRST-AMENDMENT",
@@ -162,7 +175,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 137,
-    "records": 253
+    "needing_review": 149,
+    "records": 265
   }
 }

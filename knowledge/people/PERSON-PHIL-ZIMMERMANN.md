@@ -11,13 +11,20 @@ tags:
   - privacy
 sources:
   - SRC-ZIMMERMANN-BIO
+  - SRC-ZIMMERMANN-INVESTIGATION-CLOSED
+  - SRC-ZIMMERMANN-DECLINATION-1996
 relationships:
   - subject: PERSON-PHIL-ZIMMERMANN
     predicate: cites
     object: SRC-ZIMMERMANN-BIO
     sources:
       - SRC-ZIMMERMANN-BIO
-last_verified: "2026-07-04"
+  - subject: PERSON-PHIL-ZIMMERMANN
+    predicate: related_to
+    object: EVENT-ZIMMERMANN-PGP-INVESTIGATION
+    sources:
+      - SRC-ZIMMERMANN-DECLINATION-1996
+last_verified: "2026-07-23"
 ---
 
 # Phil Zimmermann
@@ -29,14 +36,17 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 ## Verified Facts
 
 - Creator of Pretty Good Privacy (PGP), published in 1991 as a human-rights-oriented encryption tool.[^1]
-- Subject of a multi-year U.S. criminal investigation related to cryptographic software export; investigation closed without indictment in 1996.[^1]
+- Subject of a multi-year U.S. criminal investigation related to cryptographic software export; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.[^2][^3]
 - Internet Hall of Fame inductee (2012).[^1]
 - EFF Pioneer Award recipient (1995).[^1]
 - Developer of the ZRTP secure telephony protocol; co-founder of Silent Circle.[^1]
 - Author of the Official PGP User's Guide (MIT Press, 1995).[^1]
+- See [EVENT-ZIMMERMANN-PGP-INVESTIGATION](../legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) for the declination record.[^2]
 
 
 [^1]: `SRC-ZIMMERMANN-BIO` — Phil Zimmermann Official Biography. Self-reported profile; corroboration pending.
+[^2]: `SRC-ZIMMERMANN-DECLINATION-1996` — Zimmermann PGP Investigation Closed (Jan. 1996 Declination Letter). Republished government declination text.
+[^3]: `SRC-ZIMMERMANN-INVESTIGATION-CLOSED` — EPIC Alert — Charges Dropped Against Phil Zimmermann. Secondary contemporaneous report.
 
 ## Expert Testimony and Public Advocacy
 
@@ -56,10 +66,13 @@ His experience complements attorneys working on cases adjacent to Bernstein, DMC
 ## Relationships
 
 - `PERSON-PHIL-ZIMMERMANN` cites `SRC-ZIMMERMANN-BIO`.
+- `PERSON-PHIL-ZIMMERMANN` related_to `EVENT-ZIMMERMANN-PGP-INVESTIGATION`.
 
 ## Sources
 
 1. `SRC-ZIMMERMANN-BIO`: Phil Zimmermann Official Biography.
+2. `SRC-ZIMMERMANN-DECLINATION-1996`: Zimmermann PGP Investigation Closed (Jan. 1996 Declination Letter).
+3. `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`: EPIC Alert — Charges Dropped Against Phil Zimmermann.
 
 ## Research Debt
 

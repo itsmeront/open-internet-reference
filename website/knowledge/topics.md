@@ -28,6 +28,7 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 
 ## Case Studies
 
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): **Documented Proceedings Involving Software Authors and Operators** — inventory of criminal, sanctions, export-investigation, and DMCA proceedings involving people who wrote or operated software.
 - [`TOPIC-TORNADO-CASH`](../generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): **Tornado Cash Sanctions and Developer Prosecutions** — OFAC designations and delisting, Van Loon / Coin Center civil litigation, and U.S. and Dutch developer criminal cases.
 
 ## Related Browse Pages
