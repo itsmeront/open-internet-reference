@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-07-23 08:12 UTC
+Last updated: 2026-07-24 08:08 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -8,10 +8,10 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Metric | Count |
 |--------|-------|
-| Tags declared in TAXONOMY.md | 51 |
-| Tags used in content | 42 |
-| Total tag applications | 987 |
-| Orphan tags (declared but unused) | 22 |
+| Tags declared in TAXONOMY.md | 53 |
+| Tags used in content | 50 |
+| Total tag applications | 1136 |
+| Orphan tags (declared but unused) | 16 |
 | Undeclared tags (used but not in TAXONOMY.md) | 13 |
 | Similar tag pairs (possible duplicates) | 0 |
 | Content without tags | 0 |
@@ -20,32 +20,39 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 141 | ✓ |
-| `digital-rights` | 128 | ✓ |
+| `source` | 162 | ✓ |
+| `digital-rights` | 136 | ✓ |
 | `organization` | 78 | ✓ |
-| `privacy` | 71 | ✓ |
+| `privacy` | 74 | ✓ |
 | `person` | 64 | ⚠️ undeclared |
+| `open-source-software` | 62 | ✓ |
 | `first-amendment` | 58 | ✓ |
-| `open-source-software` | 56 | ✓ |
 | `outreach` | 53 | ⚠️ undeclared |
 | `internet-governance` | 45 | ✓ |
 | `attorney` | 35 | ✓ |
-| `cryptography` | 26 | ✓ |
-| `copyright` | 26 | ✓ |
+| `copyright` | 31 | ✓ |
+| `case` | 30 | ✓ |
+| `cryptography` | 29 | ✓ |
 | `surveillance` | 24 | ✓ |
 | `internet-architecture` | 22 | ✓ |
-| `speech-and-code` | 17 | ✓ |
+| `computer-crime` | 22 | ✓ |
+| `speech-and-code` | 20 | ✓ |
+| `sanctions` | 19 | ✓ |
 | `fourth-amendment` | 15 | ✓ |
 | `civil-society` | 15 | ✓ |
-| `case` | 12 | ✓ |
+| `open-source-risk` | 13 | ✓ |
+| `case-studies` | 11 | ✓ |
 | `safe-harbor` | 10 | ✓ |
 | `intermediary-liability` | 10 | ✓ |
-| `computer-crime` | 10 | ✓ |
 | `case-law` | 10 | ⚠️ undeclared |
+| `statute` | 9 | ✓ |
 | `network-protocols` | 7 | ✓ |
-| `statute` | 7 | ✓ |
+| `developer-rights` | 7 | ✓ |
+| `censorship-resistance` | 6 | ✓ |
+| `tornado-cash` | 6 | ✓ |
 | `secure-messaging` | 6 | ✓ |
 | `constitutional-law` | 5 | ✓ |
+| `export-control` | 5 | ✓ |
 | `distributed-systems` | 4 | ✓ |
 | `technology-law` | 4 | ⚠️ undeclared |
 | `technical` | 3 | ⚠️ undeclared |
@@ -53,11 +60,12 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `technical-standard` | 3 | ⚠️ undeclared |
 | `imported-source` | 3 | ⚠️ undeclared |
 | `project-governance` | 3 | ⚠️ undeclared |
-| `censorship-resistance` | 2 | ✓ |
 | `peer-to-peer-networking` | 2 | ✓ |
 | `distributed-hash-tables` | 2 | ✓ |
-| `export-control` | 2 | ✓ |
+| `privacy-preserving-systems` | 2 | ✓ |
+| `historical-event` | 2 | ✓ |
 | `example-tag` | 1 | ⚠️ undeclared |
+| `technology` | 1 | ✓ |
 | `software-distribution` | 1 | ✓ |
 | `academic` | 1 | ⚠️ undeclared |
 | `onion-routing` | 1 | ⚠️ undeclared |
@@ -68,27 +76,21 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 These tags are declared in `TAXONOMY.md` but never used in any content:
 
 - `axona`
-- `case-studies`
 - `consensus`
 - `content-addressing`
 - `court`
 - `cryptographic-signatures`
-- `developer-rights`
 - `due-process`
 - `encryption-law`
-- `historical-event`
 - `key-management`
-- `open-source-risk`
 - `paper`
 - `prior-restraint`
-- `privacy-preserving-systems`
 - `protocol`
 - `public-policy`
 - `regulation`
 - `researcher`
 - `routing`
 - `software-publication`
-- `technology`
 
 **Action:** Either add content using these tags or remove them from TAXONOMY.md.
 
