@@ -1,18 +1,18 @@
 {
   "by_status": {
-    "draft": 149,
+    "draft": 159,
     "verified": 116
   },
   "by_type": {
     "attorney": 16,
-    "case": 17,
+    "case": 18,
     "historical_event": 2,
     "organization": 20,
     "person": 28,
     "protocol": 3,
-    "source": 161,
-    "statute": 5,
-    "technology": 1,
+    "source": 168,
+    "statute": 6,
+    "technology": 2,
     "topic": 12
   },
   "description": "Generated review status dashboard.",
@@ -25,6 +25,7 @@
     "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
     "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
     "SRC-COOLEY-TECH",
+    "SRC-COURTLISTENER-TUNICK-DOCKET",
     "SRC-DOJ-SKLYAROV-AGREE-2001",
     "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
     "SRC-DOJ-STORM-CONVICTION-2025",
@@ -34,6 +35,7 @@
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
     "SRC-GOOGLE-ORACLE-JUSTIA",
+    "SRC-GRAPHENEOS-FEATURES",
     "SRC-IEEPA-50-USC-1702-LII",
     "SRC-IRS-SAMOURAI-PLEA-2025",
     "SRC-IRS-SAMOURAI-SENTENCE-2025",
@@ -52,11 +54,16 @@
     "SRC-PERKINS-COIE-TECH",
     "SRC-PERTSEV-ECLI-2024",
     "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+    "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+    "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
     "SRC-TREASURY-BLENDER-2022",
     "SRC-TREASURY-SEMENOV-2023",
     "SRC-TREASURY-TC-AUG-2022",
     "SRC-TREASURY-TC-DELIST-2025",
     "SRC-TREASURY-TC-NOV-2022",
+    "SRC-TUNICK-INDICTMENT-2025",
+    "SRC-TUNICK-MOTION-SUPPRESS-2026",
+    "SRC-USC-18-2232-LII",
     "SRC-VAN-LOON-5TH-CIR-JUSTIA",
     "SRC-WILSON-SONSINI-INTERNET",
     "SRC-WILSON-SONSINI-SOFTWARE",
@@ -82,6 +89,7 @@
     "CASE-US-V-RODRIGUEZ",
     "CASE-US-V-SKLYAROV",
     "CASE-US-V-STORM",
+    "CASE-US-V-TUNICK",
     "CASE-VAN-BUREN-V-US",
     "CASE-VAN-LOON-V-TREASURY",
     "EVENT-OFAC-BLENDER-2022",
@@ -153,11 +161,13 @@
     "PROTOCOL-DNS",
     "PROTOCOL-TCP",
     "PROTOCOL-TLS-13",
+    "STAT-18-USC-2232",
     "STAT-CFAA-1030",
     "STAT-DMCA-512",
     "STAT-IEEPA",
     "STAT-SECTION-230",
     "STAT-USC-107",
+    "TECH-GRAPHENEOS",
     "TECH-TORNADO-CASH",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
@@ -175,7 +185,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 149,
-    "records": 265
+    "needing_review": 159,
+    "records": 275
   }
 }

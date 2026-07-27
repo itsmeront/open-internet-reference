@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 161
+Record count: 168
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -377,6 +377,18 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
+## `SRC-COURTLISTENER-TUNICK-DOCKET`: CourtListener Docket — United States v. Tunick (1:25-cr-00499) { #SRC-COURTLISTENER-TUNICK-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
+- Tags: source, case
+
+CourtListener docket page for United States v. Tunick in the Northern District of Georgia, including indictment, not-guilty plea, and motion-to-suppress hearing entries.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+
 ## `SRC-DIFFIE-CISAC`: Whitfield Diffie Stanford CISAC Profile { #SRC-DIFFIE-CISAC }
 
 - Type: `source`
@@ -626,6 +638,19 @@ Official ACLU biography page for Jennifer Granick documenting her role as survei
 
 ### Cited By
 - [`PERSON-JENNIFER-GRANICK: Jennifer Granick`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
+
+## `SRC-GRAPHENEOS-FEATURES`: GrapheneOS Features Overview — Duress PIN/Password { #SRC-GRAPHENEOS-FEATURES }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-GRAPHENEOS-FEATURES.md`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- Tags: source, technology, privacy, open-source-software
+
+Official GrapheneOS features documentation describing the optional duress PIN/password that irreversibly wipes the device and installed eSIMs when entered.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 
 ## `SRC-HAIGH-UWM`: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile { #SRC-HAIGH-UWM }
 
@@ -1513,6 +1538,32 @@ Official EFF biography page for Mitch Stoltz documenting his role as Senior Staf
 ### Cited By
 - [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
 
+## `SRC-TECHCRUNCH-TUNICK-DURESS-2026`: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026) { #SRC-TECHCRUNCH-TUNICK-DURESS-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- Tags: source, case, privacy, open-source-software
+
+TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS was running on the phone and describing the prosecution under a property-destruction-to-prevent-seizure statute.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
+## `SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) { #SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- Tags: source, case, privacy, open-source-software
+
+TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
 ## `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography { #SRC-TIEN-EFF }
 
 - Type: `source`
@@ -1631,6 +1682,32 @@ Treasury press release announcing OFAC’s November 8, 2022 delisting and simult
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
+## `SRC-TUNICK-INDICTMENT-2025`: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) { #SRC-TUNICK-INDICTMENT-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- Tags: source, case, privacy, border-search, open-source-software
+
+RECAP copy of the one-count criminal indictment charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
+## `SRC-TUNICK-MOTION-SUPPRESS-2026`: United States v. Tunick — Motion to Suppress (Mar. 17, 2026) { #SRC-TUNICK-MOTION-SUPPRESS-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- Tags: source, case, privacy, border-search, fourth-amendment
+
+Defense motion to suppress statements and evidence in United States v. Tunick, alleging Miranda, counsel, and Fourth Amendment violations during a CBP secondary inspection at Atlanta airport.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+
 ## `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII) { #SRC-US-CONST-AMEND-I-LII }
 
 - Type: `source`
@@ -1739,6 +1816,19 @@ Cornell Legal Information Institute page for 18 U.S.C. section 1030, the Compute
 ### Cited By
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+
+## `SRC-USC-18-2232-LII`: 18 U.S.C. § 2232 (Cornell LII) { #SRC-USC-18-2232-LII }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-USC-18-2232-LII.md`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
+- Tags: source, statute
+
+Cornell Legal Information Institute page for 18 U.S.C. § 2232, destruction or removal of property to prevent seizure.
+
+### Cited By
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 
 ## `SRC-VAN-BUREN-GOVINFO`: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo) { #SRC-VAN-BUREN-GOVINFO }
 

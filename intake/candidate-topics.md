@@ -89,6 +89,7 @@ Candidate legal pages:
 - Prior restraint
 - Anonymous speech
 - Constitutional limits on technology regulation
+- Border device searches and digital wipe / duress credentials (seeded by `CASE-US-V-TUNICK` / `TECH-GRAPHENEOS` intake)
 
 Verification approach:
 

@@ -48,11 +48,16 @@ These cases establish privacy protections in the digital context.
 - [`CASE-US-V-SKLYAROV`](../generated/source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md): **United States v. Sklyarov / Elcomsoft** — first DMCA criminal indictment of a programmer for ebook circumvention software; deferred prosecution of Sklyarov.
 - [`CASE-UNIVERSAL-V-CORLEY`](../generated/source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): **Universal City Studios v. Corley** (listed above under Code as Speech) — civil DMCA injunction against DeCSS distribution.
 
+## Pending Cases: Border Device Search and Privacy OS Features
+
+- [`CASE-US-V-TUNICK`](../generated/source-docs/knowledge/legal/CASE-US-V-TUNICK.md): **United States v. Tunick** (N.D. Ga., pending) — § 2232(a) prosecution alleging deletion of Google Pixel digital contents during a January 2025 Atlanta airport CBP secondary inspection; public reporting links the wipe to GrapheneOS duress credentials.
+
 ## Statutes
 
 - [`STAT-USC-107`](../generated/source-docs/knowledge/legal/STAT-USC-107.md): **17 U.S.C. § 107** — fair use limitation on exclusive copyright rights.
 - [`STAT-DMCA-512`](../generated/source-docs/knowledge/legal/STAT-DMCA-512.md): **17 U.S.C. § 512** — DMCA safe harbor for online service providers.
 - [`STAT-CFAA-1030`](../generated/source-docs/knowledge/legal/STAT-CFAA-1030.md): **18 U.S.C. § 1030** — Computer Fraud and Abuse Act.
+- [`STAT-18-USC-2232`](../generated/source-docs/knowledge/legal/STAT-18-USC-2232.md): **18 U.S.C. § 2232** — destruction or removal of property to prevent seizure.
 - [`STAT-SECTION-230`](../generated/source-docs/knowledge/legal/STAT-SECTION-230.md): **47 U.S.C. § 230** — intermediary liability protections for online platforms.
 - [`STAT-IEEPA`](../generated/source-docs/knowledge/legal/STAT-IEEPA.md): **IEEPA (50 U.S.C. §§ 1701–1708)** — emergency economic powers used for OFAC blocking programs.
 

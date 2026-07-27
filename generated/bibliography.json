@@ -882,6 +882,33 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded",
+        "author or issuing body": "Free Law Project / CourtListener (PACER/RECAP-derived docket)",
+        "publication date": "null (living docket)",
+        "source type": "Court docket index",
+        "url": "https://www.courtlistener.com/docket/71998357/united-states-v-tunick/"
+      },
+      "id": "SRC-COURTLISTENER-TUNICK-DOCKET",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket page for United States v. Tunick in the Northern District of Georgia, including indictment, not-guilty plea, and motion-to-suppress hearing entries.",
+      "tags": [
+        "source",
+        "case"
+      ],
+      "title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-TUNICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Stanford Freeman Spogli Institute for International Studies",
@@ -1464,6 +1491,36 @@
       "type": "source",
       "used_for": [
         "`PERSON-JENNIFER-GRANICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded",
+        "author or issuing body": "GrapheneOS",
+        "publication date": "null (living documentation)",
+        "source type": "Official project documentation",
+        "url": "https://grapheneos.org/features"
+      },
+      "id": "SRC-GRAPHENEOS-FEATURES",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/technical/SRC-GRAPHENEOS-FEATURES.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official GrapheneOS features documentation describing the optional duress PIN/password that irreversibly wipes the device and installed eSIMs when entered.",
+      "tags": [
+        "source",
+        "technology",
+        "privacy",
+        "open-source-software"
+      ],
+      "title": "GrapheneOS Features Overview \u2014 Duress PIN/Password",
+      "type": "source",
+      "used_for": [
+        "`TECH-GRAPHENEOS`",
+        "`CASE-US-V-TUNICK`"
       ]
     },
     {
@@ -3596,6 +3653,66 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded",
+        "author or issuing body": "TechCrunch (Zack Whittaker)",
+        "publication date": "2026-07-24",
+        "source type": "Secondary journalism",
+        "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/"
+      },
+      "id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "TechCrunch secondary report stating Tunick\u2019s attorneys confirmed GrapheneOS was running on the phone and describing the prosecution under a property-destruction-to-prevent-seizure statute.",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "open-source-software"
+      ],
+      "title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-TUNICK`",
+        "`TECH-GRAPHENEOS`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded",
+        "author or issuing body": "TechSpot",
+        "publication date": "2026 (accessed 2026-07-27; exact byline date not independently confirmed in OIR intake)",
+        "source type": "Secondary journalism",
+        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+      },
+      "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "open-source-software"
+      ],
+      "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-TUNICK`",
+        "`TECH-GRAPHENEOS`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Electronic Frontier Foundation",
@@ -3868,6 +3985,72 @@
     },
     {
       "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded beyond RECAP hosting",
+        "author or issuing body": "U.S. District Court for the Northern District of Georgia; U.S. Attorney\u2019s Office (Northern District of Georgia)",
+        "case number": "1:25-cr-00499-ELR-CCB",
+        "docket": "https://www.courtlistener.com/docket/71998357/united-states-v-tunick/",
+        "publication date": "2025-11-13",
+        "source type": "Charging instrument (criminal indictment); RECAP / CourtListener PDF",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.gand.351975/gov.uscourts.gand.351975.1.0.pdf"
+      },
+      "id": "SRC-TUNICK-INDICTMENT-2025",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "RECAP copy of the one-count criminal indictment charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone.",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "open-source-software"
+      ],
+      "title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-TUNICK`",
+        "`STAT-18-USC-2232`",
+        "`TECH-GRAPHENEOS`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "alternate recap path observed": "https://storage.courtlistener.com/recap/gov.uscourts.gand.351976/gov.uscourts.gand.351976.21.0.pdf",
+        "archive url": "None recorded beyond RECAP hosting",
+        "author or issuing body": "Counsel for Samuel Tunick (Federal Defender Program, Inc.; Melissa McGrane)",
+        "docket": "https://www.courtlistener.com/docket/71998357/united-states-v-tunick/",
+        "publication date": "2026-03-17",
+        "source type": "Defense motion (court filing); RECAP / CourtListener PDF",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.gand.351975/gov.uscourts.gand.351975.21.0.pdf"
+      },
+      "id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Defense motion to suppress statements and evidence in United States v. Tunick, alleging Miranda, counsel, and Fourth Amendment violations during a CBP secondary inspection at Atlanta airport.",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "fourth-amendment"
+      ],
+      "title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-US-V-TUNICK`"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Cornell Legal Information Institute",
         "source type": "Legal reference page",
@@ -4104,6 +4287,34 @@
         "Computer crime",
         "Computer Fraud and Abuse Act",
         "Technology law"
+      ]
+    },
+    {
+      "bibliographic_metadata": {
+        "access date": "2026-07-27",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Code; page hosted by Cornell Legal Information Institute",
+        "publication date": "null",
+        "source type": "Statute",
+        "url": "https://www.law.cornell.edu/uscode/text/18/2232"
+      },
+      "id": "SRC-USC-18-2232-LII",
+      "last_verified": "2026-07-27",
+      "path": "bibliography/legal/SRC-USC-18-2232-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USC-18-2232-LII.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Cornell Legal Information Institute page for 18 U.S.C. \u00a7 2232, destruction or removal of property to prevent seizure.",
+      "tags": [
+        "source",
+        "statute"
+      ],
+      "title": "18 U.S.C. \u00a7 2232 (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`STAT-18-USC-2232`",
+        "`CASE-US-V-TUNICK`"
       ]
     },
     {

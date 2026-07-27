@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 104
+Record count: 107
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -138,6 +138,15 @@ Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for 
 - Tags: case, computer-crime, sanctions, tornado-cash, case-studies, developer-rights, open-source-risk
 
 United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
+## `CASE-US-V-TUNICK`: United States v. Tunick { #CASE-US-V-TUNICK }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-US-V-TUNICK.md`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- Tags: case, privacy, border-search, open-source-software, fourth-amendment, digital-rights, case-studies
+
+United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
 
 ## `CASE-VAN-BUREN-V-US`: Van Buren v. United States { #CASE-VAN-BUREN-V-US }
 
@@ -778,6 +787,15 @@ Transmission Control Protocol (TCP) is an internet transport protocol specified 
 
 Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
+## `STAT-18-USC-2232`: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure { #STAT-18-USC-2232 }
+
+- Type: `statute`
+- Status: `draft`
+- Path: [`knowledge/legal/STAT-18-USC-2232.md`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- Tags: statute, privacy, border-search, digital-rights
+
+18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
+
 ## `STAT-CFAA-1030`: Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - Type: `statute`
@@ -822,6 +840,15 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 - Tags: copyright, digital-rights
 
 17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
+
+## `TECH-GRAPHENEOS`: GrapheneOS { #TECH-GRAPHENEOS }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-GRAPHENEOS.md`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- Tags: technology, privacy, open-source-software, cryptography, digital-rights, border-search
+
+GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
 
 ## `TECH-TORNADO-CASH`: Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
