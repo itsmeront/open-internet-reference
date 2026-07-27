@@ -552,6 +552,56 @@
       "subject": "CASE-US-V-STORM"
     },
     {
+      "declared_in": "CASE-US-V-TUNICK",
+      "notes": null,
+      "object": "SRC-TUNICK-INDICTMENT-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "subject": "CASE-US-V-TUNICK"
+    },
+    {
+      "declared_in": "CASE-US-V-TUNICK",
+      "notes": null,
+      "object": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TUNICK-MOTION-SUPPRESS-2026"
+      ],
+      "subject": "CASE-US-V-TUNICK"
+    },
+    {
+      "declared_in": "CASE-US-V-TUNICK",
+      "notes": null,
+      "object": "STAT-18-USC-2232",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "subject": "CASE-US-V-TUNICK"
+    },
+    {
+      "declared_in": "CASE-US-V-TUNICK",
+      "notes": null,
+      "object": "TECH-GRAPHENEOS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+      ],
+      "subject": "CASE-US-V-TUNICK"
+    },
+    {
+      "declared_in": "CASE-US-V-TUNICK",
+      "notes": null,
+      "object": "TOPIC-FOURTH-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TUNICK-MOTION-SUPPRESS-2026"
+      ],
+      "subject": "CASE-US-V-TUNICK"
+    },
+    {
       "declared_in": "CASE-VAN-BUREN-V-US",
       "notes": null,
       "object": "SRC-USC-18-1030-GOVINFO",
@@ -2160,6 +2210,26 @@
       "subject": "PROTOCOL-TLS-13"
     },
     {
+      "declared_in": "STAT-18-USC-2232",
+      "notes": null,
+      "object": "SRC-USC-18-2232-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USC-18-2232-LII"
+      ],
+      "subject": "STAT-18-USC-2232"
+    },
+    {
+      "declared_in": "STAT-18-USC-2232",
+      "notes": null,
+      "object": "CASE-US-V-TUNICK",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "subject": "STAT-18-USC-2232"
+    },
+    {
       "declared_in": "STAT-CFAA-1030",
       "notes": null,
       "object": "SRC-USC-18-1030-GOVINFO",
@@ -2378,6 +2448,26 @@
         "SRC-USC-17-107-LII"
       ],
       "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "TECH-GRAPHENEOS",
+      "notes": null,
+      "object": "SRC-GRAPHENEOS-FEATURES",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GRAPHENEOS-FEATURES"
+      ],
+      "subject": "TECH-GRAPHENEOS"
+    },
+    {
+      "declared_in": "TECH-GRAPHENEOS",
+      "notes": null,
+      "object": "CASE-US-V-TUNICK",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+      ],
+      "subject": "TECH-GRAPHENEOS"
     },
     {
       "declared_in": "TECH-TORNADO-CASH",

@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-23</dd>
+        <dd>2026-07-27</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>104</dd>
+        <dd>107</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>158</dd>
+        <dd>165</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -102,6 +102,7 @@ Knowledge records included in this handbook, grouped by type.
 - [United States v. Rodriguez (Samourai Wallet)](#CASE-US-V-RODRIGUEZ) (`CASE-US-V-RODRIGUEZ`)
 - [United States v. Sklyarov / Elcomsoft](#CASE-US-V-SKLYAROV) (`CASE-US-V-SKLYAROV`)
 - [United States v. Storm](#CASE-US-V-STORM) (`CASE-US-V-STORM`)
+- [United States v. Tunick](#CASE-US-V-TUNICK) (`CASE-US-V-TUNICK`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
 - [Van Loon v. Department of the Treasury](#CASE-VAN-LOON-V-TREASURY) (`CASE-VAN-LOON-V-TREASURY`)
 
@@ -172,6 +173,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Statute
 
+- [18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure](#STAT-18-USC-2232) (`STAT-18-USC-2232`)
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)](#STAT-IEEPA) (`STAT-IEEPA`)
@@ -180,6 +182,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Technology
 
+- [GrapheneOS](#TECH-GRAPHENEOS) (`TECH-GRAPHENEOS`)
 - [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
@@ -218,6 +221,15 @@ Quick reference for knowledge records included in this handbook.
 - **Tags:** copyright, safe-harbor, intermediary-liability
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
+
+### 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure { #STAT-18-USC-2232-glossary }
+
+- **Record ID:** `STAT-18-USC-2232`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** statute, privacy, border-search, digital-rights
+
+18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
 
 ### Aaron Williamson { #PERSON-AARON-WILLIAMSON-glossary }
 
@@ -533,6 +545,15 @@ The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 19
 - **Tags:** copyright, speech-and-code, digital-rights, open-source-software
 
 Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
+
+### GrapheneOS { #TECH-GRAPHENEOS-glossary }
+
+- **Record ID:** `TECH-GRAPHENEOS`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, open-source-software, cryptography, digital-rights, border-search
+
+GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
 
 ### Heather Meeker { #PERSON-HEATHER-MEEKER-glossary }
 
@@ -1074,6 +1095,15 @@ Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for 
 
 United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
 
+### United States v. Tunick { #CASE-US-V-TUNICK-glossary }
+
+- **Record ID:** `CASE-US-V-TUNICK`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, privacy, border-search, open-source-software, fourth-amendment, digital-rights, case-studies
+
+United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
+
 ### Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY-glossary }
 
 - **Record ID:** `CASE-UNIVERSAL-V-CORLEY`
@@ -1481,6 +1511,17 @@ Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for 
 - **Tags:** case, computer-crime, sanctions, tornado-cash, case-studies, developer-rights, open-source-risk
 
 United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
+---
+
+#### United States v. Tunick { #CASE-US-V-TUNICK }
+
+- **Record ID:** `CASE-US-V-TUNICK`
+- **Status:** draft
+- **Sources:** United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) (`SRC-TUNICK-INDICTMENT-2025`), United States v. Tunick — Motion to Suppress (Mar. 17, 2026) (`SRC-TUNICK-MOTION-SUPPRESS-2026`), CourtListener Docket — United States v. Tunick (1:25-cr-00499) (`SRC-COURTLISTENER-TUNICK-DOCKET`), 18 U.S.C. § 2232 (Cornell LII) (`SRC-USC-18-2232-LII`), TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026) (`SRC-TECHCRUNCH-TUNICK-DURESS-2026`), TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) (`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`), GrapheneOS Features Overview — Duress PIN/Password (`SRC-GRAPHENEOS-FEATURES`)
+- **Tags:** case, privacy, border-search, open-source-software, fourth-amendment, digital-rights, case-studies
+
+United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
 
 ---
 
@@ -2099,6 +2140,17 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 ### Statute
 
+#### 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure { #STAT-18-USC-2232 }
+
+- **Record ID:** `STAT-18-USC-2232`
+- **Status:** draft
+- **Sources:** 18 U.S.C. § 2232 (Cornell LII) (`SRC-USC-18-2232-LII`), United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) (`SRC-TUNICK-INDICTMENT-2025`)
+- **Tags:** statute, privacy, border-search, digital-rights
+
+18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
+
+---
+
 #### Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - **Record ID:** `STAT-CFAA-1030`
@@ -2155,6 +2207,17 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 ---
 
 ### Technology
+
+#### GrapheneOS { #TECH-GRAPHENEOS }
+
+- **Record ID:** `TECH-GRAPHENEOS`
+- **Status:** draft
+- **Sources:** GrapheneOS Features Overview — Duress PIN/Password (`SRC-GRAPHENEOS-FEATURES`), TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026) (`SRC-TECHCRUNCH-TUNICK-DURESS-2026`), TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) (`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`), United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) (`SRC-TUNICK-INDICTMENT-2025`)
+- **Tags:** technology, privacy, open-source-software, cryptography, digital-rights, border-search
+
+GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
+
+---
 
 #### Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
@@ -2575,6 +2638,15 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 
 ---
 
+### CourtListener Docket — United States v. Tunick (1:25-cr-00499)
+
+- **Source ID:** `SRC-COURTLISTENER-TUNICK-DOCKET`
+- **Status:** draft
+
+CourtListener docket page for United States v. Tunick in the Northern District of Georgia, including indictment, not-guilty plea, and motion-to-suppress hearing entries.
+
+---
+
 ### Whitfield Diffie Stanford CISAC Profile
 
 - **Source ID:** `SRC-DIFFIE-CISAC`
@@ -2752,6 +2824,15 @@ Justia reproduction of the Supreme Court opinion in Google LLC v. Oracle America
 - **Status:** verified
 
 Official ACLU biography page for Jennifer Granick documenting her role as surveillance and cybersecurity counsel.
+
+---
+
+### GrapheneOS Features Overview — Duress PIN/Password
+
+- **Source ID:** `SRC-GRAPHENEOS-FEATURES`
+- **Status:** draft
+
+Official GrapheneOS features documentation describing the optional duress PIN/password that irreversibly wipes the device and installed eSIMs when entered.
 
 ---
 
@@ -3376,6 +3457,24 @@ Official EFF biography page for Mitch Stoltz documenting his role as Senior Staf
 
 ---
 
+### TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)
+
+- **Source ID:** `SRC-TECHCRUNCH-TUNICK-DURESS-2026`
+- **Status:** draft
+
+TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS was running on the phone and describing the prosecution under a property-destruction-to-prevent-seizure statute.
+
+---
+
+### TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)
+
+- **Source ID:** `SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`
+- **Status:** draft
+
+TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+
+---
+
 ### Lee Tien EFF Staff Biography
 
 - **Source ID:** `SRC-TIEN-EFF`
@@ -3457,6 +3556,24 @@ Treasury press release announcing OFAC’s November 8, 2022 delisting and simult
 
 ---
 
+### United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)
+
+- **Source ID:** `SRC-TUNICK-INDICTMENT-2025`
+- **Status:** draft
+
+RECAP copy of the one-count criminal indictment charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone.
+
+---
+
+### United States v. Tunick — Motion to Suppress (Mar. 17, 2026)
+
+- **Source ID:** `SRC-TUNICK-MOTION-SUPPRESS-2026`
+- **Status:** draft
+
+Defense motion to suppress statements and evidence in United States v. Tunick, alleging Miranda, counsel, and Fourth Amendment violations during a CBP secondary inspection at Atlanta airport.
+
+---
+
 ### U.S. Constitution First Amendment (Cornell LII)
 
 - **Source ID:** `SRC-US-CONST-AMEND-I-LII`
@@ -3526,6 +3643,15 @@ Official GovInfo U.S. Code page for 18 U.S.C. section 1030, the Computer Fraud a
 - **Status:** verified
 
 Cornell Legal Information Institute page for 18 U.S.C. section 1030, the Computer Fraud and Abuse Act provision.
+
+---
+
+### 18 U.S.C. § 2232 (Cornell LII)
+
+- **Source ID:** `SRC-USC-18-2232-LII`
+- **Status:** draft
+
+Cornell Legal Information Institute page for 18 U.S.C. § 2232, destruction or removal of property to prevent seizure.
 
 ---
 

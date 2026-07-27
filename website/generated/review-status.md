@@ -4,26 +4,26 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 265
-- Records needing review: 149
+- Records: 275
+- Records needing review: 159
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 149
+- [`draft`](#draft-records): 159
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 16
-- [`case`](#case-records): 17
+- [`case`](#case-records): 18
 - [`historical_event`](#historical-event-records): 2
 - [`organization`](#organization-records): 20
 - [`person`](#person-records): 28
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 161
-- [`statute`](#statute-records): 5
-- [`technology`](#technology-records): 1
+- [`source`](#source-records): 168
+- [`statute`](#statute-records): 6
+- [`technology`](#technology-records): 2
 - [`topic`](#topic-records): 12
 
 ## Records Needing Review
@@ -43,6 +43,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
 - [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
@@ -117,6 +118,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
 - [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
@@ -126,6 +128,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+- [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -144,11 +147,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
@@ -159,11 +167,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+- [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
@@ -201,6 +211,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
 - [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
@@ -275,6 +286,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
+- [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
 - [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
@@ -284,6 +296,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+- [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -302,11 +315,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
@@ -317,11 +335,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+- [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
@@ -491,6 +511,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
 - [`CASE-US-V-SKLYAROV: United States v. Sklyarov / Elcomsoft`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+- [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 
@@ -591,6 +612,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COPYRIGHT-512-INDEX: U.S. Copyright Office Section 512 Resources`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 - [`SRC-CORLEY-LII: Universal City Studios v. Corley Opinion Text (Open Casebook)`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+- [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 - [`SRC-DOJ-SKLYAROV-AGREE-2001: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md)
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
@@ -611,6 +633,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
+- [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
@@ -683,6 +706,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-SIGNAL-HOME: Signal Official Website`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md)
 - [`SRC-SIGNAL-X3DH: The X3DH Key Agreement Protocol`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md)
 - [`SRC-STOLTZ-EFF-BIO: Mitch Stoltz EFF Staff Biography`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TIEN-EFF: Lee Tien EFF Staff Biography`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
@@ -692,6 +717,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
 - [`SRC-US-CONST-AMEND-I-LII: U.S. Constitution First Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
@@ -700,6 +727,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-USC-17-512-LII: 17 U.S.C. § 512`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md)
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
 - [`SRC-USC-18-1030-LII: 18 U.S.C. § 1030`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md)
+- [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
@@ -725,6 +753,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## statute Records { #statute-records }
 
+- [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
@@ -733,6 +762,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## technology Records { #technology-records }
 
+- [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 
 ## topic Records { #topic-records }

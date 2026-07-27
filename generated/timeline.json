@@ -387,6 +387,27 @@
       "record_title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)"
     },
     {
+      "date": "2025-11-13",
+      "description": "Publication date for United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025).",
+      "event_type": "publication",
+      "record_id": "SRC-TUNICK-INDICTMENT-2025",
+      "record_title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)"
+    },
+    {
+      "date": "2026 (accessed 2026-07-27; exact byline date not independently confirmed in OIR intake)",
+      "description": "Publication date for TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026).",
+      "event_type": "publication",
+      "record_id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+      "record_title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)"
+    },
+    {
+      "date": "2026-03-17",
+      "description": "Publication date for United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026).",
+      "event_type": "publication",
+      "record_id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "record_title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)"
+    },
+    {
       "date": "2026-06-01",
       "description": "Publication date for FOSS Force - Cohn Returns to the Courtroom.",
       "event_type": "publication",
@@ -2235,6 +2256,83 @@
       "record_title": "Tornado Cash Sanctions and Developer Prosecutions"
     },
     {
+      "date": "2026-07-24",
+      "description": "Publication date for TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026).",
+      "event_type": "publication",
+      "record_id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+      "record_title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for United States v. Tunick.",
+      "event_type": "verification",
+      "record_id": "CASE-US-V-TUNICK",
+      "record_title": "United States v. Tunick"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499).",
+      "event_type": "verification",
+      "record_id": "SRC-COURTLISTENER-TUNICK-DOCKET",
+      "record_title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for GrapheneOS Features Overview \u2014 Duress PIN/Password.",
+      "event_type": "verification",
+      "record_id": "SRC-GRAPHENEOS-FEATURES",
+      "record_title": "GrapheneOS Features Overview \u2014 Duress PIN/Password"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026).",
+      "event_type": "verification",
+      "record_id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+      "record_title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026).",
+      "event_type": "verification",
+      "record_id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+      "record_title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025).",
+      "event_type": "verification",
+      "record_id": "SRC-TUNICK-INDICTMENT-2025",
+      "record_title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026).",
+      "event_type": "verification",
+      "record_id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "record_title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for 18 U.S.C. \u00a7 2232 (Cornell LII).",
+      "event_type": "verification",
+      "record_id": "SRC-USC-18-2232-LII",
+      "record_title": "18 U.S.C. \u00a7 2232 (Cornell LII)"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for 18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure.",
+      "event_type": "verification",
+      "record_id": "STAT-18-USC-2232",
+      "record_title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure"
+    },
+    {
+      "date": "2026-07-27",
+      "description": "Last verified date for GrapheneOS.",
+      "event_type": "verification",
+      "record_id": "TECH-GRAPHENEOS",
+      "record_title": "GrapheneOS"
+    },
+    {
       "date": "Not dated",
       "description": "Publication date for Janet Abbate Virginia Tech Faculty Profile.",
       "event_type": "publication",
@@ -2807,6 +2905,27 @@
       "event_type": "publication",
       "record_id": "SRC-WALSH-EFF-BIO",
       "record_title": "Kit Walsh EFF Staff Biography"
+    },
+    {
+      "date": "null",
+      "description": "Publication date for 18 U.S.C. \u00a7 2232 (Cornell LII).",
+      "event_type": "publication",
+      "record_id": "SRC-USC-18-2232-LII",
+      "record_title": "18 U.S.C. \u00a7 2232 (Cornell LII)"
+    },
+    {
+      "date": "null (living docket)",
+      "description": "Publication date for CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499).",
+      "event_type": "publication",
+      "record_id": "SRC-COURTLISTENER-TUNICK-DOCKET",
+      "record_title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)"
+    },
+    {
+      "date": "null (living documentation)",
+      "description": "Publication date for GrapheneOS Features Overview \u2014 Duress PIN/Password.",
+      "event_type": "publication",
+      "record_id": "SRC-GRAPHENEOS-FEATURES",
+      "record_title": "GrapheneOS Features Overview \u2014 Duress PIN/Password"
     }
   ],
   "schema_version": 1

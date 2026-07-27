@@ -818,6 +818,78 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "CASE-US-V-TUNICK",
+      "last_verified": "2026-07-27",
+      "path": "knowledge/legal/CASE-US-V-TUNICK.md",
+      "relationships": [
+        {
+          "object": "SRC-TUNICK-INDICTMENT-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TUNICK-INDICTMENT-2025"
+          ],
+          "subject": "CASE-US-V-TUNICK"
+        },
+        {
+          "object": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TUNICK-MOTION-SUPPRESS-2026"
+          ],
+          "subject": "CASE-US-V-TUNICK"
+        },
+        {
+          "object": "STAT-18-USC-2232",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TUNICK-INDICTMENT-2025"
+          ],
+          "subject": "CASE-US-V-TUNICK"
+        },
+        {
+          "object": "TECH-GRAPHENEOS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+          ],
+          "subject": "CASE-US-V-TUNICK"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TUNICK-MOTION-SUPPRESS-2026"
+          ],
+          "subject": "CASE-US-V-TUNICK"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-US-V-TUNICK.md",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025",
+        "SRC-TUNICK-MOTION-SUPPRESS-2026",
+        "SRC-COURTLISTENER-TUNICK-DOCKET",
+        "SRC-USC-18-2232-LII",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+        "SRC-GRAPHENEOS-FEATURES"
+      ],
+      "status": "draft",
+      "summary": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
+      "tags": [
+        "case",
+        "privacy",
+        "border-search",
+        "open-source-software",
+        "fourth-amendment",
+        "digital-rights",
+        "case-studies"
+      ],
+      "title": "United States v. Tunick",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "CASE-VAN-BUREN-V-US",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
@@ -3811,6 +3883,46 @@
     },
     {
       "bibliographic_metadata": {},
+      "id": "STAT-18-USC-2232",
+      "last_verified": "2026-07-27",
+      "path": "knowledge/legal/STAT-18-USC-2232.md",
+      "relationships": [
+        {
+          "object": "SRC-USC-18-2232-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USC-18-2232-LII"
+          ],
+          "subject": "STAT-18-USC-2232"
+        },
+        {
+          "object": "CASE-US-V-TUNICK",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TUNICK-INDICTMENT-2025"
+          ],
+          "subject": "STAT-18-USC-2232"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-18-USC-2232.md",
+      "sources": [
+        "SRC-USC-18-2232-LII",
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "status": "draft",
+      "summary": "18 U.S.C. \u00a7 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government\u2019s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years\u2019 imprisonment.",
+      "tags": [
+        "statute",
+        "privacy",
+        "border-search",
+        "digital-rights"
+      ],
+      "title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
       "id": "STAT-CFAA-1030",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/STAT-CFAA-1030.md",
@@ -4103,6 +4215,50 @@
       ],
       "title": "17 U.S.C. \u00a7 107",
       "type": "statute",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "id": "TECH-GRAPHENEOS",
+      "last_verified": "2026-07-27",
+      "path": "knowledge/technical/TECH-GRAPHENEOS.md",
+      "relationships": [
+        {
+          "object": "SRC-GRAPHENEOS-FEATURES",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GRAPHENEOS-FEATURES"
+          ],
+          "subject": "TECH-GRAPHENEOS"
+        },
+        {
+          "object": "CASE-US-V-TUNICK",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+          ],
+          "subject": "TECH-GRAPHENEOS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TECH-GRAPHENEOS.md",
+      "sources": [
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "status": "draft",
+      "summary": "GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.",
+      "tags": [
+        "technology",
+        "privacy",
+        "open-source-software",
+        "cryptography",
+        "digital-rights",
+        "border-search"
+      ],
+      "title": "GrapheneOS",
+      "type": "technology",
       "used_for": []
     },
     {

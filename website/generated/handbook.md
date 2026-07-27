@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-23 | **Records:** 104 | **Sources referenced:** 158
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-27 | **Records:** 107 | **Sources referenced:** 165
 
 <div class="oir-handbook" markdown="1">
 
@@ -69,6 +69,7 @@ Knowledge records included in this handbook, grouped by type.
 - [United States v. Rodriguez (Samourai Wallet)](#CASE-US-V-RODRIGUEZ) (`CASE-US-V-RODRIGUEZ`)
 - [United States v. Sklyarov / Elcomsoft](#CASE-US-V-SKLYAROV) (`CASE-US-V-SKLYAROV`)
 - [United States v. Storm](#CASE-US-V-STORM) (`CASE-US-V-STORM`)
+- [United States v. Tunick](#CASE-US-V-TUNICK) (`CASE-US-V-TUNICK`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
 - [Van Loon v. Department of the Treasury](#CASE-VAN-LOON-V-TREASURY) (`CASE-VAN-LOON-V-TREASURY`)
 
@@ -139,6 +140,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Statute
 
+- [18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure](#STAT-18-USC-2232) (`STAT-18-USC-2232`)
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)](#STAT-IEEPA) (`STAT-IEEPA`)
@@ -147,6 +149,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Technology
 
+- [GrapheneOS](#TECH-GRAPHENEOS) (`TECH-GRAPHENEOS`)
 - [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
@@ -185,6 +188,15 @@ Quick reference for knowledge records included in this handbook.
 - **Tags:** copyright, safe-harbor, intermediary-liability
 
 17 U.S.C. § 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.
+
+### 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure { #STAT-18-USC-2232-glossary }
+
+- **Record ID:** `STAT-18-USC-2232`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** statute, privacy, border-search, digital-rights
+
+18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
 
 ### Aaron Williamson { #PERSON-AARON-WILLIAMSON-glossary }
 
@@ -500,6 +512,15 @@ The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 19
 - **Tags:** copyright, speech-and-code, digital-rights, open-source-software
 
 Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
+
+### GrapheneOS { #TECH-GRAPHENEOS-glossary }
+
+- **Record ID:** `TECH-GRAPHENEOS`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, open-source-software, cryptography, digital-rights, border-search
+
+GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
 
 ### Heather Meeker { #PERSON-HEATHER-MEEKER-glossary }
 
@@ -1041,6 +1062,15 @@ Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for 
 
 United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
 
+### United States v. Tunick { #CASE-US-V-TUNICK-glossary }
+
+- **Record ID:** `CASE-US-V-TUNICK`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, privacy, border-search, open-source-software, fourth-amendment, digital-rights, case-studies
+
+United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
+
 ### Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY-glossary }
 
 - **Record ID:** `CASE-UNIVERSAL-V-CORLEY`
@@ -1326,6 +1356,13 @@ Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for 
 - Sources: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md), [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md), [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md), [`SRC-FBI-SEMENOV`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 
 United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.
+
+#### [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md): United States v. Tunick { #CASE-US-V-TUNICK }
+
+- Status: `draft`
+- Sources: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md), [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md), [`SRC-COURTLISTENER-TUNICK-DOCKET`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md), [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md), [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md), [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md), [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+
+United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
 
 #### [`CASE-VAN-BUREN-V-US`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md): Van Buren v. United States { #CASE-VAN-BUREN-V-US }
 
@@ -1722,6 +1759,13 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 ### Statute
 
+#### [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md): 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure { #STAT-18-USC-2232 }
+
+- Status: `draft`
+- Sources: [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md), [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+
+18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
+
 #### [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md): Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - Status: `draft`
@@ -1758,6 +1802,13 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
 ### Technology
+
+#### [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md): GrapheneOS { #TECH-GRAPHENEOS }
+
+- Status: `draft`
+- Sources: [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md), [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md), [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md), [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+
+GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
 
 #### [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
@@ -1886,6 +1937,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md): Cooley Technology Industry Practice Page (`draft`)
 - [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md): U.S. Copyright Office Section 512 Resources (`verified`)
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
+- [`SRC-COURTLISTENER-TUNICK-DOCKET`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md): CourtListener Docket — United States v. Tunick (1:25-cr-00499) (`draft`)
 - [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md): Whitfield Diffie Stanford CISAC Profile (`verified`)
 - [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md): DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) (`draft`)
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md): DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`draft`)
@@ -1906,6 +1958,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md): Free Software Foundation Press Information (`verified`)
 - [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`draft`)
 - [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography (`verified`)
+- [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md): GrapheneOS Features Overview — Duress PIN/Password (`draft`)
 - [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile (`verified`)
 - [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md): 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`draft`)
 - [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md): Institute for Free Speech About Us Page (`verified`)
@@ -1975,6 +2028,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md): Signal Official Website (`verified`)
 - [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md): The X3DH Key Agreement Protocol (`verified`)
 - [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md): Mitch Stoltz EFF Staff Biography (`verified`)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md): TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026) (`draft`)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md): TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) (`draft`)
 - [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md): Lee Tien EFF Staff Biography (`verified`)
 - [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router (`verified`)
 - [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page (`verified`)
@@ -1984,6 +2039,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md): U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`draft`)
 - [`SRC-TREASURY-TC-DELIST-2025`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md): Tornado Cash Delisting (Mar. 21, 2025) (`draft`)
 - [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md): Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022) (`draft`)
+- [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md): United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) (`draft`)
+- [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md): United States v. Tunick — Motion to Suppress (Mar. 17, 2026) (`draft`)
 - [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII) (`verified`)
 - [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md): U.S. Constitution Fourth Amendment (Cornell LII) (`verified`)
 - [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md): 17 U.S.C. § 107 (GovInfo) (`verified`)
@@ -1992,6 +2049,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md): 17 U.S.C. § 512 (`verified`)
 - [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md): 18 U.S.C. § 1030 (GovInfo) (`verified`)
 - [`SRC-USC-18-1030-LII`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md): 18 U.S.C. § 1030 (`verified`)
+- [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md): 18 U.S.C. § 2232 (Cornell LII) (`draft`)
 - [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md): Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo) (`verified`)
 - [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md): Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII) (`verified`)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md): Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`draft`)

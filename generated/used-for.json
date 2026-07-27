@@ -113,6 +113,18 @@
     },
     {
       "sources": [
+        "SRC-COURTLISTENER-TUNICK-DOCKET",
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+        "SRC-TUNICK-INDICTMENT-2025",
+        "SRC-TUNICK-MOTION-SUPPRESS-2026",
+        "SRC-USC-18-2232-LII"
+      ],
+      "term": "`CASE-US-V-TUNICK`"
+    },
+    {
+      "sources": [
         "SRC-VAN-BUREN-GOVINFO",
         "SRC-VAN-BUREN-LII"
       ],
@@ -615,6 +627,13 @@
     },
     {
       "sources": [
+        "SRC-TUNICK-INDICTMENT-2025",
+        "SRC-USC-18-2232-LII"
+      ],
+      "term": "`STAT-18-USC-2232`"
+    },
+    {
+      "sources": [
         "SRC-USC-18-1030-GOVINFO",
         "SRC-USC-18-1030-LII",
         "SRC-VAN-BUREN-GOVINFO",
@@ -650,6 +669,15 @@
         "SRC-USC-17-107-LII"
       ],
       "term": "`STAT-USC-107`"
+    },
+    {
+      "sources": [
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "term": "`TECH-GRAPHENEOS`"
     },
     {
       "sources": [

@@ -2,7 +2,7 @@
 
 This page is generated from explicit publication and verification dates. Do not edit it manually.
 
-Event count: 401
+Event count: 418
 
 ## 1987-11
 
@@ -187,6 +187,18 @@ Event count: 401
 ## 2025-11
 
 - `publication`: [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md) - Publication date for IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025).
+
+## 2025-11-13
+
+- `publication`: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md) - Publication date for United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025).
+
+## 2026 (accessed 2026-07-27; exact byline date not independently confirmed in OIR intake)
+
+- `publication`: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md) - Publication date for TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026).
+
+## 2026-03-17
+
+- `publication`: [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md) - Publication date for United States v. Tunick — Motion to Suppress (Mar. 17, 2026).
 
 ## 2026-06-01
 
@@ -479,6 +491,23 @@ Event count: 401
 - `verification`: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) - Last verified date for Documented Proceedings Involving Software Authors and Operators.
 - `verification`: [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) - Last verified date for Tornado Cash Sanctions and Developer Prosecutions.
 
+## 2026-07-24
+
+- `publication`: [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md) - Publication date for TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026).
+
+## 2026-07-27
+
+- `verification`: [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md) - Last verified date for United States v. Tunick.
+- `verification`: [`SRC-COURTLISTENER-TUNICK-DOCKET`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md) - Last verified date for CourtListener Docket — United States v. Tunick (1:25-cr-00499).
+- `verification`: [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md) - Last verified date for GrapheneOS Features Overview — Duress PIN/Password.
+- `verification`: [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md) - Last verified date for TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026).
+- `verification`: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md) - Last verified date for TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026).
+- `verification`: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md) - Last verified date for United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025).
+- `verification`: [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md) - Last verified date for United States v. Tunick — Motion to Suppress (Mar. 17, 2026).
+- `verification`: [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md) - Last verified date for 18 U.S.C. § 2232 (Cornell LII).
+- `verification`: [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md) - Last verified date for 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure.
+- `verification`: [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md) - Last verified date for GrapheneOS.
+
 ## Not dated
 
 - `publication`: [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md) - Publication date for Janet Abbate Virginia Tech Faculty Profile.
@@ -584,3 +613,15 @@ Event count: 401
 - `publication`: [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md) - Publication date for Corynne McSherry EFF Staff Biography.
 - `publication`: [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md) - Publication date for Mitch Stoltz EFF Staff Biography.
 - `publication`: [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md) - Publication date for Kit Walsh EFF Staff Biography.
+
+## null
+
+- `publication`: [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md) - Publication date for 18 U.S.C. § 2232 (Cornell LII).
+
+## null (living docket)
+
+- `publication`: [`SRC-COURTLISTENER-TUNICK-DOCKET`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md) - Publication date for CourtListener Docket — United States v. Tunick (1:25-cr-00499).
+
+## null (living documentation)
+
+- `publication`: [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md) - Publication date for GrapheneOS Features Overview — Duress PIN/Password.

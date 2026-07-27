@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 161
+Term count: 164
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -82,6 +82,16 @@ Term count: 161
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
+
+## `CASE-US-V-TUNICK` { #case-us-v-tunick }
+
+- [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
+- [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 
 ## `CASE-VAN-BUREN-V-US` { #case-van-buren-v-us }
 
@@ -437,6 +447,11 @@ Term count: 161
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 
+## `STAT-18-USC-2232` { #stat-18-usc-2232 }
+
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+- [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
+
 ## `STAT-CFAA-1030` { #stat-cfaa-1030 }
 
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
@@ -464,6 +479,13 @@ Term count: 161
 
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `TECH-GRAPHENEOS` { #tech-grapheneos }
+
+- [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+- [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 
 ## `TECH-TORNADO-CASH` { #tech-tornado-cash }
 
