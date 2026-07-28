@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-27 09:31 UTC
+Last updated: 2026-07-28 08:14 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,22 +8,20 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 1 |
+| Open PRs awaiting review | 0 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 169 |
+| Draft content items | 179 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-| # | Title | Author | Areas | Age | Flags |
-|---|-------|--------|-------|-----|-------|
-| [#63](https://github.com/itsmeront/open-internet-reference/pull/63) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
+*No open pull requests. The queue is clear!*
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (169)
+### 📋 Draft (179)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -44,11 +42,11 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
 | `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
 | `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
+| `CASE-US-V-TUNICK` | United States v. Tunick | `knowledge/legal/CASE-US-V-TUNICK.md` |
 | `STAT-CFAA-1030` | Computer Fraud and Abuse Act (18 U.S.C.  | `knowledge/legal/STAT-CFAA-1030.md` |
 | `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` | Brown v. Entertainment Merchants Assn. | `knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md` |
-| `CASE-LENZ-V-UNIVERSAL` | Lenz v. Universal Music Corp. | `knowledge/legal/CASE-LENZ-V-UNIVERSAL.md` |
 
-*...and 149 more*
+*...and 159 more*
 
 ## Stale Verifications
 
