@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-07-27T09:31:52.875793Z",
+  "generated_at": "2026-07-28T08:14:42.575239Z",
   "summary": {
-    "open_prs": 1,
+    "open_prs": 0,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 169,
+    "draft_content": 179,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [
-    {
-      "number": 63,
-      "title": "chore: update moderation and taxonomy reports [automated]",
-      "author": "app/github-actions",
-      "labels": [],
-      "areas": [
-        "website"
-      ],
-      "age_days": 1,
-      "stale_days": 1,
-      "is_ai": false,
-      "is_draft": false,
-      "needs_review": false,
-      "is_stale": false,
-      "priority": 0
-    }
-  ],
+  "pull_requests": [],
   "draft_content": [
     {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
@@ -179,12 +162,15 @@
       "id": "TOPIC-CODE-AS-SPEECH",
       "title": "Code as Speech",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-25",
       "tags": [
         "first-amendment",
         "speech-and-code",
         "digital-rights",
-        "constitutional-law"
+        "constitutional-law",
+        "open-source-software",
+        "cryptography",
+        "copyright"
       ]
     },
     {
@@ -251,6 +237,22 @@
         "copyright",
         "safe-harbor",
         "intermediary-liability"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-US-V-TUNICK.md",
+      "id": "CASE-US-V-TUNICK",
+      "title": "United States v. Tunick",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "case",
+        "privacy",
+        "border-search",
+        "open-source-software",
+        "fourth-amendment",
+        "digital-rights",
+        "case-studies"
       ]
     },
     {
@@ -416,6 +418,19 @@
         "intermediary-liability",
         "digital-rights",
         "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-18-USC-2232.md",
+      "id": "STAT-18-USC-2232",
+      "title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "statute",
+        "privacy",
+        "border-search",
+        "digital-rights"
       ]
     },
     {
@@ -753,6 +768,21 @@
         "digital-rights",
         "civil-society",
         "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-GRAPHENEOS.md",
+      "id": "TECH-GRAPHENEOS",
+      "title": "GrapheneOS",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "technology",
+        "privacy",
+        "open-source-software",
+        "cryptography",
+        "digital-rights",
+        "border-search"
       ]
     },
     {
@@ -1493,6 +1523,20 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md",
+      "id": "SRC-TUNICK-INDICTMENT-2025",
+      "title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
       "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
       "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
@@ -1569,6 +1613,30 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-USC-18-2232-LII.md",
+      "id": "SRC-USC-18-2232-LII",
+      "title": "18 U.S.C. \u00a7 2232 (Cornell LII)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "statute"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
+      "id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+      "title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-OFAC-FAQ-1076.md",
       "id": "SRC-OFAC-FAQ-1076",
       "title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
@@ -1617,6 +1685,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
+      "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+      "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md",
       "id": "SRC-DOJ-STORM-CONVICTION-2025",
       "title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
@@ -1626,6 +1707,20 @@
         "source",
         "case",
         "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md",
+      "id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "fourth-amendment"
       ]
     },
     {
@@ -1689,6 +1784,17 @@
         "case",
         "copyright",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
+      "id": "SRC-COURTLISTENER-TUNICK-DOCKET",
+      "title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case"
       ]
     },
     {
@@ -1793,6 +1899,19 @@
         "organization",
         "open-source-software",
         "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-GRAPHENEOS-FEATURES.md",
+      "id": "SRC-GRAPHENEOS-FEATURES",
+      "title": "GrapheneOS Features Overview \u2014 Duress PIN/Password",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "technology",
+        "privacy",
+        "open-source-software"
       ]
     },
     {
