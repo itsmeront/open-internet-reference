@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 176
+Record count: 178
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -205,6 +205,18 @@ Cornell Legal Information Institute full text of Brown v. Entertainment Merchant
 ### Cited By
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`PERSON-KATIE-FALLOW: Katie Fallow`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
+
+## `SRC-BUSH-FISA-SIGNING-2008`: White House — President Bush Signs FISA Amendments Act of 2008 { #SRC-BUSH-FISA-SIGNING-2008 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- Tags: source, surveillance, digital-rights, historical-event
+
+George W. Bush White House archive statement dated July 10, 2008 announcing the signing of the FISA Amendments Act of 2008, including telecom-assistance lawsuit protections.
+
+### Cited By
+- [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 
 ## `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) { #SRC-CARPENTER-GOVINFO }
 
@@ -608,6 +620,18 @@ Official Fenwick & West practice page describing the Technology Transactions gro
 
 ### Cited By
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+
+## `SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`: FISA Amendments Act of 2008 (Public Law 110-261) { #SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
+- Tags: source, surveillance, digital-rights, historical-event
+
+Congress.gov public-law text for the FISA Amendments Act of 2008, enacted July 10, 2008 as Public Law 110-261.
+
+### Cited By
+- [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 
 ## `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) { #SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO }
 

@@ -33,6 +33,7 @@ relationships:
     sources:
       - SRC-TREASURY-SEMENOV-2023
 last_verified: "2026-07-23"
+decision_date: "2024-05-14"
 ---
 
 # Generated Source Mirror
@@ -101,4 +102,5 @@ Jurisdiction: Netherlands, East Brabant District Court (first instance). Authori
 
 ## Document metadata
 
+- Decision date: `2024-05-14`
 - Last verified: `2026-07-23`

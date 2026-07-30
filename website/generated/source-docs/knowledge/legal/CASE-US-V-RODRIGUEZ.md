@@ -31,6 +31,7 @@ relationships:
     sources:
       - SRC-IRS-SAMOURAI-PLEA-2025
 last_verified: "2026-07-23"
+decision_date: "2025-07-30"
 ---
 
 # Generated Source Mirror
@@ -97,4 +98,5 @@ Jurisdiction: U.S. District Court, Southern District of New York (criminal). Doc
 
 ## Document metadata
 
+- Decision date: `2025-07-30`
 - Last verified: `2026-07-23`

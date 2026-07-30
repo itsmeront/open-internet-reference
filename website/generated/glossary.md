@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 113
+Record count: 114
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -165,6 +165,15 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - Tags: case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
+
+## `EVENT-FISA-AMENDMENTS-ACT-2008`: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008 }
+
+- Type: `historical_event`
+- Status: `draft`
+- Path: [`knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
+- Tags: historical-event, surveillance, digital-rights, case-studies
+
+On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
 
 ## `EVENT-FSB-DUROV-TELEGRAM-2026`: Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
 

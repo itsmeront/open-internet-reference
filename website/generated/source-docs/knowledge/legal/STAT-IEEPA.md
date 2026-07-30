@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-VAN-LOON-5TH-CIR-JUSTIA
 last_verified: "2026-07-23"
+enactment_date: "1977"
 ---
 
 # Generated Source Mirror
@@ -89,4 +90,5 @@ IEEPA is the principal statute under which many OFAC blocking programs operate t
 
 ## Document metadata
 
+- Enactment date: `1977`
 - Last verified: `2026-07-23`

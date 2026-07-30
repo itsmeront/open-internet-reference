@@ -4,24 +4,24 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 289
-- Records needing review: 173
+- Records: 292
+- Records needing review: 176
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 173
+- [`draft`](#draft-records): 176
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 18
 - [`case`](#case-records): 18
-- [`historical_event`](#historical-event-records): 3
+- [`historical_event`](#historical-event-records): 4
 - [`organization`](#organization-records): 22
 - [`person`](#person-records): 29
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 176
+- [`source`](#source-records): 178
 - [`statute`](#statute-records): 6
 - [`technology`](#technology-records): 2
 - [`topic`](#topic-records): 12
@@ -46,6 +46,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
@@ -124,6 +125,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -135,6 +137,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
@@ -228,6 +231,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
@@ -306,6 +310,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
+- [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -317,6 +322,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
@@ -547,6 +553,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## historical_event Records { #historical-event-records }
 
+- [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
@@ -632,6 +639,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
 - [`SRC-BROWN-V-EMA-GOVINFO: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
+- [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
@@ -664,6 +672,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)

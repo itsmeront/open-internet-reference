@@ -27,6 +27,7 @@ relationships:
     sources:
       - SRC-BROWN-V-EMA-LII
 last_verified: "2026-07-19"
+decision_date: "2011-06-27"
 ---
 
 # Brown v. Entertainment Merchants Assn.

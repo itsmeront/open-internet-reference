@@ -30,6 +30,7 @@ relationships:
     sources:
       - SRC-COIN-CENTER-YELLEN-NDFLA-2023
 last_verified: "2026-07-23"
+decision_date: "2023-10-30"
 ---
 
 # Generated Source Mirror
@@ -95,4 +96,5 @@ Jurisdiction: U.S. District Court, Northern District of Florida. Authority level
 
 ## Document metadata
 
+- Decision date: `2023-10-30`
 - Last verified: `2026-07-23`

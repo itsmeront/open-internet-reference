@@ -40,6 +40,7 @@ relationships:
     sources:
       - SRC-RENO-V-ACLU-LOC
 last_verified: "2026-06-19"
+decision_date: "1997-06-26"
 ---
 
 # Reno v. American Civil Liberties Union

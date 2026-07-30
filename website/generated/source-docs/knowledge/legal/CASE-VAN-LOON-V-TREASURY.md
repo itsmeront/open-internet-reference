@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-VAN-LOON-5TH-CIR-JUSTIA
 last_verified: "2026-07-23"
+decision_date: "2024-11-26"
 ---
 
 # Generated Source Mirror
@@ -124,4 +125,5 @@ Jurisdiction: U.S. Court of Appeals for the Fifth Circuit. Authority level: publ
 
 ## Document metadata
 
+- Decision date: `2024-11-26`
 - Last verified: `2026-07-23`

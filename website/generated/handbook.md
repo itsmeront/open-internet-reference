@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-29 | **Records:** 113 | **Sources referenced:** 173
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-29 | **Records:** 114 | **Sources referenced:** 175
 
 <div class="oir-handbook" markdown="1">
 
@@ -77,6 +77,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Historical Event
 
+- [FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)](#EVENT-FISA-AMENDMENTS-ACT-2008) (`EVENT-FISA-AMENDMENTS-ACT-2008`)
 - [Russia FSB Charges Against Pavel Durov / Telegram (July 2026)](#EVENT-FSB-DUROV-TELEGRAM-2026) (`EVENT-FSB-DUROV-TELEGRAM-2026`)
 - [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
 - [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
@@ -509,6 +510,15 @@ Fenwick & West is a Silicon Valley law firm founded in 1972 that provides compre
 - **Tags:** constitutional-law, first-amendment, digital-rights, speech-and-code
 
 The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.
+
+### FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008-glossary }
+
+- **Record ID:** `EVENT-FISA-AMENDMENTS-ACT-2008`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, surveillance, digital-rights, case-studies
+
+On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
 
 ### Fourth Amendment { #TOPIC-FOURTH-AMENDMENT-glossary }
 
@@ -1454,6 +1464,13 @@ Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), h
 
 ### Historical Event
 
+#### [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md): FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008 }
+
+- Status: `draft`
+- Sources: [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md), [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+
+On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
+
 #### [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
 
 - Status: `draft`
@@ -2025,6 +2042,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
 - [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) (`verified`)
 - [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`verified`)
+- [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md): White House — President Bush Signs FISA Amendments Act of 2008 (`draft`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
 - [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page (`verified`)
@@ -2057,6 +2075,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-FBI-SEMENOV`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md): FBI Wanted — Roman Semenov (`draft`)
 - [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md): Fenwick & West Firm History Page (`draft`)
 - [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md): Fenwick Technology Transactions Practice Page (`draft`)
+- [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md): FISA Amendments Act of 2008 (Public Law 110-261) (`draft`)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`verified`)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md): France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`draft`)
 - [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page (`verified`)

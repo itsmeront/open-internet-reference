@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 176
+Source count: 178
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -121,6 +121,11 @@ Source count: 176
 - Page source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md)
 - Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `cites` [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - Relationship source in [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md): [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+
+## [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md): White House — President Bush Signs FISA Amendments Act of 2008
+
+- Page source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
+- Relationship source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md): [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 
 ## [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
@@ -330,6 +335,11 @@ Source count: 176
 
 - Page source in [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md)
 - Relationship source in [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md): [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md) `cites` [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+
+## [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md): FISA Amendments Act of 2008 (Public Law 110-261)
+
+- Page source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
+- Relationship source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md): [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 
 ## [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)
 

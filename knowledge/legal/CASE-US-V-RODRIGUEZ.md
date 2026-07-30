@@ -31,6 +31,7 @@ relationships:
     sources:
       - SRC-IRS-SAMOURAI-PLEA-2025
 last_verified: "2026-07-23"
+decision_date: "2025-07-30"
 ---
 
 # United States v. Rodriguez (Samourai Wallet)

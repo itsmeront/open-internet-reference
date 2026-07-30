@@ -39,6 +39,7 @@ relationships:
     sources:
       - SRC-VAN-BUREN-LII
 last_verified: "2026-06-19"
+decision_date: "2021"
 ---
 
 # Generated Source Mirror
@@ -109,4 +110,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2021`
 - Last verified: `2026-06-19`

@@ -39,6 +39,7 @@ relationships:
     sources:
       - SRC-PERFECT10-V-CCBILL-JUSTIA
 last_verified: "2026-06-19"
+decision_date: "2007"
 ---
 
 # Perfect 10, Inc. v. CCBill LLC

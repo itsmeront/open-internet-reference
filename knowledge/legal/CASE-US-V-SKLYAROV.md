@@ -32,6 +32,7 @@ relationships:
     sources:
       - SRC-EFF-SKLYAROV-CASE
 last_verified: "2026-07-23"
+decision_date: "2001-12-13"
 ---
 
 # United States v. Sklyarov / Elcomsoft

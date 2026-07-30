@@ -35,6 +35,7 @@ relationships:
     sources:
       - SRC-JUNGER-CMU
 last_verified: "2026-06-25"
+decision_date: "2000"
 ---
 
 # Generated Source Mirror
@@ -109,4 +110,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2000`
 - Last verified: `2026-06-25`

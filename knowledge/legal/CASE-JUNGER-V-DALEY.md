@@ -35,6 +35,7 @@ relationships:
     sources:
       - SRC-JUNGER-CMU
 last_verified: "2026-06-25"
+decision_date: "2000"
 ---
 
 # Junger v. Daley

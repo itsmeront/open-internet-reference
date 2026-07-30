@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-VAN-LOON-5TH-CIR-JUSTIA
 last_verified: "2026-07-23"
+enactment_date: "1977"
 ---
 
 # International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)

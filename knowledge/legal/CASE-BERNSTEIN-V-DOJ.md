@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-BERNSTEIN-JUSTIA
 last_verified: "2026-06-25"
+decision_date: "1999"
 ---
 
 # Bernstein v. United States Department of Justice

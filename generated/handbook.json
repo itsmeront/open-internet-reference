@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 113,
+  "record_count": 114,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -477,6 +477,19 @@
       "summary": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not \u201cproperty\u201d under IEEPA and that OFAC exceeded its statutory authority by blocking them.",
       "title": "Van Loon v. Department of the Treasury",
       "type": "case"
+    },
+    {
+      "id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "sources": [
+        "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+        "SRC-BUSH-FISA-SIGNING-2008"
+      ],
+      "status": "draft",
+      "summary": "On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance \u2014 a classic legislative override that ended the practical force of pending carrier suits.",
+      "title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+      "type": "historical_event"
     },
     {
       "id": "EVENT-FSB-DUROV-TELEGRAM-2026",

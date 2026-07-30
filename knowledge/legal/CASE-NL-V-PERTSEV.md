@@ -33,6 +33,7 @@ relationships:
     sources:
       - SRC-TREASURY-SEMENOV-2023
 last_verified: "2026-07-23"
+decision_date: "2024-05-14"
 ---
 
 # Netherlands v. Pertsev (Tornado Cash)

@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-VAN-BUREN-LII
 last_verified: "2026-06-25"
+enactment_date: "1984"
 ---
 
 # Computer Fraud and Abuse Act (18 U.S.C. § 1030)

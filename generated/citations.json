@@ -581,6 +581,25 @@
       ]
     },
     {
+      "source_id": "SRC-BUSH-FISA-SIGNING-2008",
+      "source_title": "White House \u2014 President Bush Signs FISA Amendments Act of 2008",
+      "usages": [
+        {
+          "record_id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+          "record_title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BUSH-FISA-SIGNING-2008",
+          "predicate": "cites",
+          "record_id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+          "record_title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+          "subject": "EVENT-FISA-AMENDMENTS-ACT-2008",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CARPENTER-GOVINFO",
       "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
       "usages": [
@@ -1522,6 +1541,25 @@
           "record_id": "ORG-FENWICK",
           "record_title": "Fenwick & West",
           "subject": "ORG-FENWICK",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+      "source_title": "FISA Amendments Act of 2008 (Public Law 110-261)",
+      "usages": [
+        {
+          "record_id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+          "record_title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+          "predicate": "cites",
+          "record_id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+          "record_title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+          "subject": "EVENT-FISA-AMENDMENTS-ACT-2008",
           "usage": "relationship_source"
         }
       ]

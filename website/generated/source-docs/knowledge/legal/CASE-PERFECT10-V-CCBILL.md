@@ -39,6 +39,7 @@ relationships:
     sources:
       - SRC-PERFECT10-V-CCBILL-JUSTIA
 last_verified: "2026-06-19"
+decision_date: "2007"
 ---
 
 # Generated Source Mirror
@@ -105,4 +106,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2007`
 - Last verified: `2026-06-19`

@@ -23,6 +23,7 @@ relationships:
     sources:
       - SRC-GOOGLE-ORACLE-JUSTIA
 last_verified: "2026-06-25"
+decision_date: "2021-04-05"
 ---
 
 # Generated Source Mirror
@@ -116,4 +117,5 @@ Protects software interoperability. Establishes that reimplementing an API for a
 
 ## Document metadata
 
+- Decision date: `2021-04-05`
 - Last verified: `2026-06-25`

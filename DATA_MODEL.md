@@ -56,18 +56,37 @@ last_verified: null
 
 ## Optional Front Matter
 
-### `event_date`
+### Timeline date fields
 
-Required for `historical_event` pages. Optional for other types when a record has a single primary occurrence date that should appear on the public timeline.
+These optional fields feed the public timeline. Format: `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 
-Format: `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
+| Field | Typical use | Timeline label |
+| --- | --- | --- |
+| `event_date` | Historical events and other one-off milestones | Historical event |
+| `decision_date` | Court decisions, judgments, convictions, or other dispositive case outcomes | Decision |
+| `enactment_date` | When legislation became law (signed / effective as documented) | Enactment |
+| `legislative_override_date` | When legislation changed the law so a prior judicial outcome lost practical force (legislative / statutory override) | Legislative override |
+
+`historical_event` pages must include **at least one** of these timeline date fields.
+
+```yaml
+type: case
+decision_date: "2017-06-19"
+```
+
+```yaml
+type: statute
+enactment_date: "1996"
+```
 
 ```yaml
 type: historical_event
-event_date: "2026-07-29"
+legislative_override_date: "2008-07-10"
 ```
 
-The generated public timeline is built from `event_date` values. Document publication dates, access dates, and `last_verified` appear on individual page footers instead.
+A page may set more than one timeline date when multiple milestones are documented (for example, a statute with both an original `enactment_date` and a later `legislative_override_date`).
+
+Document publication dates, access dates, and `last_verified` appear on individual page footers instead of the timeline.
 
 ## Entity Types
 

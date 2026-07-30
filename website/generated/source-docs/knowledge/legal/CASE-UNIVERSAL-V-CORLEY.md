@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-CORLEY-LII
 last_verified: "2026-06-25"
+decision_date: "2001"
 ---
 
 # Generated Source Mirror
@@ -99,4 +100,5 @@ This case demonstrates both the strengths and limits of the code-as-speech doctr
 
 ## Document metadata
 
+- Decision date: `2001`
 - Last verified: `2026-06-25`
