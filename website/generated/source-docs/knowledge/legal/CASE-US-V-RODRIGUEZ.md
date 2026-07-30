@@ -31,6 +31,7 @@ relationships:
     sources:
       - SRC-IRS-SAMOURAI-PLEA-2025
 last_verified: "2026-07-23"
+decision_date: "2025-07-30"
 ---
 
 # Generated Source Mirror
@@ -90,11 +91,12 @@ Jurisdiction: U.S. District Court, Southern District of New York (criminal). Doc
 
 ## Research Debt
 
-- Add SDNY docket number, indictment PDF, and plea agreement text.
+- Add SDNY docket number, indictment PDF, and plea agreement text; add `indictment_date` / `arrest_date` once primary charging materials are intake'd.
 - Add DOJ USAO-SDNY parallel press releases as cross-sources.
 - Document whether money-laundering counts were charged and dismissed or not pursued.
 - Add technical primary sources describing Whirlpool/Ricochet architecture.
 
 ## Document metadata
 
+- Decision date: `2025-07-30`
 - Last verified: `2026-07-23`

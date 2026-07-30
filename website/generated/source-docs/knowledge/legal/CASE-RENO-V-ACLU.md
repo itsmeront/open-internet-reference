@@ -40,6 +40,7 @@ relationships:
     sources:
       - SRC-RENO-V-ACLU-LOC
 last_verified: "2026-06-19"
+decision_date: "1997-06-26"
 ---
 
 # Generated Source Mirror
@@ -113,4 +114,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `1997-06-26`
 - Last verified: `2026-06-19`

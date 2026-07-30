@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 170
+Term count: 171
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -135,6 +135,11 @@ Term count: 170
 ## `CONTACT-WILSON-SONSINI` { #contact-wilson-sonsini }
 
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
+
+## `EVENT-FISA-AMENDMENTS-ACT-2008` { #event-fisa-amendments-act-2008 }
+
+- [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 
 ## `EVENT-FSB-DUROV-TELEGRAM-2026` { #event-fsb-durov-telegram-2026 }
 

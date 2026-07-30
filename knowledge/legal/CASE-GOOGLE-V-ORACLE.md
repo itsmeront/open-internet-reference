@@ -23,6 +23,7 @@ relationships:
     sources:
       - SRC-GOOGLE-ORACLE-JUSTIA
 last_verified: "2026-06-25"
+decision_date: "2021-04-05"
 ---
 
 # Google LLC v. Oracle America, Inc.

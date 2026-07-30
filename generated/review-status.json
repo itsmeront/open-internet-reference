@@ -1,16 +1,16 @@
 {
   "by_status": {
-    "draft": 173,
+    "draft": 176,
     "verified": 116
   },
   "by_type": {
     "attorney": 18,
     "case": 18,
-    "historical_event": 3,
+    "historical_event": 4,
     "organization": 22,
     "person": 29,
     "protocol": 3,
-    "source": 176,
+    "source": 178,
     "statute": 6,
     "technology": 2,
     "topic": 12
@@ -25,6 +25,7 @@
     "SRC-AP-DUROV-FSB-2026",
     "SRC-BBC-DUROV-FSB-2026",
     "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+    "SRC-BUSH-FISA-SIGNING-2008",
     "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
     "SRC-COOLEY-TECH",
     "SRC-COURTLISTENER-TUNICK-DOCKET",
@@ -36,6 +37,7 @@
     "SRC-FBI-SEMENOV",
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
+    "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
     "SRC-FRANCE24-DUROV-KAMINSKI-2024",
     "SRC-GOOGLE-ORACLE-JUSTIA",
     "SRC-GRAPHENEOS-FEATURES",
@@ -100,6 +102,7 @@
     "CASE-US-V-TUNICK",
     "CASE-VAN-BUREN-V-US",
     "CASE-VAN-LOON-V-TREASURY",
+    "EVENT-FISA-AMENDMENTS-ACT-2008",
     "EVENT-FSB-DUROV-TELEGRAM-2026",
     "EVENT-OFAC-BLENDER-2022",
     "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
@@ -199,7 +202,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 173,
-    "records": 289
+    "needing_review": 176,
+    "records": 292
   }
 }

@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-CORLEY-LII
 last_verified: "2026-06-25"
+decision_date: "2001"
 ---
 
 # Universal City Studios v. Corley

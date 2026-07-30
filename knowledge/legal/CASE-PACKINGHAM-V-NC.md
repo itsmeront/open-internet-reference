@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-PACKINGHAM-LII
 last_verified: "2026-07-19"
+decision_date: "2017-06-19"
 ---
 
 # Packingham v. North Carolina

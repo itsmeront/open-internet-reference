@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 341
+Edge count: 343
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -348,6 +348,16 @@ Edge count: 341
 
 - Declared in: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+
+- Declared in: [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
+- Sources: [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+
+## [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
+
+- Declared in: [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
+- Sources: [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 
 ## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `cites` [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 

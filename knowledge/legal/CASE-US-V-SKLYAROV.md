@@ -32,6 +32,8 @@ relationships:
     sources:
       - SRC-EFF-SKLYAROV-CASE
 last_verified: "2026-07-23"
+decision_date: "2001-12-13"
+indictment_date: "2001-08-28"
 ---
 
 # United States v. Sklyarov / Elcomsoft

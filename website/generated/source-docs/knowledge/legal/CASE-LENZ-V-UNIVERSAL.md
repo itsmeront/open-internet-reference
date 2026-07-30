@@ -44,6 +44,7 @@ relationships:
     sources:
       - SRC-LENZ-V-UNIVERSAL-CA9
 last_verified: "2026-07-19"
+decision_date: "2015"
 ---
 
 # Generated Source Mirror
@@ -117,4 +118,5 @@ The Ninth Circuit treated fair use, for DMCA purposes, as a use "authorized by t
 
 ## Document metadata
 
+- Decision date: `2015`
 - Last verified: `2026-07-19`

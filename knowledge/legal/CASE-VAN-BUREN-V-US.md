@@ -39,6 +39,7 @@ relationships:
     sources:
       - SRC-VAN-BUREN-LII
 last_verified: "2026-06-19"
+decision_date: "2021"
 ---
 
 # Van Buren v. United States

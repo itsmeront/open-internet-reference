@@ -1,6 +1,38 @@
 {
-  "description": "Generated timeline of historical events from explicit `event_date` front-matter values. Document publication and verification dates appear on individual page footers instead.",
+  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, legislative_override_date, offense_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
   "events": [
+    {
+      "date": "1976",
+      "description": "17 U.S.C. \u00a7 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.",
+      "event_type": "enactment",
+      "record_id": "STAT-USC-107",
+      "record_title": "17 U.S.C. \u00a7 107",
+      "record_type": "statute"
+    },
+    {
+      "date": "1977",
+      "description": "The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. \u00a7\u00a7 1701\u20131708, authorizes the President to regulate transactions and block property in which foreign countries or nationals have interests during declared national emergencies; OFAC administers related sanctions programs.",
+      "event_type": "enactment",
+      "record_id": "STAT-IEEPA",
+      "record_title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+      "record_type": "statute"
+    },
+    {
+      "date": "1984",
+      "description": "The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. \u00a7 1030, is the primary U.S. federal anti-hacking statute, originally enacted in 1984 and substantially amended in 1986, 1994, 1996, 2001, 2002, and 2008, which criminalizes unauthorized access to computers and has been widely criticized for vagueness and prosecutorial overreach.",
+      "event_type": "enactment",
+      "record_id": "STAT-CFAA-1030",
+      "record_title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
+      "record_type": "statute"
+    },
+    {
+      "date": "1996",
+      "description": "Section 230 of the Communications Decency Act (47 U.S.C. \u00a7 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.",
+      "event_type": "enactment",
+      "record_id": "STAT-SECTION-230",
+      "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
+      "record_type": "statute"
+    },
     {
       "date": "1996-01",
       "description": "U.S. authorities investigated Phil Zimmermann for years over distribution of Pretty Good Privacy (PGP) encryption software; the Northern District of California U.S. Attorney declined prosecution and closed the investigation in January 1996.",
@@ -8,6 +40,126 @@
       "record_id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
       "record_title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
       "record_type": "historical_event"
+    },
+    {
+      "date": "1997-06-26",
+      "description": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.",
+      "event_type": "decision",
+      "record_id": "CASE-RENO-V-ACLU",
+      "record_title": "Reno v. American Civil Liberties Union",
+      "record_type": "case"
+    },
+    {
+      "date": "1998",
+      "description": "17 U.S.C. \u00a7 512 is a United States copyright statute commonly associated with online service provider safe harbor provisions.",
+      "event_type": "enactment",
+      "record_id": "STAT-DMCA-512",
+      "record_title": "17 U.S.C. \u00a7 512",
+      "record_type": "statute"
+    },
+    {
+      "date": "1999",
+      "description": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.",
+      "event_type": "decision",
+      "record_id": "CASE-BERNSTEIN-V-DOJ",
+      "record_title": "Bernstein v. United States Department of Justice",
+      "record_type": "case"
+    },
+    {
+      "date": "2000",
+      "description": "Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.",
+      "event_type": "decision",
+      "record_id": "CASE-JUNGER-V-DALEY",
+      "record_title": "Junger v. Daley",
+      "record_type": "case"
+    },
+    {
+      "date": "2001",
+      "description": "Universal City Studios v. Corley, 273 F.3d 429 (2d Cir. 2001), upheld a DMCA anti-circumvention injunction against distribution of DeCSS code while acknowledging that computer code is speech entitled to First Amendment scrutiny, applying intermediate scrutiny to content-neutral regulation of code's functional aspects.",
+      "event_type": "decision",
+      "record_id": "CASE-UNIVERSAL-V-CORLEY",
+      "record_title": "Universal City Studios v. Corley",
+      "record_type": "case"
+    },
+    {
+      "date": "2001-08-28",
+      "description": "Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-SKLYAROV",
+      "record_title": "United States v. Sklyarov / Elcomsoft",
+      "record_type": "case"
+    },
+    {
+      "date": "2001-12-13",
+      "description": "Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.",
+      "event_type": "decision",
+      "record_id": "CASE-US-V-SKLYAROV",
+      "record_title": "United States v. Sklyarov / Elcomsoft",
+      "record_type": "case"
+    },
+    {
+      "date": "2007",
+      "description": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA \u00a7 512 safe harbor requirements for online service providers.",
+      "event_type": "decision",
+      "record_id": "CASE-PERFECT10-V-CCBILL",
+      "record_title": "Perfect 10, Inc. v. CCBill LLC",
+      "record_type": "case"
+    },
+    {
+      "date": "2008-07-10",
+      "description": "On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance \u2014 a classic legislative override that ended the practical force of pending carrier suits.",
+      "event_type": "legislative_override",
+      "record_id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "record_title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+      "record_type": "historical_event"
+    },
+    {
+      "date": "2011-06-27",
+      "description": "Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video games qualify for First Amendment protection and struck down a California law restricting the sale or rental of violent video games to minors.",
+      "event_type": "decision",
+      "record_id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "record_title": "Brown v. Entertainment Merchants Assn.",
+      "record_type": "case"
+    },
+    {
+      "date": "2015",
+      "description": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. \u00a7 512(c).",
+      "event_type": "decision",
+      "record_id": "CASE-LENZ-V-UNIVERSAL",
+      "record_title": "Lenz v. Universal Music Corp.",
+      "record_type": "case"
+    },
+    {
+      "date": "2017-06-19",
+      "description": "Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North Carolina law prohibiting registered sex offenders from accessing social media websites violated the First Amendment, establishing that the internet and social media are protected spaces for the exercise of free speech rights.",
+      "event_type": "decision",
+      "record_id": "CASE-PACKINGHAM-V-NC",
+      "record_title": "Packingham v. North Carolina",
+      "record_type": "case"
+    },
+    {
+      "date": "2018",
+      "description": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
+      "event_type": "decision",
+      "record_id": "CASE-CARPENTER-V-US",
+      "record_title": "Carpenter v. United States",
+      "record_type": "case"
+    },
+    {
+      "date": "2021",
+      "description": "Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.",
+      "event_type": "decision",
+      "record_id": "CASE-VAN-BUREN-V-US",
+      "record_title": "Van Buren v. United States",
+      "record_type": "case"
+    },
+    {
+      "date": "2021-04-05",
+      "description": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.",
+      "event_type": "decision",
+      "record_id": "CASE-GOOGLE-V-ORACLE",
+      "record_title": "Google LLC v. Oracle America, Inc.",
+      "record_type": "case"
     },
     {
       "date": "2022-05-06",
@@ -18,13 +170,109 @@
       "record_type": "historical_event"
     },
     {
+      "date": "2022-08",
+      "description": "East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.",
+      "event_type": "arrest",
+      "record_id": "CASE-NL-V-PERTSEV",
+      "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+      "record_type": "case"
+    },
+    {
+      "date": "2023-08-23",
+      "description": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "event_type": "arrest",
+      "record_id": "CASE-US-V-STORM",
+      "record_title": "United States v. Storm",
+      "record_type": "case"
+    },
+    {
+      "date": "2023-08-23",
+      "description": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-STORM",
+      "record_title": "United States v. Storm",
+      "record_type": "case"
+    },
+    {
+      "date": "2023-10-30",
+      "description": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC\u2019s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.",
+      "event_type": "decision",
+      "record_id": "CASE-COIN-CENTER-V-YELLEN",
+      "record_title": "Coin Center v. Yellen",
+      "record_type": "case"
+    },
+    {
+      "date": "2024-05-14",
+      "description": "East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.",
+      "event_type": "decision",
+      "record_id": "CASE-NL-V-PERTSEV",
+      "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+      "record_type": "case"
+    },
+    {
+      "date": "2024-08-24",
+      "description": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "event_type": "arrest",
+      "record_id": "PERSON-PAVEL-DUROV",
+      "record_title": "Pavel Durov",
+      "record_type": "person"
+    },
+    {
+      "date": "2024-08-28",
+      "description": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "event_type": "charge",
+      "record_id": "PERSON-PAVEL-DUROV",
+      "record_title": "Pavel Durov",
+      "record_type": "person"
+    },
+    {
+      "date": "2024-11-26",
+      "description": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not \u201cproperty\u201d under IEEPA and that OFAC exceeded its statutory authority by blocking them.",
+      "event_type": "decision",
+      "record_id": "CASE-VAN-LOON-V-TREASURY",
+      "record_title": "Van Loon v. Department of the Treasury",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-01-24",
+      "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
+      "event_type": "offense",
+      "record_id": "CASE-US-V-TUNICK",
+      "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-07-30",
+      "description": "Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.",
+      "event_type": "decision",
+      "record_id": "CASE-US-V-RODRIGUEZ",
+      "record_title": "United States v. Rodriguez (Samourai Wallet)",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-08",
+      "description": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "event_type": "decision",
+      "record_id": "CASE-US-V-STORM",
+      "record_title": "United States v. Storm",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-11-13",
+      "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-TUNICK",
+      "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
       "date": "2026-07-29",
       "description": "On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.",
-      "event_type": "historical_event",
+      "event_type": "charge",
       "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
       "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
       "record_type": "historical_event"
     }
   ],
-  "schema_version": 2
+  "schema_version": 3
 }

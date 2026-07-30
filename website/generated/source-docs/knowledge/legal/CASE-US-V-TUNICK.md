@@ -47,6 +47,8 @@ relationships:
     sources:
       - SRC-TUNICK-MOTION-SUPPRESS-2026
 last_verified: "2026-07-27"
+indictment_date: "2025-11-13"
+offense_date: "2025-01-24"
 ---
 
 # Generated Source Mirror
@@ -62,7 +64,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 7
     - **Relationships**: 5
-    - **Research debt items**: 5
+    - **Research debt items**: 6
 
 ---
 
@@ -142,9 +144,12 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 - Locate a primary filing that expressly names GrapheneOS or “duress” credentials (if filed); until then keep OS attribution under secondary reporting.
 - Add RECAP PDF for Doc. 8.1 not-guilty plea form as a dedicated source if needed beyond the docket minute entry.
 - Track the suppression ruling and any trial or plea outcome; update status when adjudicated.
+- Note: `offense_date` is the indictment’s “on or about January 24, 2025” alleged conduct date, not an adjudicated finding.
 - Consider a focused topic page on border device searches / digital wipe features once additional cases are intake-reviewed.
 - Domain expert (criminal procedure / border search) review before any status above `draft`.
 
 ## Document metadata
 
+- Offense date: `2025-01-24`
+- Indictment date: `2025-11-13`
 - Last verified: `2026-07-27`

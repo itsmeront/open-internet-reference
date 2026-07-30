@@ -2,10 +2,17 @@
   "description": "Generated glossary-style index of non-source knowledge records.",
   "records": [
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "1999",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-BERNSTEIN-V-DOJ",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
       "relationships": [
         {
@@ -69,10 +76,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2011-06-27",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "relationships": [
         {
@@ -116,10 +130,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2018",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-CARPENTER-V-US",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
       "relationships": [
         {
@@ -165,10 +186,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2023-10-30",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-COIN-CENTER-V-YELLEN",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
       "relationships": [
         {
@@ -215,10 +243,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2021-04-05",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-GOOGLE-V-ORACLE",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
       "relationships": [
         {
@@ -255,10 +290,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2000",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-JUNGER-V-DALEY",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
       "relationships": [
         {
@@ -313,10 +355,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2015",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-LENZ-V-UNIVERSAL",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
       "relationships": [
         {
@@ -386,10 +435,17 @@
       "used_for": []
     },
     {
+      "arrest_date": "2022-08",
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2024-05-14",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-NL-V-PERTSEV",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
       "relationships": [
         {
@@ -439,10 +495,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2017-06-19",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-PACKINGHAM-V-NC",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
       "relationships": [
         {
@@ -496,10 +559,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2007",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-PERFECT10-V-CCBILL",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
       "relationships": [
         {
@@ -561,10 +631,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "1997-06-26",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-RENO-V-ACLU",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-RENO-V-ACLU.md",
       "relationships": [
         {
@@ -627,10 +704,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2001",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-UNIVERSAL-V-CORLEY",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
       "relationships": [
         {
@@ -675,10 +759,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-07-30",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-US-V-RODRIGUEZ",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
       "relationships": [
         {
@@ -726,10 +817,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2001-12-13",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-US-V-SKLYAROV",
+      "indictment_date": "2001-08-28",
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
       "relationships": [
         {
@@ -778,10 +876,17 @@
       "used_for": []
     },
     {
+      "arrest_date": "2023-08-23",
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-08",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-US-V-STORM",
+      "indictment_date": "2023-08-23",
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-STORM.md",
       "relationships": [
         {
@@ -832,10 +937,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-US-V-TUNICK",
+      "indictment_date": "2025-11-13",
       "last_verified": "2026-07-27",
+      "legislative_override_date": null,
+      "offense_date": "2025-01-24",
       "path": "knowledge/legal/CASE-US-V-TUNICK.md",
       "relationships": [
         {
@@ -905,10 +1017,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2021",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-VAN-BUREN-V-US",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
       "relationships": [
         {
@@ -970,10 +1089,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2024-11-26",
+      "enactment_date": null,
       "event_date": null,
       "id": "CASE-VAN-LOON-V-TREASURY",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
       "relationships": [
         {
@@ -1034,10 +1160,65 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
-      "event_date": "2026-07-29",
-      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": "2008-07-10",
+      "offense_date": null,
+      "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "relationships": [
+        {
+          "object": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS"
+          ],
+          "subject": "EVENT-FISA-AMENDMENTS-ACT-2008"
+        },
+        {
+          "object": "SRC-BUSH-FISA-SIGNING-2008",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BUSH-FISA-SIGNING-2008"
+          ],
+          "subject": "EVENT-FISA-AMENDMENTS-ACT-2008"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "sources": [
+        "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+        "SRC-BUSH-FISA-SIGNING-2008"
+      ],
+      "status": "draft",
+      "summary": "On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance \u2014 a classic legislative override that ended the practical force of pending carrier suits.",
+      "tags": [
+        "historical-event",
+        "surveillance",
+        "digital-rights",
+        "case-studies"
+      ],
+      "title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+      "type": "historical_event",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": "2026-07-29",
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "indictment_date": null,
+      "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
       "relationships": [
         {
@@ -1103,10 +1284,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": "2022-05-06",
       "id": "EVENT-OFAC-BLENDER-2022",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
       "relationships": [
         {
@@ -1160,10 +1348,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": "1996-01",
       "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
       "relationships": [
         {
@@ -1221,10 +1416,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-ACLU",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-ACLU.md",
       "relationships": [
         {
@@ -1262,10 +1464,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-AGORA",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-AGORA.md",
       "relationships": [
         {
@@ -1313,10 +1522,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-CDT",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-CDT.md",
       "relationships": [
         {
@@ -1356,10 +1572,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "indictment_date": null,
       "last_verified": "2026-07-18",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -1431,10 +1654,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-COOLEY",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-COOLEY.md",
       "relationships": [
         {
@@ -1463,10 +1693,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-EFF",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-EFF.md",
       "relationships": [
         {
@@ -1504,10 +1741,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-EPIC",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-EPIC.md",
       "relationships": [
         {
@@ -1546,10 +1790,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-FENWICK",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-FENWICK.md",
       "relationships": [
         {
@@ -1587,10 +1838,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-FSF",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-FSF.md",
       "relationships": [
         {
@@ -1629,10 +1887,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
       "relationships": [
         {
@@ -1661,10 +1926,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-INSTITUTE-FOR-JUSTICE",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
       "relationships": [
         {
@@ -1710,10 +1982,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-KNIGHT-FIRST-AMENDMENT",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -1760,10 +2039,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-OSI",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-OSI.md",
       "relationships": [
         {
@@ -1801,10 +2087,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-PERKINS-COIE",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
       "relationships": [
         {
@@ -1833,10 +2126,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-PUBLIC-KNOWLEDGE",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
       "relationships": [
         {
@@ -1875,10 +2175,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-RCFP",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-RCFP.md",
       "relationships": [
         {
@@ -1917,10 +2224,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-SFLC",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SFLC.md",
       "relationships": [
         {
@@ -1976,10 +2290,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-SIGNAL",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SIGNAL.md",
       "relationships": [
         {
@@ -2034,10 +2355,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "relationships": [
         {
@@ -2103,10 +2431,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-TELEGRAM",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-TELEGRAM.md",
       "relationships": [
         {
@@ -2181,10 +2516,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-TOR-PROJECT",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
       "relationships": [
         {
@@ -2230,10 +2572,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "ORG-WILSON-SONSINI",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-WILSON-SONSINI.md",
       "relationships": [
         {
@@ -2271,10 +2620,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-AARON-WILLIAMSON",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
       "relationships": [
         {
@@ -2302,10 +2658,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ALAN-KAY",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ALAN-KAY.md",
       "relationships": [
         {
@@ -2334,10 +2697,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ALEX-ABDO",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ALEX-ABDO.md",
       "relationships": [
         {
@@ -2375,10 +2745,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ANDREW-RUSSELL",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
       "relationships": [
         {
@@ -2407,10 +2784,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-BEN-WIZNER",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-BEN-WIZNER.md",
       "relationships": [
         {
@@ -2447,10 +2831,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-BRUCE-SCHNEIER",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
       "relationships": [
         {
@@ -2488,10 +2879,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-CINDY-COHN",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CINDY-COHN.md",
       "relationships": [
         {
@@ -2583,10 +2981,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-CORY-BOOKER",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CORY-BOOKER.md",
       "relationships": [
         {
@@ -2634,10 +3039,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-CORYNNE-MCSHERRY",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
       "relationships": [
         {
@@ -2675,10 +3087,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-DANAH-BOYD",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DANAH-BOYD.md",
       "relationships": [
         {
@@ -2707,10 +3126,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
       "relationships": [
         {
@@ -2746,10 +3172,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-DAVID-REED",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DAVID-REED.md",
       "relationships": [
         {
@@ -2778,10 +3211,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-EBEN-MOGLEN",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
       "relationships": [
         {
@@ -2844,10 +3284,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ESHA-BHANDARI",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
       "relationships": [
         {
@@ -2884,10 +3331,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-HEATHER-MEEKER",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
       "relationships": [
         {
@@ -2914,10 +3368,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-HENRY-FONDA",
+      "indictment_date": null,
       "last_verified": "2026-07-18",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-HENRY-FONDA.md",
       "relationships": [
         {
@@ -2953,10 +3414,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-JAMEEL-JAFFER",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
       "relationships": [
         {
@@ -2993,10 +3461,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-JANE-FONDA",
+      "indictment_date": null,
       "last_verified": "2026-07-18",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JANE-FONDA.md",
       "relationships": [
         {
@@ -3042,10 +3517,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-JANET-ABBATE",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JANET-ABBATE.md",
       "relationships": [
         {
@@ -3074,10 +3556,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-JENNIFER-GRANICK",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
       "relationships": [
         {
@@ -3115,10 +3604,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-JONATHAN-ZITTRAIN",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
       "relationships": [
         {
@@ -3147,10 +3643,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-KATIE-FALLOW",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
       "relationships": [
         {
@@ -3204,10 +3707,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-KIT-WALSH",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-KIT-WALSH.md",
       "relationships": [
         {
@@ -3245,10 +3755,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-LAUREN-WEINSTEIN",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
       "relationships": [
         {
@@ -3287,10 +3804,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-LAWRENCE-LESSIG",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
       "relationships": [
         {
@@ -3320,10 +3844,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-LEE-TIEN",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LEE-TIEN.md",
       "relationships": [
         {
@@ -3360,10 +3891,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-MATT-BLAZE",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MATT-BLAZE.md",
       "relationships": [
         {
@@ -3392,10 +3930,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-MIKE-LEE",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MIKE-LEE.md",
       "relationships": [
         {
@@ -3444,10 +3989,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-MITCH-STOLTZ",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
       "relationships": [
         {
@@ -3485,10 +4037,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-NATHAN-FREED-WESSLER",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
       "relationships": [
         {
@@ -3544,10 +4103,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ORIN-KERR",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ORIN-KERR.md",
       "relationships": [
         {
@@ -3576,10 +4142,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-PAMELA-CHESTEK",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
       "relationships": [
         {
@@ -3606,10 +4179,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-PAUL-VIXIE",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
       "relationships": [
         {
@@ -3638,10 +4218,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-PAVEL-CHIKOV",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
       "relationships": [
         {
@@ -3688,10 +4275,17 @@
       "used_for": []
     },
     {
+      "arrest_date": "2024-08-24",
       "bibliographic_metadata": {},
+      "charge_date": "2024-08-28",
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-PAVEL-DUROV",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
       "relationships": [
         {
@@ -3760,10 +4354,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-PHIL-ZIMMERMANN",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "relationships": [
         {
@@ -3802,10 +4403,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-RAND-PAUL",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RAND-PAUL.md",
       "relationships": [
         {
@@ -3880,10 +4488,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-RO-KHANNA",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RO-KHANNA.md",
       "relationships": [
         {
@@ -3912,10 +4527,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ROBERT-KAHN",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
       "relationships": [
         {
@@ -3943,10 +4565,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-RON-RIVEST",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RON-RIVEST.md",
       "relationships": [
         {
@@ -3975,10 +4604,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-RON-WYDEN",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RON-WYDEN.md",
       "relationships": [
         {
@@ -4044,10 +4680,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-THOMAS-HAIGH",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
       "relationships": [
         {
@@ -4075,10 +4718,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-THOMAS-MASSIE",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
       "relationships": [
         {
@@ -4108,10 +4758,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-TIM-BERNERS-LEE",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
       "relationships": [
         {
@@ -4141,10 +4798,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-VINT-CERF",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-VINT-CERF.md",
       "relationships": [
         {
@@ -4173,10 +4837,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-WHITFIELD-DIFFIE",
+      "indictment_date": null,
       "last_verified": "2026-07-04",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
       "relationships": [
         {
@@ -4205,10 +4876,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PERSON-ZOE-LOFGREN",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
       "relationships": [
         {
@@ -4237,10 +4915,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PROTOCOL-DNS",
+      "indictment_date": null,
       "last_verified": "2026-06-17",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-DNS.md",
       "relationships": [
         {
@@ -4267,10 +4952,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PROTOCOL-TCP",
+      "indictment_date": null,
       "last_verified": "2026-06-17",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-TCP.md",
       "relationships": [
         {
@@ -4297,10 +4989,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "PROTOCOL-TLS-13",
+      "indictment_date": null,
       "last_verified": "2026-06-17",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-TLS-13.md",
       "relationships": [
         {
@@ -4328,10 +5027,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "STAT-18-USC-2232",
+      "indictment_date": null,
       "last_verified": "2026-07-27",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-18-USC-2232.md",
       "relationships": [
         {
@@ -4369,10 +5075,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "1984",
       "event_date": null,
       "id": "STAT-CFAA-1030",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-CFAA-1030.md",
       "relationships": [
         {
@@ -4426,10 +5139,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "1998",
       "event_date": null,
       "id": "STAT-DMCA-512",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-DMCA-512.md",
       "relationships": [
         {
@@ -4509,10 +5229,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "1977",
       "event_date": null,
       "id": "STAT-IEEPA",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-IEEPA.md",
       "relationships": [
         {
@@ -4557,10 +5284,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "1996",
       "event_date": null,
       "id": "STAT-SECTION-230",
+      "indictment_date": null,
       "last_verified": "2026-06-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-SECTION-230.md",
       "relationships": [
         {
@@ -4606,10 +5340,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "1976",
       "event_date": null,
       "id": "STAT-USC-107",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-USC-107.md",
       "relationships": [
         {
@@ -4670,10 +5411,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TECH-GRAPHENEOS",
+      "indictment_date": null,
       "last_verified": "2026-07-27",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TECH-GRAPHENEOS.md",
       "relationships": [
         {
@@ -4715,10 +5463,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TECH-TORNADO-CASH",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TECH-TORNADO-CASH.md",
       "relationships": [
         {
@@ -4767,10 +5522,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-CODE-AS-SPEECH",
+      "indictment_date": null,
       "last_verified": "2026-07-25",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "relationships": [
         {
@@ -4887,10 +5649,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-COMPUTER-FRAUD",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
       "relationships": [
         {
@@ -4936,10 +5705,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
       "relationships": [
         {
@@ -5084,10 +5860,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
       "relationships": [
         {
@@ -5176,10 +5959,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-FAIR-USE-VIDEO",
+      "indictment_date": null,
       "last_verified": "2026-07-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
       "relationships": [
         {
@@ -5249,10 +6039,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-FIRST-AMENDMENT",
+      "indictment_date": null,
       "last_verified": "2026-07-18",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -5306,10 +6103,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-FOURTH-AMENDMENT",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
       "relationships": [
         {
@@ -5348,10 +6152,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-INTERMEDIARY-LIABILITY",
+      "indictment_date": null,
       "last_verified": "2026-07-29",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
       "relationships": [
         {
@@ -5422,10 +6233,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-KADEMLIA",
+      "indictment_date": null,
       "last_verified": "2026-06-17",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TOPIC-KADEMLIA.md",
       "relationships": [
         {
@@ -5453,10 +6271,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-ONION-ROUTING",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
       "relationships": [
         {
@@ -5502,10 +6327,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-SAFE-HARBOR",
+      "indictment_date": null,
       "last_verified": "2026-06-19",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
       "relationships": [
         {
@@ -5560,10 +6392,17 @@
       "used_for": []
     },
     {
+      "arrest_date": null,
       "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": null,
       "id": "TOPIC-TORNADO-CASH",
+      "indictment_date": null,
       "last_verified": "2026-07-23",
+      "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-TORNADO-CASH.md",
       "relationships": [
         {

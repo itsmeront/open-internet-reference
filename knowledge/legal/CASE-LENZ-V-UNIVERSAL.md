@@ -44,6 +44,7 @@ relationships:
     sources:
       - SRC-LENZ-V-UNIVERSAL-CA9
 last_verified: "2026-07-19"
+decision_date: "2015"
 ---
 
 # Lenz v. Universal Music Corp.

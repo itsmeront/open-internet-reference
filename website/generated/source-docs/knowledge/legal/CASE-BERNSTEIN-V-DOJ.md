@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-BERNSTEIN-JUSTIA
 last_verified: "2026-06-25"
+decision_date: "1999"
 ---
 
 # Generated Source Mirror
@@ -123,4 +124,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `1999`
 - Last verified: `2026-06-25`

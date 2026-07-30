@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-SECTION-230-EFF
 last_verified: "2026-06-25"
+enactment_date: "1996"
 ---
 
 # Section 230 (47 U.S.C. § 230)

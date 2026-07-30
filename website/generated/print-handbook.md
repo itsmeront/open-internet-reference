@@ -18,11 +18,11 @@
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>113</dd>
+        <dd>114</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>173</dd>
+        <dd>175</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -110,6 +110,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Historical Event
 
+- [FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)](#EVENT-FISA-AMENDMENTS-ACT-2008) (`EVENT-FISA-AMENDMENTS-ACT-2008`)
 - [Russia FSB Charges Against Pavel Durov / Telegram (July 2026)](#EVENT-FSB-DUROV-TELEGRAM-2026) (`EVENT-FSB-DUROV-TELEGRAM-2026`)
 - [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
 - [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
@@ -542,6 +543,15 @@ Fenwick & West is a Silicon Valley law firm founded in 1972 that provides compre
 - **Tags:** constitutional-law, first-amendment, digital-rights, speech-and-code
 
 The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.
+
+### FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008-glossary }
+
+- **Record ID:** `EVENT-FISA-AMENDMENTS-ACT-2008`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, surveillance, digital-rights, case-studies
+
+On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
 
 ### Fourth Amendment { #TOPIC-FOURTH-AMENDMENT-glossary }
 
@@ -1631,6 +1641,17 @@ Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), h
 
 ### Historical Event
 
+#### FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008 }
+
+- **Record ID:** `EVENT-FISA-AMENDMENTS-ACT-2008`
+- **Status:** draft
+- **Sources:** FISA Amendments Act of 2008 (Public Law 110-261) (`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`), White House — President Bush Signs FISA Amendments Act of 2008 (`SRC-BUSH-FISA-SIGNING-2008`)
+- **Tags:** historical-event, surveillance, digital-rights, case-studies
+
+On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
+
+---
+
 #### Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
 
 - **Record ID:** `EVENT-FSB-DUROV-TELEGRAM-2026`
@@ -2638,6 +2659,15 @@ Cornell Legal Information Institute full text of Brown v. Entertainment Merchant
 
 ---
 
+### White House — President Bush Signs FISA Amendments Act of 2008
+
+- **Source ID:** `SRC-BUSH-FISA-SIGNING-2008`
+- **Status:** draft
+
+George W. Bush White House archive statement dated July 10, 2008 announcing the signing of the FISA Amendments Act of 2008, including telecom-assistance lawsuit protections.
+
+---
+
 ### Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - **Source ID:** `SRC-CARPENTER-GOVINFO`
@@ -2923,6 +2953,15 @@ Official Fenwick & West page documenting the firm's history and pioneering role 
 - **Status:** draft
 
 Official Fenwick & West practice page describing the Technology Transactions group.
+
+---
+
+### FISA Amendments Act of 2008 (Public Law 110-261)
+
+- **Source ID:** `SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`
+- **Status:** draft
+
+Congress.gov public-law text for the FISA Amendments Act of 2008, enacted July 10, 2008 as Public Law 110-261.
 
 ---
 

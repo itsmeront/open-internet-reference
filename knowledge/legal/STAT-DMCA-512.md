@@ -51,6 +51,7 @@ relationships:
     sources:
       - SRC-PERFECT10-V-CCBILL-JUSTIA
 last_verified: "2026-07-19"
+enactment_date: "1998"
 ---
 
 # 17 U.S.C. § 512

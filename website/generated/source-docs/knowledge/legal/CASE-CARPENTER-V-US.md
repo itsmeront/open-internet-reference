@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-CARPENTER-LII
 last_verified: "2026-06-19"
+decision_date: "2018"
 ---
 
 # Generated Source Mirror
@@ -95,4 +96,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2018`
 - Last verified: `2026-06-19`

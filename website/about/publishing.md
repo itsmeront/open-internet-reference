@@ -46,6 +46,6 @@ The current prototype generator writes:
 - [`website/generated/relationships.md`](../generated/relationships.md)
 - [`website/generated/relationship-graph.md`](../generated/relationship-graph.md)
 - [`website/generated/outreach.md`](../generated/outreach.md)
-- [`website/generated/timeline.md`](../generated/timeline.md) — historical events ordered by `event_date`
+- [`website/generated/timeline.md`](../generated/timeline.md) — decisions, enactments, legislative overrides, offenses, charges, arrests, indictments, and historical events
 - [`website/generated/used-for.md`](../generated/used-for.md)
 - [`website/generated/review-status.md`](../generated/review-status.md)

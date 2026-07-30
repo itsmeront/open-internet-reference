@@ -27,6 +27,7 @@ relationships:
     sources:
       - SRC-BROWN-V-EMA-LII
 last_verified: "2026-07-19"
+decision_date: "2011-06-27"
 ---
 
 # Generated Source Mirror
@@ -93,4 +94,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2011-06-27`
 - Last verified: `2026-07-19`

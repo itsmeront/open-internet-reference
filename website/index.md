@@ -59,7 +59,7 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 - [Glossary](generated/glossary.md) — all knowledge pages alphabetically
 - [Relationship Graph](generated/relationship-graph.md) — interactive visualization of connections
 - [Review Status](generated/review-status.md) — editorial dashboard showing page completeness
-- [Timeline](generated/timeline.md) — historical events chronologically
+- [Timeline](generated/timeline.md) — legal and historical milestones chronologically
 - [Bibliography](generated/bibliography.md) — all source records
 - [Handbook](generated/handbook.md) — linear reading edition
 

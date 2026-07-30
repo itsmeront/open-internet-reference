@@ -38,6 +38,7 @@ relationships:
     sources:
       - SRC-GOOGLE-ORACLE-JUSTIA
 last_verified: "2026-07-19"
+enactment_date: "1976"
 ---
 
 # Generated Source Mirror
@@ -104,4 +105,5 @@ Legal analysis has not yet been drafted from primary case law. Future work shoul
 
 ## Document metadata
 
+- Enactment date: `1976`
 - Last verified: `2026-07-19`

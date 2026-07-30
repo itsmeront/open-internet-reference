@@ -38,6 +38,7 @@ relationships:
     sources:
       - SRC-GOOGLE-ORACLE-JUSTIA
 last_verified: "2026-07-19"
+enactment_date: "1976"
 ---
 
 # 17 U.S.C. § 107

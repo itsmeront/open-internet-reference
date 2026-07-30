@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-PACKINGHAM-LII
 last_verified: "2026-07-19"
+decision_date: "2017-06-19"
 ---
 
 # Generated Source Mirror
@@ -118,4 +119,5 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
+- Decision date: `2017-06-19`
 - Last verified: `2026-07-19`

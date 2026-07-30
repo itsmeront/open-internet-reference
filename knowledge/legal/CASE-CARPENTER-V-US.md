@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-CARPENTER-LII
 last_verified: "2026-06-19"
+decision_date: "2018"
 ---
 
 # Carpenter v. United States

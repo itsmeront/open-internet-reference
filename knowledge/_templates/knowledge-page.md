@@ -9,7 +9,15 @@ tags:
 sources: []
 relationships: []
 last_verified: null
-# event_date: "YYYY-MM-DD"  # required for type: historical_event
+# Timeline dates (optional; historical_event needs at least one):
+# event_date: "YYYY-MM-DD"
+# decision_date: "YYYY-MM-DD"
+# enactment_date: "YYYY"
+# legislative_override_date: "YYYY-MM-DD"
+# charge_date: "YYYY-MM-DD"
+# arrest_date: "YYYY-MM-DD"
+# indictment_date: "YYYY-MM-DD"
+# offense_date: "YYYY-MM-DD"
 ---
 
 # Example Topic

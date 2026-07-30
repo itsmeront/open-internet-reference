@@ -693,6 +693,26 @@
       "subject": "CASE-VAN-LOON-V-TREASURY"
     },
     {
+      "declared_in": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "notes": null,
+      "object": "SRC-BUSH-FISA-SIGNING-2008",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BUSH-FISA-SIGNING-2008"
+      ],
+      "subject": "EVENT-FISA-AMENDMENTS-ACT-2008"
+    },
+    {
+      "declared_in": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "notes": null,
+      "object": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS"
+      ],
+      "subject": "EVENT-FISA-AMENDMENTS-ACT-2008"
+    },
+    {
       "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
       "notes": null,
       "object": "SRC-AP-DUROV-FSB-2026",

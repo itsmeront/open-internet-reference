@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-SECTION-230-EFF
 last_verified: "2026-06-25"
+enactment_date: "1996"
 ---
 
 # Generated Source Mirror
@@ -130,4 +131,5 @@ Without Section 230, most interactive internet services could not exist in their
 
 ## Document metadata
 
+- Enactment date: `1996`
 - Last verified: `2026-06-25`

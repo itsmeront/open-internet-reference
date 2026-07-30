@@ -43,7 +43,7 @@ relationships:
     sources:
       - SRC-AP-DUROV-FSB-2026
 last_verified: "2026-07-29"
-event_date: "2026-07-29"
+charge_date: "2026-07-29"
 ---
 
 # Generated Source Mirror
@@ -118,5 +118,5 @@ Available secondary sources describe a Russian criminal investigation charging f
 
 ## Document metadata
 
-- Event date: `2026-07-29`
+- Charge date: `2026-07-29`
 - Last verified: `2026-07-29`

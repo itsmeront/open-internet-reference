@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-VAN-LOON-5TH-CIR-JUSTIA
 last_verified: "2026-07-23"
+decision_date: "2024-11-26"
 ---
 
 # Van Loon v. Department of the Treasury

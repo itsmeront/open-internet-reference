@@ -63,7 +63,7 @@ These cases establish privacy protections in the digital context.
 
 ## Related Topics
 
-Concept and inventory pages live on the [Topics](topics.md) browse page, including [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) and the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md).
+Concept and inventory pages live on the [Topics](topics.md) browse page, including [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
 
 ## Why This Matters
 

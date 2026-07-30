@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-VAN-BUREN-LII
 last_verified: "2026-06-25"
+enactment_date: "1984"
 ---
 
 # Generated Source Mirror
@@ -144,4 +145,5 @@ The CFAA directly affects:
 
 ## Document metadata
 
+- Enactment date: `1984`
 - Last verified: `2026-06-25`
