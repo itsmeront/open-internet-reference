@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-29 08:20 UTC
+Last updated: 2026-07-30 08:07 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -11,7 +11,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | Open PRs awaiting review | 0 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 179 |
+| Draft content items | 196 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
@@ -21,11 +21,12 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (179)
+### 📋 Draft (196)
 
 | ID | Title | Path |
 |---|-------|------|
 | `TOPIC-SAFE-HARBOR` | Online Service Provider Safe Harbor | `knowledge/legal/TOPIC-SAFE-HARBOR.md` |
+| `EVENT-FSB-DUROV-TELEGRAM-2026` | Russia FSB Charges Against Pavel Durov / | `knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md` |
 | `CASE-GOOGLE-V-ORACLE` | Google LLC v. Oracle America, Inc. | `knowledge/legal/CASE-GOOGLE-V-ORACLE.md` |
 | `CASE-COIN-CENTER-V-YELLEN` | Coin Center v. Yellen | `knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md` |
 | `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
@@ -39,14 +40,13 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `TOPIC-CODE-AS-SPEECH` | Code as Speech | `knowledge/legal/TOPIC-CODE-AS-SPEECH.md` |
 | `CASE-PACKINGHAM-V-NC` | Packingham v. North Carolina | `knowledge/legal/CASE-PACKINGHAM-V-NC.md` |
 | `CASE-CARPENTER-V-US` | Carpenter v. United States | `knowledge/legal/CASE-CARPENTER-V-US.md` |
+| `EVENT-FISA-AMENDMENTS-ACT-2008` | FISA Amendments Act of 2008 (Telecom Imm | `knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md` |
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
 | `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
 | `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
 | `CASE-US-V-TUNICK` | United States v. Tunick | `knowledge/legal/CASE-US-V-TUNICK.md` |
-| `STAT-CFAA-1030` | Computer Fraud and Abuse Act (18 U.S.C.  | `knowledge/legal/STAT-CFAA-1030.md` |
-| `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS` | Brown v. Entertainment Merchants Assn. | `knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md` |
 
-*...and 159 more*
+*...and 176 more*
 
 ## Stale Verifications
 
