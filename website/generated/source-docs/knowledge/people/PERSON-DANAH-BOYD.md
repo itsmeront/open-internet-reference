@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -84,3 +83,7 @@ boyd is particularly useful when a case involves:
 - Add Data & Society institute profile as secondary source.
 - Document specific congressional or regulatory testimony with primary citations.
 - Link to relevant OIR topic pages on intermediary liability and platform governance.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

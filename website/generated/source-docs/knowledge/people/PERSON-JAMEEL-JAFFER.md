@@ -39,7 +39,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 2
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -80,3 +79,7 @@ Jaffer's work on government secrecy, surveillance, and digital speech rights is 
 - Document current Columbia Law faculty affiliation details.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

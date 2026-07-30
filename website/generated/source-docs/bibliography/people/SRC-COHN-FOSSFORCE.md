@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -49,3 +48,9 @@ FOSS Force technology news coverage. Reports Cohn's departure from EFF and her s
 ## Used For
 
 - [`PERSON-CINDY-COHN`](../../../used-for.md#person-cindy-cohn)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2026-06-01`
+- Access date: `2026-06-25`

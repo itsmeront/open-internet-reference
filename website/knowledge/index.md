@@ -18,7 +18,7 @@ The Open Internet Reference knowledge base documents organizations, lawyers, cou
 - [Relationship Visualization](../generated/relationship-graph.md) — interactive graph view.
 - [Used For Index](../generated/used-for.md) — which sources support which pages.
 - [Review Status](../generated/review-status.md) — editorial dashboard showing verification state.
-- [Timeline](../generated/timeline.md) — events and decisions in chronological order.
+- [Timeline](../generated/timeline.md) — historical events in chronological order (`event_date`).
 
 ## Standards
 

@@ -51,7 +51,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 4
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -107,3 +106,7 @@ Additional sources (not yet cited in footnotes):
 - Document the amended regulations and their impact on the remand.
 - Connect to ACLU Ohio as a contact for similar cases.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

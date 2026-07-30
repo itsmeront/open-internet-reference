@@ -46,7 +46,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -97,3 +96,7 @@ The Knight First Amendment Institute litigates cases involving digital speech, g
 - Add specific litigation history relevant to technology and software with docket or case-page sources.
 - Document formal intake criteria beyond the public FAQ if published elsewhere.
 - Document relationships with other digital rights organizations using independent sources.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

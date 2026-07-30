@@ -46,7 +46,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -93,3 +92,7 @@ Jurisdiction: U.S. District Court, Northern District of Florida. Authority level
 - Add complaint and counsel listings (Consovoy McCarthy; Abraham Sutherland; Sasso & Sasso) from docket-primary sources.
 - Add Eleventh Circuit docket materials for vacatur/dismissal-as-moot after SDN delisting (reported July 2025).
 - Add plaintiff roster beyond Coin Center from the complaint (Patrick O’Sullivan; David Hoffman; John Doe) with primary citation.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

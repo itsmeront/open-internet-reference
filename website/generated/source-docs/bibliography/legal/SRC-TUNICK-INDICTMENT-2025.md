@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -55,3 +54,10 @@ Primary charging instrument via Free Law Project RECAP. Supports docket number, 
 - [`CASE-US-V-TUNICK`](../../../used-for.md#case-us-v-tunick)
 - [`STAT-18-USC-2232`](../../../used-for.md#stat-18-usc-2232)
 - [`TECH-GRAPHENEOS`](../../../used-for.md#tech-grapheneos)
+
+## Document metadata
+
+- Last verified: `2026-07-27`
+- Publication date: `2025-11-13`
+- Access date: `2026-07-27`
+- Archive URL: `None recorded beyond RECAP hosting`

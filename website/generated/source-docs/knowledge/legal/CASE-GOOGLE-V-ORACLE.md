@@ -39,7 +39,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -114,3 +113,7 @@ Protects software interoperability. Establishes that reimplementing an API for a
 - Document the lower court procedural history in detail.
 - Add additional source records for amicus briefs from open source organizations.
 - Document the impact on subsequent API reimplementation cases.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

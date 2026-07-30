@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -85,3 +84,7 @@ His work helps explain *why* the Internet was designed the way it was — not me
 - Document specific expert declarations or testimony with court records.
 - Cross-link to `PERSON-LAUREN-WEINSTEIN` and net neutrality topic pages.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

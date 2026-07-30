@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: Never
 
 ---
 
@@ -53,3 +52,8 @@ This file is an internal project governance source. It should guide OIR structur
 - [Research standards](../../../used-for.md#research-standards)
 - [Technical architecture](../../../used-for.md#technical-architecture)
 - [Long-term governance conventions](../../../used-for.md#long-term-governance-conventions)
+
+## Document metadata
+
+- Last verified: _not recorded_
+- Access date: `2026-06-17`

@@ -62,7 +62,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 6
     - **Research debt items**: 5
-    - **Last verified**: 2026-07-18
 
 ---
 
@@ -126,3 +125,7 @@ The Committee focuses on entertainment and media, but its stated mission—defen
 - Verify individual signatory affiliations before adding person records for named supporters.
 - Corroborate specific "On the Record" timeline entries with primary reporting or official records.
 - Document whether the Committee has formal nonprofit status, staff, or legal counsel.
+
+## Document metadata
+
+- Last verified: `2026-07-18`

@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,9 @@ Justia reproduction of the Ninth Circuit opinion. The case citation is 176 F.3d 
 ## Used For
 
 - [`CASE-BERNSTEIN-V-DOJ`](../../../used-for.md#case-bernstein-v-doj)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `1999-05-06`
+- Access date: `2026-06-25`

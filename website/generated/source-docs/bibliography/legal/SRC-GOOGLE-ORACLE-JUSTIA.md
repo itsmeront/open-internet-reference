@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,9 @@ Justia reproduction of the Supreme Court opinion. The case citation is 593 U.S. 
 ## Used For
 
 - [`CASE-GOOGLE-V-ORACLE`](../../../used-for.md#case-google-v-oracle)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2021-04-05`
+- Access date: `2026-06-25`

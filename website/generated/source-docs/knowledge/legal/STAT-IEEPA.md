@@ -44,7 +44,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -87,3 +86,7 @@ IEEPA is the principal statute under which many OFAC blocking programs operate t
 - Add GovInfo / OLRC official U.S. Code text sources for §§ 1701–1708.
 - Add Executive Orders 13694 and 13722 as `REG-*` or dedicated source records.
 - Summarize IEEPA’s informational-materials limitation (50 U.S.C. § 1702(b)) and any Tornado Cash litigation treatment of that clause.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

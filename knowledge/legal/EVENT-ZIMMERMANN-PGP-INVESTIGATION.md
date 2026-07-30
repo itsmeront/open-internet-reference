@@ -38,6 +38,7 @@ relationships:
     sources:
       - SRC-ZIMMERMANN-INVESTIGATION-CLOSED
 last_verified: "2026-07-23"
+event_date: "1996-01"
 ---
 
 # U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)

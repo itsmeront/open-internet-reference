@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -52,3 +51,9 @@ RFC Editor publication. This is a primary technical standards source for TCP.
 - [TCP](../../../used-for.md#tcp)
 - [Internet architecture](../../../used-for.md#internet-architecture)
 - [Network protocols](../../../used-for.md#network-protocols)
+
+## Document metadata
+
+- Last verified: `2026-06-17`
+- Publication date: `2022-08`
+- Access date: `2026-06-17`

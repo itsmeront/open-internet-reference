@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-27 | **Records:** 107 | **Sources referenced:** 165
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-29 | **Records:** 113 | **Sources referenced:** 173
 
 <div class="oir-handbook" markdown="1">
 
@@ -40,6 +40,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Ben Wizner](#PERSON-BEN-WIZNER) (`PERSON-BEN-WIZNER`)
 - [Cindy Cohn](#PERSON-CINDY-COHN) (`PERSON-CINDY-COHN`)
 - [Corynne McSherry](#PERSON-CORYNNE-MCSHERRY) (`PERSON-CORYNNE-MCSHERRY`)
+- [David-Olivier Kaminski](#PERSON-DAVID-OLIVIER-KAMINSKI) (`PERSON-DAVID-OLIVIER-KAMINSKI`)
 - [Eben Moglen](#PERSON-EBEN-MOGLEN) (`PERSON-EBEN-MOGLEN`)
 - [Esha Bhandari](#PERSON-ESHA-BHANDARI) (`PERSON-ESHA-BHANDARI`)
 - [Heather Meeker](#PERSON-HEATHER-MEEKER) (`PERSON-HEATHER-MEEKER`)
@@ -51,6 +52,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Mitch Stoltz](#PERSON-MITCH-STOLTZ) (`PERSON-MITCH-STOLTZ`)
 - [Nathan Freed Wessler](#PERSON-NATHAN-FREED-WESSLER) (`PERSON-NATHAN-FREED-WESSLER`)
 - [Pamela Chestek](#PERSON-PAMELA-CHESTEK) (`PERSON-PAMELA-CHESTEK`)
+- [Pavel Chikov](#PERSON-PAVEL-CHIKOV) (`PERSON-PAVEL-CHIKOV`)
 
 ### Case
 
@@ -75,12 +77,14 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Historical Event
 
+- [Russia FSB Charges Against Pavel Durov / Telegram (July 2026)](#EVENT-FSB-DUROV-TELEGRAM-2026) (`EVENT-FSB-DUROV-TELEGRAM-2026`)
 - [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
 - [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
 
 ### Organization
 
 - [American Civil Liberties Union](#ORG-ACLU) (`ORG-ACLU`)
+- [Agora (human rights lawyers' group)](#ORG-AGORA) (`ORG-AGORA`)
 - [Center for Democracy and Technology](#ORG-CDT) (`ORG-CDT`)
 - [Committee for the First Amendment](#ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT) (`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`)
 - [Cooley](#ORG-COOLEY) (`ORG-COOLEY`)
@@ -98,6 +102,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Software Freedom Law Center](#ORG-SFLC) (`ORG-SFLC`)
 - [Signal](#ORG-SIGNAL) (`ORG-SIGNAL`)
 - [Software Freedom Conservancy](#ORG-SOFTWARE-FREEDOM-CONSERVANCY) (`ORG-SOFTWARE-FREEDOM-CONSERVANCY`)
+- [Telegram](#ORG-TELEGRAM) (`ORG-TELEGRAM`)
 - [Tor Project](#ORG-TOR-PROJECT) (`ORG-TOR-PROJECT`)
 - [Wilson Sonsini Goodrich & Rosati](#ORG-WILSON-SONSINI) (`ORG-WILSON-SONSINI`)
 
@@ -119,6 +124,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Mike Lee](#PERSON-MIKE-LEE) (`PERSON-MIKE-LEE`)
 - [Orin Kerr](#PERSON-ORIN-KERR) (`PERSON-ORIN-KERR`)
 - [Paul Vixie](#PERSON-PAUL-VIXIE) (`PERSON-PAUL-VIXIE`)
+- [Pavel Durov](#PERSON-PAVEL-DUROV) (`PERSON-PAVEL-DUROV`)
 - [Phil Zimmermann](#PERSON-PHIL-ZIMMERMANN) (`PERSON-PHIL-ZIMMERMANN`)
 - [Rand Paul](#PERSON-RAND-PAUL) (`PERSON-RAND-PAUL`)
 - [Ro Khanna](#PERSON-RO-KHANNA) (`PERSON-RO-KHANNA`)
@@ -206,6 +212,15 @@ Quick reference for knowledge records included in this handbook.
 - **Tags:** attorney, open-source-software, digital-rights
 
 Aaron Williamson is principal attorney at Williamson Legal, PLLC, advising clients on open source software, technology transactions, CFAA and DMCA liability, and nonprofit governance.
+
+### Agora (human rights lawyers' group) { #ORG-AGORA-glossary }
+
+- **Record ID:** `ORG-AGORA`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, civil-society, digital-rights, attorney, encryption-law
+
+Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.
 
 ### Alan Kay { #PERSON-ALAN-KAY-glossary }
 
@@ -311,9 +326,9 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 - **Record ID:** `TOPIC-CODE-AS-SPEECH`
 - **Type:** topic
 - **Status:** draft
-- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law
+- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law, open-source-software, cryptography, copyright
 
-The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.
 
 ### Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN-glossary }
 
@@ -395,6 +410,15 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 - **Tags:** person, internet-architecture, distributed-systems, network-protocols
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
+
+### David-Olivier Kaminski { #PERSON-DAVID-OLIVIER-KAMINSKI-glossary }
+
+- **Record ID:** `PERSON-DAVID-OLIVIER-KAMINSKI`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, intermediary-liability, digital-rights
+
+David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
 
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
@@ -819,6 +843,24 @@ Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, 
 
 Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
 
+### Pavel Chikov { #PERSON-PAVEL-CHIKOV-glossary }
+
+- **Record ID:** `PERSON-PAVEL-CHIKOV`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, digital-rights, encryption-law, civil-society, censorship-resistance
+
+Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.
+
+### Pavel Durov { #PERSON-PAVEL-DUROV-glossary }
+
+- **Record ID:** `PERSON-PAVEL-DUROV`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, secure-messaging, privacy, encryption-law, intermediary-liability, digital-rights
+
+Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.
+
 ### Perfect 10, Inc. v. CCBill LLC { #CASE-PERFECT10-V-CCBILL-glossary }
 
 - **Record ID:** `CASE-PERFECT10-V-CCBILL`
@@ -918,6 +960,15 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
 
+### Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026-glossary }
+
+- **Record ID:** `EVENT-FSB-DUROV-TELEGRAM-2026`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
+
+On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
 ### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230-glossary }
 
 - **Record ID:** `STAT-SECTION-230`
@@ -953,6 +1004,15 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
+
+### Telegram { #ORG-TELEGRAM-glossary }
+
+- **Record ID:** `ORG-TELEGRAM`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, privacy, secure-messaging, encryption-law, intermediary-liability, digital-rights
+
+Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
 ### Thomas Haigh { #PERSON-THOMAS-HAIGH-glossary }
 
@@ -1173,6 +1233,13 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 
 Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.
 
+#### [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md): David-Olivier Kaminski { #PERSON-DAVID-OLIVIER-KAMINSKI }
+
+- Status: `draft`
+- Sources: [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+
+David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
+
 #### [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): Eben Moglen { #PERSON-EBEN-MOGLEN }
 
 - Status: `draft`
@@ -1249,6 +1316,13 @@ Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technol
 - Sources: [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
 
 Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
+
+#### [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): Pavel Chikov { #PERSON-PAVEL-CHIKOV }
+
+- Status: `draft`
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md), [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+
+Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.
 
 ### Case
 
@@ -1380,6 +1454,13 @@ Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), h
 
 ### Historical Event
 
+#### [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
+
+- Status: `draft`
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md), [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md), [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+
+On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
 #### [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md): OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022 }
 
 - Status: `draft`
@@ -1402,6 +1483,13 @@ U.S. authorities investigated Phil Zimmermann for years over distribution of Pre
 - Sources: [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md), [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
+
+#### [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md): Agora (human rights lawyers' group) { #ORG-AGORA }
+
+- Status: `draft`
+- Sources: [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md), [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.
 
 #### [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md): Center for Democracy and Technology { #ORG-CDT }
 
@@ -1521,6 +1609,13 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 - Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFC-HOME`](source-docs/bibliography/organizations/SRC-SFC-HOME.md), [`SRC-SFC-APPLY`](source-docs/bibliography/organizations/SRC-SFC-APPLY.md), [`SRC-SFC-PROJECTS`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
+
+#### [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): Telegram { #ORG-TELEGRAM }
+
+- Status: `draft`
+- Sources: [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md), [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md), [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md), [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
 #### [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md): Tor Project { #ORG-TOR-PROJECT }
 
@@ -1649,6 +1744,13 @@ Orin Kerr is the Fred C. Stevenson Research Professor at George Washington Unive
 - Sources: [`SRC-VIXIE-IHOF`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
 
 Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
+
+#### [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): Pavel Durov { #PERSON-PAVEL-DUROV }
+
+- Status: `draft`
+- Sources: [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md), [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md), [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md), [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md), [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md), [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.
 
 #### [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): Phil Zimmermann { #PERSON-PHIL-ZIMMERMANN }
 
@@ -1822,9 +1924,9 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 #### [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
 - Status: `draft`
-- Sources: [`SRC-RENO-V-ACLU-GOVINFO`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md), [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md), [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
+- Sources: [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md), [`SRC-RENO-V-ACLU-GOVINFO`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md), [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md), [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 
-The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.
 
 #### [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): Computer Fraud and Abuse { #TOPIC-COMPUTER-FRAUD }
 
@@ -1836,7 +1938,7 @@ Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibi
 #### [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY }
 
 - Status: `draft`
-- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md), [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md), [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md), [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md), [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md), [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md), [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md), [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md), [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md), [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md), [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md), [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md), [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md), [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md), [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md), [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md), [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md), [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md), [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md), [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md), [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md), [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md), [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md), [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md), [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 
 Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
@@ -1871,7 +1973,7 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 #### [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): Intermediary Liability { #TOPIC-INTERMEDIARY-LIABILITY }
 
 - Status: `draft`
-- Sources: [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+- Sources: [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md), [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 
 Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.
 
@@ -1911,6 +2013,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ABDO-KNIGHT`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md): Alex Abdo Knight Institute Biography (`verified`)
 - [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md): American Civil Liberties Union Contact Page (`verified`)
 - [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md): American Civil Liberties Union History Page (`verified`)
+- [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`draft`)
+- [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md): BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism (`draft`)
 - [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md): Tim Berners-Lee W3C Biography (`verified`)
 - [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md): Bernstein v. US Dept. of Justice EFF Case Page (`verified`)
 - [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md): EFF at 25 - Remembering the Case that Established Code as Speech (`verified`)
@@ -1954,6 +2058,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md): Fenwick & West Firm History Page (`draft`)
 - [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md): Fenwick Technology Transactions Practice Page (`draft`)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`verified`)
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md): France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`draft`)
 - [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page (`verified`)
 - [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md): Free Software Foundation Press Information (`verified`)
 - [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`draft`)
@@ -1984,6 +2089,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`draft`)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security (`draft`)
 - [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography (`verified`)
+- [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md): Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant (`draft`)
 - [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md): Heather Meeker About Page (`verified`)
 - [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md): Eben Moglen Columbia Law School Faculty Page (`verified`)
 - [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md): Eben Moglen Columbia Data Science Institute Profile (`verified`)
@@ -2003,6 +2109,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md): Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024) (`draft`)
 - [`SRC-PUBLIC-KNOWLEDGE-ABOUT`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md): Public Knowledge About Page (`verified`)
 - [`SRC-PUBLIC-KNOWLEDGE-CONTACT`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md): Public Knowledge Contact Page (`verified`)
+- [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md): Rafto Foundation — Agora / Pavel Chikov Prize Page (`draft`)
 - [`SRC-RCFP-CONTACT`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md): Reporters Committee Contact Page (`verified`)
 - [`SRC-RCFP-WHAT-WE-DO`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md): Reporters Committee What We Do Page (`verified`)
 - [`SRC-REED-BIO`](source-docs/bibliography/people/SRC-REED-BIO.md): David P. Reed Official Biography (`verified`)
@@ -2012,6 +2119,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-RFC-1034`](source-docs/bibliography/technical/SRC-RFC-1034.md): RFC 1034: Domain Names - Concepts and Facilities (`verified`)
 - [`SRC-RFC-8446`](source-docs/bibliography/technical/SRC-RFC-8446.md): RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3 (`verified`)
 - [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md): RFC 9293: Transmission Control Protocol (TCP) (`verified`)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md): RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`draft`)
 - [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md): Ronald L. Rivest MIT CSAIL Profile (`verified`)
 - [`SRC-RUSSELL-PROFILE`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md): Andrew L. Russell Professional Profile (`verified`)
 - [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md): Bruce Schneier About Page (`verified`)
@@ -2030,6 +2138,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md): Mitch Stoltz EFF Staff Biography (`verified`)
 - [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md): TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026) (`draft`)
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md): TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) (`draft`)
+- [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md): Telegram FAQ (`draft`)
+- [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md): Telegram Press Info (`draft`)
 - [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md): Lee Tien EFF Staff Biography (`verified`)
 - [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router (`verified`)
 - [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page (`verified`)

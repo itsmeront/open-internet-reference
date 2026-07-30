@@ -35,7 +35,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -83,3 +82,7 @@ Massie's amendments target government efforts to weaken cryptographic standards 
 - Add independent sources for later Massie-Lofgren surveillance amendments beyond the NIST provision.
 - Document Massie's current committee assignments from an official House biography.
 - Add congressional roll-call citations for the cited amendment vote.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

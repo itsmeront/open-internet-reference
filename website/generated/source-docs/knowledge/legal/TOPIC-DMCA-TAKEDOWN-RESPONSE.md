@@ -73,7 +73,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 5
     - **Relationships**: 8
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -147,3 +146,7 @@ Additional sources (not yet cited in footnotes):
 - Add platform-specific enforcement documentation with official policy sources.
 - Add `CASE-*` page for Online Policy Group v. Diebold cited by the EFF guide regarding § 512(f).
 - Document non-DMCA platform copyright enforcement separately from statutory procedure.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

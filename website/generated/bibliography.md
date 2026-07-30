@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 168
+Record count: 176
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -51,6 +51,35 @@ Official ACLU history page describing the organization's founding context and ci
 
 ### Cited By
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
+
+## `SRC-AP-DUROV-FSB-2026`: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism { #SRC-AP-DUROV-FSB-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-AP-DUROV-FSB-2026.md`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- Tags: source, intermediary-liability, digital-rights, secure-messaging, historical-event
+
+Associated Press report that Russia's FSB charged Pavel Durov with aiding terrorism, alleged Telegram failed to remove channels used for sabotage and terrorism, and placed him on international wanted lists.
+
+### Cited By
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+## `SRC-BBC-DUROV-FSB-2026`: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism { #SRC-BBC-DUROV-FSB-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-BBC-DUROV-FSB-2026.md`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
+- Tags: source, intermediary-liability, digital-rights, secure-messaging, historical-event
+
+BBC report that Russia's FSB charged Pavel Durov with facilitating terrorism over alleged Ukrainian recruitment and coordination on Telegram, and that an international arrest warrant was issued.
+
+### Cited By
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## `SRC-BERNERS-LEE-W3C`: Tim Berners-Lee W3C Biography { #SRC-BERNERS-LEE-W3C }
 
@@ -101,6 +130,7 @@ Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
 ### Cited By
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+- [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography { #SRC-BHANDARI-ACLU }
@@ -375,6 +405,7 @@ Text of the Second Circuit opinion in Universal City Studios v. Corley, 273 F.3d
 
 ### Cited By
 - [`CASE-UNIVERSAL-V-CORLEY: Universal City Studios v. Corley`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+- [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-COURTLISTENER-TUNICK-DOCKET`: CourtListener Docket — United States v. Tunick (1:25-cr-00499) { #SRC-COURTLISTENER-TUNICK-DOCKET }
@@ -590,6 +621,19 @@ Introduced Senate bill text for the Fourth Amendment Is Not For Sale Act, listin
 ### Cited By
 - [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 
+## `SRC-FRANCE24-DUROV-KAMINSKI-2024`: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted { #SRC-FRANCE24-DUROV-KAMINSKI-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- Tags: source, attorney, intermediary-liability, digital-rights
+
+AFP/France 24 report that French authorities charged Pavel Durov in August 2024 over alleged platform-related offenses, quoting defense lawyer David-Olivier Kaminski.
+
+### Cited By
+- [`PERSON-DAVID-OLIVIER-KAMINSKI: David-Olivier Kaminski`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
 ## `SRC-FSF-ABOUT`: Free Software Foundation About Page { #SRC-FSF-ABOUT }
 
 - Type: `source`
@@ -787,6 +831,7 @@ Full text of the Sixth Circuit opinion in Junger v. Daley hosted by Carnegie Mel
 
 ### Cited By
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+- [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-KADEMLIA-PAPER`: Kademlia: A Peer-to-Peer Information System Based on the XOR Metric { #SRC-KADEMLIA-PAPER }
@@ -961,6 +1006,19 @@ Official EFF biography page for Corynne McSherry documenting her role as Legal D
 
 ### Cited By
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
+
+## `SRC-MEDUZA-DUROV-FSB-2026`: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant { #SRC-MEDUZA-DUROV-FSB-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+- Tags: source, intermediary-liability, digital-rights, secure-messaging, historical-event
+
+Meduza report, citing Interfax, that Russia's FSB charged Pavel Durov under Criminal Code Article 205.1 Part 1.1 and placed him on an international wanted list for alleged facilitation of terrorist activity via Telegram.
+
+### Cited By
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## `SRC-MEEKER-ABOUT`: Heather Meeker About Page { #SRC-MEEKER-ABOUT }
 
@@ -1233,6 +1291,19 @@ Official Public Knowledge contact page with phone, fax, email, and Washington, D
 ### Cited By
 - [`ORG-PUBLIC-KNOWLEDGE: Public Knowledge`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md)
 
+## `SRC-RAFTO-AGORA-CHIKOV`: Rafto Foundation — Agora / Pavel Chikov Prize Page { #SRC-RAFTO-AGORA-CHIKOV }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- Tags: source, organization, attorney, digital-rights, civil-society
+
+Rafto Foundation prize page describing Agora as a Russian human rights organization of lawyers and identifying Pavel Chikov as chair.
+
+### Cited By
+- [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+
 ## `SRC-RCFP-CONTACT`: Reporters Committee Contact Page { #SRC-RCFP-CONTACT }
 
 - Type: `source`
@@ -1343,6 +1414,21 @@ RFC Editor publication specifying the Transmission Control Protocol.
 
 ### Cited By
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
+
+## `SRC-RFERL-TELEGRAM-BLOCK-2018`: RFE/RL — Russian Court Orders Telegram App Blocked (2018) { #SRC-RFERL-TELEGRAM-BLOCK-2018 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+- Tags: source, attorney, encryption-law, censorship-resistance, digital-rights
+
+RFE/RL report on the April 2018 Moscow court order blocking Telegram over FSB encryption-key demands, identifying Pavel Chikov as a lawyer representing Telegram.
+
+### Cited By
+- [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## `SRC-RIVEST-CSAIL`: Ronald L. Rivest MIT CSAIL Profile { #SRC-RIVEST-CSAIL }
 
@@ -1563,6 +1649,31 @@ TechSpot secondary report on United States v. Tunick, linking the alleged phone 
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
+## `SRC-TELEGRAM-FAQ`: Telegram FAQ { #SRC-TELEGRAM-FAQ }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-TELEGRAM-FAQ.md`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+- Tags: source, organization, privacy, secure-messaging
+
+Official Telegram FAQ describing the messaging service and stating that the development team is based in Dubai.
+
+### Cited By
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+## `SRC-TELEGRAM-PRESS`: Telegram Press Info { #SRC-TELEGRAM-PRESS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-TELEGRAM-PRESS.md`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+- Tags: source, organization, privacy, secure-messaging
+
+Official Telegram press page describing the messaging service, Dubai base, and Pavel Durov's role as founder, owner, and CEO.
+
+### Cited By
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography { #SRC-TIEN-EFF }
 

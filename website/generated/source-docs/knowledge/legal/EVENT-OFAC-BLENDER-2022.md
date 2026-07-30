@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-TREASURY-BLENDER-2022
 last_verified: "2026-07-23"
+event_date: "2022-05-06"
 ---
 
 # Generated Source Mirror
@@ -50,7 +51,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 4
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -94,3 +94,8 @@ This record documents an OFAC SDN designation of a mixer service under IEEPA-bas
 
 - Add OFAC recent-actions entry and SDN identifier list as dedicated sources.
 - Document any later operator criminal cases tied to Blender/Sinbad with primary charging documents.
+
+## Document metadata
+
+- Event date: `2022-05-06`
+- Last verified: `2026-07-23`

@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 107
+Record count: 113
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -166,6 +166,15 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
 
+## `EVENT-FSB-DUROV-TELEGRAM-2026`: Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
+
+- Type: `historical_event`
+- Status: `draft`
+- Path: [`knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Tags: historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
+
+On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
 ## `EVENT-OFAC-BLENDER-2022`: OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022 }
 
 - Type: `historical_event`
@@ -192,6 +201,15 @@ U.S. authorities investigated Phil Zimmermann for years over distribution of Pre
 - Tags: organization, civil-liberties, digital-rights, outreach
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
+
+## `ORG-AGORA`: Agora (human rights lawyers' group) { #ORG-AGORA }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-AGORA.md`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Tags: organization, civil-society, digital-rights, attorney, encryption-law
+
+Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.
 
 ## `ORG-CDT`: Center for Democracy and Technology { #ORG-CDT }
 
@@ -346,6 +364,15 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
 
+## `ORG-TELEGRAM`: Telegram { #ORG-TELEGRAM }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-TELEGRAM.md`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Tags: organization, privacy, secure-messaging, encryption-law, intermediary-liability, digital-rights
+
+Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
+
 ## `ORG-TOR-PROJECT`: Tor Project { #ORG-TOR-PROJECT }
 
 - Type: `organization`
@@ -453,6 +480,15 @@ Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, sp
 - Tags: person, privacy, internet-governance, digital-rights
 
 danah boyd is a partner researcher at Microsoft Research, founder of the Data & Society Research Institute, and Distinguished Visiting Professor at Georgetown University who studies social media, algorithmic bias, privacy, and the societal impact of data-driven systems.
+
+## `PERSON-DAVID-OLIVIER-KAMINSKI`: David-Olivier Kaminski { #PERSON-DAVID-OLIVIER-KAMINSKI }
+
+- Type: `attorney`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+- Tags: attorney, intermediary-liability, digital-rights
+
+David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
 
 ## `PERSON-DAVID-REED`: David P. Reed { #PERSON-DAVID-REED }
 
@@ -651,6 +687,24 @@ Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, 
 - Tags: person, internet-architecture, network-protocols, cryptography
 
 Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
+
+## `PERSON-PAVEL-CHIKOV`: Pavel Chikov { #PERSON-PAVEL-CHIKOV }
+
+- Type: `attorney`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-PAVEL-CHIKOV.md`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Tags: attorney, digital-rights, encryption-law, civil-society, censorship-resistance
+
+Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.
+
+## `PERSON-PAVEL-DUROV`: Pavel Durov { #PERSON-PAVEL-DUROV }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-PAVEL-DUROV.md`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Tags: person, secure-messaging, privacy, encryption-law, intermediary-liability, digital-rights
+
+Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.
 
 ## `PERSON-PHIL-ZIMMERMANN`: Phil Zimmermann { #PERSON-PHIL-ZIMMERMANN }
 
@@ -864,9 +918,9 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 - Type: `topic`
 - Status: `draft`
 - Path: [`knowledge/legal/TOPIC-CODE-AS-SPEECH.md`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
-- Tags: first-amendment, speech-and-code, digital-rights, constitutional-law
+- Tags: first-amendment, speech-and-code, digital-rights, constitutional-law, open-source-software, cryptography, copyright
 
-The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.
 
 ## `TOPIC-COMPUTER-FRAUD`: Computer Fraud and Abuse { #TOPIC-COMPUTER-FRAUD }
 

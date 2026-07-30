@@ -55,7 +55,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 5
     - **Research debt items**: 2
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -107,3 +106,7 @@ Additional sources (not yet cited in footnotes):
 
 - Summarize later CFAA treatment and civil liability cases with primary sources.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

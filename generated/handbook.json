@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 107,
+  "record_count": 113,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -65,6 +65,18 @@
       "status": "draft",
       "summary": "Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, specializing in intellectual property, copyright, intermediary liability, open access, and free speech issues.",
       "title": "Corynne McSherry",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "status": "draft",
+      "summary": "David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.",
+      "title": "David-Olivier Kaminski",
       "type": "attorney"
     },
     {
@@ -201,6 +213,19 @@
       "status": "draft",
       "summary": "Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.",
       "title": "Pamela Chestek",
+      "type": "attorney"
+    },
+    {
+      "id": "PERSON-PAVEL-CHIKOV",
+      "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "status": "draft",
+      "summary": "Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.",
+      "title": "Pavel Chikov",
       "type": "attorney"
     },
     {
@@ -454,6 +479,20 @@
       "type": "case"
     },
     {
+      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-MEDUZA-DUROV-FSB-2026"
+      ],
+      "status": "draft",
+      "summary": "On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.",
+      "title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+      "type": "historical_event"
+    },
+    {
       "id": "EVENT-OFAC-BLENDER-2022",
       "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
       "source_doc_path": "source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
@@ -490,6 +529,19 @@
       "status": "draft",
       "summary": "American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.",
       "title": "American Civil Liberties Union",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-AGORA",
+      "path": "knowledge/organizations/ORG-AGORA.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-AGORA.md",
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.",
+      "title": "Agora (human rights lawyers' group)",
       "type": "organization"
     },
     {
@@ -716,6 +768,21 @@
       "type": "organization"
     },
     {
+      "id": "ORG-TELEGRAM",
+      "path": "knowledge/organizations/ORG-TELEGRAM.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-TELEGRAM.md",
+      "sources": [
+        "SRC-TELEGRAM-PRESS",
+        "SRC-TELEGRAM-FAQ",
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.",
+      "title": "Telegram",
+      "type": "organization"
+    },
+    {
       "id": "ORG-TOR-PROJECT",
       "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-TOR-PROJECT.md",
@@ -937,6 +1004,23 @@
       "status": "draft",
       "summary": "Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.",
       "title": "Paul Vixie",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-PAVEL-DUROV",
+      "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAVEL-DUROV.md",
+      "sources": [
+        "SRC-TELEGRAM-PRESS",
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-MEDUZA-DUROV-FSB-2026",
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "title": "Pavel Durov",
       "type": "person"
     },
     {
@@ -1247,12 +1331,15 @@
       "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "sources": [
+        "SRC-US-CONST-AMEND-I-LII",
         "SRC-RENO-V-ACLU-GOVINFO",
         "SRC-RENO-V-ACLU-LOC",
-        "SRC-US-CONST-AMEND-I-LII"
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-JUNGER-CMU",
+        "SRC-CORLEY-LII"
       ],
       "status": "draft",
-      "summary": "The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.",
+      "summary": "The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.",
       "title": "Code as Speech",
       "type": "topic"
     },
@@ -1288,7 +1375,8 @@
         "SRC-DOJ-SKLYAROV-AGREE-2001",
         "SRC-BERNSTEIN-JUSTIA",
         "SRC-JUNGER-CMU",
-        "SRC-CORLEY-LII"
+        "SRC-CORLEY-LII",
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "status": "draft",
       "summary": "Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions \u2014 organized by legal tool and outcome.",
@@ -1358,7 +1446,8 @@
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
       "sources": [
         "SRC-USC-17-512-GOVINFO",
-        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "status": "draft",
       "summary": "Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.",

@@ -33,7 +33,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -72,3 +71,7 @@ Technical analysis has not yet been drafted. Future work should summarize the XO
 - Add pages for distributed hash tables and peer-to-peer networking.
 - Verify and document later real-world uses of Kademlia.
 - Add relationships to DHT, peer-to-peer, and content-addressing topics after those pages exist.
+
+## Document metadata
+
+- Last verified: `2026-06-17`

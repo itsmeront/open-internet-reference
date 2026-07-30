@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -85,3 +84,7 @@ He bridges legal doctrine and technical architecture in ways that help courts un
 - Add Berkman Klein Center profile as secondary source.
 - Document specific testimony, amicus briefs, or expert reports with primary citations.
 - Link to relevant OIR topic pages (intermediary liability, Section 230) once cross-relationships are verified.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

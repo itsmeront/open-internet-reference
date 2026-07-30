@@ -45,7 +45,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -91,3 +90,7 @@ Technical analysis has not yet been drafted. Future work should add earlier onio
 - Add current Tor specification sources for implementation details.
 - Distinguish onion routing as a general technique from Tor-specific implementation details.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

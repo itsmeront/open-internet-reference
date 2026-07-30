@@ -43,7 +43,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -91,3 +90,7 @@ Additional sources (not yet cited in footnotes):
 
 - Add Jenner & Block or party briefs documenting Katie Fallow's role if publicly available.
 - Corroborate attorney participation claims with docket or secondary reporting beyond biographies.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

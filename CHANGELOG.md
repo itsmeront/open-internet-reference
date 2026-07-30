@@ -6,6 +6,11 @@ The project uses human-readable milestone entries during the foundation phase. F
 
 ## Unreleased
 
+### Changed
+
+- Rebuilt the public timeline around historical-event `event_date` values instead of document publication and verification dates.
+- Moved document publication, access, and last-verified dates to a **Document metadata** footer on generated source-mirror pages.
+
 ### Added
 
 - Created Sprint 1 repository foundation documentation.
@@ -34,7 +39,7 @@ The project uses human-readable milestone entries during the foundation phase. F
 - Added generated Used For index and clickable Used For terms in source mirror pages.
 - Added generated review status dashboard for metadata status, type, verification date, and review queues.
 - Added generated citation index showing page-level and relationship-level source usage.
-- Added generated timeline JSON and MkDocs page from explicit publication and verification dates.
+- Added generated timeline JSON and MkDocs page from historical-event `event_date` values (document publication and verification dates appear on page footers).
 - Added generated AI retrieval dataset manifest and JSONL export.
 - Updated generated source mirrors so `SRC-*` links prefer external source URLs when available.
 - Added generated outreach CRM prototype and Contacts section.

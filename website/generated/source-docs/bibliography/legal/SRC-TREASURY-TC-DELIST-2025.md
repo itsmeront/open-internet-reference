@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -50,3 +49,9 @@ Official Treasury press release. Primary authority for the March 21, 2025 delist
 
 - [`TOPIC-TORNADO-CASH`](../../../used-for.md#topic-tornado-cash)
 - [`CASE-VAN-LOON-V-TREASURY`](../../../used-for.md#case-van-loon-v-treasury)
+
+## Document metadata
+
+- Last verified: `2026-07-23`
+- Publication date: `2025-03-21`
+- Access date: `2026-07-23`

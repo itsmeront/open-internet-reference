@@ -57,7 +57,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 6
     - **Relationships**: 4
     - **Research debt items**: 5
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -122,3 +121,7 @@ Jurisdiction: U.S. Court of Appeals for the Fifth Circuit. Authority level: publ
 - Confirm Westlaw/LEXIS or F.4th reporter citation when assigned.
 - Document post-remand district-court judgment text.
 - Review First Amendment arguments raised below that the Fifth Circuit did not decide.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

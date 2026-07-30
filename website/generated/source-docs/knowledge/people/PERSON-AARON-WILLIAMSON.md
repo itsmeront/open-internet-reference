@@ -33,7 +33,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -76,3 +75,7 @@ Williamson is directly relevant for open source compliance, foundation formation
 - Document representative litigation matters where public record permits.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

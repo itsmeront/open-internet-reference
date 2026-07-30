@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,9 @@ Official Senate press release. Primary source for Booker's Banning Surveillance 
 ## Used For
 
 - [`PERSON-CORY-BOOKER`](../../../used-for.md#person-cory-booker)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2022-01-18`
+- Access date: `2026-06-25`

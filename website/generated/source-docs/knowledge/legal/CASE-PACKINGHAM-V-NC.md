@@ -50,7 +50,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 4
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -116,3 +115,7 @@ Additional sources (not yet cited in footnotes):
 
 - Connect to later cases applying this precedent to internet access restrictions.
 - Relate to platform deplatforming and government-compelled censorship debates.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

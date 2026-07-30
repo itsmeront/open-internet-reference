@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -51,3 +50,9 @@ EPIC Alert summarizes a U.S. Attorney declination letter closing the PGP investi
 
 - [`PERSON-EBEN-MOGLEN`](../../../used-for.md#person-eben-moglen)
 - [`PERSON-PHIL-ZIMMERMANN`](../../../used-for.md#person-phil-zimmermann)
+
+## Document metadata
+
+- Last verified: `2026-07-19`
+- Publication date: `1996-01-11`
+- Access date: `2026-07-19`

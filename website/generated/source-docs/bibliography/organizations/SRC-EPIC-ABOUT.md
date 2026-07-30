@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -50,3 +49,8 @@ Official EPIC about page. Primary source for mission statement and program areas
 ## Used For
 
 - [`ORG-EPIC`](../../../used-for.md#org-epic)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

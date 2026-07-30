@@ -48,7 +48,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -96,3 +95,7 @@ Jurisdiction: U.S. District Court, Northern District of California (criminal). S
 - Add primary source for Elcomsoft jury verdict / judgment of acquittal.
 - Add arrest-date FBI/DOJ materials (July 2001).
 - Add indictment PDF from PACER/RECAP.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

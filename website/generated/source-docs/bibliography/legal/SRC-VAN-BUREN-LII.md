@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -53,3 +52,9 @@ Cornell LII is a high-confidence public legal reference. Prefer official United 
 - [`TOPIC-COMPUTER-FRAUD`](../../../used-for.md#topic-computer-fraud)
 - [`STAT-CFAA-1030`](../../../used-for.md#stat-cfaa-1030)
 - [Computer Fraud and Abuse Act](../../../used-for.md#computer-fraud-and-abuse-act)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Publication date: `2021`
+- Access date: `2026-06-19`

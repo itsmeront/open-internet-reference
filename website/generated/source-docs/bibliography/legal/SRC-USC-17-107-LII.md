@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -51,3 +50,8 @@ Cornell LII is a high-confidence legal reference. For formal citation or final p
 - [`STAT-USC-107`](../../../used-for.md#stat-usc-107)
 - [`TOPIC-FAIR-USE-VIDEO`](../../../used-for.md#topic-fair-use-video)
 - [`CASE-LENZ-V-UNIVERSAL`](../../../used-for.md#case-lenz-v-universal)
+
+## Document metadata
+
+- Last verified: `2026-07-19`
+- Access date: `2026-07-19`

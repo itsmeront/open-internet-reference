@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -50,3 +49,9 @@ GovInfo is an official U.S. Government Publishing Office source for United State
 ## Used For
 
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](../../../used-for.md#case-brown-v-entertainment-merchants)
+
+## Document metadata
+
+- Last verified: `2026-07-19`
+- Publication date: `2011-06-27`
+- Access date: `2026-07-19`

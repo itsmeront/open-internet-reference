@@ -60,7 +60,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 4
     - **Relationships**: 6
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -126,3 +125,7 @@ Additional sources (not yet cited in footnotes):
 - Document video-platform copyright enforcement with official platform policy sources.
 - Corroborate EFF fair use factor summaries with primary case law beyond the guide.
 - Add jurisdiction notes for non-U.S. creators uploading to U.S.-based platforms.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -91,3 +90,7 @@ Premier technology law firm with First Amendment litigation experience, IP trans
 - Document specific landmark First Amendment and privacy decisions.
 - Identify key attorneys in the technology and internet litigation practices.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

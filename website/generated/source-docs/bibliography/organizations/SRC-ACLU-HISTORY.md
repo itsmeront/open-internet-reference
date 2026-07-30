@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -53,3 +52,8 @@ Official ACLU history page. Historical narrative should be supplemented with ind
 - [American Civil Liberties Union](../../knowledge/organizations/ORG-ACLU.md)
 - [Civil liberties organizations](../../../used-for.md#civil-liberties-organizations)
 - [Outreach verification](../../../used-for.md#outreach-verification)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

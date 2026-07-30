@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 2
     - **Research debt items**: 5
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -90,3 +89,7 @@ Schneier's work informs the security practices that open source and commercial s
 - Add key publications most relevant to software companies.
 - Document relationship with Tor Project board role.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-06-25`

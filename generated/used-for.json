@@ -186,6 +186,14 @@
     },
     {
       "sources": [
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-MEDUZA-DUROV-FSB-2026"
+      ],
+      "term": "`EVENT-FSB-DUROV-TELEGRAM-2026`"
+    },
+    {
+      "sources": [
         "SRC-TREASURY-BLENDER-2022"
       ],
       "term": "`EVENT-OFAC-BLENDER-2022`"
@@ -195,6 +203,12 @@
         "SRC-ZIMMERMANN-DECLINATION-1996"
       ],
       "term": "`EVENT-ZIMMERMANN-PGP-INVESTIGATION`"
+    },
+    {
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "term": "`ORG-AGORA`"
     },
     {
       "sources": [
@@ -318,6 +332,15 @@
     },
     {
       "sources": [
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-TELEGRAM-FAQ",
+        "SRC-TELEGRAM-PRESS"
+      ],
+      "term": "`ORG-TELEGRAM`"
+    },
+    {
+      "sources": [
         "SRC-TOR-DESIGN-PAPER",
         "SRC-TOR-PROJECT-HISTORY"
       ],
@@ -395,6 +418,12 @@
         "SRC-BOYD-MSR"
       ],
       "term": "`PERSON-DANAH-BOYD`"
+    },
+    {
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "term": "`PERSON-DAVID-OLIVIER-KAMINSKI`"
     },
     {
       "sources": [
@@ -534,6 +563,24 @@
         "SRC-VIXIE-IHOF"
       ],
       "term": "`PERSON-PAUL-VIXIE`"
+    },
+    {
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "term": "`PERSON-PAVEL-CHIKOV`"
+    },
+    {
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+        "SRC-MEDUZA-DUROV-FSB-2026",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-TELEGRAM-PRESS"
+      ],
+      "term": "`PERSON-PAVEL-DUROV`"
     },
     {
       "sources": [

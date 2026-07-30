@@ -35,7 +35,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -87,3 +86,7 @@ Berners-Lee is particularly useful when a case involves:
 - Link to Solid/Inrupt technical documentation as secondary source.
 - Document relationships to W3C standards cited in OIR protocol pages.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 164
+Term count: 170
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -136,6 +136,12 @@ Term count: 164
 
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 
+## `EVENT-FSB-DUROV-TELEGRAM-2026` { #event-fsb-durov-telegram-2026 }
+
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
+- [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+
 ## `EVENT-OFAC-BLENDER-2022` { #event-ofac-blender-2022 }
 
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
@@ -143,6 +149,10 @@ Term count: 164
 ## `EVENT-ZIMMERMANN-PGP-INVESTIGATION` { #event-zimmermann-pgp-investigation }
 
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## `ORG-AGORA` { #org-agora }
+
+- [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
 
 ## `ORG-CDT` { #org-cdt }
 
@@ -230,6 +240,13 @@ Term count: 164
 - [`SRC-SFC-HOME: Software Freedom Conservancy Home Page`](source-docs/bibliography/organizations/SRC-SFC-HOME.md)
 - [`SRC-SFC-PROJECTS: Project Membership in Software Freedom Conservancy`](source-docs/bibliography/organizations/SRC-SFC-PROJECTS.md)
 
+## `ORG-TELEGRAM` { #org-telegram }
+
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+- [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+- [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+
 ## `ORG-TOR-PROJECT` { #org-tor-project }
 
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
@@ -285,6 +302,10 @@ Term count: 164
 ## `PERSON-DANAH-BOYD` { #person-danah-boyd }
 
 - [`SRC-BOYD-MSR: danah boyd Microsoft Research Profile`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+
+## `PERSON-DAVID-OLIVIER-KAMINSKI` { #person-david-olivier-kaminski }
+
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 
 ## `PERSON-DAVID-REED` { #person-david-reed }
 
@@ -380,6 +401,20 @@ Term count: 164
 ## `PERSON-PAUL-VIXIE` { #person-paul-vixie }
 
 - [`SRC-VIXIE-IHOF: Paul Vixie Internet Hall of Fame Profile`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
+
+## `PERSON-PAVEL-CHIKOV` { #person-pavel-chikov }
+
+- [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+## `PERSON-PAVEL-DUROV` { #person-pavel-durov }
+
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+- [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 
 ## `PERSON-PHIL-ZIMMERMANN` { #person-phil-zimmermann }
 

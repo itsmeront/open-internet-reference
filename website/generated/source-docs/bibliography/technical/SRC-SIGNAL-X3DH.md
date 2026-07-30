@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -54,3 +53,9 @@ Official Signal protocol specification. Independent review may still be needed f
 - [Signal Protocol](../../../used-for.md#signal-protocol)
 - [Secure messaging](../../../used-for.md#secure-messaging)
 - [X3DH key agreement](../../../used-for.md#x3dh-key-agreement)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Publication date: `2016-11-04`
+- Access date: `2026-06-19`

@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -50,3 +49,8 @@ Official Internet Hall of Fame biography. Primary source for Vixie's DNS and BIN
 ## Used For
 
 - [`PERSON-PAUL-VIXIE`](../../../used-for.md#person-paul-vixie)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

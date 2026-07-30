@@ -35,7 +35,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -76,3 +75,7 @@ Lessig's scholarship on the relationship between code, law, and regulation of cy
 - Document Creative Commons relationship and its relevance to open source.
 - Add his personal website (lessig.org) as a source.
 - Document specific writings most relevant to software companies.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

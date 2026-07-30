@@ -3,6 +3,7 @@
   "records": [
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-BERNSTEIN-V-DOJ",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
@@ -69,6 +70,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
@@ -115,6 +117,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-CARPENTER-V-US",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
@@ -163,6 +166,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-COIN-CENTER-V-YELLEN",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
@@ -212,6 +216,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-GOOGLE-V-ORACLE",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
@@ -251,6 +256,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-JUNGER-V-DALEY",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
@@ -308,6 +314,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-LENZ-V-UNIVERSAL",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
@@ -380,6 +387,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-NL-V-PERTSEV",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
@@ -432,6 +440,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-PACKINGHAM-V-NC",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
@@ -488,6 +497,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-PERFECT10-V-CCBILL",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
@@ -552,6 +562,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-RENO-V-ACLU",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-RENO-V-ACLU.md",
@@ -617,6 +628,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-UNIVERSAL-V-CORLEY",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
@@ -664,6 +676,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-US-V-RODRIGUEZ",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
@@ -714,6 +727,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-US-V-SKLYAROV",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
@@ -765,6 +779,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-US-V-STORM",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-US-V-STORM.md",
@@ -818,6 +833,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-US-V-TUNICK",
       "last_verified": "2026-07-27",
       "path": "knowledge/legal/CASE-US-V-TUNICK.md",
@@ -890,6 +906,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-VAN-BUREN-V-US",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
@@ -954,6 +971,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "CASE-VAN-LOON-V-TREASURY",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
@@ -1017,6 +1035,76 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": "2026-07-29",
+      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "relationships": [
+        {
+          "object": "SRC-AP-DUROV-FSB-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-MEDUZA-DUROV-FSB-2026"
+      ],
+      "status": "draft",
+      "summary": "On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.",
+      "tags": [
+        "historical-event",
+        "intermediary-liability",
+        "secure-messaging",
+        "encryption-law",
+        "digital-rights",
+        "censorship-resistance",
+        "case-studies"
+      ],
+      "title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+      "type": "historical_event",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": "2022-05-06",
       "id": "EVENT-OFAC-BLENDER-2022",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
@@ -1073,6 +1161,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": "1996-01",
       "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
@@ -1133,6 +1222,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-ACLU",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-ACLU.md",
@@ -1173,6 +1263,58 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
+      "id": "ORG-AGORA",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/organizations/ORG-AGORA.md",
+      "relationships": [
+        {
+          "object": "SRC-RAFTO-AGORA-CHIKOV",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RAFTO-AGORA-CHIKOV"
+          ],
+          "subject": "ORG-AGORA"
+        },
+        {
+          "object": "PERSON-PAVEL-CHIKOV",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-RAFTO-AGORA-CHIKOV"
+          ],
+          "subject": "ORG-AGORA"
+        },
+        {
+          "notes": "Connection is via reported Telegram representation by Chikov; not a claim that Agora is Telegram's standing corporate counsel.",
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RFERL-TELEGRAM-BLOCK-2018"
+          ],
+          "subject": "ORG-AGORA"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-AGORA.md",
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.",
+      "tags": [
+        "organization",
+        "civil-society",
+        "digital-rights",
+        "attorney",
+        "encryption-law"
+      ],
+      "title": "Agora (human rights lawyers' group)",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-CDT",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-CDT.md",
@@ -1215,6 +1357,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
       "last_verified": "2026-07-18",
       "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
@@ -1289,6 +1432,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-COOLEY",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-COOLEY.md",
@@ -1320,6 +1464,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-EFF",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-EFF.md",
@@ -1360,6 +1505,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-EPIC",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-EPIC.md",
@@ -1401,6 +1547,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-FENWICK",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-FENWICK.md",
@@ -1441,6 +1588,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-FSF",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-FSF.md",
@@ -1482,6 +1630,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
       "last_verified": "2026-07-04",
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
@@ -1513,6 +1662,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-INSTITUTE-FOR-JUSTICE",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
@@ -1561,6 +1711,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-KNIGHT-FIRST-AMENDMENT",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
@@ -1610,6 +1761,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-OSI",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-OSI.md",
@@ -1650,6 +1802,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-PERKINS-COIE",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
@@ -1681,6 +1834,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-PUBLIC-KNOWLEDGE",
       "last_verified": "2026-07-04",
       "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
@@ -1722,6 +1876,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-RCFP",
       "last_verified": "2026-07-04",
       "path": "knowledge/organizations/ORG-RCFP.md",
@@ -1763,6 +1918,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-SFLC",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SFLC.md",
@@ -1821,6 +1977,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-SIGNAL",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-SIGNAL.md",
@@ -1878,6 +2035,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
       "last_verified": "2026-07-19",
       "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
@@ -1946,6 +2104,85 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
+      "id": "ORG-TELEGRAM",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/organizations/ORG-TELEGRAM.md",
+      "relationships": [
+        {
+          "object": "SRC-TELEGRAM-PRESS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TELEGRAM-PRESS"
+          ],
+          "subject": "ORG-TELEGRAM"
+        },
+        {
+          "object": "SRC-TELEGRAM-FAQ",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TELEGRAM-FAQ"
+          ],
+          "subject": "ORG-TELEGRAM"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-TELEGRAM-PRESS"
+          ],
+          "subject": "ORG-TELEGRAM"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "ORG-TELEGRAM"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "ORG-TELEGRAM"
+        },
+        {
+          "notes": "RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking litigation; scope and duration beyond that episode need corroboration.",
+          "object": "PERSON-PAVEL-CHIKOV",
+          "predicate": "represented_by",
+          "sources": [
+            "SRC-RFERL-TELEGRAM-BLOCK-2018"
+          ],
+          "subject": "ORG-TELEGRAM"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-TELEGRAM.md",
+      "sources": [
+        "SRC-TELEGRAM-PRESS",
+        "SRC-TELEGRAM-FAQ",
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.",
+      "tags": [
+        "organization",
+        "privacy",
+        "secure-messaging",
+        "encryption-law",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "Telegram",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-TOR-PROJECT",
       "last_verified": "2026-06-19",
       "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
@@ -1994,6 +2231,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "ORG-WILSON-SONSINI",
       "last_verified": "2026-06-25",
       "path": "knowledge/organizations/ORG-WILSON-SONSINI.md",
@@ -2034,6 +2272,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-AARON-WILLIAMSON",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
@@ -2064,6 +2303,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ALAN-KAY",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ALAN-KAY.md",
@@ -2095,6 +2335,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ALEX-ABDO",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ALEX-ABDO.md",
@@ -2135,6 +2376,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ANDREW-RUSSELL",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
@@ -2166,6 +2408,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-BEN-WIZNER",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-BEN-WIZNER.md",
@@ -2205,6 +2448,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-BRUCE-SCHNEIER",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
@@ -2245,6 +2489,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-CINDY-COHN",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-CINDY-COHN.md",
@@ -2339,6 +2584,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-CORY-BOOKER",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-CORY-BOOKER.md",
@@ -2389,6 +2635,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-CORYNNE-MCSHERRY",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
@@ -2429,6 +2676,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-DANAH-BOYD",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-DANAH-BOYD.md",
@@ -2460,6 +2708,46 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
+      "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "relationships": [
+        {
+          "object": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+          ],
+          "subject": "PERSON-DAVID-OLIVIER-KAMINSKI"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+          ],
+          "subject": "PERSON-DAVID-OLIVIER-KAMINSKI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "status": "draft",
+      "summary": "David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.",
+      "tags": [
+        "attorney",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "David-Olivier Kaminski",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-DAVID-REED",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-DAVID-REED.md",
@@ -2491,6 +2779,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-EBEN-MOGLEN",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
@@ -2556,6 +2845,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ESHA-BHANDARI",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
@@ -2595,6 +2885,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-HEATHER-MEEKER",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
@@ -2624,6 +2915,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-HENRY-FONDA",
       "last_verified": "2026-07-18",
       "path": "knowledge/people/PERSON-HENRY-FONDA.md",
@@ -2662,6 +2954,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-JAMEEL-JAFFER",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
@@ -2701,6 +2994,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-JANE-FONDA",
       "last_verified": "2026-07-18",
       "path": "knowledge/people/PERSON-JANE-FONDA.md",
@@ -2749,6 +3043,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-JANET-ABBATE",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-JANET-ABBATE.md",
@@ -2780,6 +3075,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-JENNIFER-GRANICK",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
@@ -2820,6 +3116,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-JONATHAN-ZITTRAIN",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
@@ -2851,6 +3148,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-KATIE-FALLOW",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
@@ -2907,6 +3205,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-KIT-WALSH",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-KIT-WALSH.md",
@@ -2947,6 +3246,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-LAUREN-WEINSTEIN",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
@@ -2988,6 +3288,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-LAWRENCE-LESSIG",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
@@ -3020,6 +3321,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-LEE-TIEN",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-LEE-TIEN.md",
@@ -3059,6 +3361,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-MATT-BLAZE",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-MATT-BLAZE.md",
@@ -3090,6 +3393,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-MIKE-LEE",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-MIKE-LEE.md",
@@ -3141,6 +3445,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-MITCH-STOLTZ",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
@@ -3181,6 +3486,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-NATHAN-FREED-WESSLER",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
@@ -3239,6 +3545,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ORIN-KERR",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ORIN-KERR.md",
@@ -3270,6 +3577,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-PAMELA-CHESTEK",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
@@ -3299,6 +3607,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-PAUL-VIXIE",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
@@ -3330,6 +3639,129 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
+      "id": "PERSON-PAVEL-CHIKOV",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "relationships": [
+        {
+          "object": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RFERL-TELEGRAM-BLOCK-2018"
+          ],
+          "subject": "PERSON-PAVEL-CHIKOV"
+        },
+        {
+          "object": "ORG-AGORA",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-RAFTO-AGORA-CHIKOV"
+          ],
+          "subject": "PERSON-PAVEL-CHIKOV"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RFERL-TELEGRAM-BLOCK-2018"
+          ],
+          "subject": "PERSON-PAVEL-CHIKOV"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "status": "draft",
+      "summary": "Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "encryption-law",
+        "civil-society",
+        "censorship-resistance"
+      ],
+      "title": "Pavel Chikov",
+      "type": "attorney",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": null,
+      "id": "PERSON-PAVEL-DUROV",
+      "last_verified": "2026-07-29",
+      "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
+      "relationships": [
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-TELEGRAM-PRESS"
+          ],
+          "subject": "PERSON-PAVEL-DUROV"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "PERSON-PAVEL-DUROV"
+        },
+        {
+          "notes": "France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French charging episode.",
+          "object": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "predicate": "represented_by",
+          "sources": [
+            "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+          ],
+          "subject": "PERSON-PAVEL-DUROV"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "PERSON-PAVEL-DUROV"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "PERSON-PAVEL-DUROV"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAVEL-DUROV.md",
+      "sources": [
+        "SRC-TELEGRAM-PRESS",
+        "SRC-AP-DUROV-FSB-2026",
+        "SRC-BBC-DUROV-FSB-2026",
+        "SRC-MEDUZA-DUROV-FSB-2026",
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "status": "draft",
+      "summary": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "tags": [
+        "person",
+        "secure-messaging",
+        "privacy",
+        "encryption-law",
+        "intermediary-liability",
+        "digital-rights"
+      ],
+      "title": "Pavel Durov",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-PHIL-ZIMMERMANN",
       "last_verified": "2026-07-23",
       "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
@@ -3371,6 +3803,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-RAND-PAUL",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-RAND-PAUL.md",
@@ -3448,6 +3881,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-RO-KHANNA",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-RO-KHANNA.md",
@@ -3479,6 +3913,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ROBERT-KAHN",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
@@ -3509,6 +3944,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-RON-RIVEST",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-RON-RIVEST.md",
@@ -3540,6 +3976,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-RON-WYDEN",
       "last_verified": "2026-07-19",
       "path": "knowledge/people/PERSON-RON-WYDEN.md",
@@ -3608,6 +4045,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-THOMAS-HAIGH",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
@@ -3638,6 +4076,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-THOMAS-MASSIE",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
@@ -3670,6 +4109,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-TIM-BERNERS-LEE",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
@@ -3702,6 +4142,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-VINT-CERF",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-VINT-CERF.md",
@@ -3733,6 +4174,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-WHITFIELD-DIFFIE",
       "last_verified": "2026-07-04",
       "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
@@ -3764,6 +4206,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PERSON-ZOE-LOFGREN",
       "last_verified": "2026-06-25",
       "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
@@ -3795,6 +4238,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PROTOCOL-DNS",
       "last_verified": "2026-06-17",
       "path": "knowledge/technical/PROTOCOL-DNS.md",
@@ -3824,6 +4268,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PROTOCOL-TCP",
       "last_verified": "2026-06-17",
       "path": "knowledge/technical/PROTOCOL-TCP.md",
@@ -3853,6 +4298,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "PROTOCOL-TLS-13",
       "last_verified": "2026-06-17",
       "path": "knowledge/technical/PROTOCOL-TLS-13.md",
@@ -3883,6 +4329,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-18-USC-2232",
       "last_verified": "2026-07-27",
       "path": "knowledge/legal/STAT-18-USC-2232.md",
@@ -3923,6 +4370,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-CFAA-1030",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/STAT-CFAA-1030.md",
@@ -3979,6 +4427,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-DMCA-512",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/STAT-DMCA-512.md",
@@ -4061,6 +4510,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-IEEPA",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/STAT-IEEPA.md",
@@ -4108,6 +4558,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-SECTION-230",
       "last_verified": "2026-06-25",
       "path": "knowledge/legal/STAT-SECTION-230.md",
@@ -4156,6 +4607,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "STAT-USC-107",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/STAT-USC-107.md",
@@ -4219,6 +4671,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TECH-GRAPHENEOS",
       "last_verified": "2026-07-27",
       "path": "knowledge/technical/TECH-GRAPHENEOS.md",
@@ -4263,6 +4716,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TECH-TORNADO-CASH",
       "last_verified": "2026-07-23",
       "path": "knowledge/technical/TECH-TORNADO-CASH.md",
@@ -4314,10 +4768,19 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-CODE-AS-SPEECH",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-25",
       "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "relationships": [
+        {
+          "object": "SRC-US-CONST-AMEND-I-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-US-CONST-AMEND-I-LII"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
         {
           "object": "SRC-RENO-V-ACLU-LOC",
           "predicate": "cites",
@@ -4327,10 +4790,26 @@
           "subject": "TOPIC-CODE-AS-SPEECH"
         },
         {
-          "object": "SRC-US-CONST-AMEND-I-LII",
+          "object": "SRC-BERNSTEIN-JUSTIA",
           "predicate": "cites",
           "sources": [
-            "SRC-US-CONST-AMEND-I-LII"
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "SRC-JUNGER-CMU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-JUNGER-CMU"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "SRC-CORLEY-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CORLEY-LII"
           ],
           "subject": "TOPIC-CODE-AS-SPEECH"
         },
@@ -4349,21 +4828,59 @@
             "SRC-RENO-V-ACLU-LOC"
           ],
           "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "CASE-JUNGER-V-DALEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-JUNGER-CMU"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CORLEY-LII"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BERNSTEIN-JUSTIA"
+          ],
+          "subject": "TOPIC-CODE-AS-SPEECH"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "sources": [
+        "SRC-US-CONST-AMEND-I-LII",
         "SRC-RENO-V-ACLU-GOVINFO",
         "SRC-RENO-V-ACLU-LOC",
-        "SRC-US-CONST-AMEND-I-LII"
+        "SRC-BERNSTEIN-JUSTIA",
+        "SRC-JUNGER-CMU",
+        "SRC-CORLEY-LII"
       ],
       "status": "draft",
-      "summary": "The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.",
+      "summary": "The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.",
       "tags": [
         "first-amendment",
         "speech-and-code",
         "digital-rights",
-        "constitutional-law"
+        "constitutional-law",
+        "open-source-software",
+        "cryptography",
+        "copyright"
       ],
       "title": "Code as Speech",
       "type": "topic",
@@ -4371,6 +4888,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-COMPUTER-FRAUD",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
@@ -4419,8 +4937,9 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
-      "last_verified": "2026-07-23",
+      "last_verified": "2026-07-29",
       "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
       "relationships": [
         {
@@ -4510,6 +5029,22 @@
             "SRC-BERNSTEIN-JUSTIA"
           ],
           "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
@@ -4527,7 +5062,8 @@
         "SRC-DOJ-SKLYAROV-AGREE-2001",
         "SRC-BERNSTEIN-JUSTIA",
         "SRC-JUNGER-CMU",
-        "SRC-CORLEY-LII"
+        "SRC-CORLEY-LII",
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "status": "draft",
       "summary": "Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions \u2014 organized by legal tool and outcome.",
@@ -4549,6 +5085,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
@@ -4640,6 +5177,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-FAIR-USE-VIDEO",
       "last_verified": "2026-07-19",
       "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
@@ -4712,6 +5250,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-FIRST-AMENDMENT",
       "last_verified": "2026-07-18",
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
@@ -4768,6 +5307,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-FOURTH-AMENDMENT",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
@@ -4809,8 +5349,9 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-INTERMEDIARY-LIABILITY",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-29",
       "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
       "relationships": [
         {
@@ -4844,12 +5385,29 @@
             "SRC-PERFECT10-V-CCBILL-JUSTIA"
           ],
           "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AP-DUROV-FSB-2026"
+          ],
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
       "sources": [
         "SRC-USC-17-512-GOVINFO",
-        "SRC-PERFECT10-V-CCBILL-JUSTIA"
+        "SRC-PERFECT10-V-CCBILL-JUSTIA",
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "status": "draft",
       "summary": "Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.",
@@ -4865,6 +5423,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-KADEMLIA",
       "last_verified": "2026-06-17",
       "path": "knowledge/technical/TOPIC-KADEMLIA.md",
@@ -4895,6 +5454,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-ONION-ROUTING",
       "last_verified": "2026-06-19",
       "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
@@ -4943,6 +5503,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-SAFE-HARBOR",
       "last_verified": "2026-06-19",
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
@@ -5000,6 +5561,7 @@
     },
     {
       "bibliographic_metadata": {},
+      "event_date": null,
       "id": "TOPIC-TORNADO-CASH",
       "last_verified": "2026-07-23",
       "path": "knowledge/legal/TOPIC-TORNADO-CASH.md",

@@ -81,7 +81,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 12
     - **Relationships**: 7
     - **Research debt items**: 5
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -167,3 +166,7 @@ Additional sources (not yet cited in footnotes):
 - Add docket-verified outcomes for non-convicted counts in United States v. Storm.
 - Add relationship to `TOPIC-CODE-AS-SPEECH` only if First Amendment holdings or preserved claims are sourced (Van Loon did not decide First Amendment).
 - Human research-editor review required before any status promotion beyond `draft` (AI-assisted intake).
+
+## Document metadata
+
+- Last verified: `2026-07-23`

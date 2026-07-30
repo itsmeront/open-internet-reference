@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -56,3 +55,8 @@ Official Tor Project history page. Technical and historical claims should be sup
 - [Onion routing](../../knowledge/technical/TOPIC-ONION-ROUTING.md)
 - [Privacy organizations](../../../used-for.md#privacy-organizations)
 - [Outreach verification](../../../used-for.md#outreach-verification)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

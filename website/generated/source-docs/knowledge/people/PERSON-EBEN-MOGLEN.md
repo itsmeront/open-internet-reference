@@ -56,7 +56,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 5
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -121,3 +120,7 @@ Moglen is one of the most significant legal figures in the free software and ope
 - Document role in FreedomBox Foundation (founded 2011) with an official organizational source.
 - Add case-specific sources for notable GPL enforcement actions.
 - Cross-link SFLC intake process documented on `ORG-SFLC`.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

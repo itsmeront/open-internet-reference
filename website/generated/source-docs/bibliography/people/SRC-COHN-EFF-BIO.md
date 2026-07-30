@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -57,3 +56,10 @@ Primary source for Cohn's role and professional history at EFF.
 ## Used For
 
 - [`PERSON-CINDY-COHN`](../../../used-for.md#person-cindy-cohn)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `Not dated (updated regularly)`
+- Access date: `2026-06-25`
+- Archive URL: `https://web.archive.org/web/2026/https://www.eff.org/about/staff/cindy-cohn`

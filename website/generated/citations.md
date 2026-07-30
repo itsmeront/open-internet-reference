@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 168
+Source count: 176
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -24,6 +24,33 @@ Source count: 168
 
 - Page source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - Relationship source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) `cites` [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+
+## [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
+
+- Page source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Relationship source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `cites` [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- Relationship source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Relationship source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Relationship source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md): [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Page source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+## [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md): BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism
+
+- Page source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md): Tim Berners-Lee W3C Biography
 
@@ -52,6 +79,10 @@ Source count: 168
 - Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `argued` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- Page source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
@@ -197,6 +228,9 @@ Source count: 168
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `cites` [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Relationship source in [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md): [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
 
@@ -302,6 +336,14 @@ Source count: 168
 - Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 
+## [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md): France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted
+
+- Page source in [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+- Relationship source in [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md): [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md) `cites` [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- Relationship source in [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md): [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `represented_by` [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+
 ## [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page
 
 - Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
@@ -398,6 +440,9 @@ Source count: 168
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Relationship source in [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+- Relationship source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric
@@ -484,6 +529,11 @@ Source count: 168
 - Page source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
 - Relationship source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md): [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md): [`PERSON-CORYNNE-MCSHERRY`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md) `cites` [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
+
+## [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md): Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant
+
+- Page source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md): Heather Meeker About Page
 
@@ -607,6 +657,14 @@ Source count: 168
 - Page source in [`ORG-PUBLIC-KNOWLEDGE`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md)
 - Relationship source in [`ORG-PUBLIC-KNOWLEDGE`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md): [`ORG-PUBLIC-KNOWLEDGE`](source-docs/knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md) `cites` [`SRC-PUBLIC-KNOWLEDGE-CONTACT`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
 
+## [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md): Rafto Foundation — Agora / Pavel Chikov Prize Page
+
+- Page source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Relationship source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md): [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `affiliated_with` [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Relationship source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md): [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `cites` [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- Page source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `affiliated_with` [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+
 ## [`SRC-RCFP-CONTACT`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md): Reporters Committee Contact Page
 
 - Page source in [`ORG-RCFP`](source-docs/knowledge/organizations/ORG-RCFP.md)
@@ -660,6 +718,17 @@ Source count: 168
 
 - Page source in [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - Relationship source in [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md): [`PROTOCOL-TCP`](source-docs/knowledge/technical/PROTOCOL-TCP.md) `standardizes` [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md)
+
+## [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md): RFE/RL — Russian Court Orders Telegram App Blocked (2018)
+
+- Page source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Relationship source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md): [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Page source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `represented_by` [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Page source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `cites` [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+- Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
 ## [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md): Ronald L. Rivest MIT CSAIL Profile
 
@@ -760,6 +829,19 @@ Source count: 168
 
 - Page source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - Page source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
+## [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md): Telegram FAQ
+
+- Page source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `cites` [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+
+## [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md): Telegram Press Info
+
+- Page source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `affiliated_with` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `cites` [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+- Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `affiliated_with` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 
 ## [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md): Lee Tien EFF Staff Biography
 

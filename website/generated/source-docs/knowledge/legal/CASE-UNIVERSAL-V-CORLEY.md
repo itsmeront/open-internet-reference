@@ -44,7 +44,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 3
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -97,3 +96,7 @@ This case demonstrates both the strengths and limits of the code-as-speech doctr
 - Document the relationship between this case and DMCA Section 1201 reform efforts.
 - Connect to EFF's involvement and the broader implications for security research.
 - Add detail on the intermediate scrutiny framework and its application in later cases.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

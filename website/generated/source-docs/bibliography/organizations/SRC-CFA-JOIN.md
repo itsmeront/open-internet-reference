@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-18
 
 ---
 
@@ -49,3 +48,9 @@ Official intake page for entertainment-industry signatories. Primary source for 
 ## Used For
 
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](../../../used-for.md#org-committee-for-the-first-amendment)
+
+## Document metadata
+
+- Last verified: `2026-07-18`
+- Publication date: `2025`
+- Access date: `2026-07-18`

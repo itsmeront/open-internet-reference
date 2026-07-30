@@ -45,7 +45,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 5
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -95,3 +94,7 @@ IJ's commitment to defending the free flow of information and opposing governmen
 - Add information about state offices and coverage.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

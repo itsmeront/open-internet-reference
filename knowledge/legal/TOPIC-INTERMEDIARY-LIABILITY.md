@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-USC-17-512-GOVINFO
   - SRC-PERFECT10-V-CCBILL-JUSTIA
+  - SRC-AP-DUROV-FSB-2026
 relationships:
   - subject: TOPIC-INTERMEDIARY-LIABILITY
     predicate: cites
@@ -33,7 +34,17 @@ relationships:
     object: CASE-PERFECT10-V-CCBILL
     sources:
       - SRC-PERFECT10-V-CCBILL-JUSTIA
-last_verified: "2026-06-19"
+  - subject: TOPIC-INTERMEDIARY-LIABILITY
+    predicate: related_to
+    object: EVENT-FSB-DUROV-TELEGRAM-2026
+    sources:
+      - SRC-AP-DUROV-FSB-2026
+  - subject: TOPIC-INTERMEDIARY-LIABILITY
+    predicate: related_to
+    object: ORG-TELEGRAM
+    sources:
+      - SRC-AP-DUROV-FSB-2026
+last_verified: "2026-07-29"
 ---
 
 # Intermediary Liability
@@ -67,15 +78,22 @@ Legal analysis has not yet been drafted. Future work should distinguish copyrigh
 - `TOPIC-INTERMEDIARY-LIABILITY` related_to `TOPIC-SAFE-HARBOR`.
 - `TOPIC-INTERMEDIARY-LIABILITY` related_to `STAT-DMCA-512`.
 - `TOPIC-INTERMEDIARY-LIABILITY` related_to `CASE-PERFECT10-V-CCBILL`.
+- `TOPIC-INTERMEDIARY-LIABILITY` related_to `EVENT-FSB-DUROV-TELEGRAM-2026`.
+- `TOPIC-INTERMEDIARY-LIABILITY` related_to `ORG-TELEGRAM`.
 
 ## Sources
 
 1. `SRC-USC-17-512-GOVINFO`: 17 U.S.C. § 512 (GovInfo).
 2. `SRC-PERFECT10-V-CCBILL-JUSTIA`: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007).
 
+Additional sources (not yet cited in footnotes):
+
+- `SRC-AP-DUROV-FSB-2026`: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism.
+
 ## Research Debt
 
 - Summarize `CASE-PERFECT10-V-CCBILL` and add later safe harbor case law.
 - Add sources for non-copyright intermediary liability doctrines.
 - Compare U.S. safe harbor rules with other jurisdictions.
+- Incorporate comparative analysis of Russian facilitation charges against messaging-platform operators (`EVENT-FSB-DUROV-TELEGRAM-2026`) once primary FSB materials are available.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

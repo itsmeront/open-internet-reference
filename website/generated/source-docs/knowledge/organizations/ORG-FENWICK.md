@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -90,3 +89,7 @@ Pioneered software licensing and IP law. Deep open source expertise. Created ind
 
 - Add independent sources for landmark litigation and transaction claims on the firm history page.
 - Identify key attorneys in the technology transactions and open source practices from official practice pages.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

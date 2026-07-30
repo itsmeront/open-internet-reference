@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -53,3 +52,8 @@ Official EFF about page. Organizational descriptions and mission statements shou
 - [Electronic Frontier Foundation](../../knowledge/organizations/ORG-EFF.md)
 - [Digital civil liberties organizations](../../../used-for.md#digital-civil-liberties-organizations)
 - [Outreach verification](../../../used-for.md#outreach-verification)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

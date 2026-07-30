@@ -34,6 +34,7 @@ relationships:
     sources:
       - SRC-TREASURY-BLENDER-2022
 last_verified: "2026-07-23"
+event_date: "2022-05-06"
 ---
 
 # OFAC Designation of Blender.io (May 6, 2022)

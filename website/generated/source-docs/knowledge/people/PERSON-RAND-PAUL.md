@@ -65,7 +65,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 6
     - **Relationships**: 6
     - **Research debt items**: 5
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -139,3 +138,7 @@ Paul's anti-encryption-backdoor amendments directly protect software companies f
 - Create statute page for Fourth Amendment Restoration and Protection Act.
 - Create statute page for Fourth Amendment Is Not For Sale Act.
 - Create statute page for USA RIGHTS Act.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

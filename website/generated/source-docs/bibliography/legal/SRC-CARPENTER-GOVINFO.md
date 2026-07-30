@@ -30,7 +30,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -55,3 +54,9 @@ GovInfo is an official U.S. Government Publishing Office source for United State
 - [`TOPIC-FOURTH-AMENDMENT`](../../../used-for.md#topic-fourth-amendment)
 - [Digital privacy](../../../used-for.md#digital-privacy)
 - [Cell-site location information](../../../used-for.md#cell-site-location-information)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Publication date: `2018`
+- Access date: `2026-06-19`

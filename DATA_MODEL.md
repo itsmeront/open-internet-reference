@@ -54,6 +54,21 @@ last_verified: null
 ---
 ```
 
+## Optional Front Matter
+
+### `event_date`
+
+Required for `historical_event` pages. Optional for other types when a record has a single primary occurrence date that should appear on the public timeline.
+
+Format: `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
+
+```yaml
+type: historical_event
+event_date: "2026-07-29"
+```
+
+The generated public timeline is built from `event_date` values. Document publication dates, access dates, and `last_verified` appear on individual page footers instead.
+
 ## Entity Types
 
 Initial entity types:

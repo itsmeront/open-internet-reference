@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -50,3 +49,9 @@ Official EFF case page describing the litigation history. EFF represented Bernst
 ## Used For
 
 - [`CASE-BERNSTEIN-V-DOJ`](../../../used-for.md#case-bernstein-v-doj)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `Not dated (maintained)`
+- Access date: `2026-06-25`

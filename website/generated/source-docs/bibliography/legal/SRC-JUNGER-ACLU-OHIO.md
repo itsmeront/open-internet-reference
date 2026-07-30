@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,8 @@ Official ACLU of Ohio case page. ACLU attorneys argued on behalf of Junger in th
 ## Used For
 
 - [`CASE-JUNGER-V-DALEY`](../../../used-for.md#case-junger-v-daley)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Access date: `2026-06-25`

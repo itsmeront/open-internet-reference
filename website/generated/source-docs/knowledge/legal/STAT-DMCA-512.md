@@ -67,7 +67,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 5
     - **Relationships**: 7
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -117,3 +116,7 @@ Additional sources (not yet cited in footnotes):
 
 - Add statutory history and relevant case law.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

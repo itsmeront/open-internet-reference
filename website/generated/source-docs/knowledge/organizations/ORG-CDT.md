@@ -42,7 +42,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -90,3 +89,7 @@ CDT works at the intersection of technology policy and individual rights, making
 - Add bibliography sources for CDT Europe operations.
 - Add notable amicus briefs and policy submissions relevant to software with primary filing records.
 - Corroborate organizational impact claims with independent reporting where analysis requires it.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

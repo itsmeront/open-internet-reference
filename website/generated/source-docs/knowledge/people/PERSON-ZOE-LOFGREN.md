@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -80,3 +79,7 @@ CFAA reform is critical for security researchers, developers, and anyone who acc
 - Add independent sources for Lofgren's broader technology policy positions.
 - Document earlier versions of Aaron's Law introduced with Sensenbrenner.
 - Add source for Lofgren's other internet governance work.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

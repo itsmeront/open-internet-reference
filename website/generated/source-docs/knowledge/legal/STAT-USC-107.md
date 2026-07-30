@@ -54,7 +54,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 5
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -102,3 +101,7 @@ Legal analysis has not yet been drafted from primary case law. Future work shoul
 - Add leading video and music fair use cases with primary sources (for example Campbell v. Acuff-Rose).
 - Summarize statutory history from official legislative materials.
 - Draft legal analysis from primary case law rather than secondary guides.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

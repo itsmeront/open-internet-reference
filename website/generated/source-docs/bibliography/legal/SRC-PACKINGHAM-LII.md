@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,9 @@ Cornell LII reproduction of the Supreme Court opinion. Case citation: 582 U.S. 9
 ## Used For
 
 - [`CASE-PACKINGHAM-V-NC`](../../../used-for.md#case-packingham-v-nc)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2017-06-19`
+- Access date: `2026-06-25`

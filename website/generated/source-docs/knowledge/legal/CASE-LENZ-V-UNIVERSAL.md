@@ -60,7 +60,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 6
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -115,3 +114,7 @@ The Ninth Circuit treated fair use, for DMCA purposes, as a use "authorized by t
 
 - Add district court opinions and procedural history with docket sources.
 - Document subsequent § 512(f) cases applying Lenz with primary sources.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

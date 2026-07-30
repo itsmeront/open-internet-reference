@@ -57,7 +57,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 5
     - **Research debt items**: 2
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -121,3 +120,7 @@ Additional sources (not yet cited in footnotes):
 
 - Add the earlier district court opinions (Bernstein I through IV).
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

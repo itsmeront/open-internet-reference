@@ -41,7 +41,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -87,3 +86,7 @@ Additional sources (not yet cited in footnotes):
 - Add case law beyond `CASE-CARPENTER-V-US` on device searches and communications surveillance.
 - Distinguish constitutional text from doctrine and commentary.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

@@ -693,6 +693,56 @@
       "subject": "CASE-VAN-LOON-V-TREASURY"
     },
     {
+      "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "notes": null,
+      "object": "SRC-AP-DUROV-FSB-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+    },
+    {
+      "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "notes": null,
+      "object": "ORG-TELEGRAM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+    },
+    {
+      "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "notes": null,
+      "object": "PERSON-PAVEL-DUROV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+    },
+    {
+      "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+    },
+    {
+      "declared_in": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "EVENT-FSB-DUROV-TELEGRAM-2026"
+    },
+    {
       "declared_in": "EVENT-OFAC-BLENDER-2022",
       "notes": null,
       "object": "SRC-TREASURY-BLENDER-2022",
@@ -791,6 +841,36 @@
         "SRC-ACLU-HISTORY"
       ],
       "subject": "ORG-ACLU"
+    },
+    {
+      "declared_in": "ORG-AGORA",
+      "notes": null,
+      "object": "PERSON-PAVEL-CHIKOV",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "subject": "ORG-AGORA"
+    },
+    {
+      "declared_in": "ORG-AGORA",
+      "notes": null,
+      "object": "SRC-RAFTO-AGORA-CHIKOV",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "subject": "ORG-AGORA"
+    },
+    {
+      "declared_in": "ORG-AGORA",
+      "notes": "Connection is via reported Telegram representation by Chikov; not a claim that Agora is Telegram's standing corporate counsel.",
+      "object": "ORG-TELEGRAM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "subject": "ORG-AGORA"
     },
     {
       "declared_in": "ORG-CDT",
@@ -1215,6 +1295,66 @@
       "subject": "ORG-SOFTWARE-FREEDOM-CONSERVANCY"
     },
     {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": null,
+      "object": "PERSON-PAVEL-DUROV",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-TELEGRAM-PRESS"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": null,
+      "object": "SRC-TELEGRAM-FAQ",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TELEGRAM-FAQ"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": null,
+      "object": "SRC-TELEGRAM-PRESS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TELEGRAM-PRESS"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": null,
+      "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
+      "declared_in": "ORG-TELEGRAM",
+      "notes": "RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking litigation; scope and duration beyond that episode need corroboration.",
+      "object": "PERSON-PAVEL-CHIKOV",
+      "predicate": "represented_by",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "subject": "ORG-TELEGRAM"
+    },
+    {
       "declared_in": "ORG-TOR-PROJECT",
       "notes": null,
       "object": "SRC-TOR-PROJECT-CONTACT",
@@ -1494,6 +1634,26 @@
         "SRC-BOYD-MSR"
       ],
       "subject": "PERSON-DANAH-BOYD"
+    },
+    {
+      "declared_in": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "notes": null,
+      "object": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "subject": "PERSON-DAVID-OLIVIER-KAMINSKI"
+    },
+    {
+      "declared_in": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "notes": null,
+      "object": "PERSON-PAVEL-DUROV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "subject": "PERSON-DAVID-OLIVIER-KAMINSKI"
     },
     {
       "declared_in": "PERSON-DAVID-REED",
@@ -1958,6 +2118,86 @@
         "SRC-VIXIE-IHOF"
       ],
       "subject": "PERSON-PAUL-VIXIE"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-CHIKOV",
+      "notes": null,
+      "object": "ORG-AGORA",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-RAFTO-AGORA-CHIKOV"
+      ],
+      "subject": "PERSON-PAVEL-CHIKOV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-CHIKOV",
+      "notes": null,
+      "object": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "subject": "PERSON-PAVEL-CHIKOV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-CHIKOV",
+      "notes": null,
+      "object": "ORG-TELEGRAM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "subject": "PERSON-PAVEL-CHIKOV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-DUROV",
+      "notes": null,
+      "object": "ORG-TELEGRAM",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-TELEGRAM-PRESS"
+      ],
+      "subject": "PERSON-PAVEL-DUROV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-DUROV",
+      "notes": null,
+      "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "PERSON-PAVEL-DUROV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-DUROV",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "PERSON-PAVEL-DUROV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-DUROV",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "PERSON-PAVEL-DUROV"
+    },
+    {
+      "declared_in": "PERSON-PAVEL-DUROV",
+      "notes": "France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French charging episode.",
+      "object": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "predicate": "represented_by",
+      "sources": [
+        "SRC-FRANCE24-DUROV-KAMINSKI-2024"
+      ],
+      "subject": "PERSON-PAVEL-DUROV"
     },
     {
       "declared_in": "PERSON-PHIL-ZIMMERMANN",
@@ -2502,6 +2742,36 @@
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
       "notes": null,
+      "object": "SRC-BERNSTEIN-JUSTIA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "SRC-CORLEY-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "SRC-JUNGER-CMU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JUNGER-CMU"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
       "object": "SRC-RENO-V-ACLU-LOC",
       "predicate": "cites",
       "sources": [
@@ -2522,10 +2792,50 @@
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
       "notes": null,
+      "object": "CASE-BERNSTEIN-V-DOJ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "CASE-JUNGER-V-DALEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JUNGER-CMU"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
       "object": "CASE-RENO-V-ACLU",
       "predicate": "related_to",
       "sources": [
         "SRC-RENO-V-ACLU-LOC"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "CASE-UNIVERSAL-V-CORLEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CORLEY-LII"
+      ],
+      "subject": "TOPIC-CODE-AS-SPEECH"
+    },
+    {
+      "declared_in": "TOPIC-CODE-AS-SPEECH",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BERNSTEIN-JUSTIA"
       ],
       "subject": "TOPIC-CODE-AS-SPEECH"
     },
@@ -2642,6 +2952,16 @@
     {
       "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
       "notes": null,
+      "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
       "object": "EVENT-OFAC-BLENDER-2022",
       "predicate": "related_to",
       "sources": [
@@ -2656,6 +2976,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "notes": null,
+      "object": "PERSON-PAVEL-DUROV",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
     },
@@ -2896,6 +3226,26 @@
       "predicate": "related_to",
       "sources": [
         "SRC-PERFECT10-V-CCBILL-JUSTIA"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
+      ],
+      "subject": "TOPIC-INTERMEDIARY-LIABILITY"
+    },
+    {
+      "declared_in": "TOPIC-INTERMEDIARY-LIABILITY",
+      "notes": null,
+      "object": "ORG-TELEGRAM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AP-DUROV-FSB-2026"
       ],
       "subject": "TOPIC-INTERMEDIARY-LIABILITY"
     },

@@ -30,6 +30,7 @@ sources:
   - SRC-BERNSTEIN-JUSTIA
   - SRC-JUNGER-CMU
   - SRC-CORLEY-LII
+  - SRC-AP-DUROV-FSB-2026
 relationships:
   - subject: TOPIC-DEVELOPER-SOFTWARE-LIABILITY
     predicate: cites
@@ -86,7 +87,17 @@ relationships:
     object: TOPIC-CODE-AS-SPEECH
     sources:
       - SRC-BERNSTEIN-JUSTIA
-last_verified: "2026-07-23"
+  - subject: TOPIC-DEVELOPER-SOFTWARE-LIABILITY
+    predicate: related_to
+    object: EVENT-FSB-DUROV-TELEGRAM-2026
+    sources:
+      - SRC-AP-DUROV-FSB-2026
+  - subject: TOPIC-DEVELOPER-SOFTWARE-LIABILITY
+    predicate: related_to
+    object: PERSON-PAVEL-DUROV
+    sources:
+      - SRC-AP-DUROV-FSB-2026
+last_verified: "2026-07-29"
 ---
 
 # Generated Source Mirror
@@ -100,10 +111,9 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 14
-    - **Relationships**: 11
-    - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
+    - **Sources**: 15
+    - **Relationships**: 13
+    - **Research debt items**: 4
 
 ---
 
@@ -181,6 +191,8 @@ Documented theories in this inventory include: (1) conspiracy to operate an unli
 - `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` related_to `CASE-BERNSTEIN-V-DOJ`.
 - `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` related_to `CASE-UNIVERSAL-V-CORLEY`.
 - `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` related_to `TOPIC-CODE-AS-SPEECH`.
+- `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` related_to `EVENT-FSB-DUROV-TELEGRAM-2026`.
+- `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` related_to `PERSON-PAVEL-DUROV`.
 
 ## Sources
 
@@ -199,8 +211,17 @@ Documented theories in this inventory include: (1) conspiracy to operate an unli
 13. [`SRC-BERNSTEIN-JUSTIA`](../../../bibliography.md#SRC-BERNSTEIN-JUSTIA): Bernstein v. DOJ (Justia).
 14. [`SRC-JUNGER-CMU`](../../../bibliography.md#SRC-JUNGER-CMU): Junger v. Daley Opinion Text (CMU).
 
+Additional sources (not yet cited in footnotes):
+
+- [`SRC-AP-DUROV-FSB-2026`](https://apnews.com/article/russia-telegram-pavel-durov-ukraine-a6efe4692f3415c2046f0893d114174b): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism.
+
 ## Research Debt
 
 - Add Helix / Bitcoin Fog primary plea and judgment sources (custodial mixer contrast).
 - Add FinCEN FIN-2019-G001 as a statute/guidance source on anonymizing software providers.
+- Add a Verified Facts inventory entry for `EVENT-FSB-DUROV-TELEGRAM-2026` once FSB primary materials are available.
 - Human research-editor review before status promotion beyond `draft`.
+
+## Document metadata
+
+- Last verified: `2026-07-29`

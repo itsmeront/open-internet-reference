@@ -76,7 +76,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 6
     - **Relationships**: 8
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -152,3 +151,7 @@ Cohn's successful litigation in Bernstein v. DOJ established that source code is
 - Add detail on her CFAA reform work after Aaron Swartz with primary advocacy or legislative sources.
 - Create `CASE-*` pages and primary sources for `First Unitarian Church v. NSA`, `Hepting v. AT&T`, and `OPG v. Diebold`.
 - Corroborate self-reported biography claims with independent sources where possible.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

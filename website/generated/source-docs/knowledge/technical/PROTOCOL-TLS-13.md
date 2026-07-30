@@ -33,7 +33,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -72,3 +71,7 @@ Technical analysis has not yet been drafted. Future work should summarize TLS 1.
 - Add relationship to broader TLS and cryptography topic pages after they exist.
 - Add prior-version context.
 - Add source-backed notes on privacy and secure communications implications.
+
+## Document metadata
+
+- Last verified: `2026-06-17`

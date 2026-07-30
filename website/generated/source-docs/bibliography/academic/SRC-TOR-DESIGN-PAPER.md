@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -54,3 +53,8 @@ This paper is a primary Tor Project design document hosted on Tor Project infras
 - [`ORG-TOR-PROJECT`](../../../used-for.md#org-tor-project)
 - [Onion routing](../../knowledge/technical/TOPIC-ONION-ROUTING.md)
 - [Tor network design](../../../used-for.md#tor-network-design)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

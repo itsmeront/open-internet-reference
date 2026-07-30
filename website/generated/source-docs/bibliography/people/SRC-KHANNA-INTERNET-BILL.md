@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,8 @@ Official House press release. Primary source for Khanna's Internet Bill of Right
 ## Used For
 
 - [`PERSON-RO-KHANNA`](../../../used-for.md#person-ro-khanna)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Access date: `2026-06-25`

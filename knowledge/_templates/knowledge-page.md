@@ -9,6 +9,7 @@ tags:
 sources: []
 relationships: []
 last_verified: null
+# event_date: "YYYY-MM-DD"  # required for type: historical_event
 ---
 
 # Example Topic

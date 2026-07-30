@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -83,3 +82,7 @@ Kerr is particularly useful when a case involves:
 - Verify exact current title and appointment details against live GW faculty page.
 - Add primary citations for key amicus briefs and *Van Buren* materials.
 - Link to OIR `STAT-CFAA-1030` knowledge page once cross-relationships are verified.
+
+## Document metadata
+
+- Last verified: `2026-07-04`
