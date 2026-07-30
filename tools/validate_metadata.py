@@ -74,6 +74,7 @@ TIMELINE_DATE_FIELDS = (
     ("decision_date", "decision", "Decision"),
     ("enactment_date", "enactment", "Enactment"),
     ("legislative_override_date", "legislative_override", "Legislative override"),
+    ("offense_date", "offense", "Offense"),
     ("charge_date", "charge", "Charge"),
     ("arrest_date", "arrest", "Arrest"),
     ("indictment_date", "indictment", "Indictment"),
@@ -180,7 +181,7 @@ def validate_metadata(
                 path,
                 "historical_event pages must include at least one timeline date "
                 "(event_date, decision_date, enactment_date, legislative_override_date, "
-                "charge_date, arrest_date, or indictment_date)",
+                "offense_date, charge_date, arrest_date, or indictment_date)",
             )
         )
 

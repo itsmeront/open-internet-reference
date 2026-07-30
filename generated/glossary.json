@@ -12,6 +12,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
       "relationships": [
         {
@@ -85,6 +86,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "relationships": [
         {
@@ -138,6 +140,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
       "relationships": [
         {
@@ -193,6 +196,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
       "relationships": [
         {
@@ -249,6 +253,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
       "relationships": [
         {
@@ -295,6 +300,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
       "relationships": [
         {
@@ -359,6 +365,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
       "relationships": [
         {
@@ -438,6 +445,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
       "relationships": [
         {
@@ -497,6 +505,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
       "relationships": [
         {
@@ -560,6 +569,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
       "relationships": [
         {
@@ -631,6 +641,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-RENO-V-ACLU.md",
       "relationships": [
         {
@@ -703,6 +714,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
       "relationships": [
         {
@@ -757,6 +769,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
       "relationships": [
         {
@@ -814,6 +827,7 @@
       "indictment_date": "2001-08-28",
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
       "relationships": [
         {
@@ -872,6 +886,7 @@
       "indictment_date": "2023-08-23",
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-US-V-STORM.md",
       "relationships": [
         {
@@ -932,6 +947,7 @@
       "indictment_date": "2025-11-13",
       "last_verified": "2026-07-27",
       "legislative_override_date": null,
+      "offense_date": "2025-01-24",
       "path": "knowledge/legal/CASE-US-V-TUNICK.md",
       "relationships": [
         {
@@ -1011,6 +1027,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
       "relationships": [
         {
@@ -1082,6 +1099,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
       "relationships": [
         {
@@ -1152,6 +1170,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": "2008-07-10",
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
       "relationships": [
         {
@@ -1199,6 +1218,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
       "relationships": [
         {
@@ -1274,6 +1294,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-OFAC-BLENDER-2022.md",
       "relationships": [
         {
@@ -1337,6 +1358,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
       "relationships": [
         {
@@ -1404,6 +1426,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-ACLU.md",
       "relationships": [
         {
@@ -1451,6 +1474,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-AGORA.md",
       "relationships": [
         {
@@ -1508,6 +1532,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-CDT.md",
       "relationships": [
         {
@@ -1557,6 +1582,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-18",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -1638,6 +1664,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-COOLEY.md",
       "relationships": [
         {
@@ -1676,6 +1703,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-EFF.md",
       "relationships": [
         {
@@ -1723,6 +1751,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-EPIC.md",
       "relationships": [
         {
@@ -1771,6 +1800,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-FENWICK.md",
       "relationships": [
         {
@@ -1818,6 +1848,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-FSF.md",
       "relationships": [
         {
@@ -1866,6 +1897,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
       "relationships": [
         {
@@ -1904,6 +1936,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
       "relationships": [
         {
@@ -1959,6 +1992,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -2015,6 +2049,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-OSI.md",
       "relationships": [
         {
@@ -2062,6 +2097,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
       "relationships": [
         {
@@ -2100,6 +2136,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
       "relationships": [
         {
@@ -2148,6 +2185,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-RCFP.md",
       "relationships": [
         {
@@ -2196,6 +2234,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SFLC.md",
       "relationships": [
         {
@@ -2261,6 +2300,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SIGNAL.md",
       "relationships": [
         {
@@ -2325,6 +2365,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
       "relationships": [
         {
@@ -2400,6 +2441,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-TELEGRAM.md",
       "relationships": [
         {
@@ -2484,6 +2526,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
       "relationships": [
         {
@@ -2539,6 +2582,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/organizations/ORG-WILSON-SONSINI.md",
       "relationships": [
         {
@@ -2586,6 +2630,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
       "relationships": [
         {
@@ -2623,6 +2668,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ALAN-KAY.md",
       "relationships": [
         {
@@ -2661,6 +2707,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ALEX-ABDO.md",
       "relationships": [
         {
@@ -2708,6 +2755,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
       "relationships": [
         {
@@ -2746,6 +2794,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-BEN-WIZNER.md",
       "relationships": [
         {
@@ -2792,6 +2841,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
       "relationships": [
         {
@@ -2839,6 +2889,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CINDY-COHN.md",
       "relationships": [
         {
@@ -2940,6 +2991,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CORY-BOOKER.md",
       "relationships": [
         {
@@ -2997,6 +3049,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
       "relationships": [
         {
@@ -3044,6 +3097,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DANAH-BOYD.md",
       "relationships": [
         {
@@ -3082,6 +3136,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
       "relationships": [
         {
@@ -3127,6 +3182,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-DAVID-REED.md",
       "relationships": [
         {
@@ -3165,6 +3221,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
       "relationships": [
         {
@@ -3237,6 +3294,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
       "relationships": [
         {
@@ -3283,6 +3341,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
       "relationships": [
         {
@@ -3319,6 +3378,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-18",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-HENRY-FONDA.md",
       "relationships": [
         {
@@ -3364,6 +3424,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
       "relationships": [
         {
@@ -3410,6 +3471,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-18",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JANE-FONDA.md",
       "relationships": [
         {
@@ -3465,6 +3527,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JANET-ABBATE.md",
       "relationships": [
         {
@@ -3503,6 +3566,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
       "relationships": [
         {
@@ -3550,6 +3614,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
       "relationships": [
         {
@@ -3588,6 +3653,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
       "relationships": [
         {
@@ -3651,6 +3717,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-KIT-WALSH.md",
       "relationships": [
         {
@@ -3698,6 +3765,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
       "relationships": [
         {
@@ -3746,6 +3814,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
       "relationships": [
         {
@@ -3785,6 +3854,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-LEE-TIEN.md",
       "relationships": [
         {
@@ -3831,6 +3901,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MATT-BLAZE.md",
       "relationships": [
         {
@@ -3869,6 +3940,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MIKE-LEE.md",
       "relationships": [
         {
@@ -3927,6 +3999,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
       "relationships": [
         {
@@ -3974,6 +4047,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
       "relationships": [
         {
@@ -4039,6 +4113,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ORIN-KERR.md",
       "relationships": [
         {
@@ -4077,6 +4152,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
       "relationships": [
         {
@@ -4113,6 +4189,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
       "relationships": [
         {
@@ -4151,6 +4228,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
       "relationships": [
         {
@@ -4207,6 +4285,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
       "relationships": [
         {
@@ -4285,6 +4364,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
       "relationships": [
         {
@@ -4333,6 +4413,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RAND-PAUL.md",
       "relationships": [
         {
@@ -4417,6 +4498,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RO-KHANNA.md",
       "relationships": [
         {
@@ -4455,6 +4537,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
       "relationships": [
         {
@@ -4492,6 +4575,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RON-RIVEST.md",
       "relationships": [
         {
@@ -4530,6 +4614,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-RON-WYDEN.md",
       "relationships": [
         {
@@ -4605,6 +4690,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
       "relationships": [
         {
@@ -4642,6 +4728,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
       "relationships": [
         {
@@ -4681,6 +4768,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
       "relationships": [
         {
@@ -4720,6 +4808,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-VINT-CERF.md",
       "relationships": [
         {
@@ -4758,6 +4847,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-04",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
       "relationships": [
         {
@@ -4796,6 +4886,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
       "relationships": [
         {
@@ -4834,6 +4925,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-17",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-DNS.md",
       "relationships": [
         {
@@ -4870,6 +4962,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-17",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-TCP.md",
       "relationships": [
         {
@@ -4906,6 +4999,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-17",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/PROTOCOL-TLS-13.md",
       "relationships": [
         {
@@ -4943,6 +5037,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-27",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-18-USC-2232.md",
       "relationships": [
         {
@@ -4990,6 +5085,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-CFAA-1030.md",
       "relationships": [
         {
@@ -5053,6 +5149,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-DMCA-512.md",
       "relationships": [
         {
@@ -5142,6 +5239,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-IEEPA.md",
       "relationships": [
         {
@@ -5196,6 +5294,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-SECTION-230.md",
       "relationships": [
         {
@@ -5251,6 +5350,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/STAT-USC-107.md",
       "relationships": [
         {
@@ -5321,6 +5421,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-27",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TECH-GRAPHENEOS.md",
       "relationships": [
         {
@@ -5372,6 +5473,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TECH-TORNADO-CASH.md",
       "relationships": [
         {
@@ -5430,6 +5532,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-25",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "relationships": [
         {
@@ -5556,6 +5659,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
       "relationships": [
         {
@@ -5611,6 +5715,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md",
       "relationships": [
         {
@@ -5765,6 +5870,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
       "relationships": [
         {
@@ -5863,6 +5969,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
       "relationships": [
         {
@@ -5942,6 +6049,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-18",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "relationships": [
         {
@@ -6005,6 +6113,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
       "relationships": [
         {
@@ -6053,6 +6162,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-29",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
       "relationships": [
         {
@@ -6133,6 +6243,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-17",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TOPIC-KADEMLIA.md",
       "relationships": [
         {
@@ -6170,6 +6281,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
       "relationships": [
         {
@@ -6225,6 +6337,7 @@
       "indictment_date": null,
       "last_verified": "2026-06-19",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
       "relationships": [
         {
@@ -6289,6 +6402,7 @@
       "indictment_date": null,
       "last_verified": "2026-07-23",
       "legislative_override_date": null,
+      "offense_date": null,
       "path": "knowledge/legal/TOPIC-TORNADO-CASH.md",
       "relationships": [
         {

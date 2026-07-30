@@ -50,7 +50,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 3
     - **Relationships**: 3
-    - **Research debt items**: 4
+    - **Research debt items**: 5
 
 ---
 
@@ -98,6 +98,7 @@ Jurisdiction: Netherlands, East Brabant District Court (first instance). Authori
 
 - Add appeal filings and status at Gerechtshof ’s-Hertogenbosch.
 - Add FIOD arrest press release (Aug. 12, 2022) as a dedicated source.
+- Charged period spans 2019–2022; add `offense_date` only if a primary source identifies a single focal act date (otherwise keep period narrative only).
 - Extract and footnote additional holding quotations from the full Dutch judgment with certified translation where relied upon for English pages.
 - Add counsel identification from Dutch court records.
 

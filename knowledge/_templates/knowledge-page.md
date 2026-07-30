@@ -17,6 +17,7 @@ last_verified: null
 # charge_date: "YYYY-MM-DD"
 # arrest_date: "YYYY-MM-DD"
 # indictment_date: "YYYY-MM-DD"
+# offense_date: "YYYY-MM-DD"
 ---
 
 # Example Topic

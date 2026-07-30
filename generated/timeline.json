@@ -1,5 +1,5 @@
 {
-  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, legislative_override_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
+  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, legislative_override_date, offense_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
   "events": [
     {
       "date": "1976",
@@ -231,6 +231,14 @@
       "event_type": "decision",
       "record_id": "CASE-VAN-LOON-V-TREASURY",
       "record_title": "Van Loon v. Department of the Treasury",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-01-24",
+      "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
+      "event_type": "offense",
+      "record_id": "CASE-US-V-TUNICK",
+      "record_title": "United States v. Tunick",
       "record_type": "case"
     },
     {
