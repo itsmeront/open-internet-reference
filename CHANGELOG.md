@@ -10,7 +10,7 @@ The project uses human-readable milestone entries during the foundation phase. F
 
 - Rebuilt the public timeline around historical-event `event_date` values instead of document publication and verification dates.
 - Moved document publication, access, and last-verified dates to a **Document metadata** footer on generated source-mirror pages.
-- Expanded the public timeline to include `decision_date`, `enactment_date`, and `legislative_override_date` milestones (court outcomes, statutes becoming law, and legislative overrides).
+- Expanded the public timeline to include `decision_date`, `enactment_date`, `legislative_override_date`, `charge_date`, `arrest_date`, and `indictment_date` milestones.
 
 ### Added
 

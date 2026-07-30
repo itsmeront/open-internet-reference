@@ -14,6 +14,9 @@ last_verified: null
 # decision_date: "YYYY-MM-DD"
 # enactment_date: "YYYY"
 # legislative_override_date: "YYYY-MM-DD"
+# charge_date: "YYYY-MM-DD"
+# arrest_date: "YYYY-MM-DD"
+# indictment_date: "YYYY-MM-DD"
 ---
 
 # Example Topic

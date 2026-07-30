@@ -1,5 +1,5 @@
 {
-  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, and legislative_override_date. Document publication and verification dates appear on individual page footers instead.",
+  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, legislative_override_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
   "events": [
     {
       "date": "1976",
@@ -79,6 +79,14 @@
       "event_type": "decision",
       "record_id": "CASE-UNIVERSAL-V-CORLEY",
       "record_title": "Universal City Studios v. Corley",
+      "record_type": "case"
+    },
+    {
+      "date": "2001-08-28",
+      "description": "Dmitry Sklyarov and Elcomsoft Co. Ltd. were indicted in 2001 under the DMCA for trafficking in ebook circumvention software; Sklyarov entered a deferred-prosecution agreement, and DOJ described the matter as the first DMCA criminal case.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-SKLYAROV",
+      "record_title": "United States v. Sklyarov / Elcomsoft",
       "record_type": "case"
     },
     {
@@ -162,6 +170,30 @@
       "record_type": "historical_event"
     },
     {
+      "date": "2022-08",
+      "description": "East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.",
+      "event_type": "arrest",
+      "record_id": "CASE-NL-V-PERTSEV",
+      "record_title": "Netherlands v. Pertsev (Tornado Cash)",
+      "record_type": "case"
+    },
+    {
+      "date": "2023-08-23",
+      "description": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "event_type": "arrest",
+      "record_id": "CASE-US-V-STORM",
+      "record_title": "United States v. Storm",
+      "record_type": "case"
+    },
+    {
+      "date": "2023-08-23",
+      "description": "United States v. Storm, No. 1:23-cr-00430 (S.D.N.Y.), is the federal criminal prosecution of Tornado Cash co-founder Roman Storm; in August 2025 he was convicted of conspiring to operate an unlicensed money transmitting business.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-STORM",
+      "record_title": "United States v. Storm",
+      "record_type": "case"
+    },
+    {
       "date": "2023-10-30",
       "description": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC\u2019s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.",
       "event_type": "decision",
@@ -176,6 +208,22 @@
       "record_id": "CASE-NL-V-PERTSEV",
       "record_title": "Netherlands v. Pertsev (Tornado Cash)",
       "record_type": "case"
+    },
+    {
+      "date": "2024-08-24",
+      "description": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "event_type": "arrest",
+      "record_id": "PERSON-PAVEL-DUROV",
+      "record_title": "Pavel Durov",
+      "record_type": "person"
+    },
+    {
+      "date": "2024-08-28",
+      "description": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
+      "event_type": "charge",
+      "record_id": "PERSON-PAVEL-DUROV",
+      "record_title": "Pavel Durov",
+      "record_type": "person"
     },
     {
       "date": "2024-11-26",
@@ -202,9 +250,17 @@
       "record_type": "case"
     },
     {
+      "date": "2025-11-13",
+      "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
+      "event_type": "indictment",
+      "record_id": "CASE-US-V-TUNICK",
+      "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
       "date": "2026-07-29",
       "description": "On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.",
-      "event_type": "historical_event",
+      "event_type": "charge",
       "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
       "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
       "record_type": "historical_event"

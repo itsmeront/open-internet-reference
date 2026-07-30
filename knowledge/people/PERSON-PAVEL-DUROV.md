@@ -46,6 +46,8 @@ relationships:
     sources:
       - SRC-AP-DUROV-FSB-2026
 last_verified: "2026-07-29"
+arrest_date: "2024-08-24"
+charge_date: "2024-08-28"
 ---
 
 # Pavel Durov
@@ -110,6 +112,7 @@ See [EVENT-FSB-DUROV-TELEGRAM-2026](../legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) a
 
 - Locate FSB primary statement and Russian Criminal Code text for Article 205.1 Part 1.1 as applied.
 - Create a dedicated French-proceedings event/case page with prosecutor statements and docket identifiers.
+- Confirm French arrest calendar date (page uses 2024-08-24 from “late Saturday” before the Wednesday 2024-08-28 charging reported by AFP/France 24).
 - Corroborate dual-citizenship and Dubai-residence claims with independent sources beyond Telegram's press page.
 - Document Nikolai Durov's role with primary sources if OIR adds a separate person page.
 - Identify counsel for the 2026 Russian warrant (if any public representation exists) and any commercial law firms retained by Telegram.

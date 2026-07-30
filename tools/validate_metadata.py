@@ -74,6 +74,9 @@ TIMELINE_DATE_FIELDS = (
     ("decision_date", "decision", "Decision"),
     ("enactment_date", "enactment", "Enactment"),
     ("legislative_override_date", "legislative_override", "Legislative override"),
+    ("charge_date", "charge", "Charge"),
+    ("arrest_date", "arrest", "Arrest"),
+    ("indictment_date", "indictment", "Indictment"),
 )
 REQUIRED_FIELDS = {
     "id",
@@ -176,7 +179,8 @@ def validate_metadata(
             ValidationError(
                 path,
                 "historical_event pages must include at least one timeline date "
-                "(event_date, decision_date, enactment_date, or legislative_override_date)",
+                "(event_date, decision_date, enactment_date, legislative_override_date, "
+                "charge_date, arrest_date, or indictment_date)",
             )
         )
 

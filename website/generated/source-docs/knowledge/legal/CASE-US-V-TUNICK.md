@@ -47,6 +47,7 @@ relationships:
     sources:
       - SRC-TUNICK-MOTION-SUPPRESS-2026
 last_verified: "2026-07-27"
+indictment_date: "2025-11-13"
 ---
 
 # Generated Source Mirror
@@ -147,4 +148,5 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 
 ## Document metadata
 
+- Indictment date: `2025-11-13`
 - Last verified: `2026-07-27`

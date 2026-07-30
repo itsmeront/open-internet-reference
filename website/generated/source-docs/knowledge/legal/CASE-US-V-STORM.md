@@ -35,6 +35,8 @@ relationships:
       - SRC-TREASURY-SEMENOV-2023
 last_verified: "2026-07-23"
 decision_date: "2025-08"
+arrest_date: "2023-08-23"
+indictment_date: "2023-08-23"
 ---
 
 # Generated Source Mirror
@@ -106,4 +108,6 @@ Jurisdiction: U.S. District Court, Southern District of New York (criminal). Cha
 ## Document metadata
 
 - Decision date: `2025-08`
+- Arrest date: `2023-08-23`
+- Indictment date: `2023-08-23`
 - Last verified: `2026-07-23`

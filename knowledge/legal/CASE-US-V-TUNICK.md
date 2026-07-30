@@ -47,6 +47,7 @@ relationships:
     sources:
       - SRC-TUNICK-MOTION-SUPPRESS-2026
 last_verified: "2026-07-27"
+indictment_date: "2025-11-13"
 ---
 
 # United States v. Tunick

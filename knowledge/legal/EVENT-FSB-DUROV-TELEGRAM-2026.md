@@ -43,7 +43,7 @@ relationships:
     sources:
       - SRC-AP-DUROV-FSB-2026
 last_verified: "2026-07-29"
-event_date: "2026-07-29"
+charge_date: "2026-07-29"
 ---
 
 # Russia FSB Charges Against Pavel Durov / Telegram (July 2026)

@@ -35,6 +35,8 @@ relationships:
       - SRC-TREASURY-SEMENOV-2023
 last_verified: "2026-07-23"
 decision_date: "2025-08"
+arrest_date: "2023-08-23"
+indictment_date: "2023-08-23"
 ---
 
 # United States v. Storm
