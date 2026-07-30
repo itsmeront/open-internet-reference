@@ -74,7 +74,7 @@ Jurisdiction: U.S. District Court, Southern District of New York (criminal). Doc
 
 ## Research Debt
 
-- Add SDNY docket number, indictment PDF, and plea agreement text.
+- Add SDNY docket number, indictment PDF, and plea agreement text; add `indictment_date` / `arrest_date` once primary charging materials are intake'd.
 - Add DOJ USAO-SDNY parallel press releases as cross-sources.
 - Document whether money-laundering counts were charged and dismissed or not pursued.
 - Add technical primary sources describing Whirlpool/Ricochet architecture.
