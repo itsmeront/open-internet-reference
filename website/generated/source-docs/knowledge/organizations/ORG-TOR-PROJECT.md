@@ -45,7 +45,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -91,3 +90,7 @@ Analysis has not yet been drafted. Future work should add primary research sourc
 - Add independent sources for technical work and governance.
 - Create a separate contact record only after outreach use requirements are defined.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

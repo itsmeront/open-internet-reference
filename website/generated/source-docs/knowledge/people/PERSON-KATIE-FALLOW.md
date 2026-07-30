@@ -50,7 +50,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 4
     - **Research debt items**: 6
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -99,3 +98,7 @@ Fallow's litigation on digital public forums, government social media blocking, 
 - Document post-FTC litigation focus areas.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

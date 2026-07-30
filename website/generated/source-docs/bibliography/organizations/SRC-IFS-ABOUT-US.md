@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -49,3 +48,8 @@ Official IFS mission and history page. Primary source for organization's focus o
 ## Used For
 
 - [`ORG-INSTITUTE-FOR-FREE-SPEECH`](../../../used-for.md#org-institute-for-free-speech)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -50,3 +49,9 @@ Open Casebook reproduction of the Second Circuit opinion. Case citation: 273 F.3
 ## Used For
 
 - [`CASE-UNIVERSAL-V-CORLEY`](../../../used-for.md#case-universal-v-corley)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2001-11-28`
+- Access date: `2026-06-25`

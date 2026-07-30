@@ -51,7 +51,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 4
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -99,3 +98,7 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 - Add later § 512 case law with primary sources.
 - Distinguish U.S. safe harbor doctrine from other jurisdictions.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

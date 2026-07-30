@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -86,3 +85,7 @@ He complements network architects (Cerf, Reed) by addressing the application and
 - Add ACM Turing Award page as secondary source.
 - Add bibliography source for the 1984 end-to-end paper only if cross-linking Reed; separate Kay prior-art timeline sources for GUI/OOP.
 - Document specific expert reports or depositions with primary citations.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

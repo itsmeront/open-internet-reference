@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -81,3 +80,7 @@ Blaze's research in cryptography and secure systems directly informs how softwar
 - Document key publications in cryptography and trust management.
 - Add detail on Salt Typhoon testimony and its implications.
 - Document relationship with Tor Project board role.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

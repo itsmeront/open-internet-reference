@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -49,3 +48,8 @@ Official biography maintained by Heather Meeker. Primary source for her open sou
 ## Used For
 
 - [`PERSON-HEATHER-MEEKER`](../../../used-for.md#person-heather-meeker)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

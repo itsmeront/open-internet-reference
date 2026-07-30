@@ -44,7 +44,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 4
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -94,3 +93,7 @@ Assumptions: This page relies on GrapheneOS’s public feature description rathe
 - Locate a primary court filing that names GrapheneOS (if any) rather than relying on press-attributed counsel statements.
 - Add GrapheneOS about/FAQ and supported-device documentation source records.
 - Document other OS/vendor “duress wipe” or panic-credential features for comparative technical context.
+
+## Document metadata
+
+- Last verified: `2026-07-27`

@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -52,3 +51,8 @@ Official EFF contact page. Contact details are time-sensitive and should be reve
 - [Electronic Frontier Foundation](../../knowledge/organizations/ORG-EFF.md)
 - [Digital civil liberties organizations](../../../used-for.md#digital-civil-liberties-organizations)
 - [Outreach contact verification](../../../used-for.md#outreach-contact-verification)
+
+## Document metadata
+
+- Last verified: `2026-06-17`
+- Access date: `2026-06-17`

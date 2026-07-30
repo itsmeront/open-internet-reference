@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,8 @@ Official firm practice page. Organizational descriptions and practice capabiliti
 
 - [`ORG-PERKINS-COIE`](../../../used-for.md#org-perkins-coie)
 - [`CONTACT-PERKINS-COIE`](../../../used-for.md#contact-perkins-coie)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Access date: `2026-06-25`

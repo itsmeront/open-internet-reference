@@ -32,7 +32,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -72,3 +71,7 @@ Chestek is relevant when software projects or companies face trademark disputes 
 - Add ORG-OSI affiliation relationship with historical dates for board service.
 - Document representative GPL and trademark enforcement articles.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

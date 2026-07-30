@@ -41,7 +41,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 1
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -88,3 +87,7 @@ EPIC's work on surveillance, consumer privacy, AI accountability, and platform g
 ## Research Debt
 
 - Add intake path for organizations seeking EPIC advocacy support.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

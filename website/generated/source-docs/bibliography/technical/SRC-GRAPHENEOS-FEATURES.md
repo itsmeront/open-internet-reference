@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -51,3 +50,9 @@ Official project documentation. Primary for what GrapheneOS states the duress PI
 
 - [`TECH-GRAPHENEOS`](../../../used-for.md#tech-grapheneos)
 - [`CASE-US-V-TUNICK`](../../../used-for.md#case-us-v-tunick)
+
+## Document metadata
+
+- Last verified: `2026-07-27`
+- Publication date: `null (living documentation)`
+- Access date: `2026-07-27`

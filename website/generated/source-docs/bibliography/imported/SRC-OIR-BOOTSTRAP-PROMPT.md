@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: Never
 
 ---
 
@@ -50,3 +49,8 @@ This is foundational project guidance, not an external factual authority. It may
 - [Repository foundation](../../../used-for.md#repository-foundation)
 - [Project charter alignment](../../../used-for.md#project-charter-alignment)
 - [Initial data model and workflow conventions](../../../used-for.md#initial-data-model-and-workflow-conventions)
+
+## Document metadata
+
+- Last verified: _not recorded_
+- Access date: `2026-06-17`

@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -54,3 +53,8 @@ Cornell LII is a high-confidence legal reference. For formal citation or final p
 - [Computer crime](../../../used-for.md#computer-crime)
 - [Computer Fraud and Abuse Act](../../../used-for.md#computer-fraud-and-abuse-act)
 - [Technology law](../../../used-for.md#technology-law)
+
+## Document metadata
+
+- Last verified: `2026-06-17`
+- Access date: `2026-06-17`

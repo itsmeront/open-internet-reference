@@ -87,6 +87,165 @@
       ]
     },
     {
+      "source_id": "SRC-AP-DUROV-FSB-2026",
+      "source_title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
+      "usages": [
+        {
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-AP-DUROV-FSB-2026",
+          "predicate": "cites",
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "subject": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "record_title": "Documented Proceedings Involving Software Authors and Operators",
+          "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "predicate": "related_to",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-INTERMEDIARY-LIABILITY",
+          "record_title": "Intermediary Liability",
+          "subject": "TOPIC-INTERMEDIARY-LIABILITY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BBC-DUROV-FSB-2026",
+      "source_title": "BBC News \u2014 Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism",
+      "usages": [
+        {
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BERNERS-LEE-W3C",
       "source_title": "Tim Berners-Lee W3C Biography",
       "usages": [
@@ -216,6 +375,35 @@
           "record_id": "PERSON-CINDY-COHN",
           "record_title": "Cindy Cohn",
           "subject": "PERSON-CINDY-COHN",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BERNSTEIN-JUSTIA",
+          "predicate": "cites",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BERNSTEIN-V-DOJ",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
           "usage": "relationship_source"
         },
         {
@@ -890,6 +1078,27 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CORLEY-LII",
+          "predicate": "cites",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-UNIVERSAL-V-CORLEY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
           "record_title": "Documented Proceedings Involving Software Authors and Operators",
           "usage": "page_source"
@@ -1337,6 +1546,46 @@
       ]
     },
     {
+      "source_id": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+      "source_title": "France 24 / AFP \u2014 Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted",
+      "usages": [
+        {
+          "record_id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "record_title": "David-Olivier Kaminski",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+          "predicate": "cites",
+          "record_id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "record_title": "David-Olivier Kaminski",
+          "subject": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "related_to",
+          "record_id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "record_title": "David-Olivier Kaminski",
+          "subject": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-DAVID-OLIVIER-KAMINSKI",
+          "predicate": "represented_by",
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FSF-ABOUT",
       "source_title": "Free Software Foundation About Page",
       "usages": [
@@ -1760,6 +2009,27 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JUNGER-CMU",
+          "predicate": "cites",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-JUNGER-V-DALEY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-CODE-AS-SPEECH",
+          "record_title": "Code as Speech",
+          "subject": "TOPIC-CODE-AS-SPEECH",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
           "record_title": "Documented Proceedings Involving Software Authors and Operators",
           "usage": "page_source"
@@ -2137,6 +2407,22 @@
           "record_title": "Corynne McSherry",
           "subject": "PERSON-CORYNNE-MCSHERRY",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MEDUZA-DUROV-FSB-2026",
+      "source_title": "Meduza \u2014 FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant",
+      "usages": [
+        {
+          "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+          "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
         }
       ]
     },
@@ -2616,6 +2902,46 @@
       ]
     },
     {
+      "source_id": "SRC-RAFTO-AGORA-CHIKOV",
+      "source_title": "Rafto Foundation \u2014 Agora / Pavel Chikov Prize Page",
+      "usages": [
+        {
+          "record_id": "ORG-AGORA",
+          "record_title": "Agora (human rights lawyers' group)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-PAVEL-CHIKOV",
+          "predicate": "affiliated_with",
+          "record_id": "ORG-AGORA",
+          "record_title": "Agora (human rights lawyers' group)",
+          "subject": "ORG-AGORA",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-RAFTO-AGORA-CHIKOV",
+          "predicate": "cites",
+          "record_id": "ORG-AGORA",
+          "record_title": "Agora (human rights lawyers' group)",
+          "subject": "ORG-AGORA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-CHIKOV",
+          "record_title": "Pavel Chikov",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-AGORA",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-PAVEL-CHIKOV",
+          "record_title": "Pavel Chikov",
+          "subject": "PERSON-PAVEL-CHIKOV",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-RCFP-CONTACT",
       "source_title": "Reporters Committee Contact Page",
       "usages": [
@@ -2846,6 +3172,64 @@
           "record_title": "Transmission Control Protocol",
           "subject": "PROTOCOL-TCP",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+      "source_title": "RFE/RL \u2014 Russian Court Orders Telegram App Blocked (2018)",
+      "usages": [
+        {
+          "record_id": "ORG-AGORA",
+          "record_title": "Agora (human rights lawyers' group)",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "record_id": "ORG-AGORA",
+          "record_title": "Agora (human rights lawyers' group)",
+          "subject": "ORG-AGORA",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-PAVEL-CHIKOV",
+          "predicate": "represented_by",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-CHIKOV",
+          "record_title": "Pavel Chikov",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+          "predicate": "cites",
+          "record_id": "PERSON-PAVEL-CHIKOV",
+          "record_title": "Pavel Chikov",
+          "subject": "PERSON-PAVEL-CHIKOV",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAVEL-CHIKOV",
+          "record_title": "Pavel Chikov",
+          "subject": "PERSON-PAVEL-CHIKOV",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
         }
       ]
     },
@@ -3262,6 +3646,65 @@
           "record_id": "TECH-GRAPHENEOS",
           "record_title": "GrapheneOS",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TELEGRAM-FAQ",
+      "source_title": "Telegram FAQ",
+      "usages": [
+        {
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TELEGRAM-FAQ",
+          "predicate": "cites",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TELEGRAM-PRESS",
+      "source_title": "Telegram Press Info",
+      "usages": [
+        {
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-PAVEL-DUROV",
+          "predicate": "affiliated_with",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-TELEGRAM-PRESS",
+          "predicate": "cites",
+          "record_id": "ORG-TELEGRAM",
+          "record_title": "Telegram",
+          "subject": "ORG-TELEGRAM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-PAVEL-DUROV",
+          "record_title": "Pavel Durov",
+          "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
         }
       ]
     },

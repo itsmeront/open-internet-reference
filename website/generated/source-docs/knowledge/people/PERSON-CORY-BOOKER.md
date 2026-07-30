@@ -47,7 +47,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 3
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -103,3 +102,7 @@ Limits on surveillance advertising affect ad-supported platforms, analytics vend
 
 - Add Booker office source confirming current committee assignments.
 - Document Booker's broader technology and privacy positions beyond surveillance advertising.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

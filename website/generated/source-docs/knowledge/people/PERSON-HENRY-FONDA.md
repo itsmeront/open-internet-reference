@@ -38,7 +38,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-18
 
 ---
 
@@ -78,3 +77,7 @@ Historical context only. The original Committee's opposition to political blackl
 - Corroborate Henry Fonda's membership in the 1947 Committee with primary archival sources (HUAC-era records, contemporaneous press, or scholarly histories).
 - Add a dedicated historical-event record for the original Committee founding if archival work supports it.
 - Distinguise verified historical facts from relaunch-era narrative framing.
+
+## Document metadata
+
+- Last verified: `2026-07-18`

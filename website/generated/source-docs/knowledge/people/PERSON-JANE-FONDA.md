@@ -45,7 +45,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-18
 
 ---
 
@@ -88,3 +87,7 @@ Fonda is not a technologist or attorney, but her leadership of a high-profile fr
 - Add an official biography or statement authored by Fonda on the Committee site once a durable URL is available.
 - Corroborate Fonda's formal role (chair, convener, spokesperson, etc.) with Committee-published materials.
 - Do not add individual signatory person records until official sources confirm names and affiliations.
+
+## Document metadata
+
+- Last verified: `2026-07-18`

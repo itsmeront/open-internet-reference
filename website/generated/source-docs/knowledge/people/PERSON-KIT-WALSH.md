@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 2
     - **Research debt items**: 5
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -82,3 +81,7 @@ Walsh's explicit focus on "coders' rights" and her work at the intersection of f
 - Document how software developers can engage with EFF on coders' rights issues.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-06-25`

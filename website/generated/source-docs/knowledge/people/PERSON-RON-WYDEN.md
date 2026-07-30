@@ -59,7 +59,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 5
     - **Relationships**: 5
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -129,3 +128,7 @@ As co-author of Section 230, Wyden is directly responsible for the legal framewo
 - Create statute page for Fourth Amendment Is Not For Sale Act.
 - Create statute page for USA RIGHTS Act.
 - Create statute page for EARN IT Act (documenting opposition context).
+
+## Document metadata
+
+- Last verified: `2026-07-19`

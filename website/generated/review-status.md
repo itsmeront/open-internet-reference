@@ -4,24 +4,24 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 275
-- Records needing review: 159
+- Records: 289
+- Records needing review: 173
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 159
+- [`draft`](#draft-records): 173
 - [`verified`](#verified-records): 116
 
 ## By Type
 
-- [`attorney`](#attorney-records): 16
+- [`attorney`](#attorney-records): 18
 - [`case`](#case-records): 18
-- [`historical_event`](#historical-event-records): 2
-- [`organization`](#organization-records): 20
-- [`person`](#person-records): 28
+- [`historical_event`](#historical-event-records): 3
+- [`organization`](#organization-records): 22
+- [`person`](#person-records): 29
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 168
+- [`source`](#source-records): 176
 - [`statute`](#statute-records): 6
 - [`technology`](#technology-records): 2
 - [`topic`](#topic-records): 12
@@ -46,9 +46,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
+- [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
@@ -66,6 +68,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`ORG-WILSON-SONSINI: Wilson Sonsini Goodrich & Rosati`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md)
 - [`PERSON-AARON-WILLIAMSON: Aaron Williamson`](source-docs/knowledge/people/PERSON-AARON-WILLIAMSON.md)
@@ -78,6 +81,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
+- [`PERSON-DAVID-OLIVIER-KAMINSKI: David-Olivier Kaminski`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
@@ -100,6 +104,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
 - [`PERSON-PAMELA-CHESTEK: Pamela Chestek`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
 - [`PERSON-PAUL-VIXIE: Paul Vixie`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
+- [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-RO-KHANNA: Ro Khanna`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
@@ -115,6 +121,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
@@ -127,6 +135,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
@@ -137,6 +146,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
 - [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
@@ -147,8 +157,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+- [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
@@ -214,9 +228,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
+- [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
@@ -234,6 +250,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`ORG-WILSON-SONSINI: Wilson Sonsini Goodrich & Rosati`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md)
 - [`PERSON-AARON-WILLIAMSON: Aaron Williamson`](source-docs/knowledge/people/PERSON-AARON-WILLIAMSON.md)
@@ -246,6 +263,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
+- [`PERSON-DAVID-OLIVIER-KAMINSKI: David-Olivier Kaminski`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
@@ -268,6 +286,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
 - [`PERSON-PAMELA-CHESTEK: Pamela Chestek`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
 - [`PERSON-PAUL-VIXIE: Paul Vixie`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
+- [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-RO-KHANNA: Ro Khanna`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
@@ -283,6 +303,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
@@ -295,6 +317,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
@@ -305,6 +328,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
 - [`SRC-OFAC-TC-REMOVAL-20250321: OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md)
 - [`SRC-OIR-BOOTSTRAP-PROMPT: OIR Bootstrap Prompt`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md)
@@ -315,8 +339,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERKINS-COIE-TECH: Perkins Coie Technology Transactions & Privacy Law Practice Page`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md)
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
+- [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+- [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
@@ -482,6 +510,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-BEN-WIZNER: Ben Wizner`](source-docs/knowledge/people/PERSON-BEN-WIZNER.md)
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - [`PERSON-CORYNNE-MCSHERRY: Corynne McSherry`](source-docs/knowledge/people/PERSON-CORYNNE-MCSHERRY.md)
+- [`PERSON-DAVID-OLIVIER-KAMINSKI: David-Olivier Kaminski`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
@@ -493,6 +522,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-MITCH-STOLTZ: Mitch Stoltz`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
 - [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`PERSON-PAMELA-CHESTEK: Pamela Chestek`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
+- [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
 
 ## case Records { #case-records }
 
@@ -517,12 +547,14 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## historical_event Records { #historical-event-records }
 
+- [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 
 ## organization Records { #organization-records }
 
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
+- [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
 - [`ORG-CDT: Center for Democracy and Technology`](source-docs/knowledge/organizations/ORG-CDT.md)
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`ORG-COOLEY: Cooley`](source-docs/knowledge/organizations/ORG-COOLEY.md)
@@ -540,6 +572,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-SFLC: Software Freedom Law Center`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY: Software Freedom Conservancy`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
+- [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`ORG-WILSON-SONSINI: Wilson Sonsini Goodrich & Rosati`](source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md)
 
@@ -561,6 +594,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - [`PERSON-ORIN-KERR: Orin Kerr`](source-docs/knowledge/people/PERSON-ORIN-KERR.md)
 - [`PERSON-PAUL-VIXIE: Paul Vixie`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
+- [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-RO-KHANNA: Ro Khanna`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
@@ -586,6 +620,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-ABDO-KNIGHT: Alex Abdo Knight Institute Biography`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
 - [`SRC-ACLU-CONTACT: American Civil Liberties Union Contact Page`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md)
 - [`SRC-ACLU-HISTORY: American Civil Liberties Union History Page`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+- [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+- [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BERNERS-LEE-W3C: Tim Berners-Lee W3C Biography`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
 - [`SRC-BERNSTEIN-EFF: Bernstein v. US Dept. of Justice EFF Case Page`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 - [`SRC-BERNSTEIN-EFF-25: EFF at 25 - Remembering the Case that Established Code as Speech`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
@@ -629,6 +665,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+- [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -659,6 +696,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
+- [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
 - [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
@@ -681,6 +719,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
 - [`SRC-PUBLIC-KNOWLEDGE-ABOUT: Public Knowledge About Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md)
 - [`SRC-PUBLIC-KNOWLEDGE-CONTACT: Public Knowledge Contact Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
+- [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
 - [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
 - [`SRC-RCFP-WHAT-WE-DO: Reporters Committee What We Do Page`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
 - [`SRC-REED-BIO: David P. Reed Official Biography`](source-docs/bibliography/people/SRC-REED-BIO.md)
@@ -690,6 +729,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-RFC-1034: RFC 1034: Domain Names - Concepts and Facilities`](source-docs/bibliography/technical/SRC-RFC-1034.md)
 - [`SRC-RFC-8446: RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3`](source-docs/bibliography/technical/SRC-RFC-8446.md)
 - [`SRC-RFC-9293: RFC 9293: Transmission Control Protocol (TCP)`](source-docs/bibliography/technical/SRC-RFC-9293.md)
+- [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - [`SRC-RIVEST-CSAIL: Ronald L. Rivest MIT CSAIL Profile`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md)
 - [`SRC-RUSSELL-PROFILE: Andrew L. Russell Professional Profile`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
 - [`SRC-SCHNEIER-ABOUT: Bruce Schneier About Page`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
@@ -708,6 +748,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-STOLTZ-EFF-BIO: Mitch Stoltz EFF Staff Biography`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md)
 - [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
+- [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+- [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - [`SRC-TIEN-EFF: Lee Tien EFF Staff Biography`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)

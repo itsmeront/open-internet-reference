@@ -59,7 +59,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 4
     - **Relationships**: 5
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -121,3 +120,7 @@ Software Freedom Conservancy directly supports open source projects by providing
 - Add a maintained member-project list with an official Conservancy source.
 - Document copyleft enforcement cases and outcomes with court or settlement records where public.
 - Add independent comparison of Conservancy fiscal sponsorship versus SFLC legal services.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

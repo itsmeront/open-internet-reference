@@ -26,7 +26,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -49,3 +48,9 @@ Cornell LII is a high-confidence legal reference for U.S. Code text. For formal 
 
 - [`STAT-18-USC-2232`](../../../used-for.md#stat-18-usc-2232)
 - [`CASE-US-V-TUNICK`](../../../used-for.md#case-us-v-tunick)
+
+## Document metadata
+
+- Last verified: `2026-07-27`
+- Publication date: `null`
+- Access date: `2026-07-27`

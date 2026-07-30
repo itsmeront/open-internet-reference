@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -51,3 +50,9 @@ Official Treasury press release. Primary authority for the first OFAC mixer desi
 - [`EVENT-OFAC-BLENDER-2022`](../../../used-for.md#event-ofac-blender-2022)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](../../../used-for.md#topic-developer-software-liability)
 - [`TOPIC-TORNADO-CASH`](../../../used-for.md#topic-tornado-cash)
+
+## Document metadata
+
+- Last verified: `2026-07-23`
+- Publication date: `2022-05-06`
+- Access date: `2026-07-23`

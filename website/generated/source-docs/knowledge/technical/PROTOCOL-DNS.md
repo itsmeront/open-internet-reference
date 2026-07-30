@@ -32,7 +32,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -71,3 +70,7 @@ Technical analysis has not yet been drafted. Future work should describe DNS con
 - Add related DNS RFCs.
 - Add relationships to internet architecture and naming-system topics after those pages exist.
 - Add current operational context from modern DNS standards and authoritative sources.
+
+## Document metadata
+
+- Last verified: `2026-06-17`

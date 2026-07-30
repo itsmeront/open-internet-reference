@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-17
 
 ---
 
@@ -55,3 +54,9 @@ Canonical academic paper for Kademlia. The DOI points to the Springer publicatio
 - [Distributed hash tables](../../../used-for.md#distributed-hash-tables)
 - [Peer-to-peer networking](../../../used-for.md#peer-to-peer-networking)
 - [Distributed systems](../../../used-for.md#distributed-systems)
+
+## Document metadata
+
+- Last verified: `2026-06-17`
+- Publication date: `2002`
+- Access date: `2026-06-17`

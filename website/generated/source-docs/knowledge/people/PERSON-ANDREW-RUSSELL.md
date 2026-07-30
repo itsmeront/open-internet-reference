@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -85,3 +84,7 @@ Pair with internet architecture participants (Cerf, Kahn, Reed) when both design
 - Add SUNY Polytechnic Institute official directory entry when available (title verification).
 - Add Computer History Museum profile as secondary source.
 - Link to OIR RFC and protocol pages for standards cross-references.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

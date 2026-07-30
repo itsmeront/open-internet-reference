@@ -48,7 +48,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -98,3 +97,7 @@ Assumptions: This page relies on the Fifth Circuit’s technical primer and OFAC
 - Add primary source materials for GitHub account/repository suspensions and Circle USDC blacklisting (issuer/on-chain events or official statements).
 - Add contract addresses and immutability proofs from Ethereum explorers or project releases with archival URLs.
 - Relate to `PROTOCOL-TCP` and network-layer censorship literature only after evidence-backed comparison sources are added.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -54,3 +53,8 @@ Official Signal documentation for protocol specifications. Technical claims shou
 - [Signal Protocol](../../../used-for.md#signal-protocol)
 - [Secure messaging](../../../used-for.md#secure-messaging)
 - [Cryptographic protocol specifications](../../../used-for.md#cryptographic-protocol-specifications)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

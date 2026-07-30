@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -52,3 +51,8 @@ Official House press release. Primary source for Lofgren's role in CFAA reform l
 - [`PERSON-ZOE-LOFGREN`](../../../used-for.md#person-zoe-lofgren)
 - [`PERSON-RON-WYDEN`](../../../used-for.md#person-ron-wyden)
 - [`PERSON-RAND-PAUL`](../../../used-for.md#person-rand-paul)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Access date: `2026-06-25`

@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -83,3 +82,7 @@ Rivest is particularly useful when a case involves:
 
 - Add specific congressional testimony and amicus participation with primary citations.
 - Document election-security publications (ThreeBallot, Scantegrity) as linked topic pages.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

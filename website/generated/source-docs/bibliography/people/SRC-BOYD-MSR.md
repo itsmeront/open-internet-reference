@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -50,3 +49,9 @@ Official Microsoft Research researcher profile. Supplementary institutional post
 ## Used For
 
 - [`PERSON-DANAH-BOYD`](../../../used-for.md#person-danah-boyd)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Publication date: `Not dated (profile active; institutional blog posts 2013–2023)`
+- Access date: `2026-07-04`

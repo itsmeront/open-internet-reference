@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -52,3 +51,8 @@ GovInfo is an official U.S. Government Publishing Office source for the U.S. Cod
 - [`TOPIC-COMPUTER-FRAUD`](../../../used-for.md#topic-computer-fraud)
 - [Computer crime](../../../used-for.md#computer-crime)
 - [Computer Fraud and Abuse Act](../../../used-for.md#computer-fraud-and-abuse-act)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

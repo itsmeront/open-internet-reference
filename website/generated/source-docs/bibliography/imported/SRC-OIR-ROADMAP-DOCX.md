@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: Never
 
 ---
 
@@ -52,3 +51,8 @@ This file is an internal planning source. It should guide milestone planning, bu
 - [Roadmap structure](../../../used-for.md#roadmap-structure)
 - [Foundation milestones](../../../used-for.md#foundation-milestones)
 - [Backlog planning](../../../used-for.md#backlog-planning)
+
+## Document metadata
+
+- Last verified: _not recorded_
+- Access date: `2026-06-17`

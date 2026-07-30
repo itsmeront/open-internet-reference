@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 306
+Edge count: 341
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -349,6 +349,31 @@ Edge count: 306
 - Declared in: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
+## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `cites` [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+- Declared in: [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
+- Declared in: [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+- Declared in: [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
 ## [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md) `cites` [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 
 - Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
@@ -398,6 +423,23 @@ Edge count: 306
 
 - Declared in: [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - Sources: [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+
+## [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `affiliated_with` [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+
+- Declared in: [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Sources: [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+
+## [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `cites` [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+
+- Declared in: [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Sources: [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+
+## [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+Connection is via reported Telegram representation by Chikov; not a claim that Agora is Telegram's standing corporate counsel.
 
 ## [`ORG-CDT`](source-docs/knowledge/organizations/ORG-CDT.md) `cites` [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 
@@ -609,6 +651,38 @@ Edge count: 306
 - Declared in: [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md)
 - Sources: [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md), [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `affiliated_with` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `cites` [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-TELEGRAM-FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
+
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `cites` [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `represented_by` [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+
+- Declared in: [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking litigation; scope and duration beyond that episode need corroboration.
+
 ## [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md) `cites` [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 
 - Declared in: [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
@@ -748,6 +822,16 @@ Edge count: 306
 
 - Declared in: [`PERSON-DANAH-BOYD`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - Sources: [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md)
+
+## [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md) `cites` [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+
+- Declared in: [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+- Sources: [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+
+## [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
+- Declared in: [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+- Sources: [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 
 ## [`PERSON-DAVID-REED`](source-docs/knowledge/people/PERSON-DAVID-REED.md) `cites` [`SRC-REED-BIO`](source-docs/bibliography/people/SRC-REED-BIO.md)
 
@@ -978,6 +1062,48 @@ Edge count: 306
 
 - Declared in: [`PERSON-PAUL-VIXIE`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md)
 - Sources: [`SRC-VIXIE-IHOF`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
+
+## [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `affiliated_with` [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+
+- Declared in: [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Sources: [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+
+## [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `cites` [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+- Declared in: [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+## [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+## [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `affiliated_with` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Sources: [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+
+## [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+
+- Declared in: [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+- Declared in: [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `represented_by` [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
+
+- Declared in: [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Sources: [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+
+France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French charging episode.
 
 ## [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
 
@@ -1249,6 +1375,21 @@ Edge count: 306
 - Declared in: [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
 ## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
 
 - Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
@@ -1259,10 +1400,30 @@ Edge count: 306
 - Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Sources: [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
 ## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-RENO-V-ACLU`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 
 - Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - Sources: [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
+
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`CASE-UNIVERSAL-V-CORLEY`](source-docs/knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md)
+
+## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 
 ## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
@@ -1319,6 +1480,11 @@ Edge count: 306
 - Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Sources: [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
 
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
 ## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 
 - Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
@@ -1328,6 +1494,11 @@ Edge count: 306
 
 - Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
+- Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 
 ## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 
@@ -1448,6 +1619,16 @@ Edge count: 306
 
 - Declared in: [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - Sources: [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+
+## [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
+
+- Declared in: [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
+
+## [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Sources: [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 
 ## [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`STAT-DMCA-512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 

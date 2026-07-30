@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -84,3 +83,7 @@ Analysis has not yet been drafted. Future work should use independent sources to
 
 - Add independent sources for history and technology-related civil liberties work.
 - Create a separate contact record only after outreach use requirements are defined.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

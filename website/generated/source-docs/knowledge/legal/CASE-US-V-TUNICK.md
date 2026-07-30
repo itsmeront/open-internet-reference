@@ -63,7 +63,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 7
     - **Relationships**: 5
     - **Research debt items**: 5
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -145,3 +144,7 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 - Track the suppression ruling and any trial or plea outcome; update status when adjudicated.
 - Consider a focused topic page on border device searches / digital wipe features once additional cases are intake-reviewed.
 - Domain expert (criminal procedure / border search) review before any status above `draft`.
+
+## Document metadata
+
+- Last verified: `2026-07-27`

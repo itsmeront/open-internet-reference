@@ -47,7 +47,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 3
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -95,3 +94,7 @@ Jurisdiction: U.S. District Court, Southern District of New York (criminal). Doc
 - Add DOJ USAO-SDNY parallel press releases as cross-sources.
 - Document whether money-laundering counts were charged and dismissed or not pursued.
 - Add technical primary sources describing Whirlpool/Ricochet architecture.
+
+## Document metadata
+
+- Last verified: `2026-07-23`

@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -53,3 +52,10 @@ Primary court filing reflecting defense allegations and legal arguments. Not an 
 ## Used For
 
 - [`CASE-US-V-TUNICK`](../../../used-for.md#case-us-v-tunick)
+
+## Document metadata
+
+- Last verified: `2026-07-27`
+- Publication date: `2026-03-17`
+- Access date: `2026-07-27`
+- Archive URL: `None recorded beyond RECAP hosting`

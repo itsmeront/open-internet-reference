@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -50,3 +49,9 @@ Official Georgetown University announcement of Blaze's appointment. Describes hi
 ## Used For
 
 - [`PERSON-MATT-BLAZE`](../../../used-for.md#person-matt-blaze)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2019`
+- Access date: `2026-06-25`

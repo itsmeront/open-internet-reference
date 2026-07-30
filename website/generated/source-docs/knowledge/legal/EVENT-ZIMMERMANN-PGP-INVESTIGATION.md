@@ -38,6 +38,7 @@ relationships:
     sources:
       - SRC-ZIMMERMANN-INVESTIGATION-CLOSED
 last_verified: "2026-07-23"
+event_date: "1996-01"
 ---
 
 # Generated Source Mirror
@@ -54,7 +55,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 4
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -102,3 +102,8 @@ No indictment or conviction issued. Documented outcome is prosecutorial declinat
 - Locate original U.S. Attorney PDF/letter on a government archive if available.
 - Add Arms Export Control Act / ITAR regulatory citations contemporaneous to the investigation.
 - Link published PGP source-code book (MIT Press) as a dedicated source record.
+
+## Document metadata
+
+- Event date: `1996-01`
+- Last verified: `2026-07-23`

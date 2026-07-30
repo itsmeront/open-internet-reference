@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -55,3 +54,8 @@ GovInfo is an official U.S. Government Publishing Office source for the U.S. Cod
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](../../../used-for.md#topic-dmca-takedown-response)
 - [Copyright safe harbor](../../../used-for.md#copyright-safe-harbor)
 - [Intermediary liability](../../knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

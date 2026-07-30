@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -79,3 +78,7 @@ Technology law expertise covering IP, privacy, open source compliance, M&A dilig
 - Add independent sources for firm history and notable matters.
 - Document specific open source and software licensing expertise.
 - Identify key attorneys in the technology practice relevant to open internet issues.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

@@ -52,7 +52,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 4
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -103,3 +102,7 @@ SFLC provides direct legal services to open source projects at no cost. They hel
 
 - Document notable cases handled by SFLC with docket or case-page sources.
 - Add independent comparison of SFLC legal services versus Conservancy fiscal sponsorship using official materials from both organizations.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

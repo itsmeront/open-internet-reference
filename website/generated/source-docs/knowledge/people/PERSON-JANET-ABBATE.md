@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -84,3 +83,7 @@ Pair with participant experts (Cerf, Kahn, Weinstein) when both firsthand intent
 - Add MIT Press pages for *Inventing the Internet* as secondary bibliographic sources.
 - Document specific expert declarations or testimony with primary court records, if any.
 - Link to OIR protocol and governance topic pages once cross-relationships are verified.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

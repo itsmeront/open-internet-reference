@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -49,3 +48,8 @@ Official GW Law faculty listing. Primary source for Kerr's academic appointment 
 ## Used For
 
 - [`PERSON-ORIN-KERR`](../../../used-for.md#person-orin-kerr)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

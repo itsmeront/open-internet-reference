@@ -41,7 +41,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -92,3 +91,7 @@ RCFP is primarily oriented toward journalists and newsrooms, but its amicus prac
 - Document technology-related amicus briefs and litigation.
 - Clarify whether RCFP accepts matters involving independent researchers or security disclosures.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-07-04`

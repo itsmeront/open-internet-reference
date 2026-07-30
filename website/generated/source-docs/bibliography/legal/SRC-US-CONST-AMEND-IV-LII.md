@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -54,3 +53,8 @@ Cornell LII is a high-confidence public legal reference, but it is not the offic
 - [Fourth Amendment](../../knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - [Constitutional law seed topics](../../../used-for.md#constitutional-law-seed-topics)
 - [Digital privacy topics](../../../used-for.md#digital-privacy-topics)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

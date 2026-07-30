@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -54,3 +53,9 @@ Justia is a high-confidence public legal reference for appellate opinions, but i
 - [`TOPIC-SAFE-HARBOR`](../../../used-for.md#topic-safe-harbor)
 - [`TOPIC-INTERMEDIARY-LIABILITY`](../../../used-for.md#topic-intermediary-liability)
 - [`STAT-DMCA-512`](../../../used-for.md#stat-dmca-512)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Publication date: `2007`
+- Access date: `2026-06-19`

@@ -48,7 +48,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 3
     - **Research debt items**: 2
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -106,3 +105,7 @@ Lee's surveillance reform bills would restrict warrantless government access to 
 
 - Add source for Lee's Security and Freedom Enhancement (SAFE) Act and other FISA reform bills.
 - Add independent congressional record sources for Government Surveillance Reform Act provisions.
+
+## Document metadata
+
+- Last verified: `2026-07-19`

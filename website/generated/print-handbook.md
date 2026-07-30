@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-27</dd>
+        <dd>2026-07-29</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>107</dd>
+        <dd>113</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>165</dd>
+        <dd>173</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -73,6 +73,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Ben Wizner](#PERSON-BEN-WIZNER) (`PERSON-BEN-WIZNER`)
 - [Cindy Cohn](#PERSON-CINDY-COHN) (`PERSON-CINDY-COHN`)
 - [Corynne McSherry](#PERSON-CORYNNE-MCSHERRY) (`PERSON-CORYNNE-MCSHERRY`)
+- [David-Olivier Kaminski](#PERSON-DAVID-OLIVIER-KAMINSKI) (`PERSON-DAVID-OLIVIER-KAMINSKI`)
 - [Eben Moglen](#PERSON-EBEN-MOGLEN) (`PERSON-EBEN-MOGLEN`)
 - [Esha Bhandari](#PERSON-ESHA-BHANDARI) (`PERSON-ESHA-BHANDARI`)
 - [Heather Meeker](#PERSON-HEATHER-MEEKER) (`PERSON-HEATHER-MEEKER`)
@@ -84,6 +85,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Mitch Stoltz](#PERSON-MITCH-STOLTZ) (`PERSON-MITCH-STOLTZ`)
 - [Nathan Freed Wessler](#PERSON-NATHAN-FREED-WESSLER) (`PERSON-NATHAN-FREED-WESSLER`)
 - [Pamela Chestek](#PERSON-PAMELA-CHESTEK) (`PERSON-PAMELA-CHESTEK`)
+- [Pavel Chikov](#PERSON-PAVEL-CHIKOV) (`PERSON-PAVEL-CHIKOV`)
 
 ### Case
 
@@ -108,12 +110,14 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Historical Event
 
+- [Russia FSB Charges Against Pavel Durov / Telegram (July 2026)](#EVENT-FSB-DUROV-TELEGRAM-2026) (`EVENT-FSB-DUROV-TELEGRAM-2026`)
 - [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
 - [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
 
 ### Organization
 
 - [American Civil Liberties Union](#ORG-ACLU) (`ORG-ACLU`)
+- [Agora (human rights lawyers' group)](#ORG-AGORA) (`ORG-AGORA`)
 - [Center for Democracy and Technology](#ORG-CDT) (`ORG-CDT`)
 - [Committee for the First Amendment](#ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT) (`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`)
 - [Cooley](#ORG-COOLEY) (`ORG-COOLEY`)
@@ -131,6 +135,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Software Freedom Law Center](#ORG-SFLC) (`ORG-SFLC`)
 - [Signal](#ORG-SIGNAL) (`ORG-SIGNAL`)
 - [Software Freedom Conservancy](#ORG-SOFTWARE-FREEDOM-CONSERVANCY) (`ORG-SOFTWARE-FREEDOM-CONSERVANCY`)
+- [Telegram](#ORG-TELEGRAM) (`ORG-TELEGRAM`)
 - [Tor Project](#ORG-TOR-PROJECT) (`ORG-TOR-PROJECT`)
 - [Wilson Sonsini Goodrich & Rosati](#ORG-WILSON-SONSINI) (`ORG-WILSON-SONSINI`)
 
@@ -152,6 +157,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Mike Lee](#PERSON-MIKE-LEE) (`PERSON-MIKE-LEE`)
 - [Orin Kerr](#PERSON-ORIN-KERR) (`PERSON-ORIN-KERR`)
 - [Paul Vixie](#PERSON-PAUL-VIXIE) (`PERSON-PAUL-VIXIE`)
+- [Pavel Durov](#PERSON-PAVEL-DUROV) (`PERSON-PAVEL-DUROV`)
 - [Phil Zimmermann](#PERSON-PHIL-ZIMMERMANN) (`PERSON-PHIL-ZIMMERMANN`)
 - [Rand Paul](#PERSON-RAND-PAUL) (`PERSON-RAND-PAUL`)
 - [Ro Khanna](#PERSON-RO-KHANNA) (`PERSON-RO-KHANNA`)
@@ -239,6 +245,15 @@ Quick reference for knowledge records included in this handbook.
 - **Tags:** attorney, open-source-software, digital-rights
 
 Aaron Williamson is principal attorney at Williamson Legal, PLLC, advising clients on open source software, technology transactions, CFAA and DMCA liability, and nonprofit governance.
+
+### Agora (human rights lawyers' group) { #ORG-AGORA-glossary }
+
+- **Record ID:** `ORG-AGORA`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, civil-society, digital-rights, attorney, encryption-law
+
+Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.
 
 ### Alan Kay { #PERSON-ALAN-KAY-glossary }
 
@@ -344,9 +359,9 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 - **Record ID:** `TOPIC-CODE-AS-SPEECH`
 - **Type:** topic
 - **Status:** draft
-- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law
+- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law, open-source-software, cryptography, copyright
 
-The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.
 
 ### Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN-glossary }
 
@@ -428,6 +443,15 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 - **Tags:** person, internet-architecture, distributed-systems, network-protocols
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
+
+### David-Olivier Kaminski { #PERSON-DAVID-OLIVIER-KAMINSKI-glossary }
+
+- **Record ID:** `PERSON-DAVID-OLIVIER-KAMINSKI`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, intermediary-liability, digital-rights
+
+David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
 
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
@@ -852,6 +876,24 @@ Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, 
 
 Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
 
+### Pavel Chikov { #PERSON-PAVEL-CHIKOV-glossary }
+
+- **Record ID:** `PERSON-PAVEL-CHIKOV`
+- **Type:** attorney
+- **Status:** draft
+- **Tags:** attorney, digital-rights, encryption-law, civil-society, censorship-resistance
+
+Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.
+
+### Pavel Durov { #PERSON-PAVEL-DUROV-glossary }
+
+- **Record ID:** `PERSON-PAVEL-DUROV`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, secure-messaging, privacy, encryption-law, intermediary-liability, digital-rights
+
+Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.
+
 ### Perfect 10, Inc. v. CCBill LLC { #CASE-PERFECT10-V-CCBILL-glossary }
 
 - **Record ID:** `CASE-PERFECT10-V-CCBILL`
@@ -951,6 +993,15 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
 
+### Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026-glossary }
+
+- **Record ID:** `EVENT-FSB-DUROV-TELEGRAM-2026`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
+
+On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
 ### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230-glossary }
 
 - **Record ID:** `STAT-SECTION-230`
@@ -986,6 +1037,15 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
+
+### Telegram { #ORG-TELEGRAM-glossary }
+
+- **Record ID:** `ORG-TELEGRAM`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, privacy, secure-messaging, encryption-law, intermediary-liability, digital-rights
+
+Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
 ### Thomas Haigh { #PERSON-THOMAS-HAIGH-glossary }
 
@@ -1226,6 +1286,17 @@ Corynne McSherry is the Legal Director at the Electronic Frontier Foundation, sp
 
 ---
 
+#### David-Olivier Kaminski { #PERSON-DAVID-OLIVIER-KAMINSKI }
+
+- **Record ID:** `PERSON-DAVID-OLIVIER-KAMINSKI`
+- **Status:** draft
+- **Sources:** France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`SRC-FRANCE24-DUROV-KAMINSKI-2024`)
+- **Tags:** attorney, intermediary-liability, digital-rights
+
+David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
+
+---
+
 #### Eben Moglen { #PERSON-EBEN-MOGLEN }
 
 - **Record ID:** `PERSON-EBEN-MOGLEN`
@@ -1344,6 +1415,17 @@ Nathan Freed Wessler is deputy director of the ACLU Speech, Privacy, and Technol
 - **Tags:** attorney, open-source-software
 
 Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
+
+---
+
+#### Pavel Chikov { #PERSON-PAVEL-CHIKOV }
+
+- **Record ID:** `PERSON-PAVEL-CHIKOV`
+- **Status:** draft
+- **Sources:** RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`SRC-RFERL-TELEGRAM-BLOCK-2018`), Rafto Foundation — Agora / Pavel Chikov Prize Page (`SRC-RAFTO-AGORA-CHIKOV`)
+- **Tags:** attorney, digital-rights, encryption-law, civil-society, censorship-resistance
+
+Pavel Chikov is a Russian human rights lawyer identified as representing Telegram in the 2018 Russian court blocking dispute and as chair of the Agora human rights lawyers' group.
 
 ---
 
@@ -1549,6 +1631,17 @@ Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), h
 
 ### Historical Event
 
+#### Russia FSB Charges Against Pavel Durov / Telegram (July 2026) { #EVENT-FSB-DUROV-TELEGRAM-2026 }
+
+- **Record ID:** `EVENT-FSB-DUROV-TELEGRAM-2026`
+- **Status:** draft
+- **Sources:** AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`SRC-AP-DUROV-FSB-2026`), BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism (`SRC-BBC-DUROV-FSB-2026`), Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant (`SRC-MEDUZA-DUROV-FSB-2026`)
+- **Tags:** historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
+
+On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
+---
+
 #### OFAC Designation of Blender.io (May 6, 2022) { #EVENT-OFAC-BLENDER-2022 }
 
 - **Record ID:** `EVENT-OFAC-BLENDER-2022`
@@ -1581,6 +1674,17 @@ U.S. authorities investigated Phil Zimmermann for years over distribution of Pre
 - **Tags:** organization, civil-liberties, digital-rights, outreach
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
+
+---
+
+#### Agora (human rights lawyers' group) { #ORG-AGORA }
+
+- **Record ID:** `ORG-AGORA`
+- **Status:** draft
+- **Sources:** Rafto Foundation — Agora / Pavel Chikov Prize Page (`SRC-RAFTO-AGORA-CHIKOV`), RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`SRC-RFERL-TELEGRAM-BLOCK-2018`)
+- **Tags:** organization, civil-society, digital-rights, attorney, encryption-law
+
+Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR documents it because its lawyers, including Chikov, have been reported as representing Telegram in Russian encryption-access and blocking litigation.
 
 ---
 
@@ -1768,6 +1872,17 @@ Signal is documented in OIR from its official website as a nonprofit-associated 
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 Software Freedom Conservancy is a U.S. nonprofit organization that provides infrastructure and legal support for free and open source software projects and promotes the right to repair, improve, and reinstall software.
+
+---
+
+#### Telegram { #ORG-TELEGRAM }
+
+- **Record ID:** `ORG-TELEGRAM`
+- **Status:** draft
+- **Sources:** Telegram Press Info (`SRC-TELEGRAM-PRESS`), Telegram FAQ (`SRC-TELEGRAM-FAQ`), AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`SRC-AP-DUROV-FSB-2026`), RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`SRC-RFERL-TELEGRAM-BLOCK-2018`)
+- **Tags:** organization, privacy, secure-messaging, encryption-law, intermediary-liability, digital-rights
+
+Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
 ---
 
@@ -1968,6 +2083,17 @@ Orin Kerr is the Fred C. Stevenson Research Professor at George Washington Unive
 - **Tags:** person, internet-architecture, network-protocols, cryptography
 
 Paul Vixie is a computer scientist and Internet Hall of Fame inductee known for designing and maintaining BIND, pioneering DNS security extensions, and serving on ICANN and ARIN governance bodies.
+
+---
+
+#### Pavel Durov { #PERSON-PAVEL-DUROV }
+
+- **Record ID:** `PERSON-PAVEL-DUROV`
+- **Status:** draft
+- **Sources:** Telegram Press Info (`SRC-TELEGRAM-PRESS`), AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`SRC-AP-DUROV-FSB-2026`), BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism (`SRC-BBC-DUROV-FSB-2026`), Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant (`SRC-MEDUZA-DUROV-FSB-2026`), France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`SRC-FRANCE24-DUROV-KAMINSKI-2024`), RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`SRC-RFERL-TELEGRAM-BLOCK-2018`)
+- **Tags:** person, secure-messaging, privacy, encryption-law, intermediary-liability, digital-rights
+
+Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.
 
 ---
 
@@ -2236,10 +2362,10 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 
 - **Record ID:** `TOPIC-CODE-AS-SPEECH`
 - **Status:** draft
-- **Sources:** Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo) (`SRC-RENO-V-ACLU-GOVINFO`), Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF) (`SRC-RENO-V-ACLU-LOC`), U.S. Constitution First Amendment (Cornell LII) (`SRC-US-CONST-AMEND-I-LII`)
-- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law
+- **Sources:** U.S. Constitution First Amendment (Cornell LII) (`SRC-US-CONST-AMEND-I-LII`), Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo) (`SRC-RENO-V-ACLU-GOVINFO`), Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF) (`SRC-RENO-V-ACLU-LOC`), Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Junger v. Daley Opinion Text (CMU) (`SRC-JUNGER-CMU`), Universal City Studios v. Corley Opinion Text (Open Casebook) (`SRC-CORLEY-LII`)
+- **Tags:** first-amendment, speech-and-code, digital-rights, constitutional-law, open-source-software, cryptography, copyright
 
-The code-as-speech doctrine concerns whether software, encryption, or other expressive code receives First Amendment protection.
+The code-as-speech doctrine concerns whether software source code receives First Amendment protection, tracing Bernstein, Junger, and Corley, and examining whether that protection could extend to open-source development practices.
 
 ---
 
@@ -2258,7 +2384,7 @@ Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibi
 
 - **Record ID:** `TOPIC-DEVELOPER-SOFTWARE-LIABILITY`
 - **Status:** draft
-- **Sources:** IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) (`SRC-IRS-SAMOURAI-PLEA-2025`), IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) (`SRC-IRS-SAMOURAI-SENTENCE-2025`), United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`SRC-DOJ-STORM-INDICTMENT`), SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`SRC-DOJ-STORM-CONVICTION-2025`), Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024) (`SRC-PERTSEV-ECLI-2024`), Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) (`SRC-TREASURY-BLENDER-2022`), U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`), Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`), Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text) (`SRC-ZIMMERMANN-DECLINATION-1996`), DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`SRC-DOJ-SKLYAROV-INDICTMENT-2001`), DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) (`SRC-DOJ-SKLYAROV-AGREE-2001`), Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Junger v. Daley Opinion Text (CMU) (`SRC-JUNGER-CMU`), Universal City Studios v. Corley Opinion Text (Open Casebook) (`SRC-CORLEY-LII`)
+- **Sources:** IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) (`SRC-IRS-SAMOURAI-PLEA-2025`), IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) (`SRC-IRS-SAMOURAI-SENTENCE-2025`), United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`SRC-DOJ-STORM-INDICTMENT`), SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`SRC-DOJ-STORM-CONVICTION-2025`), Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024) (`SRC-PERTSEV-ECLI-2024`), Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) (`SRC-TREASURY-BLENDER-2022`), U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`SRC-TREASURY-TC-AUG-2022`), Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia) (`SRC-VAN-LOON-5TH-CIR-JUSTIA`), Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text) (`SRC-ZIMMERMANN-DECLINATION-1996`), DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`SRC-DOJ-SKLYAROV-INDICTMENT-2001`), DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) (`SRC-DOJ-SKLYAROV-AGREE-2001`), Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`SRC-BERNSTEIN-JUSTIA`), Junger v. Daley Opinion Text (CMU) (`SRC-JUNGER-CMU`), Universal City Studios v. Corley Opinion Text (Open Casebook) (`SRC-CORLEY-LII`), AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`SRC-AP-DUROV-FSB-2026`)
 - **Tags:** developer-rights, open-source-risk, case-studies, computer-crime, sanctions, speech-and-code, copyright, export-control, cryptography, digital-rights
 
 Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
@@ -2313,7 +2439,7 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 
 - **Record ID:** `TOPIC-INTERMEDIARY-LIABILITY`
 - **Status:** draft
-- **Sources:** 17 U.S.C. § 512 (GovInfo) (`SRC-USC-17-512-GOVINFO`), Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) (`SRC-PERFECT10-V-CCBILL-JUSTIA`)
+- **Sources:** 17 U.S.C. § 512 (GovInfo) (`SRC-USC-17-512-GOVINFO`), Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007) (`SRC-PERFECT10-V-CCBILL-JUSTIA`), AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`SRC-AP-DUROV-FSB-2026`)
 - **Tags:** intermediary-liability, copyright, digital-rights, safe-harbor
 
 Intermediary liability concerns when online platforms, service providers, or other intermediaries may be held legally responsible for user or third-party content or conduct.
@@ -2401,6 +2527,24 @@ Official ACLU contact page with public mailing address, phone numbers, affiliate
 - **Status:** verified
 
 Official ACLU history page describing the organization's founding context and civil liberties mission.
+
+---
+
+### AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
+
+- **Source ID:** `SRC-AP-DUROV-FSB-2026`
+- **Status:** draft
+
+Associated Press report that Russia's FSB charged Pavel Durov with aiding terrorism, alleged Telegram failed to remove channels used for sabotage and terrorism, and placed him on international wanted lists.
+
+---
+
+### BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism
+
+- **Source ID:** `SRC-BBC-DUROV-FSB-2026`
+- **Status:** draft
+
+BBC report that Russia's FSB charged Pavel Durov with facilitating terrorism over alleged Ukrainian recruitment and coordination on Telegram, and that an international arrest warrant was issued.
 
 ---
 
@@ -2791,6 +2935,15 @@ Introduced Senate bill text for the Fourth Amendment Is Not For Sale Act, listin
 
 ---
 
+### France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted
+
+- **Source ID:** `SRC-FRANCE24-DUROV-KAMINSKI-2024`
+- **Status:** draft
+
+AFP/France 24 report that French authorities charged Pavel Durov in August 2024 over alleged platform-related offenses, quoting defense lawyer David-Olivier Kaminski.
+
+---
+
 ### Free Software Foundation About Page
 
 - **Source ID:** `SRC-FSF-ABOUT`
@@ -3061,6 +3214,15 @@ Official EFF biography page for Corynne McSherry documenting her role as Legal D
 
 ---
 
+### Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant
+
+- **Source ID:** `SRC-MEDUZA-DUROV-FSB-2026`
+- **Status:** draft
+
+Meduza report, citing Interfax, that Russia's FSB charged Pavel Durov under Criminal Code Article 205.1 Part 1.1 and placed him on an international wanted list for alleged facilitation of terrorist activity via Telegram.
+
+---
+
 ### Heather Meeker About Page
 
 - **Source ID:** `SRC-MEEKER-ABOUT`
@@ -3232,6 +3394,15 @@ Official Public Knowledge contact page with phone, fax, email, and Washington, D
 
 ---
 
+### Rafto Foundation — Agora / Pavel Chikov Prize Page
+
+- **Source ID:** `SRC-RAFTO-AGORA-CHIKOV`
+- **Status:** draft
+
+Rafto Foundation prize page describing Agora as a Russian human rights organization of lawyers and identifying Pavel Chikov as chair.
+
+---
+
 ### Reporters Committee Contact Page
 
 - **Source ID:** `SRC-RCFP-CONTACT`
@@ -3310,6 +3481,15 @@ RFC Editor publication specifying TLS 1.3.
 - **Status:** verified
 
 RFC Editor publication specifying the Transmission Control Protocol.
+
+---
+
+### RFE/RL — Russian Court Orders Telegram App Blocked (2018)
+
+- **Source ID:** `SRC-RFERL-TELEGRAM-BLOCK-2018`
+- **Status:** draft
+
+RFE/RL report on the April 2018 Moscow court order blocking Telegram over FSB encryption-key demands, identifying Pavel Chikov as a lawyer representing Telegram.
 
 ---
 
@@ -3472,6 +3652,24 @@ TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS wa
 - **Status:** draft
 
 TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+
+---
+
+### Telegram FAQ
+
+- **Source ID:** `SRC-TELEGRAM-FAQ`
+- **Status:** draft
+
+Official Telegram FAQ describing the messaging service and stating that the development team is based in Dubai.
+
+---
+
+### Telegram Press Info
+
+- **Source ID:** `SRC-TELEGRAM-PRESS`
+- **Status:** draft
+
+Official Telegram press page describing the messaging service, Dubai base, and Pavel Durov's role as founder, owner, and CEO.
 
 ---
 

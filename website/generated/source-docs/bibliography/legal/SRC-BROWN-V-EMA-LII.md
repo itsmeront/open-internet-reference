@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -50,3 +49,9 @@ Cornell LII reproduction of the Supreme Court opinion. Case citation: 564 U.S. 7
 
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](../../../used-for.md#case-brown-v-entertainment-merchants)
 - [`PERSON-KATIE-FALLOW`](../../../used-for.md#person-katie-fallow)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Publication date: `2011-06-27`
+- Access date: `2026-07-04`

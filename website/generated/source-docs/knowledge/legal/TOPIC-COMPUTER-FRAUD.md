@@ -45,7 +45,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 3
     - **Research debt items**: 3
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -93,3 +92,7 @@ Additional sources (not yet cited in footnotes):
 - Add case law beyond `CASE-VAN-BUREN-V-US` interpreting unauthorized access and scope of § 1030.
 - Distinguish criminal computer fraud statutes from civil or state-law regimes.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-19`

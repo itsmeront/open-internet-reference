@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -51,3 +50,9 @@ Official EFF case page. EFF was counsel in this case, making this a firsthand li
 ## Used For
 
 - [`PERSON-CINDY-COHN`](../../../used-for.md#person-cindy-cohn)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `2022-06-13`
+- Access date: `2026-06-25`

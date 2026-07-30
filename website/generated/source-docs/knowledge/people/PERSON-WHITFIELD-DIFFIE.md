@@ -34,7 +34,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -85,3 +84,7 @@ His work underpins modern TLS, code signing, and secure messaging — the same p
 - Document specific trial or deposition appearances with primary citations.
 - Cross-link to `CASE-BERNSTEIN-V-DOJ` and encryption policy topic pages.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

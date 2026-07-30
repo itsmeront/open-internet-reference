@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -51,3 +50,10 @@ Archived copy of an official DOJ Cybercrime press release. Primary for indictmen
 
 - [`CASE-US-V-SKLYAROV`](../../../used-for.md#case-us-v-sklyarov)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](../../../used-for.md#topic-developer-software-liability)
+
+## Document metadata
+
+- Last verified: `2026-07-23`
+- Publication date: `2001-08-28`
+- Access date: `2026-07-23`
+- Archive URL: `https://web.archive.org/web/20110613202855/http://www.cybercrime.gov/Sklyarovindictment.htm`

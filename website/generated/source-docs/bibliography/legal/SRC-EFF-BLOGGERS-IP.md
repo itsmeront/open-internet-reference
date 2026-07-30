@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -50,3 +49,9 @@ Official EFF educational guide. Useful for explaining fair use factors and DMCA 
 
 - [`TOPIC-FAIR-USE-VIDEO`](../../../used-for.md#topic-fair-use-video)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](../../../used-for.md#topic-dmca-takedown-response)
+
+## Document metadata
+
+- Last verified: `2026-07-19`
+- Publication date: `Not dated (maintained guide)`
+- Access date: `2026-07-19`

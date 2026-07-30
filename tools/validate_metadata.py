@@ -68,6 +68,7 @@ FOOTNOTE_DEF_PATTERN = re.compile(r"^\[\^(\d+)\]:", re.MULTILINE)
 NUMBERED_SOURCE_PATTERN = re.compile(r"^1\. `SRC-[A-Z0-9-]+`:")
 BULLET_SOURCE_PATTERN = re.compile(r"^- `SRC-[A-Z0-9-]+`:")
 TAG_PATTERN = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
+EVENT_DATE_PATTERN = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 REQUIRED_FIELDS = {
     "id",
     "title",
@@ -149,6 +150,31 @@ def validate_metadata(
     page_type = metadata.get("type")
     if page_type is not None and page_type not in VALID_TYPES:
         errors.append(ValidationError(path, f"invalid type: {page_type}"))
+
+    event_date = metadata.get("event_date")
+    if page_type == "historical_event":
+        if event_date in (None, ""):
+            errors.append(
+                ValidationError(
+                    path,
+                    "historical_event pages must include event_date (YYYY, YYYY-MM, or YYYY-MM-DD)",
+                )
+            )
+        elif not (isinstance(event_date, str) and EVENT_DATE_PATTERN.match(event_date)):
+            errors.append(
+                ValidationError(
+                    path,
+                    "event_date must use YYYY, YYYY-MM, or YYYY-MM-DD",
+                )
+            )
+    elif event_date not in (None, ""):
+        if not (isinstance(event_date, str) and EVENT_DATE_PATTERN.match(event_date)):
+            errors.append(
+                ValidationError(
+                    path,
+                    "event_date must use YYYY, YYYY-MM, or YYYY-MM-DD",
+                )
+            )
 
     status = metadata.get("status")
     if status is not None and status not in VALID_STATUSES:

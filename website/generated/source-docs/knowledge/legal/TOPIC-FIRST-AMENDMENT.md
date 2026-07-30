@@ -50,7 +50,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 4
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-18
 
 ---
 
@@ -98,3 +97,7 @@ Additional sources (not yet cited in footnotes):
 - Summarize `CASE-RENO-V-ACLU` holding and reasoning.
 - Add additional First Amendment case law with primary sources.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-07-18`

@@ -33,7 +33,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 1
     - **Relationships**: 1
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -84,3 +83,7 @@ Kahn is particularly useful when a case involves:
 - Document specific expert declarations or testimony with primary court records.
 - Add relationship edge to `PERSON-VINT-CERF` for TCP/IP co-invention.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-04`

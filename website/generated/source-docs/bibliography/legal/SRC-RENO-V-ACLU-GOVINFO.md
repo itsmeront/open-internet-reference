@@ -29,7 +29,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -55,3 +54,9 @@ GovInfo is an official U.S. Government Publishing Office source for United State
 - [Internet speech](../../../used-for.md#internet-speech)
 - [Communications Decency Act](../../../used-for.md#communications-decency-act)
 - [Case law seed records](../../../used-for.md#case-law-seed-records)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Publication date: `1997-06-26`
+- Access date: `2026-06-19`

@@ -1,16 +1,16 @@
 {
   "by_status": {
-    "draft": 159,
+    "draft": 173,
     "verified": 116
   },
   "by_type": {
-    "attorney": 16,
+    "attorney": 18,
     "case": 18,
-    "historical_event": 2,
-    "organization": 20,
-    "person": 28,
+    "historical_event": 3,
+    "organization": 22,
+    "person": 29,
     "protocol": 3,
-    "source": 168,
+    "source": 176,
     "statute": 6,
     "technology": 2,
     "topic": 12
@@ -22,6 +22,8 @@
     "SRC-OIR-ROADMAP-DOCX"
   ],
   "needing_review": [
+    "SRC-AP-DUROV-FSB-2026",
+    "SRC-BBC-DUROV-FSB-2026",
     "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
     "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
     "SRC-COOLEY-TECH",
@@ -34,6 +36,7 @@
     "SRC-FBI-SEMENOV",
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
+    "SRC-FRANCE24-DUROV-KAMINSKI-2024",
     "SRC-GOOGLE-ORACLE-JUSTIA",
     "SRC-GRAPHENEOS-FEATURES",
     "SRC-IEEPA-50-USC-1702-LII",
@@ -44,6 +47,7 @@
     "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
     "SRC-LOFGREN-AARONS-LAW",
     "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+    "SRC-MEDUZA-DUROV-FSB-2026",
     "SRC-OFAC-FAQ-1076",
     "SRC-OFAC-TC-REMOVAL-20250321",
     "SRC-OIR-BOOTSTRAP-PROMPT",
@@ -54,8 +58,12 @@
     "SRC-PERKINS-COIE-TECH",
     "SRC-PERTSEV-ECLI-2024",
     "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+    "SRC-RAFTO-AGORA-CHIKOV",
+    "SRC-RFERL-TELEGRAM-BLOCK-2018",
     "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
     "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+    "SRC-TELEGRAM-FAQ",
+    "SRC-TELEGRAM-PRESS",
     "SRC-TREASURY-BLENDER-2022",
     "SRC-TREASURY-SEMENOV-2023",
     "SRC-TREASURY-TC-AUG-2022",
@@ -92,9 +100,11 @@
     "CASE-US-V-TUNICK",
     "CASE-VAN-BUREN-V-US",
     "CASE-VAN-LOON-V-TREASURY",
+    "EVENT-FSB-DUROV-TELEGRAM-2026",
     "EVENT-OFAC-BLENDER-2022",
     "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
     "ORG-ACLU",
+    "ORG-AGORA",
     "ORG-CDT",
     "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
     "ORG-COOLEY",
@@ -112,6 +122,7 @@
     "ORG-SFLC",
     "ORG-SIGNAL",
     "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+    "ORG-TELEGRAM",
     "ORG-TOR-PROJECT",
     "ORG-WILSON-SONSINI",
     "PERSON-AARON-WILLIAMSON",
@@ -124,6 +135,7 @@
     "PERSON-CORY-BOOKER",
     "PERSON-CORYNNE-MCSHERRY",
     "PERSON-DANAH-BOYD",
+    "PERSON-DAVID-OLIVIER-KAMINSKI",
     "PERSON-DAVID-REED",
     "PERSON-EBEN-MOGLEN",
     "PERSON-ESHA-BHANDARI",
@@ -146,6 +158,8 @@
     "PERSON-ORIN-KERR",
     "PERSON-PAMELA-CHESTEK",
     "PERSON-PAUL-VIXIE",
+    "PERSON-PAVEL-CHIKOV",
+    "PERSON-PAVEL-DUROV",
     "PERSON-PHIL-ZIMMERMANN",
     "PERSON-RAND-PAUL",
     "PERSON-RO-KHANNA",
@@ -185,7 +199,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 159,
-    "records": 275
+    "needing_review": 173,
+    "records": 289
   }
 }

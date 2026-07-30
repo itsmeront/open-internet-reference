@@ -40,7 +40,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 3
-    - **Last verified**: 2026-07-27
 
 ---
 
@@ -78,3 +77,7 @@ Jurisdiction: U.S. federal criminal statute. Authority level: binding statutory 
 - Compare LII text to Office of the Law Revision Counsel official code.
 - Add legislative-history sources for the 2000 amendments expanding subsection (a).
 - Track appellate treatment, if any, of § 2232(a) applied to digital wipe / duress-credential theories.
+
+## Document metadata
+
+- Last verified: `2026-07-27`

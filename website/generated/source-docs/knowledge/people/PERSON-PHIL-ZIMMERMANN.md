@@ -41,7 +41,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 3
     - **Relationships**: 2
     - **Research debt items**: 4
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -98,3 +97,7 @@ His experience complements attorneys working on cases adjacent to Bernstein, DMC
 - Document specific expert appearances with primary citations.
 - Cross-link to `CASE-BERNSTEIN-V-DOJ` and `ORG-EFF` relationships once verified.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
+
+## Document metadata
+
+- Last verified: `2026-07-23`

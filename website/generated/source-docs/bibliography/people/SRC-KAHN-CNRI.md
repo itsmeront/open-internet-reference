@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-04
 
 ---
 
@@ -50,3 +49,8 @@ Official CNRI biography for its chairman and CEO. Primary source for TCP/IP co-i
 ## Used For
 
 - [`PERSON-ROBERT-KAHN`](../../../used-for.md#person-robert-kahn)
+
+## Document metadata
+
+- Last verified: `2026-07-04`
+- Access date: `2026-07-04`

@@ -30,7 +30,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-19
 
 ---
 
@@ -54,3 +53,9 @@ GovInfo bill text is an official congressional record. The introduction block li
 - [`PERSON-RON-WYDEN`](../../../used-for.md#person-ron-wyden)
 - [`PERSON-RAND-PAUL`](../../../used-for.md#person-rand-paul)
 - [`PERSON-CORY-BOOKER`](../../../used-for.md#person-cory-booker)
+
+## Document metadata
+
+- Last verified: `2026-07-19`
+- Publication date: `2021`
+- Access date: `2026-07-19`

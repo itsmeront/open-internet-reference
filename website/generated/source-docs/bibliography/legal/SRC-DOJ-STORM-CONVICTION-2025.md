@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-07-23
 
 ---
 
@@ -50,3 +49,9 @@ Official DOJ/USAO summary page. Official-record support for the August 2025 conv
 
 - [`CASE-US-V-STORM`](../../../used-for.md#case-us-v-storm)
 - [`TOPIC-TORNADO-CASH`](../../../used-for.md#topic-tornado-cash)
+
+## Document metadata
+
+- Last verified: `2026-07-23`
+- Publication date: `2025-08`
+- Access date: `2026-07-23`

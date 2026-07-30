@@ -41,7 +41,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 2
     - **Relationships**: 2
     - **Research debt items**: 6
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -91,3 +90,7 @@ FSF is the organization that created and maintains the GPL family of licenses, w
 - Document relationship with SFLC and Conservancy.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+
+## Document metadata
+
+- Last verified: `2026-06-25`

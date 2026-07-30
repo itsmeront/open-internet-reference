@@ -28,7 +28,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-19
 
 ---
 
@@ -52,3 +51,8 @@ Cornell LII is a high-confidence public legal reference, but it is not the offic
 - [First Amendment](../../knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [Constitutional law seed topics](../../../used-for.md#constitutional-law-seed-topics)
 - [Internet speech and expression topics](../../../used-for.md#internet-speech-and-expression-topics)
+
+## Document metadata
+
+- Last verified: `2026-06-19`
+- Access date: `2026-06-19`

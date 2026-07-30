@@ -27,7 +27,6 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Sources**: 0
     - **Relationships**: 0
     - **Research debt items**: 0
-    - **Last verified**: 2026-06-25
 
 ---
 
@@ -49,3 +48,9 @@ Cornell LII provides the current text of the U.S. Code. Authoritative for statut
 ## Used For
 
 - [`STAT-SECTION-230`](../../../used-for.md#stat-section-230)
+
+## Document metadata
+
+- Last verified: `2026-06-25`
+- Publication date: `Not dated (maintained)`
+- Access date: `2026-06-25`
