@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-CARPENTER-LII
   - SRC-CARPENTER-GOVINFO
+  - SRC-CHATRIE-LII
 relationships:
   - subject: CASE-CARPENTER-V-US
     predicate: cites
@@ -28,7 +29,13 @@ relationships:
     object: TOPIC-FOURTH-AMENDMENT
     sources:
       - SRC-CARPENTER-LII
-last_verified: "2026-06-19"
+  - subject: CASE-CARPENTER-V-US
+    predicate: related_to
+    object: CASE-CHATRIE-V-US
+    sources:
+      - SRC-CHATRIE-LII
+      - SRC-CARPENTER-LII
+last_verified: "2026-07-30"
 decision_date: "2018"
 ---
 
@@ -43,8 +50,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 2
-    - **Relationships**: 3
+    - **Sources**: 3
+    - **Relationships**: 4
     - **Research debt items**: 2
 
 ---
@@ -80,6 +87,7 @@ The Court treated historical cell-site location records as presenting greater pr
 - `CASE-CARPENTER-V-US` cites [`SRC-CARPENTER-LII`](https://www.law.cornell.edu/supremecourt/text/16-402).
 - `CASE-CARPENTER-V-US` cites [`SRC-CARPENTER-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-585/USREPORTS-585-296).
 - `CASE-CARPENTER-V-US` related_to `TOPIC-FOURTH-AMENDMENT`.
+- `CASE-CARPENTER-V-US` related_to `CASE-CHATRIE-V-US`.
 
 ## Sources
 
@@ -88,13 +96,14 @@ The Court treated historical cell-site location records as presenting greater pr
 Additional sources (not yet cited in footnotes):
 
 - [`SRC-CARPENTER-GOVINFO`](https://www.govinfo.gov/app/details/USREPORTS-585/USREPORTS-585-296): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo).
+- [`SRC-CHATRIE-LII`](https://www.law.cornell.edu/supremecourt/text/25-112): Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (extends Carpenter’s location-privacy framework to Google Location History / geofence acquisition).
 
 ## Research Debt
 
-- Add later digital search and surveillance cases with primary sources.
+- Add later digital search and surveillance cases with primary sources (Chatrie intake started 2026-07-30).
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
 
 ## Document metadata
 
 - Decision date: `2018`
-- Last verified: `2026-06-19`
+- Last verified: `2026-07-30`

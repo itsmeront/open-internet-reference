@@ -636,11 +636,32 @@
           "usage": "relationship_source"
         },
         {
+          "object": "CASE-CHATRIE-V-US",
+          "predicate": "related_to",
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
           "object": "TOPIC-FOURTH-AMENDMENT",
           "predicate": "related_to",
           "record_id": "CASE-CARPENTER-V-US",
           "record_title": "Carpenter v. United States",
           "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "related_to",
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "subject": "CASE-CHATRIE-V-US",
           "usage": "relationship_source"
         },
         {
@@ -892,6 +913,86 @@
           "record_id": "PERSON-JANE-FONDA",
           "record_title": "Jane Fonda",
           "subject": "PERSON-JANE-FONDA",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CHATRIE-LII",
+      "source_title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
+      "usages": [
+        {
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CHATRIE-V-US",
+          "predicate": "related_to",
+          "record_id": "CASE-CARPENTER-V-US",
+          "record_title": "Carpenter v. United States",
+          "subject": "CASE-CARPENTER-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CHATRIE-LII",
+          "predicate": "cites",
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "subject": "CASE-CHATRIE-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "related_to",
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "subject": "CASE-CHATRIE-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "subject": "CASE-CHATRIE-V-US",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CHATRIE-V-US",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "subject": "TOPIC-FOURTH-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CHATRIE-SCOTUS-PDF",
+      "source_title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
+      "usages": [
+        {
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CHATRIE-SCOTUS-PDF",
+          "predicate": "cites",
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "subject": "CASE-CHATRIE-V-US",
           "usage": "relationship_source"
         }
       ]
@@ -1763,6 +1864,22 @@
           "record_title": "Thomas Haigh",
           "subject": "PERSON-THOMAS-HAIGH",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+      "source_title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-CHATRIE-V-US",
+          "record_title": "Chatrie v. United States",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-FOURTH-AMENDMENT",
+          "record_title": "Fourth Amendment",
+          "usage": "page_source"
         }
       ]
     },

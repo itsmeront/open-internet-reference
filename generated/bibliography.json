@@ -942,6 +942,83 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Supreme Court of the United States; page hosted by Cornell Legal Information Institute",
+        "publication date": "2026-06-29",
+        "source type": "Court case / primary authority (LII-hosted)",
+        "url or citation": "https://www.law.cornell.edu/supremecourt/text/25-112"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CHATRIE-LII",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CHATRIE-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CHATRIE-LII.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Cornell LII page for the Supreme Court decision holding that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data via a geofence warrant process; vacated and remanded on warrant reasonableness questions.",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2026-06-29",
+        "source type": "Court opinion / primary authority",
+        "url or citation": "https://www.supremecourt.gov/opinions/25pdf/25-112_0am4.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CHATRIE-SCOTUS-PDF",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Supreme Court slip opinion PDF for Chatrie v. United States (geofence / Location History Fourth Amendment search holding; vacated and remanded).",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Chestek Legal",
@@ -2159,6 +2236,45 @@
       "type": "source",
       "used_for": [
         "`PERSON-THOMAS-HAIGH`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Chad Marlow (ACLU senior policy counsel), published by The Hill as opinion contributor",
+        "publication date": "2026-07-30",
+        "source type": "Opinion / advocacy commentary (secondary)",
+        "url or citation": "https://thehill.com/opinion/criminal-justice/5998614-supreme-court-privacy-ruling/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "ACLU senior policy counsel Chad Marlow\u2019s Hill opinion essay arguing that Chatrie v. United States and a Delaware reverse-keyword-warrant bill mark a privacy watershed against reverse (geofence/keyword) warrants.",
+      "tags": [
+        "source",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "commentary"
+      ],
+      "title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`"
       ]
     },
     {

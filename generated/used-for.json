@@ -26,6 +26,14 @@
     },
     {
       "sources": [
+        "SRC-CHATRIE-LII",
+        "SRC-CHATRIE-SCOTUS-PDF",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026"
+      ],
+      "term": "`CASE-CHATRIE-V-US`"
+    },
+    {
+      "sources": [
         "SRC-COIN-CENTER-YELLEN-NDFLA-2023"
       ],
       "term": "`CASE-COIN-CENTER-V-YELLEN`"
@@ -783,6 +791,8 @@
       "sources": [
         "SRC-CARPENTER-GOVINFO",
         "SRC-CARPENTER-LII",
+        "SRC-CHATRIE-LII",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
         "SRC-US-CONST-AMEND-IV-LII"
       ],
       "term": "`TOPIC-FOURTH-AMENDMENT`"

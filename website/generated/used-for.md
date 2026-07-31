@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 171
+Term count: 172
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -19,6 +19,12 @@ Term count: 171
 
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## `CASE-CHATRIE-V-US` { #case-chatrie-v-us }
+
+- [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 
 ## `CASE-COIN-CENTER-V-YELLEN` { #case-coin-center-v-yellen }
 
@@ -567,6 +573,8 @@ Term count: 171
 
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+- [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
 
 ## `TOPIC-INTERMEDIARY-LIABILITY` { #topic-intermediary-liability }

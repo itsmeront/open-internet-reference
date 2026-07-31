@@ -146,6 +146,14 @@
       "record_type": "case"
     },
     {
+      "date": "2019-05-20",
+      "description": "Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.",
+      "event_type": "offense",
+      "record_id": "CASE-CHATRIE-V-US",
+      "record_title": "Chatrie v. United States",
+      "record_type": "case"
+    },
+    {
       "date": "2021",
       "description": "Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exceeds authorized access narrowly in a gates-up-or-down case about database access.",
       "event_type": "decision",
@@ -263,6 +271,14 @@
       "event_type": "indictment",
       "record_id": "CASE-US-V-TUNICK",
       "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
+      "date": "2026-06-29",
+      "description": "Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.",
+      "event_type": "decision",
+      "record_id": "CASE-CHATRIE-V-US",
+      "record_title": "Chatrie v. United States",
       "record_type": "case"
     },
     {

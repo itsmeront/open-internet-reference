@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-29 | **Records:** 114 | **Sources referenced:** 175
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-30 | **Records:** 115 | **Sources referenced:** 178
 
 <div class="oir-handbook" markdown="1">
 
@@ -59,6 +59,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [Chatrie v. United States](#CASE-CHATRIE-V-US) (`CASE-CHATRIE-V-US`)
 - [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
@@ -312,6 +313,15 @@ Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acqu
 - **Tags:** organization, digital-rights, privacy, internet-governance, civil-society, outreach
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+### Chatrie v. United States { #CASE-CHATRIE-V-US-glossary }
+
+- **Record ID:** `CASE-CHATRIE-V-US`
+- **Type:** case
+- **Status:** draft
+- **Tags:** fourth-amendment, privacy, digital-rights, surveillance, case-studies
+
+Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.
 
 ### Cindy Cohn { #PERSON-CINDY-COHN-glossary }
 
@@ -1353,9 +1363,16 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 #### [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md): Carpenter v. United States { #CASE-CARPENTER-V-US }
 
 - Status: `draft`
-- Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md), [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
+- Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md), [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md), [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+#### [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md): Chatrie v. United States { #CASE-CHATRIE-V-US }
+
+- Status: `draft`
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md), [`SRC-CHATRIE-SCOTUS-PDF`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md), [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.
 
 #### [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md): Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN }
 
@@ -1983,7 +2000,7 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 #### [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): Fourth Amendment { #TOPIC-FOURTH-AMENDMENT }
 
 - Status: `draft`
-- Sources: [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+- Sources: [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md), [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md), [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 
 The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.
 
@@ -2051,6 +2068,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md): Committee for the First Amendment Homepage (`verified`)
 - [`SRC-CFA-JOIN`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md): Committee for the First Amendment Join Page (`verified`)
 - [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md): Jane Fonda Relaunches Committee for the First Amendment (CNN) (`verified`)
+- [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md): Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (`draft`)
+- [`SRC-CHATRIE-SCOTUS-PDF`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md): Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF) (`draft`)
 - [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md): Pamela Chestek About Page (`verified`)
 - [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography (`verified`)
 - [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
@@ -2084,6 +2103,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography (`verified`)
 - [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md): GrapheneOS Features Overview — Duress PIN/Password (`draft`)
 - [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile (`verified`)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md): The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) (`draft`)
 - [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md): 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`draft`)
 - [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md): Institute for Free Speech About Us Page (`verified`)
 - [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page (`verified`)

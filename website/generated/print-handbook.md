@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-29</dd>
+        <dd>2026-07-30</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>114</dd>
+        <dd>115</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>175</dd>
+        <dd>178</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -92,6 +92,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [Chatrie v. United States](#CASE-CHATRIE-V-US) (`CASE-CHATRIE-V-US`)
 - [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
@@ -345,6 +346,15 @@ Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acqu
 - **Tags:** organization, digital-rights, privacy, internet-governance, civil-society, outreach
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+### Chatrie v. United States { #CASE-CHATRIE-V-US-glossary }
+
+- **Record ID:** `CASE-CHATRIE-V-US`
+- **Type:** case
+- **Status:** draft
+- **Tags:** fourth-amendment, privacy, digital-rights, surveillance, case-studies
+
+Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.
 
 ### Cindy Cohn { #PERSON-CINDY-COHN-glossary }
 
@@ -1467,10 +1477,21 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 
 - **Record ID:** `CASE-CARPENTER-V-US`
 - **Status:** draft
-- **Sources:** Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`), Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`SRC-CARPENTER-GOVINFO`)
+- **Sources:** Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`), Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`SRC-CARPENTER-GOVINFO`), Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (`SRC-CHATRIE-LII`)
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+---
+
+#### Chatrie v. United States { #CASE-CHATRIE-V-US }
+
+- **Record ID:** `CASE-CHATRIE-V-US`
+- **Status:** draft
+- **Sources:** Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (`SRC-CHATRIE-LII`), Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF) (`SRC-CHATRIE-SCOTUS-PDF`), The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) (`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`), Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`)
+- **Tags:** fourth-amendment, privacy, digital-rights, surveillance, case-studies
+
+Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.
 
 ---
 
@@ -2449,7 +2470,7 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 
 - **Record ID:** `TOPIC-FOURTH-AMENDMENT`
 - **Status:** draft
-- **Sources:** U.S. Constitution Fourth Amendment (Cornell LII) (`SRC-US-CONST-AMEND-IV-LII`), Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`)
+- **Sources:** U.S. Constitution Fourth Amendment (Cornell LII) (`SRC-US-CONST-AMEND-IV-LII`), Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`SRC-CARPENTER-LII`), Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (`SRC-CHATRIE-LII`), The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) (`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`)
 - **Tags:** constitutional-law, fourth-amendment, privacy, digital-rights, surveillance
 
 The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.
@@ -2737,6 +2758,24 @@ Official join page inviting entertainment-industry colleagues to sign the Commit
 - **Status:** verified
 
 CNN reporting on Jane Fonda's October 2025 relaunch of the Committee for the First Amendment, including signatory count and historical context.
+
+---
+
+### Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)
+
+- **Source ID:** `SRC-CHATRIE-LII`
+- **Status:** draft
+
+Cornell LII page for the Supreme Court decision holding that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data via a geofence warrant process; vacated and remanded on warrant reasonableness questions.
+
+---
+
+### Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)
+
+- **Source ID:** `SRC-CHATRIE-SCOTUS-PDF`
+- **Status:** draft
+
+Official Supreme Court slip opinion PDF for Chatrie v. United States (geofence / Location History Fourth Amendment search holding; vacated and remanded).
 
 ---
 
@@ -3034,6 +3073,15 @@ Official GrapheneOS features documentation describing the optional duress PIN/pa
 - **Status:** verified
 
 Official UWM History Department faculty profile for Thomas Haigh describing his research on the history of computing and information technology.
+
+---
+
+### The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)
+
+- **Source ID:** `SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`
+- **Status:** draft
+
+ACLU senior policy counsel Chad Marlow’s Hill opinion essay arguing that Chatrie v. United States and a Delaware reverse-keyword-warrant bill mark a privacy watershed against reverse (geofence/keyword) warrants.
 
 ---
 

@@ -116,3 +116,17 @@ Expected output:
 
 - Small root documentation updates
 - No duplicate governance sources
+
+## Intake notes (2026-07-30)
+
+### The Hill / Chatrie reverse-warrants opinion
+
+URL: https://thehill.com/opinion/criminal-justice/5998614-supreme-court-privacy-ruling/
+
+Accepted as **draft commentary** (`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`) only. Primary holdings live on `CASE-CHATRIE-V-US` from `SRC-CHATRIE-LII` / `SRC-CHATRIE-SCOTUS-PDF`.
+
+Follow-ups before promoting claims beyond attributed commentary:
+
+- Delaware reverse-keyword-warrant bill number and enactment/signing status (primary legislative text).
+- PERSON page for Chad Marlow (official ACLU bio).
+- Crosswalk to existing Fourth Amendment Is Not For Sale Act source records.
