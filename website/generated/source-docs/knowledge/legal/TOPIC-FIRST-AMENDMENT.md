@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-US-CONST-AMEND-I-LII
   - SRC-RENO-V-ACLU-JUSTIA
+  - SRC-FIRE-MISSION
 relationships:
   - subject: TOPIC-FIRST-AMENDMENT
     predicate: cites
@@ -33,7 +34,12 @@ relationships:
     object: ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT
     sources:
       - SRC-CFA-HOME
-last_verified: "2026-07-18"
+  - subject: TOPIC-FIRST-AMENDMENT
+    predicate: related_to
+    object: ORG-FIRE
+    sources:
+      - SRC-FIRE-MISSION
+last_verified: "2026-07-31"
 ---
 
 # Generated Source Mirror
@@ -47,8 +53,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 2
-    - **Relationships**: 4
+    - **Sources**: 3
+    - **Relationships**: 5
     - **Research debt items**: 4
 
 ---
@@ -82,6 +88,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 - `TOPIC-FIRST-AMENDMENT` related_to `CASE-RENO-V-ACLU`.
 - `TOPIC-FIRST-AMENDMENT` related_to `TOPIC-CODE-AS-SPEECH`.
 - `TOPIC-FIRST-AMENDMENT` related_to `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`.
+- `TOPIC-FIRST-AMENDMENT` related_to `ORG-FIRE`.
 
 ## Sources
 
@@ -90,6 +97,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 Additional sources (not yet cited in footnotes):
 
 - [`SRC-RENO-V-ACLU-JUSTIA`](https://supreme.justia.com/cases/federal/us/521/844/): Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).
+- [`SRC-FIRE-MISSION`](https://www.thefire.org/about-us/mission): FIRE Mission Page.
 
 ## Research Debt
 
@@ -100,4 +108,4 @@ Additional sources (not yet cited in footnotes):
 
 ## Document metadata
 
-- Last verified: `2026-07-18`
+- Last verified: `2026-07-31`

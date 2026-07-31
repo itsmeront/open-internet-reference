@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 114
+Record count: 115
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -273,6 +273,15 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 - Tags: organization, open-source-software, digital-rights, outreach
 
 Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+
+## `ORG-FIRE`: Foundation for Individual Rights and Expression { #ORG-FIRE }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-FIRE.md`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- Tags: organization, first-amendment, civil-society, outreach
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
 
 ## `ORG-FSF`: Free Software Foundation { #ORG-FSF }
 

@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-29</dd>
+        <dd>2026-07-31</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>114</dd>
+        <dd>115</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>175</dd>
+        <dd>178</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -125,6 +125,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Electronic Frontier Foundation](#ORG-EFF) (`ORG-EFF`)
 - [Electronic Privacy Information Center](#ORG-EPIC) (`ORG-EPIC`)
 - [Fenwick & West](#ORG-FENWICK) (`ORG-FENWICK`)
+- [Foundation for Individual Rights and Expression](#ORG-FIRE) (`ORG-FIRE`)
 - [Free Software Foundation](#ORG-FSF) (`ORG-FSF`)
 - [Institute for Free Speech](#ORG-INSTITUTE-FOR-FREE-SPEECH) (`ORG-INSTITUTE-FOR-FREE-SPEECH`)
 - [Institute for Justice](#ORG-INSTITUTE-FOR-JUSTICE) (`ORG-INSTITUTE-FOR-JUSTICE`)
@@ -552,6 +553,15 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 - **Tags:** historical-event, surveillance, digital-rights, case-studies
 
 On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
+
+### Foundation for Individual Rights and Expression { #ORG-FIRE-glossary }
+
+- **Record ID:** `ORG-FIRE`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
 
 ### Fourth Amendment { #TOPIC-FOURTH-AMENDMENT-glossary }
 
@@ -1775,6 +1785,17 @@ Fenwick & West is a Silicon Valley law firm founded in 1972 that provides compre
 
 ---
 
+#### Foundation for Individual Rights and Expression { #ORG-FIRE }
+
+- **Record ID:** `ORG-FIRE`
+- **Status:** draft
+- **Sources:** FIRE Mission Page (`SRC-FIRE-MISSION`), FIRE Submit a Case Page (`SRC-FIRE-SUBMIT-CASE`), FIRE Case Page — Prabhakar v. Hawkins et al. (`SRC-FIRE-PRABHAKAR-CASE`)
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
+
+---
+
 #### Free Software Foundation { #ORG-FSF }
 
 - **Record ID:** `ORG-FSF`
@@ -2438,7 +2459,7 @@ U.S. fair use law as it applies to video that incorporates copyrighted music, fo
 
 - **Record ID:** `TOPIC-FIRST-AMENDMENT`
 - **Status:** draft
-- **Sources:** U.S. Constitution First Amendment (Cornell LII) (`SRC-US-CONST-AMEND-I-LII`), Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (`SRC-RENO-V-ACLU-JUSTIA`)
+- **Sources:** U.S. Constitution First Amendment (Cornell LII) (`SRC-US-CONST-AMEND-I-LII`), Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (`SRC-RENO-V-ACLU-JUSTIA`), FIRE Mission Page (`SRC-FIRE-MISSION`)
 - **Tags:** constitutional-law, first-amendment, digital-rights, speech-and-code
 
 The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.
@@ -2953,6 +2974,33 @@ Official Fenwick & West page documenting the firm's history and pioneering role 
 - **Status:** draft
 
 Official Fenwick & West practice page describing the Technology Transactions group.
+
+---
+
+### FIRE Mission Page
+
+- **Source ID:** `SRC-FIRE-MISSION`
+- **Status:** draft
+
+Official FIRE mission page describing free speech/free thought advocacy, campus emphasis, 1999 founding as Foundation for Individual Rights in Education, 2022 rename, and 501(c)(3) status.
+
+---
+
+### FIRE Case Page — Prabhakar v. Hawkins et al.
+
+- **Source ID:** `SRC-FIRE-PRABHAKAR-CASE`
+- **Status:** draft
+
+FIRE advocacy case page describing representation of Florida professor Vinita Prabhakar in a July 29, 2026 federal lawsuit against South Florida State College officials over termination after a literature assignment.
+
+---
+
+### FIRE Submit a Case Page
+
+- **Source ID:** `SRC-FIRE-SUBMIT-CASE`
+- **Status:** draft
+
+Official FIRE case-submission page describing the confidential online intake form, Faculty Legal Defense Fund and Student Press Freedom Initiative hotlines, and attorney-client disclaimer.
 
 ---
 

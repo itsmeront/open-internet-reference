@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 343
+Edge count: 348
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -515,6 +515,26 @@ Connection is via reported Telegram representation by Chikov; not a claim that A
 
 - Declared in: [`ORG-FENWICK`](source-docs/knowledge/organizations/ORG-FENWICK.md)
 - Sources: [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+
+## [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md) `cites` [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+
+- Declared in: [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- Sources: [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+
+## [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md) `cites` [`SRC-FIRE-PRABHAKAR-CASE`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+
+- Declared in: [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- Sources: [`SRC-FIRE-PRABHAKAR-CASE`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+
+## [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md) `cites` [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
+
+- Declared in: [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- Sources: [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
+
+## [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- Sources: [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
 
 ## [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) `cites` [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 
@@ -1604,6 +1624,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
+
+## [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md)
+
+- Declared in: [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Sources: [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
 
 ## [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 

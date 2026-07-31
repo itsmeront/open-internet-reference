@@ -1023,6 +1023,46 @@
       "subject": "ORG-FENWICK"
     },
     {
+      "declared_in": "ORG-FIRE",
+      "notes": null,
+      "object": "SRC-FIRE-MISSION",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FIRE-MISSION"
+      ],
+      "subject": "ORG-FIRE"
+    },
+    {
+      "declared_in": "ORG-FIRE",
+      "notes": null,
+      "object": "SRC-FIRE-PRABHAKAR-CASE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FIRE-PRABHAKAR-CASE"
+      ],
+      "subject": "ORG-FIRE"
+    },
+    {
+      "declared_in": "ORG-FIRE",
+      "notes": null,
+      "object": "SRC-FIRE-SUBMIT-CASE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FIRE-SUBMIT-CASE"
+      ],
+      "subject": "ORG-FIRE"
+    },
+    {
+      "declared_in": "ORG-FIRE",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FIRE-MISSION"
+      ],
+      "subject": "ORG-FIRE"
+    },
+    {
       "declared_in": "ORG-FSF",
       "notes": null,
       "object": "SRC-FSF-ABOUT",
@@ -3196,6 +3236,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-CFA-HOME"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "ORG-FIRE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FIRE-MISSION"
       ],
       "subject": "TOPIC-FIRST-AMENDMENT"
     },

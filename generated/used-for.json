@@ -260,6 +260,14 @@
     },
     {
       "sources": [
+        "SRC-FIRE-MISSION",
+        "SRC-FIRE-PRABHAKAR-CASE",
+        "SRC-FIRE-SUBMIT-CASE"
+      ],
+      "term": "`ORG-FIRE`"
+    },
+    {
+      "sources": [
         "SRC-FSF-ABOUT",
         "SRC-FSF-PRESS"
       ],
@@ -999,6 +1007,12 @@
         "SRC-OIR-BOOTSTRAP-PROMPT"
       ],
       "term": "Initial data model and workflow conventions"
+    },
+    {
+      "sources": [
+        "SRC-FIRE-PRABHAKAR-CASE"
+      ],
+      "term": "Intake provenance for Decap CMS organization proposal (PR #71)"
     },
     {
       "sources": [

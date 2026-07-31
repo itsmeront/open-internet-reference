@@ -1,16 +1,16 @@
 {
   "by_status": {
-    "draft": 176,
+    "draft": 180,
     "verified": 116
   },
   "by_type": {
     "attorney": 18,
     "case": 18,
     "historical_event": 4,
-    "organization": 22,
+    "organization": 23,
     "person": 29,
     "protocol": 3,
-    "source": 178,
+    "source": 181,
     "statute": 6,
     "technology": 2,
     "topic": 12
@@ -37,6 +37,9 @@
     "SRC-FBI-SEMENOV",
     "SRC-FENWICK-HISTORY",
     "SRC-FENWICK-TECH",
+    "SRC-FIRE-MISSION",
+    "SRC-FIRE-PRABHAKAR-CASE",
+    "SRC-FIRE-SUBMIT-CASE",
     "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
     "SRC-FRANCE24-DUROV-KAMINSKI-2024",
     "SRC-GOOGLE-ORACLE-JUSTIA",
@@ -114,6 +117,7 @@
     "ORG-EFF",
     "ORG-EPIC",
     "ORG-FENWICK",
+    "ORG-FIRE",
     "ORG-FSF",
     "ORG-INSTITUTE-FOR-FREE-SPEECH",
     "ORG-INSTITUTE-FOR-JUSTICE",
@@ -202,7 +206,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 176,
-    "records": 292
+    "needing_review": 180,
+    "records": 296
   }
 }

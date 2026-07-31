@@ -1844,6 +1844,71 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "ORG-FIRE",
+      "indictment_date": null,
+      "last_verified": "2026-07-31",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/organizations/ORG-FIRE.md",
+      "relationships": [
+        {
+          "object": "SRC-FIRE-MISSION",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FIRE-MISSION"
+          ],
+          "subject": "ORG-FIRE"
+        },
+        {
+          "object": "SRC-FIRE-SUBMIT-CASE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FIRE-SUBMIT-CASE"
+          ],
+          "subject": "ORG-FIRE"
+        },
+        {
+          "object": "SRC-FIRE-PRABHAKAR-CASE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-FIRE-PRABHAKAR-CASE"
+          ],
+          "subject": "ORG-FIRE"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-FIRE-MISSION"
+          ],
+          "subject": "ORG-FIRE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FIRE.md",
+      "sources": [
+        "SRC-FIRE-MISSION",
+        "SRC-FIRE-SUBMIT-CASE",
+        "SRC-FIRE-PRABHAKAR-CASE"
+      ],
+      "status": "draft",
+      "summary": "FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Foundation for Individual Rights and Expression",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "ORG-FSF",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -6047,7 +6112,7 @@
       "event_date": null,
       "id": "TOPIC-FIRST-AMENDMENT",
       "indictment_date": null,
-      "last_verified": "2026-07-18",
+      "last_verified": "2026-07-31",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
@@ -6083,12 +6148,21 @@
             "SRC-CFA-HOME"
           ],
           "subject": "TOPIC-FIRST-AMENDMENT"
+        },
+        {
+          "object": "ORG-FIRE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-FIRE-MISSION"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "sources": [
         "SRC-US-CONST-AMEND-I-LII",
-        "SRC-RENO-V-ACLU-JUSTIA"
+        "SRC-RENO-V-ACLU-JUSTIA",
+        "SRC-FIRE-MISSION"
       ],
       "status": "draft",
       "summary": "The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.",
