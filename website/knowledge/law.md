@@ -24,6 +24,7 @@ These cases protect internet access and online speech as constitutionally import
 These cases establish privacy protections in the digital context.
 
 - [`CASE-CARPENTER-V-US`](../generated/source-docs/knowledge/legal/CASE-CARPENTER-V-US.md): **Carpenter v. United States** (2018) — acquisition of cell-site location records is a Fourth Amendment search requiring a warrant.
+- [`CASE-CHATRIE-V-US`](../generated/source-docs/knowledge/legal/CASE-CHATRIE-V-US.md): **Chatrie v. United States** (2026) — acquiring Google Location History via a geofence warrant process is a Fourth Amendment search; warrant particularity/probable cause left for remand.
 
 ## Landmark Cases: Computer Crime
 
