@@ -1,0 +1,119 @@
+/* OIR Decap CMS intake chrome */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#oir-cms-login-help {
+  position: relative;
+  z-index: 1000;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  background: #f4f7fb;
+  color: #1a2b3c;
+  border-bottom: 1px solid #c5d4e4;
+  font: 14px/1.45 system-ui, -apple-system, Segoe UI, sans-serif;
+}
+
+#oir-cms-login-help a {
+  color: #0b5fff;
+}
+
+#oir-cms-draft-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10000;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.65rem 0.9rem calc(0.65rem + env(safe-area-inset-bottom, 0));
+  background: #102a43;
+  color: #f0f4f8;
+  font: 13px/1.4 system-ui, -apple-system, Segoe UI, sans-serif;
+  box-shadow: 0 -4px 18px rgba(16, 42, 67, 0.35);
+}
+
+#oir-cms-draft-bar .oir-cms-draft-bar__text {
+  flex: 1 1 12rem;
+  min-width: 0;
+}
+
+#oir-cms-draft-bar .oir-cms-draft-bar__actions {
+  display: flex;
+  gap: 0.5rem;
+  flex: 0 0 auto;
+}
+
+.oir-cms-btn {
+  appearance: none;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  padding: 0.45rem 0.75rem;
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.oir-cms-btn--danger {
+  background: #9b1c1c;
+  color: #fff;
+  border-color: #7f1d1d;
+}
+
+.oir-cms-btn--secondary {
+  background: #243b53;
+  color: #f0f4f8;
+  border-color: #486581;
+}
+
+#oir-cms-toast {
+  position: fixed;
+  left: 50%;
+  bottom: 4.5rem;
+  transform: translateX(-50%) translateY(1rem);
+  z-index: 10001;
+  max-width: min(92vw, 28rem);
+  padding: 0.65rem 0.9rem;
+  border-radius: 8px;
+  background: #243b53;
+  color: #fff;
+  font: 13px/1.4 system-ui, -apple-system, Segoe UI, sans-serif;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+#oir-cms-toast.oir-cms-toast--show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* Keep Decap editor content above the fixed draft bar */
+body {
+  padding-bottom: 4.5rem;
+}
+
+@media (max-width: 640px) {
+  #oir-cms-login-help {
+    font-size: 13px;
+  }
+
+  #oir-cms-draft-bar {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #oir-cms-draft-bar .oir-cms-draft-bar__actions {
+    justify-content: stretch;
+  }
+
+  .oir-cms-btn {
+    flex: 1;
+  }
+}

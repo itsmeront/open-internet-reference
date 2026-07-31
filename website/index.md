@@ -65,9 +65,10 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 
 ## Get Involved
 
-- [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — suggest edits, propose content, or submit changes
+- **[Suggest content](about/suggest.md)** — propose an organization, person, case, or source (phone-friendly). Log into GitHub first, then use the [web editor](https://openinternetresearch.com/admin/).
+- [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — GitHub issues, PRs, and standards
 - [Support OIR](about/support.md) — optional tips through Buy Me a Coffee (not tax-deductible)
-- [Contact records](contacts/index.md) — actionable intake paths for reaching organizations and getting legal help
+- [Contact records](contacts/index.md) — actionable intake paths for reaching organizations (browse-only CRM; no login)
 - [Research debt](generated/review-status.md) — pages that need additional sources or verification
 
 ## About the Project

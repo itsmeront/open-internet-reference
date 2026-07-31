@@ -4,7 +4,17 @@ Thank you for helping build a comprehensive, independently verifiable knowledge 
 
 ## Ways to Contribute
 
-### 1. Suggest a Correction (no Git required)
+### 1. Suggest via the web editor (easiest on a phone)
+
+1. Log into [GitHub](https://github.com/login) in the same browser first.
+2. Open [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/).
+3. Choose **Login with GitHub**, then create a new Organization / Person / Law / Source record.
+4. You do **not** need to invent an ID — a temporary ID is assigned on save; editors rename it during review.
+5. Local drafts autosave on your device if you leave the form to copy a link.
+
+Full mobile walkthrough: [Suggest Content](website/about/suggest.md) (on the published site: `/about/suggest/`).
+
+### 2. Suggest a Correction (GitHub issue)
 
 If you notice an error, outdated information, or broken link:
 
@@ -12,7 +22,7 @@ If you notice an error, outdated information, or broken link:
 - Describe what's wrong and what the correct information should be
 - Include sources for your correction if possible
 
-### 2. Propose New Content (no Git required)
+### 3. Propose New Content (GitHub issue)
 
 To propose a new organization, lawyer, case, or topic:
 
@@ -20,7 +30,7 @@ To propose a new organization, lawyer, case, or topic:
 - Provide the document URL, type, relevance, and any provenance information
 - A research editor will review and create appropriate records
 
-### 3. Submit a Direct Edit (Git workflow)
+### 4. Submit a Direct Edit (Git workflow)
 
 For contributors comfortable with Git:
 
@@ -30,7 +40,7 @@ For contributors comfortable with Git:
 4. Run validation: `python tools/validate_metadata.py`
 5. Submit a pull request
 
-### 4. AI-Assisted Contributions
+### 5. AI-Assisted Contributions
 
 AI agents can contribute through the same workflows:
 
