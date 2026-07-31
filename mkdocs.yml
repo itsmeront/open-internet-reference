@@ -66,6 +66,7 @@ extra_css:
 nav:
   - Home: index.md
   - About:
+      - How OIR Is Made: about/how-we-work.md
       - Project Charter: about/project-charter.md
       - Research Standards: about/research-standards.md
       - Source Intake: about/source-intake.md
@@ -73,6 +74,7 @@ nav:
       - Research Debt: about/research-debt.md
       - Publishing: about/publishing.md
       - Editorial Workflow: about/editorial-workflow.md
+      - Suggest Content: about/suggest.md
       - Contributing (no GitHub): about/contributing-without-github.md
       - Support OIR: about/support.md
       - Roadmap: about/roadmap.md

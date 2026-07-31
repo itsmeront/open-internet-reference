@@ -2,25 +2,21 @@
 
 Thank you for helping build a comprehensive, independently verifiable knowledge base for digital rights and software freedom.
 
+**How OIR works:** human-directed, AI-processed, source-bound. See `PROJECT_CHARTER.md` and `EDITORIAL_WORKFLOW.md`. Most merged pages remain `draft` (accepted into the draft corpus). `verified` is scarce and requires a human deep source audit. Public suggestions are **leads for processing**, not a volunteer editing obligation.
+
 ## Ways to Contribute
 
-### 1. Suggest a Correction (no Git required)
+### 1. Send an intake lead (preferred for most people)
 
-If you notice an error, outdated information, or broken link:
+Point at a URL, organization, case, or error — you do not need to rewrite pages:
 
-- [Open a "Suggest an edit" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml) on GitHub
-- Describe what's wrong and what the correct information should be
-- Include sources for your correction if possible
+- Web editor: [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/) (log into GitHub in the same browser first)
+- [Intake proposal issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=intake-document.yml)
+- [Suggest an edit issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=suggest-edit.yml)
 
-### 2. Propose New Content (no Git required)
+AI usually processes the lead into draft records; a human merges accepted work into the draft corpus.
 
-To propose a new organization, lawyer, case, or topic:
-
-- [Open an "Intake proposal" issue](https://github.com/itsmeront/open-internet-reference/issues/new?template=intake-document.yml) on GitHub
-- Provide the document URL, type, relevance, and any provenance information
-- A research editor will review and create appropriate records
-
-### 3. Submit a Direct Edit (Git workflow)
+### 2. Submit a Direct Edit (Git workflow)
 
 For contributors comfortable with Git:
 
@@ -30,15 +26,17 @@ For contributors comfortable with Git:
 4. Run validation: `python tools/validate_metadata.py`
 5. Submit a pull request
 
-### 4. AI-Assisted Contributions
+### 3. AI-Assisted Contributions (primary labor path)
 
-AI agents can contribute through the same workflows:
+AI agents do most drafting and mechanical QA:
 
 - AI-generated content must be submitted as pull requests
 - AI commits must use a distinguishable Git author (e.g., `OIR-AI <ai@oir.example>`)
 - AI-generated content starts as `draft` status — never directly `verified`
-- AI content must include source references (not just training data claims)
-- Human review is required before any AI contribution is merged
+- AI content must include source references (not training-data claims as facts)
+- Prefer facts + citations; keep interpretation in labeled analysis/commentary sections
+- Human review is required before merge (**draft-corpus acceptance**, not automatic verification)
+- Labels: `ai-generated` when applicable
 
 ## Content Standards
 
@@ -57,6 +55,7 @@ Every knowledge page must have:
 - Every significant factual claim must cite a source
 - Prefer primary sources (court opinions, official pages, RFCs)
 - Do not present AI-generated claims as verified facts
+- Do not rely on unsourced AI output as evidence
 - Mark uncertain information as research debt
 - See `RESEARCH_STANDARDS.md` for full guidelines
 
@@ -71,14 +70,15 @@ python tools/generate_indexes.py     # Regenerate indexes
 mkdocs build --strict                # Build site
 ```
 
-CI will run these checks automatically on your pull request.
+CI will run these checks automatically on your pull request. CI is mechanical QA, not truth certification.
 
 ## Review Process
 
 1. **Automated checks** — CI validates metadata, links, and site build
-2. **Domain review** — domain experts review content in their area (legal, technical, organizations)
-3. **Research verification** — research editors check sources before status changes
-4. **Merge** — approved PRs are merged to main; site regenerates automatically
+2. **Human merge review** — accept into the **draft corpus** when sourcing and genre rules look sound
+3. **Optional domain deep review** — when available for legal, technical, or organization domains
+4. **Verified-core audit** — separate, periodic human check before `status: verified`
+5. **Site publish** — merged `main` regenerates the public site
 
 ## What NOT to Submit
 
@@ -93,7 +93,7 @@ CI will run these checks automatically on your pull request.
 | Label | Meaning |
 |---|---|
 | `ai-generated` | Content was created by an AI agent |
-| `needs-review` | Awaiting domain expert review |
+| `needs-review` | Awaiting domain expert or director review |
 | `needs-sources` | Content needs better source references |
 | `research-debt` | Tracking unresolved verification work |
 

@@ -152,11 +152,13 @@ Initial predicates:
 
 Valid status values:
 
-- `draft`
-- `needs_sources`
-- `in_review`
-- `verified`
-- `deprecated`
+- `draft` — typical public state after merge into the draft corpus (not full human verification)
+- `needs_sources` — missing adequate evidence
+- `in_review` — editorial or deep-audit review underway
+- `verified` — human deep-checked claims against cited sources (scarce verified core)
+- `deprecated` — retained for history; do not use for new citations
+
+Merge accepts work as `draft` (or leaves existing status). Promotion to `verified` is a separate deep audit. See `EDITORIAL_WORKFLOW.md`.
 
 ## Generated Data
 

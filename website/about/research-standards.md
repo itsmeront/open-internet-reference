@@ -2,6 +2,8 @@
 
 OIR does not present a claim as fact unless it can be independently verified.
 
+Most pages are [AI-processed drafts under human direction](how-we-work.md). Unsourced AI output is not evidence. Prefer facts and citations over interpretation.
+
 ## Evidence Labels
 
 - `verified_fact`: directly supported by a cited source.
@@ -42,8 +44,10 @@ See `CITATION_GUIDE.md` and `RESEARCH_STANDARDS.md` in the repository root for c
 
 ## Review Status
 
-- `draft` — not ready for use as reference material.
+- `draft` — typical public state after merge into the draft corpus; not full human verification.
 - `needs_sources` — missing adequate evidence.
-- `in_review` — editorial or technical review underway.
-- `verified` — claims checked against cited sources; biography-only gaps resolved or flagged.
+- `in_review` — editorial or deep-audit review underway.
+- `verified` — human deep-checked claims against cited sources (scarce verified core).
 - `deprecated` — retained for history only.
+
+Merge accepts a page into the draft corpus. Promotion to `verified` is a separate deep audit.

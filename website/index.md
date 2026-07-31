@@ -4,6 +4,8 @@
 
 Open Internet Reference (OIR) is an evidence-based knowledge base documenting the legal, constitutional, historical, technical, and public policy landscape around internet architecture, distributed systems, cryptography, open source software, privacy, and digital rights.
 
+**How it is made:** [human-directed, AI-processed, source-bound](about/how-we-work.md). Most pages are sourced **drafts** accepted into the corpus after human merge review. A smaller **verified core** is deep-audited only periodically. Cited sources — not model prose — are the authority for facts. OIR is not legal advice.
+
 Our mission: help technologists, researchers, attorneys, and civil society organizations find the organizations, lawyers, and legal precedent they need to defend software freedom and fight censorship.
 
 ## Browse the Knowledge Base
@@ -65,7 +67,9 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 
 ## Get Involved
 
-- [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — suggest edits, propose content, or submit changes
+- [How OIR is made](about/how-we-work.md) — human direction, AI processing, draft corpus vs verified core
+- [Suggest content](about/suggest.md) — send a URL or lead for intake (you do not need to edit the corpus)
+- [How to contribute](https://github.com/itsmeront/open-internet-reference/blob/main/CONTRIBUTING.md) — issues, PRs, and standards
 - [Support OIR](about/support.md) — optional tips through Buy Me a Coffee (not tax-deductible)
 - [Contact records](contacts/index.md) — actionable intake paths for reaching organizations and getting legal help
 - [Research debt](generated/review-status.md) — pages that need additional sources or verification

@@ -1,6 +1,8 @@
 # Research Debt
 
-Research debt tracks useful leads that should not yet be treated as verified OIR knowledge.
+Research debt tracks useful leads and gaps that should not yet be treated as part of OIR’s scarce **verified core**.
+
+Under the [human-directed / AI-processed model](how-we-work.md), humans periodically direct debt sweeps; AI usually executes the sourcing work. Closing debt improves draft quality — it does not automatically promote a page to `verified`.
 
 ## Current Focus
 

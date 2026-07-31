@@ -4,7 +4,9 @@ Evidence over assertion. Knowledge over opinion.
 
 Open Internet Reference (OIR) is an evidence-based knowledge base for the legal, constitutional, historical, technical, and public policy landscape around internet architecture, distributed systems, peer-to-peer networking, cryptography, open source software, privacy, internet governance, and digital rights.
 
-Axona may be documented as a case study, but OIR is designed to stand on its own as a public reference project.
+**How it is made:** human-directed, AI-processed, source-bound. AI does most drafting and mechanical QA. Humans prioritize intake, merge accepted work into a public **draft corpus**, and periodically deep-audit a smaller **verified core**. Cited sources are the authority for facts — not model prose. See `PROJECT_CHARTER.md` and `EDITORIAL_WORKFLOW.md`.
+
+Axona may be documented as a case study, but OIR is designed to stand on its own as a public reference project. OIR is not legal advice.
 
 ## Project Status
 
