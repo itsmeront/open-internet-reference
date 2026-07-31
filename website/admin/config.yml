@@ -12,6 +12,9 @@ media_folder: "website/assets/images"
 public_folder: "/assets/images"
 
 # Content collections
+# Note: ID fields are hidden. A temporary *-PENDING-* ID is assigned on save
+# (see cms-intake.js); research editors / AI rename to a canonical ID during processing.
+# Relationships are omitted from the intake form and injected empty on save.
 collections:
   # Knowledge: Organizations
   - name: "organizations"
@@ -19,27 +22,22 @@ collections:
     label_singular: "Organization"
     folder: "knowledge/organizations"
     create: true
-    slug: "{{fields.id}}"
+    slug: "pending-{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}-{{slug}}"
+    identifier_field: "title"
     extension: "md"
     format: "yaml-frontmatter"
     editor:
       preview: false
     fields:
-      - { label: "ID", name: "id", widget: "string", pattern: ['^ORG-[A-Z0-9-]+$', "Must start with ORG- followed by uppercase letters/numbers/hyphens"] }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", hint: "Organization name (required)" }
+      - { label: "Summary", name: "summary", widget: "text", hint: "1–3 sentences. Paste source URLs here if helpful." }
+      - { label: "Body", name: "body", widget: "markdown", required: false, hint: "Optional notes, quotes, or links. You can leave this short." }
+      - { label: "ID", name: "id", widget: "hidden", default: "ORG-PENDING" }
       - { label: "Type", name: "type", widget: "hidden", default: "organization" }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["organization"] }
-      - { label: "Sources", name: "sources", widget: "list", default: [] }
-      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
-          { label: "Subject", name: "subject", widget: "string" },
-          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
-          { label: "Object", name: "object", widget: "string" },
-          { label: "Sources", name: "sources", widget: "list" }
-        ] }
-      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Status", name: "status", widget: "hidden", default: "draft" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["organization"], required: false }
+      - { label: "Sources", name: "sources", widget: "list", default: [], required: false, hint: "Optional. Editors can add SRC-* IDs later." }
+      - { label: "Last Verified", name: "last_verified", widget: "hidden", default: "" }
 
   # Knowledge: People/Attorneys
   - name: "people"
@@ -47,27 +45,22 @@ collections:
     label_singular: "Person"
     folder: "knowledge/people"
     create: true
-    slug: "{{fields.id}}"
+    slug: "pending-{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}-{{slug}}"
+    identifier_field: "title"
     extension: "md"
     format: "yaml-frontmatter"
     editor:
       preview: false
     fields:
-      - { label: "ID", name: "id", widget: "string", pattern: ['^(PERSON|ATT)-[A-Z0-9-]+$', "Must start with PERSON- or ATT- followed by uppercase letters/numbers/hyphens"] }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", hint: "Person's name (required)" }
       - { label: "Type", name: "type", widget: "select", options: ["person", "attorney", "judge"], default: "attorney" }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["attorney"] }
-      - { label: "Sources", name: "sources", widget: "list", default: [] }
-      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
-          { label: "Subject", name: "subject", widget: "string" },
-          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
-          { label: "Object", name: "object", widget: "string" },
-          { label: "Sources", name: "sources", widget: "list" }
-        ] }
-      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Summary", name: "summary", widget: "text", hint: "1–3 sentences. Paste source URLs here if helpful." }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "ID", name: "id", widget: "hidden", default: "PERSON-PENDING" }
+      - { label: "Status", name: "status", widget: "hidden", default: "draft" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["attorney"], required: false }
+      - { label: "Sources", name: "sources", widget: "list", default: [], required: false }
+      - { label: "Last Verified", name: "last_verified", widget: "hidden", default: "" }
 
   # Knowledge: Legal (cases, statutes, topics)
   - name: "legal"
@@ -75,27 +68,22 @@ collections:
     label_singular: "Legal Record"
     folder: "knowledge/legal"
     create: true
-    slug: "{{fields.id}}"
+    slug: "pending-{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}-{{slug}}"
+    identifier_field: "title"
     extension: "md"
     format: "yaml-frontmatter"
     editor:
       preview: false
     fields:
-      - { label: "ID", name: "id", widget: "string", pattern: ['^(CASE|STAT|TOPIC)-[A-Z0-9-]+$', "Must start with CASE-, STAT-, or TOPIC-"] }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", hint: "Case, statute, or topic name" }
       - { label: "Type", name: "type", widget: "select", options: ["case", "statute", "regulation", "topic"], default: "case" }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: [] }
-      - { label: "Sources", name: "sources", widget: "list", default: [] }
-      - { label: "Relationships", name: "relationships", widget: "list", default: [], fields: [
-          { label: "Subject", name: "subject", widget: "string" },
-          { label: "Predicate", name: "predicate", widget: "select", options: ["represented_by", "argued", "decided", "interprets", "cites", "authored", "published", "implements", "standardizes", "funded_by", "affiliated_with", "opposes", "supports", "related_to"] },
-          { label: "Object", name: "object", widget: "string" },
-          { label: "Sources", name: "sources", widget: "list" }
-        ] }
-      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Summary", name: "summary", widget: "text", hint: "1–3 sentences. Paste source URLs here if helpful." }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "ID", name: "id", widget: "hidden", default: "CASE-PENDING" }
+      - { label: "Status", name: "status", widget: "hidden", default: "draft" }
+      - { label: "Tags", name: "tags", widget: "list", default: [], required: false }
+      - { label: "Sources", name: "sources", widget: "list", default: [], required: false }
+      - { label: "Last Verified", name: "last_verified", widget: "hidden", default: "" }
 
   # Bibliography: Source Records
   - name: "sources"
@@ -104,22 +92,22 @@ collections:
     folder: "bibliography"
     create: true
     nested: { depth: 3 }
-    slug: "{{fields.id}}"
+    slug: "pending-{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}-{{slug}}"
+    identifier_field: "title"
     extension: "md"
     format: "yaml-frontmatter"
     editor:
       preview: false
     fields:
-      - { label: "ID", name: "id", widget: "string", pattern: ['^SRC-[A-Z0-9-]+$', "Must start with SRC-"] }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Title", name: "title", widget: "string", hint: "Short source title" }
+      - { label: "Summary", name: "summary", widget: "text", hint: "What this source is. Include the URL in the body if needed." }
+      - { label: "Body", name: "body", widget: "markdown", required: false, hint: "Paste the URL and any notes here." }
+      - { label: "ID", name: "id", widget: "hidden", default: "SRC-PENDING" }
       - { label: "Type", name: "type", widget: "hidden", default: "source" }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["source"] }
-      - { label: "Sources", name: "sources", widget: "list", default: [] }
-      - { label: "Relationships", name: "relationships", widget: "list", default: [] }
-      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Status", name: "status", widget: "hidden", default: "draft" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["source"], required: false }
+      - { label: "Sources", name: "sources", widget: "list", default: [], required: false }
+      - { label: "Last Verified", name: "last_verified", widget: "hidden", default: "" }
 
   # Contacts
   - name: "contacts"
@@ -127,19 +115,19 @@ collections:
     label_singular: "Contact Record"
     folder: "contacts"
     create: true
-    slug: "{{fields.id}}"
+    slug: "pending-{{year}}{{month}}{{day}}-{{hour}}{{minute}}{{second}}-{{slug}}"
+    identifier_field: "title"
     extension: "md"
     format: "yaml-frontmatter"
     editor:
       preview: false
     fields:
-      - { label: "ID", name: "id", widget: "string", pattern: ['^CONTACT-[A-Z0-9-]+$', "Must start with CONTACT-"] }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+      - { label: "ID", name: "id", widget: "hidden", default: "CONTACT-PENDING" }
       - { label: "Type", name: "type", widget: "hidden", default: "organization" }
-      - { label: "Status", name: "status", widget: "select", options: ["draft", "needs_sources", "in_review", "verified", "deprecated"], default: "draft" }
-      - { label: "Summary", name: "summary", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["organization", "outreach"] }
-      - { label: "Sources", name: "sources", widget: "list", default: [] }
-      - { label: "Relationships", name: "relationships", widget: "list", default: [] }
-      - { label: "Last Verified", name: "last_verified", widget: "string", required: false }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Status", name: "status", widget: "hidden", default: "draft" }
+      - { label: "Tags", name: "tags", widget: "list", default: ["organization", "outreach"], required: false }
+      - { label: "Sources", name: "sources", widget: "list", default: [], required: false }
+      - { label: "Last Verified", name: "last_verified", widget: "hidden", default: "" }

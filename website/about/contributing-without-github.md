@@ -2,13 +2,29 @@
 
 Not everyone has or wants a GitHub account. OIR supports several paths for non-technical contributors.
 
+**Prefer the phone-friendly guide:** [Suggest Content](suggest.md) — includes GitHub login-first steps and local draft tips.
+
 ## Option 1: Decap CMS (Web Editor)
 
 Visit [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/) to use the browser-based content editor.
 
+### Login (important on phones)
+
+1. Open [github.com/login](https://github.com/login) in the **same browser** and sign in.
+2. Return to [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/) (trailing slash).
+3. Tap **Login with GitHub** and approve access.
+
+If you try the editor before GitHub login, mobile browsers often fail the OAuth step.
+
+### What you need / what it does
+
 - **What you need:** A GitHub account (free) for authentication
-- **What it does:** Provides a friendly form-based editor that creates pull requests automatically
+- **What it does:** Form-based editor that creates pull requests automatically
+- **IDs:** You do not invent record IDs — a temporary ID is assigned on save; editors rename during review
+- **Drafts:** The editor autosaves a local draft on your device if you leave to copy a link; use **Delete draft** for a fresh form
 - **Best for:** Adding new records, editing existing content, fixing errors
+
+Note: the public [Outreach CRM](../generated/outreach.md) is browse-only and does **not** use GitHub login. Login is only for `/admin/`.
 
 If you don't have a GitHub account, see the options below.
 
