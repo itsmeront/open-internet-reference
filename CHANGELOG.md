@@ -8,6 +8,7 @@ The project uses human-readable milestone entries during the foundation phase. F
 
 ### Changed
 
+- Solo-director branch protection: required approving reviews **0** (keep PR + `docs` CI); document when to raise to 1 for collaborators (`.github/BRANCH_PROTECTION.md`).
 - Documented the production model as **human-directed, AI-processed, source-bound**: merge accepts work into the draft corpus; `verified` remains a scarce human deep-audit status.
 - Clarified that public suggestions are intake leads, not a volunteer line-editing expectation.
 - Rebuilt the public timeline around historical-event `event_date` values instead of document publication and verification dates.
