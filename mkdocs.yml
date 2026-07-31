@@ -65,6 +65,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - Suggest Content: about/suggest.md
   - About:
       - How OIR Is Made: about/how-we-work.md
       - Project Charter: about/project-charter.md

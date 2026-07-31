@@ -1,14 +1,36 @@
 {
-  "generated_at": "2026-07-30T08:07:56.887254Z",
+  "generated_at": "2026-07-31T08:34:43.448984Z",
   "summary": {
-    "open_prs": 0,
-    "ai_prs": 0,
+    "open_prs": 1,
+    "ai_prs": 1,
     "stale_prs": 0,
-    "draft_content": 196,
+    "draft_content": 204,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [],
+  "pull_requests": [
+    {
+      "number": 74,
+      "title": "Improve Decap intake UX for mobile suggestions",
+      "author": "itsmeront",
+      "labels": [
+        "moderation/pending",
+        "needs-review",
+        "ai-generated",
+        "area/website"
+      ],
+      "areas": [
+        "website"
+      ],
+      "age_days": 0,
+      "stale_days": 0,
+      "is_ai": true,
+      "is_draft": false,
+      "needs_review": true,
+      "is_stale": false,
+      "priority": 5
+    }
+  ],
   "draft_content": [
     {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
@@ -71,7 +93,7 @@
       "id": "TOPIC-FIRST-AMENDMENT",
       "title": "First Amendment",
       "status": "draft",
-      "last_verified": "2026-07-18",
+      "last_verified": "2026-07-31",
       "tags": [
         "constitutional-law",
         "first-amendment",
@@ -111,7 +133,7 @@
       "id": "TOPIC-FOURTH-AMENDMENT",
       "title": "Fourth Amendment",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-30",
       "tags": [
         "constitutional-law",
         "fourth-amendment",
@@ -206,7 +228,7 @@
       "id": "CASE-CARPENTER-V-US",
       "title": "Carpenter v. United States",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-30",
       "tags": [
         "fourth-amendment",
         "privacy",
@@ -269,11 +291,25 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-CHATRIE-V-US.md",
+      "id": "CASE-CHATRIE-V-US",
+      "title": "Chatrie v. United States",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-US-V-TUNICK.md",
       "id": "CASE-US-V-TUNICK",
       "title": "United States v. Tunick",
       "status": "draft",
-      "last_verified": "2026-07-27",
+      "last_verified": "2026-07-30",
       "tags": [
         "case",
         "privacy",
@@ -541,6 +577,19 @@
         "organization",
         "privacy",
         "secure-messaging"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-FIRE.md",
+      "id": "ORG-FIRE",
+      "title": "Foundation for Individual Rights and Expression",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
       ]
     },
     {
@@ -1689,6 +1738,21 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CHATRIE-LII.md",
+      "id": "SRC-CHATRIE-LII",
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
       "id": "SRC-IRS-SAMOURAI-PLEA-2025",
       "title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
@@ -1699,6 +1763,21 @@
         "case",
         "computer-crime",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "id": "SRC-CHATRIE-SCOTUS-PDF",
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
       ]
     },
     {
@@ -1787,6 +1866,21 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
+      "id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+      "title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "source",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "commentary"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TREASURY-TC-NOV-2022.md",
       "id": "SRC-TREASURY-TC-NOV-2022",
       "title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
@@ -1815,12 +1909,14 @@
       "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
       "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
       "status": "draft",
-      "last_verified": "2026-07-27",
+      "last_verified": "2026-07-30",
       "tags": [
         "source",
         "case",
         "privacy",
-        "open-source-software"
+        "open-source-software",
+        "border-search",
+        "fourth-amendment"
       ]
     },
     {
@@ -2017,6 +2113,19 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "id": "SRC-FIRE-SUBMIT-CASE",
+      "title": "FIRE Submit a Case Page",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-PERKINS-COIE-TECH.md",
       "id": "SRC-PERKINS-COIE-TECH",
       "title": "Perkins Coie Technology Transactions & Privacy Law Practice Page",
@@ -2057,6 +2166,19 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md",
+      "id": "SRC-FIRE-PRABHAKAR-CASE",
+      "title": "FIRE Case Page \u2014 Prabhakar v. Hawkins et al.",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "case-studies"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-FENWICK-TECH.md",
       "id": "SRC-FENWICK-TECH",
       "title": "Fenwick Technology Transactions Practice Page",
@@ -2092,6 +2214,19 @@
         "source",
         "organization",
         "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FIRE-MISSION.md",
+      "id": "SRC-FIRE-MISSION",
+      "title": "FIRE Mission Page",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
         "outreach"
       ]
     },

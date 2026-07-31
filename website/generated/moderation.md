@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-30 08:07 UTC
+Last updated: 2026-07-31 08:34 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,20 +8,22 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
-| AI-generated PRs | 0 |
+| Open PRs awaiting review | 1 |
+| AI-generated PRs | 1 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 196 |
+| Draft content items | 204 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#74](https://github.com/itsmeront/open-internet-reference/pull/74) | Improve Decap intake UX for mobile suggestions | @itsmeront | website | 0d | 🤖 AI 👀 Review |
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (196)
+### 📋 Draft (204)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -44,9 +46,9 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
 | `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
 | `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
-| `CASE-US-V-TUNICK` | United States v. Tunick | `knowledge/legal/CASE-US-V-TUNICK.md` |
+| `CASE-CHATRIE-V-US` | Chatrie v. United States | `knowledge/legal/CASE-CHATRIE-V-US.md` |
 
-*...and 176 more*
+*...and 184 more*
 
 ## Stale Verifications
 
