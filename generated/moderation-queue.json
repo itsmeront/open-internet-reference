@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-29T08:20:48.437019Z",
+  "generated_at": "2026-07-30T08:07:56.887254Z",
   "summary": {
     "open_prs": 0,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 179,
+    "draft_content": 196,
     "needs_sources": 0,
     "stale_verifications": 0
   },
@@ -21,6 +21,22 @@
         "safe-harbor",
         "intermediary-liability",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "historical-event",
+        "intermediary-liability",
+        "secure-messaging",
+        "encryption-law",
+        "digital-rights",
+        "censorship-resistance",
+        "case-studies"
       ]
     },
     {
@@ -199,6 +215,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "historical-event",
+        "surveillance",
+        "digital-rights",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
       "id": "CASE-UNIVERSAL-V-CORLEY",
       "title": "Universal City Studios v. Corley",
@@ -295,7 +324,7 @@
       "id": "TOPIC-INTERMEDIARY-LIABILITY",
       "title": "Intermediary Liability",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-29",
       "tags": [
         "intermediary-liability",
         "copyright",
@@ -488,7 +517,7 @@
       "id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
       "title": "Documented Proceedings Involving Software Authors and Operators",
       "status": "draft",
-      "last_verified": "2026-07-23",
+      "last_verified": "2026-07-29",
       "tags": [
         "developer-rights",
         "open-source-risk",
@@ -568,6 +597,21 @@
         "internet-governance",
         "civil-society",
         "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-TELEGRAM.md",
+      "id": "ORG-TELEGRAM",
+      "title": "Telegram",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "organization",
+        "privacy",
+        "secure-messaging",
+        "encryption-law",
+        "intermediary-liability",
+        "digital-rights"
       ]
     },
     {
@@ -673,6 +717,20 @@
         "first-amendment",
         "civil-society",
         "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-AGORA.md",
+      "id": "ORG-AGORA",
+      "title": "Agora (human rights lawyers' group)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "organization",
+        "civil-society",
+        "digital-rights",
+        "attorney",
+        "encryption-law"
       ]
     },
     {
@@ -1200,6 +1258,21 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
+      "id": "PERSON-PAVEL-DUROV",
+      "title": "Pavel Durov",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "person",
+        "secure-messaging",
+        "privacy",
+        "encryption-law",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-MATT-BLAZE.md",
       "id": "PERSON-MATT-BLAZE",
       "title": "Matt Blaze",
@@ -1209,6 +1282,18 @@
         "person",
         "cryptography",
         "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "title": "David-Olivier Kaminski",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "attorney",
+        "intermediary-liability",
         "digital-rights"
       ]
     },
@@ -1411,6 +1496,20 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "id": "PERSON-PAVEL-CHIKOV",
+      "title": "Pavel Chikov",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "encryption-law",
+        "civil-society",
+        "censorship-resistance"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-JANET-ABBATE.md",
       "id": "PERSON-JANET-ABBATE",
       "title": "Janet Abbate",
@@ -1520,6 +1619,20 @@
         "copyright",
         "speech-and-code",
         "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-BBC-DUROV-FSB-2026.md",
+      "id": "SRC-BBC-DUROV-FSB-2026",
+      "title": "BBC News \u2014 Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
       ]
     },
     {
@@ -1661,6 +1774,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md",
+      "id": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
+      "title": "FISA Amendments Act of 2008 (Public Law 110-261)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "surveillance",
+        "digital-rights",
+        "historical-event"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TREASURY-TC-NOV-2022.md",
       "id": "SRC-TREASURY-TC-NOV-2022",
       "title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
@@ -1787,6 +1913,20 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-AP-DUROV-FSB-2026.md",
+      "id": "SRC-AP-DUROV-FSB-2026",
+      "title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
       "id": "SRC-COURTLISTENER-TUNICK-DOCKET",
       "title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)",
@@ -1795,6 +1935,19 @@
       "tags": [
         "source",
         "case"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md",
+      "id": "SRC-BUSH-FISA-SIGNING-2008",
+      "title": "White House \u2014 President Bush Signs FISA Amendments Act of 2008",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "surveillance",
+        "digital-rights",
+        "historical-event"
       ]
     },
     {
@@ -1823,6 +1976,33 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md",
+      "id": "SRC-MEDUZA-DUROV-FSB-2026",
+      "title": "Meduza \u2014 FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-TELEGRAM-FAQ.md",
+      "id": "SRC-TELEGRAM-FAQ",
+      "title": "Telegram FAQ",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "secure-messaging"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
       "id": "SRC-WILSON-SONSINI-INTERNET",
       "title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
@@ -1847,6 +2027,33 @@
         "organization",
         "open-source-software",
         "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md",
+      "id": "SRC-RAFTO-AGORA-CHIKOV",
+      "title": "Rafto Foundation \u2014 Agora / Pavel Chikov Prize Page",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "organization",
+        "attorney",
+        "digital-rights",
+        "civil-society"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-TELEGRAM-PRESS.md",
+      "id": "SRC-TELEGRAM-PRESS",
+      "title": "Telegram Press Info",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "secure-messaging"
       ]
     },
     {
@@ -2101,6 +2308,33 @@
         "source",
         "person",
         "computer-crime",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md",
+      "id": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+      "title": "RFE/RL \u2014 Russian Court Orders Telegram App Blocked (2018)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "attorney",
+        "encryption-law",
+        "censorship-resistance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md",
+      "id": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+      "title": "France 24 / AFP \u2014 Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "attorney",
+        "intermediary-liability",
         "digital-rights"
       ]
     },

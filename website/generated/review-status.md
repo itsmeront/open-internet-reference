@@ -16,7 +16,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 ## By Type
 
 - [`attorney`](#attorney-records): 18
-- [`case`](#case-records): 18
+- [`case`](#case-records): 19
 - [`historical_event`](#historical-event-records): 4
 - [`organization`](#organization-records): 23
 - [`person`](#person-records): 29
@@ -31,6 +31,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -127,6 +128,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -145,6 +148,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -220,6 +224,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -316,6 +321,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -334,6 +341,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -543,6 +551,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
@@ -657,6 +666,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
 - [`SRC-CFA-JOIN: Committee for the First Amendment Join Page`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
 - [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+- [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
@@ -693,6 +704,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
+- [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)

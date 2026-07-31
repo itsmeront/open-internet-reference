@@ -31,6 +31,15 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
 
+## `CASE-CHATRIE-V-US`: Chatrie v. United States { #CASE-CHATRIE-V-US }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-CHATRIE-V-US.md`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- Tags: fourth-amendment, privacy, digital-rights, surveillance, case-studies
+
+Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.
+
 ## `CASE-COIN-CENTER-V-YELLEN`: Coin Center v. Yellen { #CASE-COIN-CENTER-V-YELLEN }
 
 - Type: `case`

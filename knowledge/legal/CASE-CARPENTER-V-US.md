@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-CARPENTER-LII
   - SRC-CARPENTER-GOVINFO
+  - SRC-CHATRIE-LII
 relationships:
   - subject: CASE-CARPENTER-V-US
     predicate: cites
@@ -28,7 +29,13 @@ relationships:
     object: TOPIC-FOURTH-AMENDMENT
     sources:
       - SRC-CARPENTER-LII
-last_verified: "2026-06-19"
+  - subject: CASE-CARPENTER-V-US
+    predicate: related_to
+    object: CASE-CHATRIE-V-US
+    sources:
+      - SRC-CHATRIE-LII
+      - SRC-CARPENTER-LII
+last_verified: "2026-07-30"
 decision_date: "2018"
 ---
 
@@ -63,6 +70,7 @@ The Court treated historical cell-site location records as presenting greater pr
 - `CASE-CARPENTER-V-US` cites `SRC-CARPENTER-LII`.
 - `CASE-CARPENTER-V-US` cites `SRC-CARPENTER-GOVINFO`.
 - `CASE-CARPENTER-V-US` related_to `TOPIC-FOURTH-AMENDMENT`.
+- `CASE-CARPENTER-V-US` related_to `CASE-CHATRIE-V-US`.
 
 ## Sources
 
@@ -71,8 +79,9 @@ The Court treated historical cell-site location records as presenting greater pr
 Additional sources (not yet cited in footnotes):
 
 - `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo).
+- `SRC-CHATRIE-LII`: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (extends Carpenter’s location-privacy framework to Google Location History / geofence acquisition).
 
 ## Research Debt
 
-- Add later digital search and surveillance cases with primary sources.
+- Add later digital search and surveillance cases with primary sources (Chatrie intake started 2026-07-30).
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.

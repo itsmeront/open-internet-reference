@@ -46,7 +46,7 @@ relationships:
     object: TOPIC-FOURTH-AMENDMENT
     sources:
       - SRC-TUNICK-MOTION-SUPPRESS-2026
-last_verified: "2026-07-27"
+last_verified: "2026-07-30"
 indictment_date: "2025-11-13"
 offense_date: "2025-01-24"
 ---
@@ -64,7 +64,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
     - **Status**: `draft`
     - **Sources**: 7
     - **Relationships**: 5
-    - **Research debt items**: 6
+    - **Research debt items**: 11
 
 ---
 
@@ -100,19 +100,22 @@ United States v. Tunick, No. 1:25-cr-00499-ELR-CCB (N.D. Ga.), is a pending one-
 ### GrapheneOS / duress reporting (secondary)
 
 - TechCrunch reported that Tunick’s attorneys confirmed GrapheneOS was running on the phone and described the case as involving a duress password that wipes device contents.[^3]
-- TechSpot likewise reported the prosecution in connection with GrapheneOS wipe/passcode features.[^4]
+- TechSpot reported the prosecution in connection with GrapheneOS wipe/passcode features on Pixel phones and described prosecutors treating the wipe as intentional destruction of evidence while the defense seeks suppression.[^4]
+- TechSpot attributed to cybersecurity expert Christophe Boutry and EFF senior staff technologist Bill Buddington statements that they had not seen a similar case aiming the property-destruction statute at an operating system’s wipe features, and attributed to Boutry the concern that the approach “sends the message that [GrapheneOS] is criminal by default.”[^4]
+- TechSpot reported that at the suppression hearing, government witnesses characterized the encounter as a routine airport inspection, and attributed to CBP officer Larry Findley the statement that agents were “looking for anything that’s prohibited.”[^4]
+- TechSpot reported that a ruling on the defense suppression motion was not expected until at least late October (consistent with the docket’s post-hearing briefing schedule into October 2026).[^4][^5]
 - GrapheneOS official documentation describes an optional duress PIN/password that irreversibly wipes the device and installed eSIMs when entered.[^7]
 - The indictment and the suppression motion text reviewed for this OIR page do not name GrapheneOS.[^1][^6]
 
 ## Historical Context
 
-The case sits at the intersection of expanded digital device searches at ports of entry, open-source mobile security features designed for coercion scenarios, and federal use of a property-destruction-to-prevent-seizure statute against alleged deletion of phone data. As of the July 20, 2026 evidentiary hearing, the suppression motion remained pending with further briefing scheduled.[^5]
+The case sits at the intersection of expanded digital device searches at ports of entry, open-source mobile security features designed for coercion scenarios, and federal use of a property-destruction-to-prevent-seizure statute against alleged deletion of phone data. As of the July 20, 2026 evidentiary hearing, the suppression motion remained pending with further briefing scheduled.[^5] Secondary reporting after that hearing emphasizes unsettled questions about whether using a privacy OS wipe feature can support a § 2232(a) theory and how far border-search powers reach when agents also pursue domestic investigative interests.[^3][^4]
 
 
 [^1]: [`SRC-TUNICK-INDICTMENT-2025`](../../../bibliography.md#SRC-TUNICK-INDICTMENT-2025) — United States v. Tunick Indictment (N.D. Ga. Nov. 13, 2025) (RECAP). Charging instrument.
 [^2]: [`SRC-USC-18-2232-LII`](../../../bibliography.md#SRC-USC-18-2232-LII) — 18 U.S.C. § 2232 (Cornell LII). Primary statutory text (LII-hosted).
 [^3]: [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](../../../bibliography.md#SRC-TECHCRUNCH-TUNICK-DURESS-2026) — TechCrunch (July 24, 2026). Secondary journalism.
-[^4]: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](../../../bibliography.md#SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026) — TechSpot Tunick / GrapheneOS report. Secondary journalism; intake article.
+[^4]: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) — TechSpot Tunick / GrapheneOS report. Secondary journalism; intake article.
 [^5]: [`SRC-COURTLISTENER-TUNICK-DOCKET`](../../../bibliography.md#SRC-COURTLISTENER-TUNICK-DOCKET) — CourtListener docket United States v. Tunick (1:25-cr-00499). PACER/RECAP-derived docket.
 [^6]: [`SRC-TUNICK-MOTION-SUPPRESS-2026`](../../../bibliography.md#SRC-TUNICK-MOTION-SUPPRESS-2026) — Motion to Suppress (Mar. 17, 2026) (RECAP). Defense filing; allegations not adjudicated.
 [^7]: [`SRC-GRAPHENEOS-FEATURES`](../../../bibliography.md#SRC-GRAPHENEOS-FEATURES) — GrapheneOS Features Overview (Duress PIN/Password). Official project documentation.
@@ -134,7 +137,7 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 1. [`SRC-TUNICK-INDICTMENT-2025`](../../../bibliography.md#SRC-TUNICK-INDICTMENT-2025): United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025).
 2. [`SRC-USC-18-2232-LII`](../../../bibliography.md#SRC-USC-18-2232-LII): 18 U.S.C. § 2232 (Cornell LII).
 3. [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](../../../bibliography.md#SRC-TECHCRUNCH-TUNICK-DURESS-2026): TechCrunch — Duress Password Border Search Report (July 24, 2026).
-4. [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](../../../bibliography.md#SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026): TechSpot — GrapheneOS Phone Wipe Prosecution Report.
+4. [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html): TechSpot — GrapheneOS Phone Wipe Prosecution Report.
 5. [`SRC-COURTLISTENER-TUNICK-DOCKET`](../../../bibliography.md#SRC-COURTLISTENER-TUNICK-DOCKET): CourtListener Docket — United States v. Tunick.
 6. [`SRC-TUNICK-MOTION-SUPPRESS-2026`](../../../bibliography.md#SRC-TUNICK-MOTION-SUPPRESS-2026): United States v. Tunick — Motion to Suppress (Mar. 17, 2026).
 7. [`SRC-GRAPHENEOS-FEATURES`](../../../bibliography.md#SRC-GRAPHENEOS-FEATURES): GrapheneOS Features Overview — Duress PIN/Password.
@@ -142,9 +145,14 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 ## Research Debt
 
 - Locate a primary filing that expressly names GrapheneOS or “duress” credentials (if filed); until then keep OS attribution under secondary reporting.
+- Obtain hearing transcript or minute order for the July 20, 2026 suppression hearing before treating TechSpot-attributed witness testimony (e.g., Larry Findley) as verified beyond secondary reporting.
+- Confirm TechSpot publication/byline date (page undated at intake) and archive a copy.
 - Add RECAP PDF for Doc. 8.1 not-guilty plea form as a dedicated source if needed beyond the docket minute entry.
 - Track the suppression ruling and any trial or plea outcome; update status when adjudicated.
 - Note: `offense_date` is the indictment’s “on or about January 24, 2025” alleged conduct date, not an adjudicated finding.
+- Evaluate whether TechSpot’s comparative Spain/Catalonia Pixel-profiling anecdote warrants a separate sourced research item; do not promote without independent sources.
+- Evaluate TechSpot’s reference to a separate federal Cop City–related indictment for possible linked case intake.
+- Consider PERSON or contact intake for Bill Buddington (EFF) only with official EFF bio/source; Boutry needs independent affiliation source before a person page.
 - Consider a focused topic page on border device searches / digital wipe features once additional cases are intake-reviewed.
 - Domain expert (criminal procedure / border search) review before any status above `draft`.
 
@@ -152,4 +160,4 @@ Jurisdiction: U.S. District Court, Northern District of Georgia (criminal). Auth
 
 - Offense date: `2025-01-24`
 - Indictment date: `2025-11-13`
-- Last verified: `2026-07-27`
+- Last verified: `2026-07-30`

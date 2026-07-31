@@ -241,6 +241,7 @@ Cornell Legal Information Institute page for the Supreme Court decision on Fourt
 
 ### Cited By
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
@@ -319,6 +320,32 @@ CNN reporting on Jane Fonda's October 2025 relaunch of the Committee for the Fir
 - [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT: Committee for the First Amendment`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
 - [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
+
+## `SRC-CHATRIE-LII`: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) { #SRC-CHATRIE-LII }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CHATRIE-LII.md`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+- Tags: source, case-law, fourth-amendment, privacy, digital-rights, surveillance
+
+Cornell LII page for the Supreme Court decision holding that police conduct a Fourth Amendment search when they acquire an individual’s Google Location History data via a geofence warrant process; vacated and remanded on warrant reasonableness questions.
+
+### Cited By
+- [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## `SRC-CHATRIE-SCOTUS-PDF`: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF) { #SRC-CHATRIE-SCOTUS-PDF }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+- Tags: source, case-law, fourth-amendment, privacy, digital-rights, surveillance
+
+Official Supreme Court slip opinion PDF for Chatrie v. United States (geofence / Location History Fourth Amendment search holding; vacated and remanded).
+
+### Cited By
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 
 ## `SRC-CHESTEK-ABOUT`: Pamela Chestek About Page { #SRC-CHESTEK-ABOUT }
 
@@ -768,6 +795,19 @@ Official UWM History Department faculty profile for Thomas Haigh describing his 
 
 ### Cited By
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
+
+## `SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) { #SRC-HILL-MARLOW-REVERSE-WARRANTS-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
+- Tags: source, fourth-amendment, privacy, digital-rights, surveillance, commentary
+
+ACLU senior policy counsel Chad Marlow’s Hill opinion essay arguing that Chatrie v. United States and a Delaware reverse-keyword-warrant bill mark a privacy watershed against reverse (geofence/keyword) warrants.
+
+### Cited By
+- [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
 ## `SRC-IEEPA-50-USC-1702-LII`: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) { #SRC-IEEPA-50-USC-1702-LII }
 
@@ -1703,9 +1743,9 @@ TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS wa
 - Type: `source`
 - Status: `draft`
 - Path: [`bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
-- Tags: source, case, privacy, open-source-software
+- Tags: source, case, privacy, open-source-software, border-search, fourth-amendment
 
-TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+TechSpot secondary report on United States v. Tunick, covering the alleged GrapheneOS-related phone wipe during an Atlanta airport CBP search, suppression-hearing testimony, and expert commentary on prosecuting wipe features under 18 U.S.C. § 2232(a).
 
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)

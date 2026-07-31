@@ -261,11 +261,27 @@
       "source_doc_path": "source-docs/knowledge/legal/CASE-CARPENTER-V-US.md",
       "sources": [
         "SRC-CARPENTER-LII",
-        "SRC-CARPENTER-GOVINFO"
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CHATRIE-LII"
       ],
       "status": "draft",
       "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
       "title": "Carpenter v. United States",
+      "type": "case"
+    },
+    {
+      "id": "CASE-CHATRIE-V-US",
+      "path": "knowledge/legal/CASE-CHATRIE-V-US.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CHATRIE-V-US.md",
+      "sources": [
+        "SRC-CHATRIE-LII",
+        "SRC-CHATRIE-SCOTUS-PDF",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+        "SRC-CARPENTER-LII"
+      ],
+      "status": "draft",
+      "summary": "Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.",
+      "title": "Chatrie v. United States",
       "type": "case"
     },
     {
@@ -1461,7 +1477,9 @@
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
       "sources": [
         "SRC-US-CONST-AMEND-IV-LII",
-        "SRC-CARPENTER-LII"
+        "SRC-CARPENTER-LII",
+        "SRC-CHATRIE-LII",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026"
       ],
       "status": "draft",
       "summary": "The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.",

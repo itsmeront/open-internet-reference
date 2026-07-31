@@ -942,6 +942,83 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Supreme Court of the United States; page hosted by Cornell Legal Information Institute",
+        "publication date": "2026-06-29",
+        "source type": "Court case / primary authority (LII-hosted)",
+        "url or citation": "https://www.law.cornell.edu/supremecourt/text/25-112"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CHATRIE-LII",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CHATRIE-LII.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CHATRIE-LII.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Cornell LII page for the Supreme Court decision holding that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data via a geofence warrant process; vacated and remanded on warrant reasonableness questions.",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Supreme Court of the United States",
+        "publication date": "2026-06-29",
+        "source type": "Court opinion / primary authority",
+        "url or citation": "https://www.supremecourt.gov/opinions/25pdf/25-112_0am4.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CHATRIE-SCOTUS-PDF",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Supreme Court slip opinion PDF for Chatrie v. United States (geofence / Location History Fourth Amendment search holding; vacated and remanded).",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ],
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Chestek Legal",
@@ -2268,6 +2345,45 @@
       "type": "source",
       "used_for": [
         "`PERSON-THOMAS-HAIGH`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-30",
+        "author or issuing body": "Chad Marlow (ACLU senior policy counsel), published by The Hill as opinion contributor",
+        "publication date": "2026-07-30",
+        "source type": "Opinion / advocacy commentary (secondary)",
+        "url or citation": "https://thehill.com/opinion/criminal-justice/5998614-supreme-court-privacy-ruling/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "ACLU senior policy counsel Chad Marlow\u2019s Hill opinion essay arguing that Chatrie v. United States and a Delaware reverse-keyword-warrant bill mark a privacy watershed against reverse (geofence/keyword) warrants.",
+      "tags": [
+        "source",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "commentary"
+      ],
+      "title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CHATRIE-V-US`",
+        "`TOPIC-FOURTH-AMENDMENT`"
       ]
     },
     {
@@ -5094,12 +5210,12 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
-        "access date": "2026-07-27",
+        "access date": "2026-07-30",
         "archive url": "None recorded",
         "author or issuing body": "TechSpot",
-        "publication date": "2026 (accessed 2026-07-27; exact byline date not independently confirmed in OIR intake)",
+        "publication date": "Not dated on page (article refers to a Monday suppression hearing consistent with the July 20, 2026 docket hearing; accessed 2026-07-30)",
         "source type": "Secondary journalism",
-        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+        "url or citation": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
       },
       "charge_date": null,
       "decision_date": null,
@@ -5107,7 +5223,7 @@
       "event_date": null,
       "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
       "indictment_date": null,
-      "last_verified": "2026-07-27",
+      "last_verified": "2026-07-30",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
@@ -5115,12 +5231,14 @@
       "source_doc_path": "source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
       "sources": [],
       "status": "draft",
-      "summary": "TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.",
+      "summary": "TechSpot secondary report on United States v. Tunick, covering the alleged GrapheneOS-related phone wipe during an Atlanta airport CBP search, suppression-hearing testimony, and expert commentary on prosecuting wipe features under 18 U.S.C. \u00a7 2232(a).",
       "tags": [
         "source",
         "case",
         "privacy",
-        "open-source-software"
+        "open-source-software",
+        "border-search",
+        "fourth-amendment"
       ],
       "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
       "type": "source",

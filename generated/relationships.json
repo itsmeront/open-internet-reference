@@ -104,12 +104,64 @@
     {
       "declared_in": "CASE-CARPENTER-V-US",
       "notes": null,
+      "object": "CASE-CHATRIE-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CHATRIE-LII",
+        "SRC-CARPENTER-LII"
+      ],
+      "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-CARPENTER-V-US",
+      "notes": null,
       "object": "TOPIC-FOURTH-AMENDMENT",
       "predicate": "related_to",
       "sources": [
         "SRC-CARPENTER-LII"
       ],
       "subject": "CASE-CARPENTER-V-US"
+    },
+    {
+      "declared_in": "CASE-CHATRIE-V-US",
+      "notes": null,
+      "object": "SRC-CHATRIE-LII",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CHATRIE-LII"
+      ],
+      "subject": "CASE-CHATRIE-V-US"
+    },
+    {
+      "declared_in": "CASE-CHATRIE-V-US",
+      "notes": null,
+      "object": "SRC-CHATRIE-SCOTUS-PDF",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CHATRIE-SCOTUS-PDF"
+      ],
+      "subject": "CASE-CHATRIE-V-US"
+    },
+    {
+      "declared_in": "CASE-CHATRIE-V-US",
+      "notes": null,
+      "object": "CASE-CARPENTER-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CHATRIE-LII",
+        "SRC-CARPENTER-LII"
+      ],
+      "subject": "CASE-CHATRIE-V-US"
+    },
+    {
+      "declared_in": "CASE-CHATRIE-V-US",
+      "notes": null,
+      "object": "TOPIC-FOURTH-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CHATRIE-LII"
+      ],
+      "subject": "CASE-CHATRIE-V-US"
     },
     {
       "declared_in": "CASE-COIN-CENTER-V-YELLEN",
@@ -3276,6 +3328,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-CARPENTER-LII"
+      ],
+      "subject": "TOPIC-FOURTH-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FOURTH-AMENDMENT",
+      "notes": null,
+      "object": "CASE-CHATRIE-V-US",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CHATRIE-LII"
       ],
       "subject": "TOPIC-FOURTH-AMENDMENT"
     },
