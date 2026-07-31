@@ -648,6 +648,43 @@ Official Fenwick & West practice page describing the Technology Transactions gro
 ### Cited By
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
 
+## `SRC-FIRE-MISSION`: FIRE Mission Page { #SRC-FIRE-MISSION }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FIRE-MISSION.md`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+- Tags: source, organization, first-amendment, outreach
+
+Official FIRE mission page describing free speech/free thought advocacy, campus emphasis, 1999 founding as Foundation for Individual Rights in Education, 2022 rename, and 501(c)(3) status.
+
+### Cited By
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
+- [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+## `SRC-FIRE-PRABHAKAR-CASE`: FIRE Case Page — Prabhakar v. Hawkins et al. { #SRC-FIRE-PRABHAKAR-CASE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+- Tags: source, organization, first-amendment, case-studies
+
+FIRE advocacy case page describing representation of Florida professor Vinita Prabhakar in a July 29, 2026 federal lawsuit against South Florida State College officials over termination after a literature assignment.
+
+### Cited By
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
+
+## `SRC-FIRE-SUBMIT-CASE`: FIRE Submit a Case Page { #SRC-FIRE-SUBMIT-CASE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
+- Tags: source, organization, first-amendment, outreach
+
+Official FIRE case-submission page describing the confidential online intake form, Faculty Legal Defense Fund and Student Press Freedom Initiative hotlines, and attorney-client disclaimer.
+
+### Cited By
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
+
 ## `SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`: FISA Amendments Act of 2008 (Public Law 110-261) { #SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS }
 
 - Type: `source`

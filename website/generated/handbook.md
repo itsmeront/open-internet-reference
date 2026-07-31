@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-30 | **Records:** 114 | **Sources referenced:** 175
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-31 | **Records:** 115 | **Sources referenced:** 178
 
 <div class="oir-handbook" markdown="1">
 
@@ -93,6 +93,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Electronic Frontier Foundation](#ORG-EFF) (`ORG-EFF`)
 - [Electronic Privacy Information Center](#ORG-EPIC) (`ORG-EPIC`)
 - [Fenwick & West](#ORG-FENWICK) (`ORG-FENWICK`)
+- [Foundation for Individual Rights and Expression](#ORG-FIRE) (`ORG-FIRE`)
 - [Free Software Foundation](#ORG-FSF) (`ORG-FSF`)
 - [Institute for Free Speech](#ORG-INSTITUTE-FOR-FREE-SPEECH) (`ORG-INSTITUTE-FOR-FREE-SPEECH`)
 - [Institute for Justice](#ORG-INSTITUTE-FOR-JUSTICE) (`ORG-INSTITUTE-FOR-JUSTICE`)
@@ -529,6 +530,15 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 - **Tags:** historical-event, surveillance, digital-rights, case-studies
 
 On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
+
+### Foundation for Individual Rights and Expression { #ORG-FIRE-glossary }
+
+- **Record ID:** `ORG-FIRE`
+- **Type:** organization
+- **Status:** draft
+- **Tags:** organization, first-amendment, civil-society, outreach
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
 
 ### Fourth Amendment { #TOPIC-FOURTH-AMENDMENT-glossary }
 
@@ -1567,6 +1577,13 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 
 Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
 
+#### [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md): Foundation for Individual Rights and Expression { #ORG-FIRE }
+
+- Status: `draft`
+- Sources: [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md), [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md), [`SRC-FIRE-PRABHAKAR-CASE`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
+
 #### [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): Free Software Foundation { #ORG-FSF }
 
 - Status: `draft`
@@ -1993,7 +2010,7 @@ U.S. fair use law as it applies to video that incorporates copyrighted music, fo
 #### [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): First Amendment { #TOPIC-FIRST-AMENDMENT }
 
 - Status: `draft`
-- Sources: [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md), [`SRC-RENO-V-ACLU-JUSTIA`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
+- Sources: [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md), [`SRC-RENO-V-ACLU-JUSTIA`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md), [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
 
 The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.
 
@@ -2094,6 +2111,9 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-FBI-SEMENOV`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md): FBI Wanted — Roman Semenov (`draft`)
 - [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md): Fenwick & West Firm History Page (`draft`)
 - [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md): Fenwick Technology Transactions Practice Page (`draft`)
+- [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md): FIRE Mission Page (`draft`)
+- [`SRC-FIRE-PRABHAKAR-CASE`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md): FIRE Case Page — Prabhakar v. Hawkins et al. (`draft`)
+- [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md): FIRE Submit a Case Page (`draft`)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md): FISA Amendments Act of 2008 (Public Law 110-261) (`draft`)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`verified`)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md): France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`draft`)

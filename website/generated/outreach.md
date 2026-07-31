@@ -4,7 +4,7 @@ This page is generated from records tagged `outreach`. Do not edit it manually.
 
 This is a prototype index, not a verified contact database. Contact details should be checked against official public sources before use.
 
-Record count: 36
+Record count: 39
 
 ## [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): American Civil Liberties Union
 
@@ -68,6 +68,15 @@ EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect
 - Sources: [`SRC-FENWICK-TECH`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md), [`SRC-FENWICK-HISTORY`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 
 Fenwick & West is a Silicon Valley law firm founded in 1972 that provides comprehensive technology legal services including copyright, open source, patent, and trademark, representing 1,500+ VC-backed companies.
+
+## [`ORG-FIRE`](source-docs/knowledge/organizations/ORG-FIRE.md): Foundation for Individual Rights and Expression
+
+- Type: `organization`
+- Status: `draft`
+- Last verified: `2026-07-31`
+- Sources: [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md), [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md), [`SRC-FIRE-PRABHAKAR-CASE`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+
+FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.
 
 ## [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): Free Software Foundation
 
@@ -240,6 +249,22 @@ Official Fenwick & West page documenting the firm's history and pioneering role 
 - Last verified: `2026-06-25`
 
 Official Fenwick & West practice page describing the Technology Transactions group.
+
+## [`SRC-FIRE-MISSION`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md): FIRE Mission Page
+
+- Type: `source`
+- Status: `draft`
+- Last verified: `2026-07-31`
+
+Official FIRE mission page describing free speech/free thought advocacy, campus emphasis, 1999 founding as Foundation for Individual Rights in Education, 2022 rename, and 501(c)(3) status.
+
+## [`SRC-FIRE-SUBMIT-CASE`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md): FIRE Submit a Case Page
+
+- Type: `source`
+- Status: `draft`
+- Last verified: `2026-07-31`
+
+Official FIRE case-submission page describing the confidential online intake form, Faculty Legal Defense Fund and Student Press Freedom Initiative hotlines, and attorney-client disclaimer.
 
 ## [`SRC-PERKINS-COIE-TECH`](source-docs/bibliography/organizations/SRC-PERKINS-COIE-TECH.md): Perkins Coie Technology Transactions & Privacy Law Practice Page
 

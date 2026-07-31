@@ -1,6 +1,6 @@
 {
   "description": "Generated outreach CRM prototype from outreach-tagged metadata records.",
-  "record_count": 36,
+  "record_count": 39,
   "records": [
     {
       "id": "ORG-ACLU",
@@ -143,6 +143,27 @@
         "outreach"
       ],
       "title": "Fenwick & West",
+      "type": "organization"
+    },
+    {
+      "id": "ORG-FIRE",
+      "last_verified": "2026-07-31",
+      "path": "knowledge/organizations/ORG-FIRE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FIRE.md",
+      "sources": [
+        "SRC-FIRE-MISSION",
+        "SRC-FIRE-SUBMIT-CASE",
+        "SRC-FIRE-PRABHAKAR-CASE"
+      ],
+      "status": "draft",
+      "summary": "FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ],
+      "title": "Foundation for Individual Rights and Expression",
       "type": "organization"
     },
     {
@@ -526,6 +547,40 @@
         "outreach"
       ],
       "title": "Fenwick Technology Transactions Practice Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-FIRE-MISSION",
+      "last_verified": "2026-07-31",
+      "path": "bibliography/organizations/SRC-FIRE-MISSION.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FIRE-MISSION.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official FIRE mission page describing free speech/free thought advocacy, campus emphasis, 1999 founding as Foundation for Individual Rights in Education, 2022 rename, and 501(c)(3) status.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "FIRE Mission Page",
+      "type": "source"
+    },
+    {
+      "id": "SRC-FIRE-SUBMIT-CASE",
+      "last_verified": "2026-07-31",
+      "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official FIRE case-submission page describing the confidential online intake form, Faculty Legal Defense Fund and Student Press Freedom Initiative hotlines, and attorney-client disclaimer.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "FIRE Submit a Case Page",
       "type": "source"
     },
     {

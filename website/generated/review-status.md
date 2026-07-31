@@ -18,7 +18,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`attorney`](#attorney-records): 18
 - [`case`](#case-records): 19
 - [`historical_event`](#historical-event-records): 4
-- [`organization`](#organization-records): 22
+- [`organization`](#organization-records): 23
 - [`person`](#person-records): 29
 - [`protocol`](#protocol-records): 3
 - [`source`](#source-records): 181
@@ -59,6 +59,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
 - [`ORG-INSTITUTE-FOR-FREE-SPEECH: Institute for Free Speech`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md)
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
@@ -140,6 +141,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FIRE-MISSION: FIRE Mission Page`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+- [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+- [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -248,6 +252,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
 - [`ORG-INSTITUTE-FOR-FREE-SPEECH: Institute for Free Speech`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md)
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
@@ -329,6 +334,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FIRE-MISSION: FIRE Mission Page`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+- [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+- [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -577,6 +585,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`ORG-EFF: Electronic Frontier Foundation`](source-docs/knowledge/organizations/ORG-EFF.md)
 - [`ORG-EPIC: Electronic Privacy Information Center`](source-docs/knowledge/organizations/ORG-EPIC.md)
 - [`ORG-FENWICK: Fenwick & West`](source-docs/knowledge/organizations/ORG-FENWICK.md)
+- [`ORG-FIRE: Foundation for Individual Rights and Expression`](source-docs/knowledge/organizations/ORG-FIRE.md)
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
 - [`ORG-INSTITUTE-FOR-FREE-SPEECH: Institute for Free Speech`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md)
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
@@ -683,6 +692,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
 - [`SRC-FENWICK-TECH: Fenwick Technology Transactions Practice Page`](source-docs/bibliography/organizations/SRC-FENWICK-TECH.md)
+- [`SRC-FIRE-MISSION: FIRE Mission Page`](source-docs/bibliography/organizations/SRC-FIRE-MISSION.md)
+- [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
+- [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)

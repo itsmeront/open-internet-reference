@@ -1907,6 +1907,115 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-07-31",
+        "author or issuing body": "Foundation for Individual Rights and Expression (FIRE)",
+        "publication date": "Not dated",
+        "source type": "Official organization page",
+        "url or citation": "https://www.thefire.org/about-us/mission"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FIRE-MISSION",
+      "indictment_date": null,
+      "last_verified": "2026-07-31",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-FIRE-MISSION.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FIRE-MISSION.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official FIRE mission page describing free speech/free thought advocacy, campus emphasis, 1999 founding as Foundation for Individual Rights in Education, 2022 rename, and 501(c)(3) status.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "FIRE Mission Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-FIRE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-31",
+        "author or issuing body": "Foundation for Individual Rights and Expression (FIRE)",
+        "publication date": "Not dated on page (describes July 29, 2026 filing)",
+        "source type": "Organization case/advocacy page (secondary as to court facts)",
+        "url or citation": "https://www.thefire.org/cases/prabhakar-v-hawkins-et-al"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FIRE-PRABHAKAR-CASE",
+      "indictment_date": null,
+      "last_verified": "2026-07-31",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "FIRE advocacy case page describing representation of Florida professor Vinita Prabhakar in a July 29, 2026 federal lawsuit against South Florida State College officials over termination after a literature assignment.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "case-studies"
+      ],
+      "title": "FIRE Case Page \u2014 Prabhakar v. Hawkins et al.",
+      "type": "source",
+      "used_for": [
+        "`ORG-FIRE`",
+        "Intake provenance for Decap CMS organization proposal (PR #71)"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-07-31",
+        "author or issuing body": "Foundation for Individual Rights and Expression (FIRE)",
+        "publication date": "Not dated",
+        "source type": "Official organization page / public intake path",
+        "url or citation": "https://www.thefire.org/submit-a-case"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FIRE-SUBMIT-CASE",
+      "indictment_date": null,
+      "last_verified": "2026-07-31",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official FIRE case-submission page describing the confidential online intake form, Faculty Legal Defense Fund and Student Press Freedom Initiative hotlines, and attorney-client disclaimer.",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ],
+      "title": "FIRE Submit a Case Page",
+      "type": "source",
+      "used_for": [
+        "`ORG-FIRE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-29",
         "author or issuing body": "U.S. Congress / U.S. Government Publishing Office (via Congress.gov)",
         "publication date": "2008-07-10",

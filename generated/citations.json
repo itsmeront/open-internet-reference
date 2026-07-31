@@ -1647,6 +1647,84 @@
       ]
     },
     {
+      "source_id": "SRC-FIRE-MISSION",
+      "source_title": "FIRE Mission Page",
+      "usages": [
+        {
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FIRE-MISSION",
+          "predicate": "cites",
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "subject": "ORG-FIRE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "subject": "ORG-FIRE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-FIRE",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FIRE-PRABHAKAR-CASE",
+      "source_title": "FIRE Case Page \u2014 Prabhakar v. Hawkins et al.",
+      "usages": [
+        {
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FIRE-PRABHAKAR-CASE",
+          "predicate": "cites",
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "subject": "ORG-FIRE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FIRE-SUBMIT-CASE",
+      "source_title": "FIRE Submit a Case Page",
+      "usages": [
+        {
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FIRE-SUBMIT-CASE",
+          "predicate": "cites",
+          "record_id": "ORG-FIRE",
+          "record_title": "Foundation for Individual Rights and Expression",
+          "subject": "ORG-FIRE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
       "source_title": "FISA Amendments Act of 2008 (Public Law 110-261)",
       "usages": [

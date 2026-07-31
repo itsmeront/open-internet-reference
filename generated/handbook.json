@@ -652,6 +652,20 @@
       "type": "organization"
     },
     {
+      "id": "ORG-FIRE",
+      "path": "knowledge/organizations/ORG-FIRE.md",
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-FIRE.md",
+      "sources": [
+        "SRC-FIRE-MISSION",
+        "SRC-FIRE-SUBMIT-CASE",
+        "SRC-FIRE-PRABHAKAR-CASE"
+      ],
+      "status": "draft",
+      "summary": "FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought through campus advocacy, litigation, policy reform, and public education; founded in 1999 and renamed in 2022 when it expanded beyond higher education.",
+      "title": "Foundation for Individual Rights and Expression",
+      "type": "organization"
+    },
+    {
       "id": "ORG-FSF",
       "path": "knowledge/organizations/ORG-FSF.md",
       "source_doc_path": "source-docs/knowledge/organizations/ORG-FSF.md",
@@ -1449,7 +1463,8 @@
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "sources": [
         "SRC-US-CONST-AMEND-I-LII",
-        "SRC-RENO-V-ACLU-JUSTIA"
+        "SRC-RENO-V-ACLU-JUSTIA",
+        "SRC-FIRE-MISSION"
       ],
       "status": "draft",
       "summary": "The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.",
