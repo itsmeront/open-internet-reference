@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 343
+Edge count: 349
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -54,10 +54,35 @@ Edge count: 343
 - Declared in: [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 
+## [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md) `related_to` [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+
+- Declared in: [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
 ## [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
 - Declared in: [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md) `cites` [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+
+- Declared in: [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
+
+## [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md) `cites` [`SRC-CHATRIE-SCOTUS-PDF`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+
+- Declared in: [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- Sources: [`SRC-CHATRIE-SCOTUS-PDF`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+
+## [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md) `related_to` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+
+- Declared in: [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md), [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+- Declared in: [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 
 ## [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md) `cites` [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 
@@ -1619,6 +1644,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `related_to` [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
+
+- Declared in: [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+- Sources: [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 
 ## [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `cites` [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
 

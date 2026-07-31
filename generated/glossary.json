@@ -138,7 +138,7 @@
       "event_date": null,
       "id": "CASE-CARPENTER-V-US",
       "indictment_date": null,
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-30",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
@@ -166,12 +166,22 @@
             "SRC-CARPENTER-LII"
           ],
           "subject": "CASE-CARPENTER-V-US"
+        },
+        {
+          "object": "CASE-CHATRIE-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CHATRIE-LII",
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "CASE-CARPENTER-V-US"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/CASE-CARPENTER-V-US.md",
       "sources": [
         "SRC-CARPENTER-LII",
-        "SRC-CARPENTER-GOVINFO"
+        "SRC-CARPENTER-GOVINFO",
+        "SRC-CHATRIE-LII"
       ],
       "status": "draft",
       "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
@@ -182,6 +192,74 @@
         "surveillance"
       ],
       "title": "Carpenter v. United States",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2026-06-29",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-CHATRIE-V-US",
+      "indictment_date": null,
+      "last_verified": "2026-07-30",
+      "legislative_override_date": null,
+      "offense_date": "2019-05-20",
+      "path": "knowledge/legal/CASE-CHATRIE-V-US.md",
+      "relationships": [
+        {
+          "object": "SRC-CHATRIE-LII",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CHATRIE-LII"
+          ],
+          "subject": "CASE-CHATRIE-V-US"
+        },
+        {
+          "object": "SRC-CHATRIE-SCOTUS-PDF",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CHATRIE-SCOTUS-PDF"
+          ],
+          "subject": "CASE-CHATRIE-V-US"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CHATRIE-LII"
+          ],
+          "subject": "CASE-CHATRIE-V-US"
+        },
+        {
+          "object": "CASE-CARPENTER-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CHATRIE-LII",
+            "SRC-CARPENTER-LII"
+          ],
+          "subject": "CASE-CHATRIE-V-US"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CHATRIE-V-US.md",
+      "sources": [
+        "SRC-CHATRIE-LII",
+        "SRC-CHATRIE-SCOTUS-PDF",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+        "SRC-CARPENTER-LII"
+      ],
+      "status": "draft",
+      "summary": "Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a Fourth Amendment search when they acquire an individual\u2019s Google Location History data through a geofence warrant process, vacated the Fourth Circuit, and remanded warrant particularity/probable-cause questions.",
+      "tags": [
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "case-studies"
+      ],
+      "title": "Chatrie v. United States",
       "type": "case",
       "used_for": []
     },
@@ -6111,7 +6189,7 @@
       "event_date": null,
       "id": "TOPIC-FOURTH-AMENDMENT",
       "indictment_date": null,
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-30",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
@@ -6131,12 +6209,22 @@
             "SRC-CARPENTER-LII"
           ],
           "subject": "TOPIC-FOURTH-AMENDMENT"
+        },
+        {
+          "object": "CASE-CHATRIE-V-US",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CHATRIE-LII"
+          ],
+          "subject": "TOPIC-FOURTH-AMENDMENT"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
       "sources": [
         "SRC-US-CONST-AMEND-IV-LII",
-        "SRC-CARPENTER-LII"
+        "SRC-CARPENTER-LII",
+        "SRC-CHATRIE-LII",
+        "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026"
       ],
       "status": "draft",
       "summary": "The Fourth Amendment to the U.S. Constitution limits unreasonable searches and seizures and is a foundational source for privacy and surveillance law.",
