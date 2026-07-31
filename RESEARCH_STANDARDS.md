@@ -4,6 +4,15 @@
 
 Do not present a claim as fact unless it can be independently verified.
 
+## How AI Fits
+
+Most OIR pages are **AI-processed drafts** under human direction (see `PROJECT_CHARTER.md` and `EDITORIAL_WORKFLOW.md`).
+
+- Unsourced AI output is **not** evidence.
+- AI drafts must cite sources for significant factual claims and remain `draft` until a human deep audit promotes them.
+- Prefer **facts + citations** over interpretation. Put analysis and commentary in labeled sections; do not smuggle opinions into **Verified Facts**.
+- Mechanical QA (validators, link checks, footnote presence) does not replace source review.
+
 ## Evidence Classes
 
 Use the following labels when drafting and reviewing knowledge pages:
@@ -71,7 +80,7 @@ Rules:
 - Add a short reliability note when the source is self-reported or otherwise limited.
 - The page-level **Sources** section lists every source on the page; number footnoted sources to match footnote labels (`1.` = `[^1]`, `2.` = `[^2]`).
 
-A page may move to `verified` only when significant claims are checked against cited sources and biography-only claims either have corroboration or remain explicitly flagged in research debt.
+A page may move to `verified` only when a human deep audit has checked significant claims against cited sources and biography-only claims either have corroboration or remain explicitly flagged in research debt. Merge into the draft corpus does not by itself satisfy this bar.
 
 ## Case and Statute Mentions
 
@@ -104,10 +113,10 @@ Use `python tools/audit_case_mentions.py` to find unlinked case mentions across 
 
 Each knowledge page should use one of these statuses:
 
-- `draft`: created but not ready for use as reference material.
+- `draft`: typical public state after merge into the draft corpus; not a claim of full human verification.
 - `needs_sources`: useful outline, but missing adequate evidence.
-- `in_review`: undergoing editorial or technical review.
-- `verified`: claims have been checked against cited sources.
+- `in_review`: undergoing editorial or deep-audit review.
+- `verified`: human deep-checked claims against cited sources (scarce verified core).
 - `deprecated`: retained for history but no longer recommended.
 
 ## Research Debt
@@ -121,4 +130,4 @@ Research debt should be tracked explicitly when:
 - A citation needs a stable URL, archive URL, or official reporter reference.
 - Per-fact footnotes need manual review to confirm the correct source mapping.
 - A relationship is plausible but not yet evidence-backed.
-- A page needs domain expert review.
+- A page needs domain expert review or inclusion in a verified-core audit.

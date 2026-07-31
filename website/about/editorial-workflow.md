@@ -2,25 +2,38 @@
 
 OIR is a **Git-first** reference project. The repository is the source of truth; the public site is generated from it.
 
+Production model: **[human-directed, AI-processed, source-bound](how-we-work.md)**.
+
+## Pipeline
+
+1. **Human** highlights intake or research-debt work.
+2. **AI** (typical) drafts source and knowledge records with citations — status `draft`.
+3. **CI / mechanical QA** checks metadata, links, and build (not truth).
+4. **Human** merges → accepted into the **draft corpus**.
+5. **Occasional human deep audit** may promote a page into the scarce **verified core**.
+
+Merge ≠ verified.
+
 ## How to Contribute
 
 | Action | Path |
 | --- | --- |
-| Suggest a correction | GitHub Issue → *Suggest an edit* (after repo is on GitHub) |
-| Propose a document for intake | GitHub Issue → *Propose intake document* |
+| Send an intake lead | [Suggest Content](suggest.md) / web editor, or GitHub *Propose intake document* |
+| Suggest a correction | GitHub Issue → *Suggest an edit* |
 | Request topic or tag changes | GitHub Issue → *Topic or taxonomy change* |
-| Submit a direct fix | Pull request with validation checks |
+| Submit a direct fix | Pull request with validation checks (often AI-authored) |
 
 See `CONTRIBUTING.md` and `EDITORIAL_WORKFLOW.md` in the repository root for full policy.
 
 ## Roles
 
-- **Contributors** propose changes on branches.
-- **Domain experts** review merges in legal, technical, or organization domains.
-- **Research editors** verify sources and review status.
-- **Knowledge engineers** maintain taxonomy, IDs, and relationships.
+- **Human research editor** — prioritizes work, merges into the draft corpus, deep-audits the verified core, directs debt sweeps.
+- **AI assistants** — process intake, draft content, mechanical QA.
+- **Contributors** — propose changes on branches (human or AI).
+- **Domain experts** — optional deep review in legal, technical, or organization domains.
+- **Knowledge engineers** — taxonomy, IDs, and relationships.
 
-Authenticated web editing is available via Decap CMS at [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/). Contributors should log into GitHub first, then return to the editor (see [Suggest Content](suggest.md)). Changes still flow through draft pull requests — not silent database edits.
+Authenticated web editing via Decap CMS (`/admin/`) is an optional intake path that still produces pull requests — not silent database edits.
 
 ## Topics vs Tags
 
@@ -29,10 +42,10 @@ Authenticated web editing is available via Decap CMS at [openinternetresearch.co
 
 Maintainers merge topics, deprecate IDs, and link documents through evidence-backed metadata—not through hand-edited generated pages.
 
-## Sprint 9 Phases
+## Status meanings (short)
 
-1. **Phase A (Git-native)** — issue templates, PR template, code owners scaffold
-2. **Phase B (tooling)** — taxonomy audits, intake helpers, review assignment dashboards
-3. **Phase C (admin UI)** — authenticated topic administration that still flows through Git
+- `draft` — normal public state after merge
+- `verified` — human deep-checked against sources (rare)
+- `needs_sources` / `in_review` / `deprecated` — as in research standards
 
-Details: `ROADMAP.md` Sprint 9 and `EDITORIAL_WORKFLOW.md`.
+Details: root `EDITORIAL_WORKFLOW.md` and `ROADMAP.md`.
