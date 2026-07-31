@@ -14,7 +14,7 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-29</dd>
+        <dd>2026-07-30</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
@@ -3690,7 +3690,7 @@ TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS wa
 - **Source ID:** `SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`
 - **Status:** draft
 
-TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+TechSpot secondary report on United States v. Tunick, covering the alleged GrapheneOS-related phone wipe during an Atlanta airport CBP search, suppression-hearing testimony, and expert commentary on prosecuting wipe features under 18 U.S.C. § 2232(a).
 
 ---
 

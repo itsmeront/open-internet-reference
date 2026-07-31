@@ -69,7 +69,7 @@ Public reporting in 2026 connected GrapheneOS’s duress wipe capability to a No
 
 [^1]: [`SRC-GRAPHENEOS-FEATURES`](../../../bibliography.md#SRC-GRAPHENEOS-FEATURES) — GrapheneOS Features Overview (Duress PIN/Password). Official project documentation.
 [^2]: [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](../../../bibliography.md#SRC-TECHCRUNCH-TUNICK-DURESS-2026) — TechCrunch (July 24, 2026). Secondary journalism; counsel confirmation attributed by TechCrunch.
-[^3]: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](../../../bibliography.md#SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026) — TechSpot Tunick / GrapheneOS report. Secondary journalism.
+[^3]: [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) — TechSpot Tunick / GrapheneOS report. Secondary journalism.
 [^4]: [`SRC-TUNICK-INDICTMENT-2025`](../../../bibliography.md#SRC-TUNICK-INDICTMENT-2025) — United States v. Tunick Indictment (Nov. 13, 2025). Charging instrument.
 
 ## Technical Analysis
@@ -85,7 +85,7 @@ Assumptions: This page relies on GrapheneOS’s public feature description rathe
 
 1. [`SRC-GRAPHENEOS-FEATURES`](../../../bibliography.md#SRC-GRAPHENEOS-FEATURES): GrapheneOS Features Overview — Duress PIN/Password.
 2. [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](../../../bibliography.md#SRC-TECHCRUNCH-TUNICK-DURESS-2026): TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026).
-3. [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](../../../bibliography.md#SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026): TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe.
+3. [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html): TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe.
 4. [`SRC-TUNICK-INDICTMENT-2025`](../../../bibliography.md#SRC-TUNICK-INDICTMENT-2025): United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025).
 
 ## Research Debt

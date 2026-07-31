@@ -4985,12 +4985,12 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
-        "access date": "2026-07-27",
+        "access date": "2026-07-30",
         "archive url": "None recorded",
         "author or issuing body": "TechSpot",
-        "publication date": "2026 (accessed 2026-07-27; exact byline date not independently confirmed in OIR intake)",
+        "publication date": "Not dated on page (article refers to a Monday suppression hearing consistent with the July 20, 2026 docket hearing; accessed 2026-07-30)",
         "source type": "Secondary journalism",
-        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
+        "url or citation": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html"
       },
       "charge_date": null,
       "decision_date": null,
@@ -4998,7 +4998,7 @@
       "event_date": null,
       "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
       "indictment_date": null,
-      "last_verified": "2026-07-27",
+      "last_verified": "2026-07-30",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
@@ -5006,12 +5006,14 @@
       "source_doc_path": "source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
       "sources": [],
       "status": "draft",
-      "summary": "TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.",
+      "summary": "TechSpot secondary report on United States v. Tunick, covering the alleged GrapheneOS-related phone wipe during an Atlanta airport CBP search, suppression-hearing testimony, and expert commentary on prosecuting wipe features under 18 U.S.C. \u00a7 2232(a).",
       "tags": [
         "source",
         "case",
         "privacy",
-        "open-source-software"
+        "open-source-software",
+        "border-search",
+        "fourth-amendment"
       ],
       "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
       "type": "source",

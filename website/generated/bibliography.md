@@ -1666,9 +1666,9 @@ TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS wa
 - Type: `source`
 - Status: `draft`
 - Path: [`bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
-- Tags: source, case, privacy, open-source-software
+- Tags: source, case, privacy, open-source-software, border-search, fourth-amendment
 
-TechSpot secondary report on United States v. Tunick, linking the alleged phone wipe during an Atlanta airport CBP search to GrapheneOS wipe/passcode features.
+TechSpot secondary report on United States v. Tunick, covering the alleged GrapheneOS-related phone wipe during an Atlanta airport CBP search, suppression-hearing testimony, and expert commentary on prosecuting wipe features under 18 U.S.C. § 2232(a).
 
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)

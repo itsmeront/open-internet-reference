@@ -116,3 +116,13 @@ Expected output:
 
 - Small root documentation updates
 - No duplicate governance sources
+
+## Priority 6: Active Case Secondary Intake
+
+### TechSpot Tunick / GrapheneOS article (2026-07-30)
+
+- URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+- Source record: `bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md` (draft; re-reviewed)
+- Knowledge page: `knowledge/legal/CASE-US-V-TUNICK.md` (draft; secondary claims expanded with attribution)
+- Decision: Accept as secondary journalism only. Prefer indictment / docket / suppression motion for legal status.
+- Open verification: hearing transcript for attributed CBP testimony; primary filing naming GrapheneOS; TechSpot byline/archive date; separate Cop City federal indictment lead.
