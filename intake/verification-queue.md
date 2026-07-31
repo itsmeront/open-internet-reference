@@ -117,16 +117,12 @@ Expected output:
 - Small root documentation updates
 - No duplicate governance sources
 
-## Intake notes (2026-07-30)
+## Priority 6: Active Case Secondary Intake
 
-### The Hill / Chatrie reverse-warrants opinion
+### TechSpot Tunick / GrapheneOS article (2026-07-30)
 
-URL: https://thehill.com/opinion/criminal-justice/5998614-supreme-court-privacy-ruling/
-
-Accepted as **draft commentary** (`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`) only. Primary holdings live on `CASE-CHATRIE-V-US` from `SRC-CHATRIE-LII` / `SRC-CHATRIE-SCOTUS-PDF`.
-
-Follow-ups before promoting claims beyond attributed commentary:
-
-- Delaware reverse-keyword-warrant bill number and enactment/signing status (primary legislative text).
-- PERSON page for Chad Marlow (official ACLU bio).
-- Crosswalk to existing Fourth Amendment Is Not For Sale Act source records.
+- URL: https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html
+- Source record: `bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md` (draft; re-reviewed)
+- Knowledge page: `knowledge/legal/CASE-US-V-TUNICK.md` (draft; secondary claims expanded with attribution)
+- Decision: Accept as secondary journalism only. Prefer indictment / docket / suppression motion for legal status.
+- Open verification: hearing transcript for attributed CBP testimony; primary filing naming GrapheneOS; TechSpot byline/archive date; separate Cop City federal indictment lead.
