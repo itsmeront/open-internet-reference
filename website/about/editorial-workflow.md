@@ -20,7 +20,7 @@ See `CONTRIBUTING.md` and `EDITORIAL_WORKFLOW.md` in the repository root for ful
 - **Research editors** verify sources and review status.
 - **Knowledge engineers** maintain taxonomy, IDs, and relationships.
 
-Authenticated web editing is **planned** (Sprint 9). Near-term collaboration uses GitHub Issues and pull requests. Medium-term admin tooling will produce **commits or PRs**, not silent database edits.
+Authenticated web editing is available via Decap CMS at [openinternetresearch.com/admin/](https://openinternetresearch.com/admin/). Contributors should log into GitHub first, then return to the editor (see [Suggest Content](suggest.md)). Changes still flow through draft pull requests — not silent database edits.
 
 ## Topics vs Tags
 
