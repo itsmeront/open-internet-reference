@@ -14,6 +14,8 @@ Production model: **[human-directed, AI-processed, source-bound](how-we-work.md)
 
 Merge ≠ verified.
 
+**Solo-director merge gates:** pull request + green `docs` CI. Required approving reviews are **0** while one person cannot approve their own PR (see `.github/BRANCH_PROTECTION.md`). Raise to 1 when a second reviewer exists.
+
 ## How to Contribute
 
 | Action | Path |

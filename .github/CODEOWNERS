@@ -1,8 +1,11 @@
 # CODEOWNERS — Open Internet Reference
 #
 # GitHub uses this file to auto-assign reviewers on pull requests.
-# Each path pattern maps to one or more GitHub users or teams who must
-# approve changes before merge (when required reviews are enabled).
+# Path patterns map to GitHub users or teams suggested as reviewers.
+#
+# While the repo is solo-director operated, branch protection does NOT require
+# an approving review (the owner cannot approve their own PR). CODEOWNERS still
+# documents ownership and will matter when Required approvals is raised to 1.
 #
 # Syntax: <pattern> <@owner> [<@owner> ...]
 # Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners

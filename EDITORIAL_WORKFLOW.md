@@ -34,7 +34,7 @@ Most of the public site is expected to remain `draft`. That is intentional under
 
 ## Permission Model
 
-Permissions are enforced through Git hosting (branch protection, reviewers, `CODEOWNERS`) and editorial policy. Decap CMS / `/admin/` is an optional intake path that still produces pull requests.
+Permissions are enforced through Git hosting (branch protection / rulesets, reviewers, `CODEOWNERS`) and editorial policy. Decap CMS / `/admin/` is an optional intake path that still produces pull requests.
 
 Recommended mapping:
 
@@ -44,7 +44,7 @@ Recommended mapping:
 - **Verification** → research editors may set `status: verified` only after a periodic deep source audit
 - **Taxonomy changes** → knowledge engineers; require taxonomy audit before merge
 
-Configure real reviewers in `.github/CODEOWNERS` before enforcing required reviews on protected branches.
+**Solo-director ruleset:** require PRs + green `docs`; **required approving reviews = 0** until a second human (or bot-opened PR) can approve. See `.github/BRANCH_PROTECTION.md`. Do not rely on admin bypass for routine merges. Raise approvals to 1 when collaborators join; keep `CODEOWNERS` current for that day.
 
 ## Collaboration Plan
 
