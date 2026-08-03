@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T08:34:43.448984Z",
+  "generated_at": "2026-08-03T09:23:17.768688Z",
   "summary": {
     "open_prs": 1,
-    "ai_prs": 1,
+    "ai_prs": 0,
     "stale_prs": 0,
     "draft_content": 204,
     "needs_sources": 0,
@@ -10,25 +10,20 @@
   },
   "pull_requests": [
     {
-      "number": 74,
-      "title": "Improve Decap intake UX for mobile suggestions",
-      "author": "itsmeront",
-      "labels": [
-        "moderation/pending",
-        "needs-review",
-        "ai-generated",
-        "area/website"
-      ],
+      "number": 78,
+      "title": "chore: update moderation and taxonomy reports [automated]",
+      "author": "app/github-actions",
+      "labels": [],
       "areas": [
         "website"
       ],
-      "age_days": 0,
-      "stale_days": 0,
-      "is_ai": true,
+      "age_days": 2,
+      "stale_days": 1,
+      "is_ai": false,
       "is_draft": false,
-      "needs_review": true,
+      "needs_review": false,
       "is_stale": false,
-      "priority": 5
+      "priority": 0
     }
   ],
   "draft_content": [

@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-07-31 08:34 UTC
+Last updated: 2026-08-03 09:23 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -9,7 +9,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | Metric | Count |
 |--------|-------|
 | Open PRs awaiting review | 1 |
-| AI-generated PRs | 1 |
+| AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
 | Draft content items | 204 |
 | Items needing sources | 0 |
@@ -19,7 +19,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | # | Title | Author | Areas | Age | Flags |
 |---|-------|--------|-------|-----|-------|
-| [#74](https://github.com/itsmeront/open-internet-reference/pull/74) | Improve Decap intake UX for mobile suggestions | @itsmeront | website | 0d | 🤖 AI 👀 Review |
+| [#78](https://github.com/itsmeront/open-internet-reference/pull/78) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 2d | — |
 
 ## Draft Content Needing Attention
 
