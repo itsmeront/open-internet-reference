@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T09:23:17.768688Z",
+  "generated_at": "2026-08-05T08:17:47.556957Z",
   "summary": {
     "open_prs": 1,
     "ai_prs": 0,
@@ -10,15 +10,15 @@
   },
   "pull_requests": [
     {
-      "number": 78,
+      "number": 79,
       "title": "chore: update moderation and taxonomy reports [automated]",
       "author": "app/github-actions",
       "labels": [],
       "areas": [
         "website"
       ],
-      "age_days": 2,
-      "stale_days": 1,
+      "age_days": 0,
+      "stale_days": 0,
       "is_ai": false,
       "is_draft": false,
       "needs_review": false,
