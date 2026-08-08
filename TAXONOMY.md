@@ -34,6 +34,7 @@ The taxonomy gives OIR a stable map for organizing knowledge pages, source recor
 - `surveillance`
 - `encryption-law`
 - `speech-and-code`
+- `age-verification`
 
 ## Technical Topics
 

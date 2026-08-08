@@ -15,6 +15,10 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 
 - [`TOPIC-END-TO-END-ENCRYPTION`](../generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): **End-to-End Encryption and Compelled Access** — E2EE messaging/cryptography systems and government efforts to compel access or weaken encryption.
 
+## Age Verification and App Distribution
+
+- [`TOPIC-APP-STORE-AGE-VERIFICATION`](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): **App Store and Operating System Age-Verification Laws** — state OS age-signal and app-store parental-consent regimes (California, Texas, Utah, Louisiana, Alabama), operative dates, and litigation status.
+
 ## Copyright, Platforms, and Intermediaries
 
 - [`TOPIC-FAIR-USE-VIDEO`](../generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): **Fair Use and Video** — U.S. fair use under 17 U.S.C. § 107 as applied to video incorporating third-party material.

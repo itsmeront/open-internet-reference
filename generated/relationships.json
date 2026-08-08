@@ -123,6 +123,66 @@
       "subject": "CASE-CARPENTER-V-US"
     },
     {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "SRC-CA5-SB2420-STAY-ORDER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CA5-SB2420-STAY-ORDER"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CCIA-SB2420-LITIGATION-PAGE"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "SRC-CCIA-V-PAXTON-PI-ORDER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CCIA-SB2420-LITIGATION-PAGE"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
+      "declared_in": "CASE-CCIA-V-PAXTON-SB2420",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER"
+      ],
+      "subject": "CASE-CCIA-V-PAXTON-SB2420"
+    },
+    {
       "declared_in": "CASE-CHATRIE-V-US",
       "notes": null,
       "object": "SRC-CHATRIE-LII",
@@ -2626,6 +2686,36 @@
       "subject": "STAT-18-USC-2232"
     },
     {
+      "declared_in": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "notes": null,
+      "object": "SRC-CA-AB-1043-STATUS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CA-AB-1043-STATUS"
+      ],
+      "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+    },
+    {
+      "declared_in": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "notes": null,
+      "object": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+      ],
+      "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+    },
+    {
+      "declared_in": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "notes": null,
+      "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+      ],
+      "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+    },
+    {
       "declared_in": "STAT-CFAA-1030",
       "notes": null,
       "object": "SRC-USC-18-1030-GOVINFO",
@@ -2794,6 +2884,36 @@
         "SRC-SECTION-230-EFF"
       ],
       "subject": "STAT-SECTION-230"
+    },
+    {
+      "declared_in": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "notes": null,
+      "object": "SRC-TX-SB-2420-ENROLLED",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
+    },
+    {
+      "declared_in": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "notes": null,
+      "object": "CASE-CCIA-V-PAXTON-SB2420",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER"
+      ],
+      "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
+    },
+    {
+      "declared_in": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "notes": null,
+      "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
     },
     {
       "declared_in": "STAT-USC-107",
@@ -3077,6 +3197,46 @@
         "SRC-VAN-LOON-5TH-CIR-JUSTIA"
       ],
       "subject": "TECH-TORNADO-CASH"
+    },
+    {
+      "declared_in": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "notes": null,
+      "object": "CASE-CCIA-V-PAXTON-SB2420",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER"
+      ],
+      "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+    },
+    {
+      "declared_in": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "notes": null,
+      "object": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+      ],
+      "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+    },
+    {
+      "declared_in": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "notes": null,
+      "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+    },
+    {
+      "declared_in": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER"
+      ],
+      "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
     },
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
