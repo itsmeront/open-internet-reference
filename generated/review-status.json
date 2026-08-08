@@ -1,6 +1,6 @@
 {
   "by_status": {
-    "draft": 201,
+    "draft": 205,
     "verified": 116
   },
   "by_type": {
@@ -12,8 +12,8 @@
     "protocol": 3,
     "source": 197,
     "statute": 6,
-    "technology": 4,
-    "topic": 13
+    "technology": 6,
+    "topic": 15
   },
   "description": "Generated review status dashboard.",
   "missing_last_verified": [
@@ -209,12 +209,16 @@
     "TECH-GNUNET",
     "TECH-GRAPHENEOS",
     "TECH-HYPHANET",
+    "TECH-PGP",
+    "TECH-SAMOURAI-WALLET",
     "TECH-TORNADO-CASH",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
     "TOPIC-DECENTRALIZED-MODERATION",
     "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+    "TOPIC-DEVICE-SEARCH",
     "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+    "TOPIC-END-TO-END-ENCRYPTION",
     "TOPIC-FAIR-USE-VIDEO",
     "TOPIC-FIRST-AMENDMENT",
     "TOPIC-FOURTH-AMENDMENT",
@@ -227,7 +231,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 201,
-    "records": 317
+    "needing_review": 205,
+    "records": 321
   }
 }

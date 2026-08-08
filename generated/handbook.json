@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 120,
+  "record_count": 124,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -1407,6 +1407,33 @@
       "type": "technology"
     },
     {
+      "id": "TECH-PGP",
+      "path": "knowledge/technical/TECH-PGP.md",
+      "source_doc_path": "source-docs/knowledge/technical/TECH-PGP.md",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+      ],
+      "status": "draft",
+      "summary": "Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimmermann and published in 1991; its distribution triggered a multi-year U.S. criminal export investigation that closed without prosecution in 1996.",
+      "title": "Pretty Good Privacy (PGP)",
+      "type": "technology"
+    },
+    {
+      "id": "TECH-SAMOURAI-WALLET",
+      "path": "knowledge/technical/TECH-SAMOURAI-WALLET.md",
+      "source_doc_path": "source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "status": "draft",
+      "summary": "Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 2025 in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds; government announcements describe mixer features including Whirlpool.",
+      "title": "Samourai Wallet",
+      "type": "technology"
+    },
+    {
       "id": "TECH-TORNADO-CASH",
       "path": "knowledge/technical/TECH-TORNADO-CASH.md",
       "source_doc_path": "source-docs/knowledge/technical/TECH-TORNADO-CASH.md",
@@ -1496,6 +1523,22 @@
       "type": "topic"
     },
     {
+      "id": "TOPIC-DEVICE-SEARCH",
+      "path": "knowledge/legal/TOPIC-DEVICE-SEARCH.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025",
+        "SRC-USC-18-2232-LII",
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TUNICK-MOTION-SUPPRESS-2026"
+      ],
+      "status": "draft",
+      "summary": "Topic on government search and seizure of digital devices\u2014especially at the border\u2014and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.",
+      "title": "Device Search, Seizure, and Anti-Forensics",
+      "type": "topic"
+    },
+    {
       "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
       "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
@@ -1509,6 +1552,23 @@
       "status": "draft",
       "summary": "U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. \u00a7 512, documented from statute and cited sources.",
       "title": "DMCA Takedown and Counter-Notification",
+      "type": "topic"
+    },
+    {
+      "id": "TOPIC-END-TO-END-ENCRYPTION",
+      "path": "knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "sources": [
+        "SRC-SIGNAL-HOME",
+        "SRC-WYDEN-EARN-IT",
+        "SRC-LEE-ENCRYPTION-BACKDOORS",
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "status": "draft",
+      "summary": "Topic on end-to-end encryption systems and government efforts to compel access, weaken standards, or condition intermediary protections in ways critics say undermine strong encryption.",
+      "title": "End-to-End Encryption and Compelled Access",
       "type": "topic"
     },
     {

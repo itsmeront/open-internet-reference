@@ -4,13 +4,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 317
-- Records needing review: 201
+- Records: 321
+- Records needing review: 205
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 201
+- [`draft`](#draft-records): 205
 - [`verified`](#verified-records): 116
 
 ## By Type
@@ -23,8 +23,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`protocol`](#protocol-records): 3
 - [`source`](#source-records): 197
 - [`statute`](#statute-records): 6
-- [`technology`](#technology-records): 4
-- [`topic`](#topic-records): 13
+- [`technology`](#technology-records): 6
+- [`topic`](#topic-records): 15
 
 ## Records Needing Review
 
@@ -215,12 +215,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
+- [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
@@ -425,12 +429,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
+- [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
@@ -888,6 +896,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
+- [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 
 ## topic Records { #topic-records }
@@ -896,7 +906,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)

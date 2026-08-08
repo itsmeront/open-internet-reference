@@ -872,6 +872,7 @@ Official GrapheneOS features documentation describing the optional duress PIN/pa
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
 ## `SRC-GUARDIAN-FREENET-DARK-SIDE-2009`: The Guardian — The Dark Side of the Internet (Freenet, 2009) { #SRC-GUARDIAN-FREENET-DARK-SIDE-2009 }
 
@@ -1012,6 +1013,7 @@ IRS Criminal Investigation announcement of guilty pleas by Samourai Wallet co-fo
 
 ### Cited By
 - [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-IRS-SAMOURAI-SENTENCE-2025`: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) { #SRC-IRS-SAMOURAI-SENTENCE-2025 }
@@ -1025,6 +1027,7 @@ IRS Criminal Investigation announcement of prison sentences for Samourai Wallet 
 
 ### Cited By
 - [`CASE-US-V-RODRIGUEZ: United States v. Rodriguez (Samourai Wallet)`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-JAFFER-KNIGHT`: Jameel Jaffer Knight Institute Biography { #SRC-JAFFER-KNIGHT }
@@ -1160,6 +1163,7 @@ Official Senate statement from Senator Mike Lee opposing federal mandates for en
 
 ### Cited By
 - [`PERSON-MIKE-LEE: Mike Lee`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans { #SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM }
 
@@ -1251,6 +1255,7 @@ Press release from Representative Thomas Massie's office describing a bipartisan
 
 ### Cited By
 - [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-MCSHERRY-EFF-BIO`: Corynne McSherry EFF Staff Biography { #SRC-MCSHERRY-EFF-BIO }
 
@@ -1686,6 +1691,7 @@ RFE/RL report on the April 2018 Moscow court order blocking Telegram over FSB en
 - [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
 - [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-RIVEST-CSAIL`: Ronald L. Rivest MIT CSAIL Profile { #SRC-RIVEST-CSAIL }
 
@@ -1856,6 +1862,7 @@ Official Signal website describing Signal's private messaging service, encryptio
 
 ### Cited By
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-SIGNAL-X3DH`: The X3DH Key Agreement Protocol { #SRC-SIGNAL-X3DH }
 
@@ -1893,6 +1900,7 @@ TechCrunch secondary report stating Tunick’s attorneys confirmed GrapheneOS wa
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
 ## `SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026) { #SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026 }
 
@@ -2075,6 +2083,7 @@ RECAP copy of the one-count criminal indictment charging Samuel Tunick under 18 
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
 ## `SRC-TUNICK-MOTION-SUPPRESS-2026`: United States v. Tunick — Motion to Suppress (Mar. 17, 2026) { #SRC-TUNICK-MOTION-SUPPRESS-2026 }
 
@@ -2087,6 +2096,7 @@ Defense motion to suppress statements and evidence in United States v. Tunick, a
 
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
 ## `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII) { #SRC-US-CONST-AMEND-I-LII }
 
@@ -2209,6 +2219,7 @@ Cornell Legal Information Institute page for 18 U.S.C. § 2232, destruction or r
 ### Cited By
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
 ## `SRC-VAN-BUREN-GOVINFO`: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo) { #SRC-VAN-BUREN-GOVINFO }
 
@@ -2383,6 +2394,7 @@ Press release from Senator Ron Wyden's office opposing the EARN IT Act and warni
 
 ### Cited By
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act { #SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE }
 
@@ -2447,6 +2459,8 @@ Official biography page for Phil Zimmermann describing PGP creation, export inve
 ### Cited By
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
+- [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## `SRC-ZIMMERMANN-DECLINATION-1996`: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text) { #SRC-ZIMMERMANN-DECLINATION-1996 }
 
@@ -2460,6 +2474,7 @@ Zimmermann site publication of the U.S. Attorney declination closing the PGP exp
 ### Cited By
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 
 ## `SRC-ZIMMERMANN-INVESTIGATION-CLOSED`: EPIC Alert — Charges Dropped Against Phil Zimmermann { #SRC-ZIMMERMANN-INVESTIGATION-CLOSED }
@@ -2475,6 +2490,7 @@ EPIC Alert reporting that federal prosecutors closed the criminal investigation 
 - [`EVENT-ZIMMERMANN-PGP-INVESTIGATION: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - [`PERSON-PHIL-ZIMMERMANN: Phil Zimmermann`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
 
 ## `SRC-ZITTRAIN-HLS`: Jonathan L. Zittrain Harvard Law School Faculty Profile { #SRC-ZITTRAIN-HLS }
 

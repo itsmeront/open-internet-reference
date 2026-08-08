@@ -22,8 +22,8 @@ Groups that defend digital rights and support open source software companies:
 Implementations OIR tracks for design, governance, and legal exposure:
 
 - **Anonymous and censorship-resistant networks** — [Tor Project](generated/source-docs/knowledge/organizations/ORG-TOR-PROJECT.md), [Hyphanet](generated/source-docs/knowledge/technical/TECH-HYPHANET.md), [GNUnet](generated/source-docs/knowledge/technical/TECH-GNUNET.md)
-- **Secure messaging** — [Signal](generated/source-docs/knowledge/organizations/ORG-SIGNAL.md), [Telegram](generated/source-docs/knowledge/organizations/ORG-TELEGRAM.md)
-- **Privacy tech under sanctions or seizure pressure** — [GrapheneOS](generated/source-docs/knowledge/technical/TECH-GRAPHENEOS.md), [Tornado Cash](generated/source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- **Secure messaging** — [Signal](generated/source-docs/knowledge/organizations/ORG-SIGNAL.md), [Telegram](generated/source-docs/knowledge/organizations/ORG-TELEGRAM.md), [PGP](generated/source-docs/knowledge/technical/TECH-PGP.md)
+- **Privacy tech under sanctions or seizure pressure** — [GrapheneOS](generated/source-docs/knowledge/technical/TECH-GRAPHENEOS.md), [Tornado Cash](generated/source-docs/knowledge/technical/TECH-TORNADO-CASH.md), [Samourai Wallet](generated/source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 
 ### [Lawyers](knowledge/lawyers.md)
 
@@ -58,9 +58,10 @@ Court cases and statutes that establish precedent:
 
 Concept and case-study pages (`TOPIC-*`), separate from court opinions and statutes:
 
-- **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+- **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md), [Device search and anti-forensics](generated/source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - **Computer crime and access** — [Computer Fraud and Abuse](generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- **Encryption and access** — [End-to-end encryption and compelled access](generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - **Technical topics** — [Onion Routing](generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md), [Kademlia](generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md), [Decentralized moderation](generated/source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - **Case studies** — [Documented proceedings involving software authors and operators](generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), [Tornado Cash sanctions and prosecutions](generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 

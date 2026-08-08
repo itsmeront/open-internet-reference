@@ -2959,6 +2959,96 @@
       "subject": "TECH-HYPHANET"
     },
     {
+      "declared_in": "TECH-PGP",
+      "notes": null,
+      "object": "SRC-ZIMMERMANN-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "TECH-PGP"
+    },
+    {
+      "declared_in": "TECH-PGP",
+      "notes": null,
+      "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-DECLINATION-1996"
+      ],
+      "subject": "TECH-PGP"
+    },
+    {
+      "declared_in": "TECH-PGP",
+      "notes": null,
+      "object": "PERSON-PHIL-ZIMMERMANN",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "TECH-PGP"
+    },
+    {
+      "declared_in": "TECH-PGP",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+      ],
+      "subject": "TECH-PGP"
+    },
+    {
+      "declared_in": "TECH-PGP",
+      "notes": null,
+      "object": "TOPIC-END-TO-END-ENCRYPTION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "TECH-PGP"
+    },
+    {
+      "declared_in": "TECH-SAMOURAI-WALLET",
+      "notes": null,
+      "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "TECH-SAMOURAI-WALLET"
+    },
+    {
+      "declared_in": "TECH-SAMOURAI-WALLET",
+      "notes": null,
+      "object": "CASE-US-V-RODRIGUEZ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "TECH-SAMOURAI-WALLET"
+    },
+    {
+      "declared_in": "TECH-SAMOURAI-WALLET",
+      "notes": null,
+      "object": "TECH-TORNADO-CASH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "TECH-SAMOURAI-WALLET"
+    },
+    {
+      "declared_in": "TECH-SAMOURAI-WALLET",
+      "notes": null,
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025"
+      ],
+      "subject": "TECH-SAMOURAI-WALLET"
+    },
+    {
       "declared_in": "TECH-TORNADO-CASH",
       "notes": null,
       "object": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
@@ -3310,6 +3400,47 @@
       "subject": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY"
     },
     {
+      "declared_in": "TOPIC-DEVICE-SEARCH",
+      "notes": null,
+      "object": "CASE-US-V-TUNICK",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025"
+      ],
+      "subject": "TOPIC-DEVICE-SEARCH"
+    },
+    {
+      "declared_in": "TOPIC-DEVICE-SEARCH",
+      "notes": null,
+      "object": "STAT-18-USC-2232",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-18-2232-LII"
+      ],
+      "subject": "TOPIC-DEVICE-SEARCH"
+    },
+    {
+      "declared_in": "TOPIC-DEVICE-SEARCH",
+      "notes": null,
+      "object": "TECH-GRAPHENEOS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+      ],
+      "subject": "TOPIC-DEVICE-SEARCH"
+    },
+    {
+      "declared_in": "TOPIC-DEVICE-SEARCH",
+      "notes": null,
+      "object": "TOPIC-FOURTH-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TUNICK-MOTION-SUPPRESS-2026"
+      ],
+      "subject": "TOPIC-DEVICE-SEARCH"
+    },
+    {
       "declared_in": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
       "notes": null,
       "object": "SRC-EFF-BLOGGERS-IP",
@@ -3388,6 +3519,56 @@
         "SRC-USC-17-512-GOVINFO"
       ],
       "subject": "TOPIC-DMCA-TAKEDOWN-RESPONSE"
+    },
+    {
+      "declared_in": "TOPIC-END-TO-END-ENCRYPTION",
+      "notes": null,
+      "object": "ORG-SIGNAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SIGNAL-HOME"
+      ],
+      "subject": "TOPIC-END-TO-END-ENCRYPTION"
+    },
+    {
+      "declared_in": "TOPIC-END-TO-END-ENCRYPTION",
+      "notes": null,
+      "object": "ORG-TELEGRAM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RFERL-TELEGRAM-BLOCK-2018"
+      ],
+      "subject": "TOPIC-END-TO-END-ENCRYPTION"
+    },
+    {
+      "declared_in": "TOPIC-END-TO-END-ENCRYPTION",
+      "notes": null,
+      "object": "TECH-PGP",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "TOPIC-END-TO-END-ENCRYPTION"
+    },
+    {
+      "declared_in": "TOPIC-END-TO-END-ENCRYPTION",
+      "notes": null,
+      "object": "TOPIC-CODE-AS-SPEECH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "subject": "TOPIC-END-TO-END-ENCRYPTION"
+    },
+    {
+      "declared_in": "TOPIC-END-TO-END-ENCRYPTION",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WYDEN-EARN-IT"
+      ],
+      "subject": "TOPIC-END-TO-END-ENCRYPTION"
     },
     {
       "declared_in": "TOPIC-FAIR-USE-VIDEO",

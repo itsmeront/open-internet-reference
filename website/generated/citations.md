@@ -465,6 +465,8 @@ Source count: 197
 - Page source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - Page source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - Relationship source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md): [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md) `cites` [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 
 ## [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md): The Guardian — The Dark Side of the Internet (Freenet, 2009)
 
@@ -536,12 +538,18 @@ Source count: 197
 - Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `cites` [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - Relationship source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md): [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Page source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Relationship source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md): [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `cites` [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+- Relationship source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md): [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Relationship source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md): [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- Relationship source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md): [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
 
 ## [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md): IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)
 
 - Page source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+- Page source in [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `cites` [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 
@@ -607,6 +615,7 @@ Source count: 197
 
 - Page source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - Relationship source in [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md): [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md): Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans
 
@@ -661,6 +670,7 @@ Source count: 197
 
 - Page source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - Relationship source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md): [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) `cites` [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 
 ## [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography
 
@@ -867,6 +877,8 @@ Source count: 197
 - Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `cites` [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Relationship source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 
 ## [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md): Ronald L. Rivest MIT CSAIL Profile
 
@@ -944,6 +956,8 @@ Source count: 197
 
 - Page source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - Relationship source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md): [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) `cites` [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Relationship source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 
 ## [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md): The X3DH Key Agreement Protocol
 
@@ -962,6 +976,8 @@ Source count: 197
 - Relationship source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md): [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md) `related_to` [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - Page source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - Relationship source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md): [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md) `related_to` [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+- Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 
 ## [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md): TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)
 
@@ -1054,12 +1070,16 @@ Source count: 197
 - Page source in [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - Relationship source in [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md): [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md) `related_to` [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - Page source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 
 ## [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md): United States v. Tunick — Motion to Suppress (Mar. 17, 2026)
 
 - Page source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - Relationship source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md): [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md) `cites` [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
 - Relationship source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md): [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+- Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 
 ## [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII)
 
@@ -1144,6 +1164,8 @@ Source count: 197
 - Page source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - Page source in [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - Relationship source in [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md): [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md) `cites` [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
+- Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 
 ## [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md): Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)
 
@@ -1241,6 +1263,8 @@ Source count: 197
 
 - Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Relationship source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 
 ## [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md): Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act
 
@@ -1273,6 +1297,13 @@ Source count: 197
 - Page source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Relationship source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- Page source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Relationship source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+- Relationship source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- Relationship source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Relationship source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Relationship source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 
 ## [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md): Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)
 
@@ -1282,6 +1313,8 @@ Source count: 197
 - Relationship source in [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
 - Relationship source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md): [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+- Page source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Relationship source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 - Page source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
 
@@ -1292,6 +1325,8 @@ Source count: 197
 - Page source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
 - Page source in [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+- Page source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Relationship source in [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 
 ## [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md): Jonathan L. Zittrain Harvard Law School Faculty Profile
 
