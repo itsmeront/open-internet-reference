@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 181
+Source count: 197
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -211,6 +211,28 @@ Source count: 181
 - Page source in [`PERSON-PAMELA-CHESTEK`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
 - Relationship source in [`PERSON-PAMELA-CHESTEK`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md): [`PERSON-PAMELA-CHESTEK`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md) `cites` [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
 
+## [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md): A Distributed Decentralised Information Storage and Retrieval System
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `cites` [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
+## [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md): Ian Clarke — Freenet Project Biography
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+## [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md): Freenet: A Distributed Anonymous Information Storage and Retrieval System
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
 ## [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography
 
 - Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
@@ -295,6 +317,18 @@ Source count: 181
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+
+## [`SRC-DRAKETO-DECENTRALIZED-MODERATION`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md): Arne Babenhauserheide — The Path Towards Decentralized Moderation
+
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md): Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly
+
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `cites` [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 
 ## [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page
 
@@ -391,6 +425,12 @@ Source count: 181
 - Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `represented_by` [`PERSON-DAVID-OLIVIER-KAMINSKI`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
 
+## [`SRC-FREENET-HISTORY`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md): Freenet History Page
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
 ## [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page
 
 - Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
@@ -400,6 +440,12 @@ Source count: 181
 
 - Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 - Relationship source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) `cites` [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md): GNUnet About Page
+
+- Page source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Relationship source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `cites` [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
 ## [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)
 
@@ -420,6 +466,14 @@ Source count: 181
 - Page source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - Relationship source in [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md): [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md) `cites` [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 
+## [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md): The Guardian — The Dark Side of the Internet (Freenet, 2009)
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
 ## [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile
 
 - Page source in [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
@@ -429,6 +483,27 @@ Source count: 181
 
 - Page source in [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md): Hyphanet Home Page
+
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `cites` [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md): Freenet Renamed to Hyphanet
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Relationship source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
+## [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md): Hyphanet Web of Trust Plugin README
+
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `cites` [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 
 ## [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md): 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)
 
@@ -570,6 +645,17 @@ Source count: 181
 - Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - Page source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
 - Relationship source in [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md): [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+
+## [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md): LWN.net — An Introduction to GNUnet (2005)
+
+- Page source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Relationship source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `cites` [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+- Relationship source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Page source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Relationship source in [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
 
 ## [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security
 
@@ -919,6 +1005,10 @@ Source count: 181
 - Page source in [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
 - Relationship source in [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md) `cites` [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
 - Relationship source in [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): [`TOPIC-ONION-ROUTING`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md) `related_to` [`ORG-TOR-PROJECT`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
+
+## [`SRC-TR-IAN-CLARKE`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md): MIT Technology Review — Ian Clarke Innovator Profile
+
+- Page source in [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
 
 ## [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md): Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)
 

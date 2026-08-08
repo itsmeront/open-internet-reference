@@ -3563,6 +3563,83 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "PERSON-IAN-CLARKE",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-IAN-CLARKE.md",
+      "relationships": [
+        {
+          "object": "SRC-CLARKE-DDISRS-1999",
+          "predicate": "authored",
+          "sources": [
+            "SRC-CLARKE-DDISRS-1999",
+            "SRC-CLARKE-FREENET-BIO"
+          ],
+          "subject": "PERSON-IAN-CLARKE"
+        },
+        {
+          "object": "SRC-CLARKE-FREENET-PAPER-2001",
+          "predicate": "authored",
+          "sources": [
+            "SRC-CLARKE-FREENET-PAPER-2001",
+            "SRC-CLARKE-FREENET-BIO"
+          ],
+          "subject": "PERSON-IAN-CLARKE"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CLARKE-FREENET-BIO",
+            "SRC-HYPHANET-RENAME",
+            "SRC-FREENET-HISTORY"
+          ],
+          "subject": "PERSON-IAN-CLARKE"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GUARDIAN-FREENET-DARK-SIDE-2009"
+          ],
+          "subject": "PERSON-IAN-CLARKE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-IAN-CLARKE.md",
+      "sources": [
+        "SRC-CLARKE-FREENET-BIO",
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-FREENET-HISTORY",
+        "SRC-HYPHANET-RENAME",
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+        "SRC-TR-IAN-CLARKE"
+      ],
+      "status": "draft",
+      "summary": "Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.",
+      "tags": [
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ],
+      "title": "Ian Clarke",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "PERSON-JAMEEL-JAFFER",
       "indictment_date": null,
       "last_verified": "2026-07-04",
@@ -5560,6 +5637,73 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "TECH-GNUNET",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/technical/TECH-GNUNET.md",
+      "relationships": [
+        {
+          "object": "SRC-GNUNET-ABOUT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GNUNET-ABOUT"
+          ],
+          "subject": "TECH-GNUNET"
+        },
+        {
+          "object": "SRC-LWN-GNUNET-INTRO-2005",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LWN-GNUNET-INTRO-2005"
+          ],
+          "subject": "TECH-GNUNET"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LWN-GNUNET-INTRO-2005"
+          ],
+          "subject": "TECH-GNUNET"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LWN-GNUNET-INTRO-2005"
+          ],
+          "subject": "TECH-GNUNET"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TECH-GNUNET.md",
+      "sources": [
+        "SRC-GNUNET-ABOUT",
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "status": "draft",
+      "summary": "GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.",
+      "tags": [
+        "technology",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ],
+      "title": "GNUnet",
+      "type": "technology",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "TECH-GRAPHENEOS",
       "indictment_date": null,
       "last_verified": "2026-07-27",
@@ -5602,6 +5746,91 @@
         "border-search"
       ],
       "title": "GrapheneOS",
+      "type": "technology",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TECH-HYPHANET",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/technical/TECH-HYPHANET.md",
+      "relationships": [
+        {
+          "object": "SRC-HYPHANET-HOME",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HYPHANET-HOME"
+          ],
+          "subject": "TECH-HYPHANET"
+        },
+        {
+          "object": "SRC-CLARKE-DDISRS-1999",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CLARKE-DDISRS-1999"
+          ],
+          "subject": "TECH-HYPHANET"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CLARKE-DDISRS-1999",
+            "SRC-CLARKE-FREENET-PAPER-2001",
+            "SRC-HYPHANET-RENAME"
+          ],
+          "subject": "TECH-HYPHANET"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HYPHANET-WOT-README",
+            "SRC-DRAKETO-WOT-FRIENDLY-2018"
+          ],
+          "subject": "TECH-HYPHANET"
+        },
+        {
+          "object": "TECH-GNUNET",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LWN-GNUNET-INTRO-2005"
+          ],
+          "subject": "TECH-HYPHANET"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TECH-HYPHANET.md",
+      "sources": [
+        "SRC-HYPHANET-HOME",
+        "SRC-HYPHANET-RENAME",
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-HYPHANET-WOT-README",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018",
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+        "SRC-LWN-GNUNET-INTRO-2005",
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-FREENET-HISTORY"
+      ],
+      "status": "draft",
+      "summary": "Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.",
+      "tags": [
+        "technology",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ],
+      "title": "Hyphanet (formerly Freenet)",
       "type": "technology",
       "used_for": []
     },
@@ -5844,6 +6073,87 @@
         "digital-rights"
       ],
       "title": "Computer Fraud and Abuse",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-DECENTRALIZED-MODERATION",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md",
+      "relationships": [
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HYPHANET-WOT-README",
+            "SRC-DRAKETO-WOT-FRIENDLY-2018"
+          ],
+          "subject": "TOPIC-DECENTRALIZED-MODERATION"
+        },
+        {
+          "object": "TECH-GNUNET",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-LWN-GNUNET-INTRO-2005"
+          ],
+          "subject": "TOPIC-DECENTRALIZED-MODERATION"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GUARDIAN-FREENET-DARK-SIDE-2009"
+          ],
+          "subject": "TOPIC-DECENTRALIZED-MODERATION"
+        },
+        {
+          "object": "SRC-HYPHANET-WOT-README",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HYPHANET-WOT-README"
+          ],
+          "subject": "TOPIC-DECENTRALIZED-MODERATION"
+        },
+        {
+          "object": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DRAKETO-WOT-FRIENDLY-2018"
+          ],
+          "subject": "TOPIC-DECENTRALIZED-MODERATION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md",
+      "sources": [
+        "SRC-HYPHANET-WOT-README",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018",
+        "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+        "SRC-LWN-GNUNET-INTRO-2005",
+        "SRC-GNUNET-ABOUT",
+        "SRC-HYPHANET-HOME"
+      ],
+      "status": "draft",
+      "summary": "Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.",
+      "tags": [
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy",
+        "content-moderation",
+        "case-studies",
+        "digital-rights",
+        "distributed-systems"
+      ],
+      "title": "Decentralized Moderation in Censorship-Resistant Networks",
       "type": "topic",
       "used_for": []
     },

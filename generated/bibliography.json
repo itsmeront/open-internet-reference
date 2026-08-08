@@ -1055,6 +1055,120 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Ian Clarke (supervisor Dr Chris Mellish), Division of Informatics, University of Edinburgh",
+        "publication date": "1999",
+        "source type": "Undergraduate project report / academic paper",
+        "url or citation": "https://cs.baylor.edu/~donahoo/classes/5321/papers/C99.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CLARKE-DDISRS-1999",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/academic/SRC-CLARKE-DDISRS-1999.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Ian Clarke's 1999 University of Edinburgh undergraduate report describing a decentralized key-indexed storage and retrieval system that became the foundation for Freenet (later Hyphanet).",
+      "tags": [
+        "source",
+        "academic-paper",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
+      ],
+      "title": "A Distributed Decentralised Information Storage and Retrieval System",
+      "type": "source",
+      "used_for": [
+        "`TECH-HYPHANET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Freenet Project / freenet.org",
+        "source type": "Official project biography / self-reported profile",
+        "url or citation": "https://freenet.org/about/people/ian-clarke/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CLARKE-FREENET-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-CLARKE-FREENET-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Freenet project biography for Ian Clarke describing him as Freenet's creator and Freenet Project Inc. president, and summarizing education, publications, and the 2023 relaunch.",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
+      ],
+      "title": "Ian Clarke \u2014 Freenet Project Biography",
+      "type": "source",
+      "used_for": [
+        "`PERSON-IAN-CLARKE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Ian Clarke, Oskar Sandberg, Brandon Wiley, and Theodore W. Hong",
+        "doi": "https://doi.org/10.1007/3-540-44702-4_4",
+        "publication date": "2001",
+        "source type": "Conference / workshop paper",
+        "url or citation": "https://www.cs.princeton.edu/courses/archive/fall09/cos518/papers/freenet.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CLARKE-FREENET-PAPER-2001",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "2001 workshop paper by Clarke, Sandberg, Wiley, and Hong describing Freenet's anonymous peer-to-peer storage and retrieval design goals and architecture.",
+      "tags": [
+        "source",
+        "academic-paper",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
+      ],
+      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System",
+      "type": "source",
+      "used_for": [
+        "`PERSON-IAN-CLARKE`",
+        "`TECH-HYPHANET`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "https://web.archive.org/web/2026/https://www.eff.org/about/staff/cindy-cohn",
         "author or issuing body": "Electronic Frontier Foundation",
@@ -1532,6 +1646,78 @@
       "used_for": [
         "`CASE-US-V-STORM`",
         "`TOPIC-TORNADO-CASH`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Arne Babenhauserheide (Draketo)",
+        "source type": "Developer commentary / secondary reporting",
+        "url or citation": "https://www.draketo.de/software/decentralized-moderation"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Essay arguing that Hyphanet/Freenet could not use centralized moderation and instead propagated user blocking through Web of Trust mechanisms so disruption would not scale better than defense.",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ],
+      "title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-DECENTRALIZED-MODERATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Arne Babenhauserheide (Draketo)",
+        "publication date": "2018-09-18",
+        "source type": "Developer commentary / secondary reporting",
+        "url or citation": "https://www.draketo.de/english/freenet/friendly-communication-with-anonymity"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "2018 essay by Hyphanet contributor Arne Babenhauserheide arguing that Frost forums collapsed under anonymous spam and that Web of Trust systems restored constructive communication.",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ],
+      "title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-DECENTRALIZED-MODERATION`",
+        "`TECH-HYPHANET`"
       ]
     },
     {
@@ -2129,6 +2315,44 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Freenet Project / freenet.org",
+        "source type": "Official organization page",
+        "url or citation": "https://freenet.org/about/history/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FREENET-HISTORY",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-FREENET-HISTORY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Freenet history page describing Ian Clarke's 1999 Edinburgh origins, the Locutus rebrand to Freenet in 2023, and the spin-off of the original codebase as Hyphanet.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ],
+      "title": "Freenet History Page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-IAN-CLARKE`",
+        "`TECH-HYPHANET`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Free Software Foundation",
@@ -2196,6 +2420,44 @@
       "type": "source",
       "used_for": [
         "`ORG-FSF`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "GNUnet project",
+        "source type": "Official project page",
+        "url or citation": "https://www.gnunet.org/en/about.html"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GNUNET-ABOUT",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-GNUNET-ABOUT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official GNUnet about page describing the project as a Free Software stack for secure, decentralized, privacy-preserving networking and stating it remains early alpha despite its age.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ],
+      "title": "GNUnet About Page",
+      "type": "source",
+      "used_for": [
+        "`TECH-GNUNET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
       ]
     },
     {
@@ -2314,6 +2576,43 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Andy Beckett, The Guardian",
+        "publication date": "2009-11-26",
+        "source type": "Reputable journalism / secondary reporting",
+        "url or citation": "https://www.theguardian.com/technology/2009/nov/26/dark-side-internet-freenet"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "2009 Guardian feature on Freenet reporting Ian Clarke's refusal to add child-pornography filters on the ground that content filtering would end Freenet's censorship resistance.",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "The Guardian \u2014 The Dark Side of the Internet (Freenet, 2009)",
+      "type": "source",
+      "used_for": [
+        "`TECH-HYPHANET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "University of Wisconsin\u2013Milwaukee, Department of History",
@@ -2384,6 +2683,118 @@
       "used_for": [
         "`CASE-CHATRIE-V-US`",
         "`TOPIC-FOURTH-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Hyphanet project",
+        "source type": "Official project page",
+        "url or citation": "https://www.hyphanet.org/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-HYPHANET-HOME",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-HYPHANET-HOME.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Hyphanet project home page describing the formerly Freenet censorship-resistant peer-to-peer network and its plugins for publishing and spam resistance.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ],
+      "title": "Hyphanet Home Page",
+      "type": "source",
+      "used_for": [
+        "`TECH-HYPHANET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Hyphanet project",
+        "publication date": "2023",
+        "source type": "Official project announcement",
+        "url or citation": "https://www.hyphanet.org/freenet-renamed-to-hyphanet.html"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-HYPHANET-RENAME",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-HYPHANET-RENAME.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Hyphanet announcement explaining that the original Freenet project renamed to Hyphanet in 2023 after Freenet Project, Inc. reused the Freenet name for Locutus.",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "open-source-software"
+      ],
+      "title": "Freenet Renamed to Hyphanet",
+      "type": "source",
+      "used_for": [
+        "`TECH-HYPHANET`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Hyphanet / Freenet Web of Trust maintainers",
+        "source type": "Official project technical documentation (GitHub README)",
+        "url or citation": "https://github.com/hyphanet/plugin-WebOfTrust/blob/next/README.md"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-HYPHANET-WOT-README",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-HYPHANET-WOT-README.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Web of Trust plugin README explaining collaborative spam filtering for Freenet/Hyphanet when censorship cannot remove content and attackers drown it in spam.",
+      "tags": [
+        "source",
+        "technology",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ],
+      "title": "Hyphanet Web of Trust Plugin README",
+      "type": "source",
+      "used_for": [
+        "`TECH-HYPHANET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
       ]
     },
     {
@@ -3211,6 +3622,44 @@
         "`PERSON-ZOE-LOFGREN`",
         "`PERSON-RON-WYDEN`",
         "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Jake Edge, LWN.net",
+        "publication date": "2005-11-30",
+        "source type": "Technical journalism / secondary reporting",
+        "url or citation": "https://lwn.net/Articles/162190/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-LWN-GNUNET-INTRO-2005",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "2005 LWN.net technical article describing GNUnet's censorship-resistant sharing design, keyword-spam vulnerability, and namespace-based mitigation.",
+      "tags": [
+        "source",
+        "technology",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
+      ],
+      "title": "LWN.net \u2014 An Introduction to GNUnet (2005)",
+      "type": "source",
+      "used_for": [
+        "`TECH-GNUNET`",
+        "`TOPIC-DECENTRALIZED-MODERATION`"
       ]
     },
     {
@@ -5474,6 +5923,44 @@
         "Onion routing",
         "Privacy organizations",
         "Outreach verification"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "MIT Technology Review",
+        "publication date": "2003",
+        "source type": "Reputable journalism / secondary reporting (TR innovator profile)",
+        "url or citation": "https://www.technologyreview.com/innovator/ian-clarke/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-TR-IAN-CLARKE",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-TR-IAN-CLARKE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "MIT Technology Review innovator profile on Ian Clarke describing Freenet's anonymous peer-to-peer design and quoting his view that freedom of communication conflicts with copyright enforcement.",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
+      ],
+      "title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-IAN-CLARKE`"
       ]
     },
     {

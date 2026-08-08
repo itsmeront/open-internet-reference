@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 348
+Edge count: 372
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -948,6 +948,26 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
 - Sources: [`SRC-CFA-RELAUNCH-CNN`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
+## [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+
+- Declared in: [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Sources: [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md), [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+
+## [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `authored` [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+
+- Declared in: [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Sources: [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md), [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+
+## [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+- Declared in: [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Sources: [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md), [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md), [`SRC-FREENET-HISTORY`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+
+## [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+- Declared in: [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Sources: [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
+
 ## [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md) `affiliated_with` [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 
 - Declared in: [`PERSON-JAMEEL-JAFFER`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
@@ -1405,6 +1425,26 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - Sources: [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
+## [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `cites` [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+
+- Declared in: [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Sources: [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+
+## [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `cites` [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+- Declared in: [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Sources: [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+## [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+- Declared in: [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Sources: [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+## [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+- Declared in: [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Sources: [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
 ## [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md) `cites` [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 
 - Declared in: [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
@@ -1414,6 +1454,31 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 - Sources: [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+
+## [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `cites` [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+
+- Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Sources: [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+
+## [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `cites` [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+
+- Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Sources: [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+
+## [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
+- Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Sources: [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md), [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md), [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+
+## [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+
+- Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Sources: [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+## [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md) `related_to` [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+- Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Sources: [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md), [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 
 ## [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) `cites` [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
@@ -1499,6 +1564,31 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Sources: [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
+
+## [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `cites` [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+
+- Declared in: [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Sources: [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+
+## [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `cites` [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
+
+- Declared in: [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Sources: [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
+
+## [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
+- Declared in: [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Sources: [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
+
+## [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
+
+- Declared in: [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Sources: [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+## [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+- Declared in: [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Sources: [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md), [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 
 ## [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `cites` [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 

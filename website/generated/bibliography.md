@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 181
+Record count: 197
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -359,6 +359,44 @@ Official Chestek Legal about page for attorney Pamela Chestek's trademark, copyr
 ### Cited By
 - [`PERSON-PAMELA-CHESTEK: Pamela Chestek`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
 
+## `SRC-CLARKE-DDISRS-1999`: A Distributed Decentralised Information Storage and Retrieval System { #SRC-CLARKE-DDISRS-1999 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/academic/SRC-CLARKE-DDISRS-1999.md`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- Tags: source, academic-paper, peer-to-peer-networking, censorship-resistance, privacy
+
+Ian Clarke's 1999 University of Edinburgh undergraduate report describing a decentralized key-indexed storage and retrieval system that became the foundation for Freenet (later Hyphanet).
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+## `SRC-CLARKE-FREENET-BIO`: Ian Clarke — Freenet Project Biography { #SRC-CLARKE-FREENET-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-CLARKE-FREENET-BIO.md`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+- Tags: source, person, researcher, privacy, censorship-resistance, peer-to-peer-networking
+
+Official Freenet project biography for Ian Clarke describing him as Freenet's creator and Freenet Project Inc. president, and summarizing education, publications, and the 2023 relaunch.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+
+## `SRC-CLARKE-FREENET-PAPER-2001`: Freenet: A Distributed Anonymous Information Storage and Retrieval System { #SRC-CLARKE-FREENET-PAPER-2001 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+- Tags: source, academic-paper, peer-to-peer-networking, censorship-resistance, privacy
+
+2001 workshop paper by Clarke, Sandberg, Wiley, and Hong describing Freenet's anonymous peer-to-peer storage and retrieval design goals and architecture.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
 ## `SRC-COHN-EFF-BIO`: Cindy Cohn EFF Staff Biography { #SRC-COHN-EFF-BIO }
 
 - Type: `source`
@@ -524,6 +562,31 @@ DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-launderi
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-DRAKETO-DECENTRALIZED-MODERATION`: Arne Babenhauserheide — The Path Towards Decentralized Moderation { #SRC-DRAKETO-DECENTRALIZED-MODERATION }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md)
+- Tags: source, censorship-resistance, peer-to-peer-networking, privacy
+
+Essay arguing that Hyphanet/Freenet could not use centralized moderation and instead propagated user blocking through Web of Trust mechanisms so disruption would not scale better than defense.
+
+### Cited By
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## `SRC-DRAKETO-WOT-FRIENDLY-2018`: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly { #SRC-DRAKETO-WOT-FRIENDLY-2018 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+- Tags: source, censorship-resistance, peer-to-peer-networking, privacy
+
+2018 essay by Hyphanet contributor Arne Babenhauserheide arguing that Frost forums collapsed under anonymous spam and that Web of Trust systems restored constructive communication.
+
+### Cited By
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
 ## `SRC-EFF-ABOUT`: Electronic Frontier Foundation About Page { #SRC-EFF-ABOUT }
 
@@ -722,6 +785,19 @@ AFP/France 24 report that French authorities charged Pavel Durov in August 2024 
 - [`PERSON-DAVID-OLIVIER-KAMINSKI: David-Olivier Kaminski`](source-docs/knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md)
 - [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
+## `SRC-FREENET-HISTORY`: Freenet History Page { #SRC-FREENET-HISTORY }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-FREENET-HISTORY.md`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+- Tags: source, organization, privacy, censorship-resistance, peer-to-peer-networking, open-source-software
+
+Official Freenet history page describing Ian Clarke's 1999 Edinburgh origins, the Locutus rebrand to Freenet in 2023, and the spin-off of the original codebase as Hyphanet.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
 ## `SRC-FSF-ABOUT`: Free Software Foundation About Page { #SRC-FSF-ABOUT }
 
 - Type: `source`
@@ -745,6 +821,19 @@ Official press page of the Free Software Foundation with founding date and missi
 
 ### Cited By
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
+
+## `SRC-GNUNET-ABOUT`: GNUnet About Page { #SRC-GNUNET-ABOUT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-GNUNET-ABOUT.md`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+- Tags: source, organization, privacy, censorship-resistance, peer-to-peer-networking, open-source-software
+
+Official GNUnet about page describing the project as a Free Software stack for secure, decentralized, privacy-preserving networking and stating it remains early alpha despite its age.
+
+### Cited By
+- [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
 ## `SRC-GOOGLE-ORACLE-JUSTIA`: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) { #SRC-GOOGLE-ORACLE-JUSTIA }
 
@@ -784,6 +873,20 @@ Official GrapheneOS features documentation describing the optional duress PIN/pa
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
 
+## `SRC-GUARDIAN-FREENET-DARK-SIDE-2009`: The Guardian — The Dark Side of the Internet (Freenet, 2009) { #SRC-GUARDIAN-FREENET-DARK-SIDE-2009 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
+- Tags: source, censorship-resistance, privacy, digital-rights
+
+2009 Guardian feature on Freenet reporting Ian Clarke's refusal to add child-pornography filters on the ground that content filtering would end Freenet's censorship resistance.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
 ## `SRC-HAIGH-UWM`: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile { #SRC-HAIGH-UWM }
 
 - Type: `source`
@@ -808,6 +911,45 @@ ACLU senior policy counsel Chad Marlow’s Hill opinion essay arguing that Chatr
 ### Cited By
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## `SRC-HYPHANET-HOME`: Hyphanet Home Page { #SRC-HYPHANET-HOME }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-HYPHANET-HOME.md`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- Tags: source, organization, privacy, censorship-resistance, peer-to-peer-networking, open-source-software
+
+Official Hyphanet project home page describing the formerly Freenet censorship-resistant peer-to-peer network and its plugins for publishing and spam resistance.
+
+### Cited By
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## `SRC-HYPHANET-RENAME`: Freenet Renamed to Hyphanet { #SRC-HYPHANET-RENAME }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-HYPHANET-RENAME.md`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+- Tags: source, organization, privacy, censorship-resistance, open-source-software
+
+Official Hyphanet announcement explaining that the original Freenet project renamed to Hyphanet in 2023 after Freenet Project, Inc. reused the Freenet name for Locutus.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+
+## `SRC-HYPHANET-WOT-README`: Hyphanet Web of Trust Plugin README { #SRC-HYPHANET-WOT-README }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-HYPHANET-WOT-README.md`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
+- Tags: source, technology, censorship-resistance, peer-to-peer-networking, privacy
+
+Official Web of Trust plugin README explaining collaborative spam filtering for Freenet/Hyphanet when censorship cannot remove content and attackers drown it in spam.
+
+### Cited By
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
 ## `SRC-IEEPA-50-USC-1702-LII`: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) { #SRC-IEEPA-50-USC-1702-LII }
 
@@ -1083,6 +1225,20 @@ Press release from Representative Zoe Lofgren's office announcing the introducti
 ### Cited By
 - [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-ZOE-LOFGREN: Zoe Lofgren`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md)
+
+## `SRC-LWN-GNUNET-INTRO-2005`: LWN.net — An Introduction to GNUnet (2005) { #SRC-LWN-GNUNET-INTRO-2005 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+- Tags: source, technology, peer-to-peer-networking, censorship-resistance, privacy
+
+2005 LWN.net technical article describing GNUnet's censorship-resistant sharing design, keyword-spam vulnerability, and namespace-based mitigation.
+
+### Cited By
+- [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
 ## `SRC-MASSIE-ENCRYPTION-AMENDMENT`: House Passes Massie Amendment to Strengthen Privacy and Security { #SRC-MASSIE-ENCRYPTION-AMENDMENT }
 
@@ -1824,6 +1980,18 @@ Official Tor Project history page describing onion routing origins and the organ
 ### Cited By
 - [`ORG-TOR-PROJECT: Tor Project`](source-docs/knowledge/organizations/ORG-TOR-PROJECT.md)
 - [`TOPIC-ONION-ROUTING: Onion Routing`](source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md)
+
+## `SRC-TR-IAN-CLARKE`: MIT Technology Review — Ian Clarke Innovator Profile { #SRC-TR-IAN-CLARKE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-TR-IAN-CLARKE.md`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
+- Tags: source, person, researcher, privacy, censorship-resistance, peer-to-peer-networking
+
+MIT Technology Review innovator profile on Ian Clarke describing Freenet's anonymous peer-to-peer design and quoting his view that freedom of communication conflicts with copyright enforcement.
+
+### Cited By
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
 
 ## `SRC-TREASURY-BLENDER-2022`: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) { #SRC-TREASURY-BLENDER-2022 }
 

@@ -4,13 +4,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 296
-- Records needing review: 180
+- Records: 317
+- Records needing review: 201
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 180
+- [`draft`](#draft-records): 201
 - [`verified`](#verified-records): 116
 
 ## By Type
@@ -19,12 +19,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`case`](#case-records): 19
 - [`historical_event`](#historical-event-records): 4
 - [`organization`](#organization-records): 23
-- [`person`](#person-records): 29
+- [`person`](#person-records): 30
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 181
+- [`source`](#source-records): 197
 - [`statute`](#statute-records): 6
-- [`technology`](#technology-records): 2
-- [`topic`](#topic-records): 12
+- [`technology`](#technology-records): 4
+- [`topic`](#topic-records): 13
 
 ## Records Needing Review
 
@@ -90,6 +90,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 - [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
 - [`PERSON-JAMEEL-JAFFER: Jameel Jaffer`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
 - [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
@@ -130,6 +131,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 - [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 - [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+- [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- [`SRC-CLARKE-FREENET-BIO: Ian Clarke — Freenet Project Biography`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+- [`SRC-CLARKE-FREENET-PAPER-2001: Freenet: A Distributed Anonymous Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -137,6 +141,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-DRAKETO-DECENTRALIZED-MODERATION: Arne Babenhauserheide — The Path Towards Decentralized Moderation`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 - [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
@@ -146,9 +152,15 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+- [`SRC-GNUNET-ABOUT: GNUnet About Page`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009: The Guardian — The Dark Side of the Internet (Freenet, 2009)`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
 - [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
+- [`SRC-HYPHANET-HOME: Hyphanet Home Page`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- [`SRC-HYPHANET-RENAME: Freenet Renamed to Hyphanet`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+- [`SRC-HYPHANET-WOT-README: Hyphanet Web of Trust Plugin README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -156,6 +168,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
@@ -174,6 +187,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
 - [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+- [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
@@ -198,10 +212,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
@@ -283,6 +300,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-ESHA-BHANDARI: Esha Bhandari`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 - [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
 - [`PERSON-JAMEEL-JAFFER: Jameel Jaffer`](source-docs/knowledge/people/PERSON-JAMEEL-JAFFER.md)
 - [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
@@ -323,6 +341,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 - [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 - [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
+- [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- [`SRC-CLARKE-FREENET-BIO: Ian Clarke — Freenet Project Biography`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+- [`SRC-CLARKE-FREENET-PAPER-2001: Freenet: A Distributed Anonymous Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 - [`SRC-COOLEY-TECH: Cooley Technology Industry Practice Page`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET: CourtListener Docket — United States v. Tunick (1:25-cr-00499)`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md)
@@ -330,6 +351,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-DRAKETO-DECENTRALIZED-MODERATION: Arne Babenhauserheide — The Path Towards Decentralized Moderation`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 - [`SRC-EFF-SKLYAROV-CASE: EFF Case Page — US v. ElcomSoft / Sklyarov`](source-docs/bibliography/legal/SRC-EFF-SKLYAROV-CASE.md)
 - [`SRC-FBI-SEMENOV: FBI Wanted — Roman Semenov`](source-docs/bibliography/legal/SRC-FBI-SEMENOV.md)
 - [`SRC-FENWICK-HISTORY: Fenwick & West Firm History Page`](source-docs/bibliography/organizations/SRC-FENWICK-HISTORY.md)
@@ -339,9 +362,15 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+- [`SRC-GNUNET-ABOUT: GNUnet About Page`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009: The Guardian — The Dark Side of the Internet (Freenet, 2009)`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
 - [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
+- [`SRC-HYPHANET-HOME: Hyphanet Home Page`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- [`SRC-HYPHANET-RENAME: Freenet Renamed to Hyphanet`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+- [`SRC-HYPHANET-WOT-README: Hyphanet Web of Trust Plugin README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
@@ -349,6 +378,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
@@ -367,6 +397,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TELEGRAM-FAQ: Telegram FAQ`](source-docs/bibliography/organizations/SRC-TELEGRAM-FAQ.md)
 - [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
+- [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
@@ -391,10 +422,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
@@ -610,6 +644,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PERSON-DANAH-BOYD: danah boyd`](source-docs/knowledge/people/PERSON-DANAH-BOYD.md)
 - [`PERSON-DAVID-REED: David P. Reed`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 - [`PERSON-HENRY-FONDA: Henry Fonda`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md)
+- [`PERSON-IAN-CLARKE: Ian Clarke`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
 - [`PERSON-JANE-FONDA: Jane Fonda`](source-docs/knowledge/people/PERSON-JANE-FONDA.md)
 - [`PERSON-JANET-ABBATE: Janet Abbate`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
 - [`PERSON-JONATHAN-ZITTRAIN: Jonathan Zittrain`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)
@@ -669,6 +704,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 - [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
+- [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- [`SRC-CLARKE-FREENET-BIO: Ian Clarke — Freenet Project Biography`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+- [`SRC-CLARKE-FREENET-PAPER-2001: Freenet: A Distributed Anonymous Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
 - [`SRC-COHN-EFF-BIO: Cindy Cohn EFF Staff Biography`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md)
 - [`SRC-COHN-EFF-DEPARTURE: EFF Press Release - Cindy Cohn Stepping Down`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md)
 - [`SRC-COHN-FOSSFORCE: FOSS Force - Cohn Returns to the Courtroom`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md)
@@ -682,6 +720,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001: DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md)
 - [`SRC-DOJ-STORM-CONVICTION-2025: SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025)`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md)
 - [`SRC-DOJ-STORM-INDICTMENT: United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md)
+- [`SRC-DRAKETO-DECENTRALIZED-MODERATION: Arne Babenhauserheide — The Path Towards Decentralized Moderation`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 - [`SRC-EFF-ABOUT: Electronic Frontier Foundation About Page`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md)
 - [`SRC-EFF-BLOGGERS-IP: EFF Legal Guide for Bloggers — Intellectual Property`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 - [`SRC-EFF-CONTACT: Electronic Frontier Foundation Contact Page`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md)
@@ -698,13 +738,19 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
+- [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+- [`SRC-GNUNET-ABOUT: GNUnet About Page`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009: The Guardian — The Dark Side of the Internet (Freenet, 2009)`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 - [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md)
+- [`SRC-HYPHANET-HOME: Hyphanet Home Page`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- [`SRC-HYPHANET-RENAME: Freenet Renamed to Hyphanet`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+- [`SRC-HYPHANET-WOT-README: Hyphanet Web of Trust Plugin README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
 - [`SRC-IEEPA-50-USC-1702-LII: 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII)`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md)
 - [`SRC-IFS-ABOUT-US: Institute for Free Speech About Us Page`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 - [`SRC-IJ-ABOUT: Institute for Justice About Us Page`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md)
@@ -727,6 +773,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
+- [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
@@ -787,6 +834,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
+- [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
 - [`SRC-TREASURY-TC-AUG-2022: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md)
@@ -837,13 +885,16 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## technology Records { #technology-records }
 
+- [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+- [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 
 ## topic Records { #topic-records }
 
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-DMCA-TAKEDOWN-RESPONSE: DMCA Takedown and Counter-Notification`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)

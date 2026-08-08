@@ -1888,6 +1888,50 @@
       "subject": "PERSON-HENRY-FONDA"
     },
     {
+      "declared_in": "PERSON-IAN-CLARKE",
+      "notes": null,
+      "object": "SRC-CLARKE-DDISRS-1999",
+      "predicate": "authored",
+      "sources": [
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-CLARKE-FREENET-BIO"
+      ],
+      "subject": "PERSON-IAN-CLARKE"
+    },
+    {
+      "declared_in": "PERSON-IAN-CLARKE",
+      "notes": null,
+      "object": "SRC-CLARKE-FREENET-PAPER-2001",
+      "predicate": "authored",
+      "sources": [
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-CLARKE-FREENET-BIO"
+      ],
+      "subject": "PERSON-IAN-CLARKE"
+    },
+    {
+      "declared_in": "PERSON-IAN-CLARKE",
+      "notes": null,
+      "object": "TECH-HYPHANET",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CLARKE-FREENET-BIO",
+        "SRC-HYPHANET-RENAME",
+        "SRC-FREENET-HISTORY"
+      ],
+      "subject": "PERSON-IAN-CLARKE"
+    },
+    {
+      "declared_in": "PERSON-IAN-CLARKE",
+      "notes": null,
+      "object": "TOPIC-DECENTRALIZED-MODERATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009"
+      ],
+      "subject": "PERSON-IAN-CLARKE"
+    },
+    {
       "declared_in": "PERSON-JAMEEL-JAFFER",
       "notes": null,
       "object": "ORG-KNIGHT-FIRST-AMENDMENT",
@@ -2802,6 +2846,46 @@
       "subject": "STAT-USC-107"
     },
     {
+      "declared_in": "TECH-GNUNET",
+      "notes": null,
+      "object": "SRC-GNUNET-ABOUT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GNUNET-ABOUT"
+      ],
+      "subject": "TECH-GNUNET"
+    },
+    {
+      "declared_in": "TECH-GNUNET",
+      "notes": null,
+      "object": "SRC-LWN-GNUNET-INTRO-2005",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "subject": "TECH-GNUNET"
+    },
+    {
+      "declared_in": "TECH-GNUNET",
+      "notes": null,
+      "object": "TECH-HYPHANET",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "subject": "TECH-GNUNET"
+    },
+    {
+      "declared_in": "TECH-GNUNET",
+      "notes": null,
+      "object": "TOPIC-DECENTRALIZED-MODERATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "subject": "TECH-GNUNET"
+    },
+    {
       "declared_in": "TECH-GRAPHENEOS",
       "notes": null,
       "object": "SRC-GRAPHENEOS-FEATURES",
@@ -2820,6 +2904,59 @@
         "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
       ],
       "subject": "TECH-GRAPHENEOS"
+    },
+    {
+      "declared_in": "TECH-HYPHANET",
+      "notes": null,
+      "object": "SRC-CLARKE-DDISRS-1999",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CLARKE-DDISRS-1999"
+      ],
+      "subject": "TECH-HYPHANET"
+    },
+    {
+      "declared_in": "TECH-HYPHANET",
+      "notes": null,
+      "object": "SRC-HYPHANET-HOME",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HYPHANET-HOME"
+      ],
+      "subject": "TECH-HYPHANET"
+    },
+    {
+      "declared_in": "TECH-HYPHANET",
+      "notes": null,
+      "object": "PERSON-IAN-CLARKE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-HYPHANET-RENAME"
+      ],
+      "subject": "TECH-HYPHANET"
+    },
+    {
+      "declared_in": "TECH-HYPHANET",
+      "notes": null,
+      "object": "TECH-GNUNET",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "subject": "TECH-HYPHANET"
+    },
+    {
+      "declared_in": "TECH-HYPHANET",
+      "notes": null,
+      "object": "TOPIC-DECENTRALIZED-MODERATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HYPHANET-WOT-README",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018"
+      ],
+      "subject": "TECH-HYPHANET"
     },
     {
       "declared_in": "TECH-TORNADO-CASH",
@@ -2990,6 +3127,57 @@
         "SRC-USC-18-1030-GOVINFO"
       ],
       "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-DECENTRALIZED-MODERATION",
+      "notes": null,
+      "object": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DRAKETO-WOT-FRIENDLY-2018"
+      ],
+      "subject": "TOPIC-DECENTRALIZED-MODERATION"
+    },
+    {
+      "declared_in": "TOPIC-DECENTRALIZED-MODERATION",
+      "notes": null,
+      "object": "SRC-HYPHANET-WOT-README",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HYPHANET-WOT-README"
+      ],
+      "subject": "TOPIC-DECENTRALIZED-MODERATION"
+    },
+    {
+      "declared_in": "TOPIC-DECENTRALIZED-MODERATION",
+      "notes": null,
+      "object": "PERSON-IAN-CLARKE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009"
+      ],
+      "subject": "TOPIC-DECENTRALIZED-MODERATION"
+    },
+    {
+      "declared_in": "TOPIC-DECENTRALIZED-MODERATION",
+      "notes": null,
+      "object": "TECH-GNUNET",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "subject": "TOPIC-DECENTRALIZED-MODERATION"
+    },
+    {
+      "declared_in": "TOPIC-DECENTRALIZED-MODERATION",
+      "notes": null,
+      "object": "TECH-HYPHANET",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HYPHANET-WOT-README",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018"
+      ],
+      "subject": "TOPIC-DECENTRALIZED-MODERATION"
     },
     {
       "declared_in": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",

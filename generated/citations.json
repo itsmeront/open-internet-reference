@@ -1017,6 +1017,113 @@
       ]
     },
     {
+      "source_id": "SRC-CLARKE-DDISRS-1999",
+      "source_title": "A Distributed Decentralised Information Storage and Retrieval System",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CLARKE-DDISRS-1999",
+          "predicate": "authored",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CLARKE-DDISRS-1999",
+          "predicate": "cites",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CLARKE-FREENET-BIO",
+      "source_title": "Ian Clarke \u2014 Freenet Project Biography",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CLARKE-DDISRS-1999",
+          "predicate": "authored",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-CLARKE-FREENET-PAPER-2001",
+          "predicate": "authored",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CLARKE-FREENET-PAPER-2001",
+      "source_title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CLARKE-FREENET-PAPER-2001",
+          "predicate": "authored",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-COHN-EFF-BIO",
       "source_title": "Cindy Cohn EFF Staff Biography",
       "usages": [
@@ -1389,6 +1496,57 @@
           "record_id": "TOPIC-TORNADO-CASH",
           "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
           "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+      "source_title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
+      "usages": [
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+      "source_title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
+      "usages": [
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+          "predicate": "cites",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
           "usage": "relationship_source"
         }
       ]
@@ -1803,6 +1961,30 @@
       ]
     },
     {
+      "source_id": "SRC-FREENET-HISTORY",
+      "source_title": "Freenet History Page",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FSF-ABOUT",
       "source_title": "Free Software Foundation About Page",
       "usages": [
@@ -1837,6 +2019,30 @@
           "record_title": "Free Software Foundation",
           "subject": "ORG-FSF",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GNUNET-ABOUT",
+      "source_title": "GNUnet About Page",
+      "usages": [
+        {
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GNUNET-ABOUT",
+          "predicate": "cites",
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "subject": "TECH-GNUNET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
         }
       ]
     },
@@ -1927,6 +2133,43 @@
       ]
     },
     {
+      "source_id": "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+      "source_title": "The Guardian \u2014 The Dark Side of the Internet (Freenet, 2009)",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-HAIGH-UWM",
       "source_title": "Thomas Haigh University of Wisconsin\u2013Milwaukee Faculty Profile",
       "usages": [
@@ -1958,6 +2201,102 @@
           "record_id": "TOPIC-FOURTH-AMENDMENT",
           "record_title": "Fourth Amendment",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HYPHANET-HOME",
+      "source_title": "Hyphanet Home Page",
+      "usages": [
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HYPHANET-HOME",
+          "predicate": "cites",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HYPHANET-RENAME",
+      "source_title": "Freenet Renamed to Hyphanet",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "subject": "PERSON-IAN-CLARKE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-IAN-CLARKE",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HYPHANET-WOT-README",
+      "source_title": "Hyphanet Web of Trust Plugin README",
+      "usages": [
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HYPHANET-WOT-README",
+          "predicate": "cites",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -2593,6 +2932,67 @@
           "record_id": "PERSON-ZOE-LOFGREN",
           "record_title": "Zoe Lofgren",
           "subject": "PERSON-ZOE-LOFGREN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LWN-GNUNET-INTRO-2005",
+      "source_title": "LWN.net \u2014 An Introduction to GNUnet (2005)",
+      "usages": [
+        {
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LWN-GNUNET-INTRO-2005",
+          "predicate": "cites",
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "subject": "TECH-GNUNET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-HYPHANET",
+          "predicate": "related_to",
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "subject": "TECH-GNUNET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DECENTRALIZED-MODERATION",
+          "predicate": "related_to",
+          "record_id": "TECH-GNUNET",
+          "record_title": "GNUnet",
+          "subject": "TECH-GNUNET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-GNUNET",
+          "predicate": "related_to",
+          "record_id": "TECH-HYPHANET",
+          "record_title": "Hyphanet (formerly Freenet)",
+          "subject": "TECH-HYPHANET",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-GNUNET",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DECENTRALIZED-MODERATION",
+          "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
+          "subject": "TOPIC-DECENTRALIZED-MODERATION",
           "usage": "relationship_source"
         }
       ]
@@ -4051,6 +4451,17 @@
           "record_title": "Onion Routing",
           "subject": "TOPIC-ONION-ROUTING",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TR-IAN-CLARKE",
+      "source_title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
+      "usages": [
+        {
+          "record_id": "PERSON-IAN-CLARKE",
+          "record_title": "Ian Clarke",
+          "usage": "page_source"
         }
       ]
     },

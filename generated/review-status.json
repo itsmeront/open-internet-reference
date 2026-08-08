@@ -1,6 +1,6 @@
 {
   "by_status": {
-    "draft": 180,
+    "draft": 201,
     "verified": 116
   },
   "by_type": {
@@ -8,12 +8,12 @@
     "case": 19,
     "historical_event": 4,
     "organization": 23,
-    "person": 29,
+    "person": 30,
     "protocol": 3,
-    "source": 181,
+    "source": 197,
     "statute": 6,
-    "technology": 2,
-    "topic": 12
+    "technology": 4,
+    "topic": 13
   },
   "description": "Generated review status dashboard.",
   "missing_last_verified": [
@@ -28,6 +28,9 @@
     "SRC-BUSH-FISA-SIGNING-2008",
     "SRC-CHATRIE-LII",
     "SRC-CHATRIE-SCOTUS-PDF",
+    "SRC-CLARKE-DDISRS-1999",
+    "SRC-CLARKE-FREENET-BIO",
+    "SRC-CLARKE-FREENET-PAPER-2001",
     "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
     "SRC-COOLEY-TECH",
     "SRC-COURTLISTENER-TUNICK-DOCKET",
@@ -35,6 +38,8 @@
     "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
     "SRC-DOJ-STORM-CONVICTION-2025",
     "SRC-DOJ-STORM-INDICTMENT",
+    "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+    "SRC-DRAKETO-WOT-FRIENDLY-2018",
     "SRC-EFF-SKLYAROV-CASE",
     "SRC-FBI-SEMENOV",
     "SRC-FENWICK-HISTORY",
@@ -44,9 +49,15 @@
     "SRC-FIRE-SUBMIT-CASE",
     "SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS",
     "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+    "SRC-FREENET-HISTORY",
+    "SRC-GNUNET-ABOUT",
     "SRC-GOOGLE-ORACLE-JUSTIA",
     "SRC-GRAPHENEOS-FEATURES",
+    "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
     "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
+    "SRC-HYPHANET-HOME",
+    "SRC-HYPHANET-RENAME",
+    "SRC-HYPHANET-WOT-README",
     "SRC-IEEPA-50-USC-1702-LII",
     "SRC-IRS-SAMOURAI-PLEA-2025",
     "SRC-IRS-SAMOURAI-SENTENCE-2025",
@@ -54,6 +65,7 @@
     "SRC-LEE-ENCRYPTION-BACKDOORS",
     "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
     "SRC-LOFGREN-AARONS-LAW",
+    "SRC-LWN-GNUNET-INTRO-2005",
     "SRC-MASSIE-ENCRYPTION-AMENDMENT",
     "SRC-MEDUZA-DUROV-FSB-2026",
     "SRC-OFAC-FAQ-1076",
@@ -72,6 +84,7 @@
     "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
     "SRC-TELEGRAM-FAQ",
     "SRC-TELEGRAM-PRESS",
+    "SRC-TR-IAN-CLARKE",
     "SRC-TREASURY-BLENDER-2022",
     "SRC-TREASURY-SEMENOV-2023",
     "SRC-TREASURY-TC-AUG-2022",
@@ -152,6 +165,7 @@
     "PERSON-ESHA-BHANDARI",
     "PERSON-HEATHER-MEEKER",
     "PERSON-HENRY-FONDA",
+    "PERSON-IAN-CLARKE",
     "PERSON-JAMEEL-JAFFER",
     "PERSON-JANE-FONDA",
     "PERSON-JANET-ABBATE",
@@ -192,10 +206,13 @@
     "STAT-IEEPA",
     "STAT-SECTION-230",
     "STAT-USC-107",
+    "TECH-GNUNET",
     "TECH-GRAPHENEOS",
+    "TECH-HYPHANET",
     "TECH-TORNADO-CASH",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
+    "TOPIC-DECENTRALIZED-MODERATION",
     "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
     "TOPIC-DMCA-TAKEDOWN-RESPONSE",
     "TOPIC-FAIR-USE-VIDEO",
@@ -210,7 +227,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 180,
-    "records": 296
+    "needing_review": 201,
+    "records": 317
   }
 }
