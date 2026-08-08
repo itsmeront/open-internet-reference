@@ -25,6 +25,7 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 
 - [`TOPIC-ONION-ROUTING`](../generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): **Onion Routing** — layered encryption and relay design used for anonymity systems such as Tor.
 - [`TOPIC-KADEMLIA`](../generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md): **Kademlia** — distributed hash table design used in peer-to-peer overlay networks.
+- [`TOPIC-DECENTRALIZED-MODERATION`](../generated/source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): **Decentralized Moderation in Censorship-Resistant Networks** — Freenet/Hyphanet and GNUnet lessons on spam, trust, and abuse when central content moderation conflicts with censorship resistance.
 
 ## Case Studies
 

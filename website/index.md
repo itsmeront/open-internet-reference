@@ -53,7 +53,8 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 
 - **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
-- **Technical topics** — [Onion Routing](generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md), [Kademlia](generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
+- **Computer crime and access** — [Computer Fraud and Abuse](generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- **Technical topics** — [Onion Routing](generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md), [Kademlia](generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md), [Decentralized moderation](generated/source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - **Case studies** — [Documented proceedings involving software authors and operators](generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), [Tornado Cash sanctions and prosecutions](generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
 ## Generated Indexes
