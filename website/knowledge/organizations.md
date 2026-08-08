@@ -23,17 +23,16 @@ Organizations that defend digital rights, support open source software, and prot
 - [`ORG-SOFTWARE-FREEDOM-CONSERVANCY`](../generated/source-docs/knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md): Software Freedom Conservancy — provides legal and organizational support for FOSS projects.
 - [`ORG-SFLC`](../generated/source-docs/knowledge/organizations/ORG-SFLC.md): Software Freedom Law Center — pro bono legal services for open source developers.
 
-## Privacy and Security
-
-- [`ORG-TOR-PROJECT`](../generated/source-docs/knowledge/organizations/ORG-TOR-PROJECT.md): Tor Project — develops anonymous communication tools.
-- [`ORG-SIGNAL`](../generated/source-docs/knowledge/organizations/ORG-SIGNAL.md): Signal — develops encrypted messaging technology.
-
 ## Technology Law Firms
 
 - [`ORG-COOLEY`](../generated/source-docs/knowledge/organizations/ORG-COOLEY.md): Cooley — technology transactions and venture-backed company counsel.
 - [`ORG-FENWICK`](../generated/source-docs/knowledge/organizations/ORG-FENWICK.md): Fenwick — technology and life sciences law firm.
 - [`ORG-PERKINS-COIE`](../generated/source-docs/knowledge/organizations/ORG-PERKINS-COIE.md): Perkins Coie — technology, privacy, and digital media practice.
 - [`ORG-WILSON-SONSINI`](../generated/source-docs/knowledge/organizations/ORG-WILSON-SONSINI.md): Wilson Sonsini — technology and venture capital law firm.
+
+## Related Pages
+
+- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, Hyphanet, GNUnet, and related technology records tracked for design and legal exposure
 
 ## How to Engage
 
