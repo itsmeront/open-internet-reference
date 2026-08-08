@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 173
+Term count: 178
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -346,6 +346,13 @@ Term count: 173
 
 - [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
 
+## `PERSON-IAN-CLARKE` { #person-ian-clarke }
+
+- [`SRC-CLARKE-FREENET-BIO: Ian Clarke — Freenet Project Biography`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md)
+- [`SRC-CLARKE-FREENET-PAPER-2001: Freenet: A Distributed Anonymous Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+- [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+- [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
+
 ## `PERSON-JAMEEL-JAFFER` { #person-jameel-jaffer }
 
 - [`SRC-JAFFER-KNIGHT: Jameel Jaffer Knight Institute Biography`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
@@ -532,12 +539,28 @@ Term count: 173
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
+## `TECH-GNUNET` { #tech-gnunet }
+
+- [`SRC-GNUNET-ABOUT: GNUnet About Page`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+- [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
 ## `TECH-GRAPHENEOS` { #tech-grapheneos }
 
 - [`SRC-GRAPHENEOS-FEATURES: GrapheneOS Features Overview — Duress PIN/Password`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md)
 - [`SRC-TECHCRUNCH-TUNICK-DURESS-2026: TechCrunch — DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
 - [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026: TechSpot — Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md)
 - [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+
+## `TECH-HYPHANET` { #tech-hyphanet }
+
+- [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- [`SRC-CLARKE-FREENET-PAPER-2001: Freenet: A Distributed Anonymous Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+- [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009: The Guardian — The Dark Side of the Internet (Freenet, 2009)`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
+- [`SRC-HYPHANET-HOME: Hyphanet Home Page`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- [`SRC-HYPHANET-RENAME: Freenet Renamed to Hyphanet`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md)
+- [`SRC-HYPHANET-WOT-README: Hyphanet Web of Trust Plugin README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
 
 ## `TECH-TORNADO-CASH` { #tech-tornado-cash }
 
@@ -550,6 +573,17 @@ Term count: 173
 - [`SRC-USC-18-1030-LII: 18 U.S.C. § 1030`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md)
 - [`SRC-VAN-BUREN-GOVINFO: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md)
 - [`SRC-VAN-BUREN-LII: Van Buren v. United States, 593 U.S. 374 (2021) (Cornell LII)`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+
+## `TOPIC-DECENTRALIZED-MODERATION` { #topic-decentralized-moderation }
+
+- [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
+- [`SRC-DRAKETO-DECENTRALIZED-MODERATION: Arne Babenhauserheide — The Path Towards Decentralized Moderation`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018: Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
+- [`SRC-GNUNET-ABOUT: GNUnet About Page`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009: The Guardian — The Dark Side of the Internet (Freenet, 2009)`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md)
+- [`SRC-HYPHANET-HOME: Hyphanet Home Page`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+- [`SRC-HYPHANET-WOT-README: Hyphanet Web of Trust Plugin README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md)
+- [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
 
 ## `TOPIC-DEVELOPER-SOFTWARE-LIABILITY` { #topic-developer-software-liability }
 
