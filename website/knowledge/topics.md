@@ -34,7 +34,7 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 
 ## Related Pages
 
-- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, Hyphanet, GNUnet, and related systems
+- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, Hyphanet, GNUnet, GrapheneOS, Tornado Cash, and related systems
 - [Law](law.md) — court cases and statutes
 - [Technical Experts](experts.md) — engineers and scholars for technical consultation
 - [Organizations](organizations.md) — advocacy and software-freedom groups

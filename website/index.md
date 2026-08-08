@@ -23,6 +23,7 @@ Implementations OIR tracks for design, governance, and legal exposure:
 
 - **Anonymous and censorship-resistant networks** — [Tor Project](generated/source-docs/knowledge/organizations/ORG-TOR-PROJECT.md), [Hyphanet](generated/source-docs/knowledge/technical/TECH-HYPHANET.md), [GNUnet](generated/source-docs/knowledge/technical/TECH-GNUNET.md)
 - **Secure messaging** — [Signal](generated/source-docs/knowledge/organizations/ORG-SIGNAL.md), [Telegram](generated/source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+- **Privacy tech under sanctions or seizure pressure** — [GrapheneOS](generated/source-docs/knowledge/technical/TECH-GRAPHENEOS.md), [Tornado Cash](generated/source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 
 ### [Lawyers](knowledge/lawyers.md)
 

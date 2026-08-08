@@ -15,10 +15,18 @@ Organization records (`ORG-*`) and technology records (`TECH-*`) both appear her
 - [`ORG-SIGNAL`](../generated/source-docs/knowledge/organizations/ORG-SIGNAL.md): **Signal** — nonprofit-associated encrypted messaging service and protocol family.
 - [`ORG-TELEGRAM`](../generated/source-docs/knowledge/organizations/ORG-TELEGRAM.md): **Telegram** — messaging platform documented in OIR for government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
+## Privacy Tech Under Sanctions or Seizure Pressure
+
+- [`TECH-GRAPHENEOS`](../generated/source-docs/knowledge/technical/TECH-GRAPHENEOS.md): **GrapheneOS** — privacy- and security-focused mobile OS documented in OIR for duress-wipe features raised in border-search / device-seizure proceedings.
+- [`TECH-TORNADO-CASH`](../generated/source-docs/knowledge/technical/TECH-TORNADO-CASH.md): **Tornado Cash** — open-source Ethereum mixer protocol subject to OFAC designation litigation and developer criminal cases.
+
 ## Related Topics
 
 - [`TOPIC-ONION-ROUTING`](../generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md): **Onion Routing** — layered encryption and relay design used by systems such as Tor.
 - [`TOPIC-DECENTRALIZED-MODERATION`](../generated/source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): **Decentralized Moderation** — Freenet/Hyphanet and GNUnet lessons when central content moderation conflicts with censorship resistance.
+- [`TOPIC-TORNADO-CASH`](../generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): **Tornado Cash Sanctions and Developer Prosecutions** — OFAC designations, civil challenges, and U.S./Dutch developer cases.
+- [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): **Documented Proceedings Involving Software Authors and Operators** — inventory of investigations and prosecutions involving people who wrote or operated software.
+- [`TOPIC-FOURTH-AMENDMENT`](../generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): **Fourth Amendment** — search-and-seizure doctrine relevant to device searches and location data.
 
 ## Related Pages
 
