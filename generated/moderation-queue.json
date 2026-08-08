@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-08-06T08:15:31.495884Z",
+  "generated_at": "2026-08-08T06:35:17.966396Z",
   "summary": {
-    "open_prs": 0,
+    "open_prs": 1,
     "ai_prs": 0,
     "stale_prs": 0,
     "draft_content": 204,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [],
+  "pull_requests": [
+    {
+      "number": 81,
+      "title": "chore: update moderation and taxonomy reports [automated]",
+      "author": "app/github-actions",
+      "labels": [],
+      "areas": [
+        "website"
+      ],
+      "age_days": 0,
+      "stale_days": 0,
+      "is_ai": false,
+      "is_draft": false,
+      "needs_review": false,
+      "is_stale": false,
+      "priority": 0
+    }
+  ],
   "draft_content": [
     {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
