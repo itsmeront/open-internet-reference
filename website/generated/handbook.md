@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-07-31 | **Records:** 115 | **Sources referenced:** 178
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-08 | **Records:** 120 | **Sources referenced:** 194
 
 <div class="oir-handbook" markdown="1">
 
@@ -118,6 +118,7 @@ Knowledge records included in this handbook, grouped by type.
 - [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
 - [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
 - [Henry Fonda](#PERSON-HENRY-FONDA) (`PERSON-HENRY-FONDA`)
+- [Ian Clarke](#PERSON-IAN-CLARKE) (`PERSON-IAN-CLARKE`)
 - [Jane Fonda](#PERSON-JANE-FONDA) (`PERSON-JANE-FONDA`)
 - [Janet Abbate](#PERSON-JANET-ABBATE) (`PERSON-JANET-ABBATE`)
 - [Jonathan Zittrain](#PERSON-JONATHAN-ZITTRAIN) (`PERSON-JONATHAN-ZITTRAIN`)
@@ -158,13 +159,16 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Technology
 
+- [GNUnet](#TECH-GNUNET) (`TECH-GNUNET`)
 - [GrapheneOS](#TECH-GRAPHENEOS) (`TECH-GRAPHENEOS`)
+- [Hyphanet (formerly Freenet)](#TECH-HYPHANET) (`TECH-HYPHANET`)
 - [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
 
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
+- [Decentralized Moderation in Censorship-Resistant Networks](#TOPIC-DECENTRALIZED-MODERATION) (`TOPIC-DECENTRALIZED-MODERATION`)
 - [Documented Proceedings Involving Software Authors and Operators](#TOPIC-DEVELOPER-SOFTWARE-LIABILITY) (`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`)
 - [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
 - [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
@@ -432,6 +436,15 @@ David P. Reed is a computer scientist and co-inventor of the end-to-end principl
 
 David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
 
+### Decentralized Moderation in Censorship-Resistant Networks { #TOPIC-DECENTRALIZED-MODERATION-glossary }
+
+- **Record ID:** `TOPIC-DECENTRALIZED-MODERATION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** censorship-resistance, peer-to-peer-networking, privacy, content-moderation, case-studies, digital-rights, distributed-systems
+
+Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
+
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
 - **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
@@ -558,6 +571,15 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 
 The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
 
+### GNUnet { #TECH-GNUNET-glossary }
+
+- **Record ID:** `TECH-GNUNET`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.
+
 ### Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE-glossary }
 
 - **Record ID:** `CASE-GOOGLE-V-ORACLE`
@@ -593,6 +615,24 @@ Heather Meeker is an open source licensing attorney and partner at Tech Law Part
 - **Tags:** person, first-amendment, civil-society
 
 Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
+
+### Hyphanet (formerly Freenet) { #TECH-HYPHANET-glossary }
+
+- **Record ID:** `TECH-HYPHANET`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
+
+### Ian Clarke { #PERSON-IAN-CLARKE-glossary }
+
+- **Record ID:** `PERSON-IAN-CLARKE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, researcher, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
 
 ### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH-glossary }
 
@@ -1733,6 +1773,13 @@ David P. Reed is a computer scientist and co-inventor of the end-to-end principl
 
 Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
 
+#### [`PERSON-IAN-CLARKE`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md): Ian Clarke { #PERSON-IAN-CLARKE }
+
+- Status: `draft`
+- Sources: [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md), [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md), [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md), [`SRC-FREENET-HISTORY`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md), [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md), [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md), [`SRC-TR-IAN-CLARKE`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
+
+Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
+
 #### [`PERSON-JANE-FONDA`](source-docs/knowledge/people/PERSON-JANE-FONDA.md): Jane Fonda { #PERSON-JANE-FONDA }
 
 - Status: `draft`
@@ -1956,12 +2003,26 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 
 ### Technology
 
+#### [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): GNUnet { #TECH-GNUNET }
+
+- Status: `draft`
+- Sources: [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md), [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+
+GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.
+
 #### [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md): GrapheneOS { #TECH-GRAPHENEOS }
 
 - Status: `draft`
 - Sources: [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md), [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md), [`SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026`](source-docs/bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md), [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 
 GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
+
+#### [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md): Hyphanet (formerly Freenet) { #TECH-HYPHANET }
+
+- Status: `draft`
+- Sources: [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md), [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md), [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md), [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md), [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md), [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md), [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md), [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md), [`SRC-FREENET-HISTORY`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
+
+Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
 
 #### [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
@@ -1985,6 +2046,13 @@ The code-as-speech doctrine concerns whether software source code receives First
 - Sources: [`SRC-USC-18-1030-LII`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md), [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md), [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+#### [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): Decentralized Moderation in Censorship-Resistant Networks { #TOPIC-DECENTRALIZED-MODERATION }
+
+- Status: `draft`
+- Sources: [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md), [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md), [`SRC-DRAKETO-DECENTRALIZED-MODERATION`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md), [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md), [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md), [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md), [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md)
+
+Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
 
 #### [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY }
 
@@ -2088,6 +2156,9 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md): Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII) (`draft`)
 - [`SRC-CHATRIE-SCOTUS-PDF`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md): Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF) (`draft`)
 - [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md): Pamela Chestek About Page (`verified`)
+- [`SRC-CLARKE-DDISRS-1999`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md): A Distributed Decentralised Information Storage and Retrieval System (`draft`)
+- [`SRC-CLARKE-FREENET-BIO`](source-docs/bibliography/people/SRC-CLARKE-FREENET-BIO.md): Ian Clarke — Freenet Project Biography (`draft`)
+- [`SRC-CLARKE-FREENET-PAPER-2001`](source-docs/bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md): Freenet: A Distributed Anonymous Information Storage and Retrieval System (`draft`)
 - [`SRC-COHN-EFF-BIO`](source-docs/bibliography/people/SRC-COHN-EFF-BIO.md): Cindy Cohn EFF Staff Biography (`verified`)
 - [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
 - [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md): FOSS Force - Cohn Returns to the Courtroom (`verified`)
@@ -2101,6 +2172,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md): DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`draft`)
 - [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md): SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`draft`)
 - [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md): United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`draft`)
+- [`SRC-DRAKETO-DECENTRALIZED-MODERATION`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md): Arne Babenhauserheide — The Path Towards Decentralized Moderation (`draft`)
+- [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md): Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly (`draft`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
 - [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md): EFF Legal Guide for Bloggers — Intellectual Property (`verified`)
 - [`SRC-EFF-CONTACT`](source-docs/bibliography/organizations/SRC-EFF-CONTACT.md): Electronic Frontier Foundation Contact Page (`verified`)
@@ -2117,13 +2190,19 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md): FISA Amendments Act of 2008 (Public Law 110-261) (`draft`)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) (`verified`)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md): France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted (`draft`)
+- [`SRC-FREENET-HISTORY`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md): Freenet History Page (`draft`)
 - [`SRC-FSF-ABOUT`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md): Free Software Foundation About Page (`verified`)
 - [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md): Free Software Foundation Press Information (`verified`)
+- [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md): GNUnet About Page (`draft`)
 - [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`draft`)
 - [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography (`verified`)
 - [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md): GrapheneOS Features Overview — Duress PIN/Password (`draft`)
+- [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md): The Guardian — The Dark Side of the Internet (Freenet, 2009) (`draft`)
 - [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile (`verified`)
 - [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md): The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) (`draft`)
+- [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md): Hyphanet Home Page (`draft`)
+- [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md): Freenet Renamed to Hyphanet (`draft`)
+- [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md): Hyphanet Web of Trust Plugin README (`draft`)
 - [`SRC-IEEPA-50-USC-1702-LII`](source-docs/bibliography/legal/SRC-IEEPA-50-USC-1702-LII.md): 50 U.S.C. § 1702 — International Emergency Economic Powers (Cornell LII) (`draft`)
 - [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md): Institute for Free Speech About Us Page (`verified`)
 - [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page (`verified`)
@@ -2146,6 +2225,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md): Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015) (`verified`)
 - [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md): Lawrence Lessig Harvard Law School Faculty Page (`verified`)
 - [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law (`draft`)
+- [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md): LWN.net — An Introduction to GNUnet (2005) (`draft`)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security (`draft`)
 - [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography (`verified`)
 - [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md): Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant (`draft`)
@@ -2203,6 +2283,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router (`verified`)
 - [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page (`verified`)
 - [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md): Tor Project History Page (`verified`)
+- [`SRC-TR-IAN-CLARKE`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md): MIT Technology Review — Ian Clarke Innovator Profile (`draft`)
 - [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md): Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022) (`draft`)
 - [`SRC-TREASURY-SEMENOV-2023`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md): Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023) (`draft`)
 - [`SRC-TREASURY-TC-AUG-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-AUG-2022.md): U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022) (`draft`)

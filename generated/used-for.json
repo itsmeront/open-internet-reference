@@ -482,6 +482,15 @@
     },
     {
       "sources": [
+        "SRC-CLARKE-FREENET-BIO",
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-FREENET-HISTORY",
+        "SRC-TR-IAN-CLARKE"
+      ],
+      "term": "`PERSON-IAN-CLARKE`"
+    },
+    {
+      "sources": [
         "SRC-JAFFER-KNIGHT"
       ],
       "term": "`PERSON-JAMEEL-JAFFER`"
@@ -742,12 +751,32 @@
     },
     {
       "sources": [
+        "SRC-GNUNET-ABOUT",
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "term": "`TECH-GNUNET`"
+    },
+    {
+      "sources": [
         "SRC-GRAPHENEOS-FEATURES",
         "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
         "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
         "SRC-TUNICK-INDICTMENT-2025"
       ],
       "term": "`TECH-GRAPHENEOS`"
+    },
+    {
+      "sources": [
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-CLARKE-FREENET-PAPER-2001",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018",
+        "SRC-FREENET-HISTORY",
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+        "SRC-HYPHANET-HOME",
+        "SRC-HYPHANET-RENAME",
+        "SRC-HYPHANET-WOT-README"
+      ],
+      "term": "`TECH-HYPHANET`"
     },
     {
       "sources": [
@@ -764,6 +793,19 @@
         "SRC-VAN-BUREN-LII"
       ],
       "term": "`TOPIC-COMPUTER-FRAUD`"
+    },
+    {
+      "sources": [
+        "SRC-CLARKE-DDISRS-1999",
+        "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+        "SRC-DRAKETO-WOT-FRIENDLY-2018",
+        "SRC-GNUNET-ABOUT",
+        "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+        "SRC-HYPHANET-HOME",
+        "SRC-HYPHANET-WOT-README",
+        "SRC-LWN-GNUNET-INTRO-2005"
+      ],
+      "term": "`TOPIC-DECENTRALIZED-MODERATION`"
     },
     {
       "sources": [

@@ -46,6 +46,7 @@ The taxonomy gives OIR a stable map for organizing knowledge pages, source recor
 - `key-management`
 - `privacy-preserving-systems`
 - `censorship-resistance`
+- `content-moderation`
 - `secure-messaging`
 - `software-distribution`
 

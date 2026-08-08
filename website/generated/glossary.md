@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 115
+Record count: 120
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -562,6 +562,15 @@ Heather Meeker is an open source licensing attorney and partner at Tech Law Part
 
 Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
 
+## `PERSON-IAN-CLARKE`: Ian Clarke { #PERSON-IAN-CLARKE }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-IAN-CLARKE.md`](source-docs/knowledge/people/PERSON-IAN-CLARKE.md)
+- Tags: person, researcher, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
+
 ## `PERSON-JAMEEL-JAFFER`: Jameel Jaffer { #PERSON-JAMEEL-JAFFER }
 
 - Type: `attorney`
@@ -922,6 +931,15 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 
 17 U.S.C. § 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.
 
+## `TECH-GNUNET`: GNUnet { #TECH-GNUNET }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-GNUNET.md`](source-docs/knowledge/technical/TECH-GNUNET.md)
+- Tags: technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.
+
 ## `TECH-GRAPHENEOS`: GrapheneOS { #TECH-GRAPHENEOS }
 
 - Type: `technology`
@@ -930,6 +948,15 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 - Tags: technology, privacy, open-source-software, cryptography, digital-rights, border-search
 
 GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
+
+## `TECH-HYPHANET`: Hyphanet (formerly Freenet) { #TECH-HYPHANET }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-HYPHANET.md`](source-docs/knowledge/technical/TECH-HYPHANET.md)
+- Tags: technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
 
 ## `TECH-TORNADO-CASH`: Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
@@ -957,6 +984,15 @@ The code-as-speech doctrine concerns whether software source code receives First
 - Tags: computer-crime, technology-law, digital-rights
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+## `TOPIC-DECENTRALIZED-MODERATION`: Decentralized Moderation in Censorship-Resistant Networks { #TOPIC-DECENTRALIZED-MODERATION }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+- Tags: censorship-resistance, peer-to-peer-networking, privacy, content-moderation, case-studies, digital-rights, distributed-systems
+
+Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
 
 ## `TOPIC-DEVELOPER-SOFTWARE-LIABILITY`: Documented Proceedings Involving Software Authors and Operators { #TOPIC-DEVELOPER-SOFTWARE-LIABILITY }
 

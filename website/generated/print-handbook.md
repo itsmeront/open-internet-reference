@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-07-31</dd>
+        <dd>2026-08-08</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>115</dd>
+        <dd>120</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>178</dd>
+        <dd>194</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -151,6 +151,7 @@ Knowledge records included in this handbook, grouped by type.
 - [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
 - [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
 - [Henry Fonda](#PERSON-HENRY-FONDA) (`PERSON-HENRY-FONDA`)
+- [Ian Clarke](#PERSON-IAN-CLARKE) (`PERSON-IAN-CLARKE`)
 - [Jane Fonda](#PERSON-JANE-FONDA) (`PERSON-JANE-FONDA`)
 - [Janet Abbate](#PERSON-JANET-ABBATE) (`PERSON-JANET-ABBATE`)
 - [Jonathan Zittrain](#PERSON-JONATHAN-ZITTRAIN) (`PERSON-JONATHAN-ZITTRAIN`)
@@ -191,13 +192,16 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Technology
 
+- [GNUnet](#TECH-GNUNET) (`TECH-GNUNET`)
 - [GrapheneOS](#TECH-GRAPHENEOS) (`TECH-GRAPHENEOS`)
+- [Hyphanet (formerly Freenet)](#TECH-HYPHANET) (`TECH-HYPHANET`)
 - [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
 
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
+- [Decentralized Moderation in Censorship-Resistant Networks](#TOPIC-DECENTRALIZED-MODERATION) (`TOPIC-DECENTRALIZED-MODERATION`)
 - [Documented Proceedings Involving Software Authors and Operators](#TOPIC-DEVELOPER-SOFTWARE-LIABILITY) (`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`)
 - [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
 - [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
@@ -465,6 +469,15 @@ David P. Reed is a computer scientist and co-inventor of the end-to-end principl
 
 David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as counsel for Telegram founder Pavel Durov during French criminal charging related to alleged platform offenses.
 
+### Decentralized Moderation in Censorship-Resistant Networks { #TOPIC-DECENTRALIZED-MODERATION-glossary }
+
+- **Record ID:** `TOPIC-DECENTRALIZED-MODERATION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** censorship-resistance, peer-to-peer-networking, privacy, content-moderation, case-studies, digital-rights, distributed-systems
+
+Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
+
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
 - **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
@@ -591,6 +604,15 @@ The Fourth Amendment to the U.S. Constitution limits unreasonable searches and s
 
 The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
 
+### GNUnet { #TECH-GNUNET-glossary }
+
+- **Record ID:** `TECH-GNUNET`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.
+
 ### Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE-glossary }
 
 - **Record ID:** `CASE-GOOGLE-V-ORACLE`
@@ -626,6 +648,24 @@ Heather Meeker is an open source licensing attorney and partner at Tech Law Part
 - **Tags:** person, first-amendment, civil-society
 
 Henry Fonda was an actor who, according to contemporary reporting on the 2025 Committee relaunch, was among the Hollywood figures who joined the original Committee for the First Amendment during the McCarthy era.
+
+### Hyphanet (formerly Freenet) { #TECH-HYPHANET-glossary }
+
+- **Record ID:** `TECH-HYPHANET`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
+
+### Ian Clarke { #PERSON-IAN-CLARKE-glossary }
+
+- **Record ID:** `PERSON-IAN-CLARKE`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, researcher, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
 
 ### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH-glossary }
 
@@ -2050,6 +2090,17 @@ Henry Fonda was an actor who, according to contemporary reporting on the 2025 Co
 
 ---
 
+#### Ian Clarke { #PERSON-IAN-CLARKE }
+
+- **Record ID:** `PERSON-IAN-CLARKE`
+- **Status:** draft
+- **Sources:** Ian Clarke — Freenet Project Biography (`SRC-CLARKE-FREENET-BIO`), A Distributed Decentralised Information Storage and Retrieval System (`SRC-CLARKE-DDISRS-1999`), Freenet: A Distributed Anonymous Information Storage and Retrieval System (`SRC-CLARKE-FREENET-PAPER-2001`), Freenet History Page (`SRC-FREENET-HISTORY`), Freenet Renamed to Hyphanet (`SRC-HYPHANET-RENAME`), The Guardian — The Dark Side of the Internet (Freenet, 2009) (`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`), MIT Technology Review — Ian Clarke Innovator Profile (`SRC-TR-IAN-CLARKE`)
+- **Tags:** person, researcher, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
+
+---
+
 #### Jane Fonda { #PERSON-JANE-FONDA }
 
 - **Record ID:** `PERSON-JANE-FONDA`
@@ -2397,6 +2448,17 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 
 ### Technology
 
+#### GNUnet { #TECH-GNUNET }
+
+- **Record ID:** `TECH-GNUNET`
+- **Status:** draft
+- **Sources:** GNUnet About Page (`SRC-GNUNET-ABOUT`), LWN.net — An Introduction to GNUnet (2005) (`SRC-LWN-GNUNET-INTRO-2005`)
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+GNUnet is a Free Software framework for secure, decentralized, privacy-preserving networking that treats keyword spam and untrusted participants as core design problems rather than afterthoughts.
+
+---
+
 #### GrapheneOS { #TECH-GRAPHENEOS }
 
 - **Record ID:** `TECH-GRAPHENEOS`
@@ -2405,6 +2467,17 @@ Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 199
 - **Tags:** technology, privacy, open-source-software, cryptography, digital-rights, border-search
 
 GrapheneOS is a privacy- and security-focused open-source mobile operating system for Google Pixel devices that documents an optional duress PIN/password which irreversibly wipes the device when entered.
+
+---
+
+#### Hyphanet (formerly Freenet) { #TECH-HYPHANET }
+
+- **Record ID:** `TECH-HYPHANET`
+- **Status:** draft
+- **Sources:** Hyphanet Home Page (`SRC-HYPHANET-HOME`), Freenet Renamed to Hyphanet (`SRC-HYPHANET-RENAME`), A Distributed Decentralised Information Storage and Retrieval System (`SRC-CLARKE-DDISRS-1999`), Hyphanet Web of Trust Plugin README (`SRC-HYPHANET-WOT-README`), Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly (`SRC-DRAKETO-WOT-FRIENDLY-2018`), The Guardian — The Dark Side of the Internet (Freenet, 2009) (`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`), LWN.net — An Introduction to GNUnet (2005) (`SRC-LWN-GNUNET-INTRO-2005`), Freenet: A Distributed Anonymous Information Storage and Retrieval System (`SRC-CLARKE-FREENET-PAPER-2001`), Freenet History Page (`SRC-FREENET-HISTORY`)
+- **Tags:** technology, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
+
+Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
 
 ---
 
@@ -2440,6 +2513,17 @@ The code-as-speech doctrine concerns whether software source code receives First
 - **Tags:** computer-crime, technology-law, digital-rights
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
+
+---
+
+#### Decentralized Moderation in Censorship-Resistant Networks { #TOPIC-DECENTRALIZED-MODERATION }
+
+- **Record ID:** `TOPIC-DECENTRALIZED-MODERATION`
+- **Status:** draft
+- **Sources:** Hyphanet Web of Trust Plugin README (`SRC-HYPHANET-WOT-README`), Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly (`SRC-DRAKETO-WOT-FRIENDLY-2018`), Arne Babenhauserheide — The Path Towards Decentralized Moderation (`SRC-DRAKETO-DECENTRALIZED-MODERATION`), The Guardian — The Dark Side of the Internet (Freenet, 2009) (`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`), LWN.net — An Introduction to GNUnet (2005) (`SRC-LWN-GNUNET-INTRO-2005`), GNUnet About Page (`SRC-GNUNET-ABOUT`), Hyphanet Home Page (`SRC-HYPHANET-HOME`)
+- **Tags:** censorship-resistance, peer-to-peer-networking, privacy, content-moderation, case-studies, digital-rights, distributed-systems
+
+Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
 
 ---
 
@@ -2809,6 +2893,33 @@ Official Chestek Legal about page for attorney Pamela Chestek's trademark, copyr
 
 ---
 
+### A Distributed Decentralised Information Storage and Retrieval System
+
+- **Source ID:** `SRC-CLARKE-DDISRS-1999`
+- **Status:** draft
+
+Ian Clarke's 1999 University of Edinburgh undergraduate report describing a decentralized key-indexed storage and retrieval system that became the foundation for Freenet (later Hyphanet).
+
+---
+
+### Ian Clarke — Freenet Project Biography
+
+- **Source ID:** `SRC-CLARKE-FREENET-BIO`
+- **Status:** draft
+
+Official Freenet project biography for Ian Clarke describing him as Freenet's creator and Freenet Project Inc. president, and summarizing education, publications, and the 2023 relaunch.
+
+---
+
+### Freenet: A Distributed Anonymous Information Storage and Retrieval System
+
+- **Source ID:** `SRC-CLARKE-FREENET-PAPER-2001`
+- **Status:** draft
+
+2001 workshop paper by Clarke, Sandberg, Wiley, and Hong describing Freenet's anonymous peer-to-peer storage and retrieval design goals and architecture.
+
+---
+
 ### Cindy Cohn EFF Staff Biography
 
 - **Source ID:** `SRC-COHN-EFF-BIO`
@@ -2923,6 +3034,24 @@ U.S. Attorney’s Office SDNY page stating Roman Storm was convicted in August 2
 - **Status:** draft
 
 DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-laundering, unlicensed money-transmitting, and IEEPA conspiracies related to Tornado Cash.
+
+---
+
+### Arne Babenhauserheide — The Path Towards Decentralized Moderation
+
+- **Source ID:** `SRC-DRAKETO-DECENTRALIZED-MODERATION`
+- **Status:** draft
+
+Essay arguing that Hyphanet/Freenet could not use centralized moderation and instead propagated user blocking through Web of Trust mechanisms so disruption would not scale better than defense.
+
+---
+
+### Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly
+
+- **Source ID:** `SRC-DRAKETO-WOT-FRIENDLY-2018`
+- **Status:** draft
+
+2018 essay by Hyphanet contributor Arne Babenhauserheide arguing that Frost forums collapsed under anonymous spam and that Web of Trust systems restored constructive communication.
 
 ---
 
@@ -3070,6 +3199,15 @@ AFP/France 24 report that French authorities charged Pavel Durov in August 2024 
 
 ---
 
+### Freenet History Page
+
+- **Source ID:** `SRC-FREENET-HISTORY`
+- **Status:** draft
+
+Official Freenet history page describing Ian Clarke's 1999 Edinburgh origins, the Locutus rebrand to Freenet in 2023, and the spin-off of the original codebase as Hyphanet.
+
+---
+
 ### Free Software Foundation About Page
 
 - **Source ID:** `SRC-FSF-ABOUT`
@@ -3085,6 +3223,15 @@ Official about page of the Free Software Foundation describing its worldwide mis
 - **Status:** verified
 
 Official press page of the Free Software Foundation with founding date and mission summary.
+
+---
+
+### GNUnet About Page
+
+- **Source ID:** `SRC-GNUNET-ABOUT`
+- **Status:** draft
+
+Official GNUnet about page describing the project as a Free Software stack for secure, decentralized, privacy-preserving networking and stating it remains early alpha despite its age.
 
 ---
 
@@ -3115,6 +3262,15 @@ Official GrapheneOS features documentation describing the optional duress PIN/pa
 
 ---
 
+### The Guardian — The Dark Side of the Internet (Freenet, 2009)
+
+- **Source ID:** `SRC-GUARDIAN-FREENET-DARK-SIDE-2009`
+- **Status:** draft
+
+2009 Guardian feature on Freenet reporting Ian Clarke's refusal to add child-pornography filters on the ground that content filtering would end Freenet's censorship resistance.
+
+---
+
 ### Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile
 
 - **Source ID:** `SRC-HAIGH-UWM`
@@ -3130,6 +3286,33 @@ Official UWM History Department faculty profile for Thomas Haigh describing his 
 - **Status:** draft
 
 ACLU senior policy counsel Chad Marlow’s Hill opinion essay arguing that Chatrie v. United States and a Delaware reverse-keyword-warrant bill mark a privacy watershed against reverse (geofence/keyword) warrants.
+
+---
+
+### Hyphanet Home Page
+
+- **Source ID:** `SRC-HYPHANET-HOME`
+- **Status:** draft
+
+Official Hyphanet project home page describing the formerly Freenet censorship-resistant peer-to-peer network and its plugins for publishing and spam resistance.
+
+---
+
+### Freenet Renamed to Hyphanet
+
+- **Source ID:** `SRC-HYPHANET-RENAME`
+- **Status:** draft
+
+Official Hyphanet announcement explaining that the original Freenet project renamed to Hyphanet in 2023 after Freenet Project, Inc. reused the Freenet name for Locutus.
+
+---
+
+### Hyphanet Web of Trust Plugin README
+
+- **Source ID:** `SRC-HYPHANET-WOT-README`
+- **Status:** draft
+
+Official Web of Trust plugin README explaining collaborative spam filtering for Freenet/Hyphanet when censorship cannot remove content and attackers drown it in spam.
 
 ---
 
@@ -3328,6 +3511,15 @@ Official Harvard Law School faculty page for Lawrence Lessig.
 - **Status:** draft
 
 Press release from Representative Zoe Lofgren's office announcing the introduction of bipartisan bicameral Aaron's Law to reform the Computer Fraud and Abuse Act.
+
+---
+
+### LWN.net — An Introduction to GNUnet (2005)
+
+- **Source ID:** `SRC-LWN-GNUNET-INTRO-2005`
+- **Status:** draft
+
+2005 LWN.net technical article describing GNUnet's censorship-resistant sharing design, keyword-spam vulnerability, and namespace-based mitigation.
 
 ---
 
@@ -3841,6 +4033,15 @@ Official Tor Project contact page with support, community, security issue, organ
 - **Status:** verified
 
 Official Tor Project history page describing onion routing origins and the organization's nonprofit development.
+
+---
+
+### MIT Technology Review — Ian Clarke Innovator Profile
+
+- **Source ID:** `SRC-TR-IAN-CLARKE`
+- **Status:** draft
+
+MIT Technology Review innovator profile on Ian Clarke describing Freenet's anonymous peer-to-peer design and quoting his view that freedom of communication conflicts with copyright enforcement.
 
 ---
 
