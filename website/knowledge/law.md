@@ -53,6 +53,10 @@ These cases establish privacy protections in the digital context.
 
 - [`CASE-US-V-TUNICK`](../generated/source-docs/knowledge/legal/CASE-US-V-TUNICK.md): **United States v. Tunick** (N.D. Ga., pending) — § 2232(a) prosecution alleging deletion of Google Pixel digital contents during a January 2025 Atlanta airport CBP secondary inspection; public reporting links the wipe to GrapheneOS duress credentials.
 
+## Pending Cases: App Store Age Verification
+
+- [`CASE-CCIA-V-PAXTON-SB2420`](../generated/source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): **CCIA v. Paxton** (W.D. Tex. / 5th Cir., pending merits) — challenge to Texas SB 2420; PI granted Dec. 2025, stayed on appeal June 2026; SCOTUS denied emergency vacatur; law enforceable pending appeal.
+
 ## Statutes
 
 - [`STAT-USC-107`](../generated/source-docs/knowledge/legal/STAT-USC-107.md): **17 U.S.C. § 107** — fair use limitation on exclusive copyright rights.
@@ -61,10 +65,12 @@ These cases establish privacy protections in the digital context.
 - [`STAT-18-USC-2232`](../generated/source-docs/knowledge/legal/STAT-18-USC-2232.md): **18 U.S.C. § 2232** — destruction or removal of property to prevent seizure.
 - [`STAT-SECTION-230`](../generated/source-docs/knowledge/legal/STAT-SECTION-230.md): **47 U.S.C. § 230** — intermediary liability protections for online platforms.
 - [`STAT-IEEPA`](../generated/source-docs/knowledge/legal/STAT-IEEPA.md): **IEEPA (50 U.S.C. §§ 1701–1708)** — emergency economic powers used for OFAC blocking programs.
+- [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](../generated/source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md): **California Digital Age Assurance Act** (Civ. Code §§ 1798.500–1798.505) — OS age-bracket signals to apps; operative January 1, 2027.
+- [`STAT-TX-APP-STORE-ACCOUNTABILITY`](../generated/source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md): **Texas App Store Accountability Act** (SB 2420 / Bus. & Com. Code ch. 121) — app-store age verification and parental consent; effective January 1, 2026.
 
 ## Related Topics
 
-Concept and inventory pages live on the [Topics](topics.md) browse page, including [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
+Concept and inventory pages live on the [Topics](topics.md) browse page, including [App Store and Operating System Age-Verification Laws](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md), [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
 
 ## Why This Matters
 

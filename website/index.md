@@ -51,7 +51,8 @@ Court cases and statutes that establish precedent:
 - **Internet freedom** — [Reno v. ACLU](generated/source-docs/knowledge/legal/CASE-RENO-V-ACLU.md), [Packingham v. North Carolina](generated/source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - **Digital privacy** — [Carpenter v. United States](generated/source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - **Computer crime** — [Van Buren v. United States](generated/source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
-- **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md), [IEEPA](generated/source-docs/knowledge/legal/STAT-IEEPA.md)
+- **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md), [IEEPA](generated/source-docs/knowledge/legal/STAT-IEEPA.md), [California Digital Age Assurance Act](generated/source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md), [Texas App Store Accountability Act](generated/source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- **Age verification litigation** — [CCIA v. Paxton (Texas SB 2420)](generated/source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - **Copyright cases** — [Lenz v. Universal](generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md), [Google v. Oracle](generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 
 ### [Topics](knowledge/topics.md)
@@ -62,6 +63,7 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 - **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - **Computer crime and access** — [Computer Fraud and Abuse](generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - **Encryption and access** — [End-to-end encryption and compelled access](generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- **Age verification** — [App store and OS age-verification laws](generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 - **Technical topics** — [Onion Routing](generated/source-docs/knowledge/technical/TOPIC-ONION-ROUTING.md), [Kademlia](generated/source-docs/knowledge/technical/TOPIC-KADEMLIA.md), [Decentralized moderation](generated/source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - **Case studies** — [Documented proceedings involving software authors and operators](generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), [Tornado Cash sanctions and prosecutions](generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 

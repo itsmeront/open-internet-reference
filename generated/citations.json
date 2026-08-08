@@ -87,6 +87,28 @@
       ]
     },
     {
+      "source_id": "SRC-AL-HB161-ENROLLED",
+      "source_title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
+      "usages": [
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
+      "source_title": "Alston & Bird \u2014 Challenge to Utah ASAA Voluntarily Dismissed (April 2026)",
+      "usages": [
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-AP-DUROV-FSB-2026",
       "source_title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
       "usages": [
@@ -600,6 +622,99 @@
       ]
     },
     {
+      "source_id": "SRC-CA-AB-1043-STATUS",
+      "source_title": "California AB 1043 Bill Status \u2014 Chaptered October 13, 2025",
+      "usages": [
+        {
+          "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CA-AB-1043-STATUS",
+          "predicate": "cites",
+          "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+      "source_title": "California Civil Code Title 1.81.9 \u2014 Digital Age Assurance Act (leginfo)",
+      "usages": [
+        {
+          "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+          "predicate": "cites",
+          "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CA5-SB2420-STAY-ORDER",
+      "source_title": "Fifth Circuit \u2014 Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CA5-SB2420-STAY-ORDER",
+          "predicate": "cites",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CARPENTER-GOVINFO",
       "source_title": "Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)",
       "usages": [
@@ -696,6 +811,99 @@
           "record_id": "TOPIC-FOURTH-AMENDMENT",
           "record_title": "Fourth Amendment",
           "subject": "TOPIC-FOURTH-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+      "source_title": "CCIA Litigation Page \u2014 CCIA v. Paxton (W.D. Tex.)",
+      "usages": [
+        {
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+          "predicate": "cites",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CCIA-V-PAXTON-PI-ORDER",
+      "source_title": "CCIA v. Paxton \u2014 Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CCIA-V-PAXTON-PI-ORDER",
+          "predicate": "cites",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CCIA-V-PAXTON-SB2420",
+          "predicate": "related_to",
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CCIA-V-PAXTON-SB2420",
+          "predicate": "related_to",
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION",
           "usage": "relationship_source"
         }
       ]
@@ -2786,6 +2994,17 @@
       ]
     },
     {
+      "source_id": "SRC-LA-ACT-185-ASAA",
+      "source_title": "Louisiana Act No. 185 \u2014 App Store Accountability Act (2026)",
+      "usages": [
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-LEE-ENCRYPTION-BACKDOORS",
       "source_title": "Encryption backdoors aren't worth the price",
       "usages": [
@@ -4820,6 +5039,75 @@
           "record_title": "Device Search, Seizure, and Anti-Forensics",
           "subject": "TOPIC-DEVICE-SEARCH",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TX-SB-2420-ENROLLED",
+      "source_title": "Texas SB 2420 \u2014 App Store Accountability Act (Enrolled Text)",
+      "usages": [
+        {
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "subject": "CASE-CCIA-V-PAXTON-SB2420",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TX-SB-2420-ENROLLED",
+          "predicate": "cites",
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+      "source_title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
+      "usages": [
+        {
+          "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+          "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "record_title": "App Store and Operating System Age-Verification Laws",
+          "usage": "page_source"
         }
       ]
     },

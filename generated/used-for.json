@@ -26,6 +26,16 @@
     },
     {
       "sources": [
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026"
+      ],
+      "term": "`CASE-CCIA-V-PAXTON-SB2420`"
+    },
+    {
+      "sources": [
         "SRC-CHATRIE-LII",
         "SRC-CHATRIE-SCOTUS-PDF",
         "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026"
@@ -713,6 +723,13 @@
     },
     {
       "sources": [
+        "SRC-CA-AB-1043-STATUS",
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+      ],
+      "term": "`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`"
+    },
+    {
+      "sources": [
         "SRC-USC-18-1030-GOVINFO",
         "SRC-USC-18-1030-LII",
         "SRC-VAN-BUREN-GOVINFO",
@@ -741,6 +758,12 @@
         "SRC-SECTION-230-LII"
       ],
       "term": "`STAT-SECTION-230`"
+    },
+    {
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "term": "`STAT-TX-APP-STORE-ACCOUNTABILITY`"
     },
     {
       "sources": [
@@ -784,6 +807,21 @@
         "SRC-VAN-LOON-5TH-CIR-JUSTIA"
       ],
       "term": "`TECH-TORNADO-CASH`"
+    },
+    {
+      "sources": [
+        "SRC-AL-HB161-ENROLLED",
+        "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
+        "SRC-CA-AB-1043-STATUS",
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-LA-ACT-185-ASAA",
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026"
+      ],
+      "term": "`TOPIC-APP-STORE-AGE-VERIFICATION`"
     },
     {
       "sources": [

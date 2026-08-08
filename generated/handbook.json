@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 124,
+  "record_count": 128,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -267,6 +267,22 @@
       "status": "draft",
       "summary": "Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.",
       "title": "Carpenter v. United States",
+      "type": "case"
+    },
+    {
+      "id": "CASE-CCIA-V-PAXTON-SB2420",
+      "path": "knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "status": "draft",
+      "summary": "Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.",
+      "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
       "type": "case"
     },
     {
@@ -1289,6 +1305,19 @@
       "type": "statute"
     },
     {
+      "id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "path": "knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md",
+      "source_doc_path": "source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+        "SRC-CA-AB-1043-STATUS"
+      ],
+      "status": "draft",
+      "summary": "California\u2019s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.",
+      "title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+      "type": "statute"
+    },
+    {
       "id": "STAT-CFAA-1030",
       "path": "knowledge/legal/STAT-CFAA-1030.md",
       "source_doc_path": "source-docs/knowledge/legal/STAT-CFAA-1030.md",
@@ -1342,6 +1371,20 @@
       "status": "draft",
       "summary": "Section 230 of the Communications Decency Act (47 U.S.C. \u00a7 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.",
       "title": "Section 230 (47 U.S.C. \u00a7 230)",
+      "type": "statute"
+    },
+    {
+      "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "path": "knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER"
+      ],
+      "status": "draft",
+      "summary": "Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.",
+      "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
       "type": "statute"
     },
     {
@@ -1446,6 +1489,27 @@
       "summary": "Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.",
       "title": "Tornado Cash (Ethereum Mixer Protocol)",
       "type": "technology"
+    },
+    {
+      "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "path": "knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+        "SRC-CA-AB-1043-STATUS",
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+        "SRC-LA-ACT-185-ASAA",
+        "SRC-AL-HB161-ENROLLED",
+        "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026"
+      ],
+      "status": "draft",
+      "summary": "Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors\u2019 app access\u2014covering California\u2019s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.",
+      "title": "App Store and Operating System Age-Verification Laws",
+      "type": "topic"
     },
     {
       "id": "TOPIC-CODE-AS-SPEECH",

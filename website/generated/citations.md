@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 197
+Source count: 207
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -24,6 +24,14 @@ Source count: 197
 
 - Page source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - Relationship source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) `cites` [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+
+## [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md): Alabama HB 161 Enrolled — App Store Accountability Act
+
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md): Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)
+
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 
 ## [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
 
@@ -127,6 +135,27 @@ Source count: 197
 - Page source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - Relationship source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md): [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 
+## [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md): California AB 1043 Bill Status — Chaptered October 13, 2025
+
+- Page source in [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Relationship source in [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md): [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `cites` [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md): California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)
+
+- Page source in [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Relationship source in [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md): [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `cites` [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+- Relationship source in [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md): [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Relationship source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+
+## [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md): Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)
+
+- Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+- Page source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
 ## [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - Page source in [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
@@ -145,6 +174,24 @@ Source count: 197
 - Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Relationship source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `related_to` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+
+## [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md): CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)
+
+- Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md): CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)
+
+- Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Relationship source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md): [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `related_to` [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Relationship source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Relationship source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
 ## [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page
 
@@ -610,6 +657,10 @@ Source count: 197
 
 - Page source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 - Relationship source in [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md): [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md) `cites` [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+
+## [`SRC-LA-ACT-185-ASAA`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md): Louisiana Act No. 185 — App Store Accountability Act (2026)
+
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 
 ## [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md): Encryption backdoors aren't worth the price
 
@@ -1080,6 +1131,21 @@ Source count: 197
 - Relationship source in [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md): [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md): Texas SB 2420 — App Store Accountability Act (Enrolled Text)
+
+- Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Page source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Relationship source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md): [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `cites` [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- Relationship source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md): [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Relationship source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+
+## [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md): Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect
+
+- Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 
 ## [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII)
 

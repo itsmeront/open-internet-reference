@@ -242,6 +242,14 @@
       "record_type": "case"
     },
     {
+      "date": "2025",
+      "description": "Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.",
+      "event_type": "enactment",
+      "record_id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "record_title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+      "record_type": "statute"
+    },
+    {
       "date": "2025-01-24",
       "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
       "event_type": "offense",
@@ -266,11 +274,27 @@
       "record_type": "case"
     },
     {
+      "date": "2025-10-13",
+      "description": "California\u2019s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.",
+      "event_type": "enactment",
+      "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+      "record_type": "statute"
+    },
+    {
       "date": "2025-11-13",
       "description": "United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. \u00a7 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta\u2019s airport; public reporting links the wipe to GrapheneOS duress credentials.",
       "event_type": "indictment",
       "record_id": "CASE-US-V-TUNICK",
       "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-12-23",
+      "description": "Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.",
+      "event_type": "decision",
+      "record_id": "CASE-CCIA-V-PAXTON-SB2420",
+      "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
       "record_type": "case"
     },
     {

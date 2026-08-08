@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 124
+Record count: 128
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -30,6 +30,15 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 - Tags: fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+## `CASE-CCIA-V-PAXTON-SB2420`: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act) { #CASE-CCIA-V-PAXTON-SB2420 }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Tags: age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.
 
 ## `CASE-CHATRIE-V-US`: Chatrie v. United States { #CASE-CHATRIE-V-US }
 
@@ -886,6 +895,15 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
 
+## `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`: California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505) { #STAT-CA-DIGITAL-AGE-ASSURANCE-ACT }
+
+- Type: `statute`
+- Status: `draft`
+- Path: [`knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Tags: age-verification, privacy, digital-rights, public-policy, internet-governance
+
+California’s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.
+
 ## `STAT-CFAA-1030`: Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - Type: `statute`
@@ -921,6 +939,15 @@ The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1
 - Tags: internet-governance, intermediary-liability, digital-rights, first-amendment
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
+
+## `STAT-TX-APP-STORE-ACCOUNTABILITY`: Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121) { #STAT-TX-APP-STORE-ACCOUNTABILITY }
+
+- Type: `statute`
+- Status: `draft`
+- Path: [`knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Tags: age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.
 
 ## `STAT-USC-107`: 17 U.S.C. § 107 { #STAT-USC-107 }
 
@@ -984,6 +1011,15 @@ Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 20
 - Tags: technology, privacy-preserving-systems, censorship-resistance, open-source-software, tornado-cash, case-studies
 
 Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
+
+## `TOPIC-APP-STORE-AGE-VERIFICATION`: App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Tags: age-verification, first-amendment, privacy, digital-rights, public-policy, internet-governance
+
+Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
 
 ## `TOPIC-CODE-AS-SPEECH`: Code as Speech { #TOPIC-CODE-AS-SPEECH }
 

@@ -1,19 +1,19 @@
 {
   "by_status": {
-    "draft": 205,
+    "draft": 219,
     "verified": 116
   },
   "by_type": {
     "attorney": 18,
-    "case": 19,
+    "case": 20,
     "historical_event": 4,
     "organization": 23,
     "person": 30,
     "protocol": 3,
-    "source": 197,
-    "statute": 6,
+    "source": 207,
+    "statute": 8,
     "technology": 6,
-    "topic": 15
+    "topic": 16
   },
   "description": "Generated review status dashboard.",
   "missing_last_verified": [
@@ -22,10 +22,17 @@
     "SRC-OIR-ROADMAP-DOCX"
   ],
   "needing_review": [
+    "SRC-AL-HB161-ENROLLED",
+    "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
     "SRC-AP-DUROV-FSB-2026",
     "SRC-BBC-DUROV-FSB-2026",
     "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
     "SRC-BUSH-FISA-SIGNING-2008",
+    "SRC-CA-AB-1043-STATUS",
+    "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+    "SRC-CA5-SB2420-STAY-ORDER",
+    "SRC-CCIA-SB2420-LITIGATION-PAGE",
+    "SRC-CCIA-V-PAXTON-PI-ORDER",
     "SRC-CHATRIE-LII",
     "SRC-CHATRIE-SCOTUS-PDF",
     "SRC-CLARKE-DDISRS-1999",
@@ -62,6 +69,7 @@
     "SRC-IRS-SAMOURAI-PLEA-2025",
     "SRC-IRS-SAMOURAI-SENTENCE-2025",
     "SRC-KHANNA-INTERNET-BILL",
+    "SRC-LA-ACT-185-ASAA",
     "SRC-LEE-ENCRYPTION-BACKDOORS",
     "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
     "SRC-LOFGREN-AARONS-LAW",
@@ -92,6 +100,8 @@
     "SRC-TREASURY-TC-NOV-2022",
     "SRC-TUNICK-INDICTMENT-2025",
     "SRC-TUNICK-MOTION-SUPPRESS-2026",
+    "SRC-TX-SB-2420-ENROLLED",
+    "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
     "SRC-USC-18-2232-LII",
     "SRC-VAN-LOON-5TH-CIR-JUSTIA",
     "SRC-WILSON-SONSINI-INTERNET",
@@ -106,6 +116,7 @@
     "CASE-BERNSTEIN-V-DOJ",
     "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
     "CASE-CARPENTER-V-US",
+    "CASE-CCIA-V-PAXTON-SB2420",
     "CASE-CHATRIE-V-US",
     "CASE-COIN-CENTER-V-YELLEN",
     "CASE-GOOGLE-V-ORACLE",
@@ -201,10 +212,12 @@
     "PROTOCOL-TCP",
     "PROTOCOL-TLS-13",
     "STAT-18-USC-2232",
+    "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
     "STAT-CFAA-1030",
     "STAT-DMCA-512",
     "STAT-IEEPA",
     "STAT-SECTION-230",
+    "STAT-TX-APP-STORE-ACCOUNTABILITY",
     "STAT-USC-107",
     "TECH-GNUNET",
     "TECH-GRAPHENEOS",
@@ -212,6 +225,7 @@
     "TECH-PGP",
     "TECH-SAMOURAI-WALLET",
     "TECH-TORNADO-CASH",
+    "TOPIC-APP-STORE-AGE-VERIFICATION",
     "TOPIC-CODE-AS-SPEECH",
     "TOPIC-COMPUTER-FRAUD",
     "TOPIC-DECENTRALIZED-MODERATION",
@@ -231,7 +245,7 @@
   "schema_version": 1,
   "totals": {
     "missing_last_verified": 3,
-    "needing_review": 205,
-    "records": 321
+    "needing_review": 219,
+    "records": 335
   }
 }

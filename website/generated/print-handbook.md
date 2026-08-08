@@ -18,11 +18,11 @@
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>124</dd>
+        <dd>128</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>194</dd>
+        <dd>204</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -92,6 +92,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)](#CASE-CCIA-V-PAXTON-SB2420) (`CASE-CCIA-V-PAXTON-SB2420`)
 - [Chatrie v. United States](#CASE-CHATRIE-V-US) (`CASE-CHATRIE-V-US`)
 - [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
@@ -184,10 +185,12 @@ Knowledge records included in this handbook, grouped by type.
 ### Statute
 
 - [18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure](#STAT-18-USC-2232) (`STAT-18-USC-2232`)
+- [California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505)](#STAT-CA-DIGITAL-AGE-ASSURANCE-ACT) (`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`)
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)](#STAT-IEEPA) (`STAT-IEEPA`)
 - [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
+- [Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)](#STAT-TX-APP-STORE-ACCOUNTABILITY) (`STAT-TX-APP-STORE-ACCOUNTABILITY`)
 - [17 U.S.C. § 107](#STAT-USC-107) (`STAT-USC-107`)
 
 ### Technology
@@ -201,6 +204,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Topic
 
+- [App Store and Operating System Age-Verification Laws](#TOPIC-APP-STORE-AGE-VERIFICATION) (`TOPIC-APP-STORE-AGE-VERIFICATION`)
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
 - [Decentralized Moderation in Censorship-Resistant Networks](#TOPIC-DECENTRALIZED-MODERATION) (`TOPIC-DECENTRALIZED-MODERATION`)
@@ -302,6 +306,15 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 
 Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technology whose book Open Standards and the Digital Age documents how open-systems ideology shaped modern internet and networking standards.
 
+### App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION-glossary }
+
+- **Record ID:** `TOPIC-APP-STORE-AGE-VERIFICATION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, privacy, digital-rights, public-policy, internet-governance
+
+Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
+
 ### Ben Wizner { #PERSON-BEN-WIZNER-glossary }
 
 - **Record ID:** `PERSON-BEN-WIZNER`
@@ -338,6 +351,15 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 
 Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
 
+### California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505) { #STAT-CA-DIGITAL-AGE-ASSURANCE-ACT-glossary }
+
+- **Record ID:** `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** age-verification, privacy, digital-rights, public-policy, internet-governance
+
+California’s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.
+
 ### Carpenter v. United States { #CASE-CARPENTER-V-US-glossary }
 
 - **Record ID:** `CASE-CARPENTER-V-US`
@@ -346,6 +368,15 @@ Bruce Schneier is an internationally renowned security technologist, cryptograph
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+### CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act) { #CASE-CCIA-V-PAXTON-SB2420-glossary }
+
+- **Record ID:** `CASE-CCIA-V-PAXTON-SB2420`
+- **Type:** case
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.
 
 ### Center for Democracy and Technology { #ORG-CDT-glossary }
 
@@ -1157,6 +1188,15 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 
 Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
+### Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121) { #STAT-TX-APP-STORE-ACCOUNTABILITY-glossary }
+
+- **Record ID:** `STAT-TX-APP-STORE-ACCOUNTABILITY`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.
+
 ### Thomas Haigh { #PERSON-THOMAS-HAIGH-glossary }
 
 - **Record ID:** `PERSON-THOMAS-HAIGH`
@@ -1571,6 +1611,17 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+---
+
+#### CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act) { #CASE-CCIA-V-PAXTON-SB2420 }
+
+- **Record ID:** `CASE-CCIA-V-PAXTON-SB2420`
+- **Status:** draft
+- **Sources:** CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025) (`SRC-CCIA-V-PAXTON-PI-ORDER`), Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026) (`SRC-CA5-SB2420-STAY-ORDER`), CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.) (`SRC-CCIA-SB2420-LITIGATION-PAGE`), Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect (`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`), Texas SB 2420 — App Store Accountability Act (Enrolled Text) (`SRC-TX-SB-2420-ENROLLED`)
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.
 
 ---
 
@@ -2431,6 +2482,17 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 ---
 
+#### California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505) { #STAT-CA-DIGITAL-AGE-ASSURANCE-ACT }
+
+- **Record ID:** `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`
+- **Status:** draft
+- **Sources:** California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo) (`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`), California AB 1043 Bill Status — Chaptered October 13, 2025 (`SRC-CA-AB-1043-STATUS`)
+- **Tags:** age-verification, privacy, digital-rights, public-policy, internet-governance
+
+California’s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.
+
+---
+
 #### Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - **Record ID:** `STAT-CFAA-1030`
@@ -2472,6 +2534,17 @@ The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1
 - **Tags:** internet-governance, intermediary-liability, digital-rights, first-amendment
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
+
+---
+
+#### Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121) { #STAT-TX-APP-STORE-ACCOUNTABILITY }
+
+- **Record ID:** `STAT-TX-APP-STORE-ACCOUNTABILITY`
+- **Status:** draft
+- **Sources:** Texas SB 2420 — App Store Accountability Act (Enrolled Text) (`SRC-TX-SB-2420-ENROLLED`), CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025) (`SRC-CCIA-V-PAXTON-PI-ORDER`), Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026) (`SRC-CA5-SB2420-STAY-ORDER`)
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.
 
 ---
 
@@ -2555,6 +2628,17 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 ---
 
 ### Topic
+
+#### App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
+
+- **Record ID:** `TOPIC-APP-STORE-AGE-VERIFICATION`
+- **Status:** draft
+- **Sources:** California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo) (`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`), California AB 1043 Bill Status — Chaptered October 13, 2025 (`SRC-CA-AB-1043-STATUS`), Texas SB 2420 — App Store Accountability Act (Enrolled Text) (`SRC-TX-SB-2420-ENROLLED`), CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025) (`SRC-CCIA-V-PAXTON-PI-ORDER`), Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026) (`SRC-CA5-SB2420-STAY-ORDER`), CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.) (`SRC-CCIA-SB2420-LITIGATION-PAGE`), Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect (`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`), Louisiana Act No. 185 — App Store Accountability Act (2026) (`SRC-LA-ACT-185-ASAA`), Alabama HB 161 Enrolled — App Store Accountability Act (`SRC-AL-HB161-ENROLLED`), Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026) (`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`)
+- **Tags:** age-verification, first-amendment, privacy, digital-rights, public-policy, internet-governance
+
+Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
+
+---
 
 #### Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
@@ -2761,6 +2845,24 @@ Official ACLU history page describing the organization's founding context and ci
 
 ---
 
+### Alabama HB 161 Enrolled — App Store Accountability Act
+
+- **Source ID:** `SRC-AL-HB161-ENROLLED`
+- **Status:** draft
+
+Official Alabama enrolled HB 161 text requiring app-store age verification and parental consent frameworks, effective January 1, 2027, with Attorney General rulemaking.
+
+---
+
+### Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)
+
+- **Source ID:** `SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`
+- **Status:** draft
+
+Law-firm client alert describing CCIA’s February 2026 First Amendment challenge to Utah’s App Store Accountability Act and voluntary dismissal on April 21, 2026 after HB 498 delayed obligations to May 6, 2027 and removed AG enforcement.
+
+---
+
 ### AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
 
 - **Source ID:** `SRC-AP-DUROV-FSB-2026`
@@ -2878,6 +2980,33 @@ George W. Bush White House archive statement dated July 10, 2008 announcing the 
 
 ---
 
+### California AB 1043 Bill Status — Chaptered October 13, 2025
+
+- **Source ID:** `SRC-CA-AB-1043-STATUS`
+- **Status:** draft
+
+Official California bill status page showing AB 1043 (Digital Age Assurance Act / age verification signals) chaptered by the Secretary of State as Chapter 675, Statutes of 2025, on October 13, 2025.
+
+---
+
+### California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)
+
+- **Source ID:** `SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`
+- **Status:** draft
+
+Official California Legislative Information text of Civil Code §§ 1798.500–1798.505 (Digital Age Assurance Act), requiring OS age interfaces and age-bracket signals to apps, operative January 1, 2027.
+
+---
+
+### Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)
+
+- **Source ID:** `SRC-CA5-SB2420-STAY-ORDER`
+- **Status:** draft
+
+Published Fifth Circuit order staying universal preliminary injunctions against Texas SB 2420 in consolidated appeals including CCIA v. Paxton, No. 26-50001, filed June 4, 2026.
+
+---
+
 ### Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
 - **Source ID:** `SRC-CARPENTER-GOVINFO`
@@ -2893,6 +3022,24 @@ Official GovInfo United States Reports record for Carpenter v. United States.
 - **Status:** verified
 
 Cornell Legal Information Institute page for the Supreme Court decision on Fourth Amendment protection for historical cell-site location records.
+
+---
+
+### CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)
+
+- **Source ID:** `SRC-CCIA-SB2420-LITIGATION-PAGE`
+- **Status:** draft
+
+Computer & Communications Industry Association case page summarizing the SB 2420 challenge timeline, including the December 2025 injunction, June 2026 Fifth Circuit stay, and July 2026 Supreme Court denial of an emergency application to vacate the stay.
+
+---
+
+### CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)
+
+- **Source ID:** `SRC-CCIA-V-PAXTON-PI-ORDER`
+- **Status:** draft
+
+Western District of Texas order in Computer & Communications Industry Association v. Paxton, No. 1:25-CV-1660-RP, granting a preliminary injunction against enforcement of Texas SB 2420.
 
 ---
 
@@ -3544,6 +3691,15 @@ Official FAQ and contact information for the Knight First Amendment Institute at
 
 ---
 
+### Louisiana Act No. 185 — App Store Accountability Act (2026)
+
+- **Source ID:** `SRC-LA-ACT-185-ASAA`
+- **Status:** draft
+
+Official Louisiana enrolled Act No. 185 text re-enacting app-store age verification and parental-consent duties with substantive provisions effective July 1, 2027.
+
+---
+
 ### Encryption backdoors aren't worth the price
 
 - **Source ID:** `SRC-LEE-ENCRYPTION-BACKDOORS`
@@ -4189,6 +4345,24 @@ RECAP copy of the one-count criminal indictment charging Samuel Tunick under 18 
 - **Status:** draft
 
 Defense motion to suppress statements and evidence in United States v. Tunick, alleging Miranda, counsel, and Fourth Amendment violations during a CBP secondary inspection at Atlanta airport.
+
+---
+
+### Texas SB 2420 — App Store Accountability Act (Enrolled Text)
+
+- **Source ID:** `SRC-TX-SB-2420-ENROLLED`
+- **Status:** draft
+
+Official enrolled text of Texas Senate Bill 2420, the App Store Accountability Act, adding Business & Commerce Code Chapter 121 with age verification, parental consent, and developer age-rating duties, effective January 1, 2026.
+
+---
+
+### Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect
+
+- **Source ID:** `SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`
+- **Status:** draft
+
+Texas Tribune report that the U.S. Supreme Court declined to intervene against enforcement of Texas SB 2420 after the Fifth Circuit stayed a district-court injunction.
 
 ---
 

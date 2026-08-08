@@ -1,0 +1,37 @@
+---
+id: SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE
+title: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)
+type: source
+status: draft
+summary: Official California Legislative Information text of Civil Code §§ 1798.500–1798.505 (Digital Age Assurance Act), requiring OS age interfaces and age-bracket signals to apps, operative January 1, 2027.
+tags:
+  - source
+  - statute
+  - age-verification
+  - privacy
+  - digital-rights
+  - public-policy
+sources: []
+relationships: []
+last_verified: "2026-08-08"
+---
+
+# California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)
+
+## Bibliographic Metadata
+
+- Author or issuing body: California Legislature / Legislative Counsel (leginfo)
+- Publication date: Added by Stats. 2025, Ch. 675, Sec. 1 (AB 1043)
+- Source type: Official statute text
+- URL or citation: https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.9.&part=4.&chapter=&article=
+- Archive URL:
+- Access date: 2026-08-08
+
+## Reliability Notes
+
+Primary authority for California Digital Age Assurance Act as codified. Prefer this text over secondary summaries for operative dates, obligations, and definitions.
+
+## Used For
+
+- `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`
+- `TOPIC-APP-STORE-AGE-VERIFICATION`
