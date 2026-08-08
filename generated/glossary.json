@@ -5841,6 +5841,151 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "TECH-PGP",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/technical/TECH-PGP.md",
+      "relationships": [
+        {
+          "object": "SRC-ZIMMERMANN-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "TECH-PGP"
+        },
+        {
+          "object": "PERSON-PHIL-ZIMMERMANN",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "TECH-PGP"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-DECLINATION-1996"
+          ],
+          "subject": "TECH-PGP"
+        },
+        {
+          "object": "TOPIC-END-TO-END-ENCRYPTION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "TECH-PGP"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+          ],
+          "subject": "TECH-PGP"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TECH-PGP.md",
+      "sources": [
+        "SRC-ZIMMERMANN-BIO",
+        "SRC-ZIMMERMANN-DECLINATION-1996",
+        "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
+      ],
+      "status": "draft",
+      "summary": "Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimmermann and published in 1991; its distribution triggered a multi-year U.S. criminal export investigation that closed without prosecution in 1996.",
+      "tags": [
+        "technology",
+        "cryptography",
+        "privacy",
+        "open-source-software",
+        "export-control",
+        "speech-and-code",
+        "case-studies",
+        "digital-rights"
+      ],
+      "title": "Pretty Good Privacy (PGP)",
+      "type": "technology",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TECH-SAMOURAI-WALLET",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/technical/TECH-SAMOURAI-WALLET.md",
+      "relationships": [
+        {
+          "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "TECH-SAMOURAI-WALLET"
+        },
+        {
+          "object": "CASE-US-V-RODRIGUEZ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "TECH-SAMOURAI-WALLET"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "TECH-SAMOURAI-WALLET"
+        },
+        {
+          "object": "TECH-TORNADO-CASH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IRS-SAMOURAI-PLEA-2025"
+          ],
+          "subject": "TECH-SAMOURAI-WALLET"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md",
+      "sources": [
+        "SRC-IRS-SAMOURAI-PLEA-2025",
+        "SRC-IRS-SAMOURAI-SENTENCE-2025"
+      ],
+      "status": "draft",
+      "summary": "Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 2025 in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds; government announcements describe mixer features including Whirlpool.",
+      "tags": [
+        "technology",
+        "privacy",
+        "privacy-preserving-systems",
+        "open-source-risk",
+        "developer-rights",
+        "case-studies",
+        "computer-crime",
+        "digital-rights"
+      ],
+      "title": "Samourai Wallet",
+      "type": "technology",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "TECH-TORNADO-CASH",
       "indictment_date": null,
       "last_verified": "2026-07-23",
@@ -6319,6 +6464,76 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "TOPIC-DEVICE-SEARCH",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-DEVICE-SEARCH.md",
+      "relationships": [
+        {
+          "object": "CASE-US-V-TUNICK",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TUNICK-INDICTMENT-2025"
+          ],
+          "subject": "TOPIC-DEVICE-SEARCH"
+        },
+        {
+          "object": "TECH-GRAPHENEOS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GRAPHENEOS-FEATURES",
+            "SRC-TECHCRUNCH-TUNICK-DURESS-2026"
+          ],
+          "subject": "TOPIC-DEVICE-SEARCH"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TUNICK-MOTION-SUPPRESS-2026"
+          ],
+          "subject": "TOPIC-DEVICE-SEARCH"
+        },
+        {
+          "object": "STAT-18-USC-2232",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-18-2232-LII"
+          ],
+          "subject": "TOPIC-DEVICE-SEARCH"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md",
+      "sources": [
+        "SRC-TUNICK-INDICTMENT-2025",
+        "SRC-USC-18-2232-LII",
+        "SRC-GRAPHENEOS-FEATURES",
+        "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+        "SRC-TUNICK-MOTION-SUPPRESS-2026"
+      ],
+      "status": "draft",
+      "summary": "Topic on government search and seizure of digital devices\u2014especially at the border\u2014and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.",
+      "tags": [
+        "fourth-amendment",
+        "border-search",
+        "privacy",
+        "digital-rights",
+        "case-studies",
+        "open-source-software"
+      ],
+      "title": "Device Search, Seizure, and Anti-Forensics",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
       "indictment_date": null,
       "last_verified": "2026-07-19",
@@ -6408,6 +6623,85 @@
         "intermediary-liability"
       ],
       "title": "DMCA Takedown and Counter-Notification",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-END-TO-END-ENCRYPTION",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "relationships": [
+        {
+          "object": "ORG-SIGNAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SIGNAL-HOME"
+          ],
+          "subject": "TOPIC-END-TO-END-ENCRYPTION"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-RFERL-TELEGRAM-BLOCK-2018"
+          ],
+          "subject": "TOPIC-END-TO-END-ENCRYPTION"
+        },
+        {
+          "object": "TECH-PGP",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "TOPIC-END-TO-END-ENCRYPTION"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ZIMMERMANN-BIO"
+          ],
+          "subject": "TOPIC-END-TO-END-ENCRYPTION"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-WYDEN-EARN-IT"
+          ],
+          "subject": "TOPIC-END-TO-END-ENCRYPTION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "sources": [
+        "SRC-SIGNAL-HOME",
+        "SRC-WYDEN-EARN-IT",
+        "SRC-LEE-ENCRYPTION-BACKDOORS",
+        "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+        "SRC-RFERL-TELEGRAM-BLOCK-2018",
+        "SRC-ZIMMERMANN-BIO"
+      ],
+      "status": "draft",
+      "summary": "Topic on end-to-end encryption systems and government efforts to compel access, weaken standards, or condition intermediary protections in ways critics say undermine strong encryption.",
+      "tags": [
+        "cryptography",
+        "encryption-law",
+        "secure-messaging",
+        "privacy",
+        "surveillance",
+        "digital-rights",
+        "public-policy"
+      ],
+      "title": "End-to-End Encryption and Compelled Access",
       "type": "topic",
       "used_for": []
     },

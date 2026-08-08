@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 120
+Record count: 124
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -958,6 +958,24 @@ GrapheneOS is a privacy- and security-focused open-source mobile operating syste
 
 Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
 
+## `TECH-PGP`: Pretty Good Privacy (PGP) { #TECH-PGP }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-PGP.md`](source-docs/knowledge/technical/TECH-PGP.md)
+- Tags: technology, cryptography, privacy, open-source-software, export-control, speech-and-code, case-studies, digital-rights
+
+Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimmermann and published in 1991; its distribution triggered a multi-year U.S. criminal export investigation that closed without prosecution in 1996.
+
+## `TECH-SAMOURAI-WALLET`: Samourai Wallet { #TECH-SAMOURAI-WALLET }
+
+- Type: `technology`
+- Status: `draft`
+- Path: [`knowledge/technical/TECH-SAMOURAI-WALLET.md`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Tags: technology, privacy, privacy-preserving-systems, open-source-risk, developer-rights, case-studies, computer-crime, digital-rights
+
+Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 2025 in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds; government announcements describe mixer features including Whirlpool.
+
 ## `TECH-TORNADO-CASH`: Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
 - Type: `technology`
@@ -1003,6 +1021,15 @@ Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse wh
 
 Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
+## `TOPIC-DEVICE-SEARCH`: Device Search, Seizure, and Anti-Forensics { #TOPIC-DEVICE-SEARCH }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-DEVICE-SEARCH.md`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Tags: fourth-amendment, border-search, privacy, digital-rights, case-studies, open-source-software
+
+Topic on government search and seizure of digital devices—especially at the border—and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.
+
 ## `TOPIC-DMCA-TAKEDOWN-RESPONSE`: DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
 
 - Type: `topic`
@@ -1011,6 +1038,15 @@ Inventory of documented U.S. and selected foreign proceedings in which people wh
 - Tags: copyright, safe-harbor, digital-rights, intermediary-liability
 
 U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+## `TOPIC-END-TO-END-ENCRYPTION`: End-to-End Encryption and Compelled Access { #TOPIC-END-TO-END-ENCRYPTION }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Tags: cryptography, encryption-law, secure-messaging, privacy, surveillance, digital-rights, public-policy
+
+Topic on end-to-end encryption systems and government efforts to compel access, weaken standards, or condition intermediary protections in ways critics say undermine strong encryption.
 
 ## `TOPIC-FAIR-USE-VIDEO`: Fair Use and Video { #TOPIC-FAIR-USE-VIDEO }
 

@@ -9,6 +9,11 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 - [`TOPIC-FIRST-AMENDMENT`](../generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): **First Amendment** — religion, expression, assembly, and petition rights in U.S. constitutional law.
 - [`TOPIC-FOURTH-AMENDMENT`](../generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): **Fourth Amendment** — protection against unreasonable searches and seizures, including digital surveillance contexts.
 - [`TOPIC-CODE-AS-SPEECH`](../generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): **Code as Speech** — whether software, encryption, or other expressive code receives First Amendment protection.
+- [`TOPIC-DEVICE-SEARCH`](../generated/source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): **Device Search, Seizure, and Anti-Forensics** — device searches (including border inspections) and privacy features that can collide with destruction-of-evidence statutes.
+
+## Encryption and Access
+
+- [`TOPIC-END-TO-END-ENCRYPTION`](../generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): **End-to-End Encryption and Compelled Access** — E2EE messaging/cryptography systems and government efforts to compel access or weaken encryption.
 
 ## Copyright, Platforms, and Intermediaries
 
@@ -34,7 +39,7 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 
 ## Related Pages
 
-- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, Hyphanet, GNUnet, GrapheneOS, Tornado Cash, and related systems
+- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, PGP, Hyphanet, GNUnet, GrapheneOS, Tornado Cash, Samourai Wallet, and related systems
 - [Law](law.md) — court cases and statutes
 - [Technical Experts](experts.md) — engineers and scholars for technical consultation
 - [Organizations](organizations.md) — advocacy and software-freedom groups

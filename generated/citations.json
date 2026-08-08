@@ -2129,6 +2129,19 @@
           "record_title": "GrapheneOS",
           "subject": "TECH-GRAPHENEOS",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-GRAPHENEOS",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "subject": "TOPIC-DEVICE-SEARCH",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -2444,6 +2457,43 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IRS-SAMOURAI-PLEA-2025",
+          "predicate": "cites",
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
+          "subject": "TECH-SAMOURAI-WALLET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-US-V-RODRIGUEZ",
+          "predicate": "related_to",
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
+          "subject": "TECH-SAMOURAI-WALLET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TECH-TORNADO-CASH",
+          "predicate": "related_to",
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
+          "subject": "TECH-SAMOURAI-WALLET",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
+          "subject": "TECH-SAMOURAI-WALLET",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
           "record_title": "Documented Proceedings Involving Software Authors and Operators",
           "usage": "page_source"
@@ -2465,6 +2515,11 @@
         {
           "record_id": "CASE-US-V-RODRIGUEZ",
           "record_title": "United States v. Rodriguez (Samourai Wallet)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TECH-SAMOURAI-WALLET",
+          "record_title": "Samourai Wallet",
           "usage": "page_source"
         },
         {
@@ -2746,6 +2801,11 @@
           "record_title": "Mike Lee",
           "subject": "PERSON-MIKE-LEE",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
         }
       ]
     },
@@ -3013,6 +3073,11 @@
           "record_title": "Thomas Massie",
           "subject": "PERSON-THOMAS-MASSIE",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
         }
       ]
     },
@@ -3863,6 +3928,19 @@
           "record_id": "PERSON-PAVEL-DUROV",
           "record_title": "Pavel Durov",
           "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-TELEGRAM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "subject": "TOPIC-END-TO-END-ENCRYPTION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -4185,6 +4263,19 @@
           "record_title": "Signal",
           "subject": "ORG-SIGNAL",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SIGNAL",
+          "predicate": "related_to",
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "subject": "TOPIC-END-TO-END-ENCRYPTION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -4262,6 +4353,19 @@
           "record_id": "TECH-GRAPHENEOS",
           "record_title": "GrapheneOS",
           "subject": "TECH-GRAPHENEOS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-GRAPHENEOS",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "subject": "TOPIC-DEVICE-SEARCH",
           "usage": "relationship_source"
         }
       ]
@@ -4663,6 +4767,19 @@
           "record_id": "TECH-GRAPHENEOS",
           "record_title": "GrapheneOS",
           "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-US-V-TUNICK",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "subject": "TOPIC-DEVICE-SEARCH",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -4689,6 +4806,19 @@
           "record_id": "CASE-US-V-TUNICK",
           "record_title": "United States v. Tunick",
           "subject": "CASE-US-V-TUNICK",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-FOURTH-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "subject": "TOPIC-DEVICE-SEARCH",
           "usage": "relationship_source"
         }
       ]
@@ -5130,6 +5260,19 @@
           "record_id": "STAT-18-USC-2232",
           "record_title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
           "subject": "STAT-18-USC-2232",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-18-USC-2232",
+          "predicate": "related_to",
+          "record_id": "TOPIC-DEVICE-SEARCH",
+          "record_title": "Device Search, Seizure, and Anti-Forensics",
+          "subject": "TOPIC-DEVICE-SEARCH",
           "usage": "relationship_source"
         }
       ]
@@ -5595,6 +5738,19 @@
           "record_title": "Ron Wyden",
           "subject": "PERSON-RON-WYDEN",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "subject": "TOPIC-END-TO-END-ENCRYPTION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -5734,6 +5890,56 @@
           "record_title": "Phil Zimmermann",
           "subject": "PERSON-PHIL-ZIMMERMANN",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ZIMMERMANN-BIO",
+          "predicate": "cites",
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "subject": "TECH-PGP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PHIL-ZIMMERMANN",
+          "predicate": "related_to",
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "subject": "TECH-PGP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-END-TO-END-ENCRYPTION",
+          "predicate": "related_to",
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "subject": "TECH-PGP",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "usage": "page_source"
+        },
+        {
+          "object": "TECH-PGP",
+          "predicate": "related_to",
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "subject": "TOPIC-END-TO-END-ENCRYPTION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-END-TO-END-ENCRYPTION",
+          "record_title": "End-to-End Encryption and Compelled Access",
+          "subject": "TOPIC-END-TO-END-ENCRYPTION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -5781,6 +5987,19 @@
           "record_id": "PERSON-PHIL-ZIMMERMANN",
           "record_title": "Phil Zimmermann",
           "subject": "PERSON-PHIL-ZIMMERMANN",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+          "predicate": "related_to",
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "subject": "TECH-PGP",
           "usage": "relationship_source"
         },
         {
@@ -5832,6 +6051,19 @@
           "record_id": "PERSON-PHIL-ZIMMERMANN",
           "record_title": "Phil Zimmermann",
           "usage": "page_source"
+        },
+        {
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-CODE-AS-SPEECH",
+          "predicate": "related_to",
+          "record_id": "TECH-PGP",
+          "record_title": "Pretty Good Privacy (PGP)",
+          "subject": "TECH-PGP",
+          "usage": "relationship_source"
         }
       ]
     },

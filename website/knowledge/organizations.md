@@ -32,7 +32,7 @@ Organizations that defend digital rights, support open source software, and prot
 
 ## Related Pages
 
-- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, Hyphanet, GNUnet, GrapheneOS, Tornado Cash, and related technology records tracked for design and legal exposure
+- [Systems Under Open-Internet Pressure](systems.md) — Tor, Signal, Telegram, PGP, Hyphanet, GNUnet, GrapheneOS, Tornado Cash, Samourai Wallet, and related technology records tracked for design and legal exposure
 
 ## How to Engage
 

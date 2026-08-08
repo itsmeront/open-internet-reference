@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 372
+Edge count: 390
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -1480,6 +1480,51 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TECH-HYPHANET`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 - Sources: [`SRC-HYPHANET-WOT-README`](source-docs/bibliography/technical/SRC-HYPHANET-WOT-README.md), [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md)
 
+## [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `cites` [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+- Declared in: [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
+
+- Declared in: [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Sources: [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
+
+## [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`PERSON-PHIL-ZIMMERMANN`](source-docs/knowledge/people/PERSON-PHIL-ZIMMERMANN.md)
+
+- Declared in: [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+
+- Declared in: [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Sources: [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+
+## [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md) `related_to` [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+
+- Declared in: [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `cites` [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+- Declared in: [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
+
+- Declared in: [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+
+- Declared in: [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
+## [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
+
 ## [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md) `cites` [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
 - Declared in: [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
@@ -1655,6 +1700,26 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
+## [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`CASE-US-V-TUNICK`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
+
+- Declared in: [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Sources: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
+
+## [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+
+- Declared in: [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Sources: [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
+
+## [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TECH-GRAPHENEOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
+
+- Declared in: [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Sources: [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md), [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md)
+
+## [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+- Declared in: [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
+- Sources: [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+
 ## [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 
 - Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
@@ -1694,6 +1759,31 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
 - Sources: [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md)
+
+## [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
+
+- Declared in: [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Sources: [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md)
+
+## [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+- Declared in: [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Sources: [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
+
+## [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md)
+
+- Declared in: [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
+
+- Declared in: [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+## [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+- Declared in: [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+- Sources: [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 
 ## [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md)
 

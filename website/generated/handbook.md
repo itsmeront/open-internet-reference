@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-08 | **Records:** 120 | **Sources referenced:** 194
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-08 | **Records:** 124 | **Sources referenced:** 194
 
 <div class="oir-handbook" markdown="1">
 
@@ -162,6 +162,8 @@ Knowledge records included in this handbook, grouped by type.
 - [GNUnet](#TECH-GNUNET) (`TECH-GNUNET`)
 - [GrapheneOS](#TECH-GRAPHENEOS) (`TECH-GRAPHENEOS`)
 - [Hyphanet (formerly Freenet)](#TECH-HYPHANET) (`TECH-HYPHANET`)
+- [Pretty Good Privacy (PGP)](#TECH-PGP) (`TECH-PGP`)
+- [Samourai Wallet](#TECH-SAMOURAI-WALLET) (`TECH-SAMOURAI-WALLET`)
 - [Tornado Cash (Ethereum Mixer Protocol)](#TECH-TORNADO-CASH) (`TECH-TORNADO-CASH`)
 
 ### Topic
@@ -170,7 +172,9 @@ Knowledge records included in this handbook, grouped by type.
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
 - [Decentralized Moderation in Censorship-Resistant Networks](#TOPIC-DECENTRALIZED-MODERATION) (`TOPIC-DECENTRALIZED-MODERATION`)
 - [Documented Proceedings Involving Software Authors and Operators](#TOPIC-DEVELOPER-SOFTWARE-LIABILITY) (`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`)
+- [Device Search, Seizure, and Anti-Forensics](#TOPIC-DEVICE-SEARCH) (`TOPIC-DEVICE-SEARCH`)
 - [DMCA Takedown and Counter-Notification](#TOPIC-DMCA-TAKEDOWN-RESPONSE) (`TOPIC-DMCA-TAKEDOWN-RESPONSE`)
+- [End-to-End Encryption and Compelled Access](#TOPIC-END-TO-END-ENCRYPTION) (`TOPIC-END-TO-END-ENCRYPTION`)
 - [Fair Use and Video](#TOPIC-FAIR-USE-VIDEO) (`TOPIC-FAIR-USE-VIDEO`)
 - [First Amendment](#TOPIC-FIRST-AMENDMENT) (`TOPIC-FIRST-AMENDMENT`)
 - [Fourth Amendment](#TOPIC-FOURTH-AMENDMENT) (`TOPIC-FOURTH-AMENDMENT`)
@@ -445,6 +449,15 @@ David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as
 
 Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse when central content moderation conflicted with censorship resistance, including Freenet forum collapse and later Web of Trust filtering.
 
+### Device Search, Seizure, and Anti-Forensics { #TOPIC-DEVICE-SEARCH-glossary }
+
+- **Record ID:** `TOPIC-DEVICE-SEARCH`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** fourth-amendment, border-search, privacy, digital-rights, case-studies, open-source-software
+
+Topic on government search and seizure of digital devices—especially at the border—and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.
+
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
 - **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
@@ -498,6 +511,15 @@ Electronic Frontier Foundation is a U.S. nonprofit organization that, according 
 - **Tags:** organization, privacy, digital-rights, civil-society, outreach
 
 EPIC is a U.S. nonprofit research and advocacy center founded in 1994 to protect privacy, freedom of expression, and democratic values in the information age through litigation, research, and policy work.
+
+### End-to-End Encryption and Compelled Access { #TOPIC-END-TO-END-ENCRYPTION-glossary }
+
+- **Record ID:** `TOPIC-END-TO-END-ENCRYPTION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** cryptography, encryption-law, secure-messaging, privacy, surveillance, digital-rights, public-policy
+
+Topic on end-to-end encryption systems and government efforts to compel access, weaken standards, or condition intermediary protections in ways critics say undermine strong encryption.
 
 ### Esha Bhandari { #PERSON-ESHA-BHANDARI-glossary }
 
@@ -958,6 +980,15 @@ Perkins Coie is a law firm with over 1,200 attorneys named 2026 "Law Firm of the
 
 Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export investigation made him a central figure in the legal fight over civilian access to strong cryptography.
 
+### Pretty Good Privacy (PGP) { #TECH-PGP-glossary }
+
+- **Record ID:** `TECH-PGP`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, cryptography, privacy, open-source-software, export-control, speech-and-code, case-studies, digital-rights
+
+Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimmermann and published in 1991; its distribution triggered a multi-year U.S. criminal export investigation that closed without prosecution in 1996.
+
 ### Public Knowledge { #ORG-PUBLIC-KNOWLEDGE-glossary }
 
 - **Record ID:** `ORG-PUBLIC-KNOWLEDGE`
@@ -1038,6 +1069,15 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 - **Tags:** historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
 
 On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
+### Samourai Wallet { #TECH-SAMOURAI-WALLET-glossary }
+
+- **Record ID:** `TECH-SAMOURAI-WALLET`
+- **Type:** technology
+- **Status:** draft
+- **Tags:** technology, privacy, privacy-preserving-systems, open-source-risk, developer-rights, case-studies, computer-crime, digital-rights
+
+Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 2025 in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds; government announcements describe mixer features including Whirlpool.
 
 ### Section 230 (47 U.S.C. § 230) { #STAT-SECTION-230-glossary }
 
@@ -2024,6 +2064,20 @@ GrapheneOS is a privacy- and security-focused open-source mobile operating syste
 
 Hyphanet is the continuation of the original Freenet peer-to-peer network for anonymous, censorship-resistant publishing; it later added Web of Trust spam-resistance after unmoderated forums were disrupted by spam.
 
+#### [`TECH-PGP`](source-docs/knowledge/technical/TECH-PGP.md): Pretty Good Privacy (PGP) { #TECH-PGP }
+
+- Status: `draft`
+- Sources: [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md), [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md), [`SRC-ZIMMERMANN-INVESTIGATION-CLOSED`](source-docs/bibliography/people/SRC-ZIMMERMANN-INVESTIGATION-CLOSED.md)
+
+Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimmermann and published in 1991; its distribution triggered a multi-year U.S. criminal export investigation that closed without prosecution in 1996.
+
+#### [`TECH-SAMOURAI-WALLET`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md): Samourai Wallet { #TECH-SAMOURAI-WALLET }
+
+- Status: `draft`
+- Sources: [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md), [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+
+Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 2025 in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds; government announcements describe mixer features including Whirlpool.
+
 #### [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md): Tornado Cash (Ethereum Mixer Protocol) { #TECH-TORNADO-CASH }
 
 - Status: `draft`
@@ -2061,12 +2115,26 @@ Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse wh
 
 Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
+#### [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): Device Search, Seizure, and Anti-Forensics { #TOPIC-DEVICE-SEARCH }
+
+- Status: `draft`
+- Sources: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md), [`SRC-USC-18-2232-LII`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md), [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md), [`SRC-TECHCRUNCH-TUNICK-DURESS-2026`](source-docs/bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md), [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+
+Topic on government search and seizure of digital devices—especially at the border—and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.
+
 #### [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md): DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE }
 
 - Status: `draft`
 - Sources: [`SRC-USC-17-512-LII`](source-docs/bibliography/legal/SRC-USC-17-512-LII.md), [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md), [`SRC-EFF-BLOGGERS-IP`](source-docs/bibliography/legal/SRC-EFF-BLOGGERS-IP.md), [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md), [`SRC-COPYRIGHT-512-INDEX`](source-docs/bibliography/legal/SRC-COPYRIGHT-512-INDEX.md)
 
 U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C. § 512, documented from statute and cited sources.
+
+#### [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md): End-to-End Encryption and Compelled Access { #TOPIC-END-TO-END-ENCRYPTION }
+
+- Status: `draft`
+- Sources: [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md), [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md), [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md), [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md), [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md), [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md)
+
+Topic on end-to-end encryption systems and government efforts to compel access, weaken standards, or condition intermediary protections in ways critics say undermine strong encryption.
 
 #### [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): Fair Use and Video { #TOPIC-FAIR-USE-VIDEO }
 
