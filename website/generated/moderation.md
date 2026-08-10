@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-08-08 06:35 UTC
+Last updated: 2026-08-10 07:11 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,10 +8,10 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 1 |
-| AI-generated PRs | 0 |
+| Open PRs awaiting review | 2 |
+| AI-generated PRs | 1 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 204 |
+| Draft content items | 225 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
@@ -19,11 +19,12 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | # | Title | Author | Areas | Age | Flags |
 |---|-------|--------|-------|-----|-------|
-| [#81](https://github.com/itsmeront/open-internet-reference/pull/81) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 0d | — |
+| [#87](https://github.com/itsmeront/open-internet-reference/pull/87) | Add app-store and OS age-verification law cluster | @itsmeront | bibliography, legal, website | 1d | 🤖 AI 👀 Review |
+| [#88](https://github.com/itsmeront/open-internet-reference/pull/88) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (204)
+### 📋 Draft (225)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -48,7 +49,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
 | `CASE-CHATRIE-V-US` | Chatrie v. United States | `knowledge/legal/CASE-CHATRIE-V-US.md` |
 
-*...and 184 more*
+*...and 205 more*
 
 ## Stale Verifications
 
