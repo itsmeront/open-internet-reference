@@ -1,29 +1,55 @@
 {
-  "generated_at": "2026-08-08T06:35:17.966396Z",
+  "generated_at": "2026-08-10T07:11:07.067001Z",
   "summary": {
-    "open_prs": 1,
-    "ai_prs": 0,
+    "open_prs": 2,
+    "ai_prs": 1,
     "stale_prs": 0,
-    "draft_content": 204,
+    "draft_content": 225,
     "needs_sources": 0,
     "stale_verifications": 0
   },
   "pull_requests": [
     {
-      "number": 81,
+      "number": 88,
       "title": "chore: update moderation and taxonomy reports [automated]",
       "author": "app/github-actions",
       "labels": [],
       "areas": [
         "website"
       ],
-      "age_days": 0,
-      "stale_days": 0,
+      "age_days": 1,
+      "stale_days": 1,
       "is_ai": false,
       "is_draft": false,
       "needs_review": false,
       "is_stale": false,
       "priority": 0
+    },
+    {
+      "number": 87,
+      "title": "Add app-store and OS age-verification law cluster",
+      "author": "itsmeront",
+      "labels": [
+        "moderation/pending",
+        "needs-review",
+        "ai-generated",
+        "area/website",
+        "area/bibliography",
+        "area/legal",
+        "area/taxonomy"
+      ],
+      "areas": [
+        "bibliography",
+        "legal",
+        "website"
+      ],
+      "age_days": 1,
+      "stale_days": 1,
+      "is_ai": true,
+      "is_draft": false,
+      "needs_review": true,
+      "is_stale": false,
+      "priority": 5
     }
   ],
   "draft_content": [
@@ -328,6 +354,21 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-DEVICE-SEARCH.md",
+      "id": "TOPIC-DEVICE-SEARCH",
+      "title": "Device Search, Seizure, and Anti-Forensics",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "fourth-amendment",
+        "border-search",
+        "privacy",
+        "digital-rights",
+        "case-studies",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
       "title": "Brown v. Entertainment Merchants Assn.",
@@ -478,6 +519,22 @@
         "intermediary-liability",
         "digital-rights",
         "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "id": "TOPIC-END-TO-END-ENCRYPTION",
+      "title": "End-to-End Encryption and Compelled Access",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "cryptography",
+        "encryption-law",
+        "secure-messaging",
+        "privacy",
+        "surveillance",
+        "digital-rights",
+        "public-policy"
       ]
     },
     {
@@ -873,6 +930,55 @@
       ]
     },
     {
+      "path": "knowledge/technical/TECH-HYPHANET.md",
+      "id": "TECH-HYPHANET",
+      "title": "Hyphanet (formerly Freenet)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-PGP.md",
+      "id": "TECH-PGP",
+      "title": "Pretty Good Privacy (PGP)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "cryptography",
+        "privacy",
+        "open-source-software",
+        "export-control",
+        "speech-and-code",
+        "case-studies",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md",
+      "id": "TOPIC-DECENTRALIZED-MODERATION",
+      "title": "Decentralized Moderation in Censorship-Resistant Networks",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy",
+        "content-moderation",
+        "case-studies",
+        "digital-rights",
+        "distributed-systems"
+      ]
+    },
+    {
       "path": "knowledge/technical/TECH-GRAPHENEOS.md",
       "id": "TECH-GRAPHENEOS",
       "title": "GrapheneOS",
@@ -900,6 +1006,23 @@
         "open-source-software",
         "tornado-cash",
         "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-SAMOURAI-WALLET.md",
+      "id": "TECH-SAMOURAI-WALLET",
+      "title": "Samourai Wallet",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "privacy",
+        "privacy-preserving-systems",
+        "open-source-risk",
+        "developer-rights",
+        "case-studies",
+        "computer-crime",
+        "digital-rights"
       ]
     },
     {
@@ -959,6 +1082,22 @@
         "censorship-resistance",
         "open-source-software",
         "technical"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-GNUNET.md",
+      "id": "TECH-GNUNET",
+      "title": "GNUnet",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
       ]
     },
     {
@@ -1395,6 +1534,23 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-IAN-CLARKE.md",
+      "id": "PERSON-IAN-CLARKE",
+      "title": "Ian Clarke",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
       "id": "PERSON-JAMEEL-JAFFER",
       "title": "Jameel Jaffer",
@@ -1625,6 +1781,34 @@
         "source",
         "imported-source",
         "project-governance"
+      ]
+    },
+    {
+      "path": "bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md",
+      "id": "SRC-CLARKE-FREENET-PAPER-2001",
+      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "academic-paper",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/academic/SRC-CLARKE-DDISRS-1999.md",
+      "id": "SRC-CLARKE-DDISRS-1999",
+      "title": "A Distributed Decentralised Information Storage and Retrieval System",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "academic-paper",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
       ]
     },
     {
@@ -2108,6 +2292,21 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-HYPHANET-HOME.md",
+      "id": "SRC-HYPHANET-HOME",
+      "title": "Hyphanet Home Page",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
       "id": "SRC-FIRE-SUBMIT-CASE",
       "title": "FIRE Submit a Case Page",
@@ -2145,6 +2344,20 @@
         "attorney",
         "digital-rights",
         "civil-society"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-HYPHANET-RENAME.md",
+      "id": "SRC-HYPHANET-RENAME",
+      "title": "Freenet Renamed to Hyphanet",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "open-source-software"
       ]
     },
     {
@@ -2187,6 +2400,21 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-GNUNET-ABOUT.md",
+      "id": "SRC-GNUNET-ABOUT",
+      "title": "GNUnet About Page",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md",
       "id": "SRC-WILSON-SONSINI-SOFTWARE",
       "title": "Wilson Sonsini Software Industry Practice Page",
@@ -2226,6 +2454,21 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-FREENET-HISTORY.md",
+      "id": "SRC-FREENET-HISTORY",
+      "title": "Freenet History Page",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-FENWICK-HISTORY.md",
       "id": "SRC-FENWICK-HISTORY",
       "title": "Fenwick & West Firm History Page",
@@ -2239,6 +2482,20 @@
       ]
     },
     {
+      "path": "bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md",
+      "id": "SRC-LWN-GNUNET-INTRO-2005",
+      "title": "LWN.net \u2014 An Introduction to GNUnet (2005)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "technology",
+        "peer-to-peer-networking",
+        "censorship-resistance",
+        "privacy"
+      ]
+    },
+    {
       "path": "bibliography/technical/SRC-GRAPHENEOS-FEATURES.md",
       "id": "SRC-GRAPHENEOS-FEATURES",
       "title": "GrapheneOS Features Overview \u2014 Duress PIN/Password",
@@ -2249,6 +2506,20 @@
         "technology",
         "privacy",
         "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-HYPHANET-WOT-README.md",
+      "id": "SRC-HYPHANET-WOT-README",
+      "title": "Hyphanet Web of Trust Plugin README",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "technology",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
       ]
     },
     {
@@ -2387,6 +2658,19 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
+      "id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+      "title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md",
       "id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
       "title": "House Passes Massie Amendment to Strengthen Privacy and Security",
@@ -2398,6 +2682,19 @@
         "privacy",
         "digital-rights",
         "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md",
+      "id": "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+      "title": "The Guardian \u2014 The Dark Side of the Internet (Freenet, 2009)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "privacy",
+        "digital-rights"
       ]
     },
     {
@@ -2426,6 +2723,21 @@
         "privacy",
         "digital-rights",
         "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-CLARKE-FREENET-BIO.md",
+      "id": "SRC-CLARKE-FREENET-BIO",
+      "title": "Ian Clarke \u2014 Freenet Project Biography",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
       ]
     },
     {
@@ -2493,6 +2805,34 @@
         "person",
         "internet-governance",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
+      "id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+      "title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-TR-IAN-CLARKE.md",
+      "id": "SRC-TR-IAN-CLARKE",
+      "title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
       ]
     },
     {
