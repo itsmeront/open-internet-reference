@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 178
+Term count: 182
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -19,6 +19,14 @@ Term count: 178
 
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## `CASE-CCIA-V-PAXTON-SB2420` { #case-ccia-v-paxton-sb2420 }
+
+- [`SRC-CA5-SB2420-STAY-ORDER: Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER: CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
 
 ## `CASE-CHATRIE-V-US` { #case-chatrie-v-us }
 
@@ -511,6 +519,11 @@ Term count: 178
 - [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 - [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 
+## `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT` { #stat-ca-digital-age-assurance-act }
+
+- [`SRC-CA-AB-1043-STATUS: California AB 1043 Bill Status — Chaptered October 13, 2025`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+
 ## `STAT-CFAA-1030` { #stat-cfaa-1030 }
 
 - [`SRC-USC-18-1030-GOVINFO: 18 U.S.C. § 1030 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
@@ -533,6 +546,10 @@ Term count: 178
 
 - [`SRC-SECTION-230-EFF: EFF Section 230 Page`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 - [`SRC-SECTION-230-LII: 47 U.S.C. § 230 (Cornell LII)`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
+
+## `STAT-TX-APP-STORE-ACCOUNTABILITY` { #stat-tx-app-store-accountability }
+
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
 
 ## `STAT-USC-107` { #stat-usc-107 }
 
@@ -566,6 +583,19 @@ Term count: 178
 
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## `TOPIC-APP-STORE-AGE-VERIFICATION` { #topic-app-store-age-verification }
+
+- [`SRC-AL-HB161-ENROLLED: Alabama HB 161 Enrolled — App Store Accountability Act`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md)
+- [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026: Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)
+- [`SRC-CA-AB-1043-STATUS: California AB 1043 Bill Status — Chaptered October 13, 2025`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+- [`SRC-CA5-SB2420-STAY-ORDER: Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER: CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+- [`SRC-LA-ACT-185-ASAA: Louisiana Act No. 185 — App Store Accountability Act (2026)`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md)
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
 
 ## `TOPIC-COMPUTER-FRAUD` { #topic-computer-fraud }
 

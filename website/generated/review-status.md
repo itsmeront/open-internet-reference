@@ -4,33 +4,34 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 321
-- Records needing review: 205
+- Records: 335
+- Records needing review: 219
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 205
+- [`draft`](#draft-records): 219
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 18
-- [`case`](#case-records): 19
+- [`case`](#case-records): 20
 - [`historical_event`](#historical-event-records): 4
 - [`organization`](#organization-records): 23
 - [`person`](#person-records): 30
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 197
-- [`statute`](#statute-records): 6
+- [`source`](#source-records): 207
+- [`statute`](#statute-records): 8
 - [`technology`](#technology-records): 6
-- [`topic`](#topic-records): 15
+- [`topic`](#topic-records): 16
 
 ## Records Needing Review
 
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CCIA-V-PAXTON-SB2420: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
@@ -125,10 +126,17 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-AL-HB161-ENROLLED: Alabama HB 161 Enrolled — App Store Accountability Act`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md)
+- [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026: Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)
 - [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-CA-AB-1043-STATUS: California AB 1043 Bill Status — Chaptered October 13, 2025`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+- [`SRC-CA5-SB2420-STAY-ORDER: Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER: CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
 - [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 - [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
@@ -165,6 +173,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+- [`SRC-LA-ACT-185-ASAA: Louisiana Act No. 185 — App Store Accountability Act (2026)`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
@@ -195,6 +204,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
 - [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 - [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
 - [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
@@ -207,10 +218,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT: California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505)`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-TX-APP-STORE-ACCOUNTABILITY: Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
@@ -218,6 +231,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
 - [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
@@ -245,6 +259,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CCIA-V-PAXTON-SB2420: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
@@ -339,10 +354,17 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`PROTOCOL-DNS: Domain Name System`](source-docs/knowledge/technical/PROTOCOL-DNS.md)
 - [`PROTOCOL-TCP: Transmission Control Protocol`](source-docs/knowledge/technical/PROTOCOL-TCP.md)
 - [`PROTOCOL-TLS-13: Transport Layer Security 1.3`](source-docs/knowledge/technical/PROTOCOL-TLS-13.md)
+- [`SRC-AL-HB161-ENROLLED: Alabama HB 161 Enrolled — App Store Accountability Act`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md)
+- [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026: Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)
 - [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-CA-AB-1043-STATUS: California AB 1043 Bill Status — Chaptered October 13, 2025`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+- [`SRC-CA5-SB2420-STAY-ORDER: Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER: CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
 - [`SRC-CHATRIE-LII: Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 - [`SRC-CHATRIE-SCOTUS-PDF: Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)`](source-docs/bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md)
 - [`SRC-CLARKE-DDISRS-1999: A Distributed Decentralised Information Storage and Retrieval System`](source-docs/bibliography/academic/SRC-CLARKE-DDISRS-1999.md)
@@ -379,6 +401,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+- [`SRC-LA-ACT-185-ASAA: Louisiana Act No. 185 — App Store Accountability Act (2026)`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
@@ -409,6 +432,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
 - [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 - [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
 - [`SRC-USC-18-2232-LII: 18 U.S.C. § 2232 (Cornell LII)`](source-docs/bibliography/legal/SRC-USC-18-2232-LII.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
@@ -421,10 +446,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT: California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505)`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-TX-APP-STORE-ACCOUNTABILITY: Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TECH-GRAPHENEOS: GrapheneOS`](source-docs/knowledge/technical/TECH-GRAPHENEOS.md)
@@ -432,6 +459,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-PGP: Pretty Good Privacy (PGP)`](source-docs/knowledge/technical/TECH-PGP.md)
 - [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
+- [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
@@ -593,6 +621,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-BERNSTEIN-V-DOJ: Bernstein v. United States Department of Justice`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS: Brown v. Entertainment Merchants Assn.`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
 - [`CASE-CARPENTER-V-US: Carpenter v. United States`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+- [`CASE-CCIA-V-PAXTON-SB2420: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
@@ -688,6 +717,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-ABDO-KNIGHT: Alex Abdo Knight Institute Biography`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
 - [`SRC-ACLU-CONTACT: American Civil Liberties Union Contact Page`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md)
 - [`SRC-ACLU-HISTORY: American Civil Liberties Union History Page`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+- [`SRC-AL-HB161-ENROLLED: Alabama HB 161 Enrolled — App Store Accountability Act`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md)
+- [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026: Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)
 - [`SRC-AP-DUROV-FSB-2026: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md)
 - [`SRC-BBC-DUROV-FSB-2026: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md)
 - [`SRC-BERNERS-LEE-W3C: Tim Berners-Lee W3C Biography`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
@@ -701,8 +732,13 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-BROWN-V-EMA-GOVINFO: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 - [`SRC-BROWN-V-EMA-LII: Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII)`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md)
 - [`SRC-BUSH-FISA-SIGNING-2008: White House — President Bush Signs FISA Amendments Act of 2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
+- [`SRC-CA-AB-1043-STATUS: California AB 1043 Bill Status — Chaptered October 13, 2025`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE: California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo)`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+- [`SRC-CA5-SB2420-STAY-ORDER: Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
 - [`SRC-CARPENTER-GOVINFO: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md)
 - [`SRC-CARPENTER-LII: Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII)`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER: CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
 - [`SRC-CDT-ABOUT: Center for Democracy and Technology About Page`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md)
 - [`SRC-CDT-WHO: Center for Democracy and Technology Who We Are Page`](source-docs/bibliography/organizations/SRC-CDT-WHO.md)
 - [`SRC-CERF-GOOGLE: Vinton G. Cerf Google Research Profile`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
@@ -775,6 +811,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 - [`SRC-KNIGHT-ABOUT: Knight First Amendment Institute About Page`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md)
 - [`SRC-KNIGHT-CONTACT: Knight First Amendment Institute Contact and FAQ Page`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md)
+- [`SRC-LA-ACT-185-ASAA: Louisiana Act No. 185 — App Store Accountability Act (2026)`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LEE-SENATE-BIO: Mike Lee Official Senate Biography`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
@@ -850,6 +887,8 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
 - [`SRC-TUNICK-INDICTMENT-2025: United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025)`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 - [`SRC-TUNICK-MOTION-SUPPRESS-2026: United States v. Tunick — Motion to Suppress (Mar. 17, 2026)`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md)
+- [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
 - [`SRC-US-CONST-AMEND-I-LII: U.S. Constitution First Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md)
 - [`SRC-US-CONST-AMEND-IV-LII: U.S. Constitution Fourth Amendment (Cornell LII)`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md)
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
@@ -885,10 +924,12 @@ This page is generated from OIR metadata. Do not edit it manually.
 ## statute Records { #statute-records }
 
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
+- [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT: California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505)`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
 - [`STAT-CFAA-1030: Computer Fraud and Abuse Act (18 U.S.C. § 1030)`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 - [`STAT-DMCA-512: 17 U.S.C. § 512`](source-docs/knowledge/legal/STAT-DMCA-512.md)
 - [`STAT-IEEPA: International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)`](source-docs/knowledge/legal/STAT-IEEPA.md)
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+- [`STAT-TX-APP-STORE-ACCOUNTABILITY: Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
 
 ## technology Records { #technology-records }
@@ -902,6 +943,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## topic Records { #topic-records }
 
+- [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)

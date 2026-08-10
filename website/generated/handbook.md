@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-08 | **Records:** 124 | **Sources referenced:** 194
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-08 | **Records:** 128 | **Sources referenced:** 204
 
 <div class="oir-handbook" markdown="1">
 
@@ -59,6 +59,7 @@ Knowledge records included in this handbook, grouped by type.
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
+- [CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)](#CASE-CCIA-V-PAXTON-SB2420) (`CASE-CCIA-V-PAXTON-SB2420`)
 - [Chatrie v. United States](#CASE-CHATRIE-V-US) (`CASE-CHATRIE-V-US`)
 - [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
@@ -151,10 +152,12 @@ Knowledge records included in this handbook, grouped by type.
 ### Statute
 
 - [18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure](#STAT-18-USC-2232) (`STAT-18-USC-2232`)
+- [California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505)](#STAT-CA-DIGITAL-AGE-ASSURANCE-ACT) (`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`)
 - [Computer Fraud and Abuse Act (18 U.S.C. § 1030)](#STAT-CFAA-1030) (`STAT-CFAA-1030`)
 - [17 U.S.C. § 512](#STAT-DMCA-512) (`STAT-DMCA-512`)
 - [International Emergency Economic Powers Act (50 U.S.C. §§ 1701–1708)](#STAT-IEEPA) (`STAT-IEEPA`)
 - [Section 230 (47 U.S.C. § 230)](#STAT-SECTION-230) (`STAT-SECTION-230`)
+- [Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)](#STAT-TX-APP-STORE-ACCOUNTABILITY) (`STAT-TX-APP-STORE-ACCOUNTABILITY`)
 - [17 U.S.C. § 107](#STAT-USC-107) (`STAT-USC-107`)
 
 ### Technology
@@ -168,6 +171,7 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Topic
 
+- [App Store and Operating System Age-Verification Laws](#TOPIC-APP-STORE-AGE-VERIFICATION) (`TOPIC-APP-STORE-AGE-VERIFICATION`)
 - [Code as Speech](#TOPIC-CODE-AS-SPEECH) (`TOPIC-CODE-AS-SPEECH`)
 - [Computer Fraud and Abuse](#TOPIC-COMPUTER-FRAUD) (`TOPIC-COMPUTER-FRAUD`)
 - [Decentralized Moderation in Censorship-Resistant Networks](#TOPIC-DECENTRALIZED-MODERATION) (`TOPIC-DECENTRALIZED-MODERATION`)
@@ -269,6 +273,15 @@ American Civil Liberties Union is a U.S. civil liberties organization documented
 
 Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technology whose book Open Standards and the Digital Age documents how open-systems ideology shaped modern internet and networking standards.
 
+### App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION-glossary }
+
+- **Record ID:** `TOPIC-APP-STORE-AGE-VERIFICATION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, privacy, digital-rights, public-policy, internet-governance
+
+Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
+
 ### Ben Wizner { #PERSON-BEN-WIZNER-glossary }
 
 - **Record ID:** `PERSON-BEN-WIZNER`
@@ -305,6 +318,15 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 
 Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
 
+### California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505) { #STAT-CA-DIGITAL-AGE-ASSURANCE-ACT-glossary }
+
+- **Record ID:** `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** age-verification, privacy, digital-rights, public-policy, internet-governance
+
+California’s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.
+
 ### Carpenter v. United States { #CASE-CARPENTER-V-US-glossary }
 
 - **Record ID:** `CASE-CARPENTER-V-US`
@@ -313,6 +335,15 @@ Bruce Schneier is an internationally renowned security technologist, cryptograph
 - **Tags:** fourth-amendment, privacy, digital-rights, surveillance
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+### CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act) { #CASE-CCIA-V-PAXTON-SB2420-glossary }
+
+- **Record ID:** `CASE-CCIA-V-PAXTON-SB2420`
+- **Type:** case
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.
 
 ### Center for Democracy and Technology { #ORG-CDT-glossary }
 
@@ -1124,6 +1155,15 @@ The Software Freedom Law Center provides pro bono legal representation and relat
 
 Telegram is a Dubai-based messaging platform founded by Pavel Durov; OIR documents it as a secure-messaging company facing repeated government pressure over moderation, encryption access, and alleged facilitation of unlawful activity.
 
+### Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121) { #STAT-TX-APP-STORE-ACCOUNTABILITY-glossary }
+
+- **Record ID:** `STAT-TX-APP-STORE-ACCOUNTABILITY`
+- **Type:** statute
+- **Status:** draft
+- **Tags:** age-verification, first-amendment, digital-rights, public-policy, internet-governance
+
+Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.
+
 ### Thomas Haigh { #PERSON-THOMAS-HAIGH-glossary }
 
 - **Record ID:** `PERSON-THOMAS-HAIGH`
@@ -1456,6 +1496,13 @@ Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011), held that video gam
 - Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md), [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md), [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 
 Carpenter v. United States, 585 U.S. 296 (2018), held that the Government's acquisition of historical cell-site location records was a Fourth Amendment search requiring a warrant supported by probable cause in ordinary circumstances.
+
+#### [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act) { #CASE-CCIA-V-PAXTON-SB2420 }
+
+- Status: `draft`
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md), [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md), [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md), [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md), [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+
+Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.
 
 #### [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md): Chatrie v. United States { #CASE-CHATRIE-V-US }
 
@@ -2006,6 +2053,13 @@ Transport Layer Security (TLS) 1.3 is specified by RFC 8446.
 
 18 U.S.C. § 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government’s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years’ imprisonment.
 
+#### [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md): California Digital Age Assurance Act (Civ. Code §§ 1798.500–1798.505) { #STAT-CA-DIGITAL-AGE-ASSURANCE-ACT }
+
+- Status: `draft`
+- Sources: [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md), [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+
+California’s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.
+
 #### [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md): Computer Fraud and Abuse Act (18 U.S.C. § 1030) { #STAT-CFAA-1030 }
 
 - Status: `draft`
@@ -2033,6 +2087,13 @@ The International Emergency Economic Powers Act (IEEPA), 50 U.S.C. §§ 1701–1
 - Sources: [`SRC-SECTION-230-LII`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md), [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
 
 Section 230 of the Communications Decency Act (47 U.S.C. § 230), enacted in 1996, provides that internet platforms shall not be treated as publishers of user-generated content and protects good-faith content moderation, forming the legal foundation for the modern internet.
+
+#### [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md): Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121) { #STAT-TX-APP-STORE-ACCOUNTABILITY }
+
+- Status: `draft`
+- Sources: [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md), [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md), [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+
+Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.
 
 #### [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): 17 U.S.C. § 107 { #STAT-USC-107 }
 
@@ -2086,6 +2147,13 @@ Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 20
 Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
 
 ### Topic
+
+#### [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
+
+- Status: `draft`
+- Sources: [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md), [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md), [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md), [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md), [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md), [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md), [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md), [`SRC-LA-ACT-185-ASAA`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md), [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md), [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)
+
+Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
 
 #### [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md): Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
@@ -2200,6 +2268,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ABDO-KNIGHT`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md): Alex Abdo Knight Institute Biography (`verified`)
 - [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md): American Civil Liberties Union Contact Page (`verified`)
 - [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md): American Civil Liberties Union History Page (`verified`)
+- [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md): Alabama HB 161 Enrolled — App Store Accountability Act (`draft`)
+- [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md): Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026) (`draft`)
 - [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`draft`)
 - [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md): BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism (`draft`)
 - [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md): Tim Berners-Lee W3C Biography (`verified`)
@@ -2213,8 +2283,13 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) (`verified`)
 - [`SRC-BROWN-V-EMA-LII`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-LII.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (Cornell LII) (`verified`)
 - [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md): White House — President Bush Signs FISA Amendments Act of 2008 (`draft`)
+- [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md): California AB 1043 Bill Status — Chaptered October 13, 2025 (`draft`)
+- [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md): California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo) (`draft`)
+- [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md): Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026) (`draft`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
+- [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md): CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.) (`draft`)
+- [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md): CCIA v. Paxton — Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025) (`draft`)
 - [`SRC-CDT-ABOUT`](source-docs/bibliography/organizations/SRC-CDT-ABOUT.md): Center for Democracy and Technology About Page (`verified`)
 - [`SRC-CDT-WHO`](source-docs/bibliography/organizations/SRC-CDT-WHO.md): Center for Democracy and Technology Who We Are Page (`verified`)
 - [`SRC-CERF-GOOGLE`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md): Vinton G. Cerf Google Research Profile (`verified`)
@@ -2287,6 +2362,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee (`draft`)
 - [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md): Knight First Amendment Institute About Page (`verified`)
 - [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md): Knight First Amendment Institute Contact and FAQ Page (`verified`)
+- [`SRC-LA-ACT-185-ASAA`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md): Louisiana Act No. 185 — App Store Accountability Act (2026) (`draft`)
 - [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md): Encryption backdoors aren't worth the price (`draft`)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md): Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans (`draft`)
 - [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md): Mike Lee Official Senate Biography (`verified`)
@@ -2359,6 +2435,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-TREASURY-TC-NOV-2022`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md): Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022) (`draft`)
 - [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md): United States v. Tunick — Indictment (N.D. Ga. Nov. 13, 2025) (`draft`)
 - [`SRC-TUNICK-MOTION-SUPPRESS-2026`](source-docs/bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md): United States v. Tunick — Motion to Suppress (Mar. 17, 2026) (`draft`)
+- [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md): Texas SB 2420 — App Store Accountability Act (Enrolled Text) (`draft`)
+- [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md): Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect (`draft`)
 - [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII) (`verified`)
 - [`SRC-US-CONST-AMEND-IV-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-IV-LII.md): U.S. Constitution Fourth Amendment (Cornell LII) (`verified`)
 - [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md): 17 U.S.C. § 107 (GovInfo) (`verified`)

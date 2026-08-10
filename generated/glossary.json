@@ -199,6 +199,90 @@
       "arrest_date": null,
       "bibliographic_metadata": {},
       "charge_date": null,
+      "decision_date": "2025-12-23",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-CCIA-V-PAXTON-SB2420",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "relationships": [
+        {
+          "object": "SRC-CCIA-V-PAXTON-PI-ORDER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CCIA-V-PAXTON-PI-ORDER"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        },
+        {
+          "object": "SRC-CA5-SB2420-STAY-ORDER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CA5-SB2420-STAY-ORDER"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        },
+        {
+          "object": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CCIA-SB2420-LITIGATION-PAGE"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        },
+        {
+          "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TX-SB-2420-ENROLLED"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CCIA-SB2420-LITIGATION-PAGE"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CCIA-V-PAXTON-PI-ORDER"
+          ],
+          "subject": "CASE-CCIA-V-PAXTON-SB2420"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "sources": [
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+        "SRC-TX-SB-2420-ENROLLED"
+      ],
+      "status": "draft",
+      "summary": "Federal challenge to Texas SB 2420 in which the Western District of Texas granted a preliminary injunction (Dec. 23, 2025), the Fifth Circuit stayed that injunction pending appeal (June 4, 2026), and the Supreme Court denied an emergency application to vacate the stay (July 2026), leaving the App Store Accountability Act enforceable while the appeal continues.",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ],
+      "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
       "decision_date": "2026-06-29",
       "enactment_date": null,
       "event_date": null,
@@ -5299,6 +5383,63 @@
       "bibliographic_metadata": {},
       "charge_date": null,
       "decision_date": null,
+      "enactment_date": "2025-10-13",
+      "event_date": null,
+      "id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md",
+      "relationships": [
+        {
+          "object": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+          ],
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+        },
+        {
+          "object": "SRC-CA-AB-1043-STATUS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CA-AB-1043-STATUS"
+          ],
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+          ],
+          "subject": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+        "SRC-CA-AB-1043-STATUS"
+      ],
+      "status": "draft",
+      "summary": "California\u2019s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.",
+      "tags": [
+        "age-verification",
+        "privacy",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ],
+      "title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
       "enactment_date": "1984",
       "event_date": null,
       "id": "STAT-CFAA-1030",
@@ -5556,6 +5697,64 @@
         "first-amendment"
       ],
       "title": "Section 230 (47 U.S.C. \u00a7 230)",
+      "type": "statute",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": "2025",
+      "event_date": null,
+      "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "relationships": [
+        {
+          "object": "SRC-TX-SB-2420-ENROLLED",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TX-SB-2420-ENROLLED"
+          ],
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
+        },
+        {
+          "object": "CASE-CCIA-V-PAXTON-SB2420",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CCIA-V-PAXTON-PI-ORDER"
+          ],
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
+        },
+        {
+          "object": "TOPIC-APP-STORE-AGE-VERIFICATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TX-SB-2420-ENROLLED"
+          ],
+          "subject": "STAT-TX-APP-STORE-ACCOUNTABILITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "sources": [
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER"
+      ],
+      "status": "draft",
+      "summary": "Texas SB 2420, the App Store Accountability Act, adds Business & Commerce Code Chapter 121 requiring app stores to verify user age categories, obtain parental consent for minor downloads and purchases, and requiring developers to age-rate apps; takes effect January 1, 2026 and has been the subject of active First Amendment litigation.",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ],
+      "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
       "type": "statute",
       "used_for": []
     },
@@ -6036,6 +6235,80 @@
       ],
       "title": "Tornado Cash (Ethereum Mixer Protocol)",
       "type": "technology",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
+      "relationships": [
+        {
+          "object": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE"
+          ],
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+        },
+        {
+          "object": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-TX-SB-2420-ENROLLED"
+          ],
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+        },
+        {
+          "object": "CASE-CCIA-V-PAXTON-SB2420",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CCIA-V-PAXTON-PI-ORDER"
+          ],
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CCIA-V-PAXTON-PI-ORDER"
+          ],
+          "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
+      "sources": [
+        "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+        "SRC-CA-AB-1043-STATUS",
+        "SRC-TX-SB-2420-ENROLLED",
+        "SRC-CCIA-V-PAXTON-PI-ORDER",
+        "SRC-CA5-SB2420-STAY-ORDER",
+        "SRC-CCIA-SB2420-LITIGATION-PAGE",
+        "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+        "SRC-LA-ACT-185-ASAA",
+        "SRC-AL-HB161-ENROLLED",
+        "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026"
+      ],
+      "status": "draft",
+      "summary": "Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors\u2019 app access\u2014covering California\u2019s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "privacy",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ],
+      "title": "App Store and Operating System Age-Verification Laws",
+      "type": "topic",
       "used_for": []
     },
     {

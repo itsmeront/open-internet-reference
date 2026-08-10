@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 390
+Edge count: 406
 
 ## [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md) `cites` [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md)
 
@@ -63,6 +63,36 @@ Edge count: 390
 
 - Declared in: [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
 - Sources: [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md)
+
+## [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
 
 ## [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md) `cites` [`SRC-CHATRIE-LII`](source-docs/bibliography/legal/SRC-CHATRIE-LII.md)
 
@@ -1315,6 +1345,21 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - Sources: [`SRC-TUNICK-INDICTMENT-2025`](source-docs/bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md)
 
+## [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `cites` [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+
+- Declared in: [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Sources: [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md)
+
+## [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `cites` [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+
+- Declared in: [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Sources: [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+
+## [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+- Declared in: [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+- Sources: [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+
 ## [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md) `cites` [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md)
 
 - Declared in: [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
@@ -1399,6 +1444,21 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - Sources: [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md)
+
+## [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `cites` [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+
+- Declared in: [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Sources: [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+
+## [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `related_to` [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+
+- Declared in: [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+
+## [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md) `related_to` [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+- Declared in: [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+- Sources: [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
 
 ## [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
 
@@ -1539,6 +1599,26 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
+
+- Declared in: [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
+
+## [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`](source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md)
+
+- Declared in: [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Sources: [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md)
+
+## [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
+
+- Declared in: [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Sources: [`SRC-TX-SB-2420-ENROLLED`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
+
+## [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+- Sources: [`SRC-CCIA-V-PAXTON-PI-ORDER`](source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md)
 
 ## [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md) `cites` [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
 

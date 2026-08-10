@@ -154,6 +154,78 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Alabama Legislature",
+        "publication date": "2026 (enrolled)",
+        "source type": "Official enrolled bill PDF",
+        "url or citation": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB161-enr.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-AL-HB161-ENROLLED",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-AL-HB161-ENROLLED.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Alabama enrolled HB 161 text requiring app-store age verification and parental consent frameworks, effective January 1, 2027, with Attorney General rulemaking.",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ],
+      "title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Alston & Bird LLP",
+        "publication date": "2026-04-27",
+        "source type": "Secondary legal commentary",
+        "url or citation": "https://www.alstonprivacy.com/challenge-to-utahs-app-store-accountability-act-voluntarily-dismissed-following-statutory-amendments/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Law-firm client alert describing CCIA\u2019s February 2026 First Amendment challenge to Utah\u2019s App Store Accountability Act and voluntary dismissal on April 21, 2026 after HB 498 delayed obligations to May 6, 2027 and removed AG enforcement.",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ],
+      "title": "Alston & Bird \u2014 Challenge to Utah ASAA Voluntarily Dismissed (April 2026)",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-29",
         "author or issuing body": "Associated Press",
         "publication date": "2026-07-29",
@@ -639,6 +711,119 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "California Legislative Information",
+        "publication date": "2025-10-13 (chaptered)",
+        "source type": "Official legislative status record",
+        "url or citation": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1043"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CA-AB-1043-STATUS",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CA-AB-1043-STATUS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official California bill status page showing AB 1043 (Digital Age Assurance Act / age verification signals) chaptered by the Secretary of State as Chapter 675, Statutes of 2025, on October 13, 2025.",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ],
+      "title": "California AB 1043 Bill Status \u2014 Chaptered October 13, 2025",
+      "type": "source",
+      "used_for": [
+        "`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "California Legislature / Legislative Counsel (leginfo)",
+        "publication date": "Added by Stats. 2025, Ch. 675, Sec. 1 (AB 1043)",
+        "source type": "Official statute text",
+        "url or citation": "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.9.&part=4.&chapter=&article="
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official California Legislative Information text of Civil Code \u00a7\u00a7 1798.500\u20131798.505 (Digital Age Assurance Act), requiring OS age interfaces and age-bracket signals to apps, operative January 1, 2027.",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "privacy",
+        "digital-rights",
+        "public-policy"
+      ],
+      "title": "California Civil Code Title 1.81.9 \u2014 Digital Age Assurance Act (leginfo)",
+      "type": "source",
+      "used_for": [
+        "`STAT-CA-DIGITAL-AGE-ASSURANCE-ACT`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "U.S. Court of Appeals for the Fifth Circuit",
+        "publication date": "2026-06-04",
+        "source type": "Court order / primary authority",
+        "url or citation": "https://www.ca5.uscourts.gov/opinions/pub/26/26-50001-CV0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CA5-SB2420-STAY-ORDER",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Published Fifth Circuit order staying universal preliminary injunctions against Texas SB 2420 in consolidated appeals including CCIA v. Paxton, No. 26-50001, filed June 4, 2026.",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ],
+      "title": "Fifth Circuit \u2014 Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CCIA-V-PAXTON-SB2420`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
         "publication date": "2018",
@@ -716,6 +901,79 @@
         "`TOPIC-FOURTH-AMENDMENT`",
         "Digital privacy",
         "Cell-site location information"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Computer & Communications Industry Association",
+        "source type": "Party litigation summary / secondary reporting",
+        "url or citation": "https://ccianet.org/litigation/ccia-v-paxton-w-d-tex/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Computer & Communications Industry Association case page summarizing the SB 2420 challenge timeline, including the December 2025 injunction, June 2026 Fifth Circuit stay, and July 2026 Supreme Court denial of an emergency application to vacate the stay.",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ],
+      "title": "CCIA Litigation Page \u2014 CCIA v. Paxton (W.D. Tex.)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CCIA-V-PAXTON-SB2420`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "U.S. District Court for the Western District of Texas (Judge Robert Pitman)",
+        "publication date": "2025-12-23",
+        "source type": "Court order / primary authority",
+        "url or citation": "https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172869998/gov.uscourts.txwd.1172869998.65.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CCIA-V-PAXTON-PI-ORDER",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Western District of Texas order in Computer & Communications Industry Association v. Paxton, No. 1:25-CV-1660-RP, granting a preliminary injunction against enforcement of Texas SB 2420.",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ],
+      "title": "CCIA v. Paxton \u2014 Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CCIA-V-PAXTON-SB2420`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
       ]
     },
     {
@@ -3391,6 +3649,42 @@
       "type": "source",
       "used_for": [
         "`ORG-KNIGHT-FIRST-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Louisiana Legislature",
+        "publication date": "2026 (Act No. 185)",
+        "source type": "Official enrolled act text",
+        "url or citation": "https://legis.la.gov/legis/ViewDocument.aspx?d=1475238"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-LA-ACT-185-ASAA",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-LA-ACT-185-ASAA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Louisiana enrolled Act No. 185 text re-enacting app-store age verification and parental-consent duties with substantive provisions effective July 1, 2027.",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ],
+      "title": "Louisiana Act No. 185 \u2014 App Store Accountability Act (2026)",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
       ]
     },
     {
@@ -6231,6 +6525,82 @@
       "type": "source",
       "used_for": [
         "`CASE-US-V-TUNICK`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "Texas Legislature (89th Regular Session)",
+        "publication date": "2025 (enrolled; Act effective January 1, 2026)",
+        "source type": "Official enrolled bill text",
+        "url or citation": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02420F.HTM"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-TX-SB-2420-ENROLLED",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-TX-SB-2420-ENROLLED.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official enrolled text of Texas Senate Bill 2420, the App Store Accountability Act, adding Business & Commerce Code Chapter 121 with age verification, parental consent, and developer age-rating duties, effective January 1, 2026.",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "first-amendment",
+        "public-policy"
+      ],
+      "title": "Texas SB 2420 \u2014 App Store Accountability Act (Enrolled Text)",
+      "type": "source",
+      "used_for": [
+        "`STAT-TX-APP-STORE-ACCOUNTABILITY`",
+        "`CASE-CCIA-V-PAXTON-SB2420`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-08",
+        "author or issuing body": "The Texas Tribune",
+        "publication date": "2026-05-28 (URL/byline date; body describes SCOTUS denial and a late-May Fifth Circuit stay)",
+        "source type": "Reputable journalism / secondary reporting",
+        "url or citation": "https://www.texastribune.org/2026/05/28/texas-apple-google-app-store-age-verification/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+      "indictment_date": null,
+      "last_verified": "2026-08-08",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Texas Tribune report that the U.S. Supreme Court declined to intervene against enforcement of Texas SB 2420 after the Fifth Circuit stayed a district-court injunction.",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ],
+      "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
+      "type": "source",
+      "used_for": [
+        "`CASE-CCIA-V-PAXTON-SB2420`",
+        "`TOPIC-APP-STORE-AGE-VERIFICATION`"
       ]
     },
     {
