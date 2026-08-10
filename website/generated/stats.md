@@ -1,6 +1,6 @@
 # Usage Statistics
 
-Last updated: 2026-08-08 15:42 UTC
+Last updated: 2026-08-10 14:41 UTC
 
 These statistics are collected anonymously — no personal information (IP addresses, user agents, or identifiers) is tracked or stored.
 
@@ -19,4 +19,4 @@ These statistics are collected anonymously — no personal information (IP addre
 - MCP requests are counted from the MCP server request log
 - No IP addresses, user agents, cookies, or personal identifiers are stored
 - Statistics are regenerated periodically by a scheduled job
-- Traffic growth increases hosting load; optional tips are accepted on the [Support OIR](../../about/support.md) page (not tax-deductible)
+- Traffic growth increases hosting load; optional tips are accepted on the [Support OIR](../about/support.md) page (not tax-deductible)
