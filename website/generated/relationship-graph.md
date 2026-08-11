@@ -2,9 +2,9 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Explore relationships one record at a time: search or pick a focus node to see its **1-hop neighborhood**. Citation edges to source records are hidden by default. The complete edge list remains in [Relationship Graph](relationships.md).
+Explore relationships one record at a time: search or pick a focus node to see its **1-hop neighborhood**. Click the left focus to flip into **backlinks** view (who points here, then resolve what those records point to on the right). Citation edges to source records are hidden by default. The complete edge list remains in [Relationship Graph](relationships.md).
 
-Deep-link example: append `?focus=TOPIC-FIRST-AMENDMENT` to this page URL.
+Deep-link examples: `?focus=TOPIC-FIRST-AMENDMENT` or `?focus=TOPIC-FIRST-AMENDMENT&view=backlinks`.
 
 <div class="oir-relationship-graph">
   <div class="oir-relationship-graph__toolbar">
@@ -31,7 +31,7 @@ Deep-link example: append `?focus=TOPIC-FIRST-AMENDMENT` to this page URL.
       </div>
     </div>
     <div class="oir-relationship-graph__status" data-graph-status></div>
-    <div class="oir-relationship-graph__hint">Click a neighbor to refocus. Use Open page for the focused record. Drag to pan; mouse wheel or buttons to zoom.</div>
+    <div class="oir-relationship-graph__hint">Click the left focus for backlinks. Click a right neighbor to refocus outbound. In backlinks view, the selected record flashes on the right. Use Open page for the focused record.</div>
   </div>
   <div class="oir-relationship-graph__viewport"></div>
   <script type="application/json">

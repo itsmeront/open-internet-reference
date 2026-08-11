@@ -239,6 +239,11 @@
   stroke-width: 2;
 }
 
+.oir-graph-edge--to-selection {
+  stroke: rgba(217, 119, 6, 0.72);
+  stroke-width: 2.6;
+}
+
 .oir-graph-edge-label {
   fill: #475569;
   font-size: 12px;
@@ -271,6 +276,29 @@
   fill: #dbeafe;
   stroke: #1d4ed8;
   stroke-width: 2.4;
+}
+
+.oir-graph-node--explored rect {
+  fill: #ffedd5;
+  stroke: #c2410c;
+  stroke-width: 2.8;
+}
+
+.oir-graph-node--flash rect {
+  animation: oir-graph-flash 1.4s ease-out 1;
+}
+
+@keyframes oir-graph-flash {
+  0% {
+    fill: #fdba74;
+    stroke: #9a3412;
+    stroke-width: 3.4;
+  }
+  100% {
+    fill: #ffedd5;
+    stroke: #c2410c;
+    stroke-width: 2.8;
+  }
 }
 
 .oir-graph-node:hover rect {
