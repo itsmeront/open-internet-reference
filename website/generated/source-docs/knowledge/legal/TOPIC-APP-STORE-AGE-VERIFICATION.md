@@ -83,11 +83,11 @@ Texas SB 2420 and related state acts require commercially reasonable age verific
 
 | Jurisdiction | Law | Model | Key dates | Litigation / status (as of 2026-08-08) |
 |---|---|---|---|---|
-| **California** | AB 1043 / Civ. Code §§ 1798.500–1798.505 | OS age-bracket signals to apps | Chaptered 2025-10-13; effective 2026-01-01; **operative 2027-01-01**; legacy by 2027-07-01 | Enacted; no OIR-documented constitutional challenge yet[^1][^2] |
-| **Texas** | SB 2420 / Bus. & Com. Code ch. 121 | App-store AV + parental consent + developer ratings | **Effective 2026-01-01** | PI granted 2025-12-23; 5th Cir. stay 2026-06-04; SCOTUS denied emergency vacatur (July 2026 per CCIA) → **enforceable pending appeal**[^3][^4][^5][^6][^7] |
-| **Utah** | ASAA; amended by HB 498 (per secondary) | App-store AV model (amended) | Obligations delayed to **2027-05-06** (per secondary) | CCIA challenge filed Feb 2026; **voluntarily dismissed 2026-04-21** after amendments removing AG enforcement / delaying ops[^10] |
-| **Louisiana** | Act No. 185 (2026) | App-store AV model (re-enacted/delayed) | Substantive provisions **effective 2027-07-01** | Enacted delay/replacement text; monitor new challenges[^8] |
-| **Alabama** | HB 161 (enrolled 2026) | App-store AV model | **Effective 2027-01-01** | Enacted; AG rulemaking contemplated; monitor challenges[^9] |
+| [**California**](STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) | [AB 1043 / Civ. Code §§ 1798.500–1798.505](STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) | OS age-bracket signals to apps | Chaptered 2025-10-13; effective 2026-01-01; **operative 2027-01-01**; legacy by 2027-07-01 | Enacted; no OIR-documented constitutional challenge yet[^1][^2] |
+| [**Texas**](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | [SB 2420 / Bus. & Com. Code ch. 121](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | App-store AV + parental consent + developer ratings | **Effective 2026-01-01** | [PI granted 2025-12-23; 5th Cir. stay 2026-06-04; SCOTUS denied emergency vacatur (July 2026 per CCIA) → **enforceable pending appeal**](CASE-CCIA-V-PAXTON-SB2420.md)[^3][^4][^5][^6][^7] |
+| **Utah** | [ASAA; amended by HB 498 (per secondary)](../../bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md) | App-store AV model (amended) | Obligations delayed to **2027-05-06** (per secondary) | [CCIA challenge filed Feb 2026; **voluntarily dismissed 2026-04-21** after amendments removing AG enforcement / delaying ops](../../bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)[^10] |
+| [**Louisiana**](../../bibliography/legal/SRC-LA-ACT-185-ASAA.md) | [Act No. 185 (2026)](../../bibliography/legal/SRC-LA-ACT-185-ASAA.md) | App-store AV model (re-enacted/delayed) | Substantive provisions **effective 2027-07-01** | Enacted delay/replacement text; monitor new challenges[^8] |
+| [**Alabama**](../../bibliography/legal/SRC-AL-HB161-ENROLLED.md) | [HB 161 (enrolled 2026)](../../bibliography/legal/SRC-AL-HB161-ENROLLED.md) | App-store AV model | **Effective 2027-01-01** | Enacted; AG rulemaking contemplated; monitor challenges[^9] |
 
 ## Texas litigation (lead case)
 
