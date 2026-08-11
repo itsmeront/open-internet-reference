@@ -6,6 +6,8 @@ Explore relationships one record at a time: search or pick a focus node to see i
 
 Deep-link examples: `?focus=TOPIC-FIRST-AMENDMENT` or `?focus=TOPIC-FIRST-AMENDMENT&view=backlinks`.
 
+<link rel="stylesheet" href="../../assets/css/relationship-graph.css?v=efcf2a6345aa">
+
 <div class="oir-relationship-graph">
   <div class="oir-relationship-graph__toolbar">
     <div class="oir-relationship-graph__toolbar-row">
@@ -39,6 +41,6 @@ Deep-link examples: `?focus=TOPIC-FIRST-AMENDMENT` or `?focus=TOPIC-FIRST-AMENDM
   </script>
 </div>
 
-<script src="../../assets/js/relationship-graph.js"></script>
+<script src="../../assets/js/relationship-graph.js?v=0b9e62c78d52"></script>
 
 Corpus edge count: 406 (full graph is not drawn by default)

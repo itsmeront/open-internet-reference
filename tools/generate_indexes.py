@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -1289,11 +1290,20 @@ def write_relationships_markdown(
     write_markdown(WEBSITE_GENERATED_DIR / "relationships.md", lines)
 
 
+def asset_cache_bust(relative_path: str) -> str:
+    """Return a short content hash for website assets so immutable CDN caches refresh."""
+    asset_path = ROOT / "website" / relative_path
+    digest = hashlib.sha256(asset_path.read_bytes()).hexdigest()[:12]
+    return digest
+
+
 def write_relationship_visual_markdown(
     edges: list[dict[str, Any]],
     records_by_id: dict[str, dict[str, Any]],
 ) -> None:
     graph_path = WEBSITE_GENERATED_DIR / "relationship-graph.md"
+    graph_js_version = asset_cache_bust("assets/js/relationship-graph.js")
+    graph_css_version = asset_cache_bust("assets/css/relationship-graph.css")
     node_ids = sorted(
         {
             str(edge.get("subject"))
@@ -1334,6 +1344,8 @@ def write_relationship_visual_markdown(
         "",
         "Deep-link examples: `?focus=TOPIC-FIRST-AMENDMENT` or `?focus=TOPIC-FIRST-AMENDMENT&view=backlinks`.",
         "",
+        f'<link rel="stylesheet" href="../../assets/css/relationship-graph.css?v={graph_css_version}">',
+        "",
         '<div class="oir-relationship-graph">',
         '  <div class="oir-relationship-graph__toolbar">',
         '    <div class="oir-relationship-graph__toolbar-row">',
@@ -1367,7 +1379,7 @@ def write_relationship_visual_markdown(
         "  </script>",
         "</div>",
         "",
-        '<script src="../../assets/js/relationship-graph.js"></script>',
+        f'<script src="../../assets/js/relationship-graph.js?v={graph_js_version}"></script>',
         "",
         f"Corpus edge count: {len(edges)} (full graph is not drawn by default)",
     ]
