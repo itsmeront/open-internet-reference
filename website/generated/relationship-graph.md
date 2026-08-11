@@ -41,6 +41,6 @@ Deep-link examples: `?focus=TOPIC-FIRST-AMENDMENT` or `?focus=TOPIC-FIRST-AMENDM
   </script>
 </div>
 
-<script src="../../assets/js/relationship-graph.js?v=0b9e62c78d52"></script>
+<script src="../../assets/js/relationship-graph.js?v=259e0e531afe"></script>
 
 Corpus edge count: 406 (full graph is not drawn by default)

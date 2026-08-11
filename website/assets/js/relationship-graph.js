@@ -183,6 +183,9 @@
     });
 
     const leftNodes = [...referrerIds].sort().map((id) => nodesById.get(id));
+    // Keep referrers exclusively on the left column. If a referrer also appears in
+    // another referrer's outbound fan-out, putting it on the right would overwrite
+    // its left-side position and collapse the left lane to a single node.
     const rightIds = new Set([focusId]);
     let truncatedRight = false;
 
@@ -199,7 +202,7 @@
           seen.add(key);
           edges.push(edge);
         }
-        if (edge.object === focusId) {
+        if (edge.object === focusId || referrerIds.has(edge.object)) {
           return;
         }
         if (rightIds.size >= MAX_RIGHT_FANOUT + 1) {
@@ -227,7 +230,9 @@
 
   function layoutColumns(leftNodes, rightNodes) {
     const positions = new Map();
-    const rowCount = Math.max(leftNodes.length, rightNodes.length, 1);
+    const leftIds = new Set(leftNodes.map((node) => node.id));
+    const rightOnly = rightNodes.filter((node) => !leftIds.has(node.id));
+    const rowCount = Math.max(leftNodes.length, rightOnly.length, 1);
 
     leftNodes.forEach((node, index) => {
       positions.set(node.id, {
@@ -236,7 +241,7 @@
       });
     });
 
-    rightNodes.forEach((node, index) => {
+    rightOnly.forEach((node, index) => {
       positions.set(node.id, {
         x: RIGHT_X,
         y: TOP_Y + index * (NODE_HEIGHT + ROW_GAP),
@@ -529,7 +534,8 @@
     );
 
     const leftIds = new Set(subgraph.leftNodes.map((node) => node.id));
-    const rightIds = new Set(subgraph.rightNodes.map((node) => node.id));
+    const rightNodes = subgraph.rightNodes.filter((node) => !leftIds.has(node.id));
+    const rightIds = new Set(rightNodes.map((node) => node.id));
 
     subgraph.edges.forEach((edge) => {
       const subjectOnLeft = leftIds.has(edge.subject) && rightIds.has(edge.object);
@@ -542,7 +548,7 @@
       const toId = subjectOnLeft ? edge.object : edge.subject;
       const from = positions.get(fromId);
       const to = positions.get(toId);
-      if (!from || !to) {
+      if (!from || !to || from.x >= to.x) {
         return;
       }
 
@@ -572,7 +578,7 @@
       });
     });
 
-    subgraph.rightNodes.forEach((node) => {
+    rightNodes.forEach((node) => {
       const isSelected = subgraph.mode === "backlinks" && node.id === subgraph.focus.id;
       addNode(graphGroup, node, positions.get(node.id), {
         role: isSelected ? "selected" : "neighbor",
