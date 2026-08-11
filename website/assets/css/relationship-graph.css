@@ -1,3 +1,15 @@
+.oir-relationship-graph .visually-hidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+}
+
 .oir-relationship-graph {
   border: 1px solid rgba(72, 86, 122, 0.18);
   border-radius: 18px;
@@ -11,19 +23,95 @@
 }
 
 .oir-relationship-graph__toolbar {
-  align-items: center;
+  align-items: flex-start;
   background: rgba(255, 255, 255, 0.78);
   border-bottom: 1px solid rgba(72, 86, 122, 0.14);
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  padding: 0.75rem;
+}
+
+.oir-relationship-graph__toolbar-row {
+  align-items: center;
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
   justify-content: space-between;
-  padding: 0.75rem;
+  width: 100%;
 }
 
 .oir-relationship-graph__toolbar-group {
+  align-items: center;
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
+}
+
+.oir-relationship-graph__search-wrap {
+  flex: 1 1 18rem;
+  max-width: 36rem;
+  position: relative;
+}
+
+.oir-relationship-graph__search {
+  background: #fff;
+  border: 1px solid rgba(72, 86, 122, 0.24);
+  border-radius: 999px;
+  color: #172033;
+  font-size: 0.9rem;
+  padding: 0.55rem 0.95rem;
+  width: 100%;
+}
+
+.oir-relationship-graph__search:focus {
+  border-color: rgba(37, 99, 235, 0.55);
+  outline: 2px solid rgba(37, 99, 235, 0.18);
+}
+
+.oir-relationship-graph__search-results {
+  background: #fff;
+  border: 1px solid rgba(72, 86, 122, 0.18);
+  border-radius: 12px;
+  box-shadow: 0 16px 36px rgba(15, 23, 42, 0.14);
+  left: 0;
+  margin: 0;
+  max-height: 16rem;
+  overflow: auto;
+  padding: 0.35rem;
+  position: absolute;
+  right: 0;
+  top: calc(100% + 0.35rem);
+  z-index: 5;
+}
+
+.oir-relationship-graph__search-option {
+  background: transparent;
+  border: 0;
+  border-radius: 8px;
+  color: #172033;
+  cursor: pointer;
+  display: grid;
+  gap: 0.1rem;
+  padding: 0.55rem 0.65rem;
+  text-align: left;
+  width: 100%;
+}
+
+.oir-relationship-graph__search-option:hover,
+.oir-relationship-graph__search-option:focus {
+  background: rgba(37, 99, 235, 0.08);
+  outline: none;
+}
+
+.oir-relationship-graph__search-option strong {
+  display: block;
+  font-size: 0.82rem;
+}
+
+.oir-relationship-graph__search-option span {
+  color: #526074;
+  font-size: 0.74rem;
 }
 
 .oir-relationship-graph__button {
@@ -36,11 +124,43 @@
   font-weight: 700;
   letter-spacing: 0.04em;
   padding: 0.45rem 0.8rem;
+  text-decoration: none;
   text-transform: uppercase;
 }
 
 .oir-relationship-graph__button:hover {
   background: #31446f;
+  color: #fff;
+}
+
+.oir-relationship-graph__button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+.oir-relationship-graph__button--secondary {
+  background: #e8eef8;
+  color: #1f2a44;
+}
+
+.oir-relationship-graph__button--secondary:hover {
+  background: #d7e2f4;
+  color: #1f2a44;
+}
+
+.oir-relationship-graph__toggle {
+  align-items: center;
+  color: #334155;
+  display: inline-flex;
+  font-size: 0.8rem;
+  gap: 0.4rem;
+  user-select: none;
+}
+
+.oir-relationship-graph__status {
+  color: #334155;
+  font-size: 0.82rem;
+  line-height: 1.4;
 }
 
 .oir-relationship-graph__hint {
@@ -55,6 +175,51 @@
   overflow-y: auto;
   touch-action: none;
   user-select: none;
+}
+
+.oir-relationship-graph__empty {
+  align-items: flex-start;
+  color: #334155;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  justify-content: center;
+  min-height: 460px;
+  padding: 2rem;
+}
+
+.oir-relationship-graph__empty-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.oir-relationship-graph__empty-body {
+  color: #526074;
+  margin: 0;
+  max-width: 40rem;
+}
+
+.oir-relationship-graph__suggestions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.35rem;
+}
+
+.oir-relationship-graph__suggestion {
+  background: #fff;
+  border: 1px solid rgba(37, 99, 235, 0.24);
+  border-radius: 999px;
+  color: #1d4ed8;
+  cursor: pointer;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.4rem 0.75rem;
+}
+
+.oir-relationship-graph__suggestion:hover {
+  background: rgba(37, 99, 235, 0.08);
 }
 
 .oir-relationship-graph svg {
@@ -81,6 +246,10 @@
   letter-spacing: 0.02em;
 }
 
+.oir-graph-node {
+  cursor: pointer;
+}
+
 .oir-graph-node rect {
   fill: #ffffff;
   stroke: rgba(30, 41, 59, 0.18);
@@ -96,6 +265,12 @@
 .oir-graph-node--knowledge rect {
   fill: #eef6ff;
   stroke: rgba(37, 99, 235, 0.28);
+}
+
+.oir-graph-node--focus rect {
+  fill: #dbeafe;
+  stroke: #1d4ed8;
+  stroke-width: 2.4;
 }
 
 .oir-graph-node:hover rect {
@@ -127,4 +302,11 @@
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+@media (max-width: 720px) {
+  .oir-relationship-graph__search-wrap {
+    flex-basis: 100%;
+    max-width: none;
+  }
 }
