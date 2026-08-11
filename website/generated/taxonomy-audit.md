@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-08-10 07:11 UTC
+Last updated: 2026-08-11 06:48 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -8,9 +8,9 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Metric | Count |
 |--------|-------|
-| Tags declared in TAXONOMY.md | 54 |
-| Tags used in content | 56 |
-| Total tag applications | 1429 |
+| Tags declared in TAXONOMY.md | 55 |
+| Tags used in content | 57 |
+| Total tag applications | 1493 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,17 +20,17 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 198 | ✓ |
-| `digital-rights` | 164 | ✓ |
-| `privacy` | 111 | ✓ |
+| `source` | 208 | ✓ |
+| `digital-rights` | 169 | ✓ |
+| `privacy` | 114 | ✓ |
 | `organization` | 91 | ✓ |
 | `open-source-software` | 78 | ✓ |
+| `first-amendment` | 71 | ✓ |
 | `person` | 68 | ⚠️ undeclared |
-| `first-amendment` | 62 | ✓ |
 | `outreach` | 56 | ⚠️ undeclared |
-| `internet-governance` | 45 | ✓ |
+| `internet-governance` | 49 | ✓ |
+| `case` | 41 | ✓ |
 | `attorney` | 41 | ✓ |
-| `case` | 36 | ✓ |
 | `cryptography` | 33 | ✓ |
 | `copyright` | 32 | ✓ |
 | `surveillance` | 32 | ✓ |
@@ -44,11 +44,13 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `civil-society` | 19 | ✓ |
 | `intermediary-liability` | 18 | ✓ |
 | `peer-to-peer-networking` | 17 | ✓ |
+| `statute` | 16 | ✓ |
 | `secure-messaging` | 15 | ✓ |
 | `open-source-risk` | 14 | ✓ |
+| `age-verification` | 14 | ✓ |
 | `case-law` | 12 | ⚠️ undeclared |
-| `statute` | 11 | ✓ |
 | `safe-harbor` | 10 | ✓ |
+| `public-policy` | 10 | ✓ |
 | `historical-event` | 9 | ✓ |
 | `technology` | 9 | ✓ |
 | `developer-rights` | 8 | ✓ |
@@ -70,7 +72,6 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `academic-paper` | 3 | ⚠️ undeclared |
 | `technical-standard` | 3 | ⚠️ undeclared |
 | `distributed-hash-tables` | 2 | ✓ |
-| `public-policy` | 1 | ✓ |
 | `example-tag` | 1 | ⚠️ undeclared |
 | `software-distribution` | 1 | ✓ |
 | `academic` | 1 | ⚠️ undeclared |
