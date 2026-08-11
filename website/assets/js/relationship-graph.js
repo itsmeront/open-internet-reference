@@ -3,9 +3,10 @@
   const NODE_WIDTH = 280;
   const NODE_HEIGHT = 72;
   const ROW_GAP = 28;
-  const FOCUS_X = 80;
-  const NEIGHBOR_X = 520;
+  const LEFT_X = 80;
+  const RIGHT_X = 520;
   const TOP_Y = 88;
+  const MAX_RIGHT_FANOUT = 36;
 
   function svgElement(name, attributes = {}) {
     const element = document.createElementNS(SVG_NS, name);
@@ -27,21 +28,38 @@
     return edge.predicate === "cites";
   }
 
-  function readFocusFromUrl() {
+  function edgeKey(edge) {
+    return `${edge.subject}|${edge.predicate}|${edge.object}`;
+  }
+
+  function canonicalEdge(edge) {
+    return edge.reverseOf || edge;
+  }
+
+  function readParamsFromUrl() {
     try {
-      return new URLSearchParams(window.location.search).get("focus");
+      const params = new URLSearchParams(window.location.search);
+      return {
+        focus: params.get("focus"),
+        view: params.get("view") === "backlinks" ? "backlinks" : "outbound",
+      };
     } catch (_error) {
-      return null;
+      return { focus: null, view: "outbound" };
     }
   }
 
-  function writeFocusToUrl(focusId) {
+  function writeParamsToUrl(focusId, view) {
     try {
       const url = new URL(window.location.href);
       if (focusId) {
         url.searchParams.set("focus", focusId);
       } else {
         url.searchParams.delete("focus");
+      }
+      if (focusId && view === "backlinks") {
+        url.searchParams.set("view", "backlinks");
+      } else {
+        url.searchParams.delete("view");
       }
       window.history.replaceState({}, "", `${url.pathname}${url.search}${url.hash}`);
     } catch (_error) {
@@ -52,15 +70,21 @@
   function buildIndexes(data) {
     const nodesById = new Map(data.nodes.map((node) => [node.id, node]));
     const adjacency = new Map();
+    const outgoing = new Map();
+    const incoming = new Map();
 
     data.nodes.forEach((node) => {
       adjacency.set(node.id, []);
+      outgoing.set(node.id, []);
+      incoming.set(node.id, []);
     });
 
     data.edges.forEach((edge) => {
       if (!nodesById.has(edge.subject) || !nodesById.has(edge.object)) {
         return;
       }
+      outgoing.get(edge.subject).push(edge);
+      incoming.get(edge.object).push(edge);
       adjacency.get(edge.subject).push(edge);
       adjacency.get(edge.object).push({
         subject: edge.object,
@@ -70,12 +94,16 @@
       });
     });
 
-    return { nodesById, adjacency };
+    return { nodesById, adjacency, outgoing, incoming };
+  }
+
+  function allowEdge(edge, includeCitations) {
+    return includeCitations || !isCitationEdge(edge);
   }
 
   function neighborDegree(nodeId, adjacency, includeCitations) {
     return (adjacency.get(nodeId) || []).filter((edge) => (
-      includeCitations || !isCitationEdge(edge.reverseOf || edge)
+      allowEdge(canonicalEdge(edge), includeCitations)
     )).length;
   }
 
@@ -92,64 +120,133 @@
       .map((entry) => entry.node);
   }
 
-  function egoSubgraph(focusId, nodesById, adjacency, includeCitations) {
+  function outboundSubgraph(focusId, nodesById, adjacency, includeCitations) {
     const focus = nodesById.get(focusId);
     if (!focus) {
-      return { nodes: [], edges: [], focus: null };
+      return null;
     }
 
     const neighborIds = new Set();
     const edges = [];
-    const seenEdgeKeys = new Set();
+    const seen = new Set();
 
     (adjacency.get(focusId) || []).forEach((edge) => {
-      const canonical = edge.reverseOf || edge;
-      if (!includeCitations && isCitationEdge(canonical)) {
+      const canonical = canonicalEdge(edge);
+      if (!allowEdge(canonical, includeCitations)) {
         return;
       }
-
       const neighborId = edge.object;
       if (neighborId === focusId || !nodesById.has(neighborId)) {
         return;
       }
-      if (!includeCitations && isSourceId(neighborId) && isCitationEdge(canonical)) {
-        return;
-      }
-
       neighborIds.add(neighborId);
-      const key = `${canonical.subject}|${canonical.predicate}|${canonical.object}`;
-      if (!seenEdgeKeys.has(key)) {
-        seenEdgeKeys.add(key);
+      const key = edgeKey(canonical);
+      if (!seen.has(key)) {
+        seen.add(key);
         edges.push(canonical);
       }
     });
 
-    const nodes = [focus, ...[...neighborIds].sort().map((id) => nodesById.get(id))];
-    return { nodes, edges, focus };
+    return {
+      mode: "outbound",
+      focus,
+      leftNodes: [focus],
+      rightNodes: [...neighborIds].sort().map((id) => nodesById.get(id)),
+      edges,
+      truncatedRight: false,
+    };
   }
 
-  function layoutEgo(focus, neighbors) {
-    const positions = new Map();
-    positions.set(focus.id, {
-      x: FOCUS_X,
-      y: TOP_Y + Math.max(0, neighbors.length - 1) * (NODE_HEIGHT + ROW_GAP) / 2,
+  function backlinksSubgraph(focusId, nodesById, outgoing, incoming, includeCitations) {
+    const focus = nodesById.get(focusId);
+    if (!focus) {
+      return null;
+    }
+
+    const referrerIds = new Set();
+    const edges = [];
+    const seen = new Set();
+
+    (incoming.get(focusId) || []).forEach((edge) => {
+      if (!allowEdge(edge, includeCitations)) {
+        return;
+      }
+      if (!nodesById.has(edge.subject) || edge.subject === focusId) {
+        return;
+      }
+      referrerIds.add(edge.subject);
+      const key = edgeKey(edge);
+      if (!seen.has(key)) {
+        seen.add(key);
+        edges.push(edge);
+      }
     });
 
-    neighbors.forEach((node, index) => {
+    const leftNodes = [...referrerIds].sort().map((id) => nodesById.get(id));
+    const rightIds = new Set([focusId]);
+    let truncatedRight = false;
+
+    leftNodes.forEach((leftNode) => {
+      (outgoing.get(leftNode.id) || []).forEach((edge) => {
+        if (!allowEdge(edge, includeCitations)) {
+          return;
+        }
+        if (!nodesById.has(edge.object)) {
+          return;
+        }
+        const key = edgeKey(edge);
+        if (!seen.has(key)) {
+          seen.add(key);
+          edges.push(edge);
+        }
+        if (edge.object === focusId) {
+          return;
+        }
+        if (rightIds.size >= MAX_RIGHT_FANOUT + 1) {
+          truncatedRight = true;
+          return;
+        }
+        rightIds.add(edge.object);
+      });
+    });
+
+    const rightNodes = [
+      focus,
+      ...[...rightIds].filter((id) => id !== focusId).sort().map((id) => nodesById.get(id)),
+    ];
+
+    return {
+      mode: "backlinks",
+      focus,
+      leftNodes,
+      rightNodes,
+      edges,
+      truncatedRight,
+    };
+  }
+
+  function layoutColumns(leftNodes, rightNodes) {
+    const positions = new Map();
+    const rowCount = Math.max(leftNodes.length, rightNodes.length, 1);
+
+    leftNodes.forEach((node, index) => {
       positions.set(node.id, {
-        x: NEIGHBOR_X,
+        x: LEFT_X,
         y: TOP_Y + index * (NODE_HEIGHT + ROW_GAP),
       });
     });
 
-    const height = TOP_Y
-      + Math.max(1, neighbors.length) * (NODE_HEIGHT + ROW_GAP)
-      + 80;
+    rightNodes.forEach((node, index) => {
+      positions.set(node.id, {
+        x: RIGHT_X,
+        y: TOP_Y + index * (NODE_HEIGHT + ROW_GAP),
+      });
+    });
 
     return {
       positions,
-      width: NEIGHBOR_X + NODE_WIDTH + 120,
-      height,
+      width: RIGHT_X + NODE_WIDTH + 120,
+      height: TOP_Y + rowCount * (NODE_HEIGHT + ROW_GAP) + 80,
     };
   }
 
@@ -162,19 +259,30 @@
     return `M ${startX} ${startY} C ${startX + curve} ${startY}, ${endX - curve} ${endY}, ${endX} ${endY}`;
   }
 
-  function addNode(group, node, position, { focused = false, onFocus } = {}) {
+  function addNode(group, node, position, options = {}) {
+    const {
+      role = "neighbor",
+      highlighted = false,
+      flash = false,
+      onActivate,
+    } = options;
+
     const nodeGroup = svgElement("g", {
       class: [
         "oir-graph-node",
         isSourceId(node.id) ? "oir-graph-node--source" : "oir-graph-node--knowledge",
-        focused ? "oir-graph-node--focus" : "",
+        role === "focus" ? "oir-graph-node--focus" : "",
+        highlighted ? "oir-graph-node--explored" : "",
+        flash ? "oir-graph-node--flash" : "",
       ].filter(Boolean).join(" "),
       transform: `translate(${position.x}, ${position.y})`,
       tabindex: "0",
       role: "button",
-      "aria-label": focused
-        ? `Focused record ${node.id}`
-        : `Focus graph on ${node.id}`,
+      "aria-label": role === "focus"
+        ? `Explore backlinks for ${node.id}`
+        : highlighted
+          ? `Selected record ${node.id}`
+          : `Focus graph on ${node.id}`,
     });
 
     nodeGroup.appendChild(svgElement("rect", {
@@ -193,43 +301,47 @@
     text.appendChild(title);
     nodeGroup.appendChild(text);
 
+    const activate = () => {
+      if (onActivate) {
+        onActivate(node.id, role);
+      }
+    };
+
     nodeGroup.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
-      if (!focused && onFocus) {
-        onFocus(node.id);
-      }
+      activate();
     });
 
     nodeGroup.addEventListener("keydown", (event) => {
       if (event.key === "Enter" || event.key === " ") {
         event.preventDefault();
-        if (!focused && onFocus) {
-          onFocus(node.id);
-        }
+        activate();
       }
     });
 
     group.appendChild(nodeGroup);
   }
 
-  function addLaneTitles(group, hasNeighbors) {
-    const focusTitle = svgElement("text", {
-      class: "oir-graph-lane-title",
-      x: FOCUS_X,
-      y: 42,
-    });
-    focusTitle.textContent = "Focus";
-    group.appendChild(focusTitle);
-
-    if (hasNeighbors) {
-      const neighborTitle = svgElement("text", {
+  function addLaneTitles(group, mode, hasLeft, hasRight) {
+    if (hasLeft) {
+      const leftTitle = svgElement("text", {
         class: "oir-graph-lane-title",
-        x: NEIGHBOR_X,
+        x: LEFT_X,
         y: 42,
       });
-      neighborTitle.textContent = "1-hop neighbors";
-      group.appendChild(neighborTitle);
+      leftTitle.textContent = mode === "backlinks" ? "Points to selection" : "Focus";
+      group.appendChild(leftTitle);
+    }
+
+    if (hasRight) {
+      const rightTitle = svgElement("text", {
+        class: "oir-graph-lane-title",
+        x: RIGHT_X,
+        y: 42,
+      });
+      rightTitle.textContent = mode === "backlinks" ? "Selection + resolved refs" : "1-hop neighbors";
+      group.appendChild(rightTitle);
     }
   }
 
@@ -244,7 +356,7 @@
 
     const body = document.createElement("p");
     body.className = "oir-relationship-graph__empty-body";
-    body.textContent = "Search above, or start with a highly connected topic. Citation edges to source records are hidden by default.";
+    body.textContent = "Search above, or start with a highly connected topic. Click the left focus to flip into backlinks view (who points here, and what else those records point to).";
     empty.appendChild(body);
 
     if (suggestions.length) {
@@ -256,7 +368,7 @@
         button.className = "oir-relationship-graph__suggestion";
         button.textContent = node.id;
         button.title = node.title;
-        button.addEventListener("click", () => onFocus(node.id));
+        button.addEventListener("click", () => onFocus(node.id, "outbound"));
         list.appendChild(button);
       });
       empty.appendChild(list);
@@ -284,15 +396,6 @@
       svg.style.height = `${scaledHeight}px`;
       svg.style.minWidth = `${scaledWidth}px`;
       svg.style.minHeight = `${scaledHeight}px`;
-    }
-
-    function centerViewport() {
-      if (!svg) {
-        return;
-      }
-      const scrollLeft = Math.max(0, (svg.offsetWidth - viewport.clientWidth) / 2);
-      const scrollTop = Math.max(0, (svg.offsetHeight - viewport.clientHeight) / 2);
-      viewport.scrollTo({ left: scrollLeft, top: scrollTop });
     }
 
     function zoom(factor) {
@@ -324,7 +427,7 @@
       const box = viewport.getBoundingClientRect();
       scale = Math.min(1.2, Math.max(0.35, Math.min(box.width / width, box.height / height) * 0.95));
       applyScale();
-      centerViewport();
+      viewport.scrollTo({ left: 0, top: 0 });
     }
 
     function attach(nextSvg, nextGroup, nextWidth, nextHeight) {
@@ -386,13 +489,15 @@
     return { attach, clear, zoom, reset, fit };
   }
 
-  function renderFocusedGraph(viewport, subgraph, onFocus, viewportController) {
-    const neighbors = subgraph.nodes.filter((node) => node.id !== subgraph.focus.id);
-    const { positions, width, height } = layoutEgo(subgraph.focus, neighbors);
+  function renderSubgraph(viewport, subgraph, onActivate, viewportController) {
+    const { positions, width, height } = layoutColumns(subgraph.leftNodes, subgraph.rightNodes);
+    const flashSelected = subgraph.mode === "backlinks";
 
     const svg = svgElement("svg", {
       role: "img",
-      "aria-label": `Relationships for ${subgraph.focus.id}`,
+      "aria-label": subgraph.mode === "backlinks"
+        ? `Backlinks for ${subgraph.focus.id}`
+        : `Relationships for ${subgraph.focus.id}`,
       preserveAspectRatio: "xMinYMin meet",
     });
     const defs = svgElement("defs");
@@ -416,11 +521,25 @@
     svg.style.width = `${width}px`;
     svg.style.height = `${height}px`;
     svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
-    addLaneTitles(graphGroup, neighbors.length > 0);
+    addLaneTitles(
+      graphGroup,
+      subgraph.mode,
+      subgraph.leftNodes.length > 0,
+      subgraph.rightNodes.length > 0,
+    );
+
+    const leftIds = new Set(subgraph.leftNodes.map((node) => node.id));
+    const rightIds = new Set(subgraph.rightNodes.map((node) => node.id));
 
     subgraph.edges.forEach((edge) => {
-      const fromId = edge.subject === subgraph.focus.id ? edge.subject : edge.object;
-      const toId = edge.subject === subgraph.focus.id ? edge.object : edge.subject;
+      const subjectOnLeft = leftIds.has(edge.subject) && rightIds.has(edge.object);
+      const objectOnLeft = leftIds.has(edge.object) && rightIds.has(edge.subject);
+      if (!subjectOnLeft && !objectOnLeft) {
+        return;
+      }
+
+      const fromId = subjectOnLeft ? edge.subject : edge.object;
+      const toId = subjectOnLeft ? edge.object : edge.subject;
       const from = positions.get(fromId);
       const to = positions.get(toId);
       if (!from || !to) {
@@ -428,7 +547,10 @@
       }
 
       const path = svgElement("path", {
-        class: "oir-graph-edge",
+        class: [
+          "oir-graph-edge",
+          toId === subgraph.focus.id ? "oir-graph-edge--to-selection" : "",
+        ].filter(Boolean).join(" "),
         d: edgePath(from, to),
         markerEnd: "url(#oir-graph-arrow)",
       });
@@ -443,13 +565,21 @@
       graphGroup.appendChild(label);
     });
 
-    addNode(graphGroup, subgraph.focus, positions.get(subgraph.focus.id), {
-      focused: true,
-      onFocus,
+    subgraph.leftNodes.forEach((node) => {
+      addNode(graphGroup, node, positions.get(node.id), {
+        role: subgraph.mode === "outbound" ? "focus" : "referrer",
+        onActivate,
+      });
     });
 
-    neighbors.forEach((node) => {
-      addNode(graphGroup, node, positions.get(node.id), { onFocus });
+    subgraph.rightNodes.forEach((node) => {
+      const isSelected = subgraph.mode === "backlinks" && node.id === subgraph.focus.id;
+      addNode(graphGroup, node, positions.get(node.id), {
+        role: isSelected ? "selected" : "neighbor",
+        highlighted: isSelected,
+        flash: isSelected && flashSelected,
+        onActivate,
+      });
     });
 
     viewportController.attach(svg, graphGroup, width, height);
@@ -463,11 +593,12 @@
     const clearButton = container.querySelector("[data-graph-clear]");
     const openButton = container.querySelector("[data-graph-open]");
     const status = container.querySelector("[data-graph-status]");
-    const { nodesById, adjacency } = buildIndexes(data);
+    const { nodesById, adjacency, outgoing, incoming } = buildIndexes(data);
     const starters = starterSuggestions(nodesById, adjacency);
     const viewportController = createViewportController(viewport);
 
     let focusId = null;
+    let viewMode = "outbound";
 
     function searchableNodes(query) {
       const normalized = query.trim().toLowerCase();
@@ -509,7 +640,7 @@
         option.className = "oir-relationship-graph__search-option";
         option.innerHTML = `<strong>${node.id}</strong><span>${truncate(node.title, 64)}</span>`;
         option.addEventListener("click", () => {
-          setFocus(node.id);
+          setFocus(node.id, "outbound");
           suggestionsList.hidden = true;
           if (searchInput) {
             searchInput.value = node.id;
@@ -522,19 +653,18 @@
 
     function updateChrome(subgraph) {
       if (status) {
-        if (!subgraph.focus) {
+        if (!subgraph) {
           status.textContent = "No focus selected. Search for a record or pick a starter below.";
+        } else if (subgraph.mode === "backlinks") {
+          const truncateNote = subgraph.truncatedRight ? "; right fan-out truncated" : "";
+          status.textContent = `Backlinks: ${subgraph.focus.id} · ${subgraph.leftNodes.length} referrer${subgraph.leftNodes.length === 1 ? "" : "s"} · ${subgraph.rightNodes.length} right node${subgraph.rightNodes.length === 1 ? "" : "s"} · ${subgraph.edges.length} edge${subgraph.edges.length === 1 ? "" : "s"}${truncateNote}. Click a left referrer to explore it; click the highlighted selection to return outbound.`;
         } else {
-          const neighborCount = subgraph.nodes.length - 1;
-          const sourceNote = showSources?.checked
-            ? "including citation edges"
-            : "citation edges hidden";
-          status.textContent = `Focus: ${subgraph.focus.id} · ${neighborCount} neighbor${neighborCount === 1 ? "" : "s"} · ${subgraph.edges.length} edge${subgraph.edges.length === 1 ? "" : "s"} (${sourceNote}). Click a neighbor to refocus.`;
+          status.textContent = `Focus: ${subgraph.focus.id} · ${subgraph.rightNodes.length} neighbor${subgraph.rightNodes.length === 1 ? "" : "s"} · ${subgraph.edges.length} edge${subgraph.edges.length === 1 ? "" : "s"}. Click the left focus for backlinks; click a right neighbor to refocus.`;
         }
       }
 
       if (openButton) {
-        if (subgraph.focus?.href && subgraph.focus.href !== "#") {
+        if (subgraph?.focus?.href && subgraph.focus.href !== "#") {
           openButton.hidden = false;
           openButton.href = subgraph.focus.href;
         } else {
@@ -544,7 +674,7 @@
       }
 
       if (clearButton) {
-        clearButton.disabled = !subgraph.focus;
+        clearButton.disabled = !subgraph;
       }
     }
 
@@ -552,21 +682,26 @@
       const includeCitations = Boolean(showSources?.checked);
       if (!focusId || !nodesById.has(focusId)) {
         focusId = null;
-        writeFocusToUrl(null);
+        viewMode = "outbound";
+        writeParamsToUrl(null, viewMode);
         viewportController.clear();
         createEmptyState(viewport, starters, setFocus);
-        updateChrome({ focus: null, nodes: [], edges: [] });
+        updateChrome(null);
         return;
       }
 
-      const subgraph = egoSubgraph(focusId, nodesById, adjacency, includeCitations);
-      writeFocusToUrl(focusId);
-      renderFocusedGraph(viewport, subgraph, setFocus, viewportController);
+      const subgraph = viewMode === "backlinks"
+        ? backlinksSubgraph(focusId, nodesById, outgoing, incoming, includeCitations)
+        : outboundSubgraph(focusId, nodesById, adjacency, includeCitations);
+
+      writeParamsToUrl(focusId, viewMode);
+      renderSubgraph(viewport, subgraph, handleActivate, viewportController);
       updateChrome(subgraph);
     }
 
-    function setFocus(nextFocusId) {
+    function setFocus(nextFocusId, nextMode = "outbound") {
       focusId = nextFocusId;
+      viewMode = nextMode === "backlinks" ? "backlinks" : "outbound";
       if (searchInput && nextFocusId) {
         searchInput.value = nextFocusId;
       }
@@ -574,6 +709,18 @@
         suggestionsList.hidden = true;
       }
       paint();
+    }
+
+    function handleActivate(nodeId, role) {
+      if (role === "focus") {
+        setFocus(nodeId, "backlinks");
+        return;
+      }
+      if (role === "selected") {
+        setFocus(nodeId, "outbound");
+        return;
+      }
+      setFocus(nodeId, "outbound");
     }
 
     searchInput?.addEventListener("input", () => {
@@ -584,7 +731,7 @@
       if (event.key === "Enter") {
         const matches = searchableNodes(searchInput.value);
         if (matches[0]) {
-          setFocus(matches[0].id);
+          setFocus(matches[0].id, "outbound");
           if (suggestionsList) {
             suggestionsList.hidden = true;
           }
@@ -609,7 +756,7 @@
       if (searchInput) {
         searchInput.value = "";
       }
-      setFocus(null);
+      setFocus(null, "outbound");
     });
 
     container.querySelector("[data-graph-zoom-in]")?.addEventListener("click", () => {
@@ -625,9 +772,9 @@
       viewportController.fit();
     });
 
-    const initialFocus = readFocusFromUrl();
-    if (initialFocus && nodesById.has(initialFocus)) {
-      setFocus(initialFocus);
+    const initial = readParamsFromUrl();
+    if (initial.focus && nodesById.has(initial.focus)) {
+      setFocus(initial.focus, initial.view);
     } else {
       paint();
     }
