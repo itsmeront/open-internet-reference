@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-08-10 07:11 UTC
+Last updated: 2026-08-11 06:48 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,23 +8,20 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 2 |
-| AI-generated PRs | 1 |
+| Open PRs awaiting review | 0 |
+| AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 225 |
+| Draft content items | 239 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-| # | Title | Author | Areas | Age | Flags |
-|---|-------|--------|-------|-----|-------|
-| [#87](https://github.com/itsmeront/open-internet-reference/pull/87) | Add app-store and OS age-verification law cluster | @itsmeront | bibliography, legal, website | 1d | 🤖 AI 👀 Review |
-| [#88](https://github.com/itsmeront/open-internet-reference/pull/88) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
+*No open pull requests. The queue is clear!*
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (225)
+### 📋 Draft (239)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -35,7 +32,9 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
 | `CASE-US-V-RODRIGUEZ` | United States v. Rodriguez (Samourai Wal | `knowledge/legal/CASE-US-V-RODRIGUEZ.md` |
 | `CASE-VAN-BUREN-V-US` | Van Buren v. United States | `knowledge/legal/CASE-VAN-BUREN-V-US.md` |
+| `CASE-CCIA-V-PAXTON-SB2420` | CCIA v. Paxton (Texas SB 2420 / App Stor | `knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md` |
 | `TOPIC-FOURTH-AMENDMENT` | Fourth Amendment | `knowledge/legal/TOPIC-FOURTH-AMENDMENT.md` |
+| `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT` | California Digital Age Assurance Act (Ci | `knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md` |
 | `CASE-JUNGER-V-DALEY` | Junger v. Daley | `knowledge/legal/CASE-JUNGER-V-DALEY.md` |
 | `STAT-USC-107` | 17 U.S.C. § 107 | `knowledge/legal/STAT-USC-107.md` |
 | `CASE-PERFECT10-V-CCBILL` | Perfect 10, Inc. v. CCBill LLC | `knowledge/legal/CASE-PERFECT10-V-CCBILL.md` |
@@ -46,10 +45,8 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `EVENT-FISA-AMENDMENTS-ACT-2008` | FISA Amendments Act of 2008 (Telecom Imm | `knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md` |
 | `CASE-UNIVERSAL-V-CORLEY` | Universal City Studios v. Corley | `knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md` |
 | `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
-| `STAT-DMCA-512` | 17 U.S.C. § 512 | `knowledge/legal/STAT-DMCA-512.md` |
-| `CASE-CHATRIE-V-US` | Chatrie v. United States | `knowledge/legal/CASE-CHATRIE-V-US.md` |
 
-*...and 205 more*
+*...and 219 more*
 
 ## Stale Verifications
 

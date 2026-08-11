@@ -1,57 +1,14 @@
 {
-  "generated_at": "2026-08-10T07:11:07.067001Z",
+  "generated_at": "2026-08-11T06:48:42.943858Z",
   "summary": {
-    "open_prs": 2,
-    "ai_prs": 1,
+    "open_prs": 0,
+    "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 225,
+    "draft_content": 239,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [
-    {
-      "number": 88,
-      "title": "chore: update moderation and taxonomy reports [automated]",
-      "author": "app/github-actions",
-      "labels": [],
-      "areas": [
-        "website"
-      ],
-      "age_days": 1,
-      "stale_days": 1,
-      "is_ai": false,
-      "is_draft": false,
-      "needs_review": false,
-      "is_stale": false,
-      "priority": 0
-    },
-    {
-      "number": 87,
-      "title": "Add app-store and OS age-verification law cluster",
-      "author": "itsmeront",
-      "labels": [
-        "moderation/pending",
-        "needs-review",
-        "ai-generated",
-        "area/website",
-        "area/bibliography",
-        "area/legal",
-        "area/taxonomy"
-      ],
-      "areas": [
-        "bibliography",
-        "legal",
-        "website"
-      ],
-      "age_days": 1,
-      "stale_days": 1,
-      "is_ai": true,
-      "is_draft": false,
-      "needs_review": true,
-      "is_stale": false,
-      "priority": 5
-    }
-  ],
+  "pull_requests": [],
   "draft_content": [
     {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
@@ -150,6 +107,20 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "id": "CASE-CCIA-V-PAXTON-SB2420",
+      "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
       "id": "TOPIC-FOURTH-AMENDMENT",
       "title": "Fourth Amendment",
@@ -161,6 +132,20 @@
         "privacy",
         "digital-rights",
         "surveillance"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md",
+      "id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
+      "title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "age-verification",
+        "privacy",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
       ]
     },
     {
@@ -354,6 +339,20 @@
       ]
     },
     {
+      "path": "knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-DEVICE-SEARCH.md",
       "id": "TOPIC-DEVICE-SEARCH",
       "title": "Device Search, Seizure, and Anti-Forensics",
@@ -418,6 +417,21 @@
         "case-studies",
         "developer-rights",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
+      "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
+      "title": "App Store and Operating System Age-Verification Laws",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "age-verification",
+        "first-amendment",
+        "privacy",
+        "digital-rights",
+        "public-policy",
+        "internet-governance"
       ]
     },
     {
@@ -1836,6 +1850,20 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-TX-SB-2420-ENROLLED.md",
+      "id": "SRC-TX-SB-2420-ENROLLED",
+      "title": "Texas SB 2420 \u2014 App Store Accountability Act (Enrolled Text)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "first-amendment",
+        "public-policy"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
       "id": "SRC-GOOGLE-ORACLE-JUSTIA",
       "title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
@@ -1847,6 +1875,21 @@
         "copyright",
         "speech-and-code",
         "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md",
+      "id": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+      "title": "California Civil Code Title 1.81.9 \u2014 Digital Age Assurance Act (leginfo)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "privacy",
+        "digital-rights",
+        "public-policy"
       ]
     },
     {
@@ -1995,6 +2038,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md",
+      "id": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+      "title": "CCIA Litigation Page \u2014 CCIA v. Paxton (W.D. Tex.)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
       "id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
       "title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)",
@@ -2045,6 +2101,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md",
+      "id": "SRC-CA5-SB2420-STAY-ORDER",
+      "title": "Fifth Circuit \u2014 Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md",
       "id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
       "title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
@@ -2057,6 +2126,19 @@
         "digital-rights",
         "surveillance",
         "commentary"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md",
+      "id": "SRC-CCIA-V-PAXTON-PI-ORDER",
+      "title": "CCIA v. Paxton \u2014 Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
       ]
     },
     {
@@ -2084,6 +2166,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
+      "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+      "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
       "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
       "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
@@ -2096,6 +2191,19 @@
         "open-source-software",
         "border-search",
         "fourth-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-LA-ACT-185-ASAA.md",
+      "id": "SRC-LA-ACT-185-ASAA",
+      "title": "Louisiana Act No. 185 \u2014 App Store Accountability Act (2026)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
       ]
     },
     {
@@ -2175,6 +2283,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CA-AB-1043-STATUS.md",
+      "id": "SRC-CA-AB-1043-STATUS",
+      "title": "California AB 1043 Bill Status \u2014 Chaptered October 13, 2025",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
       "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
       "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
@@ -2238,6 +2359,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md",
+      "id": "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
+      "title": "Alston & Bird \u2014 Challenge to Utah ASAA Voluntarily Dismissed (April 2026)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-FBI-SEMENOV.md",
       "id": "SRC-FBI-SEMENOV",
       "title": "FBI Wanted \u2014 Roman Semenov",
@@ -2262,6 +2396,19 @@
         "digital-rights",
         "secure-messaging",
         "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-AL-HB161-ENROLLED.md",
+      "id": "SRC-AL-HB161-ENROLLED",
+      "title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
       ]
     },
     {
