@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:09:22.954960Z",
+  "generated_at": "2026-08-15T06:20:49.878460Z",
   "summary": {
     "open_prs": 0,
     "ai_prs": 0,
@@ -11,127 +11,58 @@
   "pull_requests": [],
   "draft_content": [
     {
-      "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
-      "id": "TOPIC-SAFE-HARBOR",
-      "title": "Online Service Provider Safe Harbor",
+      "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
+      "id": "CASE-US-V-SKLYAROV",
+      "title": "United States v. Sklyarov / Elcomsoft",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-23",
       "tags": [
+        "case",
         "copyright",
-        "safe-harbor",
-        "intermediary-liability",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-18-USC-2232.md",
+      "id": "STAT-18-USC-2232",
+      "title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "statute",
+        "privacy",
+        "border-search",
         "digital-rights"
       ]
     },
     {
-      "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
-      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
-      "title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+      "path": "knowledge/legal/CASE-CHATRIE-V-US.md",
+      "id": "CASE-CHATRIE-V-US",
+      "title": "Chatrie v. United States",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
+      "id": "EVENT-FISA-AMENDMENTS-ACT-2008",
+      "title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
       "status": "draft",
       "last_verified": "2026-07-29",
       "tags": [
         "historical-event",
-        "intermediary-liability",
-        "secure-messaging",
-        "encryption-law",
+        "surveillance",
         "digital-rights",
-        "censorship-resistance",
         "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
-      "id": "CASE-GOOGLE-V-ORACLE",
-      "title": "Google LLC v. Oracle America, Inc.",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "copyright",
-        "speech-and-code",
-        "digital-rights",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
-      "id": "CASE-COIN-CENTER-V-YELLEN",
-      "title": "Coin Center v. Yellen",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "case",
-        "sanctions",
-        "tornado-cash",
-        "case-studies",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
-      "id": "TOPIC-FIRST-AMENDMENT",
-      "title": "First Amendment",
-      "status": "draft",
-      "last_verified": "2026-07-31",
-      "tags": [
-        "constitutional-law",
-        "first-amendment",
-        "digital-rights",
-        "speech-and-code"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
-      "id": "CASE-US-V-RODRIGUEZ",
-      "title": "United States v. Rodriguez (Samourai Wallet)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "case",
-        "computer-crime",
-        "open-source-risk",
-        "developer-rights",
-        "privacy",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
-      "id": "CASE-VAN-BUREN-V-US",
-      "title": "Van Buren v. United States",
-      "status": "draft",
-      "last_verified": "2026-06-19",
-      "tags": [
-        "computer-crime",
-        "technology-law",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
-      "id": "CASE-CCIA-V-PAXTON-SB2420",
-      "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "age-verification",
-        "first-amendment",
-        "digital-rights",
-        "public-policy",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
-      "id": "TOPIC-FOURTH-AMENDMENT",
-      "title": "Fourth Amendment",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "constitutional-law",
-        "fourth-amendment",
-        "privacy",
-        "digital-rights",
-        "surveillance"
       ]
     },
     {
@@ -149,123 +80,30 @@
       ]
     },
     {
-      "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
-      "id": "CASE-JUNGER-V-DALEY",
-      "title": "Junger v. Daley",
+      "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
+      "id": "TOPIC-FIRST-AMENDMENT",
+      "title": "First Amendment",
       "status": "draft",
-      "last_verified": "2026-06-25",
+      "last_verified": "2026-07-31",
       "tags": [
-        "first-amendment",
-        "cryptography",
-        "speech-and-code",
-        "export-control",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/STAT-USC-107.md",
-      "id": "STAT-USC-107",
-      "title": "17 U.S.C. \u00a7 107",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "copyright",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
-      "id": "CASE-PERFECT10-V-CCBILL",
-      "title": "Perfect 10, Inc. v. CCBill LLC",
-      "status": "draft",
-      "last_verified": "2026-06-19",
-      "tags": [
-        "copyright",
-        "safe-harbor",
-        "intermediary-liability",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
-      "id": "CASE-US-V-SKLYAROV",
-      "title": "United States v. Sklyarov / Elcomsoft",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "case",
-        "copyright",
-        "open-source-risk",
-        "developer-rights",
-        "speech-and-code",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
-      "id": "TOPIC-CODE-AS-SPEECH",
-      "title": "Code as Speech",
-      "status": "draft",
-      "last_verified": "2026-07-25",
-      "tags": [
-        "first-amendment",
-        "speech-and-code",
-        "digital-rights",
         "constitutional-law",
-        "open-source-software",
-        "cryptography",
-        "copyright"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
-      "id": "CASE-PACKINGHAM-V-NC",
-      "title": "Packingham v. North Carolina",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
         "first-amendment",
-        "internet-governance",
-        "digital-rights"
+        "digital-rights",
+        "speech-and-code"
       ]
     },
     {
-      "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
-      "id": "CASE-CARPENTER-V-US",
-      "title": "Carpenter v. United States",
+      "path": "knowledge/legal/TOPIC-FOURTH-AMENDMENT.md",
+      "id": "TOPIC-FOURTH-AMENDMENT",
+      "title": "Fourth Amendment",
       "status": "draft",
       "last_verified": "2026-07-30",
       "tags": [
+        "constitutional-law",
         "fourth-amendment",
         "privacy",
         "digital-rights",
         "surveillance"
-      ]
-    },
-    {
-      "path": "knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md",
-      "id": "EVENT-FISA-AMENDMENTS-ACT-2008",
-      "title": "FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "historical-event",
-        "surveillance",
-        "digital-rights",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
-      "id": "CASE-UNIVERSAL-V-CORLEY",
-      "title": "Universal City Studios v. Corley",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "first-amendment",
-        "copyright",
-        "speech-and-code",
-        "digital-rights"
       ]
     },
     {
@@ -285,74 +123,6 @@
       ]
     },
     {
-      "path": "knowledge/legal/STAT-DMCA-512.md",
-      "id": "STAT-DMCA-512",
-      "title": "17 U.S.C. \u00a7 512",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "copyright",
-        "safe-harbor",
-        "intermediary-liability"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-CHATRIE-V-US.md",
-      "id": "CASE-CHATRIE-V-US",
-      "title": "Chatrie v. United States",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "fourth-amendment",
-        "privacy",
-        "digital-rights",
-        "surveillance",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-US-V-TUNICK.md",
-      "id": "CASE-US-V-TUNICK",
-      "title": "United States v. Tunick",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "case",
-        "privacy",
-        "border-search",
-        "open-source-software",
-        "fourth-amendment",
-        "digital-rights",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/legal/STAT-CFAA-1030.md",
-      "id": "STAT-CFAA-1030",
-      "title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "computer-crime",
-        "digital-rights",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
-      "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
-      "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "age-verification",
-        "first-amendment",
-        "digital-rights",
-        "public-policy",
-        "internet-governance"
-      ]
-    },
-    {
       "path": "knowledge/legal/TOPIC-DEVICE-SEARCH.md",
       "id": "TOPIC-DEVICE-SEARCH",
       "title": "Device Search, Seizure, and Anti-Forensics",
@@ -368,6 +138,50 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
+      "id": "TOPIC-CODE-AS-SPEECH",
+      "title": "Code as Speech",
+      "status": "draft",
+      "last_verified": "2026-07-25",
+      "tags": [
+        "first-amendment",
+        "speech-and-code",
+        "digital-rights",
+        "constitutional-law",
+        "open-source-software",
+        "cryptography",
+        "copyright"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-PERFECT10-V-CCBILL.md",
+      "id": "CASE-PERFECT10-V-CCBILL",
+      "title": "Perfect 10, Inc. v. CCBill LLC",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
+      "id": "CASE-US-V-RODRIGUEZ",
+      "title": "United States v. Rodriguez (Samourai Wallet)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "computer-crime",
+        "open-source-risk",
+        "developer-rights",
+        "privacy",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md",
       "id": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
       "title": "Brown v. Entertainment Merchants Assn.",
@@ -379,44 +193,17 @@
       ]
     },
     {
-      "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
-      "id": "CASE-LENZ-V-UNIVERSAL",
-      "title": "Lenz v. Universal Music Corp.",
+      "path": "knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md",
+      "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
+      "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
       "status": "draft",
-      "last_verified": "2026-07-19",
+      "last_verified": "2026-08-08",
       "tags": [
-        "copyright",
+        "age-verification",
+        "first-amendment",
         "digital-rights",
-        "safe-harbor"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
-      "id": "TOPIC-INTERMEDIARY-LIABILITY",
-      "title": "Intermediary Liability",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "intermediary-liability",
-        "copyright",
-        "digital-rights",
-        "safe-harbor"
-      ]
-    },
-    {
-      "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
-      "id": "CASE-NL-V-PERTSEV",
-      "title": "Netherlands v. Pertsev (Tornado Cash)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "case",
-        "computer-crime",
-        "privacy",
-        "tornado-cash",
-        "case-studies",
-        "developer-rights",
-        "open-source-risk"
+        "public-policy",
+        "internet-governance"
       ]
     },
     {
@@ -435,30 +222,69 @@
       ]
     },
     {
-      "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
-      "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
-      "title": "DMCA Takedown and Counter-Notification",
+      "path": "knowledge/legal/STAT-IEEPA.md",
+      "id": "STAT-IEEPA",
+      "title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "statute",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
+      "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
+      "title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "historical-event",
+        "cryptography",
+        "export-control",
+        "open-source-risk",
+        "developer-rights",
+        "speech-and-code",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-CFAA-1030.md",
+      "id": "STAT-CFAA-1030",
+      "title": "Computer Fraud and Abuse Act (18 U.S.C. \u00a7 1030)",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "computer-crime",
+        "digital-rights",
+        "internet-governance"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
+      "id": "TOPIC-FAIR-USE-VIDEO",
+      "title": "Fair Use and Video",
       "status": "draft",
       "last_verified": "2026-07-19",
       "tags": [
         "copyright",
-        "safe-harbor",
-        "digital-rights",
-        "intermediary-liability"
+        "digital-rights"
       ]
     },
     {
-      "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
-      "id": "CASE-VAN-LOON-V-TREASURY",
-      "title": "Van Loon v. Department of the Treasury",
+      "path": "knowledge/legal/CASE-US-V-TUNICK.md",
+      "id": "CASE-US-V-TUNICK",
+      "title": "United States v. Tunick",
       "status": "draft",
-      "last_verified": "2026-07-23",
+      "last_verified": "2026-07-30",
       "tags": [
         "case",
-        "sanctions",
+        "privacy",
+        "border-search",
         "open-source-software",
-        "censorship-resistance",
-        "tornado-cash",
+        "fourth-amendment",
+        "digital-rights",
         "case-studies"
       ]
     },
@@ -481,15 +307,28 @@
       ]
     },
     {
-      "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
-      "id": "TOPIC-COMPUTER-FRAUD",
-      "title": "Computer Fraud and Abuse",
+      "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
+      "id": "CASE-CARPENTER-V-US",
+      "title": "Carpenter v. United States",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-30",
       "tags": [
-        "computer-crime",
-        "technology-law",
-        "digital-rights"
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-DMCA-512.md",
+      "id": "STAT-DMCA-512",
+      "title": "17 U.S.C. \u00a7 512",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability"
       ]
     },
     {
@@ -507,84 +346,58 @@
       ]
     },
     {
-      "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
-      "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
-      "title": "U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)",
+      "path": "knowledge/legal/CASE-JUNGER-V-DALEY.md",
+      "id": "CASE-JUNGER-V-DALEY",
+      "title": "Junger v. Daley",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "first-amendment",
+        "cryptography",
+        "speech-and-code",
+        "export-control",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-VAN-BUREN-V-US.md",
+      "id": "CASE-VAN-BUREN-V-US",
+      "title": "Van Buren v. United States",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "computer-crime",
+        "technology-law",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-VAN-LOON-V-TREASURY.md",
+      "id": "CASE-VAN-LOON-V-TREASURY",
+      "title": "Van Loon v. Department of the Treasury",
       "status": "draft",
       "last_verified": "2026-07-23",
       "tags": [
-        "historical-event",
-        "cryptography",
-        "export-control",
-        "open-source-risk",
-        "developer-rights",
-        "speech-and-code",
+        "case",
+        "sanctions",
+        "open-source-software",
+        "censorship-resistance",
+        "tornado-cash",
         "case-studies"
       ]
     },
     {
-      "path": "knowledge/legal/STAT-SECTION-230.md",
-      "id": "STAT-SECTION-230",
-      "title": "Section 230 (47 U.S.C. \u00a7 230)",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "internet-governance",
-        "intermediary-liability",
-        "digital-rights",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
-      "id": "TOPIC-END-TO-END-ENCRYPTION",
-      "title": "End-to-End Encryption and Compelled Access",
+      "path": "knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md",
+      "id": "CASE-CCIA-V-PAXTON-SB2420",
+      "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
-        "cryptography",
-        "encryption-law",
-        "secure-messaging",
-        "privacy",
-        "surveillance",
+        "age-verification",
+        "first-amendment",
         "digital-rights",
-        "public-policy"
-      ]
-    },
-    {
-      "path": "knowledge/legal/STAT-18-USC-2232.md",
-      "id": "STAT-18-USC-2232",
-      "title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "statute",
-        "privacy",
-        "border-search",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
-      "id": "TOPIC-FAIR-USE-VIDEO",
-      "title": "Fair Use and Video",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "copyright",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/legal/STAT-IEEPA.md",
-      "id": "STAT-IEEPA",
-      "title": "International Emergency Economic Powers Act (50 U.S.C. \u00a7\u00a7 1701\u20131708)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "statute",
-        "sanctions",
-        "digital-rights"
+        "public-policy",
+        "internet-governance"
       ]
     },
     {
@@ -601,17 +414,41 @@
       ]
     },
     {
-      "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
-      "id": "CASE-BERNSTEIN-V-DOJ",
-      "title": "Bernstein v. United States Department of Justice",
+      "path": "knowledge/legal/CASE-UNIVERSAL-V-CORLEY.md",
+      "id": "CASE-UNIVERSAL-V-CORLEY",
+      "title": "Universal City Studios v. Corley",
       "status": "draft",
       "last_verified": "2026-06-25",
       "tags": [
         "first-amendment",
-        "cryptography",
+        "copyright",
         "speech-and-code",
-        "export-control",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md",
+      "id": "TOPIC-INTERMEDIARY-LIABILITY",
+      "title": "Intermediary Liability",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "intermediary-liability",
+        "copyright",
+        "digital-rights",
+        "safe-harbor"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-LENZ-V-UNIVERSAL.md",
+      "id": "CASE-LENZ-V-UNIVERSAL",
+      "title": "Lenz v. Universal Music Corp.",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "digital-rights",
+        "safe-harbor"
       ]
     },
     {
@@ -634,6 +471,276 @@
       ]
     },
     {
+      "path": "knowledge/legal/STAT-SECTION-230.md",
+      "id": "STAT-SECTION-230",
+      "title": "Section 230 (47 U.S.C. \u00a7 230)",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "internet-governance",
+        "intermediary-liability",
+        "digital-rights",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
+      "id": "TOPIC-SAFE-HARBOR",
+      "title": "Online Service Provider Safe Harbor",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md",
+      "id": "CASE-COIN-CENTER-V-YELLEN",
+      "title": "Coin Center v. Yellen",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "sanctions",
+        "tornado-cash",
+        "case-studies",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-NL-V-PERTSEV.md",
+      "id": "CASE-NL-V-PERTSEV",
+      "title": "Netherlands v. Pertsev (Tornado Cash)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "case",
+        "computer-crime",
+        "privacy",
+        "tornado-cash",
+        "case-studies",
+        "developer-rights",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
+      "id": "TOPIC-COMPUTER-FRAUD",
+      "title": "Computer Fraud and Abuse",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "computer-crime",
+        "technology-law",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md",
+      "id": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "title": "DMCA Takedown and Counter-Notification",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "safe-harbor",
+        "digital-rights",
+        "intermediary-liability"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-BERNSTEIN-V-DOJ.md",
+      "id": "CASE-BERNSTEIN-V-DOJ",
+      "title": "Bernstein v. United States Department of Justice",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "first-amendment",
+        "cryptography",
+        "speech-and-code",
+        "export-control",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md",
+      "id": "TOPIC-END-TO-END-ENCRYPTION",
+      "title": "End-to-End Encryption and Compelled Access",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "cryptography",
+        "encryption-law",
+        "secure-messaging",
+        "privacy",
+        "surveillance",
+        "digital-rights",
+        "public-policy"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-GOOGLE-V-ORACLE.md",
+      "id": "CASE-GOOGLE-V-ORACLE",
+      "title": "Google LLC v. Oracle America, Inc.",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "copyright",
+        "speech-and-code",
+        "digital-rights",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md",
+      "id": "EVENT-FSB-DUROV-TELEGRAM-2026",
+      "title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "historical-event",
+        "intermediary-liability",
+        "secure-messaging",
+        "encryption-law",
+        "digital-rights",
+        "censorship-resistance",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/STAT-USC-107.md",
+      "id": "STAT-USC-107",
+      "title": "17 U.S.C. \u00a7 107",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "copyright",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-PACKINGHAM-V-NC.md",
+      "id": "CASE-PACKINGHAM-V-NC",
+      "title": "Packingham v. North Carolina",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "first-amendment",
+        "internet-governance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-EFF.md",
+      "id": "ORG-EFF",
+      "title": "Electronic Frontier Foundation",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-OSI.md",
+      "id": "ORG-OSI",
+      "title": "Open Source Initiative",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
+      "id": "ORG-PUBLIC-KNOWLEDGE",
+      "title": "Public Knowledge",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "internet-governance",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
+      "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
+      "title": "Committee for the First Amendment",
+      "status": "draft",
+      "last_verified": "2026-07-18",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-FSF.md",
+      "id": "ORG-FSF",
+      "title": "Free Software Foundation",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
+      "id": "ORG-INSTITUTE-FOR-JUSTICE",
+      "title": "Institute for Justice",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-ACLU.md",
+      "id": "ORG-ACLU",
+      "title": "American Civil Liberties Union",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "organization",
+        "civil-liberties",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-EPIC.md",
+      "id": "ORG-EPIC",
+      "title": "Electronic Privacy Information Center",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "organization",
+        "privacy",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
       "path": "knowledge/organizations/ORG-SIGNAL.md",
       "id": "ORG-SIGNAL",
       "title": "Signal",
@@ -646,11 +753,65 @@
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-FIRE.md",
-      "id": "ORG-FIRE",
-      "title": "Foundation for Individual Rights and Expression",
+      "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
+      "title": "Software Freedom Conservancy",
       "status": "draft",
-      "last_verified": "2026-07-31",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-FENWICK.md",
+      "id": "ORG-FENWICK",
+      "title": "Fenwick & West",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-SFLC.md",
+      "id": "ORG-SFLC",
+      "title": "Software Freedom Law Center",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "civil-society",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
+      "id": "ORG-TOR-PROJECT",
+      "title": "Tor Project",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "organization",
+        "privacy",
+        "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
+      "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
+      "title": "Institute for Free Speech",
+      "status": "draft",
+      "last_verified": "2026-07-04",
       "tags": [
         "organization",
         "first-amendment",
@@ -686,16 +847,15 @@
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-RCFP.md",
-      "id": "ORG-RCFP",
-      "title": "Reporters Committee for Freedom of the Press",
+      "path": "knowledge/organizations/ORG-COOLEY.md",
+      "id": "ORG-COOLEY",
+      "title": "Cooley",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-06-25",
       "tags": [
         "organization",
-        "first-amendment",
+        "open-source-software",
         "digital-rights",
-        "civil-society",
         "outreach"
       ]
     },
@@ -730,106 +890,15 @@
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
-      "id": "ORG-PERKINS-COIE",
-      "title": "Perkins Coie",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-COOLEY.md",
-      "id": "ORG-COOLEY",
-      "title": "Cooley",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-EPIC.md",
-      "id": "ORG-EPIC",
-      "title": "Electronic Privacy Information Center",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "organization",
-        "privacy",
-        "digital-rights",
-        "civil-society",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md",
-      "id": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
-      "title": "Committee for the First Amendment",
-      "status": "draft",
-      "last_verified": "2026-07-18",
-      "tags": [
-        "organization",
-        "first-amendment",
-        "civil-society",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-OSI.md",
-      "id": "ORG-OSI",
-      "title": "Open Source Initiative",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "civil-society",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-TOR-PROJECT.md",
-      "id": "ORG-TOR-PROJECT",
-      "title": "Tor Project",
-      "status": "draft",
-      "last_verified": "2026-06-19",
-      "tags": [
-        "organization",
-        "privacy",
-        "open-source-software",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md",
-      "id": "ORG-INSTITUTE-FOR-JUSTICE",
-      "title": "Institute for Justice",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "first-amendment",
-        "civil-society",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md",
-      "id": "ORG-INSTITUTE-FOR-FREE-SPEECH",
-      "title": "Institute for Free Speech",
+      "path": "knowledge/organizations/ORG-RCFP.md",
+      "id": "ORG-RCFP",
+      "title": "Reporters Committee for Freedom of the Press",
       "status": "draft",
       "last_verified": "2026-07-04",
       "tags": [
         "organization",
         "first-amendment",
+        "digital-rights",
         "civil-society",
         "outreach"
       ]
@@ -849,108 +918,618 @@
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md",
-      "id": "ORG-PUBLIC-KNOWLEDGE",
-      "title": "Public Knowledge",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "organization",
-        "digital-rights",
-        "internet-governance",
-        "civil-society",
-        "outreach"
-      ]
-    },
-    {
-      "path": "knowledge/organizations/ORG-FSF.md",
-      "id": "ORG-FSF",
-      "title": "Free Software Foundation",
+      "path": "knowledge/organizations/ORG-PERKINS-COIE.md",
+      "id": "ORG-PERKINS-COIE",
+      "title": "Perkins Coie",
       "status": "draft",
       "last_verified": "2026-06-25",
       "tags": [
         "organization",
         "open-source-software",
         "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "knowledge/organizations/ORG-FIRE.md",
+      "id": "ORG-FIRE",
+      "title": "Foundation for Individual Rights and Expression",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "organization",
+        "first-amendment",
         "civil-society",
         "outreach"
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-ACLU.md",
-      "id": "ORG-ACLU",
-      "title": "American Civil Liberties Union",
+      "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
+      "id": "PERSON-PAMELA-CHESTEK",
+      "title": "Pamela Chestek",
       "status": "draft",
-      "last_verified": "2026-07-19",
+      "last_verified": "2026-07-04",
       "tags": [
-        "organization",
-        "civil-liberties",
-        "digital-rights",
-        "outreach"
+        "attorney",
+        "open-source-software"
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-EFF.md",
-      "id": "ORG-EFF",
-      "title": "Electronic Frontier Foundation",
+      "path": "knowledge/people/PERSON-RON-WYDEN.md",
+      "id": "PERSON-RON-WYDEN",
+      "title": "Ron Wyden",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-07-19",
       "tags": [
-        "organization",
+        "person",
+        "internet-governance",
         "digital-rights",
+        "privacy",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
+      "id": "PERSON-ROBERT-KAHN",
+      "title": "Robert Kahn",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
+      "id": "PERSON-TIM-BERNERS-LEE",
+      "title": "Tim Berners-Lee",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "open-source-software",
+        "privacy"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-JANE-FONDA.md",
+      "id": "PERSON-JANE-FONDA",
+      "title": "Jane Fonda",
+      "status": "draft",
+      "last_verified": "2026-07-18",
+      "tags": [
+        "person",
+        "first-amendment",
+        "civil-society"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ALAN-KAY.md",
+      "id": "PERSON-ALAN-KAY",
+      "title": "Alan Kay",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "open-source-software",
+        "internet-architecture",
+        "software-distribution"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-BEN-WIZNER.md",
+      "id": "PERSON-BEN-WIZNER",
+      "title": "Ben Wizner",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
+      "id": "PERSON-THOMAS-MASSIE",
+      "title": "Thomas Massie",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
+      "id": "PERSON-ESHA-BHANDARI",
+      "title": "Esha Bhandari",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "privacy",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
+      "id": "PERSON-PAVEL-CHIKOV",
+      "title": "Pavel Chikov",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "encryption-law",
         "civil-society",
-        "outreach"
+        "censorship-resistance"
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-SFLC.md",
-      "id": "ORG-SFLC",
-      "title": "Software Freedom Law Center",
+      "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
+      "id": "PERSON-LAWRENCE-LESSIG",
+      "title": "Lawrence Lessig",
       "status": "draft",
-      "last_verified": "2026-07-19",
+      "last_verified": "2026-06-25",
       "tags": [
-        "organization",
+        "person",
+        "internet-governance",
         "open-source-software",
         "digital-rights",
-        "civil-society",
-        "outreach"
+        "copyright"
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-FENWICK.md",
-      "id": "ORG-FENWICK",
-      "title": "Fenwick & West",
+      "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
+      "id": "PERSON-JONATHAN-ZITTRAIN",
+      "title": "Jonathan Zittrain",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "digital-rights",
+        "internet-governance",
+        "privacy"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-HENRY-FONDA.md",
+      "id": "PERSON-HENRY-FONDA",
+      "title": "Henry Fonda",
+      "status": "draft",
+      "last_verified": "2026-07-18",
+      "tags": [
+        "person",
+        "first-amendment",
+        "civil-society"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-KIT-WALSH.md",
+      "id": "PERSON-KIT-WALSH",
+      "title": "Kit Walsh",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "speech-and-code",
+        "copyright",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
+      "id": "PERSON-THOMAS-HAIGH",
+      "title": "Thomas Haigh",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
+      "id": "PERSON-BRUCE-SCHNEIER",
+      "title": "Bruce Schneier",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
+      "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
+      "title": "David-Olivier Kaminski",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "attorney",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ALEX-ABDO.md",
+      "id": "PERSON-ALEX-ABDO",
+      "title": "Alex Abdo",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
+      "id": "PERSON-PAUL-VIXIE",
+      "title": "Paul Vixie",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "network-protocols",
+        "cryptography"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
+      "id": "PERSON-EBEN-MOGLEN",
+      "title": "Eben Moglen",
       "status": "draft",
       "last_verified": "2026-07-19",
       "tags": [
-        "organization",
+        "attorney",
         "open-source-software",
         "digital-rights",
-        "outreach"
+        "cryptography"
       ]
     },
     {
-      "path": "knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md",
-      "id": "ORG-SOFTWARE-FREEDOM-CONSERVANCY",
-      "title": "Software Freedom Conservancy",
+      "path": "knowledge/people/PERSON-RON-RIVEST.md",
+      "id": "PERSON-RON-RIVEST",
+      "title": "Ron Rivest",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-CORY-BOOKER.md",
+      "id": "PERSON-CORY-BOOKER",
+      "title": "Cory Booker",
       "status": "draft",
       "last_verified": "2026-07-19",
       "tags": [
-        "organization",
-        "open-source-software",
+        "person",
+        "internet-governance",
         "digital-rights",
-        "civil-society",
-        "outreach"
+        "privacy",
+        "surveillance"
       ]
     },
     {
-      "path": "knowledge/technical/TECH-HYPHANET.md",
-      "id": "TECH-HYPHANET",
-      "title": "Hyphanet (formerly Freenet)",
+      "path": "knowledge/people/PERSON-MIKE-LEE.md",
+      "id": "PERSON-MIKE-LEE",
+      "title": "Mike Lee",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy",
+        "surveillance",
+        "fourth-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
+      "id": "PERSON-WHITFIELD-DIFFIE",
+      "title": "Whitfield Diffie",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "cryptography",
+        "digital-rights",
+        "privacy"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-RO-KHANNA.md",
+      "id": "PERSON-RO-KHANNA",
+      "title": "Ro Khanna",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-VINT-CERF.md",
+      "id": "PERSON-VINT-CERF",
+      "title": "Vint Cerf",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
+      "id": "PERSON-HEATHER-MEEKER",
+      "title": "Heather Meeker",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
+      "id": "PERSON-KATIE-FALLOW",
+      "title": "Katie Fallow",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-RAND-PAUL.md",
+      "id": "PERSON-RAND-PAUL",
+      "title": "Rand Paul",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "person",
+        "privacy",
+        "fourth-amendment",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
+      "id": "PERSON-JAMEEL-JAFFER",
+      "title": "Jameel Jaffer",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "first-amendment",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
+      "id": "PERSON-NATHAN-FREED-WESSLER",
+      "title": "Nathan Freed Wessler",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "privacy",
+        "surveillance",
+        "fourth-amendment",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
+      "id": "PERSON-CORYNNE-MCSHERRY",
+      "title": "Corynne McSherry",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "attorney",
+        "copyright",
+        "digital-rights",
+        "intermediary-liability",
+        "speech-and-code"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
+      "id": "PERSON-PHIL-ZIMMERMANN",
+      "title": "Phil Zimmermann",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "person",
+        "cryptography",
+        "digital-rights",
+        "privacy"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
+      "id": "PERSON-JENNIFER-GRANICK",
+      "title": "Jennifer Granick",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "attorney",
+        "privacy",
+        "surveillance",
+        "fourth-amendment",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-LEE-TIEN.md",
+      "id": "PERSON-LEE-TIEN",
+      "title": "Lee Tien",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
+      "id": "PERSON-AARON-WILLIAMSON",
+      "title": "Aaron Williamson",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "attorney",
+        "open-source-software",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
+      "id": "PERSON-ZOE-LOFGREN",
+      "title": "Zoe Lofgren",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
+      "id": "PERSON-ANDREW-RUSSELL",
+      "title": "Andrew Russell",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-DANAH-BOYD.md",
+      "id": "PERSON-DANAH-BOYD",
+      "title": "danah boyd",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "privacy",
+        "internet-governance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-ORIN-KERR.md",
+      "id": "PERSON-ORIN-KERR",
+      "title": "Orin Kerr",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "digital-rights",
+        "privacy",
+        "fourth-amendment"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-JANET-ABBATE.md",
+      "id": "PERSON-JANET-ABBATE",
+      "title": "Janet Abbate",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "internet-governance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-DAVID-REED.md",
+      "id": "PERSON-DAVID-REED",
+      "title": "David P. Reed",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "person",
+        "internet-architecture",
+        "distributed-systems",
+        "network-protocols"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-MATT-BLAZE.md",
+      "id": "PERSON-MATT-BLAZE",
+      "title": "Matt Blaze",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "person",
+        "cryptography",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
+      "id": "PERSON-PAVEL-DUROV",
+      "title": "Pavel Durov",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "person",
+        "secure-messaging",
+        "privacy",
+        "encryption-law",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-IAN-CLARKE.md",
+      "id": "PERSON-IAN-CLARKE",
+      "title": "Ian Clarke",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
-        "technology",
+        "person",
+        "researcher",
         "privacy",
         "censorship-resistance",
         "peer-to-peer-networking",
@@ -960,20 +1539,45 @@
       ]
     },
     {
-      "path": "knowledge/technical/TECH-PGP.md",
-      "id": "TECH-PGP",
-      "title": "Pretty Good Privacy (PGP)",
+      "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
+      "id": "PERSON-LAUREN-WEINSTEIN",
+      "title": "Lauren Weinstein",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-06-25",
       "tags": [
-        "technology",
-        "cryptography",
+        "person",
+        "internet-governance",
         "privacy",
+        "digital-rights",
+        "censorship-resistance"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
+      "id": "PERSON-MITCH-STOLTZ",
+      "title": "Mitch Stoltz",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "attorney",
         "open-source-software",
-        "export-control",
-        "speech-and-code",
-        "case-studies",
-        "digital-rights"
+        "copyright",
+        "digital-rights",
+        "speech-and-code"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-CINDY-COHN.md",
+      "id": "PERSON-CINDY-COHN",
+      "title": "Cindy Cohn",
+      "status": "draft",
+      "last_verified": "2026-07-19",
+      "tags": [
+        "attorney",
+        "digital-rights",
+        "first-amendment",
+        "cryptography",
+        "privacy"
       ]
     },
     {
@@ -1008,18 +1612,99 @@
       ]
     },
     {
-      "path": "knowledge/technical/TECH-TORNADO-CASH.md",
-      "id": "TECH-TORNADO-CASH",
-      "title": "Tornado Cash (Ethereum Mixer Protocol)",
+      "path": "knowledge/technical/TOPIC-KADEMLIA.md",
+      "id": "TOPIC-KADEMLIA",
+      "title": "Kademlia",
       "status": "draft",
-      "last_verified": "2026-07-23",
+      "last_verified": "2026-06-17",
+      "tags": [
+        "peer-to-peer-networking",
+        "distributed-systems",
+        "distributed-hash-tables"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-HYPHANET.md",
+      "id": "TECH-HYPHANET",
+      "title": "Hyphanet (formerly Freenet)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
       "tags": [
         "technology",
-        "privacy-preserving-systems",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/technical/PROTOCOL-DNS.md",
+      "id": "PROTOCOL-DNS",
+      "title": "Domain Name System",
+      "status": "draft",
+      "last_verified": "2026-06-17",
+      "tags": [
+        "internet-architecture",
+        "network-protocols"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-GNUNET.md",
+      "id": "TECH-GNUNET",
+      "title": "GNUnet",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software",
+        "content-moderation",
+        "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
+      "id": "TOPIC-ONION-ROUTING",
+      "title": "Onion Routing",
+      "status": "draft",
+      "last_verified": "2026-06-19",
+      "tags": [
+        "privacy",
         "censorship-resistance",
         "open-source-software",
-        "tornado-cash",
-        "case-studies"
+        "technical"
+      ]
+    },
+    {
+      "path": "knowledge/technical/PROTOCOL-TCP.md",
+      "id": "PROTOCOL-TCP",
+      "title": "Transmission Control Protocol",
+      "status": "draft",
+      "last_verified": "2026-06-17",
+      "tags": [
+        "internet-architecture",
+        "network-protocols"
+      ]
+    },
+    {
+      "path": "knowledge/technical/TECH-PGP.md",
+      "id": "TECH-PGP",
+      "title": "Pretty Good Privacy (PGP)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "technology",
+        "cryptography",
+        "privacy",
+        "open-source-software",
+        "export-control",
+        "speech-and-code",
+        "case-studies",
+        "digital-rights"
       ]
     },
     {
@@ -1040,40 +1725,6 @@
       ]
     },
     {
-      "path": "knowledge/technical/PROTOCOL-DNS.md",
-      "id": "PROTOCOL-DNS",
-      "title": "Domain Name System",
-      "status": "draft",
-      "last_verified": "2026-06-17",
-      "tags": [
-        "internet-architecture",
-        "network-protocols"
-      ]
-    },
-    {
-      "path": "knowledge/technical/PROTOCOL-TCP.md",
-      "id": "PROTOCOL-TCP",
-      "title": "Transmission Control Protocol",
-      "status": "draft",
-      "last_verified": "2026-06-17",
-      "tags": [
-        "internet-architecture",
-        "network-protocols"
-      ]
-    },
-    {
-      "path": "knowledge/technical/TOPIC-KADEMLIA.md",
-      "id": "TOPIC-KADEMLIA",
-      "title": "Kademlia",
-      "status": "draft",
-      "last_verified": "2026-06-17",
-      "tags": [
-        "peer-to-peer-networking",
-        "distributed-systems",
-        "distributed-hash-tables"
-      ]
-    },
-    {
       "path": "knowledge/technical/PROTOCOL-TLS-13.md",
       "id": "PROTOCOL-TLS-13",
       "title": "Transport Layer Security 1.3",
@@ -1086,31 +1737,17 @@
       ]
     },
     {
-      "path": "knowledge/technical/TOPIC-ONION-ROUTING.md",
-      "id": "TOPIC-ONION-ROUTING",
-      "title": "Onion Routing",
+      "path": "knowledge/technical/TECH-TORNADO-CASH.md",
+      "id": "TECH-TORNADO-CASH",
+      "title": "Tornado Cash (Ethereum Mixer Protocol)",
       "status": "draft",
-      "last_verified": "2026-06-19",
-      "tags": [
-        "privacy",
-        "censorship-resistance",
-        "open-source-software",
-        "technical"
-      ]
-    },
-    {
-      "path": "knowledge/technical/TECH-GNUNET.md",
-      "id": "TECH-GNUNET",
-      "title": "GNUnet",
-      "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-07-23",
       "tags": [
         "technology",
-        "privacy",
+        "privacy-preserving-systems",
         "censorship-resistance",
-        "peer-to-peer-networking",
         "open-source-software",
-        "content-moderation",
+        "tornado-cash",
         "case-studies"
       ]
     },
@@ -1125,966 +1762,15 @@
       ]
     },
     {
-      "path": "knowledge/people/PERSON-KATIE-FALLOW.md",
-      "id": "PERSON-KATIE-FALLOW",
-      "title": "Katie Fallow",
+      "path": "bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md",
+      "id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
+      "title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-07-23",
       "tags": [
-        "attorney",
-        "first-amendment",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-THOMAS-MASSIE.md",
-      "id": "PERSON-THOMAS-MASSIE",
-      "title": "Thomas Massie",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ALEX-ABDO.md",
-      "id": "PERSON-ALEX-ABDO",
-      "title": "Alex Abdo",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "first-amendment",
-        "privacy",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-KIT-WALSH.md",
-      "id": "PERSON-KIT-WALSH",
-      "title": "Kit Walsh",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "attorney",
-        "digital-rights",
-        "speech-and-code",
-        "copyright",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-JANE-FONDA.md",
-      "id": "PERSON-JANE-FONDA",
-      "title": "Jane Fonda",
-      "status": "draft",
-      "last_verified": "2026-07-18",
-      "tags": [
-        "person",
-        "first-amendment",
-        "civil-society"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-MITCH-STOLTZ.md",
-      "id": "PERSON-MITCH-STOLTZ",
-      "title": "Mitch Stoltz",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "attorney",
-        "open-source-software",
-        "copyright",
-        "digital-rights",
-        "speech-and-code"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-WHITFIELD-DIFFIE.md",
-      "id": "PERSON-WHITFIELD-DIFFIE",
-      "title": "Whitfield Diffie",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "cryptography",
-        "digital-rights",
-        "privacy"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-CINDY-COHN.md",
-      "id": "PERSON-CINDY-COHN",
-      "title": "Cindy Cohn",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "attorney",
-        "digital-rights",
-        "first-amendment",
-        "cryptography",
-        "privacy"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-NATHAN-FREED-WESSLER.md",
-      "id": "PERSON-NATHAN-FREED-WESSLER",
-      "title": "Nathan Freed Wessler",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "privacy",
-        "surveillance",
-        "fourth-amendment",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-HEATHER-MEEKER.md",
-      "id": "PERSON-HEATHER-MEEKER",
-      "title": "Heather Meeker",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-RAND-PAUL.md",
-      "id": "PERSON-RAND-PAUL",
-      "title": "Rand Paul",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "person",
-        "privacy",
-        "fourth-amendment",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ROBERT-KAHN.md",
-      "id": "PERSON-ROBERT-KAHN",
-      "title": "Robert Kahn",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
-      "id": "PERSON-TIM-BERNERS-LEE",
-      "title": "Tim Berners-Lee",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "internet-governance",
-        "open-source-software",
-        "privacy"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-THOMAS-HAIGH.md",
-      "id": "PERSON-THOMAS-HAIGH",
-      "title": "Thomas Haigh",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-DAVID-REED.md",
-      "id": "PERSON-DAVID-REED",
-      "title": "David P. Reed",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "distributed-systems",
-        "network-protocols"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-VINT-CERF.md",
-      "id": "PERSON-VINT-CERF",
-      "title": "Vint Cerf",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "internet-governance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-LAUREN-WEINSTEIN.md",
-      "id": "PERSON-LAUREN-WEINSTEIN",
-      "title": "Lauren Weinstein",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "internet-governance",
-        "privacy",
-        "digital-rights",
-        "censorship-resistance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-BRUCE-SCHNEIER.md",
-      "id": "PERSON-BRUCE-SCHNEIER",
-      "title": "Bruce Schneier",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "cryptography",
-        "privacy",
-        "digital-rights",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-RON-WYDEN.md",
-      "id": "PERSON-RON-WYDEN",
-      "title": "Ron Wyden",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-EBEN-MOGLEN.md",
-      "id": "PERSON-EBEN-MOGLEN",
-      "title": "Eben Moglen",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "attorney",
-        "open-source-software",
-        "digital-rights",
-        "cryptography"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ORIN-KERR.md",
-      "id": "PERSON-ORIN-KERR",
-      "title": "Orin Kerr",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "digital-rights",
-        "privacy",
-        "fourth-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ANDREW-RUSSELL.md",
-      "id": "PERSON-ANDREW-RUSSELL",
-      "title": "Andrew Russell",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "internet-governance",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ZOE-LOFGREN.md",
-      "id": "PERSON-ZOE-LOFGREN",
-      "title": "Zoe Lofgren",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
+        "source",
+        "case",
         "computer-crime"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-BEN-WIZNER.md",
-      "id": "PERSON-BEN-WIZNER",
-      "title": "Ben Wizner",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "first-amendment",
-        "privacy",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
-      "id": "PERSON-ESHA-BHANDARI",
-      "title": "Esha Bhandari",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "digital-rights",
-        "privacy",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-PAVEL-DUROV.md",
-      "id": "PERSON-PAVEL-DUROV",
-      "title": "Pavel Durov",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "person",
-        "secure-messaging",
-        "privacy",
-        "encryption-law",
-        "intermediary-liability",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-MATT-BLAZE.md",
-      "id": "PERSON-MATT-BLAZE",
-      "title": "Matt Blaze",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "cryptography",
-        "privacy",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-DAVID-OLIVIER-KAMINSKI.md",
-      "id": "PERSON-DAVID-OLIVIER-KAMINSKI",
-      "title": "David-Olivier Kaminski",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "attorney",
-        "intermediary-liability",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-LAWRENCE-LESSIG.md",
-      "id": "PERSON-LAWRENCE-LESSIG",
-      "title": "Lawrence Lessig",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "internet-governance",
-        "open-source-software",
-        "digital-rights",
-        "copyright"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-LEE-TIEN.md",
-      "id": "PERSON-LEE-TIEN",
-      "title": "Lee Tien",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "privacy",
-        "digital-rights",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-DANAH-BOYD.md",
-      "id": "PERSON-DANAH-BOYD",
-      "title": "danah boyd",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "privacy",
-        "internet-governance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-PAUL-VIXIE.md",
-      "id": "PERSON-PAUL-VIXIE",
-      "title": "Paul Vixie",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "network-protocols",
-        "cryptography"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-IAN-CLARKE.md",
-      "id": "PERSON-IAN-CLARKE",
-      "title": "Ian Clarke",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "person",
-        "researcher",
-        "privacy",
-        "censorship-resistance",
-        "peer-to-peer-networking",
-        "open-source-software",
-        "content-moderation",
-        "case-studies"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-JAMEEL-JAFFER.md",
-      "id": "PERSON-JAMEEL-JAFFER",
-      "title": "Jameel Jaffer",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "first-amendment",
-        "privacy",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-AARON-WILLIAMSON.md",
-      "id": "PERSON-AARON-WILLIAMSON",
-      "title": "Aaron Williamson",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "open-source-software",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-RON-RIVEST.md",
-      "id": "PERSON-RON-RIVEST",
-      "title": "Ron Rivest",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "cryptography",
-        "privacy",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-ALAN-KAY.md",
-      "id": "PERSON-ALAN-KAY",
-      "title": "Alan Kay",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "open-source-software",
-        "internet-architecture",
-        "software-distribution"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-JENNIFER-GRANICK.md",
-      "id": "PERSON-JENNIFER-GRANICK",
-      "title": "Jennifer Granick",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "attorney",
-        "privacy",
-        "surveillance",
-        "fourth-amendment",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-PAMELA-CHESTEK.md",
-      "id": "PERSON-PAMELA-CHESTEK",
-      "title": "Pamela Chestek",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "attorney",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-JONATHAN-ZITTRAIN.md",
-      "id": "PERSON-JONATHAN-ZITTRAIN",
-      "title": "Jonathan Zittrain",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "digital-rights",
-        "internet-governance",
-        "privacy"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-PHIL-ZIMMERMANN.md",
-      "id": "PERSON-PHIL-ZIMMERMANN",
-      "title": "Phil Zimmermann",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "person",
-        "cryptography",
-        "digital-rights",
-        "privacy"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-CORY-BOOKER.md",
-      "id": "PERSON-CORY-BOOKER",
-      "title": "Cory Booker",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-MIKE-LEE.md",
-      "id": "PERSON-MIKE-LEE",
-      "title": "Mike Lee",
-      "status": "draft",
-      "last_verified": "2026-07-19",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy",
-        "surveillance",
-        "fourth-amendment"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-CORYNNE-MCSHERRY.md",
-      "id": "PERSON-CORYNNE-MCSHERRY",
-      "title": "Corynne McSherry",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "attorney",
-        "copyright",
-        "digital-rights",
-        "intermediary-liability",
-        "speech-and-code"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-PAVEL-CHIKOV.md",
-      "id": "PERSON-PAVEL-CHIKOV",
-      "title": "Pavel Chikov",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "attorney",
-        "digital-rights",
-        "encryption-law",
-        "civil-society",
-        "censorship-resistance"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-JANET-ABBATE.md",
-      "id": "PERSON-JANET-ABBATE",
-      "title": "Janet Abbate",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "person",
-        "internet-architecture",
-        "internet-governance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-HENRY-FONDA.md",
-      "id": "PERSON-HENRY-FONDA",
-      "title": "Henry Fonda",
-      "status": "draft",
-      "last_verified": "2026-07-18",
-      "tags": [
-        "person",
-        "first-amendment",
-        "civil-society"
-      ]
-    },
-    {
-      "path": "knowledge/people/PERSON-RO-KHANNA.md",
-      "id": "PERSON-RO-KHANNA",
-      "title": "Ro Khanna",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy"
-      ]
-    },
-    {
-      "path": "bibliography/imported/SRC-OIR-ROADMAP-DOCX.md",
-      "id": "SRC-OIR-ROADMAP-DOCX",
-      "title": "Open Internet Reference Roadmap",
-      "status": "draft",
-      "last_verified": null,
-      "tags": [
-        "source",
-        "imported-source",
-        "project-governance"
-      ]
-    },
-    {
-      "path": "bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md",
-      "id": "SRC-OIR-BOOTSTRAP-PROMPT",
-      "title": "OIR Bootstrap Prompt",
-      "status": "draft",
-      "last_verified": null,
-      "tags": [
-        "source",
-        "imported-source",
-        "project-governance"
-      ]
-    },
-    {
-      "path": "bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md",
-      "id": "SRC-OIR-PROJECT-CHARTER-DOCX",
-      "title": "Open Internet Reference Project Charter",
-      "status": "draft",
-      "last_verified": null,
-      "tags": [
-        "source",
-        "imported-source",
-        "project-governance"
-      ]
-    },
-    {
-      "path": "bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md",
-      "id": "SRC-CLARKE-FREENET-PAPER-2001",
-      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "academic-paper",
-        "peer-to-peer-networking",
-        "censorship-resistance",
-        "privacy"
-      ]
-    },
-    {
-      "path": "bibliography/academic/SRC-CLARKE-DDISRS-1999.md",
-      "id": "SRC-CLARKE-DDISRS-1999",
-      "title": "A Distributed Decentralised Information Storage and Retrieval System",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "academic-paper",
-        "peer-to-peer-networking",
-        "censorship-resistance",
-        "privacy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TREASURY-TC-AUG-2022.md",
-      "id": "SRC-TREASURY-TC-AUG-2022",
-      "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-EFF-SKLYAROV-CASE.md",
-      "id": "SRC-EFF-SKLYAROV-CASE",
-      "title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "copyright"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TX-SB-2420-ENROLLED.md",
-      "id": "SRC-TX-SB-2420-ENROLLED",
-      "title": "Texas SB 2420 \u2014 App Store Accountability Act (Enrolled Text)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "statute",
-        "age-verification",
-        "first-amendment",
-        "public-policy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
-      "id": "SRC-GOOGLE-ORACLE-JUSTIA",
-      "title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "case",
-        "copyright",
-        "speech-and-code",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md",
-      "id": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
-      "title": "California Civil Code Title 1.81.9 \u2014 Digital Age Assurance Act (leginfo)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "statute",
-        "age-verification",
-        "privacy",
-        "digital-rights",
-        "public-policy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-BBC-DUROV-FSB-2026.md",
-      "id": "SRC-BBC-DUROV-FSB-2026",
-      "title": "BBC News \u2014 Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "intermediary-liability",
-        "digital-rights",
-        "secure-messaging",
-        "historical-event"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md",
-      "id": "SRC-TUNICK-INDICTMENT-2025",
-      "title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "source",
-        "case",
-        "privacy",
-        "border-search",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
-      "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
-      "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime",
-        "open-source-risk"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md",
-      "id": "SRC-DOJ-STORM-INDICTMENT",
-      "title": "United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime",
-        "sanctions"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-PERTSEV-ECLI-2024.md",
-      "id": "SRC-PERTSEV-ECLI-2024",
-      "title": "Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime",
-        "privacy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-CHATRIE-LII.md",
-      "id": "SRC-CHATRIE-LII",
-      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "source",
-        "case-law",
-        "fourth-amendment",
-        "privacy",
-        "digital-rights",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
-      "id": "SRC-IRS-SAMOURAI-PLEA-2025",
-      "title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime",
-        "open-source-risk"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
-      "id": "SRC-CHATRIE-SCOTUS-PDF",
-      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "source",
-        "case-law",
-        "fourth-amendment",
-        "privacy",
-        "digital-rights",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md",
-      "id": "SRC-OFAC-TC-REMOVAL-20250321",
-      "title": "OFAC Recent Actions \u2014 Cyber-related Designation Removal (Mar. 21, 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md",
-      "id": "SRC-DOJ-SKLYAROV-AGREE-2001",
-      "title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "copyright",
-        "open-source-risk"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-USC-18-2232-LII.md",
-      "id": "SRC-USC-18-2232-LII",
-      "title": "18 U.S.C. \u00a7 2232 (Cornell LII)",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "source",
-        "statute"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md",
-      "id": "SRC-CCIA-SB2420-LITIGATION-PAGE",
-      "title": "CCIA Litigation Page \u2014 CCIA v. Paxton (W.D. Tex.)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "case",
-        "age-verification",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
-      "id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
-      "title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "source",
-        "case",
-        "privacy",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-OFAC-FAQ-1076.md",
-      "id": "SRC-OFAC-FAQ-1076",
-      "title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
-      "id": "SRC-TREASURY-BLENDER-2022",
-      "title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "digital-rights"
       ]
     },
     {
@@ -2101,16 +1787,31 @@
       ]
     },
     {
-      "path": "bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md",
-      "id": "SRC-CA5-SB2420-STAY-ORDER",
-      "title": "Fifth Circuit \u2014 Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)",
+      "path": "bibliography/legal/SRC-AP-DUROV-FSB-2026.md",
+      "id": "SRC-AP-DUROV-FSB-2026",
+      "title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-07-29",
       "tags": [
         "source",
-        "case",
-        "age-verification",
-        "first-amendment"
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md",
+      "id": "SRC-MEDUZA-DUROV-FSB-2026",
+      "title": "Meduza \u2014 FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
       ]
     },
     {
@@ -2129,74 +1830,9 @@
       ]
     },
     {
-      "path": "bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md",
-      "id": "SRC-CCIA-V-PAXTON-PI-ORDER",
-      "title": "CCIA v. Paxton \u2014 Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "case",
-        "age-verification",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TREASURY-TC-NOV-2022.md",
-      "id": "SRC-TREASURY-TC-NOV-2022",
-      "title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md",
-      "id": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
-      "title": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "sanctions"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
-      "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
-      "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "case",
-        "age-verification",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
-      "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
-      "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
-      "status": "draft",
-      "last_verified": "2026-07-30",
-      "tags": [
-        "source",
-        "case",
-        "privacy",
-        "open-source-software",
-        "border-search",
-        "fourth-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-LA-ACT-185-ASAA.md",
-      "id": "SRC-LA-ACT-185-ASAA",
-      "title": "Louisiana Act No. 185 \u2014 App Store Accountability Act (2026)",
+      "path": "bibliography/legal/SRC-AL-HB161-ENROLLED.md",
+      "id": "SRC-AL-HB161-ENROLLED",
+      "title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
@@ -2204,133 +1840,6 @@
         "statute",
         "age-verification",
         "public-policy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md",
-      "id": "SRC-DOJ-STORM-CONVICTION-2025",
-      "title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md",
-      "id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
-      "title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "source",
-        "case",
-        "privacy",
-        "border-search",
-        "fourth-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md",
-      "id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
-      "title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "computer-crime"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TREASURY-SEMENOV-2023.md",
-      "id": "SRC-TREASURY-SEMENOV-2023",
-      "title": "Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "computer-crime"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md",
-      "id": "SRC-TREASURY-TC-DELIST-2025",
-      "title": "Tornado Cash Delisting (Mar. 21, 2025)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "sanctions",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md",
-      "id": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
-      "title": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "sanctions",
-        "open-source-software",
-        "censorship-resistance"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-CA-AB-1043-STATUS.md",
-      "id": "SRC-CA-AB-1043-STATUS",
-      "title": "California AB 1043 Bill Status \u2014 Chaptered October 13, 2025",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "statute",
-        "age-verification",
-        "public-policy"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
-      "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
-      "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "case",
-        "copyright",
-        "open-source-risk"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-AP-DUROV-FSB-2026.md",
-      "id": "SRC-AP-DUROV-FSB-2026",
-      "title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "intermediary-liability",
-        "digital-rights",
-        "secure-messaging",
-        "historical-event"
-      ]
-    },
-    {
-      "path": "bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
-      "id": "SRC-COURTLISTENER-TUNICK-DOCKET",
-      "title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)",
-      "status": "draft",
-      "last_verified": "2026-07-27",
-      "tags": [
-        "source",
-        "case"
       ]
     },
     {
@@ -2359,9 +1868,90 @@
       ]
     },
     {
-      "path": "bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md",
-      "id": "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
-      "title": "Alston & Bird \u2014 Challenge to Utah ASAA Voluntarily Dismissed (April 2026)",
+      "path": "bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md",
+      "id": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
+      "title": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "sanctions",
+        "open-source-software",
+        "censorship-resistance"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
+      "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
+      "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-BBC-DUROV-FSB-2026.md",
+      "id": "SRC-BBC-DUROV-FSB-2026",
+      "title": "BBC News \u2014 Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "intermediary-liability",
+        "digital-rights",
+        "secure-messaging",
+        "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md",
+      "id": "SRC-DOJ-SKLYAROV-AGREE-2001",
+      "title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md",
+      "id": "SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE",
+      "title": "California Civil Code Title 1.81.9 \u2014 Digital Age Assurance Act (leginfo)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "privacy",
+        "digital-rights",
+        "public-policy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-OFAC-FAQ-1076.md",
+      "id": "SRC-OFAC-FAQ-1076",
+      "title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md",
+      "id": "SRC-CA5-SB2420-STAY-ORDER",
+      "title": "Fifth Circuit \u2014 Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026)",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
@@ -2369,6 +1959,338 @@
         "case",
         "age-verification",
         "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md",
+      "id": "SRC-TREASURY-TC-DELIST-2025",
+      "title": "Tornado Cash Delisting (Mar. 21, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md",
+      "id": "SRC-OFAC-TC-REMOVAL-20250321",
+      "title": "OFAC Recent Actions \u2014 Cyber-related Designation Removal (Mar. 21, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-NOV-2022.md",
+      "id": "SRC-TREASURY-TC-NOV-2022",
+      "title": "Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md",
+      "id": "SRC-DOJ-STORM-CONVICTION-2025",
+      "title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-SEMENOV-2023.md",
+      "id": "SRC-TREASURY-SEMENOV-2023",
+      "title": "Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TX-SB-2420-ENROLLED.md",
+      "id": "SRC-TX-SB-2420-ENROLLED",
+      "title": "Texas SB 2420 \u2014 App Store Accountability Act (Enrolled Text)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "first-amendment",
+        "public-policy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md",
+      "id": "SRC-CCIA-SB2420-LITIGATION-PAGE",
+      "title": "CCIA Litigation Page \u2014 CCIA v. Paxton (W.D. Tex.)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
+      "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
+      "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
+      "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md",
+      "id": "SRC-GOOGLE-ORACLE-JUSTIA",
+      "title": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "speech-and-code",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md",
+      "id": "SRC-COURTLISTENER-TUNICK-DOCKET",
+      "title": "CourtListener Docket \u2014 United States v. Tunick (1:25-cr-00499)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-PERTSEV-ECLI-2024.md",
+      "id": "SRC-PERTSEV-ECLI-2024",
+      "title": "Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md",
+      "id": "SRC-DOJ-STORM-INDICTMENT",
+      "title": "United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TECHCRUNCH-TUNICK-DURESS-2026.md",
+      "id": "SRC-TECHCRUNCH-TUNICK-DURESS-2026",
+      "title": "TechCrunch \u2014 DOJ Accuses American of Wiping Phone with Duress Password (July 24, 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-LA-ACT-185-ASAA.md",
+      "id": "SRC-LA-ACT-185-ASAA",
+      "title": "Louisiana Act No. 185 \u2014 App Store Accountability Act (2026)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
+      "id": "SRC-TREASURY-BLENDER-2022",
+      "title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CHATRIE-LII.md",
+      "id": "SRC-CHATRIE-LII",
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Cornell LII)",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CA-AB-1043-STATUS.md",
+      "id": "SRC-CA-AB-1043-STATUS",
+      "title": "California AB 1043 Bill Status \u2014 Chaptered October 13, 2025",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "statute",
+        "age-verification",
+        "public-policy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TREASURY-TC-AUG-2022.md",
+      "id": "SRC-TREASURY-TC-AUG-2022",
+      "title": "U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash (Aug. 8, 2022)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "sanctions",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-USC-18-2232-LII.md",
+      "id": "SRC-USC-18-2232-LII",
+      "title": "18 U.S.C. \u00a7 2232 (Cornell LII)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "statute"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-EFF-SKLYAROV-CASE.md",
+      "id": "SRC-EFF-SKLYAROV-CASE",
+      "title": "EFF Case Page \u2014 US v. ElcomSoft / Sklyarov",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "copyright"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TUNICK-MOTION-SUPPRESS-2026.md",
+      "id": "SRC-TUNICK-MOTION-SUPPRESS-2026",
+      "title": "United States v. Tunick \u2014 Motion to Suppress (Mar. 17, 2026)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "fourth-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CCIA-V-PAXTON-PI-ORDER.md",
+      "id": "SRC-CCIA-V-PAXTON-PI-ORDER",
+      "title": "CCIA v. Paxton \u2014 Order Granting Preliminary Injunction (W.D. Tex. Dec. 23, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md",
+      "id": "SRC-COIN-CENTER-YELLEN-NDFLA-2023",
+      "title": "Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "sanctions"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-TUNICK-INDICTMENT-2025.md",
+      "id": "SRC-TUNICK-INDICTMENT-2025",
+      "title": "United States v. Tunick \u2014 Indictment (N.D. Ga. Nov. 13, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-27",
+      "tags": [
+        "source",
+        "case",
+        "privacy",
+        "border-search",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
+      "id": "SRC-CHATRIE-SCOTUS-PDF",
+      "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
+      "status": "draft",
+      "last_verified": "2026-07-30",
+      "tags": [
+        "source",
+        "case-law",
+        "fourth-amendment",
+        "privacy",
+        "digital-rights",
+        "surveillance"
       ]
     },
     {
@@ -2385,85 +2307,44 @@
       ]
     },
     {
-      "path": "bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md",
-      "id": "SRC-MEDUZA-DUROV-FSB-2026",
-      "title": "Meduza \u2014 FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant",
+      "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
+      "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
+      "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
       "status": "draft",
-      "last_verified": "2026-07-29",
+      "last_verified": "2026-07-30",
       "tags": [
         "source",
-        "intermediary-liability",
-        "digital-rights",
-        "secure-messaging",
-        "historical-event"
+        "case",
+        "privacy",
+        "open-source-software",
+        "border-search",
+        "fourth-amendment"
       ]
     },
     {
-      "path": "bibliography/legal/SRC-AL-HB161-ENROLLED.md",
-      "id": "SRC-AL-HB161-ENROLLED",
-      "title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
+      "path": "bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md",
+      "id": "SRC-IRS-SAMOURAI-PLEA-2025",
+      "title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "case",
+        "computer-crime",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md",
+      "id": "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
+      "title": "Alston & Bird \u2014 Challenge to Utah ASAA Voluntarily Dismissed (April 2026)",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
         "source",
-        "statute",
+        "case",
         "age-verification",
-        "public-policy"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-TELEGRAM-FAQ.md",
-      "id": "SRC-TELEGRAM-FAQ",
-      "title": "Telegram FAQ",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "organization",
-        "privacy",
-        "secure-messaging"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
-      "id": "SRC-WILSON-SONSINI-INTERNET",
-      "title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "organization",
-        "digital-rights",
-        "first-amendment",
-        "outreach"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-HYPHANET-HOME.md",
-      "id": "SRC-HYPHANET-HOME",
-      "title": "Hyphanet Home Page",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "organization",
-        "privacy",
-        "censorship-resistance",
-        "peer-to-peer-networking",
-        "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
-      "id": "SRC-FIRE-SUBMIT-CASE",
-      "title": "FIRE Submit a Case Page",
-      "status": "draft",
-      "last_verified": "2026-07-31",
-      "tags": [
-        "source",
-        "organization",
-        "first-amendment",
-        "outreach"
+        "first-amendment"
       ]
     },
     {
@@ -2476,6 +2357,71 @@
         "source",
         "organization",
         "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FENWICK-TECH.md",
+      "id": "SRC-FENWICK-TECH",
+      "title": "Fenwick Technology Transactions Practice Page",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FIRE-MISSION.md",
+      "id": "SRC-FIRE-MISSION",
+      "title": "FIRE Mission Page",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-TELEGRAM-PRESS.md",
+      "id": "SRC-TELEGRAM-PRESS",
+      "title": "Telegram Press Info",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "secure-messaging"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-COOLEY-TECH.md",
+      "id": "SRC-COOLEY-TECH",
+      "title": "Cooley Technology Industry Practice Page",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "organization",
+        "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md",
+      "id": "SRC-FIRE-SUBMIT-CASE",
+      "title": "FIRE Submit a Case Page",
+      "status": "draft",
+      "last_verified": "2026-07-31",
+      "tags": [
+        "source",
+        "organization",
+        "first-amendment",
         "outreach"
       ]
     },
@@ -2494,6 +2440,21 @@
       ]
     },
     {
+      "path": "bibliography/organizations/SRC-GNUNET-ABOUT.md",
+      "id": "SRC-GNUNET-ABOUT",
+      "title": "GNUnet About Page",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/organizations/SRC-HYPHANET-RENAME.md",
       "id": "SRC-HYPHANET-RENAME",
       "title": "Freenet Renamed to Hyphanet",
@@ -2505,19 +2466,6 @@
         "privacy",
         "censorship-resistance",
         "open-source-software"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-TELEGRAM-PRESS.md",
-      "id": "SRC-TELEGRAM-PRESS",
-      "title": "Telegram Press Info",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "organization",
-        "privacy",
-        "secure-messaging"
       ]
     },
     {
@@ -2534,9 +2482,24 @@
       ]
     },
     {
-      "path": "bibliography/organizations/SRC-FENWICK-TECH.md",
-      "id": "SRC-FENWICK-TECH",
-      "title": "Fenwick Technology Transactions Practice Page",
+      "path": "bibliography/organizations/SRC-HYPHANET-HOME.md",
+      "id": "SRC-HYPHANET-HOME",
+      "title": "Hyphanet Home Page",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "organization",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "open-source-software"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FENWICK-HISTORY.md",
+      "id": "SRC-FENWICK-HISTORY",
+      "title": "Fenwick & West Firm History Page",
       "status": "draft",
       "last_verified": "2026-06-25",
       "tags": [
@@ -2547,9 +2510,23 @@
       ]
     },
     {
-      "path": "bibliography/organizations/SRC-GNUNET-ABOUT.md",
-      "id": "SRC-GNUNET-ABOUT",
-      "title": "GNUnet About Page",
+      "path": "bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md",
+      "id": "SRC-WILSON-SONSINI-INTERNET",
+      "title": "Wilson Sonsini Internet Strategy and Litigation Practice Page",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "organization",
+        "digital-rights",
+        "first-amendment",
+        "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-FREENET-HISTORY.md",
+      "id": "SRC-FREENET-HISTORY",
+      "title": "Freenet History Page",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
@@ -2575,57 +2552,369 @@
       ]
     },
     {
-      "path": "bibliography/organizations/SRC-COOLEY-TECH.md",
-      "id": "SRC-COOLEY-TECH",
-      "title": "Cooley Technology Industry Practice Page",
+      "path": "bibliography/organizations/SRC-TELEGRAM-FAQ.md",
+      "id": "SRC-TELEGRAM-FAQ",
+      "title": "Telegram FAQ",
       "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "organization",
-        "open-source-software",
-        "outreach"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-FIRE-MISSION.md",
-      "id": "SRC-FIRE-MISSION",
-      "title": "FIRE Mission Page",
-      "status": "draft",
-      "last_verified": "2026-07-31",
-      "tags": [
-        "source",
-        "organization",
-        "first-amendment",
-        "outreach"
-      ]
-    },
-    {
-      "path": "bibliography/organizations/SRC-FREENET-HISTORY.md",
-      "id": "SRC-FREENET-HISTORY",
-      "title": "Freenet History Page",
-      "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-07-29",
       "tags": [
         "source",
         "organization",
         "privacy",
-        "censorship-resistance",
-        "peer-to-peer-networking",
-        "open-source-software"
+        "secure-messaging"
       ]
     },
     {
-      "path": "bibliography/organizations/SRC-FENWICK-HISTORY.md",
-      "id": "SRC-FENWICK-HISTORY",
-      "title": "Fenwick & West Firm History Page",
+      "path": "bibliography/people/SRC-WYDEN-EARN-IT.md",
+      "id": "SRC-WYDEN-EARN-IT",
+      "title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe",
       "status": "draft",
       "last_verified": "2026-06-25",
       "tags": [
         "source",
-        "organization",
-        "open-source-software",
-        "outreach"
+        "person",
+        "privacy",
+        "digital-rights",
+        "first-amendment"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md",
+      "id": "SRC-PAUL-FOURTH-AMENDMENT",
+      "title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md",
+      "id": "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
+      "title": "The Guardian \u2014 The Dark Side of the Internet (Freenet, 2009)",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-WYDEN-SECTION-230.md",
+      "id": "SRC-WYDEN-SECTION-230",
+      "title": "Wyden Remarks at Section 230 Briefing Hosted by EFF",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
+      "id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
+      "title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md",
+      "id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
+      "title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "internet-governance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-TR-IAN-CLARKE.md",
+      "id": "SRC-TR-IAN-CLARKE",
+      "title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-PAUL-FISA.md",
+      "id": "SRC-PAUL-FISA",
+      "title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md",
+      "id": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
+      "title": "France 24 / AFP \u2014 Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "attorney",
+        "intermediary-liability",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md",
+      "id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
+      "title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-WYDEN-AARONS-LAW.md",
+      "id": "SRC-WYDEN-AARONS-LAW",
+      "title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "computer-crime",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
+      "id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
+      "title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md",
+      "id": "SRC-RFERL-TELEGRAM-BLOCK-2018",
+      "title": "RFE/RL \u2014 Russian Court Orders Telegram App Blocked (2018)",
+      "status": "draft",
+      "last_verified": "2026-07-29",
+      "tags": [
+        "source",
+        "attorney",
+        "encryption-law",
+        "censorship-resistance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
+      "id": "SRC-ZIMMERMANN-DECLINATION-1996",
+      "title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
+      "status": "draft",
+      "last_verified": "2026-07-23",
+      "tags": [
+        "source",
+        "cryptography",
+        "export-control",
+        "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md",
+      "id": "SRC-LEE-ENCRYPTION-BACKDOORS",
+      "title": "Encryption backdoors aren't worth the price",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-CLARKE-FREENET-BIO.md",
+      "id": "SRC-CLARKE-FREENET-BIO",
+      "title": "Ian Clarke \u2014 Freenet Project Biography",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "person",
+        "researcher",
+        "privacy",
+        "censorship-resistance",
+        "peer-to-peer-networking"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-KHANNA-INTERNET-BILL.md",
+      "id": "SRC-KHANNA-INTERNET-BILL",
+      "title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "internet-governance",
+        "digital-rights",
+        "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md",
+      "id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
+      "title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "fourth-amendment",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md",
+      "id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
+      "title": "House Passes Massie Amendment to Strengthen Privacy and Security",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "digital-rights",
+        "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md",
+      "id": "SRC-WYDEN-USA-RIGHTS-ACT",
+      "title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md",
+      "id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
+      "title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "privacy",
+        "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-LOFGREN-AARONS-LAW.md",
+      "id": "SRC-LOFGREN-AARONS-LAW",
+      "title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "source",
+        "person",
+        "computer-crime",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/imported/SRC-OIR-ROADMAP-DOCX.md",
+      "id": "SRC-OIR-ROADMAP-DOCX",
+      "title": "Open Internet Reference Roadmap",
+      "status": "draft",
+      "last_verified": null,
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ]
+    },
+    {
+      "path": "bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md",
+      "id": "SRC-OIR-PROJECT-CHARTER-DOCX",
+      "title": "Open Internet Reference Project Charter",
+      "status": "draft",
+      "last_verified": null,
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ]
+    },
+    {
+      "path": "bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md",
+      "id": "SRC-OIR-BOOTSTRAP-PROMPT",
+      "title": "OIR Bootstrap Prompt",
+      "status": "draft",
+      "last_verified": null,
+      "tags": [
+        "source",
+        "imported-source",
+        "project-governance"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-HYPHANET-WOT-README.md",
+      "id": "SRC-HYPHANET-WOT-README",
+      "title": "Hyphanet Web of Trust Plugin README",
+      "status": "draft",
+      "last_verified": "2026-08-08",
+      "tags": [
+        "source",
+        "technology",
+        "censorship-resistance",
+        "peer-to-peer-networking",
+        "privacy"
       ]
     },
     {
@@ -2656,20 +2945,6 @@
       ]
     },
     {
-      "path": "bibliography/technical/SRC-HYPHANET-WOT-README.md",
-      "id": "SRC-HYPHANET-WOT-README",
-      "title": "Hyphanet Web of Trust Plugin README",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "technology",
-        "censorship-resistance",
-        "peer-to-peer-networking",
-        "privacy"
-      ]
-    },
-    {
       "path": "bibliography/_templates/source-record.md",
       "id": "SRC-EXAMPLE",
       "title": "Example Source",
@@ -2680,306 +2955,55 @@
       ]
     },
     {
-      "path": "bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md",
-      "id": "SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS",
-      "title": "Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md",
-      "id": "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
-      "title": "Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "fourth-amendment",
-        "privacy",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md",
-      "id": "SRC-WYDEN-USA-RIGHTS-ACT",
-      "title": "Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-PAUL-FOURTH-AMENDMENT.md",
-      "id": "SRC-PAUL-FOURTH-AMENDMENT",
-      "title": "Dr. Rand Paul Introduces Legislation to Restore and Protect Americans' Fourth Amendment Rights",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "fourth-amendment",
-        "privacy",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-WYDEN-AARONS-LAW.md",
-      "id": "SRC-WYDEN-AARONS-LAW",
-      "title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "computer-crime",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md",
-      "id": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
-      "title": "Booker Announces Introduction of Bill to Ban Surveillance Advertising",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "digital-rights",
-        "internet-governance"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-KHANNA-INTERNET-BILL.md",
-      "id": "SRC-KHANNA-INTERNET-BILL",
-      "title": "Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "internet-governance",
-        "digital-rights",
-        "privacy"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
-      "id": "SRC-ZIMMERMANN-DECLINATION-1996",
-      "title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
-      "status": "draft",
-      "last_verified": "2026-07-23",
-      "tags": [
-        "source",
-        "cryptography",
-        "export-control",
-        "open-source-risk"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md",
-      "id": "SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM",
-      "title": "Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "surveillance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
-      "id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
-      "title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
+      "path": "bibliography/academic/SRC-CLARKE-DDISRS-1999.md",
+      "id": "SRC-CLARKE-DDISRS-1999",
+      "title": "A Distributed Decentralised Information Storage and Retrieval System",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
         "source",
-        "censorship-resistance",
+        "academic-paper",
         "peer-to-peer-networking",
+        "censorship-resistance",
         "privacy"
       ]
     },
     {
-      "path": "bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md",
-      "id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
-      "title": "House Passes Massie Amendment to Strengthen Privacy and Security",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "digital-rights",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md",
-      "id": "SRC-GUARDIAN-FREENET-DARK-SIDE-2009",
-      "title": "The Guardian \u2014 The Dark Side of the Internet (Freenet, 2009)",
+      "path": "bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md",
+      "id": "SRC-CLARKE-FREENET-PAPER-2001",
+      "title": "Freenet: A Distributed Anonymous Information Storage and Retrieval System",
       "status": "draft",
       "last_verified": "2026-08-08",
       "tags": [
         "source",
-        "censorship-resistance",
-        "privacy",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md",
-      "id": "SRC-LEE-ENCRYPTION-BACKDOORS",
-      "title": "Encryption backdoors aren't worth the price",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "digital-rights",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-WYDEN-EARN-IT.md",
-      "id": "SRC-WYDEN-EARN-IT",
-      "title": "Wyden on Reintroduction of the EARN IT Act: Political Attacks on Encryption Will Make Children Less Safe",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "privacy",
-        "digital-rights",
-        "first-amendment"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-CLARKE-FREENET-BIO.md",
-      "id": "SRC-CLARKE-FREENET-BIO",
-      "title": "Ian Clarke \u2014 Freenet Project Biography",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "person",
-        "researcher",
-        "privacy",
-        "censorship-resistance",
-        "peer-to-peer-networking"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-LOFGREN-AARONS-LAW.md",
-      "id": "SRC-LOFGREN-AARONS-LAW",
-      "title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "computer-crime",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md",
-      "id": "SRC-RFERL-TELEGRAM-BLOCK-2018",
-      "title": "RFE/RL \u2014 Russian Court Orders Telegram App Blocked (2018)",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "attorney",
-        "encryption-law",
-        "censorship-resistance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md",
-      "id": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
-      "title": "France 24 / AFP \u2014 Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted",
-      "status": "draft",
-      "last_verified": "2026-07-29",
-      "tags": [
-        "source",
-        "attorney",
-        "intermediary-liability",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-PAUL-FISA.md",
-      "id": "SRC-PAUL-FISA",
-      "title": "Fox News Op-Ed: Sen. Rand Paul \u2014 My FISA Reform Amendment Will Keep America Safe",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "fourth-amendment",
-        "privacy",
-        "surveillance"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-WYDEN-SECTION-230.md",
-      "id": "SRC-WYDEN-SECTION-230",
-      "title": "Wyden Remarks at Section 230 Briefing Hosted by EFF",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "source",
-        "person",
-        "internet-governance",
-        "digital-rights"
-      ]
-    },
-    {
-      "path": "bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
-      "id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
-      "title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
-      "status": "draft",
-      "last_verified": "2026-08-08",
-      "tags": [
-        "source",
-        "censorship-resistance",
+        "academic-paper",
         "peer-to-peer-networking",
+        "censorship-resistance",
         "privacy"
       ]
     },
     {
-      "path": "bibliography/people/SRC-TR-IAN-CLARKE.md",
-      "id": "SRC-TR-IAN-CLARKE",
-      "title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
+      "path": "contacts/CONTACT-SFLC.md",
+      "id": "CONTACT-SFLC",
+      "title": "Software Freedom Law Center - Contact Record",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-06-25",
       "tags": [
-        "source",
-        "person",
-        "researcher",
-        "privacy",
-        "censorship-resistance",
-        "peer-to-peer-networking"
+        "organization",
+        "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-KNIGHT-FIRST-AMENDMENT.md",
+      "id": "CONTACT-KNIGHT-FIRST-AMENDMENT",
+      "title": "Knight First Amendment Institute - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "outreach"
       ]
     },
     {
@@ -2996,14 +3020,15 @@
       ]
     },
     {
-      "path": "contacts/CONTACT-INSTITUTE-FOR-FREE-SPEECH.md",
-      "id": "CONTACT-INSTITUTE-FOR-FREE-SPEECH",
-      "title": "Institute for Free Speech - Contact Record",
+      "path": "contacts/CONTACT-FENWICK.md",
+      "id": "CONTACT-FENWICK",
+      "title": "Fenwick & West - Contact Record",
       "status": "draft",
-      "last_verified": "2026-07-04",
+      "last_verified": "2026-06-25",
       "tags": [
         "organization",
-        "first-amendment",
+        "open-source-software",
+        "digital-rights",
         "outreach"
       ]
     },
@@ -3013,6 +3038,55 @@
       "title": "Reporters Committee for Freedom of the Press - Contact Record",
       "status": "draft",
       "last_verified": "2026-07-04",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-EFF.md",
+      "id": "CONTACT-EFF",
+      "title": "Electronic Frontier Foundation - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-COOLEY.md",
+      "id": "CONTACT-COOLEY",
+      "title": "Cooley - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-SOFTWARE-FREEDOM-CONSERVANCY.md",
+      "id": "CONTACT-SOFTWARE-FREEDOM-CONSERVANCY",
+      "title": "Software Freedom Conservancy - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-INSTITUTE-FOR-JUSTICE.md",
+      "id": "CONTACT-INSTITUTE-FOR-JUSTICE",
+      "title": "Institute for Justice - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
       "tags": [
         "organization",
         "first-amendment",
@@ -3044,9 +3118,46 @@
       ]
     },
     {
-      "path": "contacts/CONTACT-COOLEY.md",
-      "id": "CONTACT-COOLEY",
-      "title": "Cooley - Contact Record",
+      "path": "contacts/CONTACT-INSTITUTE-FOR-FREE-SPEECH.md",
+      "id": "CONTACT-INSTITUTE-FOR-FREE-SPEECH",
+      "title": "Institute for Free Speech - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "organization",
+        "first-amendment",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-WILSON-SONSINI.md",
+      "id": "CONTACT-WILSON-SONSINI",
+      "title": "Wilson Sonsini Goodrich & Rosati - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-06-25",
+      "tags": [
+        "organization",
+        "open-source-software",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-PUBLIC-KNOWLEDGE.md",
+      "id": "CONTACT-PUBLIC-KNOWLEDGE",
+      "title": "Public Knowledge - Contact Record",
+      "status": "draft",
+      "last_verified": "2026-07-04",
+      "tags": [
+        "organization",
+        "digital-rights",
+        "outreach"
+      ]
+    },
+    {
+      "path": "contacts/CONTACT-PERKINS-COIE.md",
+      "id": "CONTACT-PERKINS-COIE",
+      "title": "Perkins Coie - Contact Record",
       "status": "draft",
       "last_verified": "2026-06-25",
       "tags": [
@@ -3070,92 +3181,6 @@
       ]
     },
     {
-      "path": "contacts/CONTACT-PERKINS-COIE.md",
-      "id": "CONTACT-PERKINS-COIE",
-      "title": "Perkins Coie - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-INSTITUTE-FOR-JUSTICE.md",
-      "id": "CONTACT-INSTITUTE-FOR-JUSTICE",
-      "title": "Institute for Justice - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "first-amendment",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-PUBLIC-KNOWLEDGE.md",
-      "id": "CONTACT-PUBLIC-KNOWLEDGE",
-      "title": "Public Knowledge - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-07-04",
-      "tags": [
-        "organization",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-SFLC.md",
-      "id": "CONTACT-SFLC",
-      "title": "Software Freedom Law Center - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-SOFTWARE-FREEDOM-CONSERVANCY.md",
-      "id": "CONTACT-SOFTWARE-FREEDOM-CONSERVANCY",
-      "title": "Software Freedom Conservancy - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-EFF.md",
-      "id": "CONTACT-EFF",
-      "title": "Electronic Frontier Foundation - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-FENWICK.md",
-      "id": "CONTACT-FENWICK",
-      "title": "Fenwick & West - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "digital-rights",
-        "outreach"
-      ]
-    },
-    {
       "path": "contacts/CONTACT-FSF.md",
       "id": "CONTACT-FSF",
       "title": "Free Software Foundation - Contact Record",
@@ -3164,31 +3189,6 @@
       "tags": [
         "organization",
         "open-source-software",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-KNIGHT-FIRST-AMENDMENT.md",
-      "id": "CONTACT-KNIGHT-FIRST-AMENDMENT",
-      "title": "Knight First Amendment Institute - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "first-amendment",
-        "outreach"
-      ]
-    },
-    {
-      "path": "contacts/CONTACT-WILSON-SONSINI.md",
-      "id": "CONTACT-WILSON-SONSINI",
-      "title": "Wilson Sonsini Goodrich & Rosati - Contact Record",
-      "status": "draft",
-      "last_verified": "2026-06-25",
-      "tags": [
-        "organization",
-        "open-source-software",
-        "digital-rights",
         "outreach"
       ]
     },
