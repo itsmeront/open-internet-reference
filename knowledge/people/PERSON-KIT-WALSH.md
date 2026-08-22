@@ -23,6 +23,11 @@ relationships:
     object: ORG-EFF
     sources:
       - SRC-WALSH-EFF-BIO
+  - subject: PERSON-KIT-WALSH
+    predicate: related_to
+    object: TOPIC-AI-COPYRIGHT
+    sources:
+      - SRC-WALSH-EFF-BIO
 last_verified: "2026-06-25"
 ---
 
@@ -52,6 +57,7 @@ Walsh's explicit focus on "coders' rights" and her work at the intersection of f
 
 - `PERSON-KIT-WALSH` cites `SRC-WALSH-EFF-BIO`.
 - `PERSON-KIT-WALSH` affiliated_with `ORG-EFF`.
+- `PERSON-KIT-WALSH` related_to `TOPIC-AI-COPYRIGHT`.
 
 ## Sources
 
@@ -60,7 +66,7 @@ Walsh's explicit focus on "coders' rights" and her work at the intersection of f
 ## Research Debt
 
 - Document specific coders' rights cases handled.
-- Add details on AI and access to knowledge legal work.
+- Add details on AI and access to knowledge legal work; see [Copyright and Generative AI](../legal/TOPIC-AI-COPYRIGHT.md).
 - Document how software developers can engage with EFF on coders' rights issues.
 - Corroborate self-reported biography or about-page claims with independent sources (institutional profile, court docket, case page, or reputable journalism).
 - Add primary or secondary sources for major litigation and impact claims (dockets, case pages, official court records, or reputable journalism).

@@ -32,3 +32,4 @@ Official biography maintained by EFF. Primary source for Walsh's role and practi
 ## Used For
 
 - `PERSON-KIT-WALSH`
+- `TOPIC-AI-COPYRIGHT`

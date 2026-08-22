@@ -50,6 +50,10 @@ Cornell LII is a high-confidence legal reference. For formal citation or final p
 - [`STAT-USC-107`](../../../used-for.md#stat-usc-107)
 - [`TOPIC-FAIR-USE-VIDEO`](../../../used-for.md#topic-fair-use-video)
 - [`CASE-LENZ-V-UNIVERSAL`](../../../used-for.md#case-lenz-v-universal)
+- [`TOPIC-AI-COPYRIGHT`](../../../used-for.md#topic-ai-copyright)
+- [`CASE-BARTZ-V-ANTHROPIC`](../../../used-for.md#case-bartz-v-anthropic)
+- [`CASE-KADREY-V-META`](../../../used-for.md#case-kadrey-v-meta)
+- [`CASE-THOMSON-REUTERS-V-ROSS`](../../../used-for.md#case-thomson-reuters-v-ross)
 
 ## Document metadata
 

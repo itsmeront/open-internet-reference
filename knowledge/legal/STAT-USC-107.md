@@ -37,6 +37,11 @@ relationships:
     object: CASE-GOOGLE-V-ORACLE
     sources:
       - SRC-GOOGLE-ORACLE-JUSTIA
+  - subject: STAT-USC-107
+    predicate: related_to
+    object: TOPIC-AI-COPYRIGHT
+    sources:
+      - SRC-USC-17-107-LII
 last_verified: "2026-07-19"
 enactment_date: "1976"
 ---
@@ -73,6 +78,7 @@ Legal analysis has not yet been drafted from primary case law. Future work shoul
 - `STAT-USC-107` related_to `TOPIC-FAIR-USE-VIDEO`.
 - `STAT-USC-107` related_to `CASE-LENZ-V-UNIVERSAL`.
 - `STAT-USC-107` related_to `CASE-GOOGLE-V-ORACLE`.
+- `STAT-USC-107` related_to `TOPIC-AI-COPYRIGHT`.
 
 ## Sources
 
@@ -83,5 +89,6 @@ Legal analysis has not yet been drafted from primary case law. Future work shoul
 ## Research Debt
 
 - Add leading video and music fair use cases with primary sources (for example Campbell v. Acuff-Rose).
+- Compare statutory factors to generative-AI training decisions collected on [Copyright and Generative AI](TOPIC-AI-COPYRIGHT.md).
 - Summarize statutory history from official legislative materials.
 - Draft legal analysis from primary case law rather than secondary guides.

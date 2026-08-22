@@ -252,6 +252,88 @@
       ]
     },
     {
+      "source_id": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+      "source_title": "Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+          "predicate": "cites",
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "subject": "CASE-BARTZ-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "subject": "CASE-BARTZ-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "subject": "CASE-BARTZ-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+      "source_title": "Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BBC-DUROV-FSB-2026",
       "source_title": "BBC News \u2014 Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism",
       "usages": [
@@ -1445,6 +1527,99 @@
       ]
     },
     {
+      "source_id": "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+      "source_title": "Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)",
+      "usages": [
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+      "source_title": "Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-COOLEY-TECH",
       "source_title": "Cooley Technology Industry Practice Page",
       "usages": [
@@ -2231,6 +2406,208 @@
       ]
     },
     {
+      "source_id": "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+      "source_title": "Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+      "source_title": "Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "predicate": "related_to",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FIRST-AMENDMENT",
+          "record_title": "First Amendment",
+          "subject": "TOPIC-FIRST-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+      "source_title": "LG M\u00fcnchen I, Endurteil v. 11.11.2025 \u2013 42 O 14139/24 (GEMA v. OpenAI)",
+      "usages": [
+        {
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+          "predicate": "cites",
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "subject": "CASE-GEMA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "subject": "CASE-GEMA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "subject": "CASE-GEMA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "subject": "CASE-GEMA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GEMA-V-OPENAI-PRESS-2025",
+      "source_title": "Landgericht M\u00fcnchen I, Pressemitteilung 11/2025 (GEMA v. OpenAI)",
+      "usages": [
+        {
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-GNUNET-ABOUT",
       "source_title": "GNUnet About Page",
       "usages": [
@@ -2891,6 +3268,67 @@
       ]
     },
     {
+      "source_id": "SRC-KADREY-V-META-FAIR-USE",
+      "source_title": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KADREY-V-META-FAIR-USE",
+          "predicate": "cites",
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "subject": "CASE-KADREY-V-META",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "subject": "CASE-KADREY-V-META",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "subject": "CASE-KADREY-V-META",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-KAHN-CNRI",
       "source_title": "Robert E. Kahn CNRI Biography",
       "usages": [
@@ -3417,6 +3855,102 @@
       ]
     },
     {
+      "source_id": "SRC-NYT-V-OPENAI-12C-2026",
+      "source_title": "The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-NYT-V-OPENAI-COMPLAINT",
+      "source_title": "The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)",
+      "usages": [
+        {
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-NYT-V-OPENAI-MTD-2025",
+      "source_title": "The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-NYT-V-OPENAI-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "subject": "CASE-NYT-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "subject": "CASE-NYT-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "subject": "CASE-NYT-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-OFAC-FAQ-1076",
       "source_title": "OFAC FAQ 1076 \u2014 Prohibitions Resulting from Tornado Cash Designation",
       "usages": [
@@ -3511,6 +4045,25 @@
           "record_id": "ORG-OSI",
           "record_title": "Open Source Initiative",
           "subject": "ORG-OSI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+      "source_title": "Oxford University Press \u2014 \u2018Brain rot\u2019 named Oxford Word of the Year 2024",
+      "usages": [
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+          "predicate": "cites",
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "subject": "TOPIC-BRAIN-ROT",
           "usage": "relationship_source"
         }
       ]
@@ -4518,6 +5071,144 @@
       ]
     },
     {
+      "source_id": "SRC-SONY-V-UDIO-2026-COMPLAINT",
+      "source_title": "Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "subject": "CASE-UMG-V-UDIO",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+      "source_title": "Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "subject": "CASE-SPYDER-V-MEMENTUM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "subject": "CASE-SPYDER-V-MEMENTUM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "subject": "CASE-SPYDER-V-MEMENTUM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "subject": "CASE-SPYDER-V-MEMENTUM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "subject": "TOPIC-BRAIN-ROT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SPYDER-V-MEMENTUM-DOCKET",
+      "source_title": "Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)",
+      "usages": [
+        {
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-STOLTZ-EFF-BIO",
       "source_title": "Mitch Stoltz EFF Staff Biography",
       "usages": [
@@ -4660,6 +5351,162 @@
           "record_id": "PERSON-PAVEL-DUROV",
           "record_title": "Pavel Durov",
           "subject": "PERSON-PAVEL-DUROV",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-THALER-V-PERLMUTTER-CADC",
+      "source_title": "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-THALER-V-PERLMUTTER-CADC",
+          "predicate": "cites",
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "subject": "CASE-THALER-V-PERLMUTTER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "subject": "CASE-THALER-V-PERLMUTTER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "subject": "CASE-THALER-V-PERLMUTTER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "subject": "CASE-THALER-V-PERLMUTTER",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "subject": "TOPIC-BRAIN-ROT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+      "source_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+          "predicate": "cites",
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-THOMSON-REUTERS-V-ROSS",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-THOMSON-REUTERS-V-ROSS",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
           "usage": "relationship_source"
         }
       ]
@@ -5112,6 +5959,266 @@
       ]
     },
     {
+      "source_id": "SRC-UMG-V-SUNO-ANSWER",
+      "source_title": "UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "subject": "CASE-UMG-V-SUNO",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-UMG-V-SUNO-COMPLAINT",
+      "source_title": "UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-UMG-V-SUNO-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "subject": "CASE-UMG-V-SUNO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "subject": "CASE-UMG-V-SUNO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "subject": "CASE-UMG-V-SUNO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "subject": "CASE-UMG-V-SUNO",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+      "source_title": "UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs\u2019 stipulation of dismissal (D. Mass. Dec. 9, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-UMG-V-UDIO-COMPLAINT",
+      "source_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-UMG-V-UDIO-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "subject": "CASE-UMG-V-UDIO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "subject": "CASE-UMG-V-UDIO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "subject": "CASE-UMG-V-UDIO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "subject": "CASE-UMG-V-UDIO",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-UMG-V-UDIO-DOCKET",
+      "source_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)",
+      "usages": [
+        {
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-US-CONST-AMEND-I-LII",
       "source_title": "U.S. Constitution First Amendment (Cornell LII)",
       "usages": [
@@ -5199,6 +6306,37 @@
       "source_title": "17 U.S.C. \u00a7 107",
       "usages": [
         {
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-BARTZ-V-ANTHROPIC",
+          "record_title": "Bartz v. Anthropic PBC",
+          "subject": "CASE-BARTZ-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-KADREY-V-META",
+          "record_title": "Kadrey v. Meta Platforms, Inc.",
+          "subject": "CASE-KADREY-V-META",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "CASE-LENZ-V-UNIVERSAL",
           "record_title": "Lenz v. Universal Music Corp.",
           "usage": "page_source"
@@ -5220,6 +6358,29 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+          "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-UMG-V-SUNO",
+          "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-UMG-V-UDIO",
+          "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+          "usage": "page_source"
+        },
+        {
           "record_id": "STAT-USC-107",
           "record_title": "17 U.S.C. \u00a7 107",
           "usage": "page_source"
@@ -5233,12 +6394,38 @@
           "usage": "relationship_source"
         },
         {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "STAT-USC-107",
+          "record_title": "17 U.S.C. \u00a7 107",
+          "subject": "STAT-USC-107",
+          "usage": "relationship_source"
+        },
+        {
           "object": "TOPIC-FAIR-USE-VIDEO",
           "predicate": "related_to",
           "record_id": "STAT-USC-107",
           "record_title": "17 U.S.C. \u00a7 107",
           "subject": "STAT-USC-107",
           "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
         },
         {
           "record_id": "TOPIC-FAIR-USE-VIDEO",
@@ -5255,6 +6442,14 @@
         },
         {
           "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "record_id": "TOPIC-FAIR-USE-VIDEO",
+          "record_title": "Fair Use and Video",
+          "subject": "TOPIC-FAIR-USE-VIDEO",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
           "predicate": "related_to",
           "record_id": "TOPIC-FAIR-USE-VIDEO",
           "record_title": "Fair Use and Video",
@@ -5566,6 +6761,90 @@
       ]
     },
     {
+      "source_id": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+      "source_title": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 \u2014 Copyrightability (January 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+          "predicate": "cites",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+      "source_title": "Copyright Registration Guidance \u2014 Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)",
+      "usages": [
+        {
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-SPYDER-V-MEMENTUM",
+          "record_title": "Spyder Games LLC v. Mementum Lab",
+          "subject": "CASE-SPYDER-V-MEMENTUM",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-THALER-V-PERLMUTTER",
+          "record_title": "Thaler v. Perlmutter",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-BRAIN-ROT",
+          "record_title": "Brain Rot and AI-Generated Meme Characters",
+          "subject": "TOPIC-BRAIN-ROT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-VAN-BUREN-GOVINFO",
       "source_title": "Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)",
       "usages": [
@@ -5830,6 +7109,27 @@
           "record_id": "PERSON-KIT-WALSH",
           "record_title": "Kit Walsh",
           "subject": "PERSON-KIT-WALSH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "PERSON-KIT-WALSH",
+          "record_title": "Kit Walsh",
+          "subject": "PERSON-KIT-WALSH",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-KIT-WALSH",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
           "usage": "relationship_source"
         }
       ]

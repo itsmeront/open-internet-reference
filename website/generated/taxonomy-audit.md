@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-08-20 06:27 UTC
+Last updated: 2026-08-22 18:33 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -8,9 +8,9 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Metric | Count |
 |--------|-------|
-| Tags declared in TAXONOMY.md | 55 |
-| Tags used in content | 57 |
-| Total tag applications | 1493 |
+| Tags declared in TAXONOMY.md | 56 |
+| Tags used in content | 58 |
+| Total tag applications | 1655 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,34 +20,35 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 208 | ✓ |
-| `digital-rights` | 169 | ✓ |
+| `source` | 233 | ✓ |
+| `digital-rights` | 187 | ✓ |
 | `privacy` | 114 | ✓ |
 | `organization` | 91 | ✓ |
 | `open-source-software` | 78 | ✓ |
-| `first-amendment` | 71 | ✓ |
+| `first-amendment` | 75 | ✓ |
+| `case` | 74 | ✓ |
+| `copyright` | 68 | ✓ |
 | `person` | 68 | ⚠️ undeclared |
 | `outreach` | 56 | ⚠️ undeclared |
 | `internet-governance` | 49 | ✓ |
-| `case` | 41 | ✓ |
 | `attorney` | 41 | ✓ |
+| `artificial-intelligence` | 40 | ✓ |
 | `cryptography` | 33 | ✓ |
-| `copyright` | 32 | ✓ |
 | `surveillance` | 32 | ✓ |
+| `case-studies` | 27 | ✓ |
 | `censorship-resistance` | 26 | ✓ |
-| `case-studies` | 23 | ✓ |
 | `fourth-amendment` | 23 | ✓ |
 | `computer-crime` | 23 | ✓ |
 | `internet-architecture` | 22 | ✓ |
 | `speech-and-code` | 21 | ✓ |
+| `intermediary-liability` | 20 | ✓ |
 | `sanctions` | 19 | ✓ |
 | `civil-society` | 19 | ✓ |
-| `intermediary-liability` | 18 | ✓ |
 | `peer-to-peer-networking` | 17 | ✓ |
 | `statute` | 16 | ✓ |
 | `secure-messaging` | 15 | ✓ |
-| `open-source-risk` | 14 | ✓ |
 | `age-verification` | 14 | ✓ |
+| `open-source-risk` | 14 | ✓ |
 | `case-law` | 12 | ⚠️ undeclared |
 | `public-policy` | 10 | ✓ |
 | `safe-harbor` | 10 | ✓ |
@@ -57,8 +58,8 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `border-search` | 7 | ⚠️ undeclared |
 | `encryption-law` | 7 | ✓ |
 | `network-protocols` | 7 | ✓ |
-| `tornado-cash` | 6 | ✓ |
 | `export-control` | 6 | ✓ |
+| `tornado-cash` | 6 | ✓ |
 | `constitutional-law` | 5 | ✓ |
 | `distributed-systems` | 5 | ✓ |
 | `technology-law` | 4 | ⚠️ undeclared |
@@ -67,16 +68,16 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `civil-liberties` | 3 | ⚠️ undeclared |
 | `researcher` | 3 | ✓ |
 | `technical` | 3 | ⚠️ undeclared |
+| `academic-paper` | 3 | ⚠️ undeclared |
 | `imported-source` | 3 | ⚠️ undeclared |
 | `project-governance` | 3 | ⚠️ undeclared |
 | `technical-standard` | 3 | ⚠️ undeclared |
-| `academic-paper` | 3 | ⚠️ undeclared |
 | `distributed-hash-tables` | 2 | ✓ |
 | `software-distribution` | 1 | ✓ |
 | `example-tag` | 1 | ⚠️ undeclared |
-| `commentary` | 1 | ⚠️ undeclared |
 | `academic` | 1 | ⚠️ undeclared |
 | `onion-routing` | 1 | ⚠️ undeclared |
+| `commentary` | 1 | ⚠️ undeclared |
 
 ## Orphan Tags
 
@@ -104,20 +105,20 @@ These tags are used in content but not listed in `TAXONOMY.md`:
 
 | Tag | Used in |
 |-----|---------|
-| `academic` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
-| `academic-paper` | `bibliography/academic/SRC-CLARKE-DDISRS-1999.md`, `bibliography/academic/SRC-CLARKE-FREENET-PAPER-2001.md`, `bibliography/academic/SRC-KADEMLIA-PAPER.md` |
-| `border-search` | `knowledge/legal/STAT-18-USC-2232.md`, `knowledge/legal/TOPIC-DEVICE-SEARCH.md`, `knowledge/legal/CASE-US-V-TUNICK.md` +4 more |
-| `case-law` | `bibliography/legal/SRC-VAN-BUREN-GOVINFO.md`, `bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md`, `bibliography/legal/SRC-CARPENTER-LII.md` +9 more |
-| `civil-liberties` | `knowledge/organizations/ORG-ACLU.md`, `bibliography/organizations/SRC-ACLU-HISTORY.md`, `bibliography/organizations/SRC-ACLU-CONTACT.md` |
-| `commentary` | `bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md` |
-| `example-tag` | `knowledge/_templates/knowledge-page.md` |
-| `imported-source` | `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md` |
-| `onion-routing` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
-| `outreach` | `knowledge/organizations/ORG-EFF.md`, `knowledge/organizations/ORG-OSI.md`, `knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md` +53 more |
-| `person` | `knowledge/people/PERSON-RON-WYDEN.md`, `knowledge/people/PERSON-ROBERT-KAHN.md`, `knowledge/people/PERSON-TIM-BERNERS-LEE.md` +65 more |
-| `project-governance` | `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md`, `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md` |
-| `technical` | `knowledge/technical/TOPIC-ONION-ROUTING.md`, `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography/technical/SRC-SIGNAL-X3DH.md` |
-| `technical-standard` | `bibliography/technical/SRC-RFC-9293.md`, `bibliography/technical/SRC-RFC-1034.md`, `bibliography/technical/SRC-RFC-8446.md` |
-| `technology-law` | `knowledge/legal/CASE-VAN-BUREN-V-US.md`, `knowledge/legal/TOPIC-COMPUTER-FRAUD.md`, `bibliography/legal/SRC-VAN-BUREN-GOVINFO.md` +1 more |
+| `academic` | `bibliography\academic\SRC-TOR-DESIGN-PAPER.md` |
+| `academic-paper` | `bibliography\academic\SRC-CLARKE-DDISRS-1999.md`, `bibliography\academic\SRC-CLARKE-FREENET-PAPER-2001.md`, `bibliography\academic\SRC-KADEMLIA-PAPER.md` |
+| `border-search` | `knowledge\legal\CASE-US-V-TUNICK.md`, `knowledge\legal\STAT-18-USC-2232.md`, `knowledge\legal\TOPIC-DEVICE-SEARCH.md` +4 more |
+| `case-law` | `bibliography\legal\SRC-BROWN-V-EMA-GOVINFO.md`, `bibliography\legal\SRC-CARPENTER-GOVINFO.md`, `bibliography\legal\SRC-CARPENTER-LII.md` +9 more |
+| `civil-liberties` | `knowledge\organizations\ORG-ACLU.md`, `bibliography\organizations\SRC-ACLU-CONTACT.md`, `bibliography\organizations\SRC-ACLU-HISTORY.md` |
+| `commentary` | `bibliography\legal\SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md` |
+| `example-tag` | `knowledge\_templates\knowledge-page.md` |
+| `imported-source` | `bibliography\imported\SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography\imported\SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography\imported\SRC-OIR-ROADMAP-DOCX.md` |
+| `onion-routing` | `bibliography\academic\SRC-TOR-DESIGN-PAPER.md` |
+| `outreach` | `knowledge\organizations\ORG-ACLU.md`, `knowledge\organizations\ORG-CDT.md`, `knowledge\organizations\ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md` +53 more |
+| `person` | `knowledge\people\PERSON-ALAN-KAY.md`, `knowledge\people\PERSON-ANDREW-RUSSELL.md`, `knowledge\people\PERSON-BRUCE-SCHNEIER.md` +65 more |
+| `project-governance` | `bibliography\imported\SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography\imported\SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography\imported\SRC-OIR-ROADMAP-DOCX.md` |
+| `technical` | `knowledge\technical\TOPIC-ONION-ROUTING.md`, `bibliography\technical\SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography\technical\SRC-SIGNAL-X3DH.md` |
+| `technical-standard` | `bibliography\technical\SRC-RFC-1034.md`, `bibliography\technical\SRC-RFC-8446.md`, `bibliography\technical\SRC-RFC-9293.md` |
+| `technology-law` | `knowledge\legal\CASE-VAN-BUREN-V-US.md`, `knowledge\legal\TOPIC-COMPUTER-FRAUD.md`, `bibliography\legal\SRC-VAN-BUREN-GOVINFO.md` +1 more |
 
 **Action:** Add these to TAXONOMY.md or replace with existing tags.

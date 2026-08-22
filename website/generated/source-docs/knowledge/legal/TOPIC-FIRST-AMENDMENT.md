@@ -13,6 +13,7 @@ sources:
   - SRC-US-CONST-AMEND-I-LII
   - SRC-RENO-V-ACLU-JUSTIA
   - SRC-FIRE-MISSION
+  - SRC-GARCIA-V-CHARACTER-MTD-2025
 relationships:
   - subject: TOPIC-FIRST-AMENDMENT
     predicate: cites
@@ -39,6 +40,11 @@ relationships:
     object: ORG-FIRE
     sources:
       - SRC-FIRE-MISSION
+  - subject: TOPIC-FIRST-AMENDMENT
+    predicate: related_to
+    object: CASE-GARCIA-V-CHARACTER-TECHNOLOGIES
+    sources:
+      - SRC-GARCIA-V-CHARACTER-MTD-2025
 last_verified: "2026-07-31"
 ---
 
@@ -53,8 +59,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 3
-    - **Relationships**: 5
+    - **Sources**: 4
+    - **Relationships**: 6
     - **Research debt items**: 4
 
 ---
@@ -89,6 +95,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 - `TOPIC-FIRST-AMENDMENT` related_to `TOPIC-CODE-AS-SPEECH`.
 - `TOPIC-FIRST-AMENDMENT` related_to `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`.
 - `TOPIC-FIRST-AMENDMENT` related_to `ORG-FIRE`.
+- `TOPIC-FIRST-AMENDMENT` related_to `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`.
 
 ## Sources
 
@@ -98,6 +105,7 @@ Additional sources (not yet cited in footnotes):
 
 - [`SRC-RENO-V-ACLU-JUSTIA`](https://supreme.justia.com/cases/federal/us/521/844/): Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).
 - [`SRC-FIRE-MISSION`](https://www.thefire.org/about-us/mission): FIRE Mission Page.
+- [`SRC-GARCIA-V-CHARACTER-MTD-2025`](../../../bibliography.md#SRC-GARCIA-V-CHARACTER-MTD-2025): Garcia v. Character Technologies order on motions to dismiss (May 20, 2025).
 
 ## Research Debt
 
