@@ -258,6 +258,54 @@
       "record_type": "case"
     },
     {
+      "date": "2025-02-11",
+      "description": "Thomson Reuters v. Ross Intelligence (D. Del. Feb. 11, 2025) rejected a fair-use defense for using Westlaw headnotes to train a competing non-generative legal-research AI tool.",
+      "event_type": "decision",
+      "record_id": "CASE-THOMSON-REUTERS-V-ROSS",
+      "record_title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-03-18",
+      "description": "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being, affirming refusal to register an image listed as authored solely by a generative-AI system.",
+      "event_type": "decision",
+      "record_id": "CASE-THALER-V-PERLMUTTER",
+      "record_title": "Thaler v. Perlmutter",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-04-04",
+      "description": "Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.",
+      "event_type": "decision",
+      "record_id": "CASE-NYT-V-OPENAI",
+      "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-05-20",
+      "description": "Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.",
+      "event_type": "decision",
+      "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "record_title": "Garcia v. Character Technologies, Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-06-23",
+      "description": "Bartz v. Anthropic PBC held that using purchased books to train Claude was transformative fair use but that building a permanent library from pirated copies was not, and the court later approved a $1.5 billion class settlement of the piracy claims.",
+      "event_type": "decision",
+      "record_id": "CASE-BARTZ-V-ANTHROPIC",
+      "record_title": "Bartz v. Anthropic PBC",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-06-25",
+      "description": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors\u2019 books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.",
+      "event_type": "decision",
+      "record_id": "CASE-KADREY-V-META",
+      "record_title": "Kadrey v. Meta Platforms, Inc.",
+      "record_type": "case"
+    },
+    {
       "date": "2025-07-30",
       "description": "Keonne Rodriguez and William Lonergan Hill, co-founders of Samourai Wallet, pled guilty in S.D.N.Y. to conspiracy to operate a money transmitting business knowing it transmitted crime proceeds and were sentenced to five and four years in prison.",
       "event_type": "decision",
@@ -274,12 +322,28 @@
       "record_type": "case"
     },
     {
+      "date": "2025-10-06",
+      "description": "Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims.",
+      "event_type": "decision",
+      "record_id": "CASE-CONCORD-V-ANTHROPIC",
+      "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+      "record_type": "case"
+    },
+    {
       "date": "2025-10-13",
       "description": "California\u2019s Digital Age Assurance Act (AB 1043; Civ. Code Title 1.81.9) requires operating system providers to collect age at account setup and send age-bracket signals to apps, and requires developers to request those signals; effective January 1, 2026 and operative January 1, 2027.",
       "event_type": "enactment",
       "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
       "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
       "record_type": "statute"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.",
+      "event_type": "decision",
+      "record_id": "CASE-GEMA-V-OPENAI",
+      "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+      "record_type": "case"
     },
     {
       "date": "2025-11-13",

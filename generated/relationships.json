@@ -2,6 +2,46 @@
   "description": "Generated relationship graph edge index.",
   "edges": [
     {
+      "declared_in": "CASE-BARTZ-V-ANTHROPIC",
+      "notes": null,
+      "object": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+      ],
+      "subject": "CASE-BARTZ-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-BARTZ-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-KADREY-V-META",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+      ],
+      "subject": "CASE-BARTZ-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-BARTZ-V-ANTHROPIC",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "CASE-BARTZ-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-BARTZ-V-ANTHROPIC",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+      ],
+      "subject": "CASE-BARTZ-V-ANTHROPIC"
+    },
+    {
       "declared_in": "CASE-BERNSTEIN-V-DOJ",
       "notes": null,
       "object": "SRC-BERNSTEIN-EFF",
@@ -254,6 +294,136 @@
       "subject": "CASE-COIN-CENTER-V-YELLEN"
     },
     {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
+      "object": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-GEMA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GEMA-V-OPENAI",
+      "notes": null,
+      "object": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-GEMA-V-OPENAI",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-GEMA-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-GEMA-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
       "declared_in": "CASE-GOOGLE-V-ORACLE",
       "notes": null,
       "object": "SRC-GOOGLE-ORACLE-JUSTIA",
@@ -312,6 +482,46 @@
         "SRC-JUNGER-CMU"
       ],
       "subject": "CASE-JUNGER-V-DALEY"
+    },
+    {
+      "declared_in": "CASE-KADREY-V-META",
+      "notes": null,
+      "object": "SRC-KADREY-V-META-FAIR-USE",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE"
+      ],
+      "subject": "CASE-KADREY-V-META"
+    },
+    {
+      "declared_in": "CASE-KADREY-V-META",
+      "notes": null,
+      "object": "CASE-BARTZ-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE"
+      ],
+      "subject": "CASE-KADREY-V-META"
+    },
+    {
+      "declared_in": "CASE-KADREY-V-META",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "CASE-KADREY-V-META"
+    },
+    {
+      "declared_in": "CASE-KADREY-V-META",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE"
+      ],
+      "subject": "CASE-KADREY-V-META"
     },
     {
       "declared_in": "CASE-LENZ-V-UNIVERSAL",
@@ -402,6 +612,36 @@
         "SRC-PERTSEV-ECLI-2024"
       ],
       "subject": "CASE-NL-V-PERTSEV"
+    },
+    {
+      "declared_in": "CASE-NYT-V-OPENAI",
+      "notes": null,
+      "object": "SRC-NYT-V-OPENAI-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "CASE-NYT-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-NYT-V-OPENAI",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "CASE-NYT-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-NYT-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "CASE-NYT-V-OPENAI"
     },
     {
       "declared_in": "CASE-PACKINGHAM-V-NC",
@@ -542,6 +782,236 @@
         "SRC-RENO-V-ACLU-LOC"
       ],
       "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-SPYDER-V-MEMENTUM",
+      "notes": null,
+      "object": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "CASE-SPYDER-V-MEMENTUM"
+    },
+    {
+      "declared_in": "CASE-SPYDER-V-MEMENTUM",
+      "notes": null,
+      "object": "CASE-THALER-V-PERLMUTTER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "CASE-SPYDER-V-MEMENTUM"
+    },
+    {
+      "declared_in": "CASE-SPYDER-V-MEMENTUM",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "subject": "CASE-SPYDER-V-MEMENTUM"
+    },
+    {
+      "declared_in": "CASE-SPYDER-V-MEMENTUM",
+      "notes": null,
+      "object": "TOPIC-BRAIN-ROT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "CASE-SPYDER-V-MEMENTUM"
+    },
+    {
+      "declared_in": "CASE-SPYDER-V-MEMENTUM",
+      "notes": null,
+      "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "CASE-SPYDER-V-MEMENTUM"
+    },
+    {
+      "declared_in": "CASE-THALER-V-PERLMUTTER",
+      "notes": null,
+      "object": "SRC-THALER-V-PERLMUTTER-CADC",
+      "predicate": "cites",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "CASE-THALER-V-PERLMUTTER"
+    },
+    {
+      "declared_in": "CASE-THALER-V-PERLMUTTER",
+      "notes": null,
+      "object": "CASE-GOOGLE-V-ORACLE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "CASE-THALER-V-PERLMUTTER"
+    },
+    {
+      "declared_in": "CASE-THALER-V-PERLMUTTER",
+      "notes": null,
+      "object": "CASE-SPYDER-V-MEMENTUM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "CASE-THALER-V-PERLMUTTER"
+    },
+    {
+      "declared_in": "CASE-THALER-V-PERLMUTTER",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "CASE-THALER-V-PERLMUTTER"
+    },
+    {
+      "declared_in": "CASE-THOMSON-REUTERS-V-ROSS",
+      "notes": null,
+      "object": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+    },
+    {
+      "declared_in": "CASE-THOMSON-REUTERS-V-ROSS",
+      "notes": null,
+      "object": "CASE-GOOGLE-V-ORACLE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+    },
+    {
+      "declared_in": "CASE-THOMSON-REUTERS-V-ROSS",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+    },
+    {
+      "declared_in": "CASE-THOMSON-REUTERS-V-ROSS",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+    },
+    {
+      "declared_in": "CASE-UMG-V-SUNO",
+      "notes": null,
+      "object": "SRC-UMG-V-SUNO-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-SUNO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-SUNO",
+      "notes": null,
+      "object": "CASE-UMG-V-UDIO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-SUNO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-SUNO",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-ANSWER"
+      ],
+      "subject": "CASE-UMG-V-SUNO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-SUNO",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-SUNO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-SUNO",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-SUNO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-UDIO",
+      "notes": null,
+      "object": "SRC-UMG-V-UDIO-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-UDIO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-UDIO",
+      "notes": null,
+      "object": "CASE-UMG-V-SUNO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-UDIO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-UDIO",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-UDIO-2026-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-UDIO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-UDIO",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-UDIO"
+    },
+    {
+      "declared_in": "CASE-UMG-V-UDIO",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "CASE-UMG-V-UDIO"
     },
     {
       "declared_in": "CASE-UNIVERSAL-V-CORLEY",
@@ -2155,6 +2625,16 @@
       "subject": "PERSON-KIT-WALSH"
     },
     {
+      "declared_in": "PERSON-KIT-WALSH",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "subject": "PERSON-KIT-WALSH"
+    },
+    {
       "declared_in": "PERSON-LAUREN-WEINSTEIN",
       "notes": null,
       "object": "SRC-WEINSTEIN-BIO",
@@ -2958,6 +3438,16 @@
     {
       "declared_in": "STAT-USC-107",
       "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "STAT-USC-107"
+    },
+    {
+      "declared_in": "STAT-USC-107",
+      "notes": null,
       "object": "TOPIC-FAIR-USE-VIDEO",
       "predicate": "related_to",
       "sources": [
@@ -3199,6 +3689,406 @@
       "subject": "TECH-TORNADO-CASH"
     },
     {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-BARTZ-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-GEMA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-GOOGLE-V-ORACLE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-KADREY-V-META",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-NYT-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-SPYDER-V-MEMENTUM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-THALER-V-PERLMUTTER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-THOMSON-REUTERS-V-ROSS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-UMG-V-SUNO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-UMG-V-UDIO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "PERSON-KIT-WALSH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "TOPIC-BRAIN-ROT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-BARTZ-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-GEMA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-KADREY-V-META",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-NYT-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-SPYDER-V-MEMENTUM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-THALER-V-PERLMUTTER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-THOMSON-REUTERS-V-ROSS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-UMG-V-SUNO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-UMG-V-UDIO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-BRAIN-ROT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": "Adjacent inventory of proceedings against software authors; Garcia is civil product liability, not a criminal developer prosecution.",
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-GEMA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-UMG-V-SUNO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-UMG-V-UDIO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "STAT-USC-107",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-ANSWER"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
       "declared_in": "TOPIC-APP-STORE-AGE-VERIFICATION",
       "notes": null,
       "object": "CASE-CCIA-V-PAXTON-SB2420",
@@ -3237,6 +4127,46 @@
         "SRC-CCIA-V-PAXTON-PI-ORDER"
       ],
       "subject": "TOPIC-APP-STORE-AGE-VERIFICATION"
+    },
+    {
+      "declared_in": "TOPIC-BRAIN-ROT",
+      "notes": null,
+      "object": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OXFORD-BRAIN-ROT-WOTY-2024"
+      ],
+      "subject": "TOPIC-BRAIN-ROT"
+    },
+    {
+      "declared_in": "TOPIC-BRAIN-ROT",
+      "notes": null,
+      "object": "CASE-SPYDER-V-MEMENTUM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+      ],
+      "subject": "TOPIC-BRAIN-ROT"
+    },
+    {
+      "declared_in": "TOPIC-BRAIN-ROT",
+      "notes": null,
+      "object": "CASE-THALER-V-PERLMUTTER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC"
+      ],
+      "subject": "TOPIC-BRAIN-ROT"
+    },
+    {
+      "declared_in": "TOPIC-BRAIN-ROT",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "subject": "TOPIC-BRAIN-ROT"
     },
     {
       "declared_in": "TOPIC-CODE-AS-SPEECH",
@@ -3783,6 +4713,16 @@
     {
       "declared_in": "TOPIC-FAIR-USE-VIDEO",
       "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-USC-17-107-LII"
+      ],
+      "subject": "TOPIC-FAIR-USE-VIDEO"
+    },
+    {
+      "declared_in": "TOPIC-FAIR-USE-VIDEO",
+      "notes": null,
       "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
       "predicate": "related_to",
       "sources": [
@@ -3797,6 +4737,16 @@
       "predicate": "cites",
       "sources": [
         "SRC-US-CONST-AMEND-I-LII"
+      ],
+      "subject": "TOPIC-FIRST-AMENDMENT"
+    },
+    {
+      "declared_in": "TOPIC-FIRST-AMENDMENT",
+      "notes": null,
+      "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
       ],
       "subject": "TOPIC-FIRST-AMENDMENT"
     },

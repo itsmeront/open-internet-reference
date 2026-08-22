@@ -2,7 +2,16 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 128
+Record count: 143
+
+## `CASE-BARTZ-V-ANTHROPIC`: Bartz v. Anthropic PBC { #CASE-BARTZ-V-ANTHROPIC }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Bartz v. Anthropic PBC held that using purchased books to train Claude was transformative fair use but that building a permanent library from pirated copies was not, and the court later approved a $1.5 billion class settlement of the piracy claims.
 
 ## `CASE-BERNSTEIN-V-DOJ`: Bernstein v. United States Department of Justice { #CASE-BERNSTEIN-V-DOJ }
 
@@ -58,6 +67,33 @@ Chatrie v. United States, No. 25-112 (June 29, 2026), held that police conduct a
 
 Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summary judgment to Treasury on OFAC’s Tornado Cash designation, treating Tornado Cash as an association with an interest in the designated smart-contract tool.
 
+## `CASE-CONCORD-V-ANTHROPIC`: Concord Music Group, Inc. v. Anthropic PBC { #CASE-CONCORD-V-ANTHROPIC }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims.
+
+## `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`: Garcia v. Character Technologies, Inc. { #CASE-GARCIA-V-CHARACTER-TECHNOLOGIES }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Tags: case, first-amendment, artificial-intelligence, digital-rights, intermediary-liability
+
+Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.
+
+## `CASE-GEMA-V-OPENAI`: GEMA v. OpenAI (LG München I) { #CASE-GEMA-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-GEMA-V-OPENAI.md`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.
+
 ## `CASE-GOOGLE-V-ORACLE`: Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
 
 - Type: `case`
@@ -76,6 +112,15 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 
 Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is protected by the First Amendment because of its expressiveness in conveying ideas, reversing the district court's contrary finding on encryption source code and export restrictions.
 
+## `CASE-KADREY-V-META`: Kadrey v. Meta Platforms, Inc. { #CASE-KADREY-V-META }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-KADREY-V-META.md`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors’ books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.
+
 ## `CASE-LENZ-V-UNIVERSAL`: Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
 
 - Type: `case`
@@ -93,6 +138,15 @@ Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyrigh
 - Tags: case, computer-crime, privacy, tornado-cash, case-studies, developer-rights, open-source-risk
 
 East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) convicted a Tornado Cash developer of money laundering and imposed a 64-month prison sentence; English judiciary news identifies the defendant as Alexey Pertsev.
+
+## `CASE-NYT-V-OPENAI`: The New York Times Company v. Microsoft Corp. (OpenAI) { #CASE-NYT-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-NYT-V-OPENAI.md`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.
 
 ## `CASE-PACKINGHAM-V-NC`: Packingham v. North Carolina { #CASE-PACKINGHAM-V-NC }
 
@@ -120,6 +174,51 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 - Tags: first-amendment, internet-governance, digital-rights, speech-and-code
 
 Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.
+
+## `CASE-SPYDER-V-MEMENTUM`: Spyder Games LLC v. Mementum Lab { #CASE-SPYDER-V-MEMENTUM }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-SPYDER-V-MEMENTUM.md`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California declaratory-judgment action asking whether AI-generated “brainrot” meme characters used in the Roblox game Steal a Brainrot are protected by U.S. copyright.
+
+## `CASE-THALER-V-PERLMUTTER`: Thaler v. Perlmutter { #CASE-THALER-V-PERLMUTTER }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-THALER-V-PERLMUTTER.md`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being, affirming refusal to register an image listed as authored solely by a generative-AI system.
+
+## `CASE-THOMSON-REUTERS-V-ROSS`: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc. { #CASE-THOMSON-REUTERS-V-ROSS }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Thomson Reuters v. Ross Intelligence (D. Del. Feb. 11, 2025) rejected a fair-use defense for using Westlaw headnotes to train a competing non-generative legal-research AI tool.
+
+## `CASE-UMG-V-SUNO`: UMG Recordings, Inc. v. Suno, Inc. { #CASE-UMG-V-SUNO }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-UMG-V-SUNO.md`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending District of Massachusetts copyright action in which major record labels allege that Suno copied sound recordings to train a generative music service; Suno asserts fair use, and Warner-affiliated plaintiffs later dismissed their claims with prejudice.
+
+## `CASE-UMG-V-UDIO`: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio) { #CASE-UMG-V-UDIO }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-UMG-V-UDIO.md`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Southern District of New York copyright litigation in which major labels alleged that Udio copied sound recordings to train a generative music service; UMG and Warner later dismissed their claims, and Sony filed a 2026 follow-on action asserting 30,117 additional recordings.
 
 ## `CASE-UNIVERSAL-V-CORLEY`: Universal City Studios v. Corley { #CASE-UNIVERSAL-V-CORLEY }
 
@@ -1012,6 +1111,33 @@ Samourai Wallet was a Bitcoin privacy wallet whose co-founders pled guilty in 20
 
 Tornado Cash is an open-source Ethereum smart-contract protocol that pools and shuffles cryptocurrency deposits so withdrawals can be made to different addresses, reducing on-chain linkability between deposit and withdrawal.
 
+## `TOPIC-AI-COPYRIGHT`: Copyright and Generative AI { #TOPIC-AI-COPYRIGHT }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-AI-COPYRIGHT.md`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Tags: copyright, artificial-intelligence, digital-rights, case-studies
+
+U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.
+
+## `TOPIC-AI-LITIGATION`: AI Litigation Landscape { #TOPIC-AI-LITIGATION }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-AI-LITIGATION.md`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Tags: artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
+
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.
+
+## `TOPIC-AI-MUSIC-COPYRIGHT`: Music Copyright and Generative AI { #TOPIC-AI-MUSIC-COPYRIGHT }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Tags: copyright, artificial-intelligence, digital-rights, case-studies
+
+Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.
+
 ## `TOPIC-APP-STORE-AGE-VERIFICATION`: App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
 
 - Type: `topic`
@@ -1020,6 +1146,15 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 - Tags: age-verification, first-amendment, privacy, digital-rights, public-policy, internet-governance
 
 Overview of U.S. state laws that pressure app stores and operating systems to verify or signal user age and to gate minors’ app access—covering California’s OS age-bracket signaling act, Texas/Utah/Louisiana/Alabama App Store Accountability Acts, key implementation dates, and major litigation status.
+
+## `TOPIC-BRAIN-ROT`: Brain Rot and AI-Generated Meme Characters { #TOPIC-BRAIN-ROT }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-BRAIN-ROT.md`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Tags: artificial-intelligence, copyright, digital-rights, case-studies
+
+Documents the 2024 lexical sense of “brain rot” and the later copyright fight over AI-generated “brainrot” meme characters used in games such as Steal a Brainrot.
 
 ## `TOPIC-CODE-AS-SPEECH`: Code as Speech { #TOPIC-CODE-AS-SPEECH }
 
