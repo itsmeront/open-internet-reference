@@ -54,6 +54,7 @@ Court cases and statutes that establish precedent:
 - **Statutes** — [Fair use (17 U.S.C. § 107)](generated/source-docs/knowledge/legal/STAT-USC-107.md), [DMCA § 512](generated/source-docs/knowledge/legal/STAT-DMCA-512.md), [CFAA § 1030](generated/source-docs/knowledge/legal/STAT-CFAA-1030.md), [IEEPA](generated/source-docs/knowledge/legal/STAT-IEEPA.md), [California Digital Age Assurance Act](generated/source-docs/knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md), [Texas App Store Accountability Act](generated/source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - **Age verification litigation** — [CCIA v. Paxton (Texas SB 2420)](generated/source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - **Copyright cases** — [Lenz v. Universal](generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md), [Google v. Oracle](generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- **Copyright and generative AI** — [Thaler v. Perlmutter](generated/source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md), [Bartz v. Anthropic](generated/source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md), [Kadrey v. Meta](generated/source-docs/knowledge/legal/CASE-KADREY-V-META.md); full map on [Copyright and Generative AI](generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
 ### [Topics](knowledge/topics.md)
 
@@ -61,6 +62,7 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 
 - **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md), [Device search and anti-forensics](generated/source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- **Copyright and generative AI** — [Copyright and Generative AI](generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md), [Music copyright and generative AI](generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md), [AI litigation landscape](generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md), [Brain rot and meme characters](generated/source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
 - **Computer crime and access** — [Computer Fraud and Abuse](generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - **Encryption and access** — [End-to-end encryption and compelled access](generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - **Age verification** — [App store and OS age-verification laws](generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
