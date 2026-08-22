@@ -36,6 +36,28 @@ These cases establish privacy protections in the digital context.
 - [`CASE-LENZ-V-UNIVERSAL`](../generated/source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): **Lenz v. Universal** — fair use consideration before DMCA takedown notices.
 - [`CASE-GOOGLE-V-ORACLE`](../generated/source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): **Google v. Oracle** — fair use of Java API declaring code in Android.
 
+## Decided Cases: Copyright and Generative AI
+
+District-court and one appellate holdings. Landscape pages: [Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) and [Music Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md).
+
+- [`CASE-THALER-V-PERLMUTTER`](../generated/source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md): **Thaler v. Perlmutter** (D.C. Cir. 2025) — Copyright Act requires a human author; registration refused for a work listed as authored solely by a generative system.
+- [`CASE-THOMSON-REUTERS-V-ROSS`](../generated/source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md): **Thomson Reuters v. Ross Intelligence** (D. Del. 2025) — fair use rejected for a competing non-generative legal-research tool trained on Westlaw headnotes.
+- [`CASE-BARTZ-V-ANTHROPIC`](../generated/source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): **Bartz v. Anthropic** (N.D. Cal. 2025–2026) — training Claude on purchased books held transformative fair use; a pirated permanent library was not; piracy claims later settled.
+- [`CASE-KADREY-V-META`](../generated/source-docs/knowledge/legal/CASE-KADREY-V-META.md): **Kadrey v. Meta** (N.D. Cal. 2025) — fair-use summary judgment for Llama training on that authors’ record; torrenting-distribution claims left open.
+- [`CASE-GEMA-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): **GEMA v. OpenAI** (LG München I 2025) — first-instance German judgment that memorized song lyrics in models 4 and 4o were unauthorized reproductions; not final.
+
+## Pending Cases: Copyright and Generative AI
+
+- [`CASE-NYT-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): **The New York Times v. Microsoft / OpenAI** (S.D.N.Y.) — publisher copyright claims largely survived dismissal; no fair-use merits holding.
+- [`CASE-UMG-V-SUNO`](../generated/source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): **UMG v. Suno** (D. Mass.) — major-label sound-recording suit; Warner dismissed with prejudice; UMG and Sony remain; fair use pleaded, not decided.
+- [`CASE-UMG-V-UDIO`](../generated/source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): **UMG / Sony v. Udio** (S.D.N.Y.) — parallel master-recording suit; UMG and Warner dismissed without prejudice; Sony filed a 2026 follow-on action.
+- [`CASE-CONCORD-V-ANTHROPIC`](../generated/source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): **Concord v. Anthropic** (N.D. Cal.) — publisher lyric claims; secondary infringement and DMCA CMI survived a second motion to dismiss.
+- [`CASE-SPYDER-V-MEMENTUM`](../generated/source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): **Spyder Games v. Mementum Lab** (N.D. Cal.) — declaratory action on whether AI-generated “brainrot” characters are copyrightable. See [Brain Rot](../generated/source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md).
+
+## Pending Cases: AI Chatbot Product Liability
+
+- [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](../generated/source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): **Garcia v. Character Technologies** (M.D. Fla.) — wrongful-death and product-liability claims against a chatbot company; speech defense not established at the pleading stage. Inventory: [AI Litigation Landscape](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md).
+
 ## Landmark Cases: Sanctions and Cryptocurrency Privacy Software
 
 - [`CASE-VAN-LOON-V-TREASURY`](../generated/source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md): **Van Loon v. Treasury** (5th Cir. 2024) — Tornado Cash immutable smart contracts are not IEEPA “property.”
@@ -70,7 +92,7 @@ These cases establish privacy protections in the digital context.
 
 ## Related Topics
 
-Concept and inventory pages live on the [Topics](topics.md) browse page, including [App Store and Operating System Age-Verification Laws](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md), [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
+Concept and inventory pages live on the [Topics](topics.md) browse page, including [Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md), [Music Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md), [AI Litigation Landscape](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md), [App Store and Operating System Age-Verification Laws](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md), [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
 
 ## Why This Matters
 

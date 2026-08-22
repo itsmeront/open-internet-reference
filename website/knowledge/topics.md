@@ -26,6 +26,15 @@ Topic pages are distinct from **tags** in `TAXONOMY.md`. Tags classify records; 
 - [`TOPIC-SAFE-HARBOR`](../generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md): **Safe Harbor** — online service provider liability protections, including copyright safe harbor.
 - [`TOPIC-INTERMEDIARY-LIABILITY`](../generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): **Intermediary Liability** — when platforms, providers, or other intermediaries may be responsible for user or third-party content or conduct.
 
+## Copyright and Generative AI
+
+Start with the landscape pages; they link out to individual case records.
+
+- [`TOPIC-AI-COPYRIGHT`](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): **Copyright and Generative AI** — human authorship of outputs, fair use of training corpora, and the current district-court split.
+- [`TOPIC-AI-MUSIC-COPYRIGHT`](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): **Music Copyright and Generative AI** — label suits over sound recordings (Suno, Udio), publisher lyric suits (Concord), and the German first-instance GEMA v. OpenAI judgment.
+- [`TOPIC-AI-LITIGATION`](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): **AI Litigation Landscape** — inventory of copyright, character-ownership, and chatbot product-liability actions.
+- [`TOPIC-BRAIN-ROT`](../generated/source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): **Brain Rot and AI-Generated Meme Characters** — Oxford’s 2024 Word of the Year and the pending Steal a Brainrot copyright fight.
+
 ## Computer Crime and Access
 
 - [`TOPIC-COMPUTER-FRAUD`](../generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): **Computer Fraud and Abuse** — U.S. federal prohibitions on unauthorized computer access and related activity under 18 U.S.C. § 1030.
