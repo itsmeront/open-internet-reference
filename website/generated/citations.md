@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 207
+Source count: 232
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -54,6 +54,23 @@ Source count: 207
 - Page source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - Relationship source in [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md): [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md) `related_to` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+## [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md): Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)
+
+- Page source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Relationship source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md) `cites` [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+- Relationship source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- Relationship source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md): Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)
+
+- Page source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
 
 ## [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md): BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism
 
@@ -305,6 +322,24 @@ Source count: 207
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 
+## [`SRC-CONCORD-V-ANTHROPIC-DOCKET`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md): Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)
+
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+
+## [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md): Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)
+
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `cites` [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+
 ## [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md): Cooley Technology Industry Practice Page
 
 - Page source in [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md)
@@ -488,6 +523,44 @@ Source count: 207
 - Page source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 - Relationship source in [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md): [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md) `cites` [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
 
+## [`SRC-GARCIA-V-CHARACTER-COMPLAINT`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md): Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)
+
+- Page source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+## [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md): Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)
+
+- Page source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `cites` [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Relationship source in [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md): [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+## [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md): LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)
+
+- Page source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Relationship source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `cites` [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- Relationship source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+
+## [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md): Landgericht München I, Pressemitteilung 11/2025 (GEMA v. OpenAI)
+
+- Page source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md): GNUnet About Page
 
 - Page source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
@@ -632,6 +705,17 @@ Source count: 207
 - Page source in [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 - Relationship source in [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md): [`TOPIC-KADEMLIA`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md) `cites` [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md)
 
+## [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md): Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)
+
+- Page source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- Relationship source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md): [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md) `cites` [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+- Relationship source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md): [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Relationship source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md): [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+
 ## [`SRC-KAHN-CNRI`](source-docs/bibliography/people/SRC-KAHN-CNRI.md): Robert E. Kahn CNRI Biography
 
 - Page source in [`PERSON-ROBERT-KAHN`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md)
@@ -751,6 +835,27 @@ Source count: 207
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
 
+## [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md): The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)
+
+- Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-NYT-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md): The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)
+
+- Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+## [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md): The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)
+
+- Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `cites` [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+- Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
 ## [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md): OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation
 
 - Page source in [`TECH-TORNADO-CASH`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
@@ -786,6 +891,11 @@ Source count: 207
 
 - Page source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md)
 - Relationship source in [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md): [`ORG-OSI`](source-docs/knowledge/organizations/ORG-OSI.md) `cites` [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md)
+
+## [`SRC-OXFORD-BRAIN-ROT-WOTY-2024`](source-docs/bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md): Oxford University Press — ‘Brain rot’ named Oxford Word of the Year 2024
+
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Relationship source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md) `cites` [`SRC-OXFORD-BRAIN-ROT-WOTY-2024`](source-docs/bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md)
 
 ## [`SRC-PACKINGHAM-GOVINFO`](source-docs/bibliography/legal/SRC-PACKINGHAM-GOVINFO.md): Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo)
 
@@ -1015,6 +1125,33 @@ Source count: 207
 - Page source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - Relationship source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md): [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) `cites` [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md)
 
+## [`SRC-SONY-V-UDIO-2026-COMPLAINT`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md): Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)
+
+- Page source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Relationship source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md): Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)
+
+- Page source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Relationship source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `cites` [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
+- Relationship source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `related_to` [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Relationship source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `related_to` [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Relationship source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `related_to` [`TOPIC-DMCA-TAKEDOWN-RESPONSE`](source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Relationship source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+
+## [`SRC-SPYDER-V-MEMENTUM-DOCKET`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md): Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)
+
+- Page source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
 ## [`SRC-STOLTZ-EFF-BIO`](source-docs/bibliography/people/SRC-STOLTZ-EFF-BIO.md): Mitch Stoltz EFF Staff Biography
 
 - Page source in [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md)
@@ -1047,6 +1184,33 @@ Source count: 207
 - Relationship source in [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md): [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md) `cites` [`SRC-TELEGRAM-PRESS`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - Relationship source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md): [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md) `affiliated_with` [`ORG-TELEGRAM`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
+
+## [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md): Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)
+
+- Page source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Page source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Relationship source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md): [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md) `cites` [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- Relationship source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md): [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- Relationship source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md): [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Relationship source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md): [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Relationship source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md) `related_to` [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+
+## [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md): Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)
+
+- Page source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- Relationship source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md): [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md) `cites` [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- Relationship source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md): [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- Relationship source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md): [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
 
 ## [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md): Lee Tien EFF Staff Biography
 
@@ -1147,6 +1311,55 @@ Source count: 207
 - Page source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 
+## [`SRC-UMG-V-SUNO-ANSWER`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md): UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)
+
+- Page source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+
+## [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md): UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)
+
+- Page source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md) `cites` [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- Relationship source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md) `related_to` [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Relationship source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md): [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-UMG-V-SUNO-WARNER-DISMISSAL`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md): UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs’ stipulation of dismissal (D. Mass. Dec. 9, 2025)
+
+- Page source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md): UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)
+
+- Page source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Relationship source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md) `cites` [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- Relationship source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md) `related_to` [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Relationship source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md): [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+
+## [`SRC-UMG-V-UDIO-DOCKET`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md): UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)
+
+- Page source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## [`SRC-US-CONST-AMEND-I-LII`](source-docs/bibliography/legal/SRC-US-CONST-AMEND-I-LII.md): U.S. Constitution First Amendment (Cornell LII)
 
 - Page source in [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
@@ -1168,15 +1381,29 @@ Source count: 207
 
 ## [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md): 17 U.S.C. § 107
 
+- Page source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Relationship source in [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Page source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- Relationship source in [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md): [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - Page source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 - Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 - Relationship source in [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- Relationship source in [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md): [`CASE-THOMSON-REUTERS-V-ROSS`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- Page source in [`CASE-UMG-V-UDIO`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
 - Page source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
 - Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Relationship source in [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md): [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md) `related_to` [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - Page source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 - Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `cites` [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 - Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- Relationship source in [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md): [`TOPIC-FAIR-USE-VIDEO`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
 ## [`SRC-USC-17-512-GOVINFO`](source-docs/bibliography/legal/SRC-USC-17-512-GOVINFO.md): 17 U.S.C. § 512 (GovInfo)
 
@@ -1233,6 +1460,24 @@ Source count: 207
 - Page source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - Relationship source in [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md): [`TOPIC-DEVICE-SEARCH`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md) `related_to` [`STAT-18-USC-2232`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 
+## [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md): U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)
+
+- Page source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `cites` [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
+## [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md): Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)
+
+- Page source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- Relationship source in [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`CASE-THALER-V-PERLMUTTER`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- Relationship source in [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): [`TOPIC-BRAIN-ROT`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
 ## [`SRC-VAN-BUREN-GOVINFO`](source-docs/bibliography/legal/SRC-VAN-BUREN-GOVINFO.md): Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo)
 
 - Page source in [`CASE-VAN-BUREN-V-US`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
@@ -1281,6 +1526,9 @@ Source count: 207
 - Page source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
 - Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `cites` [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+- Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
 
 ## [`SRC-WEINSTEIN-BIO`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md): Lauren Weinstein Biography Page
 

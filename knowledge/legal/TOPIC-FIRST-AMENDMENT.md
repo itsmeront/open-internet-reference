@@ -13,6 +13,7 @@ sources:
   - SRC-US-CONST-AMEND-I-LII
   - SRC-RENO-V-ACLU-JUSTIA
   - SRC-FIRE-MISSION
+  - SRC-GARCIA-V-CHARACTER-MTD-2025
 relationships:
   - subject: TOPIC-FIRST-AMENDMENT
     predicate: cites
@@ -39,6 +40,11 @@ relationships:
     object: ORG-FIRE
     sources:
       - SRC-FIRE-MISSION
+  - subject: TOPIC-FIRST-AMENDMENT
+    predicate: related_to
+    object: CASE-GARCIA-V-CHARACTER-TECHNOLOGIES
+    sources:
+      - SRC-GARCIA-V-CHARACTER-MTD-2025
 last_verified: "2026-07-31"
 ---
 
@@ -72,6 +78,7 @@ Legal analysis has not yet been drafted. Future work should distinguish constitu
 - `TOPIC-FIRST-AMENDMENT` related_to `TOPIC-CODE-AS-SPEECH`.
 - `TOPIC-FIRST-AMENDMENT` related_to `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`.
 - `TOPIC-FIRST-AMENDMENT` related_to `ORG-FIRE`.
+- `TOPIC-FIRST-AMENDMENT` related_to `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`.
 
 ## Sources
 
@@ -81,6 +88,7 @@ Additional sources (not yet cited in footnotes):
 
 - `SRC-RENO-V-ACLU-JUSTIA`: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997).
 - `SRC-FIRE-MISSION`: FIRE Mission Page.
+- `SRC-GARCIA-V-CHARACTER-MTD-2025`: Garcia v. Character Technologies order on motions to dismiss (May 20, 2025).
 
 ## Research Debt
 

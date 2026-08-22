@@ -29,6 +29,7 @@ The taxonomy gives OIR a stable map for organizing knowledge pages, source recor
 - `sanctions`
 - `computer-crime`
 - `copyright`
+- `artificial-intelligence`
 - `safe-harbor`
 - `intermediary-liability`
 - `surveillance`

@@ -265,6 +265,84 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge William Alsup)",
+        "publication date": "2025-06-23",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.434709/gov.uscourts.cand.434709.231.0_4.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California summary-judgment order holding that training Anthropic\u2019s Claude models on purchased books was fair use, while pirated library copies were not excused as fair use.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BARTZ-V-ANTHROPIC`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California",
+        "publication date": "2026-07-20",
+        "source type": "District court order and judgment (PDF)",
+        "url": "https://s3.documentcloud.org/documents/28503369/anthropic-settlement-final-approval.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order granting final approval of a $1.5 billion class settlement covering Anthropic\u2019s past acquisition and copying of listed pirated books.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BARTZ-V-ANTHROPIC`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-29",
         "author or issuing body": "BBC News (reporting via Reuters attribution in page byline context)",
         "publication date": "2026-07-29",
@@ -1573,6 +1651,84 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (via CourtListener / PACER)",
+        "publication date": "2024-06-26",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/68889092/concord-music-group-inc-v-anthropic-pbc/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket for the music-publisher lyric-copyright action against Anthropic, including the original Tennessee filing date reflected on the transferred complaint.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CONCORD-V-ANTHROPIC`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Eumi K. Lee)",
+        "publication date": "2025-10-06",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.431519/gov.uscourts.cand.431519.461.0_2.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order allowing music publishers\u2019 amended claims for secondary copyright infringement and DMCA CMI removal against Anthropic to proceed.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CONCORD-V-ANTHROPIC`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Cooley LLP",
@@ -2683,6 +2839,163 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Megan Garcia (plaintiff filing)",
+        "publication date": "2024-10-22",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.flmd.433581/gov.uscourts.flmd.433581.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Wrongful-death and product-liability complaint alleging that a Character.AI chatbot contributed to the death of a 14-year-old user.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Middle District of Florida (Judge Anne C. Conway)",
+        "publication date": "2025-05-20",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.flmd.433581/gov.uscourts.flmd.433581.115.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Middle District of Florida order allowing most product-liability and negligence claims against Character.AI and Google to proceed while dismissing IIED and Alphabet Inc.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`",
+        "`TOPIC-AI-LITIGATION`",
+        "`TOPIC-FIRST-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Landgericht M\u00fcnchen I, 42. Zivilkammer",
+        "publication date": "2025-11-11",
+        "source type": "Official first-instance judgment (HTML report)",
+        "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-GRURRS-B-2025-N-30204"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "First-instance Munich judgment holding that memorization of nine German song lyrics in GPT-4 and GPT-4o, and output of those lyrics, infringed German and EU copyright and was not covered by the text-and-data-mining exception.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "LG M\u00fcnchen I, Endurteil v. 11.11.2025 \u2013 42 O 14139/24 (GEMA v. OpenAI)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GEMA-V-OPENAI`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Landgericht M\u00fcnchen I (Pressesprecherin Cornelia Kallert)",
+        "publication date": "2025-11-11",
+        "source type": "Official court press release",
+        "url": "https://www.bayern.verfassungsgerichtshof.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2025/11.php"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GEMA-V-OPENAI-PRESS-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official court press release summarizing the November 11, 2025 GEMA v. OpenAI judgment and stating that the decision is not final.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Landgericht M\u00fcnchen I, Pressemitteilung 11/2025 (GEMA v. OpenAI)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GEMA-V-OPENAI`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-08-08",
         "author or issuing body": "GNUnet project",
         "source type": "Official project page",
@@ -3470,6 +3783,45 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Vince Chhabria)",
+        "publication date": "2025-06-25",
+        "source type": "District court order (PDF)",
+        "url": "https://cases.justia.com/federal/district-courts/california/candce/3:2023cv03417/415175/598/0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-KADREY-V-META-FAIR-USE",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order granting Meta summary judgment on fair use for copying thirteen authors\u2019 books as Llama training data on the record presented.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-KADREY-V-META`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Corporation for National Research Initiatives (CNRI)",
@@ -4181,6 +4533,123 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York",
+        "publication date": "2026-08-06",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-NYT-V-OPENAI-12C-2026",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Southern District of New York order dismissing with prejudice news plaintiffs\u2019 material-contribution contributory copyright claims against OpenAI and Microsoft after Cox.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-NYT-V-OPENAI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "The New York Times Company (plaintiff filing)",
+        "publication date": "2023-12-27",
+        "source type": "District court complaint (PDF)",
+        "url": "https://s3.documentcloud.org/documents/24241000/2023-12-27-nyt-dkt-1-complaint.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-NYT-V-OPENAI-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Complaint alleging that Microsoft and OpenAI copied New York Times works to train large language models and that model outputs reproduced Times content.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)",
+      "type": "source",
+      "used_for": [
+        "`CASE-NYT-V-OPENAI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (Judge Sidney H. Stein)",
+        "publication date": "2025-04-04",
+        "source type": "District court opinion (PDF)",
+        "url": "https://www.nysd.uscourts.gov/sites/default/files/2025-04/yf%2023cv11195%20OpenAI%20MTD%20opinion%20april%204%202025.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-NYT-V-OPENAI-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Southern District of New York opinion largely denying motions to dismiss publisher copyright claims against OpenAI and Microsoft while dismissing specified DMCA and hot-news claims.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-NYT-V-OPENAI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-23",
         "archive url": "None recorded",
         "author or issuing body": "U.S. Department of the Treasury, Office of Foreign Assets Control",
@@ -4474,6 +4943,42 @@
       "type": "source",
       "used_for": [
         "`ORG-OSI`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Oxford University Press",
+        "publication date": "2024",
+        "source type": "Official publisher announcement",
+        "url": "https://corp.oup.com/news/brain-rot-named-oxford-word-of-the-year-2024/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Oxford University Press announcement selecting \u201cbrain rot\u201d as Oxford Word of the Year 2024 and publishing the press\u2019s definition of the term.",
+      "tags": [
+        "source",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Oxford University Press \u2014 \u2018Brain rot\u2019 named Oxford Word of the Year 2024",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-BRAIN-ROT`"
       ]
     },
     {
@@ -5878,6 +6383,121 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Sony Music Entertainment et al. (plaintiff filing)",
+        "publication date": "2026-07-20",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.668696/gov.uscourts.nysd.668696.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-SONY-V-UDIO-2026-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Second Sony-affiliated complaint against Udio asserting 30,117 additional sound recordings after leave to expand the 2024 action was denied.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-UDIO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Spyder Games LLC and Speedy Simulator Gaming, LLC (plaintiff filing)",
+        "publication date": "2025-11-26",
+        "source type": "District court complaint",
+        "url": "https://www.courtlistener.com/docket/71968381/1/spyder-games-llc-v-mementum-lab/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Complaint seeking a declaration that AI-generated \u201cbrainrot\u201d meme characters used in the Roblox game Steal a Brainrot are not protected by copyright.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-SPYDER-V-MEMENTUM`",
+        "`TOPIC-BRAIN-ROT`",
+        "`TOPIC-AI-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (via CourtListener / PACER)",
+        "publication date": "2025-11-26",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/71968381/spyder-games-llc-v-mementum-lab/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-SPYDER-V-MEMENTUM-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket record for the Steal a Brainrot copyright and trademark dispute in the Northern District of California.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)",
+      "type": "source",
+      "used_for": [
+        "`CASE-SPYDER-V-MEMENTUM`",
+        "`TOPIC-BRAIN-ROT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Electronic Frontier Foundation",
@@ -6061,6 +6681,85 @@
       "used_for": [
         "`ORG-TELEGRAM`",
         "`PERSON-PAVEL-DUROV`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the District of Columbia Circuit",
+        "publication date": "2025-03-18",
+        "source type": "Appellate court opinion (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cadc.40231/gov.uscourts.cadc.40231.01208720945.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-THALER-V-PERLMUTTER-CADC",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "D.C. Circuit opinion affirming refusal to register a copyright in an image listed as authored solely by a generative-AI system.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-THALER-V-PERLMUTTER`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`CASE-SPYDER-V-MEMENTUM`",
+        "`TOPIC-BRAIN-ROT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the District of Delaware (Judge Stephanos Bibas, sitting by designation)",
+        "publication date": "2025-02-11",
+        "source type": "District court memorandum opinion (PDF)",
+        "url": "https://www.ded.uscourts.gov/sites/ded/files/opinions/20-613_5.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "District of Delaware memorandum opinion rejecting Ross Intelligence\u2019s fair-use defense for using Westlaw headnotes to train a competing non-generative legal-research AI.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-THOMSON-REUTERS-V-ROSS`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -6606,6 +7305,201 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Suno, Inc. (defendant filing)",
+        "publication date": "2024-08-01",
+        "source type": "District court answer (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.272063/gov.uscourts.mad.272063.28.0_1.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-UMG-V-SUNO-ANSWER",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Suno\u2019s answer admitting that its model was built from tens of millions of recordings and asserting fair use, copyright misuse, and other defenses.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-SUNO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "UMG Recordings, Inc. et al. (plaintiff filing)",
+        "publication date": "2024-06-24",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.272063/gov.uscourts.mad.272063.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-UMG-V-SUNO-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Major-label complaint alleging that Suno copied copyrighted sound recordings to train a generative music service and seeking damages and injunctive relief.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-SUNO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "Parties in UMG Recordings, Inc. v. Suno, Inc. (Rule 41(a)(1)(A)(ii) stipulation)",
+        "publication date": "2025-12-09",
+        "source type": "District court stipulation (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.mad.272063/gov.uscourts.mad.272063.174.1.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Rule 41 stipulation dismissing Warner-affiliated plaintiffs\u2019 claims against Suno with prejudice while leaving UMG and Sony claims unaffected.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs\u2019 stipulation of dismissal (D. Mass. Dec. 9, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-SUNO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "UMG Recordings, Inc. et al. (plaintiff filing)",
+        "publication date": "2024-06-24",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.623701/gov.uscourts.nysd.623701.9.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-UMG-V-UDIO-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Major-label complaint alleging that Uncharted Labs (Udio) copied copyrighted sound recordings to train a generative music service.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-UDIO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (via CourtListener / PACER)",
+        "publication date": "2024-06-24",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/68878697/umg-recordings-inc-v-uncharted-labs-inc/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-UMG-V-UDIO-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket for the original major-label copyright action against Udio, including later stipulations dismissing UMG and Warner claims.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)",
+      "type": "source",
+      "used_for": [
+        "`CASE-UMG-V-UDIO`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Cornell Legal Information Institute",
         "source type": "Legal reference page",
@@ -6751,7 +7645,11 @@
       "used_for": [
         "`STAT-USC-107`",
         "`TOPIC-FAIR-USE-VIDEO`",
-        "`CASE-LENZ-V-UNIVERSAL`"
+        "`CASE-LENZ-V-UNIVERSAL`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`CASE-BARTZ-V-ANTHROPIC`",
+        "`CASE-KADREY-V-META`",
+        "`CASE-THOMSON-REUTERS-V-ROSS`"
       ]
     },
     {
@@ -6946,6 +7844,83 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Copyright Office",
+        "publication date": "2025-01-29",
+        "source type": "Official agency report",
+        "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Copyright Office report concluding that existing U.S. law can resolve AI copyrightability questions and that purely AI-generated material is not copyrightable.",
+      "tags": [
+        "source",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 \u2014 Copyrightability (January 2025)",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-AI-COPYRIGHT`",
+        "`CASE-THALER-V-PERLMUTTER`",
+        "`TOPIC-BRAIN-ROT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-08-22",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Copyright Office, Library of Congress",
+        "publication date": "2023-03-16",
+        "source type": "Federal Register statement of policy (37 C.F.R. Part 202)",
+        "url": "https://www.copyright.gov/ai/ai_policy_guidance.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "U.S. Copyright Office statement of policy on examining and registering works that contain AI-generated material, effective March 16, 2023.",
+      "tags": [
+        "source",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Copyright Registration Guidance \u2014 Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)",
+      "type": "source",
+      "used_for": [
+        "`TOPIC-AI-COPYRIGHT`",
+        "`CASE-THALER-V-PERLMUTTER`",
+        "`CASE-SPYDER-V-MEMENTUM`",
+        "`TOPIC-BRAIN-ROT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Supreme Court of the United States; United States Reports via GovInfo",
         "publication date": "2021",
@@ -7134,7 +8109,8 @@
       "title": "Kit Walsh EFF Staff Biography",
       "type": "source",
       "used_for": [
-        "`PERSON-KIT-WALSH`"
+        "`PERSON-KIT-WALSH`",
+        "`TOPIC-AI-COPYRIGHT`"
       ]
     },
     {

@@ -5,6 +5,71 @@
       "arrest_date": null,
       "bibliographic_metadata": {},
       "charge_date": null,
+      "decision_date": "2025-06-23",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-BARTZ-V-ANTHROPIC",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md",
+      "relationships": [
+        {
+          "object": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+          ],
+          "subject": "CASE-BARTZ-V-ANTHROPIC"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "CASE-BARTZ-V-ANTHROPIC"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+          ],
+          "subject": "CASE-BARTZ-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+          ],
+          "subject": "CASE-BARTZ-V-ANTHROPIC"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Bartz v. Anthropic PBC held that using purchased books to train Claude was transformative fair use but that building a permanent library from pirated copies was not, and the court later approved a $1.5 billion class settlement of the piracy claims.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Bartz v. Anthropic PBC",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
       "decision_date": "1999",
       "enactment_date": null,
       "event_date": null,
@@ -408,6 +473,208 @@
       "arrest_date": null,
       "bibliographic_metadata": {},
       "charge_date": null,
+      "decision_date": "2025-10-06",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-CONCORD-V-ANTHROPIC",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md",
+      "relationships": [
+        {
+          "object": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Concord Music Group, Inc. v. Anthropic PBC",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-05-20",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md",
+      "relationships": [
+        {
+          "object": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+        },
+        {
+          "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.",
+      "tags": [
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights",
+        "intermediary-liability"
+      ],
+      "title": "Garcia v. Character Technologies, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-11-11",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-GEMA-V-OPENAI",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-GEMA-V-OPENAI.md",
+      "relationships": [
+        {
+          "object": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "CASE-GEMA-V-OPENAI"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "CASE-GEMA-V-OPENAI"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "CASE-GEMA-V-OPENAI"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "CASE-GEMA-V-OPENAI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md",
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GEMA-V-OPENAI-PRESS-2025"
+      ],
+      "status": "draft",
+      "summary": "First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
       "decision_date": "2021-04-05",
       "enactment_date": null,
       "event_date": null,
@@ -513,6 +780,70 @@
         "digital-rights"
       ],
       "title": "Junger v. Daley",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-06-25",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-KADREY-V-META",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-KADREY-V-META.md",
+      "relationships": [
+        {
+          "object": "SRC-KADREY-V-META-FAIR-USE",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KADREY-V-META-FAIR-USE"
+          ],
+          "subject": "CASE-KADREY-V-META"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "CASE-KADREY-V-META"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KADREY-V-META-FAIR-USE"
+          ],
+          "subject": "CASE-KADREY-V-META"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KADREY-V-META-FAIR-USE"
+          ],
+          "subject": "CASE-KADREY-V-META"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-KADREY-V-META.md",
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors\u2019 books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Kadrey v. Meta Platforms, Inc.",
       "type": "case",
       "used_for": []
     },
@@ -653,6 +984,63 @@
         "open-source-risk"
       ],
       "title": "Netherlands v. Pertsev (Tornado Cash)",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-04-04",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-NYT-V-OPENAI",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-NYT-V-OPENAI.md",
+      "relationships": [
+        {
+          "object": "SRC-NYT-V-OPENAI-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "CASE-NYT-V-OPENAI"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "CASE-NYT-V-OPENAI"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "CASE-NYT-V-OPENAI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md",
+      "sources": [
+        "SRC-NYT-V-OPENAI-COMPLAINT",
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-NYT-V-OPENAI-12C-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
       "type": "case",
       "used_for": []
     },
@@ -862,6 +1250,357 @@
         "speech-and-code"
       ],
       "title": "Reno v. American Civil Liberties Union",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-SPYDER-V-MEMENTUM",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-SPYDER-V-MEMENTUM.md",
+      "relationships": [
+        {
+          "object": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "CASE-SPYDER-V-MEMENTUM"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "CASE-SPYDER-V-MEMENTUM"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "CASE-SPYDER-V-MEMENTUM"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+          ],
+          "subject": "CASE-SPYDER-V-MEMENTUM"
+        },
+        {
+          "object": "TOPIC-DMCA-TAKEDOWN-RESPONSE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "CASE-SPYDER-V-MEMENTUM"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md",
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-SPYDER-V-MEMENTUM-DOCKET",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California declaratory-judgment action asking whether AI-generated \u201cbrainrot\u201d meme characters used in the Roblox game Steal a Brainrot are protected by U.S. copyright.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Spyder Games LLC v. Mementum Lab",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-03-18",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-THALER-V-PERLMUTTER",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-THALER-V-PERLMUTTER.md",
+      "relationships": [
+        {
+          "object": "SRC-THALER-V-PERLMUTTER-CADC",
+          "predicate": "cites",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "CASE-THALER-V-PERLMUTTER"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "CASE-THALER-V-PERLMUTTER"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "CASE-THALER-V-PERLMUTTER"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "CASE-THALER-V-PERLMUTTER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+      ],
+      "status": "draft",
+      "summary": "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being, affirming refusal to register an image listed as authored solely by a generative-AI system.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Thaler v. Perlmutter",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-02-11",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-THOMSON-REUTERS-V-ROSS",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md",
+      "relationships": [
+        {
+          "object": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "CASE-THOMSON-REUTERS-V-ROSS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md",
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Thomson Reuters v. Ross Intelligence (D. Del. Feb. 11, 2025) rejected a fair-use defense for using Westlaw headnotes to train a competing non-generative legal-research AI tool.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-UMG-V-SUNO",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-UMG-V-SUNO.md",
+      "relationships": [
+        {
+          "object": "SRC-UMG-V-SUNO-COMPLAINT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-SUNO"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-SUNO"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-SUNO"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-SUNO"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-ANSWER"
+          ],
+          "subject": "CASE-UMG-V-SUNO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-UMG-V-SUNO.md",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-SUNO-ANSWER",
+        "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Pending District of Massachusetts copyright action in which major record labels allege that Suno copied sound recordings to train a generative music service; Suno asserts fair use, and Warner-affiliated plaintiffs later dismissed their claims with prejudice.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "UMG Recordings, Inc. v. Suno, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-UMG-V-UDIO",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-UMG-V-UDIO.md",
+      "relationships": [
+        {
+          "object": "SRC-UMG-V-UDIO-COMPLAINT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-UDIO"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-UDIO"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-UDIO"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-UDIO"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-UDIO-2026-COMPLAINT"
+          ],
+          "subject": "CASE-UMG-V-UDIO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-UMG-V-UDIO.md",
+      "sources": [
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-UMG-V-UDIO-DOCKET",
+        "SRC-SONY-V-UDIO-2026-COMPLAINT",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Southern District of New York copyright litigation in which major labels alleged that Udio copied sound recordings to train a generative music service; UMG and Warner later dismissed their claims, and Sony filed a 2026 follow-on action asserting 30,117 additional recordings.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
       "type": "case",
       "used_for": []
     },
@@ -4039,6 +4778,14 @@
             "SRC-WALSH-EFF-BIO"
           ],
           "subject": "PERSON-KIT-WALSH"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-WALSH-EFF-BIO"
+          ],
+          "subject": "PERSON-KIT-WALSH"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-KIT-WALSH.md",
@@ -5811,6 +6558,14 @@
             "SRC-GOOGLE-ORACLE-JUSTIA"
           ],
           "subject": "STAT-USC-107"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "STAT-USC-107"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/STAT-USC-107.md",
@@ -6244,6 +6999,458 @@
       "decision_date": null,
       "enactment_date": null,
       "event_date": null,
+      "id": "TOPIC-AI-COPYRIGHT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-AI-COPYRIGHT.md",
+      "relationships": [
+        {
+          "object": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KADREY-V-META-FAIR-USE"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-THOMSON-REUTERS-V-ROSS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "PERSON-KIT-WALSH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-WALSH-EFF-BIO"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md",
+      "sources": [
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-USC-17-107-LII",
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "status": "draft",
+      "summary": "U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.",
+      "tags": [
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights",
+        "case-studies"
+      ],
+      "title": "Copyright and Generative AI",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-AI-LITIGATION",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-AI-LITIGATION.md",
+      "relationships": [
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "TOPIC-BRAIN-ROT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-KADREY-V-META",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KADREY-V-META-FAIR-USE"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-THOMSON-REUTERS-V-ROSS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THOMSON-REUTERS-V-ROSS-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-OPENAI-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "notes": "Adjacent inventory of proceedings against software authors; Garcia is civil product liability, not a criminal developer prosecution.",
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md",
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-GARCIA-V-CHARACTER-MTD-2025",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "status": "draft",
+      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.",
+      "tags": [
+        "artificial-intelligence",
+        "copyright",
+        "first-amendment",
+        "digital-rights",
+        "case-studies",
+        "intermediary-liability"
+      ],
+      "title": "AI Litigation Landscape",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md",
+      "relationships": [
+        {
+          "object": "CASE-UMG-V-SUNO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "CASE-UMG-V-UDIO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-UDIO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "STAT-USC-107",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-UMG-V-SUNO-ANSWER"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md",
+      "sources": [
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-SUNO-ANSWER",
+        "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-UMG-V-UDIO-DOCKET",
+        "SRC-SONY-V-UDIO-2026-COMPLAINT",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-USC-17-107-LII"
+      ],
+      "status": "draft",
+      "summary": "Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.",
+      "tags": [
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights",
+        "case-studies"
+      ],
+      "title": "Music Copyright and Generative AI",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
       "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
       "indictment_date": null,
       "last_verified": "2026-08-08",
@@ -6308,6 +7515,74 @@
         "internet-governance"
       ],
       "title": "App Store and Operating System Age-Verification Laws",
+      "type": "topic",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "TOPIC-BRAIN-ROT",
+      "indictment_date": null,
+      "last_verified": "2026-08-22",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/TOPIC-BRAIN-ROT.md",
+      "relationships": [
+        {
+          "object": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-OXFORD-BRAIN-ROT-WOTY-2024"
+          ],
+          "subject": "TOPIC-BRAIN-ROT"
+        },
+        {
+          "object": "CASE-SPYDER-V-MEMENTUM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SPYDER-V-MEMENTUM-COMPLAINT"
+          ],
+          "subject": "TOPIC-BRAIN-ROT"
+        },
+        {
+          "object": "CASE-THALER-V-PERLMUTTER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-THALER-V-PERLMUTTER-CADC"
+          ],
+          "subject": "TOPIC-BRAIN-ROT"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+          ],
+          "subject": "TOPIC-BRAIN-ROT"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md",
+      "sources": [
+        "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-SPYDER-V-MEMENTUM-DOCKET",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+      ],
+      "status": "draft",
+      "summary": "Documents the 2024 lexical sense of \u201cbrain rot\u201d and the later copyright fight over AI-generated \u201cbrainrot\u201d meme characters used in games such as Steal a Brainrot.",
+      "tags": [
+        "artificial-intelligence",
+        "copyright",
+        "digital-rights",
+        "case-studies"
+      ],
+      "title": "Brain Rot and AI-Generated Meme Characters",
       "type": "topic",
       "used_for": []
     },
@@ -7039,6 +8314,14 @@
             "SRC-EFF-BLOGGERS-IP"
           ],
           "subject": "TOPIC-FAIR-USE-VIDEO"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-USC-17-107-LII"
+          ],
+          "subject": "TOPIC-FAIR-USE-VIDEO"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md",
@@ -7111,13 +8394,22 @@
             "SRC-FIRE-MISSION"
           ],
           "subject": "TOPIC-FIRST-AMENDMENT"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GARCIA-V-CHARACTER-MTD-2025"
+          ],
+          "subject": "TOPIC-FIRST-AMENDMENT"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "sources": [
         "SRC-US-CONST-AMEND-I-LII",
         "SRC-RENO-V-ACLU-JUSTIA",
-        "SRC-FIRE-MISSION"
+        "SRC-FIRE-MISSION",
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
       ],
       "status": "draft",
       "summary": "The First Amendment to the U.S. Constitution addresses religion, expression, assembly, and petition rights.",

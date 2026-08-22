@@ -2,7 +2,13 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 182
+Term count: 198
+
+## `CASE-BARTZ-V-ANTHROPIC` { #case-bartz-v-anthropic }
+
+- [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE: Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+- [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL: Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
 ## `CASE-BERNSTEIN-V-DOJ` { #case-bernstein-v-doj }
 
@@ -38,6 +44,21 @@ Term count: 182
 
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023: Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023)`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 
+## `CASE-CONCORD-V-ANTHROPIC` { #case-concord-v-anthropic }
+
+- [`SRC-CONCORD-V-ANTHROPIC-DOCKET: Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md)
+- [`SRC-CONCORD-V-ANTHROPIC-MTD-2025: Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+
+## `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES` { #case-garcia-v-character-technologies }
+
+- [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
+- [`SRC-GARCIA-V-CHARACTER-MTD-2025: Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
+## `CASE-GEMA-V-OPENAI` { #case-gema-v-openai }
+
+- [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- [`SRC-GEMA-V-OPENAI-PRESS-2025: Landgericht München I, Pressemitteilung 11/2025 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md)
+
 ## `CASE-GOOGLE-V-ORACLE` { #case-google-v-oracle }
 
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
@@ -46,6 +67,11 @@ Term count: 182
 
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 - [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
+
+## `CASE-KADREY-V-META` { #case-kadrey-v-meta }
+
+- [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
 ## `CASE-LENZ-V-UNIVERSAL` { #case-lenz-v-universal }
 
@@ -57,6 +83,12 @@ Term count: 182
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
+
+## `CASE-NYT-V-OPENAI` { #case-nyt-v-openai }
+
+- [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
+- [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
+- [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
 
 ## `CASE-PACKINGHAM-V-NC` { #case-packingham-v-nc }
 
@@ -73,6 +105,36 @@ Term count: 182
 - [`SRC-RENO-V-ACLU-GOVINFO: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (GovInfo)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md)
 - [`SRC-RENO-V-ACLU-JUSTIA: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
 - [`SRC-RENO-V-ACLU-LOC: Reno v. American Civil Liberties Union, 521 U.S. 844 (1997) (U.S. Reports PDF)`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
+
+## `CASE-SPYDER-V-MEMENTUM` { #case-spyder-v-mementum }
+
+- [`SRC-SPYDER-V-MEMENTUM-COMPLAINT: Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
+- [`SRC-SPYDER-V-MEMENTUM-DOCKET: Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md)
+- [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
+
+## `CASE-THALER-V-PERLMUTTER` { #case-thaler-v-perlmutter }
+
+- [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+- [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
+
+## `CASE-THOMSON-REUTERS-V-ROSS` { #case-thomson-reuters-v-ross }
+
+- [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `CASE-UMG-V-SUNO` { #case-umg-v-suno }
+
+- [`SRC-UMG-V-SUNO-ANSWER: UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md)
+- [`SRC-UMG-V-SUNO-COMPLAINT: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- [`SRC-UMG-V-SUNO-WARNER-DISMISSAL: UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs’ stipulation of dismissal (D. Mass. Dec. 9, 2025)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md)
+
+## `CASE-UMG-V-UDIO` { #case-umg-v-udio }
+
+- [`SRC-SONY-V-UDIO-2026-COMPLAINT: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md)
+- [`SRC-UMG-V-UDIO-COMPLAINT: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- [`SRC-UMG-V-UDIO-DOCKET: UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md)
 
 ## `CASE-UNIVERSAL-V-CORLEY` { #case-universal-v-corley }
 
@@ -584,6 +646,56 @@ Term count: 182
 - [`SRC-OFAC-FAQ-1076: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 
+## `TOPIC-AI-COPYRIGHT` { #topic-ai-copyright }
+
+- [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE: Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+- [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL: Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md)
+- [`SRC-CONCORD-V-ANTHROPIC-MTD-2025: Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+- [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+- [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
+- [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
+- [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+- [`SRC-SPYDER-V-MEMENTUM-COMPLAINT: Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
+- [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- [`SRC-UMG-V-SUNO-ANSWER: UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md)
+- [`SRC-UMG-V-SUNO-COMPLAINT: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- [`SRC-UMG-V-UDIO-COMPLAINT: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+- [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
+- [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+
+## `TOPIC-AI-LITIGATION` { #topic-ai-litigation }
+
+- [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE: Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+- [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL: Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md)
+- [`SRC-CONCORD-V-ANTHROPIC-MTD-2025: Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+- [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
+- [`SRC-GARCIA-V-CHARACTER-MTD-2025: Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+- [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+- [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
+- [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
+- [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+- [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- [`SRC-UMG-V-SUNO-COMPLAINT: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- [`SRC-UMG-V-UDIO-COMPLAINT: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+
+## `TOPIC-AI-MUSIC-COPYRIGHT` { #topic-ai-music-copyright }
+
+- [`SRC-CONCORD-V-ANTHROPIC-DOCKET: Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md)
+- [`SRC-CONCORD-V-ANTHROPIC-MTD-2025: Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+- [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- [`SRC-GEMA-V-OPENAI-PRESS-2025: Landgericht München I, Pressemitteilung 11/2025 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md)
+- [`SRC-SONY-V-UDIO-2026-COMPLAINT: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md)
+- [`SRC-UMG-V-SUNO-ANSWER: UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md)
+- [`SRC-UMG-V-SUNO-COMPLAINT: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- [`SRC-UMG-V-SUNO-WARNER-DISMISSAL: UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs’ stipulation of dismissal (D. Mass. Dec. 9, 2025)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md)
+- [`SRC-UMG-V-UDIO-COMPLAINT: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- [`SRC-UMG-V-UDIO-DOCKET: UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md)
+
 ## `TOPIC-APP-STORE-AGE-VERIFICATION` { #topic-app-store-age-verification }
 
 - [`SRC-AL-HB161-ENROLLED: Alabama HB 161 Enrolled — App Store Accountability Act`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md)
@@ -596,6 +708,15 @@ Term count: 182
 - [`SRC-LA-ACT-185-ASAA: Louisiana Act No. 185 — App Store Accountability Act (2026)`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md)
 - [`SRC-TX-SB-2420-ENROLLED: Texas SB 2420 — App Store Accountability Act (Enrolled Text)`](source-docs/bibliography/legal/SRC-TX-SB-2420-ENROLLED.md)
 - [`SRC-TX-TRIBUNE-SB2420-SCOTUS-2026: Texas Tribune — Supreme Court Lets Texas App Age Verification Law Stay in Effect`](source-docs/bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md)
+
+## `TOPIC-BRAIN-ROT` { #topic-brain-rot }
+
+- [`SRC-OXFORD-BRAIN-ROT-WOTY-2024: Oxford University Press — ‘Brain rot’ named Oxford Word of the Year 2024`](source-docs/bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md)
+- [`SRC-SPYDER-V-MEMENTUM-COMPLAINT: Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
+- [`SRC-SPYDER-V-MEMENTUM-DOCKET: Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md)
+- [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+- [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
 
 ## `TOPIC-COMPUTER-FRAUD` { #topic-computer-fraud }
 
@@ -638,6 +759,10 @@ Term count: 182
 - [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-USC-17-107-GOVINFO: 17 U.S.C. § 107 (GovInfo)`](source-docs/bibliography/legal/SRC-USC-17-107-GOVINFO.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `TOPIC-FIRST-AMENDMENT` { #topic-first-amendment }
+
+- [`SRC-GARCIA-V-CHARACTER-MTD-2025: Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
 ## `TOPIC-FOURTH-AMENDMENT` { #topic-fourth-amendment }
 

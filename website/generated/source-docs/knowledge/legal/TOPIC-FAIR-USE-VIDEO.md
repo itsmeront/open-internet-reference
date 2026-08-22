@@ -43,6 +43,11 @@ relationships:
     object: ORG-EFF
     sources:
       - SRC-EFF-BLOGGERS-IP
+  - subject: TOPIC-FAIR-USE-VIDEO
+    predicate: related_to
+    object: TOPIC-AI-COPYRIGHT
+    sources:
+      - SRC-USC-17-107-LII
 last_verified: "2026-07-19"
 ---
 
@@ -58,7 +63,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
     - **Status**: `draft`
     - **Sources**: 4
-    - **Relationships**: 6
+    - **Relationships**: 7
     - **Research debt items**: 4
 
 ---
@@ -108,6 +113,7 @@ Analysis of platform copyright enforcement systems (for example automated matchi
 - `TOPIC-FAIR-USE-VIDEO` related_to `CASE-LENZ-V-UNIVERSAL`.
 - `TOPIC-FAIR-USE-VIDEO` related_to `TOPIC-DMCA-TAKEDOWN-RESPONSE`.
 - `TOPIC-FAIR-USE-VIDEO` related_to `ORG-EFF`.
+- `TOPIC-FAIR-USE-VIDEO` related_to `TOPIC-AI-COPYRIGHT`.
 
 ## Sources
 

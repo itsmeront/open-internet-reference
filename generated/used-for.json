@@ -4,6 +4,14 @@
   "terms": [
     {
       "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`CASE-BARTZ-V-ANTHROPIC`"
+    },
+    {
+      "sources": [
         "SRC-BERNSTEIN-EFF",
         "SRC-BERNSTEIN-EFF-25",
         "SRC-BERNSTEIN-JUSTIA"
@@ -50,6 +58,27 @@
     },
     {
       "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "term": "`CASE-CONCORD-V-ANTHROPIC`"
+    },
+    {
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "term": "`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`"
+    },
+    {
+      "sources": [
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GEMA-V-OPENAI-PRESS-2025"
+      ],
+      "term": "`CASE-GEMA-V-OPENAI`"
+    },
+    {
+      "sources": [
         "SRC-GOOGLE-ORACLE-JUSTIA"
       ],
       "term": "`CASE-GOOGLE-V-ORACLE`"
@@ -60,6 +89,13 @@
         "SRC-JUNGER-CMU"
       ],
       "term": "`CASE-JUNGER-V-DALEY`"
+    },
+    {
+      "sources": [
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`CASE-KADREY-V-META`"
     },
     {
       "sources": [
@@ -75,6 +111,14 @@
         "SRC-TREASURY-SEMENOV-2023"
       ],
       "term": "`CASE-NL-V-PERTSEV`"
+    },
+    {
+      "sources": [
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-NYT-V-OPENAI-COMPLAINT",
+        "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "term": "`CASE-NYT-V-OPENAI`"
     },
     {
       "sources": [
@@ -97,6 +141,46 @@
         "SRC-RENO-V-ACLU-LOC"
       ],
       "term": "`CASE-RENO-V-ACLU`"
+    },
+    {
+      "sources": [
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-SPYDER-V-MEMENTUM-DOCKET",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "term": "`CASE-SPYDER-V-MEMENTUM`"
+    },
+    {
+      "sources": [
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "term": "`CASE-THALER-V-PERLMUTTER`"
+    },
+    {
+      "sources": [
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-USC-17-107-LII"
+      ],
+      "term": "`CASE-THOMSON-REUTERS-V-ROSS`"
+    },
+    {
+      "sources": [
+        "SRC-UMG-V-SUNO-ANSWER",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-SUNO-WARNER-DISMISSAL"
+      ],
+      "term": "`CASE-UMG-V-SUNO`"
+    },
+    {
+      "sources": [
+        "SRC-SONY-V-UDIO-2026-COMPLAINT",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-UMG-V-UDIO-DOCKET"
+      ],
+      "term": "`CASE-UMG-V-UDIO`"
     },
     {
       "sources": [
@@ -810,6 +894,62 @@
     },
     {
       "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-NYT-V-OPENAI-COMPLAINT",
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-UMG-V-SUNO-ANSWER",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-USC-17-107-LII",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+        "SRC-WALSH-EFF-BIO"
+      ],
+      "term": "`TOPIC-AI-COPYRIGHT`"
+    },
+    {
+      "sources": [
+        "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+        "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+        "SRC-GARCIA-V-CHARACTER-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-NYT-V-OPENAI-COMPLAINT",
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-THOMSON-REUTERS-V-ROSS-2025",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-UDIO-COMPLAINT"
+      ],
+      "term": "`TOPIC-AI-LITIGATION`"
+    },
+    {
+      "sources": [
+        "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+        "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-SONY-V-UDIO-2026-COMPLAINT",
+        "SRC-UMG-V-SUNO-ANSWER",
+        "SRC-UMG-V-SUNO-COMPLAINT",
+        "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-UMG-V-UDIO-DOCKET"
+      ],
+      "term": "`TOPIC-AI-MUSIC-COPYRIGHT`"
+    },
+    {
+      "sources": [
         "SRC-AL-HB161-ENROLLED",
         "SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026",
         "SRC-CA-AB-1043-STATUS",
@@ -822,6 +962,17 @@
         "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026"
       ],
       "term": "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+    },
+    {
+      "sources": [
+        "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+        "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+        "SRC-SPYDER-V-MEMENTUM-DOCKET",
+        "SRC-THALER-V-PERLMUTTER-CADC",
+        "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+        "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023"
+      ],
+      "term": "`TOPIC-BRAIN-ROT`"
     },
     {
       "sources": [
@@ -874,6 +1025,12 @@
         "SRC-USC-17-107-LII"
       ],
       "term": "`TOPIC-FAIR-USE-VIDEO`"
+    },
+    {
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "term": "`TOPIC-FIRST-AMENDMENT`"
     },
     {
       "sources": [

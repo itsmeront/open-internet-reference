@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 207
+Record count: 232
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -91,6 +91,34 @@ Associated Press report that Russia's FSB charged Pavel Durov with aiding terror
 - [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-INTERMEDIARY-LIABILITY: Intermediary Liability`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+## `SRC-BARTZ-V-ANTHROPIC-FAIR-USE`: Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025) { #SRC-BARTZ-V-ANTHROPIC-FAIR-USE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California summary-judgment order holding that training Anthropic’s Claude models on purchased books was fair use, while pirated library copies were not excused as fair use.
+
+### Cited By
+- [`CASE-BARTZ-V-ANTHROPIC: Bartz v. Anthropic PBC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`: Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026) { #SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order granting final approval of a $1.5 billion class settlement covering Anthropic’s past acquisition and copying of listed pirated books.
+
+### Cited By
+- [`CASE-BARTZ-V-ANTHROPIC: Bartz v. Anthropic PBC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-BBC-DUROV-FSB-2026`: BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism { #SRC-BBC-DUROV-FSB-2026 }
 
@@ -537,6 +565,33 @@ Northern District of Florida summary-judgment opinion upholding OFAC’s Tornado
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
+## `SRC-CONCORD-V-ANTHROPIC-DOCKET`: Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811) { #SRC-CONCORD-V-ANTHROPIC-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket for the music-publisher lyric-copyright action against Anthropic, including the original Tennessee filing date reflected on the transferred complaint.
+
+### Cited By
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+
+## `SRC-CONCORD-V-ANTHROPIC-MTD-2025`: Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025) { #SRC-CONCORD-V-ANTHROPIC-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order allowing music publishers’ amended claims for secondary copyright infringement and DMCA CMI removal against Anthropic to proceed.
+
+### Cited By
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## `SRC-COOLEY-TECH`: Cooley Technology Industry Practice Page { #SRC-COOLEY-TECH }
 
 - Type: `source`
@@ -913,6 +968,60 @@ Official press page of the Free Software Foundation with founding date and missi
 ### Cited By
 - [`ORG-FSF: Free Software Foundation`](source-docs/knowledge/organizations/ORG-FSF.md)
 
+## `SRC-GARCIA-V-CHARACTER-COMPLAINT`: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024) { #SRC-GARCIA-V-CHARACTER-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
+- Tags: source, case, first-amendment, artificial-intelligence, digital-rights
+
+Wrongful-death and product-liability complaint alleging that a Character.AI chatbot contributed to the death of a 14-year-old user.
+
+### Cited By
+- [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+## `SRC-GARCIA-V-CHARACTER-MTD-2025`: Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025) { #SRC-GARCIA-V-CHARACTER-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+- Tags: source, case, first-amendment, artificial-intelligence, digital-rights
+
+Middle District of Florida order allowing most product-liability and negligence claims against Character.AI and Google to proceed while dismissing IIED and Alphabet Inc.
+
+### Cited By
+- [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+## `SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI) { #SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+First-instance Munich judgment holding that memorization of nine German song lyrics in GPT-4 and GPT-4o, and output of those lyrics, infringed German and EU copyright and was not covered by the text-and-data-mining exception.
+
+### Cited By
+- [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-GEMA-V-OPENAI-PRESS-2025`: Landgericht München I, Pressemitteilung 11/2025 (GEMA v. OpenAI) { #SRC-GEMA-V-OPENAI-PRESS-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Official court press release summarizing the November 11, 2025 GEMA v. OpenAI judgment and stating that the decision is not final.
+
+### Cited By
+- [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## `SRC-GNUNET-ABOUT`: GNUnet About Page { #SRC-GNUNET-ABOUT }
 
 - Type: `source`
@@ -1183,6 +1292,20 @@ Foundational 2002 conference paper by Petar Maymounkov and David Mazières descr
 ### Cited By
 - [`TOPIC-KADEMLIA: Kademlia`](source-docs/knowledge/technical/TOPIC-KADEMLIA.md)
 
+## `SRC-KADREY-V-META-FAIR-USE`: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025) { #SRC-KADREY-V-META-FAIR-USE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order granting Meta summary judgment on fair use for copying thirteen authors’ books as Llama training data on the record presented.
+
+### Cited By
+- [`CASE-KADREY-V-META: Kadrey v. Meta Platforms, Inc.`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-KAHN-CNRI`: Robert E. Kahn CNRI Biography { #SRC-KAHN-CNRI }
 
 - Type: `source`
@@ -1421,6 +1544,45 @@ Columbia Data Science Institute profile of Eben Moglen describing his work with 
 ### Cited By
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
 
+## `SRC-NYT-V-OPENAI-12C-2026`: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026) { #SRC-NYT-V-OPENAI-12C-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Southern District of New York order dismissing with prejudice news plaintiffs’ material-contribution contributory copyright claims against OpenAI and Microsoft after Cox.
+
+### Cited By
+- [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-NYT-V-OPENAI-COMPLAINT`: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023) { #SRC-NYT-V-OPENAI-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Complaint alleging that Microsoft and OpenAI copied New York Times works to train large language models and that model outputs reproduced Times content.
+
+### Cited By
+- [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+## `SRC-NYT-V-OPENAI-MTD-2025`: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025) { #SRC-NYT-V-OPENAI-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Southern District of New York opinion largely denying motions to dismiss publisher copyright claims against OpenAI and Microsoft while dismissing specified DMCA and hot-news claims.
+
+### Cited By
+- [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-OFAC-FAQ-1076`: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation { #SRC-OFAC-FAQ-1076 }
 
 - Type: `source`
@@ -1517,6 +1679,18 @@ Official history page of the Open Source Initiative documenting its founding and
 
 ### Cited By
 - [`ORG-OSI: Open Source Initiative`](source-docs/knowledge/organizations/ORG-OSI.md)
+
+## `SRC-OXFORD-BRAIN-ROT-WOTY-2024`: Oxford University Press — ‘Brain rot’ named Oxford Word of the Year 2024 { #SRC-OXFORD-BRAIN-ROT-WOTY-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md`](source-docs/bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md)
+- Tags: source, artificial-intelligence, digital-rights
+
+Official Oxford University Press announcement selecting “brain rot” as Oxford Word of the Year 2024 and publishing the press’s definition of the term.
+
+### Cited By
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
 
 ## `SRC-PACKINGHAM-GOVINFO`: Packingham v. North Carolina, 582 U.S. 98 (2017) (GovInfo) { #SRC-PACKINGHAM-GOVINFO }
 
@@ -1979,6 +2153,47 @@ Official Signal specification for the Extended Triple Diffie-Hellman key agreeme
 ### Cited By
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 
+## `SRC-SONY-V-UDIO-2026-COMPLAINT`: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026) { #SRC-SONY-V-UDIO-2026-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Second Sony-affiliated complaint against Udio asserting 30,117 additional sound recordings after leave to expand the 2024 action was denied.
+
+### Cited By
+- [`CASE-UMG-V-UDIO: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-SPYDER-V-MEMENTUM-COMPLAINT`: Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025) { #SRC-SPYDER-V-MEMENTUM-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Complaint seeking a declaration that AI-generated “brainrot” meme characters used in the Roblox game Steal a Brainrot are not protected by copyright.
+
+### Cited By
+- [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
+## `SRC-SPYDER-V-MEMENTUM-DOCKET`: Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248) { #SRC-SPYDER-V-MEMENTUM-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket record for the Steal a Brainrot copyright and trademark dispute in the Northern District of California.
+
+### Cited By
+- [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
 ## `SRC-STOLTZ-EFF-BIO`: Mitch Stoltz EFF Staff Biography { #SRC-STOLTZ-EFF-BIO }
 
 - Type: `source`
@@ -2042,6 +2257,36 @@ Official Telegram press page describing the messaging service, Dubai base, and P
 ### Cited By
 - [`ORG-TELEGRAM: Telegram`](source-docs/knowledge/organizations/ORG-TELEGRAM.md)
 - [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
+
+## `SRC-THALER-V-PERLMUTTER-CADC`: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025) { #SRC-THALER-V-PERLMUTTER-CADC }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+D.C. Circuit opinion affirming refusal to register a copyright in an image listed as authored solely by a generative-AI system.
+
+### Cited By
+- [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- [`CASE-THALER-V-PERLMUTTER: Thaler v. Perlmutter`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
+## `SRC-THOMSON-REUTERS-V-ROSS-2025`: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025) { #SRC-THOMSON-REUTERS-V-ROSS-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+District of Delaware memorandum opinion rejecting Ross Intelligence’s fair-use defense for using Westlaw headnotes to train a competing non-generative legal-research AI.
+
+### Cited By
+- [`CASE-THOMSON-REUTERS-V-ROSS: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-TIEN-EFF`: Lee Tien EFF Staff Biography { #SRC-TIEN-EFF }
 
@@ -2228,6 +2473,75 @@ Texas Tribune report that the U.S. Supreme Court declined to intervene against e
 - [`CASE-CCIA-V-PAXTON-SB2420: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
 
+## `SRC-UMG-V-SUNO-ANSWER`: UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024) { #SRC-UMG-V-SUNO-ANSWER }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Suno’s answer admitting that its model was built from tens of millions of recordings and asserting fair use, copyright misuse, and other defenses.
+
+### Cited By
+- [`CASE-UMG-V-SUNO: UMG Recordings, Inc. v. Suno, Inc.`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-UMG-V-SUNO-COMPLAINT`: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024) { #SRC-UMG-V-SUNO-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Major-label complaint alleging that Suno copied copyrighted sound recordings to train a generative music service and seeking damages and injunctive relief.
+
+### Cited By
+- [`CASE-UMG-V-SUNO: UMG Recordings, Inc. v. Suno, Inc.`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-UMG-V-SUNO-WARNER-DISMISSAL`: UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs’ stipulation of dismissal (D. Mass. Dec. 9, 2025) { #SRC-UMG-V-SUNO-WARNER-DISMISSAL }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Rule 41 stipulation dismissing Warner-affiliated plaintiffs’ claims against Suno with prejudice while leaving UMG and Sony claims unaffected.
+
+### Cited By
+- [`CASE-UMG-V-SUNO: UMG Recordings, Inc. v. Suno, Inc.`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-UMG-V-UDIO-COMPLAINT`: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024) { #SRC-UMG-V-UDIO-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Major-label complaint alleging that Uncharted Labs (Udio) copied copyrighted sound recordings to train a generative music service.
+
+### Cited By
+- [`CASE-UMG-V-UDIO: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-UMG-V-UDIO-DOCKET`: UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777) { #SRC-UMG-V-UDIO-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket for the original major-label copyright action against Udio, including later stipulations dismissing UMG and Warner claims.
+
+### Cited By
+- [`CASE-UMG-V-UDIO: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## `SRC-US-CONST-AMEND-I-LII`: U.S. Constitution First Amendment (Cornell LII) { #SRC-US-CONST-AMEND-I-LII }
 
 - Type: `source`
@@ -2276,8 +2590,16 @@ Official GovInfo U.S. Code page for 17 U.S.C. section 107, the fair use limitati
 Cornell Legal Information Institute page for 17 U.S.C. section 107, the U.S. fair use statute.
 
 ### Cited By
+- [`CASE-BARTZ-V-ANTHROPIC: Bartz v. Anthropic PBC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`CASE-KADREY-V-META: Kadrey v. Meta Platforms, Inc.`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-THOMSON-REUTERS-V-ROSS: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.`](source-docs/knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md)
+- [`CASE-UMG-V-SUNO: UMG Recordings, Inc. v. Suno, Inc.`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
+- [`CASE-UMG-V-UDIO: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)`](source-docs/knowledge/legal/CASE-UMG-V-UDIO.md)
 - [`STAT-USC-107: 17 U.S.C. § 107`](source-docs/knowledge/legal/STAT-USC-107.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - [`TOPIC-FAIR-USE-VIDEO: Fair Use and Video`](source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md)
 
 ## `SRC-USC-17-512-GOVINFO`: 17 U.S.C. § 512 (GovInfo) { #SRC-USC-17-512-GOVINFO }
@@ -2351,6 +2673,36 @@ Cornell Legal Information Institute page for 18 U.S.C. § 2232, destruction or r
 - [`STAT-18-USC-2232: 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure`](source-docs/knowledge/legal/STAT-18-USC-2232.md)
 - [`TOPIC-DEVICE-SEARCH: Device Search, Seizure, and Anti-Forensics`](source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 
+## `SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025) { #SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+- Tags: source, copyright, artificial-intelligence
+
+Copyright Office report concluding that existing U.S. law can resolve AI copyrightability questions and that purely AI-generated material is not copyrightable.
+
+### Cited By
+- [`CASE-THALER-V-PERLMUTTER: Thaler v. Perlmutter`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
+## `SRC-USCO-AI-REGISTRATION-GUIDANCE-2023`: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023) { #SRC-USCO-AI-REGISTRATION-GUIDANCE-2023 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
+- Tags: source, copyright, artificial-intelligence
+
+U.S. Copyright Office statement of policy on examining and registering works that contain AI-generated material, effective March 16, 2023.
+
+### Cited By
+- [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
+- [`CASE-THALER-V-PERLMUTTER: Thaler v. Perlmutter`](source-docs/knowledge/legal/CASE-THALER-V-PERLMUTTER.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-BRAIN-ROT: Brain Rot and AI-Generated Meme Characters`](source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+
 ## `SRC-VAN-BUREN-GOVINFO`: Van Buren v. United States, 593 U.S. 374 (2021) (GovInfo) { #SRC-VAN-BUREN-GOVINFO }
 
 - Type: `source`
@@ -2416,6 +2768,7 @@ Official EFF biography page for Kit Walsh documenting her role as Senior Staff A
 
 ### Cited By
 - [`PERSON-KIT-WALSH: Kit Walsh`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
 ## `SRC-WEINSTEIN-BIO`: Lauren Weinstein Biography Page { #SRC-WEINSTEIN-BIO }
 
