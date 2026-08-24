@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-08-22T06:22:21.757998Z",
+  "generated_at": "2026-08-23T06:24:10.714157Z",
   "summary": {
-    "open_prs": 1,
+    "open_prs": 0,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 239,
+    "draft_content": 279,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [
-    {
-      "number": 102,
-      "title": "chore: update moderation and taxonomy reports [automated]",
-      "author": "app/github-actions",
-      "labels": [],
-      "areas": [
-        "website"
-      ],
-      "age_days": 0,
-      "stale_days": 0,
-      "is_ai": false,
-      "is_draft": false,
-      "needs_review": false,
-      "is_stale": false,
-      "priority": 0
-    }
-  ],
+  "pull_requests": [],
   "draft_content": [
     {
       "path": "knowledge/legal/CASE-US-V-SKLYAROV.md",
@@ -97,6 +80,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-UMG-V-UDIO.md",
+      "id": "CASE-UMG-V-UDIO",
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-FIRST-AMENDMENT.md",
       "id": "TOPIC-FIRST-AMENDMENT",
       "title": "First Amendment",
@@ -155,6 +151,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md",
+      "id": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "title": "Music Copyright and Generative AI",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-CODE-AS-SPEECH.md",
       "id": "TOPIC-CODE-AS-SPEECH",
       "title": "Code as Speech",
@@ -184,6 +193,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-KADREY-V-META.md",
+      "id": "CASE-KADREY-V-META",
+      "title": "Kadrey v. Meta Platforms, Inc.",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-US-V-RODRIGUEZ.md",
       "id": "CASE-US-V-RODRIGUEZ",
       "title": "United States v. Rodriguez (Samourai Wallet)",
@@ -196,6 +218,19 @@
         "developer-rights",
         "privacy",
         "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md",
+      "id": "CASE-CONCORD-V-ANTHROPIC",
+      "title": "Concord Music Group, Inc. v. Anthropic PBC",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
@@ -224,6 +259,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md",
+      "id": "CASE-BARTZ-V-ANTHROPIC",
+      "title": "Bartz v. Anthropic PBC",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md",
       "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
       "title": "App Store and Operating System Age-Verification Laws",
@@ -236,6 +284,19 @@
         "digital-rights",
         "public-policy",
         "internet-governance"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-UMG-V-SUNO.md",
+      "id": "CASE-UMG-V-SUNO",
+      "title": "UMG Recordings, Inc. v. Suno, Inc.",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
@@ -264,6 +325,32 @@
         "developer-rights",
         "speech-and-code",
         "case-studies"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-NYT-V-OPENAI.md",
+      "id": "CASE-NYT-V-OPENAI",
+      "title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-GEMA-V-OPENAI.md",
+      "id": "CASE-GEMA-V-OPENAI",
+      "title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
@@ -324,6 +411,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/CASE-THALER-V-PERLMUTTER.md",
+      "id": "CASE-THALER-V-PERLMUTTER",
+      "title": "Thaler v. Perlmutter",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "knowledge/legal/CASE-CARPENTER-V-US.md",
       "id": "CASE-CARPENTER-V-US",
       "title": "Carpenter v. United States",
@@ -345,6 +445,33 @@
       "tags": [
         "copyright",
         "safe-harbor",
+        "intermediary-liability"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-SPYDER-V-MEMENTUM.md",
+      "id": "CASE-SPYDER-V-MEMENTUM",
+      "title": "Spyder Games LLC v. Mementum Lab",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md",
+      "id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "title": "Garcia v. Character Technologies, Inc.",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights",
         "intermediary-liability"
       ]
     },
@@ -488,6 +615,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-BRAIN-ROT.md",
+      "id": "TOPIC-BRAIN-ROT",
+      "title": "Brain Rot and AI-Generated Meme Characters",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "artificial-intelligence",
+        "copyright",
+        "digital-rights",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/STAT-SECTION-230.md",
       "id": "STAT-SECTION-230",
       "title": "Section 230 (47 U.S.C. \u00a7 230)",
@@ -501,6 +641,19 @@
       ]
     },
     {
+      "path": "knowledge/legal/TOPIC-AI-COPYRIGHT.md",
+      "id": "TOPIC-AI-COPYRIGHT",
+      "title": "Copyright and Generative AI",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights",
+        "case-studies"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
       "id": "TOPIC-SAFE-HARBOR",
       "title": "Online Service Provider Safe Harbor",
@@ -511,6 +664,21 @@
         "safe-harbor",
         "intermediary-liability",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/legal/TOPIC-AI-LITIGATION.md",
+      "id": "TOPIC-AI-LITIGATION",
+      "title": "AI Litigation Landscape",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "artificial-intelligence",
+        "copyright",
+        "first-amendment",
+        "digital-rights",
+        "case-studies",
+        "intermediary-liability"
       ]
     },
     {
@@ -566,6 +734,19 @@
         "safe-harbor",
         "digital-rights",
         "intermediary-liability"
+      ]
+    },
+    {
+      "path": "knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md",
+      "id": "CASE-THOMSON-REUTERS-V-ROSS",
+      "title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
@@ -1779,6 +1960,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md",
+      "id": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md",
       "id": "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
       "title": "Dutch Judiciary English News \u2014 Tornado Cash Developer Jail Sentence (May 2024)",
@@ -1788,6 +1982,19 @@
         "source",
         "case",
         "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md",
+      "id": "SRC-GEMA-V-OPENAI-PRESS-2025",
+      "title": "Landgericht M\u00fcnchen I, Pressemitteilung 11/2025 (GEMA v. OpenAI)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -1801,6 +2008,19 @@
         "surveillance",
         "digital-rights",
         "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md",
+      "id": "SRC-UMG-V-UDIO-DOCKET",
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-04777)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -1829,6 +2049,20 @@
         "digital-rights",
         "secure-messaging",
         "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md",
+      "id": "SRC-GARCIA-V-CHARACTER-MTD-2025",
+      "title": "Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
@@ -1885,6 +2119,20 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md",
+      "id": "SRC-GARCIA-V-CHARACTER-COMPLAINT",
+      "title": "Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md",
       "id": "SRC-VAN-LOON-5TH-CIR-JUSTIA",
       "title": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)",
@@ -1899,6 +2147,32 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md",
+      "id": "SRC-NYT-V-OPENAI-COMPLAINT",
+      "title": "The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md",
+      "id": "SRC-NYT-V-OPENAI-MTD-2025",
+      "title": "The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md",
       "id": "SRC-DOJ-SKLYAROV-INDICTMENT-2001",
       "title": "DOJ \u2014 First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001)",
@@ -1909,6 +2183,18 @@
         "case",
         "copyright",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md",
+      "id": "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025",
+      "title": "U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 \u2014 Copyrightability (January 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -1979,6 +2265,32 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md",
+      "id": "SRC-SPYDER-V-MEMENTUM-DOCKET",
+      "title": "Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md",
+      "id": "SRC-SONY-V-UDIO-2026-COMPLAINT",
+      "title": "Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md",
       "id": "SRC-TREASURY-TC-DELIST-2025",
       "title": "Tornado Cash Delisting (Mar. 21, 2025)",
@@ -1988,6 +2300,19 @@
         "source",
         "sanctions",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md",
+      "id": "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2014,6 +2339,18 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md",
+      "id": "SRC-USCO-AI-REGISTRATION-GUIDANCE-2023",
+      "title": "Copyright Registration Guidance \u2014 Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md",
       "id": "SRC-DOJ-STORM-CONVICTION-2025",
       "title": "SDNY National Security Page \u2014 Roman Storm Conviction Note (Aug. 2025)",
@@ -2023,6 +2360,19 @@
         "source",
         "case",
         "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md",
+      "id": "SRC-UMG-V-SUNO-ANSWER",
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Answer of Defendant Suno (D. Mass. Aug. 1, 2024)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2065,6 +2415,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md",
+      "id": "SRC-NYT-V-OPENAI-12C-2026",
+      "title": "The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TX-TRIBUNE-SB2420-SCOTUS-2026.md",
       "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
       "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
@@ -2078,6 +2441,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md",
+      "id": "SRC-THALER-V-PERLMUTTER-CADC",
+      "title": "Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md",
       "id": "SRC-IRS-SAMOURAI-SENTENCE-2025",
       "title": "IRS-CI \u2014 Samourai Wallet Founders Sentenced (Nov. 2025)",
@@ -2088,6 +2464,19 @@
         "case",
         "computer-crime",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md",
+      "id": "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+      "title": "Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2116,6 +2505,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md",
+      "id": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
+      "title": "Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-PERTSEV-ECLI-2024.md",
       "id": "SRC-PERTSEV-ECLI-2024",
       "title": "Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)",
@@ -2126,6 +2528,19 @@
         "case",
         "computer-crime",
         "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md",
+      "id": "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
+      "title": "Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2168,6 +2583,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md",
+      "id": "SRC-UMG-V-SUNO-WARNER-DISMISSAL",
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Warner plaintiffs\u2019 stipulation of dismissal (D. Mass. Dec. 9, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TREASURY-BLENDER-2022.md",
       "id": "SRC-TREASURY-BLENDER-2022",
       "title": "Treasury Issues First Sanctions on a Virtual Currency Mixer \u2014 Blender.io (May 6, 2022)",
@@ -2205,6 +2633,19 @@
         "statute",
         "age-verification",
         "public-policy"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md",
+      "id": "SRC-THOMSON-REUTERS-V-ROSS-2025",
+      "title": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2296,6 +2737,32 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md",
+      "id": "SRC-KADREY-V-META-FAIR-USE",
+      "title": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md",
+      "id": "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+      "title": "LG M\u00fcnchen I, Endurteil v. 11.11.2025 \u2013 42 O 14139/24 (GEMA v. OpenAI)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-CHATRIE-SCOTUS-PDF.md",
       "id": "SRC-CHATRIE-SCOTUS-PDF",
       "title": "Chatrie v. United States, No. 25-112 (June 29, 2026) (Supreme Court slip opinion PDF)",
@@ -2324,6 +2791,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md",
+      "id": "SRC-UMG-V-UDIO-COMPLAINT",
+      "title": "UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026.md",
       "id": "SRC-TECHSPOT-TUNICK-GRAPHENEOS-2026",
       "title": "TechSpot \u2014 Prosecutors Charge Atlanta Man After GrapheneOS Phone Wipe (2026)",
@@ -2349,6 +2829,19 @@
         "case",
         "computer-crime",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md",
+      "id": "SRC-UMG-V-SUNO-COMPLAINT",
+      "title": "UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
       ]
     },
     {
@@ -2440,6 +2933,18 @@
         "organization",
         "first-amendment",
         "outreach"
+      ]
+    },
+    {
+      "path": "bibliography/organizations/SRC-OXFORD-BRAIN-ROT-WOTY-2024.md",
+      "id": "SRC-OXFORD-BRAIN-ROT-WOTY-2024",
+      "title": "Oxford University Press \u2014 \u2018Brain rot\u2019 named Oxford Word of the Year 2024",
+      "status": "draft",
+      "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "artificial-intelligence",
+        "digital-rights"
       ]
     },
     {
