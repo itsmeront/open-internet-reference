@@ -226,6 +226,82 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (via CourtListener / PACER)",
+        "publication date": "2023-01-13",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/66732129/andersen-v-stability-ai-ltd/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-ANDERSEN-V-STABILITY-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket for the visual-artists putative class action against Stability AI, Midjourney, DeviantArt, and Runway.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201)",
+      "type": "source",
+      "used_for": [
+        "`CASE-ANDERSEN-V-STABILITY`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge William H. Orrick)",
+        "publication date": "2024-08-12",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.407208/gov.uscourts.cand.407208.223.0_3.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order allowing artists\u2019 Copyright Act and some Lanham Act claims against Stability AI, Midjourney, DeviantArt, and Runway to proceed, while dismissing DMCA claims with prejudice.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-ANDERSEN-V-STABILITY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-29",
         "author or issuing body": "Associated Press",
         "publication date": "2026-07-29",
@@ -600,6 +676,46 @@
       "type": "source",
       "used_for": [
         "`PERSON-MATT-BLAZE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "BMG Rights Management (US) LLC (plaintiff filing)",
+        "publication date": "2026-03-17",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.466061/gov.uscourts.cand.466061.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "BMG publisher complaint alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works, and removed copyright management information.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-BMG-V-ANTHROPIC`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -1651,6 +1767,81 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Concord Music Group, Inc. et al. (plaintiff filing)",
+        "publication date": "2026-01-28",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.463362/gov.uscourts.cand.463362.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CONCORD-II-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CONCORD-II-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Second Concord/UMG/ABKCO publisher complaint against Anthropic, Dario Amodei, and Benjamin Mann alleging torrenting of books containing musical compositions and later Claude training and outputs.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CONCORD-V-ANTHROPIC`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Eumi K. Lee)",
+        "publication date": "2026-02-18",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.463362/gov.uscourts.cand.463362.57.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-CONCORD-II-RELATED-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-CONCORD-II-RELATED-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Order relating Concord II (No. 5:26-cv-00880) to Concord I (No. 5:24-cv-03811) before Judge Eumi K. Lee.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Concord Music Group, Inc. v. Anthropic PBC, Related Case Order (N.D. Cal. Feb. 18, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-CONCORD-V-ANTHROPIC`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-08-22",
         "archive url": "None recorded",
         "author or issuing body": "United States District Court for the Northern District of California (via CourtListener / PACER)",
@@ -1913,6 +2104,164 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Disney Enterprises, Inc. et al. (plaintiff filing)",
+        "publication date": "2025-06-11",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.973999/gov.uscourts.cacd.973999.1.0_3.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Studio complaint alleging that Midjourney copied Disney and Universal character works to train an image generator and that the service outputs unauthorized reproductions and derivatives.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DISNEY-V-MIDJOURNEY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Central District of California (Magistrate Judge A. Joel Richlin)",
+        "publication date": "2026-06-15",
+        "source type": "District court discovery order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cacd.973999/gov.uscourts.cacd.973999.88.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Magistrate discovery order in the consolidated Disney/Universal/Warner Bros. action against Midjourney, limiting compelled production of the studios\u2019 own generative-AI materials to consumer-facing uses of the asserted works.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DISNEY-V-MIDJOURNEY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Court of Appeals for the Ninth Circuit (via CourtListener / PACER)",
+        "publication date": "2024-12-23",
+        "source type": "Public appellate docket",
+        "url": "https://www.courtlistener.com/docket/69495342/doe-et-al-v-github-inc-et-al/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Ninth Circuit CourtListener docket for the interlocutory appeal from the Northern District of California Copilot / GitHub copyright-management-information order.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "open-source-software"
+      ],
+      "title": "Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DOE-V-GITHUB`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Jon S. Tigar)",
+        "publication date": "2024-06-24",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.403220/gov.uscourts.cand.403220.253.0_1.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DOE-V-GITHUB-MTD-2024",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order dismissing with prejudice open-source developers\u2019 DMCA \u00a7 1202(b) claims against GitHub, Microsoft, and OpenAI entities, while allowing breach-of-open-source-license claims to proceed.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "open-source-software"
+      ],
+      "title": "Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DOE-V-GITHUB`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-23",
         "archive url": "None recorded",
         "author or issuing body": "U.S. Department of Justice (Cybercrime archive)",
@@ -2060,6 +2409,82 @@
       "used_for": [
         "`CASE-US-V-STORM`",
         "`TOPIC-TORNADO-CASH`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (via CourtListener / PACER)",
+        "publication date": "2024-10-21",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/69280523/dow-jones-company-inc-v-perplexity-ai-inc/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DOW-JONES-V-PERPLEXITY-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket for the Wall Street Journal and New York Post copyright action against Perplexity AI.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Dow Jones & Co. v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-07984)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DOW-JONES-V-PERPLEXITY`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (Judge Katherine Polk Failla)",
+        "publication date": "2025-08-21",
+        "source type": "District court opinion (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.nysd.630270/gov.uscourts.nysd.630270.65.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Southern District of New York opinion denying Perplexity\u2019s motions to dismiss for lack of personal jurisdiction and improper venue, denying transfer, and allowing later-registered works to remain in the case.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DOW-JONES-V-PERPLEXITY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -2996,6 +3421,123 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "High Court of Justice, Business and Property Courts of England and Wales, Intellectual Property List (ChD) (Mrs Justice Joanna Smith DBE)",
+        "publication date": "2025-11-04",
+        "source type": "First-instance judgment (PDF)",
+        "url": "https://www.judiciary.uk/wp-content/uploads/2025/11/Getty-Images-v-Stability-AI.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GETTY-V-STABILITY-EWHC-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "High Court of England and Wales trial judgment dismissing Getty\u2019s secondary copyright claim against Stable Diffusion and finding limited historic trade-mark infringement from generated watermarks.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GETTY-V-STABILITY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Getty Images (US), Inc. (plaintiff filing)",
+        "publication date": "2025-08-14",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.454636/gov.uscourts.cand.454636.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Getty Images complaint alleging that Stability AI copied millions of Getty photographs to train Stable Diffusion and infringed copyrights and trademarks.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Getty Images (US), Inc. v. Stability AI, Ltd., Complaint (N.D. Cal. Aug. 14, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GETTY-V-STABILITY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Trina L. Thompson)",
+        "publication date": "2026-04-23",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.454636/gov.uscourts.cand.454636.53.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GETTY-V-STABILITY-US-MTD-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order dismissing Getty\u2019s DMCA \u00a7 1202(a) false-CMI claim without prejudice and allowing trademark and California unfair-competition claims to proceed.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-GETTY-V-STABILITY`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-08-08",
         "author or issuing body": "GNUnet project",
         "source type": "Official project page",
@@ -3029,6 +3571,45 @@
       "used_for": [
         "`TECH-GNUNET`",
         "`TOPIC-DECENTRALIZED-MODERATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Judge Eumi K. Lee)",
+        "publication date": "2025-09-11",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.415223/gov.uscourts.cand.415223.216.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-GOOGLE-GEN-AI-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order dismissing with prejudice direct-infringement claims as to specified Google models and vicarious claims against Alphabet, while leaving training claims as to Bard, Gemini, Imagen, and related models for later stages.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-IN-RE-GOOGLE-GEN-AI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -3516,6 +4097,45 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (Judge Sidney H. Stein)",
+        "publication date": "2025-10-27",
+        "source type": "District court opinion (PDF)",
+        "url": "https://www.loeb.com/-/media/files/pdfs/2025-pdfs/ip-entertainment-pdfs/in-re-openai-motion-to-dismiss-opinion.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Southern District of New York order holding that author class plaintiffs adequately pleaded ChatGPT output-based copyright infringement, without deciding fair use.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-IN-RE-OPENAI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-23",
         "archive url": "None recorded",
         "author or issuing body": "Internal Revenue Service, Criminal Investigation",
@@ -3661,6 +4281,45 @@
       "type": "source",
       "used_for": [
         "`PERSON-CINDY-COHN`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States Judicial Panel on Multidistrict Litigation",
+        "publication date": "2025-03",
+        "source type": "JPML transfer order (PDF)",
+        "url": "https://www.jpml.uscourts.gov/sites/jpml/files/MDL-3143-Transfer_Order-3-25.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-JPML-OPENAI-MDL-3143",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Judicial Panel on Multidistrict Litigation order centralizing OpenAI copyright actions in the Southern District of New York before Judge Sidney H. Stein.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)",
+      "type": "source",
+      "used_for": [
+        "`CASE-IN-RE-OPENAI`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -3929,6 +4588,84 @@
       "type": "source",
       "used_for": [
         "`PERSON-RO-KHANNA`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Landgericht Hamburg, 10. Zivilkammer",
+        "publication date": "2024-09-27",
+        "source type": "First-instance judgment (HTML reprint)",
+        "url": "https://rewis.io/urteile/urteil/c8o-27-09-2024-310-o-22723/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-KNESCHKE-LG-HAMBURG-2024",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Hamburg Regional Court first-instance judgment dismissing a photographer\u2019s claim against LAION, holding that downloading an image to build a training dataset was covered by the scientific-research text-and-data-mining exception.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024)",
+      "type": "source",
+      "used_for": [
+        "`CASE-KNESCHKE-V-LAION`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Hanseatisches Oberlandesgericht (as reported in Medien Internet und Recht)",
+        "publication date": "2025-12-10",
+        "source type": "Court decision report / press reprint",
+        "url": "https://medien-internet-und-recht.de/volltext.php?mir_dok_id=3526"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-KNESCHKE-OLG-HAMBURG-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Hanseatic Higher Regional Court report that the photographer\u2019s appeal was dismissed and that LAION\u2019s dataset download was covered by both \u00a7 44b and \u00a7 60d UrhG.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-KNESCHKE-V-LAION`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -4645,6 +5382,44 @@
         "`CASE-NYT-V-OPENAI`",
         "`TOPIC-AI-COPYRIGHT`",
         "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Southern District of New York (via CourtListener / PACER)",
+        "publication date": "2025-12-05",
+        "source type": "Public docket",
+        "url": "https://www.courtlistener.com/docket/71997720/the-new-york-times-company-v-perplexity-ai-inc/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-NYT-V-PERPLEXITY-DOCKET",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "CourtListener docket for the New York Times copyright and trademark action against Perplexity AI, filed December 5, 2025.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106)",
+      "type": "source",
+      "used_for": [
+        "`CASE-DOW-JONES-V-PERPLEXITY`",
+        "`CASE-NYT-V-OPENAI`"
       ]
     },
     {
@@ -6378,6 +7153,46 @@
         "Signal Protocol",
         "Secure messaging",
         "X3DH key agreement"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-02",
+        "archive url": "None recorded",
+        "author or issuing body": "Sony Music Publishing (US) LLC, Warner Chappell Music, Inc., et al. (plaintiff filing)",
+        "publication date": "2026-08-28",
+        "source type": "District court complaint (PDF)",
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Sony-v-Anthropic-Complaint-8-28-26.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Music-publisher complaint alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude, and that outputs reproduce those compositions.",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ],
+      "title": "Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-SONY-V-ANTHROPIC`",
+        "`TOPIC-AI-MUSIC-COPYRIGHT`",
+        "`TOPIC-AI-COPYRIGHT`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {

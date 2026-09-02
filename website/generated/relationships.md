@@ -2,7 +2,37 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 501
+Edge count: 569
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `cites` [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
 
 ## [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md) `cites` [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
 
@@ -48,6 +78,21 @@ Edge count: 501
 
 - Declared in: [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md)
+
+## [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `cites` [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
+- Declared in: [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
+## [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+
+- Declared in: [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
+## [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+- Declared in: [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
 
 ## [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md) `cites` [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md)
 
@@ -149,15 +194,30 @@ Edge count: 501
 - Declared in: [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - Sources: [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md)
 
+## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `cites` [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md)
+
+- Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Sources: [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md)
+
 ## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `cites` [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
 
 - Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 - Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
 
+## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+
+- Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
 ## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 
 - Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 - Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+
+## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+
+- Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 
 ## [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
@@ -168,6 +228,56 @@ Edge count: 501
 
 - Declared in: [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 - Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+
+## [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `cites` [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+- Declared in: [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+## [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+## [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+## [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `cites` [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+- Declared in: [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+
+- Declared in: [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `cites` [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+
+- Declared in: [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+
+## [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+- Declared in: [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+
+## [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
 
 ## [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `cites` [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
@@ -204,6 +314,11 @@ Edge count: 501
 - Declared in: [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
 
+## [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+- Declared in: [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Sources: [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
+
 ## [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
 - Declared in: [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
@@ -214,6 +329,31 @@ Edge count: 501
 - Declared in: [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
 
+## [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `cites` [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+
+- Declared in: [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+
+## [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `cites` [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+
+- Declared in: [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Sources: [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+
+## [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+
+## [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+- Declared in: [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Sources: [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+
+## [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+
 ## [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md) `cites` [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 
 - Declared in: [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
@@ -223,6 +363,46 @@ Edge count: 501
 
 - Declared in: [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - Sources: [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
+
+## [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `cites` [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+- Declared in: [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+- Declared in: [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `cites` [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
+- Declared in: [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
+## [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `cites` [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+
+- Declared in: [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Sources: [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+
+## [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+- Declared in: [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Sources: [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+
+## [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
 
 ## [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 
@@ -263,6 +443,26 @@ Edge count: 501
 
 - Declared in: [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 - Sources: [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
+
+## [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `cites` [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+
+- Declared in: [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+
+## [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+
+- Declared in: [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Sources: [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
+
+## [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+
+- Declared in: [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+
+## [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+- Declared in: [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
 
 ## [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md) `cites` [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 
@@ -313,6 +513,16 @@ Edge count: 501
 
 - Declared in: [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - Sources: [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+
+## [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+- Declared in: [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Sources: [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md)
+
+## [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+
+- Declared in: [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Sources: [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
 
 ## [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`STAT-USC-107`](source-docs/knowledge/legal/STAT-USC-107.md)
 
@@ -393,6 +603,26 @@ Edge count: 501
 
 - Declared in: [`CASE-RENO-V-ACLU`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - Sources: [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md)
+
+## [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `cites` [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+
+- Declared in: [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+
+## [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+
+- Declared in: [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+
+## [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+
+- Declared in: [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+
+## [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+- Declared in: [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 
 ## [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md) `cites` [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
 
@@ -1850,35 +2080,85 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
 
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
 
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
 
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
 
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
 
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
 
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+
+## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 
 ## [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
 
@@ -1930,15 +2210,40 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
 
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 
@@ -1950,15 +2255,40 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
 
@@ -2012,6 +2342,11 @@ Adjacent inventory of proceedings against software authors; Garcia is civil prod
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
+## [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
 ## [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 
 - Declared in: [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
@@ -2021,6 +2356,11 @@ Adjacent inventory of proceedings against software authors; Garcia is civil prod
 
 - Declared in: [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+
+## [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+
+- Declared in: [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 
 ## [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-UMG-V-SUNO`](source-docs/knowledge/legal/CASE-UMG-V-SUNO.md)
 

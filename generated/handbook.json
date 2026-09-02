@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 143,
+  "record_count": 153,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -229,6 +229,20 @@
       "type": "attorney"
     },
     {
+      "id": "CASE-ANDERSEN-V-STABILITY",
+      "path": "knowledge/legal/CASE-ANDERSEN-V-STABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-ANDERSEN-V-STABILITY-DOCKET",
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.",
+      "title": "Andersen v. Stability AI Ltd.",
+      "type": "case"
+    },
+    {
       "id": "CASE-BARTZ-V-ANTHROPIC",
       "path": "knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md",
@@ -254,6 +268,18 @@
       "status": "draft",
       "summary": "Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.",
       "title": "Bernstein v. United States Department of Justice",
+      "type": "case"
+    },
+    {
+      "id": "CASE-BMG-V-ANTHROPIC",
+      "path": "knowledge/legal/CASE-BMG-V-ANTHROPIC.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.",
+      "title": "BMG Rights Management (US) LLC v. Anthropic PBC",
       "type": "case"
     },
     {
@@ -334,11 +360,55 @@
       "sources": [
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-CONCORD-II-RELATED-2026",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-USC-17-107-LII"
       ],
       "status": "draft",
-      "summary": "Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims.",
+      "summary": "Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.",
       "title": "Concord Music Group, Inc. v. Anthropic PBC",
+      "type": "case"
+    },
+    {
+      "id": "CASE-DISNEY-V-MIDJOURNEY",
+      "path": "knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.",
+      "title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-DOE-V-GITHUB",
+      "path": "knowledge/legal/CASE-DOE-V-GITHUB.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET"
+      ],
+      "status": "draft",
+      "summary": "Open-source developers\u2019 action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.",
+      "title": "Doe 1 v. GitHub, Inc.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-DOW-JONES-V-PERPLEXITY",
+      "path": "knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-DOCKET",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
+      ],
+      "status": "draft",
+      "summary": "Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity\u2019s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.",
+      "title": "Dow Jones & Co. v. Perplexity AI, Inc.",
       "type": "case"
     },
     {
@@ -360,11 +430,26 @@
       "source_doc_path": "source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md",
       "sources": [
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
-        "SRC-GEMA-V-OPENAI-PRESS-2025"
+        "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
       ],
       "status": "draft",
       "summary": "First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.",
       "title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+      "type": "case"
+    },
+    {
+      "id": "CASE-GETTY-V-STABILITY",
+      "path": "knowledge/legal/CASE-GETTY-V-STABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026"
+      ],
+      "status": "draft",
+      "summary": "English High Court trial judgment dismissing Getty\u2019s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.",
+      "title": "Getty Images (US), Inc. v. Stability AI Ltd.",
       "type": "case"
     },
     {
@@ -377,6 +462,31 @@
       "status": "draft",
       "summary": "Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.",
       "title": "Google LLC v. Oracle America, Inc.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "path": "knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.",
+      "title": "In re Google Generative AI Copyright Litigation",
+      "type": "case"
+    },
+    {
+      "id": "CASE-IN-RE-OPENAI",
+      "path": "knowledge/legal/CASE-IN-RE-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md",
+      "sources": [
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI\u2019s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.",
+      "title": "In re OpenAI, Inc., Copyright Infringement Litigation",
       "type": "case"
     },
     {
@@ -403,6 +513,19 @@
       "status": "draft",
       "summary": "Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors\u2019 books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.",
       "title": "Kadrey v. Meta Platforms, Inc.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-KNESCHKE-V-LAION",
+      "path": "knowledge/legal/CASE-KNESCHKE-V-LAION.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
+      ],
+      "status": "draft",
+      "summary": "German photographer\u2019s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.",
+      "title": "Kneschke v. LAION e.V.",
       "type": "case"
     },
     {
@@ -440,7 +563,9 @@
       "sources": [
         "SRC-NYT-V-OPENAI-COMPLAINT",
         "SRC-NYT-V-OPENAI-MTD-2025",
-        "SRC-NYT-V-OPENAI-12C-2026"
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
       ],
       "status": "draft",
       "summary": "Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.",
@@ -486,6 +611,18 @@
       "status": "draft",
       "summary": "Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.",
       "title": "Reno v. American Civil Liberties Union",
+      "type": "case"
+    },
+    {
+      "id": "CASE-SONY-V-ANTHROPIC",
+      "path": "knowledge/legal/CASE-SONY-V-ANTHROPIC.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.",
+      "title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
       "type": "case"
     },
     {
@@ -1661,11 +1798,28 @@
         "SRC-UMG-V-UDIO-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-USC-17-107-LII",
         "SRC-WALSH-EFF-BIO"
       ],
       "status": "draft",
-      "summary": "U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.",
+      "summary": "U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.",
       "title": "Copyright and Generative AI",
       "type": "topic"
     },
@@ -1687,10 +1841,26 @@
         "SRC-UMG-V-SUNO-COMPLAINT",
         "SRC-UMG-V-UDIO-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
-        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
       ],
       "status": "draft",
-      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.",
+      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.",
       "title": "AI Litigation Landscape",
       "type": "topic"
     },
@@ -1708,10 +1878,14 @@
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
         "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-CONCORD-II-RELATED-2026",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-USC-17-107-LII"
       ],
       "status": "draft",
-      "summary": "Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.",
+      "summary": "Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.",
       "title": "Music Copyright and Generative AI",
       "type": "topic"
     },

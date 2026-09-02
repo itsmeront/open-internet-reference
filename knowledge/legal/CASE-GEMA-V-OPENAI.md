@@ -12,6 +12,7 @@ tags:
 sources:
   - SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025
   - SRC-GEMA-V-OPENAI-PRESS-2025
+  - SRC-KNESCHKE-OLG-HAMBURG-2025
 relationships:
   - subject: CASE-GEMA-V-OPENAI
     predicate: cites
@@ -33,7 +34,12 @@ relationships:
     object: CASE-CONCORD-V-ANTHROPIC
     sources:
       - SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025
-last_verified: "2026-08-22"
+  - subject: CASE-GEMA-V-OPENAI
+    predicate: related_to
+    object: CASE-KNESCHKE-V-LAION
+    sources:
+      - SRC-KNESCHKE-OLG-HAMBURG-2025
+last_verified: "2026-09-02"
 decision_date: "2025-11-11"
 ---
 
@@ -59,9 +65,11 @@ GEMA v. OpenAI, Az. 42 O 14139/24 (LG München I, Nov. 11, 2025), is a German fi
 
 [^2]: `SRC-GEMA-V-OPENAI-PRESS-2025` — Official court press release (Nov. 11, 2025). Primary for summary holdings, dismissed personality-rights claim, and non-final status.
 
+[^3]: `SRC-KNESCHKE-OLG-HAMBURG-2025` — OLG Hamburg, 5 U 104/24 (Dec. 10, 2025). Primary for the distinct dataset-TDM appellate report.
+
 ## Historical Context
 
-GEMA is a collecting society asserting lyrics, not record-label master rights. The theory—that a model that can emit lyrics on a simple prompt has reproduced those lyrics in its parameters—parallels the U.S. publisher allegations in [Concord v. Anthropic](CASE-CONCORD-V-ANTHROPIC.md), but this is a first-instance merits judgment under the German Copyright Act and the InfoSoc and DSM Directives, not a U.S. fair-use case.
+GEMA is a collecting society asserting lyrics, not record-label master rights. The theory—that a model that can emit lyrics on a simple prompt has reproduced those lyrics in its parameters—parallels the U.S. publisher allegations in [Concord v. Anthropic](CASE-CONCORD-V-ANTHROPIC.md), but this is a first-instance merits judgment under the German Copyright Act and the InfoSoc and DSM Directives, not a U.S. fair-use case. [Kneschke v. LAION](CASE-KNESCHKE-V-LAION.md) is a different German TDM case about compiling an open image-text dataset, not memorized commercial-model outputs.[^3]
 
 ## Legal Analysis
 
@@ -77,11 +85,13 @@ Comparative use: this is evidence of one EU member-state first-instance approach
 - `CASE-GEMA-V-OPENAI` related_to `TOPIC-AI-MUSIC-COPYRIGHT`.
 - `CASE-GEMA-V-OPENAI` related_to `TOPIC-AI-COPYRIGHT`.
 - `CASE-GEMA-V-OPENAI` related_to `CASE-CONCORD-V-ANTHROPIC`.
+- `CASE-GEMA-V-OPENAI` related_to `CASE-KNESCHKE-V-LAION`.
 
 ## Sources
 
 1. `SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`: LG München I Endurteil, 42 O 14139/24 (Nov. 11, 2025).
 2. `SRC-GEMA-V-OPENAI-PRESS-2025`: LG München I Pressemitteilung 11/2025.
+3. `SRC-KNESCHKE-OLG-HAMBURG-2025`: Kneschke OLG Hamburg (Dec. 10, 2025).
 
 ## Research Debt
 

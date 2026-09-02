@@ -3,7 +3,7 @@ id: TOPIC-AI-MUSIC-COPYRIGHT
 title: Music Copyright and Generative AI
 type: topic
 status: draft
-summary: Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.
+summary: Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.
 tags:
   - copyright
   - artificial-intelligence
@@ -19,6 +19,10 @@ sources:
   - SRC-CONCORD-V-ANTHROPIC-MTD-2025
   - SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025
   - SRC-GEMA-V-OPENAI-PRESS-2025
+  - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
+  - SRC-CONCORD-II-COMPLAINT
+  - SRC-CONCORD-II-RELATED-2026
+  - SRC-BMG-V-ANTHROPIC-COMPLAINT
   - SRC-USC-17-107-LII
 relationships:
   - subject: TOPIC-AI-MUSIC-COPYRIGHT
@@ -56,7 +60,17 @@ relationships:
     object: STAT-USC-107
     sources:
       - SRC-UMG-V-SUNO-ANSWER
-last_verified: "2026-08-22"
+  - subject: TOPIC-AI-MUSIC-COPYRIGHT
+    predicate: related_to
+    object: CASE-SONY-V-ANTHROPIC
+    sources:
+      - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
+  - subject: TOPIC-AI-MUSIC-COPYRIGHT
+    predicate: related_to
+    object: CASE-BMG-V-ANTHROPIC
+    sources:
+      - SRC-BMG-V-ANTHROPIC-COMPLAINT
+last_verified: "2026-09-02"
 ---
 
 # Generated Source Mirror
@@ -70,8 +84,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 10
-    - **Relationships**: 7
+    - **Sources**: 14
+    - **Relationships**: 9
     - **Research debt items**: 4
 
 ---
@@ -80,14 +94,16 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 ## Summary
 
-Generative-AI music disputes split along the same two copyright interests the industry has always separated: sound recordings (the recorded performance) and musical compositions (the song, including lyrics). U.S. major labels sued Suno and Udio over alleged unlicensed copying of masters. U.S. publishers sued Anthropic over lyrics in Claude. A German first-instance court held OpenAI liable for memorizing and outputting nine German lyrics. As of the sources reviewed here, no U.S. court had issued a fair-use merits ruling on training a generative music model.
+Generative-AI music disputes split along the same two copyright interests the industry has always separated: sound recordings (the recorded performance) and musical compositions (the song, including lyrics). U.S. major labels sued Suno and Udio over alleged unlicensed copying of masters. U.S. publishers sued Anthropic over lyrics in Claude, including Concord/UMG publishers (Concord I and Concord II), BMG, and a later Sony/Warner complaint. A German first-instance court held OpenAI liable for memorizing and outputting nine German lyrics. As of the sources reviewed here, no U.S. court had issued a fair-use merits ruling on training a generative music model.
 
 ## Verified Facts
 
 - In [UMG Recordings, Inc. v. Suno, Inc.](CASE-UMG-V-SUNO.md), Universal, Sony, and Warner affiliates alleged in June 2024 that Suno copied their sound recordings to train a commercial music generator. Suno admitted training on tens of millions of recordings and pleaded fair use. Warner-affiliated plaintiffs later dismissed their claims with prejudice; UMG and Sony claims remained.[^1][^2][^3]
 - In [UMG Recordings, Inc. v. Uncharted Labs, Inc.](CASE-UMG-V-UDIO.md), the same majors filed a parallel June 2024 sound-recording action against Udio in the Southern District of New York. UMG/Capitol and Warner later dismissed their claims without prejudice. Sony remained and in July 2026 filed a second action asserting 30,117 additional recordings.[^4][^5][^6]
 - Both original label complaints plead post-1972 infringement under the Copyright Act and pre-1972 infringement under 17 U.S.C. § 1401, and both treat Exhibit A as an illustrative work list.[^1][^4]
-- In [Concord Music Group, Inc. v. Anthropic PBC](CASE-CONCORD-V-ANTHROPIC.md), eight publishers allege that Anthropic used copyrighted lyrics to train Claude and that outputs reproduce those lyrics. On October 6, 2025, the Northern District of California denied Anthropic’s motion to dismiss the amended secondary-infringement and DMCA CMI claims.[^7]
+- In [Concord Music Group, Inc. v. Anthropic PBC](CASE-CONCORD-V-ANTHROPIC.md), eight publishers allege that Anthropic used copyrighted lyrics to train Claude and that outputs reproduce those lyrics. On October 6, 2025, the Northern District of California denied Anthropic’s motion to dismiss the amended secondary-infringement and DMCA CMI claims. A second action, Concord II, filed January 28, 2026, alleges torrenting of books containing compositions and was related to Concord I on February 18, 2026.[^7][^12][^13]
+- In [BMG Rights Management (US) LLC v. Anthropic PBC](CASE-BMG-V-ANTHROPIC.md), BMG sued Anthropic on March 17, 2026, alleging training and output infringement, torrenting, and CMI removal, and identifying Concord I and Concord II as related.[^14]
+- In [Sony Music Publishing (US) LLC v. Anthropic PBC](CASE-SONY-V-ANTHROPIC.md), Sony and Warner Chappell affiliates sued Anthropic, Dario Amodei, and Benjamin Mann on August 28, 2026, alleging torrenting, scraping, training, output reproduction, and CMI removal as to musical compositions.[^11]
 - In [GEMA v. OpenAI](CASE-GEMA-V-OPENAI.md), Landgericht München I on November 11, 2025 largely granted GEMA’s claims over nine German lyrics, holding that memorization in models 4 and 4o and output of those lyrics were unauthorized reproductions not covered by the text-and-data-mining exception. The court stated the judgment is not final.[^8][^9]
 - U.S. fair use is a four-factor, case-specific limitation in [17 U.S.C. § 107](STAT-USC-107.md). Suno’s answer invokes that defense; the label complaints argue it does not apply. No source cited on this page is a U.S. judicial determination of that question for a music generator.[^1][^2][^10]
 
@@ -111,6 +127,14 @@ Generative-AI music disputes split along the same two copyright interests the in
 [^9]: [`SRC-GEMA-V-OPENAI-PRESS-2025`](../../../bibliography.md#SRC-GEMA-V-OPENAI-PRESS-2025) — Official press release (Nov. 11, 2025).
 
 [^10]: [`SRC-USC-17-107-LII`](../../../bibliography.md#SRC-USC-17-107-LII) — 17 U.S.C. § 107.
+
+[^11]: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](../../../bibliography.md#SRC-SONY-V-ANTHROPIC-COMPLAINT-2026) — Sony/Warner publisher complaint (Aug. 28, 2026). Pending; allegations.
+
+[^12]: [`SRC-CONCORD-II-COMPLAINT`](../../../bibliography.md#SRC-CONCORD-II-COMPLAINT) — Concord II complaint (Jan. 28, 2026). Pending; allegations.
+
+[^13]: [`SRC-CONCORD-II-RELATED-2026`](../../../bibliography.md#SRC-CONCORD-II-RELATED-2026) — Related-case order (Feb. 18, 2026).
+
+[^14]: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](../../../bibliography.md#SRC-BMG-V-ANTHROPIC-COMPLAINT) — BMG complaint (Mar. 17, 2026). Pending; allegations.
 
 ## Historical Context
 
@@ -141,6 +165,8 @@ Broader authorship and book/news training issues stay on [Copyright and Generati
 - `TOPIC-AI-MUSIC-COPYRIGHT` related_to `TOPIC-AI-COPYRIGHT`.
 - `TOPIC-AI-MUSIC-COPYRIGHT` related_to `TOPIC-AI-LITIGATION`.
 - `TOPIC-AI-MUSIC-COPYRIGHT` related_to `STAT-USC-107`.
+- `TOPIC-AI-MUSIC-COPYRIGHT` related_to `CASE-SONY-V-ANTHROPIC`.
+- `TOPIC-AI-MUSIC-COPYRIGHT` related_to `CASE-BMG-V-ANTHROPIC`.
 
 ## Sources
 
@@ -154,14 +180,18 @@ Broader authorship and book/news training issues stay on [Copyright and Generati
 8. [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](../../../bibliography.md#SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025): Munich judgment (2025).
 9. [`SRC-GEMA-V-OPENAI-PRESS-2025`](../../../bibliography.md#SRC-GEMA-V-OPENAI-PRESS-2025): Munich press release (2025).
 10. [`SRC-USC-17-107-LII`](../../../bibliography.md#SRC-USC-17-107-LII): 17 U.S.C. § 107.
+11. [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](../../../bibliography.md#SRC-SONY-V-ANTHROPIC-COMPLAINT-2026): Sony/Warner publisher complaint (2026).
+12. [`SRC-CONCORD-II-COMPLAINT`](../../../bibliography.md#SRC-CONCORD-II-COMPLAINT): Concord II complaint (2026).
+13. [`SRC-CONCORD-II-RELATED-2026`](../../../bibliography.md#SRC-CONCORD-II-RELATED-2026): Concord II related-case order (2026).
+14. [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](../../../bibliography.md#SRC-BMG-V-ANTHROPIC-COMPLAINT): BMG v. Anthropic complaint (2026).
 
 ## Research Debt
 
 - Add GEMA v. Suno or other official German audio-model judgments when the court text is available.
-- Add any BMG or other publisher complaints against Anthropic or OpenAI from those filings.
+- Add Anthropic’s response in Sony/Warner, BMG, and Concord II, and any motion to dismiss.
 - Add U.S. fair-use or § 1201 orders in the Suno and Udio dockets when they issue.
 - Do not use lawsuit-tracker royalty or equity figures as facts.
 
 ## Document metadata
 
-- Last verified: `2026-08-22`
+- Last verified: `2026-09-02`

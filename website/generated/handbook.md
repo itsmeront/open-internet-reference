@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-08-22 | **Records:** 143 | **Sources referenced:** 229
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-09-02 | **Records:** 153 | **Sources referenced:** 250
 
 <div class="oir-handbook" markdown="1">
 
@@ -56,25 +56,35 @@ Knowledge records included in this handbook, grouped by type.
 
 ### Case
 
+- [Andersen v. Stability AI Ltd.](#CASE-ANDERSEN-V-STABILITY) (`CASE-ANDERSEN-V-STABILITY`)
 - [Bartz v. Anthropic PBC](#CASE-BARTZ-V-ANTHROPIC) (`CASE-BARTZ-V-ANTHROPIC`)
 - [Bernstein v. United States Department of Justice](#CASE-BERNSTEIN-V-DOJ) (`CASE-BERNSTEIN-V-DOJ`)
+- [BMG Rights Management (US) LLC v. Anthropic PBC](#CASE-BMG-V-ANTHROPIC) (`CASE-BMG-V-ANTHROPIC`)
 - [Brown v. Entertainment Merchants Assn.](#CASE-BROWN-V-ENTERTAINMENT-MERCHANTS) (`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`)
 - [Carpenter v. United States](#CASE-CARPENTER-V-US) (`CASE-CARPENTER-V-US`)
 - [CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)](#CASE-CCIA-V-PAXTON-SB2420) (`CASE-CCIA-V-PAXTON-SB2420`)
 - [Chatrie v. United States](#CASE-CHATRIE-V-US) (`CASE-CHATRIE-V-US`)
 - [Coin Center v. Yellen](#CASE-COIN-CENTER-V-YELLEN) (`CASE-COIN-CENTER-V-YELLEN`)
 - [Concord Music Group, Inc. v. Anthropic PBC](#CASE-CONCORD-V-ANTHROPIC) (`CASE-CONCORD-V-ANTHROPIC`)
+- [Disney Enterprises, Inc. v. Midjourney, Inc.](#CASE-DISNEY-V-MIDJOURNEY) (`CASE-DISNEY-V-MIDJOURNEY`)
+- [Doe 1 v. GitHub, Inc.](#CASE-DOE-V-GITHUB) (`CASE-DOE-V-GITHUB`)
+- [Dow Jones & Co. v. Perplexity AI, Inc.](#CASE-DOW-JONES-V-PERPLEXITY) (`CASE-DOW-JONES-V-PERPLEXITY`)
 - [Garcia v. Character Technologies, Inc.](#CASE-GARCIA-V-CHARACTER-TECHNOLOGIES) (`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`)
 - [GEMA v. OpenAI (LG München I)](#CASE-GEMA-V-OPENAI) (`CASE-GEMA-V-OPENAI`)
+- [Getty Images (US), Inc. v. Stability AI Ltd.](#CASE-GETTY-V-STABILITY) (`CASE-GETTY-V-STABILITY`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
+- [In re Google Generative AI Copyright Litigation](#CASE-IN-RE-GOOGLE-GEN-AI) (`CASE-IN-RE-GOOGLE-GEN-AI`)
+- [In re OpenAI, Inc., Copyright Infringement Litigation](#CASE-IN-RE-OPENAI) (`CASE-IN-RE-OPENAI`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
 - [Kadrey v. Meta Platforms, Inc.](#CASE-KADREY-V-META) (`CASE-KADREY-V-META`)
+- [Kneschke v. LAION e.V.](#CASE-KNESCHKE-V-LAION) (`CASE-KNESCHKE-V-LAION`)
 - [Lenz v. Universal Music Corp.](#CASE-LENZ-V-UNIVERSAL) (`CASE-LENZ-V-UNIVERSAL`)
 - [Netherlands v. Pertsev (Tornado Cash)](#CASE-NL-V-PERTSEV) (`CASE-NL-V-PERTSEV`)
 - [The New York Times Company v. Microsoft Corp. (OpenAI)](#CASE-NYT-V-OPENAI) (`CASE-NYT-V-OPENAI`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
+- [Sony Music Publishing (US) LLC v. Anthropic PBC](#CASE-SONY-V-ANTHROPIC) (`CASE-SONY-V-ANTHROPIC`)
 - [Spyder Games LLC v. Mementum Lab](#CASE-SPYDER-V-MEMENTUM) (`CASE-SPYDER-V-MEMENTUM`)
 - [Thaler v. Perlmutter](#CASE-THALER-V-PERLMUTTER) (`CASE-THALER-V-PERLMUTTER`)
 - [Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc.](#CASE-THOMSON-REUTERS-V-ROSS) (`CASE-THOMSON-REUTERS-V-ROSS`)
@@ -259,7 +269,7 @@ Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR
 - **Status:** draft
 - **Tags:** artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
 
 ### Alan Kay { #PERSON-ALAN-KAY-glossary }
 
@@ -287,6 +297,15 @@ Alex Abdo is litigation director of the Knight First Amendment Institute and a f
 - **Tags:** organization, civil-liberties, digital-rights, outreach
 
 American Civil Liberties Union is a U.S. civil liberties organization documented in OIR from official ACLU pages.
+
+### Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY-glossary }
+
+- **Record ID:** `CASE-ANDERSEN-V-STABILITY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.
 
 ### Andrew Russell { #PERSON-ANDREW-RUSSELL-glossary }
 
@@ -332,6 +351,15 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 - **Tags:** first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+### BMG Rights Management (US) LLC v. Anthropic PBC { #CASE-BMG-V-ANTHROPIC-glossary }
+
+- **Record ID:** `CASE-BMG-V-ANTHROPIC`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.
 
 ### Brain Rot and AI-Generated Meme Characters { #TOPIC-BRAIN-ROT-glossary }
 
@@ -466,7 +494,7 @@ The Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, is the primary U.S. 
 - **Status:** draft
 - **Tags:** case, copyright, artificial-intelligence, digital-rights
 
-Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims.
+Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.
 
 ### Cooley { #ORG-COOLEY-glossary }
 
@@ -484,7 +512,7 @@ Cooley is a global law firm that is the
 - **Status:** draft
 - **Tags:** copyright, artificial-intelligence, digital-rights, case-studies
 
-U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.
+U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.
 
 ### Cory Booker { #PERSON-CORY-BOOKER-glossary }
 
@@ -549,6 +577,15 @@ Case-study topic on how Freenet/Hyphanet and GNUnet confronted spam and abuse wh
 
 Topic on government search and seizure of digital devices—especially at the border—and privacy technologies such as duress wipes that can collide with obstruction or destruction-of-evidence statutes.
 
+### Disney Enterprises, Inc. v. Midjourney, Inc. { #CASE-DISNEY-V-MIDJOURNEY-glossary }
+
+- **Record ID:** `CASE-DISNEY-V-MIDJOURNEY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.
+
 ### DMCA Takedown and Counter-Notification { #TOPIC-DMCA-TAKEDOWN-RESPONSE-glossary }
 
 - **Record ID:** `TOPIC-DMCA-TAKEDOWN-RESPONSE`
@@ -567,6 +604,15 @@ U.S. DMCA notice-and-takedown and counter-notification procedure under 17 U.S.C.
 
 Inventory of documented U.S. and selected foreign proceedings in which people who wrote, published, or operated software faced criminal investigation, prosecution, civil injunction, or OFAC sanctions — organized by legal tool and outcome.
 
+### Doe 1 v. GitHub, Inc. { #CASE-DOE-V-GITHUB-glossary }
+
+- **Record ID:** `CASE-DOE-V-GITHUB`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights, open-source-software
+
+Open-source developers’ action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.
+
 ### Domain Name System { #PROTOCOL-DNS-glossary }
 
 - **Record ID:** `PROTOCOL-DNS`
@@ -575,6 +621,15 @@ Inventory of documented U.S. and selected foreign proceedings in which people wh
 - **Tags:** internet-architecture, network-protocols
 
 Domain Name System (DNS) concepts and facilities are described in RFC 1034.
+
+### Dow Jones & Co. v. Perplexity AI, Inc. { #CASE-DOW-JONES-V-PERPLEXITY-glossary }
+
+- **Record ID:** `CASE-DOW-JONES-V-PERPLEXITY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity’s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.
 
 ### Eben Moglen { #PERSON-EBEN-MOGLEN-glossary }
 
@@ -702,6 +757,15 @@ Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pend
 
 First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.
 
+### Getty Images (US), Inc. v. Stability AI Ltd. { #CASE-GETTY-V-STABILITY-glossary }
+
+- **Record ID:** `CASE-GETTY-V-STABILITY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+English High Court trial judgment dismissing Getty’s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.
+
 ### GNUnet { #TECH-GNUNET-glossary }
 
 - **Record ID:** `TECH-GNUNET`
@@ -764,6 +828,24 @@ Hyphanet is the continuation of the original Freenet peer-to-peer network for an
 - **Tags:** person, researcher, privacy, censorship-resistance, peer-to-peer-networking, open-source-software, content-moderation, case-studies
 
 Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
+
+### In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI-glossary }
+
+- **Record ID:** `CASE-IN-RE-GOOGLE-GEN-AI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.
+
+### In re OpenAI, Inc., Copyright Infringement Litigation { #CASE-IN-RE-OPENAI-glossary }
+
+- **Record ID:** `CASE-IN-RE-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI’s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.
 
 ### Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH-glossary }
 
@@ -891,6 +973,15 @@ Katie Fallow is deputy litigation director at the Knight First Amendment Institu
 
 Kit Walsh is a Senior Staff Attorney at the Electronic Frontier Foundation and Director of Artificial Intelligence and Access to Knowledge Legal Projects, working on free speech, net neutrality, copyright, coders' rights, and freedom of expression.
 
+### Kneschke v. LAION e.V. { #CASE-KNESCHKE-V-LAION-glossary }
+
+- **Record ID:** `CASE-KNESCHKE-V-LAION`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+German photographer’s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.
+
 ### Knight First Amendment Institute { #ORG-KNIGHT-FIRST-AMENDMENT-glossary }
 
 - **Record ID:** `ORG-KNIGHT-FIRST-AMENDMENT`
@@ -970,7 +1061,7 @@ Mitch Stoltz is a Senior Staff Attorney at the Electronic Frontier Foundation wh
 - **Status:** draft
 - **Tags:** copyright, artificial-intelligence, digital-rights, case-studies
 
-Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.
+Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.
 
 ### Nathan Freed Wessler { #PERSON-NATHAN-FREED-WESSLER-glossary }
 
@@ -1241,6 +1332,15 @@ Software Freedom Conservancy is a U.S. nonprofit organization that provides infr
 - **Tags:** organization, open-source-software, digital-rights, civil-society, outreach
 
 The Software Freedom Law Center provides pro bono legal representation and related services to not-for-profit developers of free and open source software.
+
+### Sony Music Publishing (US) LLC v. Anthropic PBC { #CASE-SONY-V-ANTHROPIC-glossary }
+
+- **Record ID:** `CASE-SONY-V-ANTHROPIC`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.
 
 ### Spyder Games LLC v. Mementum Lab { #CASE-SPYDER-V-MEMENTUM-glossary }
 
@@ -1626,6 +1726,13 @@ Pavel Chikov is a Russian human rights lawyer identified as representing Telegra
 
 ### Case
 
+#### [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY }
+
+- Status: `draft`
+- Sources: [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md), [`SRC-ANDERSEN-V-STABILITY-DOCKET`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md), [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.
+
 #### [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md): Bartz v. Anthropic PBC { #CASE-BARTZ-V-ANTHROPIC }
 
 - Status: `draft`
@@ -1639,6 +1746,13 @@ Bartz v. Anthropic PBC held that using purchased books to train Claude was trans
 - Sources: [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md), [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md), [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md)
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+#### [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md): BMG Rights Management (US) LLC v. Anthropic PBC { #CASE-BMG-V-ANTHROPIC }
+
+- Status: `draft`
+- Sources: [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+
+Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.
 
 #### [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md): Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
 
@@ -1678,9 +1792,30 @@ Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summ
 #### [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): Concord Music Group, Inc. v. Anthropic PBC { #CASE-CONCORD-V-ANTHROPIC }
 
 - Status: `draft`
-- Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-CONCORD-V-ANTHROPIC-DOCKET`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Sources: [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-CONCORD-V-ANTHROPIC-DOCKET`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md), [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md), [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md), [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md), [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
-Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims.
+Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.
+
+#### [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md): Disney Enterprises, Inc. v. Midjourney, Inc. { #CASE-DISNEY-V-MIDJOURNEY }
+
+- Status: `draft`
+- Sources: [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md), [`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md)
+
+Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.
+
+#### [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md): Doe 1 v. GitHub, Inc. { #CASE-DOE-V-GITHUB }
+
+- Status: `draft`
+- Sources: [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md), [`SRC-DOE-V-GITHUB-9THCIR-DOCKET`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md)
+
+Open-source developers’ action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.
+
+#### [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md): Dow Jones & Co. v. Perplexity AI, Inc. { #CASE-DOW-JONES-V-PERPLEXITY }
+
+- Status: `draft`
+- Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md), [`SRC-DOW-JONES-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md), [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md)
+
+Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity’s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.
 
 #### [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): Garcia v. Character Technologies, Inc. { #CASE-GARCIA-V-CHARACTER-TECHNOLOGIES }
 
@@ -1692,9 +1827,16 @@ Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pend
 #### [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): GEMA v. OpenAI (LG München I) { #CASE-GEMA-V-OPENAI }
 
 - Status: `draft`
-- Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md)
+- Sources: [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md), [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
 
 First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.
+
+#### [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): Getty Images (US), Inc. v. Stability AI Ltd. { #CASE-GETTY-V-STABILITY }
+
+- Status: `draft`
+- Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md), [`SRC-GETTY-V-STABILITY-US-COMPLAINT`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md), [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+
+English High Court trial judgment dismissing Getty’s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.
 
 #### [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md): Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
 
@@ -1702,6 +1844,20 @@ First-instance Munich judgment holding that memorization of nine German song lyr
 - Sources: [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 
 Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
+
+#### [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md): In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI }
+
+- Status: `draft`
+- Sources: [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+
+Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.
+
+#### [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md): In re OpenAI, Inc., Copyright Infringement Litigation { #CASE-IN-RE-OPENAI }
+
+- Status: `draft`
+- Sources: [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md), [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
+Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI’s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.
 
 #### [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md): Junger v. Daley { #CASE-JUNGER-V-DALEY }
 
@@ -1716,6 +1872,13 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 - Sources: [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
 Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors’ books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.
+
+#### [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md): Kneschke v. LAION e.V. { #CASE-KNESCHKE-V-LAION }
+
+- Status: `draft`
+- Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md), [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
+
+German photographer’s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.
 
 #### [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md): Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
 
@@ -1734,7 +1897,7 @@ East Brabant District Court judgment ECLI:NL:RBOBR:2024:2069 (May 14, 2024) conv
 #### [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): The New York Times Company v. Microsoft Corp. (OpenAI) { #CASE-NYT-V-OPENAI }
 
 - Status: `draft`
-- Sources: [`SRC-NYT-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
+- Sources: [`SRC-NYT-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md), [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md), [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md)
 
 Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.
 
@@ -1758,6 +1921,13 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 - Sources: [`SRC-RENO-V-ACLU-GOVINFO`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md), [`SRC-RENO-V-ACLU-LOC`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-LOC.md), [`SRC-RENO-V-ACLU-JUSTIA`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-JUSTIA.md)
 
 Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.
+
+#### [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md): Sony Music Publishing (US) LLC v. Anthropic PBC { #CASE-SONY-V-ANTHROPIC }
+
+- Status: `draft`
+- Sources: [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+
+Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.
 
 #### [`CASE-SPYDER-V-MEMENTUM`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md): Spyder Games LLC v. Mementum Lab { #CASE-SPYDER-V-MEMENTUM }
 
@@ -2378,23 +2548,23 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 #### [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): Copyright and Generative AI { #TOPIC-AI-COPYRIGHT }
 
 - Status: `draft`
-- Sources: [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md), [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md), [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md), [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md), [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md), [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md), [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md), [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md), [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+- Sources: [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md), [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md), [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md), [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md), [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md), [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md), [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md), [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md), [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md), [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md), [`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md), [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md), [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md), [`SRC-DOE-V-GITHUB-9THCIR-DOCKET`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md), [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md), [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md), [`SRC-GETTY-V-STABILITY-US-COMPLAINT`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md), [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md), [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md), [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md), [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md), [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md), [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md), [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md), [`SRC-WALSH-EFF-BIO`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
 
-U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.
+U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.
 
 #### [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): AI Litigation Landscape { #TOPIC-AI-LITIGATION }
 
 - Status: `draft`
-- Sources: [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md), [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md), [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md), [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md), [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md), [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md), [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md), [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md), [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
+- Sources: [`SRC-THALER-V-PERLMUTTER-CADC`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md), [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md), [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md), [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md), [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md), [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md), [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md), [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md), [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md), [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md), [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md), [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md), [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md), [`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md), [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md), [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md), [`SRC-DOE-V-GITHUB-9THCIR-DOCKET`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md), [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md), [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md), [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md), [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md), [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md), [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md), [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md), [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md), [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
 
 #### [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): Music Copyright and Generative AI { #TOPIC-AI-MUSIC-COPYRIGHT }
 
 - Status: `draft`
-- Sources: [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-SUNO-ANSWER`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md), [`SRC-UMG-V-SUNO-WARNER-DISMISSAL`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-UMG-V-UDIO-DOCKET`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md), [`SRC-SONY-V-UDIO-2026-COMPLAINT`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+- Sources: [`SRC-UMG-V-SUNO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md), [`SRC-UMG-V-SUNO-ANSWER`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-ANSWER.md), [`SRC-UMG-V-SUNO-WARNER-DISMISSAL`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-WARNER-DISMISSAL.md), [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md), [`SRC-UMG-V-UDIO-DOCKET`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-DOCKET.md), [`SRC-SONY-V-UDIO-2026-COMPLAINT`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md), [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md), [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md), [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md), [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md), [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md), [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md), [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md), [`SRC-USC-17-107-LII`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
 
-Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.
+Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.
 
 #### [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md): App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
 
@@ -2525,6 +2695,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md): American Civil Liberties Union History Page (`verified`)
 - [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md): Alabama HB 161 Enrolled — App Store Accountability Act (`draft`)
 - [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md): Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026) (`draft`)
+- [`SRC-ANDERSEN-V-STABILITY-DOCKET`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md): Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201) (`draft`)
+- [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md): Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024) (`draft`)
 - [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism (`draft`)
 - [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md): Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025) (`draft`)
 - [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md): Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026) (`draft`)
@@ -2535,6 +2707,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`verified`)
 - [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography (`verified`)
 - [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md): Matt Blaze Georgetown Faculty Profile (`verified`)
+- [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md): BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) (`draft`)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising (`draft`)
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
 - [`SRC-BROWN-V-EMA-GOVINFO`](source-docs/bibliography/legal/SRC-BROWN-V-EMA-GOVINFO.md): Brown v. Entertainment Merchants Assn., 564 U.S. 786 (2011) (GovInfo) (`verified`)
@@ -2563,6 +2736,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-COHN-EFF-DEPARTURE`](source-docs/bibliography/people/SRC-COHN-EFF-DEPARTURE.md): EFF Press Release - Cindy Cohn Stepping Down (`verified`)
 - [`SRC-COHN-FOSSFORCE`](source-docs/bibliography/people/SRC-COHN-FOSSFORCE.md): FOSS Force - Cohn Returns to the Courtroom (`verified`)
 - [`SRC-COIN-CENTER-YELLEN-NDFLA-2023`](source-docs/bibliography/legal/SRC-COIN-CENTER-YELLEN-NDFLA-2023.md): Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023) (`draft`)
+- [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md): Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026) (`draft`)
+- [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md): Concord Music Group, Inc. v. Anthropic PBC, Related Case Order (N.D. Cal. Feb. 18, 2026) (`draft`)
 - [`SRC-CONCORD-V-ANTHROPIC-DOCKET`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md): Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811) (`draft`)
 - [`SRC-CONCORD-V-ANTHROPIC-MTD-2025`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-MTD-2025.md): Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025) (`draft`)
 - [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md): Cooley Technology Industry Practice Page (`draft`)
@@ -2570,10 +2745,16 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CORLEY-LII`](source-docs/bibliography/legal/SRC-CORLEY-LII.md): Universal City Studios v. Corley Opinion Text (Open Casebook) (`verified`)
 - [`SRC-COURTLISTENER-TUNICK-DOCKET`](source-docs/bibliography/legal/SRC-COURTLISTENER-TUNICK-DOCKET.md): CourtListener Docket — United States v. Tunick (1:25-cr-00499) (`draft`)
 - [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md): Whitfield Diffie Stanford CISAC Profile (`verified`)
+- [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md): Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025) (`draft`)
+- [`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md): Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026) (`draft`)
+- [`SRC-DOE-V-GITHUB-9THCIR-DOCKET`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md): Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700) (`draft`)
+- [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md): Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024) (`draft`)
 - [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md): DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) (`draft`)
 - [`SRC-DOJ-SKLYAROV-INDICTMENT-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-INDICTMENT-2001.md): DOJ — First DMCA Indictment Against Sklyarov and Elcomsoft (Aug. 28, 2001) (`draft`)
 - [`SRC-DOJ-STORM-CONVICTION-2025`](source-docs/bibliography/legal/SRC-DOJ-STORM-CONVICTION-2025.md): SDNY National Security Page — Roman Storm Conviction Note (Aug. 2025) (`draft`)
 - [`SRC-DOJ-STORM-INDICTMENT`](source-docs/bibliography/legal/SRC-DOJ-STORM-INDICTMENT.md): United States v. Storm / Semenov Indictment (S.D.N.Y. Aug. 2023) (`draft`)
+- [`SRC-DOW-JONES-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md): Dow Jones & Co. v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-07984) (`draft`)
+- [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md): Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025) (`draft`)
 - [`SRC-DRAKETO-DECENTRALIZED-MODERATION`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md): Arne Babenhauserheide — The Path Towards Decentralized Moderation (`draft`)
 - [`SRC-DRAKETO-WOT-FRIENDLY-2018`](source-docs/bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md): Arne Babenhauserheide — Hyphanet Web of Trust Keeps Communication Friendly (`draft`)
 - [`SRC-EFF-ABOUT`](source-docs/bibliography/organizations/SRC-EFF-ABOUT.md): Electronic Frontier Foundation About Page (`verified`)
@@ -2599,7 +2780,11 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md): Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025) (`draft`)
 - [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md): LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI) (`draft`)
 - [`SRC-GEMA-V-OPENAI-PRESS-2025`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md): Landgericht München I, Pressemitteilung 11/2025 (GEMA v. OpenAI) (`draft`)
+- [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md): Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch) (`draft`)
+- [`SRC-GETTY-V-STABILITY-US-COMPLAINT`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md): Getty Images (US), Inc. v. Stability AI, Ltd., Complaint (N.D. Cal. Aug. 14, 2025) (`draft`)
+- [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md): Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026) (`draft`)
 - [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md): GNUnet About Page (`draft`)
+- [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md): In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025) (`draft`)
 - [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) (`draft`)
 - [`SRC-GRANICK-ACLU-BIO`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md): Jennifer Granick ACLU Staff Biography (`verified`)
 - [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md): GrapheneOS Features Overview — Duress PIN/Password (`draft`)
@@ -2613,10 +2798,12 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md): Institute for Free Speech About Us Page (`verified`)
 - [`SRC-IJ-ABOUT`](source-docs/bibliography/organizations/SRC-IJ-ABOUT.md): Institute for Justice About Us Page (`verified`)
 - [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md): Institute for Justice First Amendment Practice Area (`verified`)
+- [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md): In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025) (`draft`)
 - [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md): IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) (`draft`)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md): IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025) (`draft`)
 - [`SRC-JAFFER-KNIGHT`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md): Jameel Jaffer Knight Institute Biography (`verified`)
 - [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md): EFF Jewel v. NSA Case Page - Supreme Court Rejection (`verified`)
+- [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md): In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143) (`draft`)
 - [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md): Junger v. Daley ACLU Ohio Case Page (`verified`)
 - [`SRC-JUNGER-CMU`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md): Junger v. Daley Opinion Text (CMU) (`verified`)
 - [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric (`verified`)
@@ -2624,6 +2811,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-KAHN-CNRI`](source-docs/bibliography/people/SRC-KAHN-CNRI.md): Robert E. Kahn CNRI Biography (`verified`)
 - [`SRC-KAY-CHM`](source-docs/bibliography/people/SRC-KAY-CHM.md): Alan Kay Computer History Museum Profile (`verified`)
 - [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee (`draft`)
+- [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md): Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024) (`draft`)
+- [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md): Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025) (`draft`)
 - [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md): Knight First Amendment Institute About Page (`verified`)
 - [`SRC-KNIGHT-CONTACT`](source-docs/bibliography/organizations/SRC-KNIGHT-CONTACT.md): Knight First Amendment Institute Contact and FAQ Page (`verified`)
 - [`SRC-LA-ACT-185-ASAA`](source-docs/bibliography/legal/SRC-LA-ACT-185-ASAA.md): Louisiana Act No. 185 — App Store Accountability Act (2026) (`draft`)
@@ -2643,6 +2832,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md): The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026) (`draft`)
 - [`SRC-NYT-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md): The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023) (`draft`)
 - [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md): The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025) (`draft`)
+- [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md): The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106) (`draft`)
 - [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md): OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation (`draft`)
 - [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md): OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025) (`draft`)
 - [`SRC-ORIN-KERR-GWU`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md): Orin Kerr George Washington University Law Faculty Page (`verified`)
@@ -2686,6 +2876,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-SIGNAL-DOUBLE-RATCHET`](source-docs/bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md): The Double Ratchet Algorithm (`verified`)
 - [`SRC-SIGNAL-HOME`](source-docs/bibliography/organizations/SRC-SIGNAL-HOME.md): Signal Official Website (`verified`)
 - [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md): The X3DH Key Agreement Protocol (`verified`)
+- [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md): Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026) (`draft`)
 - [`SRC-SONY-V-UDIO-2026-COMPLAINT`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md): Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026) (`draft`)
 - [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md): Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025) (`draft`)
 - [`SRC-SPYDER-V-MEMENTUM-DOCKET`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-DOCKET.md): Spyder Games LLC v. Mementum Lab, CourtListener docket (N.D. Cal. No. 5:25-cv-10248) (`draft`)

@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 232
+Record count: 253
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -75,6 +75,32 @@ Law-firm client alert describing CCIA’s February 2026 First Amendment challeng
 
 ### Cited By
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## `SRC-ANDERSEN-V-STABILITY-DOCKET`: Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201) { #SRC-ANDERSEN-V-STABILITY-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket for the visual-artists putative class action against Stability AI, Midjourney, DeviantArt, and Runway.
+
+### Cited By
+- [`CASE-ANDERSEN-V-STABILITY: Andersen v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+## `SRC-ANDERSEN-V-STABILITY-MTD-2024`: Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024) { #SRC-ANDERSEN-V-STABILITY-MTD-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order allowing artists’ Copyright Act and some Lanham Act claims against Stability AI, Midjourney, DeviantArt, and Runway to proceed, while dismissing DMCA claims with prejudice.
+
+### Cited By
+- [`CASE-ANDERSEN-V-STABILITY: Andersen v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-AP-DUROV-FSB-2026`: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism { #SRC-AP-DUROV-FSB-2026 }
 
@@ -208,6 +234,22 @@ Georgetown University faculty profile for Matt Blaze describing his research in 
 
 ### Cited By
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+
+## `SRC-BMG-V-ANTHROPIC-COMPLAINT`: BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) { #SRC-BMG-V-ANTHROPIC-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+BMG publisher complaint alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works, and removed copyright management information.
+
+### Cited By
+- [`CASE-BMG-V-ANTHROPIC: BMG Rights Management (US) LLC v. Anthropic PBC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 
 ## `SRC-BOOKER-SURVEILLANCE-ADVERTISING`: Booker Announces Introduction of Bill to Ban Surveillance Advertising { #SRC-BOOKER-SURVEILLANCE-ADVERTISING }
 
@@ -565,6 +607,34 @@ Northern District of Florida summary-judgment opinion upholding OFAC’s Tornado
 - [`CASE-COIN-CENTER-V-YELLEN: Coin Center v. Yellen`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 
+## `SRC-CONCORD-II-COMPLAINT`: Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026) { #SRC-CONCORD-II-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CONCORD-II-COMPLAINT.md`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Second Concord/UMG/ABKCO publisher complaint against Anthropic, Dario Amodei, and Benjamin Mann alleging torrenting of books containing musical compositions and later Claude training and outputs.
+
+### Cited By
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## `SRC-CONCORD-II-RELATED-2026`: Concord Music Group, Inc. v. Anthropic PBC, Related Case Order (N.D. Cal. Feb. 18, 2026) { #SRC-CONCORD-II-RELATED-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-CONCORD-II-RELATED-2026.md`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Order relating Concord II (No. 5:26-cv-00880) to Concord I (No. 5:24-cv-03811) before Judge Eumi K. Lee.
+
+### Cited By
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## `SRC-CONCORD-V-ANTHROPIC-DOCKET`: Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811) { #SRC-CONCORD-V-ANTHROPIC-DOCKET }
 
 - Type: `source`
@@ -655,6 +725,62 @@ Stanford Center for International Security and Cooperation profile for Whitfield
 ### Cited By
 - [`PERSON-WHITFIELD-DIFFIE: Whitfield Diffie`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 
+## `SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`: Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025) { #SRC-DISNEY-V-MIDJOURNEY-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Studio complaint alleging that Midjourney copied Disney and Universal character works to train an image generator and that the service outputs unauthorized reproductions and derivatives.
+
+### Cited By
+- [`CASE-DISNEY-V-MIDJOURNEY: Disney Enterprises, Inc. v. Midjourney, Inc.`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-DISNEY-V-MIDJOURNEY-MTC-2026`: Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026) { #SRC-DISNEY-V-MIDJOURNEY-MTC-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Magistrate discovery order in the consolidated Disney/Universal/Warner Bros. action against Midjourney, limiting compelled production of the studios’ own generative-AI materials to consumer-facing uses of the asserted works.
+
+### Cited By
+- [`CASE-DISNEY-V-MIDJOURNEY: Disney Enterprises, Inc. v. Midjourney, Inc.`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-DOE-V-GITHUB-9THCIR-DOCKET`: Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700) { #SRC-DOE-V-GITHUB-9THCIR-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence, open-source-software
+
+Ninth Circuit CourtListener docket for the interlocutory appeal from the Northern District of California Copilot / GitHub copyright-management-information order.
+
+### Cited By
+- [`CASE-DOE-V-GITHUB: Doe 1 v. GitHub, Inc.`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-DOE-V-GITHUB-MTD-2024`: Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024) { #SRC-DOE-V-GITHUB-MTD-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+- Tags: source, case, copyright, artificial-intelligence, open-source-software
+
+Northern District of California order dismissing with prejudice open-source developers’ DMCA § 1202(b) claims against GitHub, Microsoft, and OpenAI entities, while allowing breach-of-open-source-license claims to proceed.
+
+### Cited By
+- [`CASE-DOE-V-GITHUB: Doe 1 v. GitHub, Inc.`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-DOJ-SKLYAROV-AGREE-2001`: DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001) { #SRC-DOJ-SKLYAROV-AGREE-2001 }
 
 - Type: `source`
@@ -708,6 +834,32 @@ DOJ-hosted indictment charging Roman Storm and Roman Semenov with money-launderi
 - [`CASE-US-V-STORM: United States v. Storm`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - [`TOPIC-TORNADO-CASH: Tornado Cash Sanctions and Developer Prosecutions`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
+
+## `SRC-DOW-JONES-V-PERPLEXITY-DOCKET`: Dow Jones & Co. v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-07984) { #SRC-DOW-JONES-V-PERPLEXITY-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket for the Wall Street Journal and New York Post copyright action against Perplexity AI.
+
+### Cited By
+- [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+## `SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`: Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025) { #SRC-DOW-JONES-V-PERPLEXITY-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Southern District of New York opinion denying Perplexity’s motions to dismiss for lack of personal jurisdiction and improper venue, denying transfer, and allowing later-registered works to remain in the case.
+
+### Cited By
+- [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-DRAKETO-DECENTRALIZED-MODERATION`: Arne Babenhauserheide — The Path Towards Decentralized Moderation { #SRC-DRAKETO-DECENTRALIZED-MODERATION }
 
@@ -1022,6 +1174,47 @@ Official court press release summarizing the November 11, 2025 GEMA v. OpenAI ju
 - [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 
+## `SRC-GETTY-V-STABILITY-EWHC-2025`: Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch) { #SRC-GETTY-V-STABILITY-EWHC-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+High Court of England and Wales trial judgment dismissing Getty’s secondary copyright claim against Stable Diffusion and finding limited historic trade-mark infringement from generated watermarks.
+
+### Cited By
+- [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-GETTY-V-STABILITY-US-COMPLAINT`: Getty Images (US), Inc. v. Stability AI, Ltd., Complaint (N.D. Cal. Aug. 14, 2025) { #SRC-GETTY-V-STABILITY-US-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Getty Images complaint alleging that Stability AI copied millions of Getty photographs to train Stable Diffusion and infringed copyrights and trademarks.
+
+### Cited By
+- [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+## `SRC-GETTY-V-STABILITY-US-MTD-2026`: Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026) { #SRC-GETTY-V-STABILITY-US-MTD-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order dismissing Getty’s DMCA § 1202(a) false-CMI claim without prejudice and allowing trademark and California unfair-competition claims to proceed.
+
+### Cited By
+- [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-GNUNET-ABOUT`: GNUnet About Page { #SRC-GNUNET-ABOUT }
 
 - Type: `source`
@@ -1034,6 +1227,21 @@ Official GNUnet about page describing the project as a Free Software stack for s
 ### Cited By
 - [`TECH-GNUNET: GNUnet`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## `SRC-GOOGLE-GEN-AI-MTD-2025`: In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025) { #SRC-GOOGLE-GEN-AI-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Northern District of California order dismissing with prejudice direct-infringement claims as to specified Google models and vicarious claims against Alphabet, while leaving training claims as to Bard, Gemini, Imagen, and related models for later stages.
+
+### Cited By
+- [`CASE-ANDERSEN-V-STABILITY: Andersen v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- [`CASE-IN-RE-GOOGLE-GEN-AI: In re Google Generative AI Copyright Litigation`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-GOOGLE-ORACLE-JUSTIA`: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia) { #SRC-GOOGLE-ORACLE-JUSTIA }
 
@@ -1202,6 +1410,20 @@ Official First Amendment issues page of the Institute for Justice describing its
 ### Cited By
 - [`ORG-INSTITUTE-FOR-JUSTICE: Institute for Justice`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md)
 
+## `SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`: In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025) { #SRC-IN-RE-OPENAI-OUTPUT-MTD-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Southern District of New York order holding that author class plaintiffs adequately pleaded ChatGPT output-based copyright infringement, without deciding fair use.
+
+### Cited By
+- [`CASE-IN-RE-OPENAI: In re OpenAI, Inc., Copyright Infringement Litigation`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-IRS-SAMOURAI-PLEA-2025`: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025) { #SRC-IRS-SAMOURAI-PLEA-2025 }
 
 - Type: `source`
@@ -1253,6 +1475,21 @@ EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, en
 
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
+
+## `SRC-JPML-OPENAI-MDL-3143`: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143) { #SRC-JPML-OPENAI-MDL-3143 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Judicial Panel on Multidistrict Litigation order centralizing OpenAI copyright actions in the Southern District of New York before Judge Sidney H. Stein.
+
+### Cited By
+- [`CASE-IN-RE-OPENAI: In re OpenAI, Inc., Copyright Infringement Litigation`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-JUNGER-ACLU-OHIO`: Junger v. Daley ACLU Ohio Case Page { #SRC-JUNGER-ACLU-OHIO }
 
@@ -1341,6 +1578,35 @@ Press release from Representative Ro Khanna's office announcing the Internet Bil
 
 ### Cited By
 - [`PERSON-RO-KHANNA: Ro Khanna`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
+
+## `SRC-KNESCHKE-LG-HAMBURG-2024`: Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024) { #SRC-KNESCHKE-LG-HAMBURG-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Hamburg Regional Court first-instance judgment dismissing a photographer’s claim against LAION, holding that downloading an image to build a training dataset was covered by the scientific-research text-and-data-mining exception.
+
+### Cited By
+- [`CASE-KNESCHKE-V-LAION: Kneschke v. LAION e.V.`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-KNESCHKE-OLG-HAMBURG-2025`: Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025) { #SRC-KNESCHKE-OLG-HAMBURG-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Hanseatic Higher Regional Court report that the photographer’s appeal was dismissed and that LAION’s dataset download was covered by both § 44b and § 60d UrhG.
+
+### Cited By
+- [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- [`CASE-KNESCHKE-V-LAION: Kneschke v. LAION e.V.`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-KNIGHT-ABOUT`: Knight First Amendment Institute About Page { #SRC-KNIGHT-ABOUT }
 
@@ -1582,6 +1848,19 @@ Southern District of New York opinion largely denying motions to dismiss publish
 - [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-NYT-V-PERPLEXITY-DOCKET`: The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106) { #SRC-NYT-V-PERPLEXITY-DOCKET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+CourtListener docket for the New York Times copyright and trademark action against Perplexity AI, filed December 5, 2025.
+
+### Cited By
+- [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 
 ## `SRC-OFAC-FAQ-1076`: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation { #SRC-OFAC-FAQ-1076 }
 
@@ -2152,6 +2431,22 @@ Official Signal specification for the Extended Triple Diffie-Hellman key agreeme
 
 ### Cited By
 - [`ORG-SIGNAL: Signal`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
+
+## `SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`: Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026) { #SRC-SONY-V-ANTHROPIC-COMPLAINT-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+- Tags: source, case, copyright, artificial-intelligence
+
+Music-publisher complaint alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude, and that outputs reproduce those compositions.
+
+### Cited By
+- [`CASE-CONCORD-V-ANTHROPIC: Concord Music Group, Inc. v. Anthropic PBC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- [`CASE-SONY-V-ANTHROPIC: Sony Music Publishing (US) LLC v. Anthropic PBC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 
 ## `SRC-SONY-V-UDIO-2026-COMPLAINT`: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026) { #SRC-SONY-V-UDIO-2026-COMPLAINT }
 

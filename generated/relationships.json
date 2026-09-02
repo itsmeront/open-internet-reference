@@ -2,6 +2,66 @@
   "description": "Generated relationship graph edge index.",
   "edges": [
     {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "CASE-DISNEY-V-MIDJOURNEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "CASE-DOE-V-GITHUB",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "CASE-GETTY-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-ANDERSEN-V-STABILITY",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "CASE-ANDERSEN-V-STABILITY"
+    },
+    {
       "declared_in": "CASE-BARTZ-V-ANTHROPIC",
       "notes": null,
       "object": "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
@@ -90,6 +150,36 @@
         "SRC-BERNSTEIN-JUSTIA"
       ],
       "subject": "CASE-BERNSTEIN-V-DOJ"
+    },
+    {
+      "declared_in": "CASE-BMG-V-ANTHROPIC",
+      "notes": null,
+      "object": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "CASE-BMG-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-BMG-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "CASE-BMG-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-BMG-V-ANTHROPIC",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "CASE-BMG-V-ANTHROPIC"
     },
     {
       "declared_in": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
@@ -296,6 +386,16 @@
     {
       "declared_in": "CASE-CONCORD-V-ANTHROPIC",
       "notes": null,
+      "object": "SRC-CONCORD-II-RELATED-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CONCORD-II-RELATED-2026"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
       "object": "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
       "predicate": "cites",
       "sources": [
@@ -306,10 +406,30 @@
     {
       "declared_in": "CASE-CONCORD-V-ANTHROPIC",
       "notes": null,
+      "object": "CASE-BMG-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
       "object": "CASE-GEMA-V-OPENAI",
       "predicate": "related_to",
       "sources": [
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-CONCORD-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-SONY-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
       ],
       "subject": "CASE-CONCORD-V-ANTHROPIC"
     },
@@ -332,6 +452,106 @@
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
       ],
       "subject": "CASE-CONCORD-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-DISNEY-V-MIDJOURNEY",
+      "notes": null,
+      "object": "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+      ],
+      "subject": "CASE-DISNEY-V-MIDJOURNEY"
+    },
+    {
+      "declared_in": "CASE-DISNEY-V-MIDJOURNEY",
+      "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+      ],
+      "subject": "CASE-DISNEY-V-MIDJOURNEY"
+    },
+    {
+      "declared_in": "CASE-DISNEY-V-MIDJOURNEY",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+      ],
+      "subject": "CASE-DISNEY-V-MIDJOURNEY"
+    },
+    {
+      "declared_in": "CASE-DOE-V-GITHUB",
+      "notes": null,
+      "object": "SRC-DOE-V-GITHUB-MTD-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "CASE-DOE-V-GITHUB"
+    },
+    {
+      "declared_in": "CASE-DOE-V-GITHUB",
+      "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "CASE-DOE-V-GITHUB"
+    },
+    {
+      "declared_in": "CASE-DOE-V-GITHUB",
+      "notes": null,
+      "object": "CASE-GOOGLE-V-ORACLE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "CASE-DOE-V-GITHUB"
+    },
+    {
+      "declared_in": "CASE-DOE-V-GITHUB",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "CASE-DOE-V-GITHUB"
+    },
+    {
+      "declared_in": "CASE-DOW-JONES-V-PERPLEXITY",
+      "notes": null,
+      "object": "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+      ],
+      "subject": "CASE-DOW-JONES-V-PERPLEXITY"
+    },
+    {
+      "declared_in": "CASE-DOW-JONES-V-PERPLEXITY",
+      "notes": null,
+      "object": "CASE-NYT-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+      ],
+      "subject": "CASE-DOW-JONES-V-PERPLEXITY"
+    },
+    {
+      "declared_in": "CASE-DOW-JONES-V-PERPLEXITY",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+      ],
+      "subject": "CASE-DOW-JONES-V-PERPLEXITY"
     },
     {
       "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
@@ -406,6 +626,16 @@
     {
       "declared_in": "CASE-GEMA-V-OPENAI",
       "notes": null,
+      "object": "CASE-KNESCHKE-V-LAION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
+      ],
+      "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-GEMA-V-OPENAI",
+      "notes": null,
       "object": "TOPIC-AI-COPYRIGHT",
       "predicate": "related_to",
       "sources": [
@@ -422,6 +652,56 @@
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
       ],
       "subject": "CASE-GEMA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-GETTY-V-STABILITY",
+      "notes": null,
+      "object": "SRC-GETTY-V-STABILITY-EWHC-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025"
+      ],
+      "subject": "CASE-GETTY-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-GETTY-V-STABILITY",
+      "notes": null,
+      "object": "SRC-GETTY-V-STABILITY-US-MTD-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-US-MTD-2026"
+      ],
+      "subject": "CASE-GETTY-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-GETTY-V-STABILITY",
+      "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025"
+      ],
+      "subject": "CASE-GETTY-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-GETTY-V-STABILITY",
+      "notes": null,
+      "object": "CASE-KNESCHKE-V-LAION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-US-MTD-2026"
+      ],
+      "subject": "CASE-GETTY-V-STABILITY"
+    },
+    {
+      "declared_in": "CASE-GETTY-V-STABILITY",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025"
+      ],
+      "subject": "CASE-GETTY-V-STABILITY"
     },
     {
       "declared_in": "CASE-GOOGLE-V-ORACLE",
@@ -442,6 +722,86 @@
         "SRC-GOOGLE-ORACLE-JUSTIA"
       ],
       "subject": "CASE-GOOGLE-V-ORACLE"
+    },
+    {
+      "declared_in": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "notes": null,
+      "object": "SRC-GOOGLE-GEN-AI-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "notes": null,
+      "object": "CASE-KNESCHKE-V-LAION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-OPENAI",
+      "notes": null,
+      "object": "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-OPENAI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-OPENAI",
+      "notes": null,
+      "object": "SRC-JPML-OPENAI-MDL-3143",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JPML-OPENAI-MDL-3143"
+      ],
+      "subject": "CASE-IN-RE-OPENAI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-OPENAI",
+      "notes": null,
+      "object": "CASE-NYT-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JPML-OPENAI-MDL-3143"
+      ],
+      "subject": "CASE-IN-RE-OPENAI"
+    },
+    {
+      "declared_in": "CASE-IN-RE-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "subject": "CASE-IN-RE-OPENAI"
     },
     {
       "declared_in": "CASE-JUNGER-V-DALEY",
@@ -522,6 +882,46 @@
         "SRC-KADREY-V-META-FAIR-USE"
       ],
       "subject": "CASE-KADREY-V-META"
+    },
+    {
+      "declared_in": "CASE-KNESCHKE-V-LAION",
+      "notes": null,
+      "object": "SRC-KNESCHKE-LG-HAMBURG-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024"
+      ],
+      "subject": "CASE-KNESCHKE-V-LAION"
+    },
+    {
+      "declared_in": "CASE-KNESCHKE-V-LAION",
+      "notes": null,
+      "object": "CASE-GEMA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
+      ],
+      "subject": "CASE-KNESCHKE-V-LAION"
+    },
+    {
+      "declared_in": "CASE-KNESCHKE-V-LAION",
+      "notes": null,
+      "object": "CASE-GETTY-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024"
+      ],
+      "subject": "CASE-KNESCHKE-V-LAION"
+    },
+    {
+      "declared_in": "CASE-KNESCHKE-V-LAION",
+      "notes": null,
+      "object": "TOPIC-AI-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024"
+      ],
+      "subject": "CASE-KNESCHKE-V-LAION"
     },
     {
       "declared_in": "CASE-LENZ-V-UNIVERSAL",
@@ -620,6 +1020,26 @@
       "predicate": "cites",
       "sources": [
         "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "CASE-NYT-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-NYT-V-OPENAI",
+      "notes": null,
+      "object": "CASE-DOW-JONES-V-PERPLEXITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
+      ],
+      "subject": "CASE-NYT-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-NYT-V-OPENAI",
+      "notes": null,
+      "object": "CASE-IN-RE-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JPML-OPENAI-MDL-3143"
       ],
       "subject": "CASE-NYT-V-OPENAI"
     },
@@ -782,6 +1202,46 @@
         "SRC-RENO-V-ACLU-LOC"
       ],
       "subject": "CASE-RENO-V-ACLU"
+    },
+    {
+      "declared_in": "CASE-SONY-V-ANTHROPIC",
+      "notes": null,
+      "object": "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "subject": "CASE-SONY-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-SONY-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-BARTZ-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "subject": "CASE-SONY-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-SONY-V-ANTHROPIC",
+      "notes": null,
+      "object": "CASE-CONCORD-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "subject": "CASE-SONY-V-ANTHROPIC"
+    },
+    {
+      "declared_in": "CASE-SONY-V-ANTHROPIC",
+      "notes": null,
+      "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "subject": "CASE-SONY-V-ANTHROPIC"
     },
     {
       "declared_in": "CASE-SPYDER-V-MEMENTUM",
@@ -3701,10 +4161,30 @@
     {
       "declared_in": "TOPIC-AI-COPYRIGHT",
       "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
       "object": "CASE-BARTZ-V-ANTHROPIC",
       "predicate": "related_to",
       "sources": [
         "SRC-BARTZ-V-ANTHROPIC-FAIR-USE"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-BMG-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
       ],
       "subject": "TOPIC-AI-COPYRIGHT"
     },
@@ -3721,10 +4201,50 @@
     {
       "declared_in": "TOPIC-AI-COPYRIGHT",
       "notes": null,
+      "object": "CASE-DISNEY-V-MIDJOURNEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-DOE-V-GITHUB",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-DOW-JONES-V-PERPLEXITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
       "object": "CASE-GEMA-V-OPENAI",
       "predicate": "related_to",
       "sources": [
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-GETTY-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025"
       ],
       "subject": "TOPIC-AI-COPYRIGHT"
     },
@@ -3741,6 +4261,26 @@
     {
       "declared_in": "TOPIC-AI-COPYRIGHT",
       "notes": null,
+      "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-IN-RE-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
       "object": "CASE-KADREY-V-META",
       "predicate": "related_to",
       "sources": [
@@ -3751,10 +4291,30 @@
     {
       "declared_in": "TOPIC-AI-COPYRIGHT",
       "notes": null,
+      "object": "CASE-KNESCHKE-V-LAION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
       "object": "CASE-NYT-V-OPENAI",
       "predicate": "related_to",
       "sources": [
         "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-SONY-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
       ],
       "subject": "TOPIC-AI-COPYRIGHT"
     },
@@ -3861,6 +4421,16 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-ANDERSEN-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-BARTZ-V-ANTHROPIC",
       "predicate": "related_to",
       "sources": [
@@ -3871,10 +4441,50 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-BMG-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-CONCORD-V-ANTHROPIC",
       "predicate": "related_to",
       "sources": [
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-DISNEY-V-MIDJOURNEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-DOE-V-GITHUB",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-DOW-JONES-V-PERPLEXITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
       ],
       "subject": "TOPIC-AI-LITIGATION"
     },
@@ -3901,6 +4511,36 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-GETTY-V-STABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-IN-RE-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-KADREY-V-META",
       "predicate": "related_to",
       "sources": [
@@ -3911,10 +4551,30 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-KNESCHKE-V-LAION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-NYT-V-OPENAI",
       "predicate": "related_to",
       "sources": [
         "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-SONY-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
       ],
       "subject": "TOPIC-AI-LITIGATION"
     },
@@ -4021,6 +4681,16 @@
     {
       "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
       "notes": null,
+      "object": "CASE-BMG-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
       "object": "CASE-CONCORD-V-ANTHROPIC",
       "predicate": "related_to",
       "sources": [
@@ -4035,6 +4705,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+      ],
+      "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+    },
+    {
+      "declared_in": "TOPIC-AI-MUSIC-COPYRIGHT",
+      "notes": null,
+      "object": "CASE-SONY-V-ANTHROPIC",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
       ],
       "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
     },

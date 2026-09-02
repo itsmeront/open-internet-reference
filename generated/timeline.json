@@ -218,6 +218,22 @@
       "record_type": "case"
     },
     {
+      "date": "2024-06-24",
+      "description": "Open-source developers\u2019 action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.",
+      "event_type": "decision",
+      "record_id": "CASE-DOE-V-GITHUB",
+      "record_title": "Doe 1 v. GitHub, Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2024-08-12",
+      "description": "Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.",
+      "event_type": "decision",
+      "record_id": "CASE-ANDERSEN-V-STABILITY",
+      "record_title": "Andersen v. Stability AI Ltd.",
+      "record_type": "case"
+    },
+    {
       "date": "2024-08-24",
       "description": "Pavel Durov is the founder, owner, and CEO of Telegram; OIR documents Russian and French criminal proceedings alleging platform-related facilitation or moderation failures, including a July 2026 FSB charge and international wanted listing.",
       "event_type": "arrest",
@@ -232,6 +248,14 @@
       "record_id": "PERSON-PAVEL-DUROV",
       "record_title": "Pavel Durov",
       "record_type": "person"
+    },
+    {
+      "date": "2024-09-27",
+      "description": "German photographer\u2019s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.",
+      "event_type": "decision",
+      "record_id": "CASE-KNESCHKE-V-LAION",
+      "record_title": "Kneschke v. LAION e.V.",
+      "record_type": "case"
     },
     {
       "date": "2024-11-26",
@@ -322,8 +346,24 @@
       "record_type": "case"
     },
     {
+      "date": "2025-08-21",
+      "description": "Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity\u2019s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.",
+      "event_type": "decision",
+      "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+      "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-09-11",
+      "description": "Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.",
+      "event_type": "decision",
+      "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "record_title": "In re Google Generative AI Copyright Litigation",
+      "record_type": "case"
+    },
+    {
       "date": "2025-10-06",
-      "description": "Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims.",
+      "description": "Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.",
       "event_type": "decision",
       "record_id": "CASE-CONCORD-V-ANTHROPIC",
       "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
@@ -336,6 +376,22 @@
       "record_id": "STAT-CA-DIGITAL-AGE-ASSURANCE-ACT",
       "record_title": "California Digital Age Assurance Act (Civ. Code \u00a7\u00a7 1798.500\u20131798.505)",
       "record_type": "statute"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI\u2019s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.",
+      "event_type": "decision",
+      "record_id": "CASE-IN-RE-OPENAI",
+      "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-11-04",
+      "description": "English High Court trial judgment dismissing Getty\u2019s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.",
+      "event_type": "decision",
+      "record_id": "CASE-GETTY-V-STABILITY",
+      "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+      "record_type": "case"
     },
     {
       "date": "2025-11-11",
