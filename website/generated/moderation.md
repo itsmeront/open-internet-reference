@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-09-01 10:46 UTC
+Last updated: 2026-09-02 10:11 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
