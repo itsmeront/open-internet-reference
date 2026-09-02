@@ -2,7 +2,16 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 143
+Record count: 153
+
+## `CASE-ANDERSEN-V-STABILITY`: Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-ANDERSEN-V-STABILITY.md`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.
 
 ## `CASE-BARTZ-V-ANTHROPIC`: Bartz v. Anthropic PBC { #CASE-BARTZ-V-ANTHROPIC }
 
@@ -21,6 +30,15 @@ Bartz v. Anthropic PBC held that using purchased books to train Claude was trans
 - Tags: first-amendment, cryptography, speech-and-code, export-control, digital-rights
 
 Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999), held that software source code is protected speech under the First Amendment and that government regulations preventing its publication constituted an unconstitutional prior restraint.
+
+## `CASE-BMG-V-ANTHROPIC`: BMG Rights Management (US) LLC v. Anthropic PBC { #CASE-BMG-V-ANTHROPIC }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-BMG-V-ANTHROPIC.md`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.
 
 ## `CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`: Brown v. Entertainment Merchants Assn. { #CASE-BROWN-V-ENTERTAINMENT-MERCHANTS }
 
@@ -74,7 +92,34 @@ Coin Center v. Yellen, No. 3:22-cv-20375 (N.D. Fla. Oct. 30, 2023), granted summ
 - Path: [`knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
 - Tags: case, copyright, artificial-intelligence, digital-rights
 
-Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims.
+Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.
+
+## `CASE-DISNEY-V-MIDJOURNEY`: Disney Enterprises, Inc. v. Midjourney, Inc. { #CASE-DISNEY-V-MIDJOURNEY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.
+
+## `CASE-DOE-V-GITHUB`: Doe 1 v. GitHub, Inc. { #CASE-DOE-V-GITHUB }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-DOE-V-GITHUB.md`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights, open-source-software
+
+Open-source developers’ action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.
+
+## `CASE-DOW-JONES-V-PERPLEXITY`: Dow Jones & Co. v. Perplexity AI, Inc. { #CASE-DOW-JONES-V-PERPLEXITY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity’s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.
 
 ## `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`: Garcia v. Character Technologies, Inc. { #CASE-GARCIA-V-CHARACTER-TECHNOLOGIES }
 
@@ -94,6 +139,15 @@ Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pend
 
 First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.
 
+## `CASE-GETTY-V-STABILITY`: Getty Images (US), Inc. v. Stability AI Ltd. { #CASE-GETTY-V-STABILITY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-GETTY-V-STABILITY.md`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+English High Court trial judgment dismissing Getty’s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.
+
 ## `CASE-GOOGLE-V-ORACLE`: Google LLC v. Oracle America, Inc. { #CASE-GOOGLE-V-ORACLE }
 
 - Type: `case`
@@ -102,6 +156,24 @@ First-instance Munich judgment holding that memorization of nine German song lyr
 - Tags: copyright, speech-and-code, digital-rights, open-source-software
 
 Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
+
+## `CASE-IN-RE-GOOGLE-GEN-AI`: In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.
+
+## `CASE-IN-RE-OPENAI`: In re OpenAI, Inc., Copyright Infringement Litigation { #CASE-IN-RE-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-IN-RE-OPENAI.md`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI’s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.
 
 ## `CASE-JUNGER-V-DALEY`: Junger v. Daley { #CASE-JUNGER-V-DALEY }
 
@@ -120,6 +192,15 @@ Junger v. Daley, 209 F.3d 481 (6th Cir. 2000), held that computer source code is
 - Tags: case, copyright, artificial-intelligence, digital-rights
 
 Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors’ books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.
+
+## `CASE-KNESCHKE-V-LAION`: Kneschke v. LAION e.V. { #CASE-KNESCHKE-V-LAION }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-KNESCHKE-V-LAION.md`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+German photographer’s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.
 
 ## `CASE-LENZ-V-UNIVERSAL`: Lenz v. Universal Music Corp. { #CASE-LENZ-V-UNIVERSAL }
 
@@ -174,6 +255,15 @@ Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate d
 - Tags: first-amendment, internet-governance, digital-rights, speech-and-code
 
 Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain Communications Decency Act provisions restricting indecent and patently offensive Internet speech violated the First Amendment.
+
+## `CASE-SONY-V-ANTHROPIC`: Sony Music Publishing (US) LLC v. Anthropic PBC { #CASE-SONY-V-ANTHROPIC }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-SONY-V-ANTHROPIC.md`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Tags: case, copyright, artificial-intelligence, digital-rights
+
+Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.
 
 ## `CASE-SPYDER-V-MEMENTUM`: Spyder Games LLC v. Mementum Lab { #CASE-SPYDER-V-MEMENTUM }
 
@@ -1118,7 +1208,7 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 - Path: [`knowledge/legal/TOPIC-AI-COPYRIGHT.md`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Tags: copyright, artificial-intelligence, digital-rights, case-studies
 
-U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.
+U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.
 
 ## `TOPIC-AI-LITIGATION`: AI Litigation Landscape { #TOPIC-AI-LITIGATION }
 
@@ -1127,7 +1217,7 @@ U.S. and comparative copyright issues raised by generative AI, including human a
 - Path: [`knowledge/legal/TOPIC-AI-LITIGATION.md`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Tags: artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
 
 ## `TOPIC-AI-MUSIC-COPYRIGHT`: Music Copyright and Generative AI { #TOPIC-AI-MUSIC-COPYRIGHT }
 
@@ -1136,7 +1226,7 @@ Inventory of major civil actions involving generative AI, spanning copyright of 
 - Path: [`knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - Tags: copyright, artificial-intelligence, digital-rights, case-studies
 
-Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.
+Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.
 
 ## `TOPIC-APP-STORE-AGE-VERIFICATION`: App Store and Operating System Age-Verification Laws { #TOPIC-APP-STORE-AGE-VERIFICATION }
 

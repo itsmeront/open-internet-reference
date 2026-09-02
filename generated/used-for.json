@@ -4,6 +4,13 @@
   "terms": [
     {
       "sources": [
+        "SRC-ANDERSEN-V-STABILITY-DOCKET",
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+      ],
+      "term": "`CASE-ANDERSEN-V-STABILITY`"
+    },
+    {
+      "sources": [
         "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
         "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
         "SRC-USC-17-107-LII"
@@ -17,6 +24,12 @@
         "SRC-BERNSTEIN-JUSTIA"
       ],
       "term": "`CASE-BERNSTEIN-V-DOJ`"
+    },
+    {
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "term": "`CASE-BMG-V-ANTHROPIC`"
     },
     {
       "sources": [
@@ -58,10 +71,34 @@
     },
     {
       "sources": [
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-CONCORD-II-RELATED-2026",
         "SRC-CONCORD-V-ANTHROPIC-DOCKET",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
       ],
       "term": "`CASE-CONCORD-V-ANTHROPIC`"
+    },
+    {
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026"
+      ],
+      "term": "`CASE-DISNEY-V-MIDJOURNEY`"
+    },
+    {
+      "sources": [
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-DOE-V-GITHUB-MTD-2024"
+      ],
+      "term": "`CASE-DOE-V-GITHUB`"
+    },
+    {
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-DOCKET",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
+      ],
+      "term": "`CASE-DOW-JONES-V-PERPLEXITY`"
     },
     {
       "sources": [
@@ -79,9 +116,30 @@
     },
     {
       "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026"
+      ],
+      "term": "`CASE-GETTY-V-STABILITY`"
+    },
+    {
+      "sources": [
         "SRC-GOOGLE-ORACLE-JUSTIA"
       ],
       "term": "`CASE-GOOGLE-V-ORACLE`"
+    },
+    {
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "term": "`CASE-IN-RE-GOOGLE-GEN-AI`"
+    },
+    {
+      "sources": [
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-JPML-OPENAI-MDL-3143"
+      ],
+      "term": "`CASE-IN-RE-OPENAI`"
     },
     {
       "sources": [
@@ -96,6 +154,13 @@
         "SRC-USC-17-107-LII"
       ],
       "term": "`CASE-KADREY-V-META`"
+    },
+    {
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
+      ],
+      "term": "`CASE-KNESCHKE-V-LAION`"
     },
     {
       "sources": [
@@ -116,7 +181,8 @@
       "sources": [
         "SRC-NYT-V-OPENAI-12C-2026",
         "SRC-NYT-V-OPENAI-COMPLAINT",
-        "SRC-NYT-V-OPENAI-MTD-2025"
+        "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
       ],
       "term": "`CASE-NYT-V-OPENAI`"
     },
@@ -141,6 +207,12 @@
         "SRC-RENO-V-ACLU-LOC"
       ],
       "term": "`CASE-RENO-V-ACLU`"
+    },
+    {
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "term": "`CASE-SONY-V-ANTHROPIC`"
     },
     {
       "sources": [
@@ -894,14 +966,30 @@
     },
     {
       "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
         "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
         "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-JPML-OPENAI-MDL-3143",
         "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
         "SRC-NYT-V-OPENAI-12C-2026",
         "SRC-NYT-V-OPENAI-COMPLAINT",
         "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-SPYDER-V-MEMENTUM-COMPLAINT",
         "SRC-THALER-V-PERLMUTTER-CADC",
         "SRC-THOMSON-REUTERS-V-ROSS-2025",
@@ -917,16 +1005,32 @@
     },
     {
       "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
         "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
         "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
         "SRC-GARCIA-V-CHARACTER-COMPLAINT",
         "SRC-GARCIA-V-CHARACTER-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-JPML-OPENAI-MDL-3143",
         "SRC-KADREY-V-META-FAIR-USE",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
         "SRC-NYT-V-OPENAI-12C-2026",
         "SRC-NYT-V-OPENAI-COMPLAINT",
         "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-THOMSON-REUTERS-V-ROSS-2025",
         "SRC-UMG-V-SUNO-COMPLAINT",
         "SRC-UMG-V-UDIO-COMPLAINT"
@@ -935,10 +1039,13 @@
     },
     {
       "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+        "SRC-CONCORD-II-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-DOCKET",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
         "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-SONY-V-UDIO-2026-COMPLAINT",
         "SRC-UMG-V-SUNO-ANSWER",
         "SRC-UMG-V-SUNO-COMPLAINT",

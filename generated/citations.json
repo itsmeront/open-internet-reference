@@ -109,6 +109,94 @@
       ]
     },
     {
+      "source_id": "SRC-ANDERSEN-V-STABILITY-DOCKET",
+      "source_title": "Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201)",
+      "usages": [
+        {
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+      "source_title": "Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+          "predicate": "cites",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-AP-DUROV-FSB-2026",
       "source_title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
       "usages": [
@@ -575,6 +663,93 @@
           "record_id": "PERSON-MATT-BLAZE",
           "record_title": "Matt Blaze",
           "subject": "PERSON-MATT-BLAZE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+      "source_title": "BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-BMG-V-ANTHROPIC",
+          "record_title": "BMG Rights Management (US) LLC v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-BMG-V-ANTHROPIC",
+          "record_title": "BMG Rights Management (US) LLC v. Anthropic PBC",
+          "subject": "CASE-BMG-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-BMG-V-ANTHROPIC",
+          "record_title": "BMG Rights Management (US) LLC v. Anthropic PBC",
+          "subject": "CASE-BMG-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-BMG-V-ANTHROPIC",
+          "record_title": "BMG Rights Management (US) LLC v. Anthropic PBC",
+          "subject": "CASE-BMG-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
           "usage": "relationship_source"
         }
       ]
@@ -1527,6 +1702,56 @@
       ]
     },
     {
+      "source_id": "SRC-CONCORD-II-COMPLAINT",
+      "source_title": "Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CONCORD-II-RELATED-2026",
+      "source_title": "Concord Music Group, Inc. v. Anthropic PBC, Related Case Order (N.D. Cal. Feb. 18, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CONCORD-II-RELATED-2026",
+          "predicate": "cites",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-CONCORD-V-ANTHROPIC-DOCKET",
       "source_title": "Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)",
       "usages": [
@@ -1754,6 +1979,178 @@
       ]
     },
     {
+      "source_id": "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+      "source_title": "Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+          "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+          "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+          "subject": "CASE-DISNEY-V-MIDJOURNEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+          "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+          "subject": "CASE-DISNEY-V-MIDJOURNEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+          "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+          "subject": "CASE-DISNEY-V-MIDJOURNEY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+      "source_title": "Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+          "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+      "source_title": "Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700)",
+      "usages": [
+        {
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOE-V-GITHUB-MTD-2024",
+      "source_title": "Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DOE-V-GITHUB-MTD-2024",
+          "predicate": "cites",
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "subject": "CASE-DOE-V-GITHUB",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "subject": "CASE-DOE-V-GITHUB",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "subject": "CASE-DOE-V-GITHUB",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-DOE-V-GITHUB",
+          "record_title": "Doe 1 v. GitHub, Inc.",
+          "subject": "CASE-DOE-V-GITHUB",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-DOJ-SKLYAROV-AGREE-2001",
       "source_title": "DOJ \u2014 Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)",
       "usages": [
@@ -1879,6 +2276,78 @@
           "record_id": "TOPIC-TORNADO-CASH",
           "record_title": "Tornado Cash Sanctions and Developer Prosecutions",
           "subject": "TOPIC-TORNADO-CASH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOW-JONES-V-PERPLEXITY-DOCKET",
+      "source_title": "Dow Jones & Co. v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-07984)",
+      "usages": [
+        {
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+      "source_title": "Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
           "usage": "relationship_source"
         }
       ]
@@ -2608,6 +3077,120 @@
       ]
     },
     {
+      "source_id": "SRC-GETTY-V-STABILITY-EWHC-2025",
+      "source_title": "Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch)",
+      "usages": [
+        {
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GETTY-V-STABILITY-EWHC-2025",
+          "predicate": "cites",
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "subject": "CASE-GETTY-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "subject": "CASE-GETTY-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "subject": "CASE-GETTY-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+      "source_title": "Getty Images (US), Inc. v. Stability AI, Ltd., Complaint (N.D. Cal. Aug. 14, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GETTY-V-STABILITY-US-MTD-2026",
+      "source_title": "Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GETTY-V-STABILITY-US-MTD-2026",
+          "predicate": "cites",
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "subject": "CASE-GETTY-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "record_id": "CASE-GETTY-V-STABILITY",
+          "record_title": "Getty Images (US), Inc. v. Stability AI Ltd.",
+          "subject": "CASE-GETTY-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-GNUNET-ABOUT",
       "source_title": "GNUnet About Page",
       "usages": [
@@ -2628,6 +3211,88 @@
           "record_id": "TOPIC-DECENTRALIZED-MODERATION",
           "record_title": "Decentralized Moderation in Censorship-Resistant Networks",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-GOOGLE-GEN-AI-MTD-2025",
+      "source_title": "In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "record_id": "CASE-ANDERSEN-V-STABILITY",
+          "record_title": "Andersen v. Stability AI Ltd.",
+          "subject": "CASE-ANDERSEN-V-STABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "record_title": "In re Google Generative AI Copyright Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-GOOGLE-GEN-AI-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "record_title": "In re Google Generative AI Copyright Litigation",
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "record_title": "In re Google Generative AI Copyright Litigation",
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "record_title": "In re Google Generative AI Copyright Litigation",
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "record_title": "In re Google Generative AI Copyright Litigation",
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -3009,6 +3674,59 @@
       ]
     },
     {
+      "source_id": "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+      "source_title": "In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+          "predicate": "cites",
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "subject": "CASE-IN-RE-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "subject": "CASE-IN-RE-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-IRS-SAMOURAI-PLEA-2025",
       "source_title": "IRS-CI \u2014 Samourai Wallet Founders Plead Guilty (July 30, 2025)",
       "usages": [
@@ -3165,6 +3883,56 @@
           "record_title": "Cindy Cohn",
           "subject": "PERSON-CINDY-COHN",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-JPML-OPENAI-MDL-3143",
+      "source_title": "In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JPML-OPENAI-MDL-3143",
+          "predicate": "cites",
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "subject": "CASE-IN-RE-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-OPENAI",
+          "record_title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+          "subject": "CASE-IN-RE-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "subject": "CASE-NYT-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
         }
       ]
     },
@@ -3382,6 +4150,109 @@
           "record_title": "Ro Khanna",
           "subject": "PERSON-RO-KHANNA",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KNESCHKE-LG-HAMBURG-2024",
+      "source_title": "Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024)",
+      "usages": [
+        {
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KNESCHKE-LG-HAMBURG-2024",
+          "predicate": "cites",
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "subject": "CASE-KNESCHKE-V-LAION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "subject": "CASE-KNESCHKE-V-LAION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "subject": "CASE-KNESCHKE-V-LAION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-KNESCHKE-OLG-HAMBURG-2025",
+      "source_title": "Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "record_id": "CASE-GEMA-V-OPENAI",
+          "record_title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+          "subject": "CASE-GEMA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-KNESCHKE-V-LAION",
+          "record_title": "Kneschke v. LAION e.V.",
+          "subject": "CASE-KNESCHKE-V-LAION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
         }
       ]
     },
@@ -3946,6 +4817,30 @@
           "record_id": "TOPIC-AI-LITIGATION",
           "record_title": "AI Litigation Landscape",
           "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-NYT-V-PERPLEXITY-DOCKET",
+      "source_title": "The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106)",
+      "usages": [
+        {
+          "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
+          "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "record_id": "CASE-NYT-V-OPENAI",
+          "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
+          "subject": "CASE-NYT-V-OPENAI",
           "usage": "relationship_source"
         }
       ]
@@ -5066,6 +5961,101 @@
           "record_id": "ORG-SIGNAL",
           "record_title": "Signal",
           "subject": "ORG-SIGNAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+      "source_title": "Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-CONCORD-V-ANTHROPIC",
+          "record_title": "Concord Music Group, Inc. v. Anthropic PBC",
+          "subject": "CASE-CONCORD-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-SONY-V-ANTHROPIC",
+          "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+          "predicate": "cites",
+          "record_id": "CASE-SONY-V-ANTHROPIC",
+          "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+          "subject": "CASE-SONY-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-SONY-V-ANTHROPIC",
+          "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+          "subject": "CASE-SONY-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "CASE-SONY-V-ANTHROPIC",
+          "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+          "subject": "CASE-SONY-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "record_id": "CASE-SONY-V-ANTHROPIC",
+          "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+          "subject": "CASE-SONY-V-ANTHROPIC",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-COPYRIGHT",
+          "record_title": "Copyright and Generative AI",
+          "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "record_title": "Music Copyright and Generative AI",
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT",
           "usage": "relationship_source"
         }
       ]

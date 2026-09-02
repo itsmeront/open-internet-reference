@@ -5,6 +5,87 @@
       "arrest_date": null,
       "bibliographic_metadata": {},
       "charge_date": null,
+      "decision_date": "2024-08-12",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-ANDERSEN-V-STABILITY",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-ANDERSEN-V-STABILITY.md",
+      "relationships": [
+        {
+          "object": "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "CASE-ANDERSEN-V-STABILITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md",
+      "sources": [
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-ANDERSEN-V-STABILITY-DOCKET",
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Andersen v. Stability AI Ltd.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
       "decision_date": "2025-06-23",
       "enactment_date": null,
       "event_date": null,
@@ -137,6 +218,61 @@
         "digital-rights"
       ],
       "title": "Bernstein v. United States Department of Justice",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-BMG-V-ANTHROPIC",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-BMG-V-ANTHROPIC.md",
+      "relationships": [
+        {
+          "object": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "CASE-BMG-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "CASE-BMG-V-ANTHROPIC"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "CASE-BMG-V-ANTHROPIC"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "BMG Rights Management (US) LLC v. Anthropic PBC",
       "type": "case",
       "used_for": []
     },
@@ -478,7 +614,7 @@
       "event_date": null,
       "id": "CASE-CONCORD-V-ANTHROPIC",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md",
@@ -488,6 +624,14 @@
           "predicate": "cites",
           "sources": [
             "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "SRC-CONCORD-II-RELATED-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CONCORD-II-RELATED-2026"
           ],
           "subject": "CASE-CONCORD-V-ANTHROPIC"
         },
@@ -514,16 +658,36 @@
             "SRC-CONCORD-V-ANTHROPIC-MTD-2025"
           ],
           "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "CASE-CONCORD-V-ANTHROPIC"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md",
       "sources": [
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-CONCORD-V-ANTHROPIC-DOCKET",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-CONCORD-II-RELATED-2026",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-USC-17-107-LII"
       ],
       "status": "draft",
-      "summary": "Pending Northern District of California publisher action alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims.",
+      "summary": "Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic\u2019s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.",
       "tags": [
         "case",
         "copyright",
@@ -531,6 +695,184 @@
         "digital-rights"
       ],
       "title": "Concord Music Group, Inc. v. Anthropic PBC",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-DISNEY-V-MIDJOURNEY",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md",
+      "relationships": [
+        {
+          "object": "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+          ],
+          "subject": "CASE-DISNEY-V-MIDJOURNEY"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+          ],
+          "subject": "CASE-DISNEY-V-MIDJOURNEY"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+          ],
+          "subject": "CASE-DISNEY-V-MIDJOURNEY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md",
+      "sources": [
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2024-06-24",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-DOE-V-GITHUB",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-DOE-V-GITHUB.md",
+      "relationships": [
+        {
+          "object": "SRC-DOE-V-GITHUB-MTD-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "CASE-DOE-V-GITHUB"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "CASE-DOE-V-GITHUB"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "CASE-DOE-V-GITHUB"
+        },
+        {
+          "object": "CASE-GOOGLE-V-ORACLE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "CASE-DOE-V-GITHUB"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md",
+      "sources": [
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET"
+      ],
+      "status": "draft",
+      "summary": "Open-source developers\u2019 action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights",
+        "open-source-software"
+      ],
+      "title": "Doe 1 v. GitHub, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-08-21",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-DOW-JONES-V-PERPLEXITY",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md",
+      "relationships": [
+        {
+          "object": "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+          ],
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+          ],
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+          ],
+          "subject": "CASE-DOW-JONES-V-PERPLEXITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md",
+      "sources": [
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-DOCKET",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
+      ],
+      "status": "draft",
+      "summary": "Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity\u2019s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Dow Jones & Co. v. Perplexity AI, Inc.",
       "type": "case",
       "used_for": []
     },
@@ -616,7 +958,7 @@
       "event_date": null,
       "id": "CASE-GEMA-V-OPENAI",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/CASE-GEMA-V-OPENAI.md",
@@ -652,12 +994,21 @@
             "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
           ],
           "subject": "CASE-GEMA-V-OPENAI"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-OLG-HAMBURG-2025"
+          ],
+          "subject": "CASE-GEMA-V-OPENAI"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md",
       "sources": [
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
-        "SRC-GEMA-V-OPENAI-PRESS-2025"
+        "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
       ],
       "status": "draft",
       "summary": "First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.",
@@ -668,6 +1019,79 @@
         "digital-rights"
       ],
       "title": "GEMA v. OpenAI (LG M\u00fcnchen I)",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-11-04",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-GETTY-V-STABILITY",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-GETTY-V-STABILITY.md",
+      "relationships": [
+        {
+          "object": "SRC-GETTY-V-STABILITY-EWHC-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-EWHC-2025"
+          ],
+          "subject": "CASE-GETTY-V-STABILITY"
+        },
+        {
+          "object": "SRC-GETTY-V-STABILITY-US-MTD-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-US-MTD-2026"
+          ],
+          "subject": "CASE-GETTY-V-STABILITY"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-EWHC-2025"
+          ],
+          "subject": "CASE-GETTY-V-STABILITY"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-EWHC-2025"
+          ],
+          "subject": "CASE-GETTY-V-STABILITY"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-US-MTD-2026"
+          ],
+          "subject": "CASE-GETTY-V-STABILITY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md",
+      "sources": [
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026"
+      ],
+      "status": "draft",
+      "summary": "English High Court trial judgment dismissing Getty\u2019s secondary-copyright claim that Stable Diffusion was an infringing copy, after Getty abandoned UK training and output copyright claims, with limited historic trade-mark findings; a later Northern District of California action over the same models remains at the pleading stage.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Getty Images (US), Inc. v. Stability AI Ltd.",
       "type": "case",
       "used_for": []
     },
@@ -715,6 +1139,133 @@
         "open-source-software"
       ],
       "title": "Google LLC v. Oracle America, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-09-11",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-IN-RE-GOOGLE-GEN-AI",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
+      "relationships": [
+        {
+          "object": "SRC-GOOGLE-GEN-AI-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-GOOGLE-GEN-AI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
+      "sources": [
+        "SRC-GOOGLE-GEN-AI-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California putative class action alleging Google trained generative models on copyrighted text and images; the court dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "In re Google Generative AI Copyright Litigation",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2025-10-27",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-IN-RE-OPENAI",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-IN-RE-OPENAI.md",
+      "relationships": [
+        {
+          "object": "SRC-JPML-OPENAI-MDL-3143",
+          "predicate": "cites",
+          "sources": [
+            "SRC-JPML-OPENAI-MDL-3143"
+          ],
+          "subject": "CASE-IN-RE-OPENAI"
+        },
+        {
+          "object": "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+          "predicate": "cites",
+          "sources": [
+            "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-OPENAI"
+        },
+        {
+          "object": "CASE-NYT-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-JPML-OPENAI-MDL-3143"
+          ],
+          "subject": "CASE-IN-RE-OPENAI"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+          ],
+          "subject": "CASE-IN-RE-OPENAI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md",
+      "sources": [
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "status": "draft",
+      "summary": "Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI\u2019s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "In re OpenAI, Inc., Copyright Infringement Litigation",
       "type": "case",
       "used_for": []
     },
@@ -844,6 +1395,70 @@
         "digital-rights"
       ],
       "title": "Kadrey v. Meta Platforms, Inc.",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": "2024-09-27",
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-KNESCHKE-V-LAION",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-KNESCHKE-V-LAION.md",
+      "relationships": [
+        {
+          "object": "SRC-KNESCHKE-LG-HAMBURG-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KNESCHKE-LG-HAMBURG-2024"
+          ],
+          "subject": "CASE-KNESCHKE-V-LAION"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-LG-HAMBURG-2024"
+          ],
+          "subject": "CASE-KNESCHKE-V-LAION"
+        },
+        {
+          "object": "CASE-GEMA-V-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-OLG-HAMBURG-2025"
+          ],
+          "subject": "CASE-KNESCHKE-V-LAION"
+        },
+        {
+          "object": "TOPIC-AI-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-LG-HAMBURG-2024"
+          ],
+          "subject": "CASE-KNESCHKE-V-LAION"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md",
+      "sources": [
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025"
+      ],
+      "status": "draft",
+      "summary": "German photographer\u2019s claim against LAION over downloading an image to build an open AI training dataset was dismissed; the Hamburg Regional Court applied the scientific-research text-and-data-mining exception, and the Higher Regional Court affirmed, also applying the general TDM exception.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Kneschke v. LAION e.V.",
       "type": "case",
       "used_for": []
     },
@@ -996,7 +1611,7 @@
       "event_date": null,
       "id": "CASE-NYT-V-OPENAI",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/CASE-NYT-V-OPENAI.md",
@@ -1024,13 +1639,31 @@
             "SRC-NYT-V-OPENAI-MTD-2025"
           ],
           "subject": "CASE-NYT-V-OPENAI"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-JPML-OPENAI-MDL-3143"
+          ],
+          "subject": "CASE-NYT-V-OPENAI"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-NYT-V-PERPLEXITY-DOCKET"
+          ],
+          "subject": "CASE-NYT-V-OPENAI"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md",
       "sources": [
         "SRC-NYT-V-OPENAI-COMPLAINT",
         "SRC-NYT-V-OPENAI-MTD-2025",
-        "SRC-NYT-V-OPENAI-12C-2026"
+        "SRC-NYT-V-OPENAI-12C-2026",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-NYT-V-PERPLEXITY-DOCKET"
       ],
       "status": "draft",
       "summary": "Pending Southern District of New York copyright litigation in which The New York Times and other publishers allege that OpenAI and Microsoft copied news works to train large language models and that outputs substitute for licensed journalism.",
@@ -1250,6 +1883,69 @@
         "speech-and-code"
       ],
       "title": "Reno v. American Civil Liberties Union",
+      "type": "case",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "CASE-SONY-V-ANTHROPIC",
+      "indictment_date": null,
+      "last_verified": "2026-09-02",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/CASE-SONY-V-ANTHROPIC.md",
+      "relationships": [
+        {
+          "object": "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "CASE-SONY-V-ANTHROPIC"
+        },
+        {
+          "object": "TOPIC-AI-MUSIC-COPYRIGHT",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "CASE-SONY-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-CONCORD-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "CASE-SONY-V-ANTHROPIC"
+        },
+        {
+          "object": "CASE-BARTZ-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "CASE-SONY-V-ANTHROPIC"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md",
+      "sources": [
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.",
+      "tags": [
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
       "type": "case",
       "used_for": []
     },
@@ -7001,7 +7697,7 @@
       "event_date": null,
       "id": "TOPIC-AI-COPYRIGHT",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-AI-COPYRIGHT.md",
@@ -7141,6 +7837,86 @@
             "SRC-WALSH-EFF-BIO"
           ],
           "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-EWHC-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-LG-HAMBURG-2024"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-COPYRIGHT"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md",
@@ -7158,11 +7934,28 @@
         "SRC-UMG-V-UDIO-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-GETTY-V-STABILITY-US-COMPLAINT",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-USC-17-107-LII",
         "SRC-WALSH-EFF-BIO"
       ],
       "status": "draft",
-      "summary": "U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, pending publisher and music suits, and character-ownership claims.",
+      "summary": "U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.",
       "tags": [
         "copyright",
         "artificial-intelligence",
@@ -7182,7 +7975,7 @@
       "event_date": null,
       "id": "TOPIC-AI-LITIGATION",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-AI-LITIGATION.md",
@@ -7315,6 +8108,86 @@
             "SRC-GARCIA-V-CHARACTER-MTD-2025"
           ],
           "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-GETTY-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GETTY-V-STABILITY-EWHC-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-ANDERSEN-V-STABILITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-ANDERSEN-V-STABILITY-MTD-2024"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-DISNEY-V-MIDJOURNEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-DOE-V-GITHUB",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOE-V-GITHUB-MTD-2024"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-IN-RE-OPENAI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-DOW-JONES-V-PERPLEXITY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-KNESCHKE-V-LAION",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-KNESCHKE-LG-HAMBURG-2024"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-IN-RE-GOOGLE-GEN-AI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-GOOGLE-GEN-AI-MTD-2025"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-LITIGATION"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md",
@@ -7332,10 +8205,26 @@
         "SRC-UMG-V-SUNO-COMPLAINT",
         "SRC-UMG-V-UDIO-COMPLAINT",
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
-        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025"
+        "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
+        "SRC-GETTY-V-STABILITY-EWHC-2025",
+        "SRC-ANDERSEN-V-STABILITY-MTD-2024",
+        "SRC-DISNEY-V-MIDJOURNEY-COMPLAINT",
+        "SRC-DISNEY-V-MIDJOURNEY-MTC-2026",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-DOE-V-GITHUB-MTD-2024",
+        "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
+        "SRC-JPML-OPENAI-MDL-3143",
+        "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-GETTY-V-STABILITY-US-MTD-2026",
+        "SRC-KNESCHKE-LG-HAMBURG-2024",
+        "SRC-KNESCHKE-OLG-HAMBURG-2025",
+        "SRC-GOOGLE-GEN-AI-MTD-2025",
+        "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
       ],
       "status": "draft",
-      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music), chatbot product-liability claims, and adjacent First Amendment issues.",
+      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.",
       "tags": [
         "artificial-intelligence",
         "copyright",
@@ -7357,7 +8246,7 @@
       "event_date": null,
       "id": "TOPIC-AI-MUSIC-COPYRIGHT",
       "indictment_date": null,
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-09-02",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md",
@@ -7417,6 +8306,22 @@
             "SRC-UMG-V-SUNO-ANSWER"
           ],
           "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "CASE-SONY-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
+        },
+        {
+          "object": "CASE-BMG-V-ANTHROPIC",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+          ],
+          "subject": "TOPIC-AI-MUSIC-COPYRIGHT"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md",
@@ -7430,10 +8335,14 @@
         "SRC-CONCORD-V-ANTHROPIC-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
         "SRC-GEMA-V-OPENAI-PRESS-2025",
+        "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
+        "SRC-CONCORD-II-COMPLAINT",
+        "SRC-CONCORD-II-RELATED-2026",
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
         "SRC-USC-17-107-LII"
       ],
       "status": "draft",
-      "summary": "Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic, and the German first-instance GEMA v. OpenAI judgment.",
+      "summary": "Music-industry copyright claims against generative AI, covering U.S. sound-recording suits against Suno and Udio, U.S. publisher lyric suits against Anthropic (including Concord II, BMG, and the August 2026 Sony/Warner complaint), and the German first-instance GEMA v. OpenAI judgment.",
       "tags": [
         "copyright",
         "artificial-intelligence",

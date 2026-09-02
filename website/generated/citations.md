@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 232
+Source count: 253
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -32,6 +32,23 @@ Source count: 232
 ## [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md): Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026)
 
 - Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## [`SRC-ANDERSEN-V-STABILITY-DOCKET`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md): Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201)
+
+- Page source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+## [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md): Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024)
+
+- Page source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `cites` [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
 
 ## [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
 
@@ -122,6 +139,21 @@ Source count: 232
 
 - Page source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
 - Relationship source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md): [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) `cites` [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
+## [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md): BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026)
+
+- Page source in [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Relationship source in [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md): [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `cites` [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md)
+- Relationship source in [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md): [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md): [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-BMG-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BMG-V-ANTHROPIC.md)
 
 ## [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising
 
@@ -322,6 +354,19 @@ Source count: 232
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-COIN-CENTER-V-YELLEN`](source-docs/knowledge/legal/CASE-COIN-CENTER-V-YELLEN.md)
 
+## [`SRC-CONCORD-II-COMPLAINT`](source-docs/bibliography/legal/SRC-CONCORD-II-COMPLAINT.md): Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026)
+
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
+## [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md): Concord Music Group, Inc. v. Anthropic PBC, Related Case Order (N.D. Cal. Feb. 18, 2026)
+
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `cites` [`SRC-CONCORD-II-RELATED-2026`](source-docs/bibliography/legal/SRC-CONCORD-II-RELATED-2026.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+
 ## [`SRC-CONCORD-V-ANTHROPIC-DOCKET`](source-docs/bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md): Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)
 
 - Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
@@ -371,6 +416,41 @@ Source count: 232
 - Page source in [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 - Relationship source in [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md): [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md) `cites` [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 
+## [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md): Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025)
+
+- Page source in [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Relationship source in [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md): [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `cites` [`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-COMPLAINT.md)
+- Relationship source in [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md): [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md): [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+
+## [`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`](source-docs/bibliography/legal/SRC-DISNEY-V-MIDJOURNEY-MTC-2026.md): Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026)
+
+- Page source in [`CASE-DISNEY-V-MIDJOURNEY`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-DOE-V-GITHUB-9THCIR-DOCKET`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md): Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700)
+
+- Page source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md): Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024)
+
+- Page source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Relationship source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md): [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `cites` [`SRC-DOE-V-GITHUB-MTD-2024`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
+- Relationship source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md): [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md): [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- Relationship source in [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md): [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DOE-V-GITHUB`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
+
 ## [`SRC-DOJ-SKLYAROV-AGREE-2001`](source-docs/bibliography/legal/SRC-DOJ-SKLYAROV-AGREE-2001.md): DOJ — Sklyarov Enters Agreement in First DMCA Criminal Case (Dec. 13, 2001)
 
 - Page source in [`CASE-US-V-SKLYAROV`](source-docs/knowledge/legal/CASE-US-V-SKLYAROV.md)
@@ -399,6 +479,21 @@ Source count: 232
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
 - Page source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md)
 - Relationship source in [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): [`TOPIC-TORNADO-CASH`](source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md) `related_to` [`CASE-US-V-STORM`](source-docs/knowledge/legal/CASE-US-V-STORM.md)
+
+## [`SRC-DOW-JONES-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-DOCKET.md): Dow Jones & Co. v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:24-cv-07984)
+
+- Page source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+## [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md): Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025)
+
+- Page source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Relationship source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md): [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `cites` [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+- Relationship source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md): [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Relationship source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md): [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
 
 ## [`SRC-DRAKETO-DECENTRALIZED-MODERATION`](source-docs/bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md): Arne Babenhauserheide — The Path Towards Decentralized Moderation
 
@@ -561,11 +656,49 @@ Source count: 232
 - Page source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 
+## [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md): Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch)
+
+- Page source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Relationship source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `cites` [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
+- Relationship source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+
+## [`SRC-GETTY-V-STABILITY-US-COMPLAINT`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-COMPLAINT.md): Getty Images (US), Inc. v. Stability AI, Ltd., Complaint (N.D. Cal. Aug. 14, 2025)
+
+- Page source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+## [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md): Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026)
+
+- Page source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Relationship source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `cites` [`SRC-GETTY-V-STABILITY-US-MTD-2026`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
+- Relationship source in [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md): [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md): GNUnet About Page
 
 - Page source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
 - Relationship source in [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md): [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md) `cites` [`SRC-GNUNET-ABOUT`](source-docs/bibliography/organizations/SRC-GNUNET-ABOUT.md)
 - Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
+
+## [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md): In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025)
+
+- Page source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md): [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Page source in [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Relationship source in [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md): [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `cites` [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
+- Relationship source in [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md): [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+- Relationship source in [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md): [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Relationship source in [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md): [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
 
 ## [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md): Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)
 
@@ -652,6 +785,16 @@ Source count: 232
 - Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `cites` [`SRC-IJ-FIRST-AMENDMENT`](source-docs/bibliography/organizations/SRC-IJ-FIRST-AMENDMENT.md)
 - Relationship source in [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md): [`ORG-INSTITUTE-FOR-JUSTICE`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
+## [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md): In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)
+
+- Page source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Relationship source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md): [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `cites` [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+- Relationship source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md): [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+
 ## [`SRC-IRS-SAMOURAI-PLEA-2025`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md): IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)
 
 - Page source in [`CASE-US-V-RODRIGUEZ`](source-docs/knowledge/legal/CASE-US-V-RODRIGUEZ.md)
@@ -683,6 +826,16 @@ Source count: 232
 
 - Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
+
+## [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md): In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)
+
+- Page source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Relationship source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md): [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `cites` [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+- Relationship source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md): [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md): Junger v. Daley ACLU Ohio Case Page
 
@@ -730,6 +883,26 @@ Source count: 232
 
 - Page source in [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
 - Relationship source in [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md): [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) `cites` [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
+
+## [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md): Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024)
+
+- Page source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Relationship source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md): [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `cites` [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
+- Relationship source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md): [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`CASE-GETTY-V-STABILITY`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
+- Relationship source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md): [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+
+## [`SRC-KNESCHKE-OLG-HAMBURG-2025`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md): Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025)
+
+- Page source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Relationship source in [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md): [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md) `related_to` [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Page source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
+- Relationship source in [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md): [`CASE-KNESCHKE-V-LAION`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md) `related_to` [`CASE-GEMA-V-OPENAI`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## [`SRC-KNIGHT-ABOUT`](source-docs/bibliography/organizations/SRC-KNIGHT-ABOUT.md): Knight First Amendment Institute About Page
 
@@ -855,6 +1028,12 @@ Source count: 232
 - Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+## [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md): The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106)
+
+- Page source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+- Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
 
 ## [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md): OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation
 
@@ -1124,6 +1303,22 @@ Source count: 232
 
 - Page source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md)
 - Relationship source in [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md): [`ORG-SIGNAL`](source-docs/knowledge/organizations/ORG-SIGNAL.md) `cites` [`SRC-SIGNAL-X3DH`](source-docs/bibliography/technical/SRC-SIGNAL-X3DH.md)
+
+## [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md): Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)
+
+- Page source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md): [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Page source in [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Relationship source in [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md): [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `cites` [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
+- Relationship source in [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md): [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`CASE-BARTZ-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-BARTZ-V-ANTHROPIC.md)
+- Relationship source in [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md): [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`CASE-CONCORD-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md)
+- Relationship source in [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md): [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
+- Page source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
+- Relationship source in [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
 
 ## [`SRC-SONY-V-UDIO-2026-COMPLAINT`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md): Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)
 
