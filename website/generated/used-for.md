@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 208
+Term count: 215
 
 ## `CASE-ANDERSEN-V-STABILITY` { #case-andersen-v-stability }
 
@@ -76,6 +76,11 @@ Term count: 208
 - [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025: Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025)`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
 - [`SRC-NYT-V-PERPLEXITY-DOCKET: The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106)`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md)
 
+## `CASE-FLORIDA-V-OPENAI` { #case-florida-v-openai }
+
+- [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
 ## `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES` { #case-garcia-v-character-technologies }
 
 - [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
@@ -96,6 +101,13 @@ Term count: 208
 
 - [`SRC-GOOGLE-ORACLE-JUSTIA: Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021) (Justia)`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 
+## `CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY` { #case-in-re-chatgpt-product-liability }
+
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+- [`SRC-NLR-CHATGPT-JCCP-2026: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
+
 ## `CASE-IN-RE-GOOGLE-GEN-AI` { #case-in-re-google-gen-ai }
 
 - [`SRC-GOOGLE-GEN-AI-MTD-2025: In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025)`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
@@ -104,6 +116,11 @@ Term count: 208
 
 - [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025: In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
 - [`SRC-JPML-OPENAI-MDL-3143: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
+
+## `CASE-JOSHI-V-OPENAI` { #case-joshi-v-openai }
+
+- [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 
 ## `CASE-JUNGER-V-DALEY` { #case-junger-v-daley }
 
@@ -124,6 +141,11 @@ Term count: 208
 
 - [`SRC-LENZ-V-UNIVERSAL-CA9: Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015)`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 - [`SRC-USC-17-107-LII: 17 U.S.C. § 107`](source-docs/bibliography/legal/SRC-USC-17-107-LII.md)
+
+## `CASE-LYONS-V-OPENAI` { #case-lyons-v-openai }
+
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
 
 ## `CASE-NL-V-PERTSEV` { #case-nl-v-pertsev }
 
@@ -147,6 +169,11 @@ Term count: 208
 ## `CASE-PERFECT10-V-CCBILL` { #case-perfect10-v-ccbill }
 
 - [`SRC-PERFECT10-V-CCBILL-JUSTIA: Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007)`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+
+## `CASE-RAINE-V-OPENAI` { #case-raine-v-openai }
+
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
 
 ## `CASE-RENO-V-ACLU` { #case-reno-v-aclu }
 
@@ -235,6 +262,10 @@ Term count: 208
 - [`SRC-TREASURY-TC-DELIST-2025: Tornado Cash Delisting (Mar. 21, 2025)`](source-docs/bibliography/legal/SRC-TREASURY-TC-DELIST-2025.md)
 - [`SRC-TREASURY-TC-NOV-2022: Treasury Designates DPRK Weapons Representatives; Tornado Cash Redesignation (Nov. 8, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-TC-NOV-2022.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## `CASE-WALTERS-V-OPENAI` { #case-walters-v-openai }
+
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 
 ## `CONTACT-COOLEY` { #contact-cooley }
 
@@ -735,6 +766,19 @@ Term count: 208
 - [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
 - [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
 
+## `TOPIC-AI-HARM-LITIGATION` { #topic-ai-harm-litigation }
+
+- [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+- [`SRC-NLR-CHATGPT-JCCP-2026: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
 ## `TOPIC-AI-LITIGATION` { #topic-ai-litigation }
 
 - [`SRC-ANDERSEN-V-STABILITY-MTD-2024: Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024)`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
@@ -747,6 +791,7 @@ Term count: 208
 - [`SRC-DOE-V-GITHUB-9THCIR-DOCKET: Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700)`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-DOCKET.md)
 - [`SRC-DOE-V-GITHUB-MTD-2024: Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024)`](source-docs/bibliography/legal/SRC-DOE-V-GITHUB-MTD-2024.md)
 - [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025: Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025)`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
 - [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
 - [`SRC-GARCIA-V-CHARACTER-MTD-2025: Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 - [`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025: LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI)`](source-docs/bibliography/legal/SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025.md)
@@ -755,17 +800,22 @@ Term count: 208
 - [`SRC-GETTY-V-STABILITY-US-MTD-2026: Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026)`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md)
 - [`SRC-GOOGLE-GEN-AI-MTD-2025: In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025)`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
 - [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025: In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 - [`SRC-JPML-OPENAI-MDL-3143: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
 - [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
 - [`SRC-KNESCHKE-LG-HAMBURG-2024: Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024)`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
 - [`SRC-KNESCHKE-OLG-HAMBURG-2025: Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025)`](source-docs/bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md)
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
 - [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
 - [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
 - [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 - [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026: Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 - [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
 - [`SRC-UMG-V-SUNO-COMPLAINT: UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-SUNO-COMPLAINT.md)
 - [`SRC-UMG-V-UDIO-COMPLAINT: UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024)`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 
 ## `TOPIC-AI-MUSIC-COPYRIGHT` { #topic-ai-music-copyright }
 

@@ -306,6 +306,14 @@
       "record_type": "case"
     },
     {
+      "date": "2025-05-19",
+      "description": "Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.",
+      "event_type": "decision",
+      "record_id": "CASE-WALTERS-V-OPENAI",
+      "record_title": "Walters v. OpenAI, L.L.C.",
+      "record_type": "case"
+    },
+    {
       "date": "2025-05-20",
       "description": "Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.",
       "event_type": "decision",
@@ -415,6 +423,22 @@
       "event_type": "decision",
       "record_id": "CASE-CCIA-V-PAXTON-SB2420",
       "record_title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
+      "record_type": "case"
+    },
+    {
+      "date": "2026-02-03",
+      "description": "California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.",
+      "event_type": "decision",
+      "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "record_title": "In re ChatGPT Product Liability Cases",
+      "record_type": "case"
+    },
+    {
+      "date": "2026-04-13",
+      "description": "Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.",
+      "event_type": "decision",
+      "record_id": "CASE-LYONS-V-OPENAI",
+      "record_title": "Lyons v. OpenAI Foundation",
       "record_type": "case"
     },
     {

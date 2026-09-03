@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 253
+Record count: 263
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -1058,6 +1058,48 @@ Congress.gov public-law text for the FISA Amendments Act of 2008, enacted July 1
 ### Cited By
 - [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 
+## `SRC-FLORIDA-AG-OPENAI-CIVIL-2026`: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026) { #SRC-FLORIDA-AG-OPENAI-CIVIL-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- Tags: source, case, artificial-intelligence, public-policy
+
+Official Florida Attorney General announcement of a first-in-the-nation state civil action against OpenAI and CEO Sam Altman over alleged deceptive practices and user harms.
+
+### Cited By
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+## `SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026) { #SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- Tags: source, case, artificial-intelligence, public-policy
+
+Official announcement that Florida’s Office of Statewide Prosecution opened a criminal investigation into whether OpenAI bears responsibility for ChatGPT’s role in the April 17, 2025 Florida State University shooting.
+
+### Cited By
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- [`CASE-JOSHI-V-OPENAI: Joshi v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+## `SRC-FLORIDA-V-OPENAI-COMPLAINT`: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026) { #SRC-FLORIDA-V-OPENAI-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+- Tags: source, case, artificial-intelligence, digital-rights, public-policy
+
+Florida Attorney General civil complaint against OpenAI entities and Sam Altman alleging FDUTPA violations, negligence, product-liability, fraudulent misrepresentation, and public nuisance.
+
+### Cited By
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress) { #SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO }
 
 - Type: `source`
@@ -1143,6 +1185,7 @@ Middle District of Florida order allowing most product-liability and negligence 
 
 ### Cited By
 - [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - [`TOPIC-FIRST-AMENDMENT: First Amendment`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 
@@ -1476,6 +1519,20 @@ EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, en
 ### Cited By
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 
+## `SRC-JOSHI-V-OPENAI-COMPLAINT`: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026) { #SRC-JOSHI-V-OPENAI-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+- Tags: source, case, artificial-intelligence, digital-rights, intermediary-liability
+
+Wrongful-death and product-liability complaint alleging that ChatGPT assisted planning of the April 17, 2025 Florida State University shooting that killed Tiru Chabba.
+
+### Cited By
+- [`CASE-JOSHI-V-OPENAI: Joshi v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-JPML-OPENAI-MDL-3143`: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143) { #SRC-JPML-OPENAI-MDL-3143 }
 
 - Type: `source`
@@ -1736,6 +1793,34 @@ Press release from Representative Zoe Lofgren's office announcing the introducti
 - [`TECH-HYPHANET: Hyphanet (formerly Freenet)`](source-docs/knowledge/technical/TECH-HYPHANET.md)
 - [`TOPIC-DECENTRALIZED-MODERATION: Decentralized Moderation in Censorship-Resistant Networks`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 
+## `SRC-LYONS-V-OPENAI-COMPLAINT`: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025) { #SRC-LYONS-V-OPENAI-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- Tags: source, case, artificial-intelligence, digital-rights, intermediary-liability
+
+Federal wrongful-death complaint by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide.
+
+### Cited By
+- [`CASE-LYONS-V-OPENAI: Lyons v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+## `SRC-LYONS-V-OPENAI-MTD-2026`: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) { #SRC-LYONS-V-OPENAI-MTD-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+- Tags: source, case, artificial-intelligence, digital-rights
+
+Northern District of California order denying OpenAI’s Colorado River motion to dismiss or stay Lyons in favor of the related Adams state-court action, and reciting the February 2026 California coordination of twelve ChatGPT product-liability cases.
+
+### Cited By
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- [`CASE-LYONS-V-OPENAI: Lyons v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-MASSIE-ENCRYPTION-AMENDMENT`: House Passes Massie Amendment to Strengthen Privacy and Security { #SRC-MASSIE-ENCRYPTION-AMENDMENT }
 
 - Type: `source`
@@ -1809,6 +1894,19 @@ Columbia Data Science Institute profile of Eben Moglen describing his work with 
 
 ### Cited By
 - [`PERSON-EBEN-MOGLEN: Eben Moglen`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md)
+
+## `SRC-NLR-CHATGPT-JCCP-2026`: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026) { #SRC-NLR-CHATGPT-JCCP-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
+- Tags: source, case, artificial-intelligence
+
+Secondary legal journalism describing In re ChatGPT Product Liability Cases, JCCP No. 5431, and situating it among Garcia and Joshi.
+
+### Cited By
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 
 ## `SRC-NYT-V-OPENAI-12C-2026`: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026) { #SRC-NYT-V-OPENAI-12C-2026 }
 
@@ -2121,6 +2219,21 @@ Rafto Foundation prize page describing Agora as a Russian human rights organizat
 ### Cited By
 - [`ORG-AGORA: Agora (human rights lawyers' group)`](source-docs/knowledge/organizations/ORG-AGORA.md)
 - [`PERSON-PAVEL-CHIKOV: Pavel Chikov`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
+
+## `SRC-RAINE-V-OPENAI-COMPLAINT`: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025) { #SRC-RAINE-V-OPENAI-COMPLAINT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+- Tags: source, case, artificial-intelligence, digital-rights, first-amendment
+
+Wrongful-death and product-liability complaint alleging that ChatGPT’s GPT-4o design contributed to the April 11, 2025 suicide of 16-year-old Adam Raine.
+
+### Cited By
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-RCFP-CONTACT`: Reporters Committee Contact Page { #SRC-RCFP-CONTACT }
 
@@ -2595,6 +2708,21 @@ Official EFF staff profile for Lee Tien, Legislative Director and Adams Chair fo
 ### Cited By
 - [`PERSON-LEE-TIEN: Lee Tien`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 
+## `SRC-TJLP-JCCP-5431-2026`: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) { #SRC-TJLP-JCCP-5431-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-TJLP-JCCP-5431-2026.md`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
+- Tags: source, case, artificial-intelligence
+
+Counsel update stating that California coordinated multiple GPT-4o product-liability actions as ChatGPT Product Liability Cases, JCCP No. 5431, in San Francisco Superior Court.
+
+### Cited By
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
 ## `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router { #SRC-TOR-DESIGN-PAPER }
 
 - Type: `source`
@@ -3064,6 +3192,20 @@ Official EFF biography page for Kit Walsh documenting her role as Senior Staff A
 ### Cited By
 - [`PERSON-KIT-WALSH: Kit Walsh`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+
+## `SRC-WALTERS-V-OPENAI-SJ-2025`: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025) { #SRC-WALTERS-V-OPENAI-SJ-2025 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+- Tags: source, case, first-amendment, artificial-intelligence, digital-rights
+
+Gwinnett County Superior Court order granting OpenAI summary judgment on a ChatGPT hallucination defamation claim.
+
+### Cited By
+- [`CASE-WALTERS-V-OPENAI: Walters v. OpenAI, L.L.C.`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## `SRC-WEINSTEIN-BIO`: Lauren Weinstein Biography Page { #SRC-WEINSTEIN-BIO }
 

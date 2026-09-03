@@ -33,6 +33,7 @@ Start with the landscape pages; they link out to individual case records.
 - [`TOPIC-AI-COPYRIGHT`](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): **Copyright and Generative AI** — human authorship of outputs, fair use of training corpora, and the current district-court split.
 - [`TOPIC-AI-MUSIC-COPYRIGHT`](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md): **Music Copyright and Generative AI** — label suits over sound recordings (Suno, Udio), publisher lyric suits (Concord), and the German first-instance GEMA v. OpenAI judgment.
 - [`TOPIC-AI-LITIGATION`](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): **AI Litigation Landscape** — inventory of copyright, character-ownership, and chatbot product-liability actions.
+- [`TOPIC-AI-HARM-LITIGATION`](../generated/source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): **Chatbot Product Liability and User-Harm Litigation** — Character.AI and ChatGPT wrongful-death suits, the FSU shooting dockets, Florida’s AG action, California JCCP 5431, and the Walters defamation judgment.
 - [`TOPIC-BRAIN-ROT`](../generated/source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md): **Brain Rot and AI-Generated Meme Characters** — Oxford’s 2024 Word of the Year and the pending Steal a Brainrot copyright fight.
 
 ## Computer Crime and Access

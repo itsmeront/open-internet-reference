@@ -14,15 +14,15 @@
       </div>
       <div>
         <dt>Generated</dt>
-        <dd>2026-09-02</dd>
+        <dd>2026-09-03</dd>
       </div>
       <div>
         <dt>Knowledge records</dt>
-        <dd>153</dd>
+        <dd>160</dd>
       </div>
       <div>
         <dt>Sources referenced</dt>
-        <dd>250</dd>
+        <dd>260</dd>
       </div>
       <div>
         <dt>Document type</dt>
@@ -102,20 +102,25 @@ Knowledge records included in this handbook, grouped by type.
 - [Disney Enterprises, Inc. v. Midjourney, Inc.](#CASE-DISNEY-V-MIDJOURNEY) (`CASE-DISNEY-V-MIDJOURNEY`)
 - [Doe 1 v. GitHub, Inc.](#CASE-DOE-V-GITHUB) (`CASE-DOE-V-GITHUB`)
 - [Dow Jones & Co. v. Perplexity AI, Inc.](#CASE-DOW-JONES-V-PERPLEXITY) (`CASE-DOW-JONES-V-PERPLEXITY`)
+- [Florida v. OpenAI Global, LLC](#CASE-FLORIDA-V-OPENAI) (`CASE-FLORIDA-V-OPENAI`)
 - [Garcia v. Character Technologies, Inc.](#CASE-GARCIA-V-CHARACTER-TECHNOLOGIES) (`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`)
 - [GEMA v. OpenAI (LG München I)](#CASE-GEMA-V-OPENAI) (`CASE-GEMA-V-OPENAI`)
 - [Getty Images (US), Inc. v. Stability AI Ltd.](#CASE-GETTY-V-STABILITY) (`CASE-GETTY-V-STABILITY`)
 - [Google LLC v. Oracle America, Inc.](#CASE-GOOGLE-V-ORACLE) (`CASE-GOOGLE-V-ORACLE`)
+- [In re ChatGPT Product Liability Cases](#CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY) (`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`)
 - [In re Google Generative AI Copyright Litigation](#CASE-IN-RE-GOOGLE-GEN-AI) (`CASE-IN-RE-GOOGLE-GEN-AI`)
 - [In re OpenAI, Inc., Copyright Infringement Litigation](#CASE-IN-RE-OPENAI) (`CASE-IN-RE-OPENAI`)
+- [Joshi v. OpenAI Foundation](#CASE-JOSHI-V-OPENAI) (`CASE-JOSHI-V-OPENAI`)
 - [Junger v. Daley](#CASE-JUNGER-V-DALEY) (`CASE-JUNGER-V-DALEY`)
 - [Kadrey v. Meta Platforms, Inc.](#CASE-KADREY-V-META) (`CASE-KADREY-V-META`)
 - [Kneschke v. LAION e.V.](#CASE-KNESCHKE-V-LAION) (`CASE-KNESCHKE-V-LAION`)
 - [Lenz v. Universal Music Corp.](#CASE-LENZ-V-UNIVERSAL) (`CASE-LENZ-V-UNIVERSAL`)
+- [Lyons v. OpenAI Foundation](#CASE-LYONS-V-OPENAI) (`CASE-LYONS-V-OPENAI`)
 - [Netherlands v. Pertsev (Tornado Cash)](#CASE-NL-V-PERTSEV) (`CASE-NL-V-PERTSEV`)
 - [The New York Times Company v. Microsoft Corp. (OpenAI)](#CASE-NYT-V-OPENAI) (`CASE-NYT-V-OPENAI`)
 - [Packingham v. North Carolina](#CASE-PACKINGHAM-V-NC) (`CASE-PACKINGHAM-V-NC`)
 - [Perfect 10, Inc. v. CCBill LLC](#CASE-PERFECT10-V-CCBILL) (`CASE-PERFECT10-V-CCBILL`)
+- [Raine v. OpenAI, Inc.](#CASE-RAINE-V-OPENAI) (`CASE-RAINE-V-OPENAI`)
 - [Reno v. American Civil Liberties Union](#CASE-RENO-V-ACLU) (`CASE-RENO-V-ACLU`)
 - [Sony Music Publishing (US) LLC v. Anthropic PBC](#CASE-SONY-V-ANTHROPIC) (`CASE-SONY-V-ANTHROPIC`)
 - [Spyder Games LLC v. Mementum Lab](#CASE-SPYDER-V-MEMENTUM) (`CASE-SPYDER-V-MEMENTUM`)
@@ -130,6 +135,7 @@ Knowledge records included in this handbook, grouped by type.
 - [United States v. Tunick](#CASE-US-V-TUNICK) (`CASE-US-V-TUNICK`)
 - [Van Buren v. United States](#CASE-VAN-BUREN-V-US) (`CASE-VAN-BUREN-V-US`)
 - [Van Loon v. Department of the Treasury](#CASE-VAN-LOON-V-TREASURY) (`CASE-VAN-LOON-V-TREASURY`)
+- [Walters v. OpenAI, L.L.C.](#CASE-WALTERS-V-OPENAI) (`CASE-WALTERS-V-OPENAI`)
 
 ### Historical Event
 
@@ -226,6 +232,7 @@ Knowledge records included in this handbook, grouped by type.
 ### Topic
 
 - [Copyright and Generative AI](#TOPIC-AI-COPYRIGHT) (`TOPIC-AI-COPYRIGHT`)
+- [Chatbot Product Liability and User-Harm Litigation](#TOPIC-AI-HARM-LITIGATION) (`TOPIC-AI-HARM-LITIGATION`)
 - [AI Litigation Landscape](#TOPIC-AI-LITIGATION) (`TOPIC-AI-LITIGATION`)
 - [Music Copyright and Generative AI](#TOPIC-AI-MUSIC-COPYRIGHT) (`TOPIC-AI-MUSIC-COPYRIGHT`)
 - [App Store and Operating System Age-Verification Laws](#TOPIC-APP-STORE-AGE-VERIFICATION) (`TOPIC-APP-STORE-AGE-VERIFICATION`)
@@ -302,7 +309,7 @@ Agora is a Russian human rights lawyers' group associated with Pavel Chikov; OIR
 - **Status:** draft
 - **Tags:** artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability and user-harm claims, and adjacent First Amendment issues.
 
 ### Alan Kay { #PERSON-ALAN-KAY-glossary }
 
@@ -456,6 +463,15 @@ Federal challenge to Texas SB 2420 in which the Western District of Texas grante
 - **Tags:** organization, digital-rights, privacy, internet-governance, civil-society, outreach
 
 The Center for Democracy and Technology is a 501(c)(3) nonprofit organization that works to promote democratic values by shaping technology policy and architecture, with a focus on the rights of the individual.
+
+### Chatbot Product Liability and User-Harm Litigation { #TOPIC-AI-HARM-LITIGATION-glossary }
+
+- **Record ID:** `TOPIC-AI-HARM-LITIGATION`
+- **Type:** topic
+- **Status:** draft
+- **Tags:** artificial-intelligence, first-amendment, digital-rights, case-studies, intermediary-liability
+
+Inventory of civil and enforcement actions alleging that conversational AI products caused physical, psychological, or reputational harm, including Character.AI wrongful-death claims, ChatGPT suicide and shooting suits, Florida’s Attorney General action, and the Walters hallucination-defamation judgment.
 
 ### Chatrie v. United States { #CASE-CHATRIE-V-US-glossary }
 
@@ -745,6 +761,15 @@ The First Amendment to the U.S. Constitution addresses religion, expression, ass
 
 On July 10, 2008, the FISA Amendments Act of 2008 became law, including protections shielding telecommunications companies from lawsuits over assistance to government surveillance — a classic legislative override that ended the practical force of pending carrier suits.
 
+### Florida v. OpenAI Global, LLC { #CASE-FLORIDA-V-OPENAI-glossary }
+
+- **Record ID:** `CASE-FLORIDA-V-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, artificial-intelligence, public-policy, digital-rights
+
+Pending Florida Attorney General civil enforcement action filed June 1, 2026, in Highlands County against OpenAI entities and Sam Altman, alleging deceptive trade practices, negligence, product-liability, fraud, and public nuisance.
+
 ### Foundation for Individual Rights and Expression { #ORG-FIRE-glossary }
 
 - **Record ID:** `ORG-FIRE`
@@ -862,6 +887,15 @@ Hyphanet is the continuation of the original Freenet peer-to-peer network for an
 
 Ian Clarke is a computer scientist who designed Freenet, founded Freenet Project Inc., and later led the 2023 Freenet relaunch while the original network continued as Hyphanet.
 
+### In re ChatGPT Product Liability Cases { #CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY-glossary }
+
+- **Record ID:** `CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.
+
 ### In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI-glossary }
 
 - **Record ID:** `CASE-IN-RE-GOOGLE-GEN-AI`
@@ -961,6 +995,15 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 
 Jonathan Zittrain is the George Bemis Professor of International Law at Harvard Law School, co-founder of the Berkman Klein Center, and a professor of computer science who is a leading public voice on internet law, platform governance, and digital technology policy.
 
+### Joshi v. OpenAI Foundation { #CASE-JOSHI-V-OPENAI-glossary }
+
+- **Record ID:** `CASE-JOSHI-V-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.
+
 ### Junger v. Daley { #CASE-JUNGER-V-DALEY-glossary }
 
 - **Record ID:** `CASE-JUNGER-V-DALEY`
@@ -1059,6 +1102,15 @@ Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Elec
 - **Tags:** copyright, digital-rights, safe-harbor
 
 Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
+
+### Lyons v. OpenAI Foundation { #CASE-LYONS-V-OPENAI-glossary }
+
+- **Record ID:** `CASE-LYONS-V-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.
 
 ### Matt Blaze { #PERSON-MATT-BLAZE-glossary }
 
@@ -1248,6 +1300,15 @@ Pretty Good Privacy (PGP) is public-key encryption software created by Phil Zimm
 - **Tags:** organization, digital-rights, internet-governance, civil-society, outreach
 
 Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an open internet, and access to affordable communications tools and creative works through copyright, telecommunications, and internet policy advocacy.
+
+### Raine v. OpenAI, Inc. { #CASE-RAINE-V-OPENAI-glossary }
+
+- **Record ID:** `CASE-RAINE-V-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, artificial-intelligence, first-amendment, digital-rights, intermediary-liability
+
+Pending San Francisco Superior Court wrongful-death and product-liability action by the parents of 16-year-old Adam Raine, alleging that ChatGPT’s GPT-4o design contributed to his April 11, 2025 suicide; later coordinated into JCCP No. 5431.
 
 ### Rand Paul { #PERSON-RAND-PAUL-glossary }
 
@@ -1599,6 +1660,15 @@ Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), h
 - **Tags:** person, internet-architecture, internet-governance, digital-rights
 
 Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, a former ICANN chairman and Internet Society founding president, and Google's Chief Internet Evangelist who frequently speaks on internet architecture, governance, and policy.
+
+### Walters v. OpenAI, L.L.C. { #CASE-WALTERS-V-OPENAI-glossary }
+
+- **Record ID:** `CASE-WALTERS-V-OPENAI`
+- **Type:** case
+- **Status:** draft
+- **Tags:** case, first-amendment, artificial-intelligence, digital-rights
+
+Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.
 
 ### Whitfield Diffie { #PERSON-WHITFIELD-DIFFIE-glossary }
 
@@ -1974,6 +2044,17 @@ Pending Southern District of New York copyright and trademark action by the Wall
 
 ---
 
+#### Florida v. OpenAI Global, LLC { #CASE-FLORIDA-V-OPENAI }
+
+- **Record ID:** `CASE-FLORIDA-V-OPENAI`
+- **Status:** draft
+- **Sources:** Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026) (`SRC-FLORIDA-V-OPENAI-COMPLAINT`), Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026) (`SRC-FLORIDA-AG-OPENAI-CIVIL-2026`), Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026) (`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`)
+- **Tags:** case, artificial-intelligence, public-policy, digital-rights
+
+Pending Florida Attorney General civil enforcement action filed June 1, 2026, in Highlands County against OpenAI entities and Sam Altman, alleging deceptive trade practices, negligence, product-liability, fraud, and public nuisance.
+
+---
+
 #### Garcia v. Character Technologies, Inc. { #CASE-GARCIA-V-CHARACTER-TECHNOLOGIES }
 
 - **Record ID:** `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`
@@ -2018,6 +2099,17 @@ Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision 
 
 ---
 
+#### In re ChatGPT Product Liability Cases { #CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY }
+
+- **Record ID:** `CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`
+- **Status:** draft
+- **Sources:** Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) (`SRC-LYONS-V-OPENAI-MTD-2026`), Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) (`SRC-TJLP-JCCP-5431-2026`), National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026) (`SRC-NLR-CHATGPT-JCCP-2026`), Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025) (`SRC-RAINE-V-OPENAI-COMPLAINT`)
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.
+
+---
+
 #### In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI }
 
 - **Record ID:** `CASE-IN-RE-GOOGLE-GEN-AI`
@@ -2037,6 +2129,17 @@ Pending Northern District of California putative class action alleging Google tr
 - **Tags:** case, copyright, artificial-intelligence, digital-rights
 
 Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI’s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.
+
+---
+
+#### Joshi v. OpenAI Foundation { #CASE-JOSHI-V-OPENAI }
+
+- **Record ID:** `CASE-JOSHI-V-OPENAI`
+- **Status:** draft
+- **Sources:** Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026) (`SRC-JOSHI-V-OPENAI-COMPLAINT`), Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026) (`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`)
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.
 
 ---
 
@@ -2084,6 +2187,17 @@ Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyrigh
 
 ---
 
+#### Lyons v. OpenAI Foundation { #CASE-LYONS-V-OPENAI }
+
+- **Record ID:** `CASE-LYONS-V-OPENAI`
+- **Status:** draft
+- **Sources:** Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025) (`SRC-LYONS-V-OPENAI-COMPLAINT`), Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) (`SRC-LYONS-V-OPENAI-MTD-2026`)
+- **Tags:** case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.
+
+---
+
 #### Netherlands v. Pertsev (Tornado Cash) { #CASE-NL-V-PERTSEV }
 
 - **Record ID:** `CASE-NL-V-PERTSEV`
@@ -2125,6 +2239,17 @@ Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North 
 - **Tags:** copyright, safe-harbor, intermediary-liability, digital-rights
 
 Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA § 512 safe harbor requirements for online service providers.
+
+---
+
+#### Raine v. OpenAI, Inc. { #CASE-RAINE-V-OPENAI }
+
+- **Record ID:** `CASE-RAINE-V-OPENAI`
+- **Status:** draft
+- **Sources:** Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025) (`SRC-RAINE-V-OPENAI-COMPLAINT`), Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026) (`SRC-FLORIDA-V-OPENAI-COMPLAINT`), Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) (`SRC-TJLP-JCCP-5431-2026`)
+- **Tags:** case, artificial-intelligence, first-amendment, digital-rights, intermediary-liability
+
+Pending San Francisco Superior Court wrongful-death and product-liability action by the parents of 16-year-old Adam Raine, alleging that ChatGPT’s GPT-4o design contributed to his April 11, 2025 suicide; later coordinated into JCCP No. 5431.
 
 ---
 
@@ -2279,6 +2404,17 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - **Tags:** case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
+
+---
+
+#### Walters v. OpenAI, L.L.C. { #CASE-WALTERS-V-OPENAI }
+
+- **Record ID:** `CASE-WALTERS-V-OPENAI`
+- **Status:** draft
+- **Sources:** Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025) (`SRC-WALTERS-V-OPENAI-SJ-2025`)
+- **Tags:** case, first-amendment, artificial-intelligence, digital-rights
+
+Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.
 
 ---
 
@@ -3121,14 +3257,25 @@ U.S. and comparative copyright issues raised by generative AI, including human a
 
 ---
 
+#### Chatbot Product Liability and User-Harm Litigation { #TOPIC-AI-HARM-LITIGATION }
+
+- **Record ID:** `TOPIC-AI-HARM-LITIGATION`
+- **Status:** draft
+- **Sources:** Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025) (`SRC-GARCIA-V-CHARACTER-MTD-2025`), Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025) (`SRC-RAINE-V-OPENAI-COMPLAINT`), Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) (`SRC-LYONS-V-OPENAI-MTD-2026`), Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025) (`SRC-LYONS-V-OPENAI-COMPLAINT`), Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026) (`SRC-JOSHI-V-OPENAI-COMPLAINT`), Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026) (`SRC-FLORIDA-V-OPENAI-COMPLAINT`), Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026) (`SRC-FLORIDA-AG-OPENAI-CIVIL-2026`), Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026) (`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`), Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) (`SRC-TJLP-JCCP-5431-2026`), National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026) (`SRC-NLR-CHATGPT-JCCP-2026`), Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025) (`SRC-WALTERS-V-OPENAI-SJ-2025`)
+- **Tags:** artificial-intelligence, first-amendment, digital-rights, case-studies, intermediary-liability
+
+Inventory of civil and enforcement actions alleging that conversational AI products caused physical, psychological, or reputational harm, including Character.AI wrongful-death claims, ChatGPT suicide and shooting suits, Florida’s Attorney General action, and the Walters hallucination-defamation judgment.
+
+---
+
 #### AI Litigation Landscape { #TOPIC-AI-LITIGATION }
 
 - **Record ID:** `TOPIC-AI-LITIGATION`
 - **Status:** draft
-- **Sources:** Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025) (`SRC-THALER-V-PERLMUTTER-CADC`), Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025) (`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`), Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026) (`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`), Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025) (`SRC-KADREY-V-META-FAIR-USE`), Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025) (`SRC-THOMSON-REUTERS-V-ROSS-2025`), The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025) (`SRC-NYT-V-OPENAI-MTD-2025`), The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026) (`SRC-NYT-V-OPENAI-12C-2026`), Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025) (`SRC-SPYDER-V-MEMENTUM-COMPLAINT`), Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025) (`SRC-GARCIA-V-CHARACTER-MTD-2025`), U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025) (`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`), UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024) (`SRC-UMG-V-SUNO-COMPLAINT`), UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024) (`SRC-UMG-V-UDIO-COMPLAINT`), Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025) (`SRC-CONCORD-V-ANTHROPIC-MTD-2025`), LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI) (`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`), Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch) (`SRC-GETTY-V-STABILITY-EWHC-2025`), Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024) (`SRC-ANDERSEN-V-STABILITY-MTD-2024`), Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025) (`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`), Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026) (`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`), Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026) (`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`), Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024) (`SRC-DOE-V-GITHUB-MTD-2024`), Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700) (`SRC-DOE-V-GITHUB-9THCIR-DOCKET`), In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143) (`SRC-JPML-OPENAI-MDL-3143`), In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025) (`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`), Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026) (`SRC-GETTY-V-STABILITY-US-MTD-2026`), Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024) (`SRC-KNESCHKE-LG-HAMBURG-2024`), Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025) (`SRC-KNESCHKE-OLG-HAMBURG-2025`), In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025) (`SRC-GOOGLE-GEN-AI-MTD-2025`), Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025) (`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`), Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026) (`SRC-CONCORD-II-COMPLAINT`), BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) (`SRC-BMG-V-ANTHROPIC-COMPLAINT`)
+- **Sources:** Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025) (`SRC-THALER-V-PERLMUTTER-CADC`), Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025) (`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`), Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026) (`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`), Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025) (`SRC-KADREY-V-META-FAIR-USE`), Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025) (`SRC-THOMSON-REUTERS-V-ROSS-2025`), The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025) (`SRC-NYT-V-OPENAI-MTD-2025`), The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026) (`SRC-NYT-V-OPENAI-12C-2026`), Spyder Games LLC v. Mementum Lab, Complaint (N.D. Cal. Nov. 26, 2025) (`SRC-SPYDER-V-MEMENTUM-COMPLAINT`), Garcia v. Character Technologies, Inc., Order on Motions to Dismiss (M.D. Fla. May 20, 2025) (`SRC-GARCIA-V-CHARACTER-MTD-2025`), U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025) (`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`), UMG Recordings, Inc. v. Suno, Inc., Complaint (D. Mass. June 24, 2024) (`SRC-UMG-V-SUNO-COMPLAINT`), UMG Recordings, Inc. v. Uncharted Labs, Inc., Complaint (S.D.N.Y. June 24, 2024) (`SRC-UMG-V-UDIO-COMPLAINT`), Concord Music Group, Inc. v. Anthropic PBC, Order Denying Motion to Dismiss FAC (N.D. Cal. Oct. 6, 2025) (`SRC-CONCORD-V-ANTHROPIC-MTD-2025`), LG München I, Endurteil v. 11.11.2025 – 42 O 14139/24 (GEMA v. OpenAI) (`SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025`), Getty Images (US), Inc. v. Stability AI Ltd. [2025] EWHC 2863 (Ch) (`SRC-GETTY-V-STABILITY-EWHC-2025`), Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024) (`SRC-ANDERSEN-V-STABILITY-MTD-2024`), Disney Enterprises, Inc. v. Midjourney, Inc., Complaint (C.D. Cal. June 11, 2025) (`SRC-DISNEY-V-MIDJOURNEY-COMPLAINT`), Disney Enterprises, Inc. v. Midjourney, Inc., Order on Motion to Compel (C.D. Cal. June 15, 2026) (`SRC-DISNEY-V-MIDJOURNEY-MTC-2026`), Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026) (`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026`), Doe 1 v. GitHub, Inc., Order on Motions to Dismiss (N.D. Cal. June 24, 2024) (`SRC-DOE-V-GITHUB-MTD-2024`), Doe v. GitHub, Inc., CourtListener docket (9th Cir. No. 24-7700) (`SRC-DOE-V-GITHUB-9THCIR-DOCKET`), In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143) (`SRC-JPML-OPENAI-MDL-3143`), In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025) (`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`), Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026) (`SRC-GETTY-V-STABILITY-US-MTD-2026`), Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024) (`SRC-KNESCHKE-LG-HAMBURG-2024`), Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025) (`SRC-KNESCHKE-OLG-HAMBURG-2025`), In re Google Generative AI Copyright Litigation, Order Granting Motion to Dismiss in Part (N.D. Cal. Sept. 11, 2025) (`SRC-GOOGLE-GEN-AI-MTD-2025`), Dow Jones & Co. v. Perplexity AI, Inc., Opinion Denying Motion to Dismiss (S.D.N.Y. Aug. 21, 2025) (`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`), Concord Music Group, Inc. v. Anthropic PBC, Complaint (N.D. Cal. No. 5:26-cv-00880, Jan. 28, 2026) (`SRC-CONCORD-II-COMPLAINT`), BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) (`SRC-BMG-V-ANTHROPIC-COMPLAINT`), Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025) (`SRC-RAINE-V-OPENAI-COMPLAINT`), Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) (`SRC-LYONS-V-OPENAI-MTD-2026`), Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026) (`SRC-JOSHI-V-OPENAI-COMPLAINT`), Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026) (`SRC-FLORIDA-V-OPENAI-COMPLAINT`), Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025) (`SRC-WALTERS-V-OPENAI-SJ-2025`), Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) (`SRC-TJLP-JCCP-5431-2026`)
 - **Tags:** artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability and user-harm claims, and adjacent First Amendment issues.
 
 ---
 
@@ -4072,6 +4219,33 @@ Congress.gov public-law text for the FISA Amendments Act of 2008, enacted July 1
 
 ---
 
+### Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)
+
+- **Source ID:** `SRC-FLORIDA-AG-OPENAI-CIVIL-2026`
+- **Status:** draft
+
+Official Florida Attorney General announcement of a first-in-the-nation state civil action against OpenAI and CEO Sam Altman over alleged deceptive practices and user harms.
+
+---
+
+### Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)
+
+- **Source ID:** `SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`
+- **Status:** draft
+
+Official announcement that Florida’s Office of Statewide Prosecution opened a criminal investigation into whether OpenAI bears responsibility for ChatGPT’s role in the April 17, 2025 Florida State University shooting.
+
+---
+
+### Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)
+
+- **Source ID:** `SRC-FLORIDA-V-OPENAI-COMPLAINT`
+- **Status:** draft
+
+Florida Attorney General civil complaint against OpenAI entities and Sam Altman alleging FDUTPA violations, negligence, product-liability, fraudulent misrepresentation, and public nuisance.
+
+---
+
 ### S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)
 
 - **Source ID:** `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`
@@ -4360,6 +4534,15 @@ EFF case page documenting the Supreme Court's 2022 rejection of Jewel v. NSA, en
 
 ---
 
+### Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)
+
+- **Source ID:** `SRC-JOSHI-V-OPENAI-COMPLAINT`
+- **Status:** draft
+
+Wrongful-death and product-liability complaint alleging that ChatGPT assisted planning of the April 17, 2025 Florida State University shooting that killed Tiru Chabba.
+
+---
+
 ### In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)
 
 - **Source ID:** `SRC-JPML-OPENAI-MDL-3143`
@@ -4540,6 +4723,24 @@ Press release from Representative Zoe Lofgren's office announcing the introducti
 
 ---
 
+### Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)
+
+- **Source ID:** `SRC-LYONS-V-OPENAI-COMPLAINT`
+- **Status:** draft
+
+Federal wrongful-death complaint by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide.
+
+---
+
+### Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)
+
+- **Source ID:** `SRC-LYONS-V-OPENAI-MTD-2026`
+- **Status:** draft
+
+Northern District of California order denying OpenAI’s Colorado River motion to dismiss or stay Lyons in favor of the related Adams state-court action, and reciting the February 2026 California coordination of twelve ChatGPT product-liability cases.
+
+---
+
 ### House Passes Massie Amendment to Strengthen Privacy and Security
 
 - **Source ID:** `SRC-MASSIE-ENCRYPTION-AMENDMENT`
@@ -4591,6 +4792,15 @@ Official Columbia Law School faculty page for Eben Moglen.
 - **Status:** verified
 
 Columbia Data Science Institute profile of Eben Moglen describing his work with FSF and SFLC.
+
+---
+
+### National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)
+
+- **Source ID:** `SRC-NLR-CHATGPT-JCCP-2026`
+- **Status:** draft
+
+Secondary legal journalism describing In re ChatGPT Product Liability Cases, JCCP No. 5431, and situating it among Garcia and Joshi.
 
 ---
 
@@ -4789,6 +4999,15 @@ Official Public Knowledge contact page with phone, fax, email, and Washington, D
 - **Status:** draft
 
 Rafto Foundation prize page describing Agora as a Russian human rights organization of lawyers and identifying Pavel Chikov as chair.
+
+---
+
+### Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)
+
+- **Source ID:** `SRC-RAINE-V-OPENAI-COMPLAINT`
+- **Status:** draft
+
+Wrongful-death and product-liability complaint alleging that ChatGPT’s GPT-4o design contributed to the April 11, 2025 suicide of 16-year-old Adam Raine.
 
 ---
 
@@ -5125,6 +5344,15 @@ Official EFF staff profile for Lee Tien, Legislative Director and Adams Chair fo
 
 ---
 
+### Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)
+
+- **Source ID:** `SRC-TJLP-JCCP-5431-2026`
+- **Status:** draft
+
+Counsel update stating that California coordinated multiple GPT-4o product-liability actions as ChatGPT Product Liability Cases, JCCP No. 5431, in San Francisco Superior Court.
+
+---
+
 ### Tor: The Second-Generation Onion Router
 
 - **Source ID:** `SRC-TOR-DESIGN-PAPER`
@@ -5428,6 +5656,15 @@ Internet Hall of Fame inductee profile for Paul Vixie describing his DNS protoco
 - **Status:** verified
 
 Official EFF biography page for Kit Walsh documenting her role as Senior Staff Attorney working on free speech and coders' rights.
+
+---
+
+### Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)
+
+- **Source ID:** `SRC-WALTERS-V-OPENAI-SJ-2025`
+- **Status:** draft
+
+Gwinnett County Superior Court order granting OpenAI summary judgment on a ChatGPT hallucination defamation claim.
 
 ---
 

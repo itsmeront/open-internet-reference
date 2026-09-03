@@ -102,6 +102,13 @@
     },
     {
       "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "term": "`CASE-FLORIDA-V-OPENAI`"
+    },
+    {
+      "sources": [
         "SRC-GARCIA-V-CHARACTER-COMPLAINT",
         "SRC-GARCIA-V-CHARACTER-MTD-2025"
       ],
@@ -130,6 +137,15 @@
     },
     {
       "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026",
+        "SRC-NLR-CHATGPT-JCCP-2026",
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-TJLP-JCCP-5431-2026"
+      ],
+      "term": "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`"
+    },
+    {
+      "sources": [
         "SRC-GOOGLE-GEN-AI-MTD-2025"
       ],
       "term": "`CASE-IN-RE-GOOGLE-GEN-AI`"
@@ -140,6 +156,13 @@
         "SRC-JPML-OPENAI-MDL-3143"
       ],
       "term": "`CASE-IN-RE-OPENAI`"
+    },
+    {
+      "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026",
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "term": "`CASE-JOSHI-V-OPENAI`"
     },
     {
       "sources": [
@@ -171,6 +194,13 @@
     },
     {
       "sources": [
+        "SRC-LYONS-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "term": "`CASE-LYONS-V-OPENAI`"
+    },
+    {
+      "sources": [
         "SRC-PERTSEV-ECLI-2024",
         "SRC-PERTSEV-RECHTSPRAAK-EN-2024",
         "SRC-TREASURY-SEMENOV-2023"
@@ -199,6 +229,13 @@
         "SRC-PERFECT10-V-CCBILL-JUSTIA"
       ],
       "term": "`CASE-PERFECT10-V-CCBILL`"
+    },
+    {
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-TJLP-JCCP-5431-2026"
+      ],
+      "term": "`CASE-RAINE-V-OPENAI`"
     },
     {
       "sources": [
@@ -315,6 +352,12 @@
         "SRC-VAN-LOON-5TH-CIR-JUSTIA"
       ],
       "term": "`CASE-VAN-LOON-V-TREASURY`"
+    },
+    {
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "term": "`CASE-WALTERS-V-OPENAI`"
     },
     {
       "sources": [
@@ -1005,6 +1048,21 @@
     },
     {
       "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+        "SRC-JOSHI-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026",
+        "SRC-NLR-CHATGPT-JCCP-2026",
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-TJLP-JCCP-5431-2026",
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "term": "`TOPIC-AI-HARM-LITIGATION`"
+    },
+    {
+      "sources": [
         "SRC-ANDERSEN-V-STABILITY-MTD-2024",
         "SRC-BARTZ-V-ANTHROPIC-FAIR-USE",
         "SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL",
@@ -1015,6 +1073,7 @@
         "SRC-DOE-V-GITHUB-9THCIR-DOCKET",
         "SRC-DOE-V-GITHUB-MTD-2024",
         "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
         "SRC-GARCIA-V-CHARACTER-COMPLAINT",
         "SRC-GARCIA-V-CHARACTER-MTD-2025",
         "SRC-GEMA-V-OPENAI-LG-MUENCHEN-2025",
@@ -1023,17 +1082,22 @@
         "SRC-GETTY-V-STABILITY-US-MTD-2026",
         "SRC-GOOGLE-GEN-AI-MTD-2025",
         "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025",
+        "SRC-JOSHI-V-OPENAI-COMPLAINT",
         "SRC-JPML-OPENAI-MDL-3143",
         "SRC-KADREY-V-META-FAIR-USE",
         "SRC-KNESCHKE-LG-HAMBURG-2024",
         "SRC-KNESCHKE-OLG-HAMBURG-2025",
+        "SRC-LYONS-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026",
         "SRC-NYT-V-OPENAI-12C-2026",
         "SRC-NYT-V-OPENAI-COMPLAINT",
         "SRC-NYT-V-OPENAI-MTD-2025",
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
         "SRC-SONY-V-ANTHROPIC-COMPLAINT-2026",
         "SRC-THOMSON-REUTERS-V-ROSS-2025",
         "SRC-UMG-V-SUNO-COMPLAINT",
-        "SRC-UMG-V-UDIO-COMPLAINT"
+        "SRC-UMG-V-UDIO-COMPLAINT",
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
       ],
       "term": "`TOPIC-AI-LITIGATION`"
     },

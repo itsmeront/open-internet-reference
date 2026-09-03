@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 153,
+  "record_count": 160,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -412,6 +412,20 @@
       "type": "case"
     },
     {
+      "id": "CASE-FLORIDA-V-OPENAI",
+      "path": "knowledge/legal/CASE-FLORIDA-V-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Florida Attorney General civil enforcement action filed June 1, 2026, in Highlands County against OpenAI entities and Sam Altman, alleging deceptive trade practices, negligence, product-liability, fraud, and public nuisance.",
+      "title": "Florida v. OpenAI Global, LLC",
+      "type": "case"
+    },
+    {
       "id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
       "path": "knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md",
@@ -465,6 +479,21 @@
       "type": "case"
     },
     {
+      "id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "path": "knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026",
+        "SRC-TJLP-JCCP-5431-2026",
+        "SRC-NLR-CHATGPT-JCCP-2026",
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "status": "draft",
+      "summary": "California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.",
+      "title": "In re ChatGPT Product Liability Cases",
+      "type": "case"
+    },
+    {
       "id": "CASE-IN-RE-GOOGLE-GEN-AI",
       "path": "knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
       "source_doc_path": "source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md",
@@ -487,6 +516,19 @@
       "status": "draft",
       "summary": "Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI\u2019s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.",
       "title": "In re OpenAI, Inc., Copyright Infringement Litigation",
+      "type": "case"
+    },
+    {
+      "id": "CASE-JOSHI-V-OPENAI",
+      "path": "knowledge/legal/CASE-JOSHI-V-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.",
+      "title": "Joshi v. OpenAI Foundation",
       "type": "case"
     },
     {
@@ -540,6 +582,19 @@
       "status": "draft",
       "summary": "Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. \u00a7 512(c).",
       "title": "Lenz v. Universal Music Corp.",
+      "type": "case"
+    },
+    {
+      "id": "CASE-LYONS-V-OPENAI",
+      "path": "knowledge/legal/CASE-LYONS-V-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.",
+      "title": "Lyons v. OpenAI Foundation",
       "type": "case"
     },
     {
@@ -597,6 +652,20 @@
       "status": "draft",
       "summary": "Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA \u00a7 512 safe harbor requirements for online service providers.",
       "title": "Perfect 10, Inc. v. CCBill LLC",
+      "type": "case"
+    },
+    {
+      "id": "CASE-RAINE-V-OPENAI",
+      "path": "knowledge/legal/CASE-RAINE-V-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+        "SRC-TJLP-JCCP-5431-2026"
+      ],
+      "status": "draft",
+      "summary": "Pending San Francisco Superior Court wrongful-death and product-liability action by the parents of 16-year-old Adam Raine, alleging that ChatGPT\u2019s GPT-4o design contributed to his April 11, 2025 suicide; later coordinated into JCCP No. 5431.",
+      "title": "Raine v. OpenAI, Inc.",
       "type": "case"
     },
     {
@@ -798,6 +867,18 @@
       "status": "draft",
       "summary": "Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not \u201cproperty\u201d under IEEPA and that OFAC exceeded its statutory authority by blocking them.",
       "title": "Van Loon v. Department of the Treasury",
+      "type": "case"
+    },
+    {
+      "id": "CASE-WALTERS-V-OPENAI",
+      "path": "knowledge/legal/CASE-WALTERS-V-OPENAI.md",
+      "source_doc_path": "source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "status": "draft",
+      "summary": "Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.",
+      "title": "Walters v. OpenAI, L.L.C.",
       "type": "case"
     },
     {
@@ -1824,6 +1905,28 @@
       "type": "topic"
     },
     {
+      "id": "TOPIC-AI-HARM-LITIGATION",
+      "path": "knowledge/legal/TOPIC-AI-HARM-LITIGATION.md",
+      "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025",
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026",
+        "SRC-LYONS-V-OPENAI-COMPLAINT",
+        "SRC-JOSHI-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026",
+        "SRC-TJLP-JCCP-5431-2026",
+        "SRC-NLR-CHATGPT-JCCP-2026",
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "status": "draft",
+      "summary": "Inventory of civil and enforcement actions alleging that conversational AI products caused physical, psychological, or reputational harm, including Character.AI wrongful-death claims, ChatGPT suicide and shooting suits, Florida\u2019s Attorney General action, and the Walters hallucination-defamation judgment.",
+      "title": "Chatbot Product Liability and User-Harm Litigation",
+      "type": "topic"
+    },
+    {
       "id": "TOPIC-AI-LITIGATION",
       "path": "knowledge/legal/TOPIC-AI-LITIGATION.md",
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md",
@@ -1857,10 +1960,16 @@
         "SRC-GOOGLE-GEN-AI-MTD-2025",
         "SRC-DOW-JONES-V-PERPLEXITY-MTD-2025",
         "SRC-CONCORD-II-COMPLAINT",
-        "SRC-BMG-V-ANTHROPIC-COMPLAINT"
+        "SRC-BMG-V-ANTHROPIC-COMPLAINT",
+        "SRC-RAINE-V-OPENAI-COMPLAINT",
+        "SRC-LYONS-V-OPENAI-MTD-2026",
+        "SRC-JOSHI-V-OPENAI-COMPLAINT",
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+        "SRC-WALTERS-V-OPENAI-SJ-2025",
+        "SRC-TJLP-JCCP-5431-2026"
       ],
       "status": "draft",
-      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.",
+      "summary": "Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability and user-harm claims, and adjacent First Amendment issues.",
       "title": "AI Litigation Landscape",
       "type": "topic"
     },

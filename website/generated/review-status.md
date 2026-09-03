@@ -4,27 +4,27 @@ This page is generated from OIR metadata. Do not edit it manually.
 
 ## Totals
 
-- Records: 406
-- Records needing review: 290
+- Records: 423
+- Records needing review: 307
 - Records missing `last_verified`: 3
 
 ## By Status
 
-- [`draft`](#draft-records): 290
+- [`draft`](#draft-records): 307
 - [`verified`](#verified-records): 116
 
 ## By Type
 
 - [`attorney`](#attorney-records): 18
-- [`case`](#case-records): 41
+- [`case`](#case-records): 47
 - [`historical_event`](#historical-event-records): 4
 - [`organization`](#organization-records): 23
 - [`person`](#person-records): 30
 - [`protocol`](#protocol-records): 3
-- [`source`](#source-records): 253
+- [`source`](#source-records): 263
 - [`statute`](#statute-records): 8
 - [`technology`](#technology-records): 6
-- [`topic`](#topic-records): 20
+- [`topic`](#topic-records): 21
 
 ## Records Needing Review
 
@@ -41,20 +41,25 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-DISNEY-V-MIDJOURNEY: Disney Enterprises, Inc. v. Midjourney, Inc.`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
 - [`CASE-DOE-V-GITHUB: Doe 1 v. GitHub, Inc.`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
 - [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
 - [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
 - [`CASE-IN-RE-GOOGLE-GEN-AI: In re Google Generative AI Copyright Litigation`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
 - [`CASE-IN-RE-OPENAI: In re OpenAI, Inc., Copyright Infringement Litigation`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- [`CASE-JOSHI-V-OPENAI: Joshi v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-KADREY-V-META: Kadrey v. Meta Platforms, Inc.`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 - [`CASE-KNESCHKE-V-LAION: Kneschke v. LAION e.V.`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-LYONS-V-OPENAI: Lyons v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
 - [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-SONY-V-ANTHROPIC: Sony Music Publishing (US) LLC v. Anthropic PBC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
 - [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
@@ -69,6 +74,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`CASE-WALTERS-V-OPENAI: Walters v. OpenAI, L.L.C.`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
 - [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
@@ -195,6 +201,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
 - [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
+- [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
 - [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
@@ -217,6 +226,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025: In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 - [`SRC-JPML-OPENAI-MDL-3143: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
 - [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
@@ -227,8 +237,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+- [`SRC-NLR-CHATGPT-JCCP-2026: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
 - [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
 - [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
 - [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
@@ -245,6 +258,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
 - [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 - [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026: Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 - [`SRC-SONY-V-UDIO-2026-COMPLAINT: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md)
@@ -256,6 +270,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
 - [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
 - [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
@@ -275,6 +290,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
 - [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
@@ -299,6 +315,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
@@ -340,20 +357,25 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-DISNEY-V-MIDJOURNEY: Disney Enterprises, Inc. v. Midjourney, Inc.`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
 - [`CASE-DOE-V-GITHUB: Doe 1 v. GitHub, Inc.`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
 - [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
 - [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
 - [`CASE-IN-RE-GOOGLE-GEN-AI: In re Google Generative AI Copyright Litigation`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
 - [`CASE-IN-RE-OPENAI: In re OpenAI, Inc., Copyright Infringement Litigation`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- [`CASE-JOSHI-V-OPENAI: Joshi v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-KADREY-V-META: Kadrey v. Meta Platforms, Inc.`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 - [`CASE-KNESCHKE-V-LAION: Kneschke v. LAION e.V.`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-LYONS-V-OPENAI: Lyons v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
 - [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-SONY-V-ANTHROPIC: Sony Music Publishing (US) LLC v. Anthropic PBC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
 - [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
@@ -368,6 +390,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`CASE-WALTERS-V-OPENAI: Walters v. OpenAI, L.L.C.`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
 - [`EVENT-FISA-AMENDMENTS-ACT-2008: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`EVENT-OFAC-BLENDER-2022: OFAC Designation of Blender.io (May 6, 2022)`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
@@ -494,6 +517,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
 - [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
+- [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
 - [`SRC-GARCIA-V-CHARACTER-COMPLAINT: Garcia v. Character Technologies, Inc., Complaint (M.D. Fla. Oct. 22, 2024)`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-COMPLAINT.md)
@@ -516,6 +542,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025: In re OpenAI, Inc. Copyright Infringement Litigation, Opinion Denying Motion to Dismiss Output Claims (S.D.N.Y. Oct. 27, 2025)`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
 - [`SRC-IRS-SAMOURAI-PLEA-2025: IRS-CI — Samourai Wallet Founders Plead Guilty (July 30, 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-PLEA-2025.md)
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 - [`SRC-JPML-OPENAI-MDL-3143: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
 - [`SRC-KADREY-V-META-FAIR-USE: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025)`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md)
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
@@ -526,8 +553,11 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
+- [`SRC-NLR-CHATGPT-JCCP-2026: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
 - [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
 - [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
 - [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
@@ -544,6 +574,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PERTSEV-ECLI-2024: Netherlands v. Pertsev, ECLI:NL:RBOBR:2024:2069 (East Brabant District Court, May 14, 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 - [`SRC-PERTSEV-RECHTSPRAAK-EN-2024: Dutch Judiciary English News — Tornado Cash Developer Jail Sentence (May 2024)`](source-docs/bibliography/legal/SRC-PERTSEV-RECHTSPRAAK-EN-2024.md)
 - [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 - [`SRC-RFERL-TELEGRAM-BLOCK-2018: RFE/RL — Russian Court Orders Telegram App Blocked (2018)`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md)
 - [`SRC-SONY-V-ANTHROPIC-COMPLAINT-2026: Sony Music Publishing (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Aug. 28, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-ANTHROPIC-COMPLAINT-2026.md)
 - [`SRC-SONY-V-UDIO-2026-COMPLAINT: Sony Music Entertainment v. Uncharted Labs, Inc., Complaint (S.D.N.Y. July 20, 2026)`](source-docs/bibliography/legal/SRC-SONY-V-UDIO-2026-COMPLAINT.md)
@@ -555,6 +586,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-TELEGRAM-PRESS: Telegram Press Info`](source-docs/bibliography/organizations/SRC-TELEGRAM-PRESS.md)
 - [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
 - [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
 - [`SRC-TR-IAN-CLARKE: MIT Technology Review — Ian Clarke Innovator Profile`](source-docs/bibliography/people/SRC-TR-IAN-CLARKE.md)
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 - [`SRC-TREASURY-SEMENOV-2023: Treasury Designates Roman Semenov, Co-Founder of Tornado Cash (Aug. 23, 2023)`](source-docs/bibliography/legal/SRC-TREASURY-SEMENOV-2023.md)
@@ -574,6 +606,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025: U.S. Copyright Office, Copyright and Artificial Intelligence, Part 2 — Copyrightability (January 2025)`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
 - [`SRC-USCO-AI-REGISTRATION-GUIDANCE-2023: Copyright Registration Guidance — Works Containing Material Generated by Artificial Intelligence, 88 Fed. Reg. 16190 (Mar. 16, 2023)`](source-docs/bibliography/legal/SRC-USCO-AI-REGISTRATION-GUIDANCE-2023.md)
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 - [`SRC-WILSON-SONSINI-INTERNET: Wilson Sonsini Internet Strategy and Litigation Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-INTERNET.md)
 - [`SRC-WILSON-SONSINI-SOFTWARE: Wilson Sonsini Software Industry Practice Page`](source-docs/bibliography/organizations/SRC-WILSON-SONSINI-SOFTWARE.md)
 - [`SRC-WYDEN-AARONS-LAW: Wyden Introduces Reforms to the Computer Fraud and Abuse Act`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md)
@@ -598,6 +631,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`TECH-SAMOURAI-WALLET: Samourai Wallet`](source-docs/knowledge/technical/TECH-SAMOURAI-WALLET.md)
 - [`TECH-TORNADO-CASH: Tornado Cash (Ethereum Mixer Protocol)`](source-docs/knowledge/technical/TECH-TORNADO-CASH.md)
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
@@ -773,20 +807,25 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-DISNEY-V-MIDJOURNEY: Disney Enterprises, Inc. v. Midjourney, Inc.`](source-docs/knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md)
 - [`CASE-DOE-V-GITHUB: Doe 1 v. GitHub, Inc.`](source-docs/knowledge/legal/CASE-DOE-V-GITHUB.md)
 - [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+- [`CASE-FLORIDA-V-OPENAI: Florida v. OpenAI Global, LLC`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
 - [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES: Garcia v. Character Technologies, Inc.`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - [`CASE-GEMA-V-OPENAI: GEMA v. OpenAI (LG München I)`](source-docs/knowledge/legal/CASE-GEMA-V-OPENAI.md)
 - [`CASE-GETTY-V-STABILITY: Getty Images (US), Inc. v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-GETTY-V-STABILITY.md)
 - [`CASE-GOOGLE-V-ORACLE: Google LLC v. Oracle America, Inc.`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY: In re ChatGPT Product Liability Cases`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
 - [`CASE-IN-RE-GOOGLE-GEN-AI: In re Google Generative AI Copyright Litigation`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
 - [`CASE-IN-RE-OPENAI: In re OpenAI, Inc., Copyright Infringement Litigation`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
+- [`CASE-JOSHI-V-OPENAI: Joshi v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
 - [`CASE-JUNGER-V-DALEY: Junger v. Daley`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md)
 - [`CASE-KADREY-V-META: Kadrey v. Meta Platforms, Inc.`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 - [`CASE-KNESCHKE-V-LAION: Kneschke v. LAION e.V.`](source-docs/knowledge/legal/CASE-KNESCHKE-V-LAION.md)
 - [`CASE-LENZ-V-UNIVERSAL: Lenz v. Universal Music Corp.`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
+- [`CASE-LYONS-V-OPENAI: Lyons v. OpenAI Foundation`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
 - [`CASE-NL-V-PERTSEV: Netherlands v. Pertsev (Tornado Cash)`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
 - [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - [`CASE-PACKINGHAM-V-NC: Packingham v. North Carolina`](source-docs/knowledge/legal/CASE-PACKINGHAM-V-NC.md)
 - [`CASE-PERFECT10-V-CCBILL: Perfect 10, Inc. v. CCBill LLC`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
+- [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
 - [`CASE-RENO-V-ACLU: Reno v. American Civil Liberties Union`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md)
 - [`CASE-SONY-V-ANTHROPIC: Sony Music Publishing (US) LLC v. Anthropic PBC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
 - [`CASE-SPYDER-V-MEMENTUM: Spyder Games LLC v. Mementum Lab`](source-docs/knowledge/legal/CASE-SPYDER-V-MEMENTUM.md)
@@ -801,6 +840,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`CASE-US-V-TUNICK: United States v. Tunick`](source-docs/knowledge/legal/CASE-US-V-TUNICK.md)
 - [`CASE-VAN-BUREN-V-US: Van Buren v. United States`](source-docs/knowledge/legal/CASE-VAN-BUREN-V-US.md)
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
+- [`CASE-WALTERS-V-OPENAI: Walters v. OpenAI, L.L.C.`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
 
 ## historical_event Records { #historical-event-records }
 
@@ -958,6 +998,9 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-FIRE-PRABHAKAR-CASE: FIRE Case Page — Prabhakar v. Hawkins et al.`](source-docs/bibliography/organizations/SRC-FIRE-PRABHAKAR-CASE.md)
 - [`SRC-FIRE-SUBMIT-CASE: FIRE Submit a Case Page`](source-docs/bibliography/organizations/SRC-FIRE-SUBMIT-CASE.md)
 - [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS: FISA Amendments Act of 2008 (Public Law 110-261)`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
+- [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026: Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+- [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026: Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+- [`SRC-FLORIDA-V-OPENAI-COMPLAINT: Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
 - [`SRC-FRANCE24-DUROV-KAMINSKI-2024: France 24 / AFP — Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted`](source-docs/bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md)
 - [`SRC-FREENET-HISTORY: Freenet History Page`](source-docs/bibliography/organizations/SRC-FREENET-HISTORY.md)
@@ -990,6 +1033,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-IRS-SAMOURAI-SENTENCE-2025: IRS-CI — Samourai Wallet Founders Sentenced (Nov. 2025)`](source-docs/bibliography/legal/SRC-IRS-SAMOURAI-SENTENCE-2025.md)
 - [`SRC-JAFFER-KNIGHT: Jameel Jaffer Knight Institute Biography`](source-docs/bibliography/people/SRC-JAFFER-KNIGHT.md)
 - [`SRC-JEWEL-V-NSA-EFF: EFF Jewel v. NSA Case Page - Supreme Court Rejection`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
+- [`SRC-JOSHI-V-OPENAI-COMPLAINT: Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 - [`SRC-JPML-OPENAI-MDL-3143: In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md)
 - [`SRC-JUNGER-ACLU-OHIO: Junger v. Daley ACLU Ohio Case Page`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 - [`SRC-JUNGER-CMU: Junger v. Daley Opinion Text (CMU)`](source-docs/bibliography/legal/SRC-JUNGER-CMU.md)
@@ -1010,12 +1054,15 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-LESSIG-HARVARD: Lawrence Lessig Harvard Law School Faculty Page`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 - [`SRC-LOFGREN-AARONS-LAW: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 - [`SRC-LWN-GNUNET-INTRO-2005: LWN.net — An Introduction to GNUnet (2005)`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md)
+- [`SRC-LYONS-V-OPENAI-COMPLAINT: Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md)
+- [`SRC-LYONS-V-OPENAI-MTD-2026: Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT: House Passes Massie Amendment to Strengthen Privacy and Security`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - [`SRC-MCSHERRY-EFF-BIO: Corynne McSherry EFF Staff Biography`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md)
 - [`SRC-MEDUZA-DUROV-FSB-2026: Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md)
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
 - [`SRC-MOGLEN-DSI: Eben Moglen Columbia Data Science Institute Profile`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+- [`SRC-NLR-CHATGPT-JCCP-2026: National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
 - [`SRC-NYT-V-OPENAI-12C-2026: The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md)
 - [`SRC-NYT-V-OPENAI-COMPLAINT: The New York Times Company v. Microsoft Corp., Complaint (S.D.N.Y. Dec. 27, 2023)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-COMPLAINT.md)
 - [`SRC-NYT-V-OPENAI-MTD-2025: The New York Times Company v. Microsoft Corp., Opinion on Motions to Dismiss (S.D.N.Y. Apr. 4, 2025)`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
@@ -1041,6 +1088,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-PUBLIC-KNOWLEDGE-ABOUT: Public Knowledge About Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-ABOUT.md)
 - [`SRC-PUBLIC-KNOWLEDGE-CONTACT: Public Knowledge Contact Page`](source-docs/bibliography/organizations/SRC-PUBLIC-KNOWLEDGE-CONTACT.md)
 - [`SRC-RAFTO-AGORA-CHIKOV: Rafto Foundation — Agora / Pavel Chikov Prize Page`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
+- [`SRC-RAINE-V-OPENAI-COMPLAINT: Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 - [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
 - [`SRC-RCFP-WHAT-WE-DO: Reporters Committee What We Do Page`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
 - [`SRC-REED-BIO: David P. Reed Official Biography`](source-docs/bibliography/people/SRC-REED-BIO.md)
@@ -1078,6 +1126,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-THALER-V-PERLMUTTER-CADC: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025)`](source-docs/bibliography/legal/SRC-THALER-V-PERLMUTTER-CADC.md)
 - [`SRC-THOMSON-REUTERS-V-ROSS-2025: Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025)`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md)
 - [`SRC-TIEN-EFF: Lee Tien EFF Staff Biography`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
+- [`SRC-TJLP-JCCP-5431-2026: Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
 - [`SRC-TOR-DESIGN-PAPER: Tor: The Second-Generation Onion Router`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md)
 - [`SRC-TOR-PROJECT-CONTACT: Tor Project Contact Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md)
 - [`SRC-TOR-PROJECT-HISTORY: Tor Project History Page`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md)
@@ -1112,6 +1161,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 - [`SRC-VAN-LOON-5TH-CIR-JUSTIA: Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024) (Justia)`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
 - [`SRC-VIXIE-IHOF: Paul Vixie Internet Hall of Fame Profile`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
 - [`SRC-WALSH-EFF-BIO: Kit Walsh EFF Staff Biography`](source-docs/bibliography/people/SRC-WALSH-EFF-BIO.md)
+- [`SRC-WALTERS-V-OPENAI-SJ-2025: Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 - [`SRC-WEINSTEIN-BIO: Lauren Weinstein Biography Page`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md)
 - [`SRC-WEINSTEIN-NNSQUAD: Network Neutrality Squad Announcement`](source-docs/bibliography/people/SRC-WEINSTEIN-NNSQUAD.md)
 - [`SRC-WESSLER-ACLU: Nathan Freed Wessler ACLU Staff Biography`](source-docs/bibliography/people/SRC-WESSLER-ACLU.md)
@@ -1153,6 +1203,7 @@ This page is generated from OIR metadata. Do not edit it manually.
 ## topic Records { #topic-records }
 
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
+- [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - [`TOPIC-AI-MUSIC-COPYRIGHT: Music Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)

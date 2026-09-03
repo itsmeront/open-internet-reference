@@ -554,6 +554,56 @@
       "subject": "CASE-DOW-JONES-V-PERPLEXITY"
     },
     {
+      "declared_in": "CASE-FLORIDA-V-OPENAI",
+      "notes": null,
+      "object": "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-FLORIDA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-FLORIDA-V-OPENAI",
+      "notes": null,
+      "object": "CASE-JOSHI-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CIVIL-2026"
+      ],
+      "subject": "CASE-FLORIDA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-FLORIDA-V-OPENAI",
+      "notes": null,
+      "object": "CASE-RAINE-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-FLORIDA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-FLORIDA-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-FLORIDA-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-FLORIDA-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-FLORIDA-V-OPENAI"
+    },
+    {
       "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
       "notes": null,
       "object": "SRC-GARCIA-V-CHARACTER-MTD-2025",
@@ -567,6 +617,16 @@
       "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
       "notes": null,
       "object": "CASE-BROWN-V-ENTERTAINMENT-MERCHANTS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES"
+    },
+    {
+      "declared_in": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
       "predicate": "related_to",
       "sources": [
         "SRC-GARCIA-V-CHARACTER-MTD-2025"
@@ -724,6 +784,56 @@
       "subject": "CASE-GOOGLE-V-ORACLE"
     },
     {
+      "declared_in": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "notes": null,
+      "object": "SRC-LYONS-V-OPENAI-MTD-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY"
+    },
+    {
+      "declared_in": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "notes": null,
+      "object": "CASE-LYONS-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY"
+    },
+    {
+      "declared_in": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "notes": null,
+      "object": "CASE-RAINE-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TJLP-JCCP-5431-2026"
+      ],
+      "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY"
+    },
+    {
+      "declared_in": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY"
+    },
+    {
+      "declared_in": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-NLR-CHATGPT-JCCP-2026"
+      ],
+      "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY"
+    },
+    {
       "declared_in": "CASE-IN-RE-GOOGLE-GEN-AI",
       "notes": null,
       "object": "SRC-GOOGLE-GEN-AI-MTD-2025",
@@ -802,6 +912,56 @@
         "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
       ],
       "subject": "CASE-IN-RE-OPENAI"
+    },
+    {
+      "declared_in": "CASE-JOSHI-V-OPENAI",
+      "notes": null,
+      "object": "SRC-JOSHI-V-OPENAI-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-JOSHI-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-JOSHI-V-OPENAI",
+      "notes": null,
+      "object": "CASE-FLORIDA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026"
+      ],
+      "subject": "CASE-JOSHI-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-JOSHI-V-OPENAI",
+      "notes": "Parallel product-liability theory against a chatbot vendor; Garcia is Character.AI, Joshi is ChatGPT and a third-party shooting victim.",
+      "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-JOSHI-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-JOSHI-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-JOSHI-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-JOSHI-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-JOSHI-V-OPENAI"
     },
     {
       "declared_in": "CASE-JUNGER-V-DALEY",
@@ -984,6 +1144,46 @@
       "subject": "CASE-LENZ-V-UNIVERSAL"
     },
     {
+      "declared_in": "CASE-LYONS-V-OPENAI",
+      "notes": null,
+      "object": "SRC-LYONS-V-OPENAI-MTD-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-LYONS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-LYONS-V-OPENAI",
+      "notes": null,
+      "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-LYONS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-LYONS-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-LYONS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-LYONS-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "CASE-LYONS-V-OPENAI"
+    },
+    {
       "declared_in": "CASE-NL-V-PERTSEV",
       "notes": null,
       "object": "SRC-PERTSEV-ECLI-2024",
@@ -1152,6 +1352,56 @@
         "SRC-PERFECT10-V-CCBILL-JUSTIA"
       ],
       "subject": "CASE-PERFECT10-V-CCBILL"
+    },
+    {
+      "declared_in": "CASE-RAINE-V-OPENAI",
+      "notes": null,
+      "object": "SRC-RAINE-V-OPENAI-COMPLAINT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-RAINE-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-RAINE-V-OPENAI",
+      "notes": "Parallel chatbot wrongful-death theory; Garcia is federal Character.AI, Raine is state-court ChatGPT.",
+      "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-RAINE-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-RAINE-V-OPENAI",
+      "notes": null,
+      "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-TJLP-JCCP-5431-2026"
+      ],
+      "subject": "CASE-RAINE-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-RAINE-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-RAINE-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-RAINE-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "CASE-RAINE-V-OPENAI"
     },
     {
       "declared_in": "CASE-RENO-V-ACLU",
@@ -1733,6 +1983,46 @@
         "SRC-VAN-LOON-5TH-CIR-JUSTIA"
       ],
       "subject": "CASE-VAN-LOON-V-TREASURY"
+    },
+    {
+      "declared_in": "CASE-WALTERS-V-OPENAI",
+      "notes": null,
+      "object": "SRC-WALTERS-V-OPENAI-SJ-2025",
+      "predicate": "cites",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "CASE-WALTERS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-WALTERS-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "CASE-WALTERS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-WALTERS-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "CASE-WALTERS-V-OPENAI"
+    },
+    {
+      "declared_in": "CASE-WALTERS-V-OPENAI",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "CASE-WALTERS-V-OPENAI"
     },
     {
       "declared_in": "EVENT-FISA-AMENDMENTS-ACT-2008",
@@ -4419,6 +4709,116 @@
       "subject": "TOPIC-AI-COPYRIGHT"
     },
     {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-FLORIDA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-JOSHI-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-LYONS-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-RAINE-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "CASE-WALTERS-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-AI-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": "Adjacent inventory of proceedings against software authors; most pages here are civil product-liability or consumer-protection actions, not criminal developer prosecutions.",
+      "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-FIRST-AMENDMENT",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-HARM-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-INTERMEDIARY-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-HARM-LITIGATION"
+    },
+    {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
       "object": "CASE-ANDERSEN-V-STABILITY",
@@ -4491,6 +4891,16 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-FLORIDA-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-FLORIDA-V-OPENAI-COMPLAINT"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
       "predicate": "related_to",
       "sources": [
@@ -4521,6 +4931,16 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-IN-RE-GOOGLE-GEN-AI",
       "predicate": "related_to",
       "sources": [
@@ -4535,6 +4955,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-IN-RE-OPENAI-OUTPUT-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-JOSHI-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-JOSHI-V-OPENAI-COMPLAINT"
       ],
       "subject": "TOPIC-AI-LITIGATION"
     },
@@ -4561,10 +4991,30 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-LYONS-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-LYONS-V-OPENAI-MTD-2026"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "CASE-NYT-V-OPENAI",
       "predicate": "related_to",
       "sources": [
         "SRC-NYT-V-OPENAI-MTD-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "CASE-RAINE-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-RAINE-V-OPENAI-COMPLAINT"
       ],
       "subject": "TOPIC-AI-LITIGATION"
     },
@@ -4631,10 +5081,30 @@
     {
       "declared_in": "TOPIC-AI-LITIGATION",
       "notes": null,
+      "object": "CASE-WALTERS-V-OPENAI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-WALTERS-V-OPENAI-SJ-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
       "object": "TOPIC-AI-COPYRIGHT",
       "predicate": "related_to",
       "sources": [
         "SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025"
+      ],
+      "subject": "TOPIC-AI-LITIGATION"
+    },
+    {
+      "declared_in": "TOPIC-AI-LITIGATION",
+      "notes": null,
+      "object": "TOPIC-AI-HARM-LITIGATION",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-GARCIA-V-CHARACTER-MTD-2025"
       ],
       "subject": "TOPIC-AI-LITIGATION"
     },
