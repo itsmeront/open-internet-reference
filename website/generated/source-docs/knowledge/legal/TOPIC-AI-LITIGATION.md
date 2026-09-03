@@ -3,7 +3,7 @@ id: TOPIC-AI-LITIGATION
 title: AI Litigation Landscape
 type: topic
 status: draft
-summary: Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
+summary: Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability and user-harm claims, and adjacent First Amendment issues.
 tags:
   - artificial-intelligence
   - copyright
@@ -42,6 +42,12 @@ sources:
   - SRC-DOW-JONES-V-PERPLEXITY-MTD-2025
   - SRC-CONCORD-II-COMPLAINT
   - SRC-BMG-V-ANTHROPIC-COMPLAINT
+  - SRC-RAINE-V-OPENAI-COMPLAINT
+  - SRC-LYONS-V-OPENAI-MTD-2026
+  - SRC-JOSHI-V-OPENAI-COMPLAINT
+  - SRC-FLORIDA-V-OPENAI-COMPLAINT
+  - SRC-WALTERS-V-OPENAI-SJ-2025
+  - SRC-TJLP-JCCP-5431-2026
 relationships:
   - subject: TOPIC-AI-LITIGATION
     predicate: related_to
@@ -174,7 +180,42 @@ relationships:
     object: CASE-BMG-V-ANTHROPIC
     sources:
       - SRC-BMG-V-ANTHROPIC-COMPLAINT
-last_verified: "2026-09-02"
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: TOPIC-AI-HARM-LITIGATION
+    sources:
+      - SRC-GARCIA-V-CHARACTER-MTD-2025
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-RAINE-V-OPENAI
+    sources:
+      - SRC-RAINE-V-OPENAI-COMPLAINT
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY
+    sources:
+      - SRC-LYONS-V-OPENAI-MTD-2026
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-LYONS-V-OPENAI
+    sources:
+      - SRC-LYONS-V-OPENAI-MTD-2026
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-JOSHI-V-OPENAI
+    sources:
+      - SRC-JOSHI-V-OPENAI-COMPLAINT
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-FLORIDA-V-OPENAI
+    sources:
+      - SRC-FLORIDA-V-OPENAI-COMPLAINT
+  - subject: TOPIC-AI-LITIGATION
+    predicate: related_to
+    object: CASE-WALTERS-V-OPENAI
+    sources:
+      - SRC-WALTERS-V-OPENAI-SJ-2025
+last_verified: "2026-09-03"
 ---
 
 # Generated Source Mirror
@@ -188,8 +229,8 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 30
-    - **Relationships**: 26
+    - **Sources**: 36
+    - **Relationships**: 33
     - **Research debt items**: 6
 
 ---
@@ -198,7 +239,7 @@ This page is generated from the source Markdown file so it can be viewed inside 
 
 ## Summary
 
-Generative AI is now a regular subject of civil litigation. The cases documented here fall into five clusters: (1) copyright in training data and model outputs, including news, books, music, images, datasets, and code, (2) copyright and trademark claims over AI-generated viral characters, (3) product-liability and speech defenses when chatbot products are alleged to have harmed users, (4) comparative German and English judgments, and (5) pending publisher and class actions that have not reached fair-use merits. This page is an inventory, not a prediction of outcomes.
+Generative AI is now a regular subject of civil litigation. The cases documented here fall into five clusters: (1) copyright in training data and model outputs, including news, books, music, images, datasets, and code, (2) copyright and trademark claims over AI-generated viral characters, (3) product-liability, enforcement, and speech defenses when chatbot products are alleged to have harmed users, (4) comparative German and English judgments, and (5) pending publisher and class actions that have not reached fair-use merits. Chatbot harm dockets are inventoried in [Chatbot Product Liability and User-Harm Litigation](TOPIC-AI-HARM-LITIGATION.md). This page is an inventory, not a prediction of outcomes.
 
 ## Verified Facts
 
@@ -211,7 +252,7 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 - [In re OpenAI, Inc., Copyright Infringement Litigation](CASE-IN-RE-OPENAI.md) (MDL No. 3143, S.D.N.Y.) centralized author and publisher actions; on October 27, 2025, the court denied OpenAI’s motion to dismiss author class output-infringement claims without deciding fair use.[^22][^23]
 - [Dow Jones & Co. v. Perplexity AI, Inc.](CASE-DOW-JONES-V-PERPLEXITY.md) (S.D.N.Y.) survived an August 21, 2025 motion to dismiss for lack of personal jurisdiction and improper venue; a related Times action against Perplexity was later filed in the same district.[^24]
 - [Spyder Games LLC v. Mementum Lab](CASE-SPYDER-V-MEMENTUM.md) (N.D. Cal., filed Nov. 26, 2025) seeks a declaration that AI-generated “brainrot” characters used in Steal a Brainrot are not copyrightable. See [Brain Rot and AI-Generated Meme Characters](TOPIC-BRAIN-ROT.md).[^9]
-- [Garcia v. Character Technologies, Inc.](CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) (M.D. Fla. May 20, 2025) allowed most wrongful-death and product-liability claims against a chatbot company and Google to proceed and declined, at the pleading stage, to treat LLM output as protected speech.[^10]
+- Chatbot harm dockets are inventoried in [Chatbot Product Liability and User-Harm Litigation](TOPIC-AI-HARM-LITIGATION.md): [Garcia v. Character Technologies, Inc.](CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) (M.D. Fla. May 20, 2025) allowed most Character.AI wrongful-death claims to proceed; [Raine v. OpenAI, Inc.](CASE-RAINE-V-OPENAI.md) and [In re ChatGPT Product Liability Cases](CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) (JCCP No. 5431) collect California ChatGPT suicide and design-defect actions; [Lyons v. OpenAI Foundation](CASE-LYONS-V-OPENAI.md) is the federal Soelberg-estate murder-suicide suit; [Joshi v. OpenAI Foundation](CASE-JOSHI-V-OPENAI.md) is the FSU shooting-victim action; [Florida v. OpenAI Global, LLC](CASE-FLORIDA-V-OPENAI.md) is the first state AG civil enforcement suit; and [Walters v. OpenAI, L.L.C.](CASE-WALTERS-V-OPENAI.md) granted OpenAI summary judgment on a hallucination-defamation claim.[^10][^31][^32][^33][^34][^35]
 - Music copyright dockets are inventoried in [Music Copyright and Generative AI](TOPIC-AI-MUSIC-COPYRIGHT.md): [UMG v. Suno](CASE-UMG-V-SUNO.md) and [UMG v. Udio](CASE-UMG-V-UDIO.md) (sound recordings; partial dismissals; no U.S. fair-use holding), [Concord v. Anthropic](CASE-CONCORD-V-ANTHROPIC.md) (lyrics; secondary and DMCA claims survive dismissal; Concord II alleges torrenting), [BMG v. Anthropic](CASE-BMG-V-ANTHROPIC.md) (later publisher complaint; allegations only), [Sony Music Publishing v. Anthropic](CASE-SONY-V-ANTHROPIC.md) (later publisher complaint naming founders; allegations only), and [GEMA v. OpenAI](CASE-GEMA-V-OPENAI.md) (non-final German first-instance lyric judgment).[^11][^12][^13][^14][^15][^25][^26]
 - Image-generator dockets: [Andersen v. Stability AI](CASE-ANDERSEN-V-STABILITY.md) (artists’ class action; Copyright Act claims survive dismissal; DMCA dismissed), [Disney v. Midjourney](CASE-DISNEY-V-MIDJOURNEY.md) (studio character outputs; consolidated with Warner Bros. Discovery; discovery ongoing), and [Getty Images v. Stability AI](CASE-GETTY-V-STABILITY.md) (English trial; secondary copyright dismissed after training claims were abandoned; U.S. action pending after a false-CMI dismissal).[^16][^17][^18][^19][^27]
 - Dataset and Google models: [Kneschke v. LAION](CASE-KNESCHKE-V-LAION.md) (German TDM exceptions for compiling an open image-text dataset) and [In re Google Generative AI Copyright Litigation](CASE-IN-RE-GOOGLE-GEN-AI.md) (some models dismissed with prejudice; Bard/Gemini/Imagen claims remain).[^28][^29][^30]
@@ -278,6 +319,16 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 
 [^30]: [`SRC-GOOGLE-GEN-AI-MTD-2025`](../../../bibliography.md#SRC-GOOGLE-GEN-AI-MTD-2025) — N.D. Cal. Sept. 11, 2025.
 
+[^31]: [`SRC-RAINE-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-RAINE-V-OPENAI-COMPLAINT) — Cal. Super. Ct. Aug. 26, 2025. Pending; allegations. See also [`SRC-TJLP-JCCP-5431-2026`](../../../bibliography.md#SRC-TJLP-JCCP-5431-2026) and [`SRC-LYONS-V-OPENAI-MTD-2026`](../../../bibliography.md#SRC-LYONS-V-OPENAI-MTD-2026) for JCCP 5431.
+
+[^32]: [`SRC-LYONS-V-OPENAI-MTD-2026`](../../../bibliography.md#SRC-LYONS-V-OPENAI-MTD-2026) — N.D. Cal. Apr. 13, 2026. Colorado River stay denied.
+
+[^33]: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-JOSHI-V-OPENAI-COMPLAINT) — N.D. Fla. May 10, 2026. Pending; allegations.
+
+[^34]: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-FLORIDA-V-OPENAI-COMPLAINT) — Fla. 10th Cir. Ct. June 1, 2026. Pending; allegations.
+
+[^35]: [`SRC-WALTERS-V-OPENAI-SJ-2025`](../../../bibliography.md#SRC-WALTERS-V-OPENAI-SJ-2025) — Ga. Super. Ct. May 19, 2025.
+
 ## Case map
 
 | Cluster | Leading OIR page | What is actually decided (as of sources cited) |
@@ -301,11 +352,12 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 | Dataset TDM (DE) | [Kneschke](CASE-KNESCHKE-V-LAION.md) | Download for research/general TDM; opt-out not machine-readable as reported. |
 | Google generative models | [In re Google Gen. AI](CASE-IN-RE-GOOGLE-GEN-AI.md) | Some models out with prejudice; Bard/Gemini/Imagen remain. |
 | Open-source Copilot | [Doe v. GitHub](CASE-DOE-V-GITHUB.md) | DMCA CMI dismissed; contract claims live; 9th Cir. argued. |
-| Chatbot harm | [Garcia](CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) | Design-defect claims proceed; speech defense not established at 12(b)(6). |
+| Chatbot harm (companion) | [Garcia](CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) | Design-defect claims proceed; speech defense not established at 12(b)(6). |
+| Chatbot harm (ChatGPT cluster) | [Harm inventory](TOPIC-AI-HARM-LITIGATION.md) | Raine and JCCP 5431 pending; Lyons stay denied; Joshi and Florida AG pending; Walters SJ for OpenAI. |
 
 ## Legal Analysis
 
-These dockets are not one “AI law.” Copyright training cases apply [§ 107](STAT-USC-107.md) to copying that happens before a user sees an answer. Authorship cases ask who, if anyone, owns the answer or the image. Product-liability cases ask whether the software is a product whose design can be defective, which collides with [First Amendment](TOPIC-FIRST-AMENDMENT.md) arguments that outputs are speech.[^10]
+These dockets are not one “AI law.” Copyright training cases apply [§ 107](STAT-USC-107.md) to copying that happens before a user sees an answer. Authorship cases ask who, if anyone, owns the answer or the image. Product-liability cases ask whether the software is a product whose design can be defective, which collides with [First Amendment](TOPIC-FIRST-AMENDMENT.md) arguments that outputs are speech.[^10] The harm cluster is now larger than Garcia: California has coordinated twelve ChatGPT suits, Florida has filed a civil AG action and announced a criminal investigation of the FSU shooting, and Walters shows that at least one hallucination-defamation claim failed on a developed record.[^31][^32][^34][^35]
 
 For open-internet and software-freedom work, two tensions matter. First, a broad training-is-always-infringement rule would raise the cost of building models, including open-weight models; Bartz and Kadrey show district judges already disagree about how to weigh that against market harm.[^4][^6] Second, treating chatbot text as unprotected non-speech at the pleading stage, as in Garcia, could expand design-defect litigation against conversational software without a merits record on causation.[^10]
 
@@ -339,6 +391,13 @@ Criminal and sanctions cases involving software authors remain on [Documented Pr
 - `TOPIC-AI-LITIGATION` related_to `CASE-KNESCHKE-V-LAION`.
 - `TOPIC-AI-LITIGATION` related_to `CASE-IN-RE-GOOGLE-GEN-AI`.
 - `TOPIC-AI-LITIGATION` related_to `CASE-BMG-V-ANTHROPIC`.
+- `TOPIC-AI-LITIGATION` related_to `TOPIC-AI-HARM-LITIGATION`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-RAINE-V-OPENAI`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-LYONS-V-OPENAI`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-JOSHI-V-OPENAI`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-FLORIDA-V-OPENAI`.
+- `TOPIC-AI-LITIGATION` related_to `CASE-WALTERS-V-OPENAI`.
 
 ## Sources
 
@@ -372,16 +431,22 @@ Criminal and sanctions cases involving software authors remain on [Documented Pr
 28. [`SRC-KNESCHKE-LG-HAMBURG-2024`](../../../bibliography.md#SRC-KNESCHKE-LG-HAMBURG-2024): Kneschke LG Hamburg (2024).
 29. [`SRC-KNESCHKE-OLG-HAMBURG-2025`](../../../bibliography.md#SRC-KNESCHKE-OLG-HAMBURG-2025): Kneschke OLG Hamburg (2025).
 30. [`SRC-GOOGLE-GEN-AI-MTD-2025`](../../../bibliography.md#SRC-GOOGLE-GEN-AI-MTD-2025): In re Google Generative AI MTD order (2025).
+31. [`SRC-RAINE-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-RAINE-V-OPENAI-COMPLAINT): Raine complaint (2025).
+32. [`SRC-LYONS-V-OPENAI-MTD-2026`](../../../bibliography.md#SRC-LYONS-V-OPENAI-MTD-2026): Lyons Colorado River order (2026).
+33. [`SRC-JOSHI-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-JOSHI-V-OPENAI-COMPLAINT): Joshi complaint (2026).
+34. [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](../../../bibliography.md#SRC-FLORIDA-V-OPENAI-COMPLAINT): Florida AG civil complaint (2026).
+35. [`SRC-WALTERS-V-OPENAI-SJ-2025`](../../../bibliography.md#SRC-WALTERS-V-OPENAI-SJ-2025): Walters summary-judgment order (2025).
+36. [`SRC-TJLP-JCCP-5431-2026`](../../../bibliography.md#SRC-TJLP-JCCP-5431-2026): Tech Justice JCCP update (2026).
 
 ## Research Debt
 
-- Add Walters v. OpenAI (defamation / ChatGPT hallucinations) with a primary docket and any opinion.
 - Add EU AI Act public-enforcement matters only with official documents.
 - Verify Garcia docket for any 2026 settlement or judgment before stating the case is resolved.
-- Defamation, biometric-privacy, and employment AI cases are not yet in this inventory.
+- Biometric-privacy and employment AI cases are not yet in this inventory.
 - Add any Ninth Circuit opinion in Doe v. GitHub.
 - Add Chicago Tribune and Britannica Perplexity complaints from those PDFs.
+- Remaining ChatGPT and Character.AI harm captions are tracked as research debt on [TOPIC-AI-HARM-LITIGATION](TOPIC-AI-HARM-LITIGATION.md).
 
 ## Document metadata
 
-- Last verified: `2026-09-02`
+- Last verified: `2026-09-03`

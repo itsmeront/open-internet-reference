@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 153
+Record count: 160
 
 ## `CASE-ANDERSEN-V-STABILITY`: Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY }
 
@@ -121,6 +121,15 @@ Open-source developers’ action alleging that GitHub Copilot training and outpu
 
 Pending Southern District of New York copyright and trademark action by the Wall Street Journal and New York Post against Perplexity’s answer engine; the court denied motions to dismiss for lack of jurisdiction and improper venue. Related Times and Tribune actions against Perplexity were later filed in the same district.
 
+## `CASE-FLORIDA-V-OPENAI`: Florida v. OpenAI Global, LLC { #CASE-FLORIDA-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-FLORIDA-V-OPENAI.md`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Tags: case, artificial-intelligence, public-policy, digital-rights
+
+Pending Florida Attorney General civil enforcement action filed June 1, 2026, in Highlands County against OpenAI entities and Sam Altman, alleging deceptive trade practices, negligence, product-liability, fraud, and public nuisance.
+
 ## `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`: Garcia v. Character Technologies, Inc. { #CASE-GARCIA-V-CHARACTER-TECHNOLOGIES }
 
 - Type: `case`
@@ -157,6 +166,15 @@ English High Court trial judgment dismissing Getty’s secondary-copyright claim
 
 Google LLC v. Oracle America, Inc., 593 U.S. ___ (2021), held in a 6-2 decision that Google's copying of approximately 11,500 lines of Java API declaring code for use in Android constituted fair use under copyright law.
 
+## `CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`: In re ChatGPT Product Liability Cases { #CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Tags: case, artificial-intelligence, digital-rights, intermediary-liability
+
+California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.
+
 ## `CASE-IN-RE-GOOGLE-GEN-AI`: In re Google Generative AI Copyright Litigation { #CASE-IN-RE-GOOGLE-GEN-AI }
 
 - Type: `case`
@@ -174,6 +192,15 @@ Pending Northern District of California putative class action alleging Google tr
 - Tags: case, copyright, artificial-intelligence, digital-rights
 
 Multidistrict copyright litigation in the Southern District of New York consolidating author and publisher actions against OpenAI and Microsoft; the court denied OpenAI’s motion to dismiss author class claims based on alleged ChatGPT outputs without deciding fair use.
+
+## `CASE-JOSHI-V-OPENAI`: Joshi v. OpenAI Foundation { #CASE-JOSHI-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-JOSHI-V-OPENAI.md`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Tags: case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.
 
 ## `CASE-JUNGER-V-DALEY`: Junger v. Daley { #CASE-JUNGER-V-DALEY }
 
@@ -211,6 +238,15 @@ German photographer’s claim against LAION over downloading an image to build a
 
 Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyright holders must consider fair use in good faith before sending DMCA takedown notifications under 17 U.S.C. § 512(c).
 
+## `CASE-LYONS-V-OPENAI`: Lyons v. OpenAI Foundation { #CASE-LYONS-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-LYONS-V-OPENAI.md`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Tags: case, artificial-intelligence, digital-rights, intermediary-liability
+
+Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.
+
 ## `CASE-NL-V-PERTSEV`: Netherlands v. Pertsev (Tornado Cash) { #CASE-NL-V-PERTSEV }
 
 - Type: `case`
@@ -246,6 +282,15 @@ Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North 
 - Tags: copyright, safe-harbor, intermediary-liability, digital-rights
 
 Perfect 10, Inc. v. CCBill LLC, 488 F.3d 1102 (9th Cir. 2007), is an appellate decision addressing DMCA § 512 safe harbor requirements for online service providers.
+
+## `CASE-RAINE-V-OPENAI`: Raine v. OpenAI, Inc. { #CASE-RAINE-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-RAINE-V-OPENAI.md`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Tags: case, artificial-intelligence, first-amendment, digital-rights, intermediary-liability
+
+Pending San Francisco Superior Court wrongful-death and product-liability action by the parents of 16-year-old Adam Raine, alleging that ChatGPT’s GPT-4o design contributed to his April 11, 2025 suicide; later coordinated into JCCP No. 5431.
 
 ## `CASE-RENO-V-ACLU`: Reno v. American Civil Liberties Union { #CASE-RENO-V-ACLU }
 
@@ -372,6 +417,15 @@ Van Buren v. United States, 593 U.S. 374 (2021), interpreted the CFAA phrase exc
 - Tags: case, sanctions, open-source-software, censorship-resistance, tornado-cash, case-studies
 
 Van Loon v. Department of the Treasury, No. 23-50669 (5th Cir. Nov. 26, 2024), held that Tornado Cash immutable smart contracts are not “property” under IEEPA and that OFAC exceeded its statutory authority by blocking them.
+
+## `CASE-WALTERS-V-OPENAI`: Walters v. OpenAI, L.L.C. { #CASE-WALTERS-V-OPENAI }
+
+- Type: `case`
+- Status: `draft`
+- Path: [`knowledge/legal/CASE-WALTERS-V-OPENAI.md`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Tags: case, first-amendment, artificial-intelligence, digital-rights
+
+Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.
 
 ## `EVENT-FISA-AMENDMENTS-ACT-2008`: FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override) { #EVENT-FISA-AMENDMENTS-ACT-2008 }
 
@@ -1210,6 +1264,15 @@ Tornado Cash is an open-source Ethereum smart-contract protocol that pools and s
 
 U.S. and comparative copyright issues raised by generative AI, including human authorship of outputs, fair use of training corpora, publisher and music suits, image-generator and studio character cases, German TDM dataset litigation, Google generative-model class claims, and open-source Copilot litigation.
 
+## `TOPIC-AI-HARM-LITIGATION`: Chatbot Product Liability and User-Harm Litigation { #TOPIC-AI-HARM-LITIGATION }
+
+- Type: `topic`
+- Status: `draft`
+- Path: [`knowledge/legal/TOPIC-AI-HARM-LITIGATION.md`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Tags: artificial-intelligence, first-amendment, digital-rights, case-studies, intermediary-liability
+
+Inventory of civil and enforcement actions alleging that conversational AI products caused physical, psychological, or reputational harm, including Character.AI wrongful-death claims, ChatGPT suicide and shooting suits, Florida’s Attorney General action, and the Walters hallucination-defamation judgment.
+
 ## `TOPIC-AI-LITIGATION`: AI Litigation Landscape { #TOPIC-AI-LITIGATION }
 
 - Type: `topic`
@@ -1217,7 +1280,7 @@ U.S. and comparative copyright issues raised by generative AI, including human a
 - Path: [`knowledge/legal/TOPIC-AI-LITIGATION.md`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Tags: artificial-intelligence, copyright, first-amendment, digital-rights, case-studies, intermediary-liability
 
-Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability claims, and adjacent First Amendment issues.
+Inventory of major civil actions involving generative AI, spanning copyright of training data and outputs (including music, images, news, code, and datasets), chatbot product-liability and user-harm claims, and adjacent First Amendment issues.
 
 ## `TOPIC-AI-MUSIC-COPYRIGHT`: Music Copyright and Generative AI { #TOPIC-AI-MUSIC-COPYRIGHT }
 

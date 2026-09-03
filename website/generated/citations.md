@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 253
+Source count: 263
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -589,6 +589,33 @@ Source count: 253
 - Page source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md)
 - Relationship source in [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md): [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS`](source-docs/bibliography/legal/SRC-FISA-AMENDMENTS-ACT-2008-CONGRESS.md)
 
+## [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md): Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)
+
+- Page source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Relationship source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+## [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md): Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)
+
+- Page source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Page source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Relationship source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+## [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md): Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)
+
+- Page source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Relationship source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `cites` [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+- Relationship source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Relationship source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+
 ## [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md): S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)
 
 - Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
@@ -627,11 +654,18 @@ Source count: 253
 - Page source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `cites` [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 - Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+- Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - Relationship source in [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
 - Page source in [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
@@ -827,6 +861,18 @@ Source count: 253
 - Page source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Relationship source in [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md): [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `cites` [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
+## [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md): Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)
+
+- Page source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Relationship source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `cites` [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+- Relationship source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+
 ## [`SRC-JPML-OPENAI-MDL-3143`](source-docs/bibliography/legal/SRC-JPML-OPENAI-MDL-3143.md): In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)
 
 - Page source in [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
@@ -974,6 +1020,29 @@ Source count: 253
 - Page source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md)
 - Relationship source in [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md): [`TOPIC-DECENTRALIZED-MODERATION`](source-docs/knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md) `related_to` [`TECH-GNUNET`](source-docs/knowledge/technical/TECH-GNUNET.md)
 
+## [`SRC-LYONS-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md): Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)
+
+- Page source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+## [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md): Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)
+
+- Page source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `cites` [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+- Relationship source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Relationship source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Page source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Relationship source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md): [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `cites` [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+- Relationship source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md): [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md): [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md): [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+
 ## [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security
 
 - Page source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
@@ -1007,6 +1076,12 @@ Source count: 253
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md)
 - Relationship source in [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md): [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `cites` [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md)
+
+## [`SRC-NLR-CHATGPT-JCCP-2026`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md): National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)
+
+- Page source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 
 ## [`SRC-NYT-V-OPENAI-12C-2026`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-12C-2026.md): The New York Times Company v. Microsoft Corp., Order on Rule 12(c) Contributory Claims (S.D.N.Y. Aug. 6, 2026)
 
@@ -1152,6 +1227,19 @@ Source count: 253
 - Relationship source in [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md): [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md) `cites` [`SRC-RAFTO-AGORA-CHIKOV`](source-docs/bibliography/organizations/SRC-RAFTO-AGORA-CHIKOV.md)
 - Page source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md)
 - Relationship source in [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md): [`PERSON-PAVEL-CHIKOV`](source-docs/knowledge/people/PERSON-PAVEL-CHIKOV.md) `affiliated_with` [`ORG-AGORA`](source-docs/knowledge/organizations/ORG-AGORA.md)
+
+## [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md): Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)
+
+- Page source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Page source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `cites` [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+- Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
 
 ## [`SRC-RCFP-CONTACT`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md): Reporters Committee Contact Page
 
@@ -1412,6 +1500,15 @@ Source count: 253
 - Page source in [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 - Relationship source in [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md): [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md): [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md) `cites` [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
+
+## [`SRC-TJLP-JCCP-5431-2026`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md): Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)
+
+- Page source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Relationship source in [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Page source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
 ## [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router
 
@@ -1724,6 +1821,18 @@ Source count: 253
 - Relationship source in [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md): [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Page source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`PERSON-KIT-WALSH`](source-docs/knowledge/people/PERSON-KIT-WALSH.md)
+
+## [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md): Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)
+
+- Page source in [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Relationship source in [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md): [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `cites` [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+- Relationship source in [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md): [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md): [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md): [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+- Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md): [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
 
 ## [`SRC-WEINSTEIN-BIO`](source-docs/bibliography/people/SRC-WEINSTEIN-BIO.md): Lauren Weinstein Biography Page
 

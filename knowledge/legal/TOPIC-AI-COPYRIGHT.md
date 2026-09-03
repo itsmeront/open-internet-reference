@@ -284,7 +284,7 @@ Three questions should be kept separate.
 
 **Remedies and settlements.** Bartz’s $1.5 billion settlement prices past pirated acquisition for a defined class; it does not freeze the fair-use doctrine or release output claims.[^7]
 
-Non-copyright AI suits (chatbot product liability, defamation, privacy) are collected in [AI Litigation Landscape](TOPIC-AI-LITIGATION.md).
+Non-copyright AI suits (chatbot product liability, defamation, user-harm) are collected in [Chatbot Product Liability and User-Harm Litigation](TOPIC-AI-HARM-LITIGATION.md) and inventoried from [AI Litigation Landscape](TOPIC-AI-LITIGATION.md).
 
 ## Relationships
 

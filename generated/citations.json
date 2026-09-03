@@ -2754,6 +2754,141 @@
       ]
     },
     {
+      "source_id": "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+      "source_title": "Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-JOSHI-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "subject": "CASE-FLORIDA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026",
+      "source_title": "Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-FLORIDA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "subject": "CASE-JOSHI-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-DEVELOPER-SOFTWARE-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+      "source_title": "Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "subject": "CASE-FLORIDA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-RAINE-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "subject": "CASE-FLORIDA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "subject": "CASE-FLORIDA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-FLORIDA-V-OPENAI",
+          "record_title": "Florida v. OpenAI Global, LLC",
+          "subject": "CASE-FLORIDA-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-FLORIDA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-FLORIDA-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
       "source_title": "S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)",
       "usages": [
@@ -2911,6 +3046,14 @@
           "usage": "relationship_source"
         },
         {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "record_title": "Garcia v. Character Technologies, Inc.",
+          "subject": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "usage": "relationship_source"
+        },
+        {
           "object": "TOPIC-AI-LITIGATION",
           "predicate": "related_to",
           "record_id": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
@@ -2935,12 +3078,57 @@
           "usage": "relationship_source"
         },
         {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-INTERMEDIARY-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
           "record_id": "TOPIC-AI-LITIGATION",
           "record_title": "AI Litigation Landscape",
           "usage": "page_source"
         },
         {
           "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
           "predicate": "related_to",
           "record_id": "TOPIC-AI-LITIGATION",
           "record_title": "AI Litigation Landscape",
@@ -3887,6 +4075,75 @@
       ]
     },
     {
+      "source_id": "SRC-JOSHI-V-OPENAI-COMPLAINT",
+      "source_title": "Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-JOSHI-V-OPENAI-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "subject": "CASE-JOSHI-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "subject": "CASE-JOSHI-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "subject": "CASE-JOSHI-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-JOSHI-V-OPENAI",
+          "record_title": "Joshi v. OpenAI Foundation",
+          "subject": "CASE-JOSHI-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-JOSHI-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-JOSHI-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-JPML-OPENAI-MDL-3143",
       "source_title": "In re OpenAI, Inc., Copyright Infringement Litigation, JPML Transfer Order (MDL No. 3143)",
       "usages": [
@@ -4586,6 +4843,136 @@
       ]
     },
     {
+      "source_id": "SRC-LYONS-V-OPENAI-COMPLAINT",
+      "source_title": "Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LYONS-V-OPENAI-MTD-2026",
+      "source_title": "Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LYONS-V-OPENAI-MTD-2026",
+          "predicate": "cites",
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-LYONS-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LYONS-V-OPENAI-MTD-2026",
+          "predicate": "cites",
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "subject": "CASE-LYONS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "subject": "CASE-LYONS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "subject": "CASE-LYONS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-LYONS-V-OPENAI",
+          "record_title": "Lyons v. OpenAI Foundation",
+          "subject": "CASE-LYONS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-LYONS-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-LYONS-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
       "source_title": "House Passes Massie Amendment to Strengthen Privacy and Security",
       "usages": [
@@ -4722,6 +5109,30 @@
           "record_title": "Eben Moglen",
           "subject": "PERSON-EBEN-MOGLEN",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-NLR-CHATGPT-JCCP-2026",
+      "source_title": "National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "usage": "page_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
         }
       ]
     },
@@ -5302,6 +5713,80 @@
           "record_id": "PERSON-PAVEL-CHIKOV",
           "record_title": "Pavel Chikov",
           "subject": "PERSON-PAVEL-CHIKOV",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RAINE-V-OPENAI-COMPLAINT",
+      "source_title": "Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RAINE-V-OPENAI-COMPLAINT",
+          "predicate": "cites",
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "subject": "CASE-RAINE-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "CASE-GARCIA-V-CHARACTER-TECHNOLOGIES",
+          "predicate": "related_to",
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "subject": "CASE-RAINE-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "subject": "CASE-RAINE-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "subject": "CASE-RAINE-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-RAINE-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-RAINE-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
           "usage": "relationship_source"
         }
       ]
@@ -6525,6 +7010,48 @@
           "record_title": "Lee Tien",
           "subject": "PERSON-LEE-TIEN",
           "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TJLP-JCCP-5431-2026",
+      "source_title": "Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)",
+      "usages": [
+        {
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-RAINE-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "record_title": "In re ChatGPT Product Liability Cases",
+          "subject": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY",
+          "predicate": "related_to",
+          "record_id": "CASE-RAINE-V-OPENAI",
+          "record_title": "Raine v. OpenAI, Inc.",
+          "subject": "CASE-RAINE-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
         }
       ]
     },
@@ -8120,6 +8647,75 @@
           "record_id": "TOPIC-AI-COPYRIGHT",
           "record_title": "Copyright and Generative AI",
           "subject": "TOPIC-AI-COPYRIGHT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-WALTERS-V-OPENAI-SJ-2025",
+      "source_title": "Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)",
+      "usages": [
+        {
+          "record_id": "CASE-WALTERS-V-OPENAI",
+          "record_title": "Walters v. OpenAI, L.L.C.",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-WALTERS-V-OPENAI-SJ-2025",
+          "predicate": "cites",
+          "record_id": "CASE-WALTERS-V-OPENAI",
+          "record_title": "Walters v. OpenAI, L.L.C.",
+          "subject": "CASE-WALTERS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-HARM-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-WALTERS-V-OPENAI",
+          "record_title": "Walters v. OpenAI, L.L.C.",
+          "subject": "CASE-WALTERS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-AI-LITIGATION",
+          "predicate": "related_to",
+          "record_id": "CASE-WALTERS-V-OPENAI",
+          "record_title": "Walters v. OpenAI, L.L.C.",
+          "subject": "CASE-WALTERS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-FIRST-AMENDMENT",
+          "predicate": "related_to",
+          "record_id": "CASE-WALTERS-V-OPENAI",
+          "record_title": "Walters v. OpenAI, L.L.C.",
+          "subject": "CASE-WALTERS-V-OPENAI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-WALTERS-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-HARM-LITIGATION",
+          "record_title": "Chatbot Product Liability and User-Harm Litigation",
+          "subject": "TOPIC-AI-HARM-LITIGATION",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "usage": "page_source"
+        },
+        {
+          "object": "CASE-WALTERS-V-OPENAI",
+          "predicate": "related_to",
+          "record_id": "TOPIC-AI-LITIGATION",
+          "record_title": "AI Litigation Landscape",
+          "subject": "TOPIC-AI-LITIGATION",
           "usage": "relationship_source"
         }
       ]

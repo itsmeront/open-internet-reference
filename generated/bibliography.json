@@ -3077,6 +3077,122 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of the Attorney General, State of Florida",
+        "publication date": "2026-06-01",
+        "source type": "Official government press release",
+        "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-first-nation-state-led-lawsuit-against-openai-ceo"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FLORIDA-AG-OPENAI-CIVIL-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Florida Attorney General announcement of a first-in-the-nation state civil action against OpenAI and CEO Sam Altman over alleged deceptive practices and user harms.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "public-policy"
+      ],
+      "title": "Florida Attorney General press release announcing civil suit against OpenAI and Sam Altman (June 1, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-FLORIDA-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of the Attorney General, State of Florida",
+        "publication date": "2026-04-21",
+        "source type": "Official government press release",
+        "url": "https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-launches-criminal-investigation-openai-chatgpt"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official announcement that Florida\u2019s Office of Statewide Prosecution opened a criminal investigation into whether OpenAI bears responsibility for ChatGPT\u2019s role in the April 17, 2025 Florida State University shooting.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "public-policy"
+      ],
+      "title": "Florida Attorney General press release announcing criminal investigation of OpenAI (Apr. 21, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-JOSHI-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of the Attorney General, State of Florida, Department of Legal Affairs",
+        "publication date": "2026-06-01",
+        "source type": "State court complaint (PDF)",
+        "url": "https://www.myfloridalegal.com/sites/default/files/openai-filed-stamped-complaint.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-FLORIDA-V-OPENAI-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Florida Attorney General civil complaint against OpenAI entities and Sam Altman alleging FDUTPA violations, negligence, product-liability, fraudulent misrepresentation, and public nuisance.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "digital-rights",
+        "public-policy"
+      ],
+      "title": "Florida v. OpenAI Global, LLC, Complaint (Fla. 10th Cir. Ct. June 1, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-FLORIDA-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-19",
         "author or issuing body": "United States Senate; published via GovInfo",
         "publication date": "2021",
@@ -4286,6 +4402,46 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Vandana Joshi (plaintiff filing)",
+        "publication date": "2026-05-10",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.flnd.542644/gov.uscourts.flnd.542644.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-JOSHI-V-OPENAI-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Wrongful-death and product-liability complaint alleging that ChatGPT assisted planning of the April 17, 2025 Florida State University shooting that killed Tiru Chabba.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "digital-rights",
+        "intermediary-liability"
+      ],
+      "title": "Joshi v. OpenAI Foundation, Complaint (N.D. Fla. May 10, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-JOSHI-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-09-02",
         "archive url": "None recorded",
         "author or issuing body": "United States Judicial Panel on Multidistrict Litigation",
@@ -5048,6 +5204,86 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Emily Lyons (plaintiff filing)",
+        "publication date": "2025-12-29",
+        "source type": "District court complaint (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.1.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-LYONS-V-OPENAI-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Federal wrongful-death complaint by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "digital-rights",
+        "intermediary-liability"
+      ],
+      "title": "Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-LYONS-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "United States District Court for the Northern District of California (Chief Judge Richard Seeborg)",
+        "publication date": "2026-04-13",
+        "source type": "District court order (PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.461878/gov.uscourts.cand.461878.42.0.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-LYONS-V-OPENAI-MTD-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Northern District of California order denying OpenAI\u2019s Colorado River motion to dismiss or stay Lyons in favor of the related Adams state-court action, and reciting the February 2026 California coordination of twelve ChatGPT product-liability cases.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-LYONS-V-OPENAI`",
+        "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Office of Representative Thomas Massie",
@@ -5265,6 +5501,43 @@
       "type": "source",
       "used_for": [
         "`PERSON-EBEN-MOGLEN`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Thomas R. Waskom, Hunton Andrews Kurth (National Law Review)",
+        "publication date": "2026-05-20",
+        "source type": "Secondary legal journalism",
+        "url": "https://natlawreview.com/article/california-superior-court-consolidates-product-liability-actions-against-openai"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-NLR-CHATGPT-JCCP-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Secondary legal journalism describing In re ChatGPT Product Liability Cases, JCCP No. 5431, and situating it among Garcia and Joshi.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence"
+      ],
+      "title": "National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`",
+        "`TOPIC-AI-HARM-LITIGATION`"
       ]
     },
     {
@@ -6209,6 +6482,47 @@
       "used_for": [
         "`ORG-AGORA`",
         "`PERSON-PAVEL-CHIKOV`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Matthew Raine and Maria Raine (plaintiff filing)",
+        "publication date": "2025-08-26",
+        "source type": "State court complaint (PDF)",
+        "url": "https://www.courthousenews.com/wp-content/uploads/2025/08/raine-vs-openai-et-al-complaint.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-RAINE-V-OPENAI-COMPLAINT",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Wrongful-death and product-liability complaint alleging that ChatGPT\u2019s GPT-4o design contributed to the April 11, 2025 suicide of 16-year-old Adam Raine.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence",
+        "digital-rights",
+        "first-amendment"
+      ],
+      "title": "Raine v. OpenAI, Inc., Complaint (Cal. Super. Ct. S.F. Cnty. Aug. 26, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-RAINE-V-OPENAI`",
+        "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {
@@ -7617,6 +7931,44 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Tech Justice Law Project",
+        "publication date": "2026-02-03",
+        "source type": "Counsel case update",
+        "url": "https://techjusticelaw.org/updates/case-update-chatgpt-product-liability-litigation-coordinated-in-california-jccp/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-TJLP-JCCP-5431-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-TJLP-JCCP-5431-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Counsel update stating that California coordinated multiple GPT-4o product-liability actions as ChatGPT Product Liability Cases, JCCP No. 5431, in San Francisco Superior Court.",
+      "tags": [
+        "source",
+        "case",
+        "artificial-intelligence"
+      ],
+      "title": "Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026)",
+      "type": "source",
+      "used_for": [
+        "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`",
+        "`CASE-RAINE-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-19",
         "author or issuing body": "Roger Dingledine, Nick Mathewson, and Paul Syverson",
         "source type": "Technical design paper",
@@ -8926,6 +9278,46 @@
       "used_for": [
         "`PERSON-KIT-WALSH`",
         "`TOPIC-AI-COPYRIGHT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-03",
+        "archive url": "None recorded",
+        "author or issuing body": "Superior Court of Gwinnett County, State of Georgia (Judge Tracie Cason)",
+        "publication date": "2025-05-19",
+        "source type": "State court order (PDF)",
+        "url": "https://lawrpg.org/2025/ai-and-the-law/cases/walters/walters-summary-judgment-order.pdf"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "id": "SRC-WALTERS-V-OPENAI-SJ-2025",
+      "indictment_date": null,
+      "last_verified": "2026-09-03",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Gwinnett County Superior Court order granting OpenAI summary judgment on a ChatGPT hallucination defamation claim.",
+      "tags": [
+        "source",
+        "case",
+        "first-amendment",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Walters v. OpenAI, L.L.C., Order Granting Summary Judgment (Ga. Super. Ct. Gwinnett Cnty. May 19, 2025)",
+      "type": "source",
+      "used_for": [
+        "`CASE-WALTERS-V-OPENAI`",
+        "`TOPIC-AI-HARM-LITIGATION`",
+        "`TOPIC-AI-LITIGATION`"
       ]
     },
     {

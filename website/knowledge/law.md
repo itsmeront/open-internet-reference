@@ -56,7 +56,18 @@ District-court and one appellate holdings. Landscape pages: [Copyright and Gener
 
 ## Pending Cases: AI Chatbot Product Liability
 
-- [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](../generated/source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): **Garcia v. Character Technologies** (M.D. Fla.) — wrongful-death and product-liability claims against a chatbot company; speech defense not established at the pleading stage. Inventory: [AI Litigation Landscape](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md).
+Inventory: [Chatbot Product Liability and User-Harm Litigation](../generated/source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md).
+
+- [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](../generated/source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md): **Garcia v. Character Technologies** (M.D. Fla.) — Character.AI wrongful-death claims; speech defense not established at the pleading stage.
+- [`CASE-RAINE-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): **Raine v. OpenAI** (Cal. Super. Ct.) — first widely filed ChatGPT wrongful-death suit; later coordinated into JCCP 5431.
+- [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](../generated/source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md): **In re ChatGPT Product Liability Cases** (JCCP No. 5431) — California coordination of twelve state ChatGPT harm actions.
+- [`CASE-LYONS-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md): **Lyons v. OpenAI Foundation** (N.D. Cal.) — Soelberg-estate murder-suicide suit; Colorado River stay denied April 13, 2026.
+- [`CASE-JOSHI-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md): **Joshi v. OpenAI Foundation** (N.D. Fla.) — FSU shooting victim’s estate alleges ChatGPT assisted planning.
+- [`CASE-FLORIDA-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md): **Florida v. OpenAI** (Fla. 10th Cir. Ct.) — first state AG civil action against OpenAI and Sam Altman over alleged user harms.
+
+## Decided Cases: AI Chatbot Harm
+
+- [`CASE-WALTERS-V-OPENAI`](../generated/source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md): **Walters v. OpenAI** (Ga. Super. Ct. 2025) — summary judgment for OpenAI on a ChatGPT hallucination defamation claim.
 
 ## Landmark Cases: Sanctions and Cryptocurrency Privacy Software
 
@@ -92,7 +103,7 @@ District-court and one appellate holdings. Landscape pages: [Copyright and Gener
 
 ## Related Topics
 
-Concept and inventory pages live on the [Topics](topics.md) browse page, including [Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md), [Music Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md), [AI Litigation Landscape](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md), [App Store and Operating System Age-Verification Laws](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md), [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
+Concept and inventory pages live on the [Topics](topics.md) browse page, including [Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md), [Music Copyright and Generative AI](../generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md), [AI Litigation Landscape](../generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md), [Chatbot Product Liability and User-Harm Litigation](../generated/source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md), [App Store and Operating System Age-Verification Laws](../generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md), [Documented Proceedings Involving Software Authors and Operators](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md), Tornado Cash, First Amendment, Fourth Amendment, code as speech, fair use and video, DMCA takedown response, safe harbor, intermediary liability, and computer fraud. Related historical events include the [Zimmermann / PGP investigation](../generated/source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md), the [OFAC Blender.io designation](../generated/source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md), the [FISA Amendments Act of 2008 legislative override](../generated/source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md), and the [2026 FSB charges against Pavel Durov / Telegram](../generated/source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md).
 
 ## Why This Matters
 

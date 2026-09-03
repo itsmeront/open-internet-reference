@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 569
+Edge count: 616
 
 ## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `cites` [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
 
@@ -279,12 +279,42 @@ Edge count: 569
 - Declared in: [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
 - Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
 
+## [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `cites` [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
+- Declared in: [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+
+- Declared in: [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-AG-OPENAI-CIVIL-2026`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CIVIL-2026.md)
+
+## [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+
+- Declared in: [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
 ## [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `cites` [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
 - Declared in: [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
 ## [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`CASE-BROWN-V-ENTERTAINMENT-MERCHANTS`](source-docs/knowledge/legal/CASE-BROWN-V-ENTERTAINMENT-MERCHANTS.md)
+
+- Declared in: [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
+## [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 
 - Declared in: [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 - Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
@@ -364,6 +394,31 @@ Edge count: 569
 - Declared in: [`CASE-GOOGLE-V-ORACLE`](source-docs/knowledge/legal/CASE-GOOGLE-V-ORACLE.md)
 - Sources: [`SRC-GOOGLE-ORACLE-JUSTIA`](source-docs/bibliography/legal/SRC-GOOGLE-ORACLE-JUSTIA.md)
 
+## [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `cites` [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+- Declared in: [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+
+- Declared in: [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+
+- Declared in: [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Sources: [`SRC-TJLP-JCCP-5431-2026`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
+
+## [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+- Sources: [`SRC-NLR-CHATGPT-JCCP-2026`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md)
+
 ## [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md) `cites` [`SRC-GOOGLE-GEN-AI-MTD-2025`](source-docs/bibliography/legal/SRC-GOOGLE-GEN-AI-MTD-2025.md)
 
 - Declared in: [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
@@ -403,6 +458,33 @@ Edge count: 569
 
 - Declared in: [`CASE-IN-RE-OPENAI`](source-docs/knowledge/legal/CASE-IN-RE-OPENAI.md)
 - Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
+## [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `cites` [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+
+- Declared in: [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+
+- Declared in: [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Sources: [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+
+## [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+- Declared in: [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+
+Parallel product-liability theory against a chatbot vendor; Garcia is Character.AI, Joshi is ChatGPT and a third-party shooting victim.
+
+## [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 
 ## [`CASE-JUNGER-V-DALEY`](source-docs/knowledge/legal/CASE-JUNGER-V-DALEY.md) `cites` [`SRC-JUNGER-ACLU-OHIO`](source-docs/bibliography/legal/SRC-JUNGER-ACLU-OHIO.md)
 
@@ -494,6 +576,26 @@ Edge count: 569
 - Declared in: [`CASE-LENZ-V-UNIVERSAL`](source-docs/knowledge/legal/CASE-LENZ-V-UNIVERSAL.md)
 - Sources: [`SRC-LENZ-V-UNIVERSAL-CA9`](source-docs/bibliography/legal/SRC-LENZ-V-UNIVERSAL-CA9.md)
 
+## [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `cites` [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+- Declared in: [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+
+- Declared in: [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
 ## [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md) `cites` [`SRC-PERTSEV-ECLI-2024`](source-docs/bibliography/legal/SRC-PERTSEV-ECLI-2024.md)
 
 - Declared in: [`CASE-NL-V-PERTSEV`](source-docs/knowledge/legal/CASE-NL-V-PERTSEV.md)
@@ -578,6 +680,33 @@ Edge count: 569
 
 - Declared in: [`CASE-PERFECT10-V-CCBILL`](source-docs/knowledge/legal/CASE-PERFECT10-V-CCBILL.md)
 - Sources: [`SRC-PERFECT10-V-CCBILL-JUSTIA`](source-docs/bibliography/legal/SRC-PERFECT10-V-CCBILL-JUSTIA.md)
+
+## [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `cites` [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+
+- Declared in: [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+- Declared in: [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+
+Parallel chatbot wrongful-death theory; Garcia is federal Character.AI, Raine is state-court ChatGPT.
+
+## [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+
+- Declared in: [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Sources: [`SRC-TJLP-JCCP-5431-2026`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md)
+
+## [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+
+## [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 
 ## [`CASE-RENO-V-ACLU`](source-docs/knowledge/legal/CASE-RENO-V-ACLU.md) `cites` [`SRC-RENO-V-ACLU-GOVINFO`](source-docs/bibliography/legal/SRC-RENO-V-ACLU-GOVINFO.md)
 
@@ -868,6 +997,26 @@ Edge count: 569
 
 - Declared in: [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 - Sources: [`SRC-VAN-LOON-5TH-CIR-JUSTIA`](source-docs/bibliography/legal/SRC-VAN-LOON-5TH-CIR-JUSTIA.md)
+
+## [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `cites` [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
+- Declared in: [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
+## [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
+## [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
+## [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
 
 ## [`EVENT-FISA-AMENDMENTS-ACT-2008`](source-docs/knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md) `cites` [`SRC-BUSH-FISA-SIGNING-2008`](source-docs/bibliography/legal/SRC-BUSH-FISA-SIGNING-2008.md)
 
@@ -2210,6 +2359,63 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - Sources: [`SRC-SPYDER-V-MEMENTUM-COMPLAINT`](source-docs/bibliography/legal/SRC-SPYDER-V-MEMENTUM-COMPLAINT.md)
 
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026`](source-docs/bibliography/legal/SRC-FLORIDA-AG-OPENAI-CRIMINAL-2026.md)
+
+Adjacent inventory of proceedings against software authors; most pages here are civil product-liability or consumer-protection actions, not criminal developer prosecutions.
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-FIRST-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
+## [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md) `related_to` [`TOPIC-INTERMEDIARY-LIABILITY`](source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
+
+- Declared in: [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
@@ -2245,6 +2451,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-DOW-JONES-V-PERPLEXITY-MTD-2025`](source-docs/bibliography/legal/SRC-DOW-JONES-V-PERPLEXITY-MTD-2025.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-FLORIDA-V-OPENAI`](source-docs/knowledge/legal/CASE-FLORIDA-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-FLORIDA-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-FLORIDA-V-OPENAI-COMPLAINT.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-GARCIA-V-CHARACTER-TECHNOLOGIES`](source-docs/knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
@@ -2260,6 +2471,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-GETTY-V-STABILITY-EWHC-2025`](source-docs/bibliography/legal/SRC-GETTY-V-STABILITY-EWHC-2025.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-GOOGLE-GEN-AI`](source-docs/knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
@@ -2269,6 +2485,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-IN-RE-OPENAI-OUTPUT-MTD-2025`](source-docs/bibliography/legal/SRC-IN-RE-OPENAI-OUTPUT-MTD-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-JOSHI-V-OPENAI`](source-docs/knowledge/legal/CASE-JOSHI-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-JOSHI-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-JOSHI-V-OPENAI-COMPLAINT.md)
 
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-KADREY-V-META`](source-docs/knowledge/legal/CASE-KADREY-V-META.md)
 
@@ -2280,10 +2501,20 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-NYT-V-OPENAI-MTD-2025`](source-docs/bibliography/legal/SRC-NYT-V-OPENAI-MTD-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-RAINE-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-RAINE-V-OPENAI-COMPLAINT.md)
 
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-SONY-V-ANTHROPIC`](source-docs/knowledge/legal/CASE-SONY-V-ANTHROPIC.md)
 
@@ -2315,10 +2546,20 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-UMG-V-UDIO-COMPLAINT`](source-docs/bibliography/legal/SRC-UMG-V-UDIO-COMPLAINT.md)
 
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-WALTERS-V-OPENAI`](source-docs/knowledge/legal/CASE-WALTERS-V-OPENAI.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-WALTERS-V-OPENAI-SJ-2025`](source-docs/bibliography/legal/SRC-WALTERS-V-OPENAI-SJ-2025.md)
+
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 
 - Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Sources: [`SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`](source-docs/bibliography/legal/SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025.md)
+
+## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
+
+- Declared in: [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+- Sources: [`SRC-GARCIA-V-CHARACTER-MTD-2025`](source-docs/bibliography/legal/SRC-GARCIA-V-CHARACTER-MTD-2025.md)
 
 ## [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`TOPIC-AI-MUSIC-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md)
 
