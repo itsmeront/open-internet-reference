@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-09-02 10:11 UTC
+Last updated: 2026-09-03 10:23 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -10,7 +10,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 |--------|-------|
 | Tags declared in TAXONOMY.md | 56 |
 | Tags used in content | 58 |
-| Total tag applications | 1655 |
+| Total tag applications | 1782 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,19 +20,19 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 233 | ✓ |
-| `digital-rights` | 187 | ✓ |
+| `source` | 254 | ✓ |
+| `digital-rights` | 197 | ✓ |
 | `privacy` | 114 | ✓ |
+| `case` | 105 | ✓ |
+| `copyright` | 99 | ✓ |
 | `organization` | 91 | ✓ |
-| `open-source-software` | 78 | ✓ |
+| `open-source-software` | 81 | ✓ |
 | `first-amendment` | 75 | ✓ |
-| `case` | 74 | ✓ |
-| `copyright` | 68 | ✓ |
+| `artificial-intelligence` | 71 | ✓ |
 | `person` | 68 | ⚠️ undeclared |
 | `outreach` | 56 | ⚠️ undeclared |
 | `internet-governance` | 49 | ✓ |
 | `attorney` | 41 | ✓ |
-| `artificial-intelligence` | 40 | ✓ |
 | `cryptography` | 33 | ✓ |
 | `surveillance` | 32 | ✓ |
 | `case-studies` | 27 | ✓ |
