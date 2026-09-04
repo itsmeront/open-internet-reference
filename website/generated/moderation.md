@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-09-03 10:23 UTC
+Last updated: 2026-09-04 10:10 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -11,7 +11,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | Open PRs awaiting review | 0 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 310 |
+| Draft content items | 327 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
@@ -21,32 +21,32 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (310)
+### 📋 Draft (327)
 
 | ID | Title | Path |
 |---|-------|------|
-| `CASE-US-V-SKLYAROV` | United States v. Sklyarov / Elcomsoft | `knowledge/legal/CASE-US-V-SKLYAROV.md` |
-| `STAT-18-USC-2232` | 18 U.S.C. § 2232 — Destruction or Remova | `knowledge/legal/STAT-18-USC-2232.md` |
-| `CASE-BMG-V-ANTHROPIC` | BMG Rights Management (US) LLC v. Anthro | `knowledge/legal/CASE-BMG-V-ANTHROPIC.md` |
+| `TOPIC-KADEMLIA` | Kademlia | `knowledge/technical/TOPIC-KADEMLIA.md` |
+| `TECH-TORNADO-CASH` | Tornado Cash (Ethereum Mixer Protocol) | `knowledge/technical/TECH-TORNADO-CASH.md` |
+| `PROTOCOL-DNS` | Domain Name System | `knowledge/technical/PROTOCOL-DNS.md` |
+| `TECH-HYPHANET` | Hyphanet (formerly Freenet) | `knowledge/technical/TECH-HYPHANET.md` |
+| `TECH-SAMOURAI-WALLET` | Samourai Wallet | `knowledge/technical/TECH-SAMOURAI-WALLET.md` |
+| `TOPIC-ONION-ROUTING` | Onion Routing | `knowledge/technical/TOPIC-ONION-ROUTING.md` |
+| `TOPIC-DECENTRALIZED-MODERATION` | Decentralized Moderation in Censorship-R | `knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md` |
+| `TECH-GRAPHENEOS` | GrapheneOS | `knowledge/technical/TECH-GRAPHENEOS.md` |
+| `PROTOCOL-TLS-13` | Transport Layer Security 1.3 | `knowledge/technical/PROTOCOL-TLS-13.md` |
+| `TECH-PGP` | Pretty Good Privacy (PGP) | `knowledge/technical/TECH-PGP.md` |
+| `TECH-GNUNET` | GNUnet | `knowledge/technical/TECH-GNUNET.md` |
+| `PROTOCOL-TCP` | Transmission Control Protocol | `knowledge/technical/PROTOCOL-TCP.md` |
 | `CASE-CHATRIE-V-US` | Chatrie v. United States | `knowledge/legal/CASE-CHATRIE-V-US.md` |
-| `EVENT-FISA-AMENDMENTS-ACT-2008` | FISA Amendments Act of 2008 (Telecom Imm | `knowledge/legal/EVENT-FISA-AMENDMENTS-ACT-2008.md` |
-| `STAT-CA-DIGITAL-AGE-ASSURANCE-ACT` | California Digital Age Assurance Act (Ci | `knowledge/legal/STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md` |
-| `CASE-DOW-JONES-V-PERPLEXITY` | Dow Jones & Co. v. Perplexity AI, Inc. | `knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md` |
-| `CASE-UMG-V-UDIO` | UMG Recordings, Inc. v. Uncharted Labs,  | `knowledge/legal/CASE-UMG-V-UDIO.md` |
-| `TOPIC-FIRST-AMENDMENT` | First Amendment | `knowledge/legal/TOPIC-FIRST-AMENDMENT.md` |
-| `TOPIC-FOURTH-AMENDMENT` | Fourth Amendment | `knowledge/legal/TOPIC-FOURTH-AMENDMENT.md` |
-| `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
-| `CASE-IN-RE-GOOGLE-GEN-AI` | In re Google Generative AI Copyright Lit | `knowledge/legal/CASE-IN-RE-GOOGLE-GEN-AI.md` |
-| `TOPIC-DEVICE-SEARCH` | Device Search, Seizure, and Anti-Forensi | `knowledge/legal/TOPIC-DEVICE-SEARCH.md` |
-| `TOPIC-AI-MUSIC-COPYRIGHT` | Music Copyright and Generative AI | `knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md` |
-| `TOPIC-CODE-AS-SPEECH` | Code as Speech | `knowledge/legal/TOPIC-CODE-AS-SPEECH.md` |
-| `CASE-PERFECT10-V-CCBILL` | Perfect 10, Inc. v. CCBill LLC | `knowledge/legal/CASE-PERFECT10-V-CCBILL.md` |
-| `CASE-KADREY-V-META` | Kadrey v. Meta Platforms, Inc. | `knowledge/legal/CASE-KADREY-V-META.md` |
-| `CASE-US-V-RODRIGUEZ` | United States v. Rodriguez (Samourai Wal | `knowledge/legal/CASE-US-V-RODRIGUEZ.md` |
 | `CASE-CONCORD-V-ANTHROPIC` | Concord Music Group, Inc. v. Anthropic P | `knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md` |
-| `CASE-SONY-V-ANTHROPIC` | Sony Music Publishing (US) LLC v. Anthro | `knowledge/legal/CASE-SONY-V-ANTHROPIC.md` |
+| `TOPIC-AI-HARM-LITIGATION` | Chatbot Product Liability and User-Harm  | `knowledge/legal/TOPIC-AI-HARM-LITIGATION.md` |
+| `CASE-THOMSON-REUTERS-V-ROSS` | Thomson Reuters Enterprise Centre GmbH v | `knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md` |
+| `CASE-DISNEY-V-MIDJOURNEY` | Disney Enterprises, Inc. v. Midjourney,  | `knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md` |
+| `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
+| `TOPIC-FAIR-USE-VIDEO` | Fair Use and Video | `knowledge/legal/TOPIC-FAIR-USE-VIDEO.md` |
+| `CASE-FLORIDA-V-OPENAI` | Florida v. OpenAI Global, LLC | `knowledge/legal/CASE-FLORIDA-V-OPENAI.md` |
 
-*...and 290 more*
+*...and 307 more*
 
 ## Stale Verifications
 
