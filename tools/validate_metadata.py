@@ -72,6 +72,7 @@ EVENT_DATE_PATTERN = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 TIMELINE_DATE_FIELDS = (
     ("event_date", "historical_event", "Historical event"),
     ("decision_date", "decision", "Decision"),
+    ("filing_date", "filing", "Filing"),
     ("enactment_date", "enactment", "Enactment"),
     ("legislative_override_date", "legislative_override", "Legislative override"),
     ("offense_date", "offense", "Offense"),
@@ -180,8 +181,9 @@ def validate_metadata(
             ValidationError(
                 path,
                 "historical_event pages must include at least one timeline date "
-                "(event_date, decision_date, enactment_date, legislative_override_date, "
-                "offense_date, charge_date, arrest_date, or indictment_date)",
+                "(event_date, decision_date, filing_date, enactment_date, "
+                "legislative_override_date, offense_date, charge_date, arrest_date, "
+                "or indictment_date)",
             )
         )
 

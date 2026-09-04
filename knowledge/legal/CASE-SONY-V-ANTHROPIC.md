@@ -33,6 +33,7 @@ relationships:
     sources:
       - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
 last_verified: "2026-09-02"
+filing_date: "2026-08-28"
 ---
 
 # Sony Music Publishing (US) LLC v. Anthropic PBC

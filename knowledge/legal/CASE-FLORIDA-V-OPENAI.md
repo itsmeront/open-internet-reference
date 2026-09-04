@@ -40,6 +40,7 @@ relationships:
     sources:
       - SRC-FLORIDA-V-OPENAI-COMPLAINT
 last_verified: "2026-09-03"
+filing_date: "2026-06-01"
 ---
 
 # Florida v. OpenAI Global, LLC

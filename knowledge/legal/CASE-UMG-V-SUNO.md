@@ -41,6 +41,8 @@ relationships:
     sources:
       - SRC-UMG-V-SUNO-ANSWER
 last_verified: "2026-08-22"
+filing_date: "2024-06-24"
+decision_date: "2025-12-09"
 ---
 
 # UMG Recordings, Inc. v. Suno, Inc.

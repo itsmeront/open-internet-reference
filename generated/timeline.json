@@ -1,6 +1,14 @@
 {
-  "description": "Generated timeline from typed date fields: event_date, decision_date, enactment_date, legislative_override_date, offense_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
+  "description": "Generated timeline from typed date fields: event_date, decision_date, filing_date, enactment_date, legislative_override_date, offense_date, charge_date, arrest_date, and indictment_date. Document publication and verification dates appear on individual page footers instead.",
   "events": [
+    {
+      "date": "1948",
+      "description": "18 U.S.C. \u00a7 2232 criminalizes knowingly destroying, damaging, or otherwise acting to prevent or impair the government\u2019s lawful authority to take property into custody during a search or seizure, with subsection (a) authorizing up to five years\u2019 imprisonment.",
+      "event_type": "enactment",
+      "record_id": "STAT-18-USC-2232",
+      "record_title": "18 U.S.C. \u00a7 2232 \u2014 Destruction or Removal of Property to Prevent Seizure",
+      "record_type": "statute"
+    },
     {
       "date": "1976",
       "description": "17 U.S.C. \u00a7 107 is the U.S. fair use statute, limiting copyright owners' exclusive rights for purposes such as criticism, comment, news reporting, teaching, scholarship, or research.",
@@ -226,6 +234,22 @@
       "record_type": "case"
     },
     {
+      "date": "2024-06-24",
+      "description": "Pending District of Massachusetts copyright action in which major record labels allege that Suno copied sound recordings to train a generative music service; Suno asserts fair use, and Warner-affiliated plaintiffs later dismissed their claims with prejudice.",
+      "event_type": "filing",
+      "record_id": "CASE-UMG-V-SUNO",
+      "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2024-06-24",
+      "description": "Southern District of New York copyright litigation in which major labels alleged that Udio copied sound recordings to train a generative music service; UMG and Warner later dismissed their claims, and Sony filed a 2026 follow-on action asserting 30,117 additional recordings.",
+      "event_type": "filing",
+      "record_id": "CASE-UMG-V-UDIO",
+      "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+      "record_type": "case"
+    },
+    {
       "date": "2024-08-12",
       "description": "Pending Northern District of California putative class action by visual artists alleging that Stability AI, Midjourney, DeviantArt, and Runway copied registered works to train image generators; the court allowed Copyright Act claims to proceed and dismissed DMCA claims with prejudice.",
       "event_type": "decision",
@@ -322,6 +346,14 @@
       "record_type": "case"
     },
     {
+      "date": "2025-06-11",
+      "description": "Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.",
+      "event_type": "filing",
+      "record_id": "CASE-DISNEY-V-MIDJOURNEY",
+      "record_title": "Disney Enterprises, Inc. v. Midjourney, Inc.",
+      "record_type": "case"
+    },
+    {
       "date": "2025-06-23",
       "description": "Bartz v. Anthropic PBC held that using purchased books to train Claude was transformative fair use but that building a permanent library from pirated copies was not, and the court later approved a $1.5 billion class settlement of the piracy claims.",
       "event_type": "decision",
@@ -359,6 +391,14 @@
       "event_type": "decision",
       "record_id": "CASE-DOW-JONES-V-PERPLEXITY",
       "record_title": "Dow Jones & Co. v. Perplexity AI, Inc.",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-08-26",
+      "description": "Pending San Francisco Superior Court wrongful-death and product-liability action by the parents of 16-year-old Adam Raine, alleging that ChatGPT\u2019s GPT-4o design contributed to his April 11, 2025 suicide; later coordinated into JCCP No. 5431.",
+      "event_type": "filing",
+      "record_id": "CASE-RAINE-V-OPENAI",
+      "record_title": "Raine v. OpenAI, Inc.",
       "record_type": "case"
     },
     {
@@ -402,6 +442,14 @@
       "record_type": "case"
     },
     {
+      "date": "2025-11-05",
+      "description": "Southern District of New York copyright litigation in which major labels alleged that Udio copied sound recordings to train a generative music service; UMG and Warner later dismissed their claims, and Sony filed a 2026 follow-on action asserting 30,117 additional recordings.",
+      "event_type": "decision",
+      "record_id": "CASE-UMG-V-UDIO",
+      "record_title": "UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)",
+      "record_type": "case"
+    },
+    {
       "date": "2025-11-11",
       "description": "First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.",
       "event_type": "decision",
@@ -415,6 +463,22 @@
       "event_type": "indictment",
       "record_id": "CASE-US-V-TUNICK",
       "record_title": "United States v. Tunick",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "Pending Northern District of California declaratory-judgment action asking whether AI-generated \u201cbrainrot\u201d meme characters used in the Roblox game Steal a Brainrot are protected by U.S. copyright.",
+      "event_type": "filing",
+      "record_id": "CASE-SPYDER-V-MEMENTUM",
+      "record_title": "Spyder Games LLC v. Mementum Lab",
+      "record_type": "case"
+    },
+    {
+      "date": "2025-12-09",
+      "description": "Pending District of Massachusetts copyright action in which major record labels allege that Suno copied sound recordings to train a generative music service; Suno asserts fair use, and Warner-affiliated plaintiffs later dismissed their claims with prejudice.",
+      "event_type": "decision",
+      "record_id": "CASE-UMG-V-SUNO",
+      "record_title": "UMG Recordings, Inc. v. Suno, Inc.",
       "record_type": "case"
     },
     {
@@ -434,11 +498,35 @@
       "record_type": "case"
     },
     {
+      "date": "2026-03-17",
+      "description": "Pending Northern District of California publisher action filed March 17, 2026, alleging that Anthropic copied BMG musical compositions to train Claude, torrented some works from pirate libraries, and removed copyright management information.",
+      "event_type": "filing",
+      "record_id": "CASE-BMG-V-ANTHROPIC",
+      "record_title": "BMG Rights Management (US) LLC v. Anthropic PBC",
+      "record_type": "case"
+    },
+    {
       "date": "2026-04-13",
       "description": "Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.",
       "event_type": "decision",
       "record_id": "CASE-LYONS-V-OPENAI",
       "record_title": "Lyons v. OpenAI Foundation",
+      "record_type": "case"
+    },
+    {
+      "date": "2026-05-10",
+      "description": "Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.",
+      "event_type": "filing",
+      "record_id": "CASE-JOSHI-V-OPENAI",
+      "record_title": "Joshi v. OpenAI Foundation",
+      "record_type": "case"
+    },
+    {
+      "date": "2026-06-01",
+      "description": "Pending Florida Attorney General civil enforcement action filed June 1, 2026, in Highlands County against OpenAI entities and Sam Altman, alleging deceptive trade practices, negligence, product-liability, fraud, and public nuisance.",
+      "event_type": "filing",
+      "record_id": "CASE-FLORIDA-V-OPENAI",
+      "record_title": "Florida v. OpenAI Global, LLC",
       "record_type": "case"
     },
     {
@@ -456,7 +544,15 @@
       "record_id": "EVENT-FSB-DUROV-TELEGRAM-2026",
       "record_title": "Russia FSB Charges Against Pavel Durov / Telegram (July 2026)",
       "record_type": "historical_event"
+    },
+    {
+      "date": "2026-08-28",
+      "description": "Pending Northern District of California publisher action filed August 28, 2026, alleging that Anthropic and two founders torrented, scraped, and used copyrighted lyrics and sheet music to train Claude and that outputs reproduce those compositions.",
+      "event_type": "filing",
+      "record_id": "CASE-SONY-V-ANTHROPIC",
+      "record_title": "Sony Music Publishing (US) LLC v. Anthropic PBC",
+      "record_type": "case"
     }
   ],
-  "schema_version": 3
+  "schema_version": 4
 }

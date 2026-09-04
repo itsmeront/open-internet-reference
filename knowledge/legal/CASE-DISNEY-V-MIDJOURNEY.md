@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-DISNEY-V-MIDJOURNEY-COMPLAINT
 last_verified: "2026-09-02"
+filing_date: "2025-06-11"
 ---
 
 # Disney Enterprises, Inc. v. Midjourney, Inc.

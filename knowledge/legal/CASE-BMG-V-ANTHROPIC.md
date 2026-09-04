@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-BMG-V-ANTHROPIC-COMPLAINT
 last_verified: "2026-09-02"
+filing_date: "2026-03-17"
 ---
 
 # BMG Rights Management (US) LLC v. Anthropic PBC
