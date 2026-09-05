@@ -12,6 +12,7 @@ last_verified: null
 # Timeline dates (optional; historical_event needs at least one):
 # event_date: "YYYY-MM-DD"
 # decision_date: "YYYY-MM-DD"
+# filing_date: "YYYY-MM-DD"
 # enactment_date: "YYYY"
 # legislative_override_date: "YYYY-MM-DD"
 # charge_date: "YYYY-MM-DD"

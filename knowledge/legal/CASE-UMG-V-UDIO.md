@@ -41,6 +41,8 @@ relationships:
     sources:
       - SRC-SONY-V-UDIO-2026-COMPLAINT
 last_verified: "2026-08-22"
+filing_date: "2024-06-24"
+decision_date: "2025-11-05"
 ---
 
 # UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)

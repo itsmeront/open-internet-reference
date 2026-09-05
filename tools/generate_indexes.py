@@ -126,6 +126,7 @@ def record_for(path: Path, metadata: dict[str, Any]) -> dict[str, Any]:
         "last_verified": metadata.get("last_verified"),
         "event_date": metadata.get("event_date"),
         "decision_date": metadata.get("decision_date"),
+        "filing_date": metadata.get("filing_date"),
         "enactment_date": metadata.get("enactment_date"),
         "legislative_override_date": metadata.get("legislative_override_date"),
         "offense_date": metadata.get("offense_date"),
@@ -1120,6 +1121,7 @@ def retrieval_payload(records: list[dict[str, Any]]) -> dict[str, Any]:
 TIMELINE_DATE_FIELDS = (
     ("event_date", "historical_event", "Historical event"),
     ("decision_date", "decision", "Decision"),
+    ("filing_date", "filing", "Filing"),
     ("enactment_date", "enactment", "Enactment"),
     ("legislative_override_date", "legislative_override", "Legislative override"),
     ("offense_date", "offense", "Offense"),
@@ -1164,12 +1166,12 @@ def timeline_events(records: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
 def timeline_payload(records: list[dict[str, Any]]) -> dict[str, Any]:
     return {
-        "schema_version": 3,
+        "schema_version": 4,
         "description": (
             "Generated timeline from typed date fields: event_date, decision_date, "
-            "enactment_date, legislative_override_date, offense_date, charge_date, "
-            "arrest_date, and indictment_date. Document publication and verification "
-            "dates appear on individual page footers instead."
+            "filing_date, enactment_date, legislative_override_date, offense_date, "
+            "charge_date, arrest_date, and indictment_date. Document publication and "
+            "verification dates appear on individual page footers instead."
         ),
         "events": timeline_events(records),
     }
@@ -1187,7 +1189,7 @@ def write_timeline_markdown(
         "",
         (
             "This page lists legal and historical milestones in chronological order "
-            "using typed date fields (`decision_date`, `enactment_date`, "
+            "using typed date fields (`decision_date`, `filing_date`, `enactment_date`, "
             "`legislative_override_date`, `offense_date`, `charge_date`, `arrest_date`, "
             "`indictment_date`, and `event_date`). Document publication "
             "and verification dates are shown at the bottom of individual pages. "

@@ -24,6 +24,7 @@ relationships:
     sources:
       - SRC-TUNICK-INDICTMENT-2025
 last_verified: "2026-07-27"
+enactment_date: "1948"
 ---
 
 # 18 U.S.C. § 2232 — Destruction or Removal of Property to Prevent Seizure

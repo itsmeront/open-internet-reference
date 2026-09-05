@@ -24,6 +24,7 @@ relationships:
     sources:
       - SRC-TUNICK-INDICTMENT-2025
 last_verified: "2026-07-27"
+enactment_date: "1948"
 ---
 
 # Generated Source Mirror
@@ -80,4 +81,5 @@ Jurisdiction: U.S. federal criminal statute. Authority level: binding statutory 
 
 ## Document metadata
 
+- Enactment date: `1948`
 - Last verified: `2026-07-27`

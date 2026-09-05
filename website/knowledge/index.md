@@ -19,7 +19,7 @@ The Open Internet Reference knowledge base documents organizations, lawyers, cou
 - [Relationship Visualization](../generated/relationship-graph.md) — interactive graph view.
 - [Used For Index](../generated/used-for.md) — which sources support which pages.
 - [Review Status](../generated/review-status.md) — editorial dashboard showing verification state.
-- [Timeline](../generated/timeline.md) — decisions, enactments, legislative overrides, offenses, charges, arrests, indictments, and historical events.
+- [Timeline](../generated/timeline.md) — decisions, filings, enactments, legislative overrides, offenses, charges, arrests, indictments, and historical events.
 
 ## Standards
 

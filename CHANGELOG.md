@@ -13,7 +13,7 @@ The project uses human-readable milestone entries during the foundation phase. F
 - Clarified that public suggestions are intake leads, not a volunteer line-editing expectation.
 - Rebuilt the public timeline around historical-event `event_date` values instead of document publication and verification dates.
 - Moved document publication, access, and last-verified dates to a **Document metadata** footer on generated source-mirror pages.
-- Expanded the public timeline to include `decision_date`, `enactment_date`, `legislative_override_date`, `offense_date`, `charge_date`, `arrest_date`, and `indictment_date` milestones.
+- Expanded the public timeline to include `decision_date`, `filing_date`, `enactment_date`, `legislative_override_date`, `offense_date`, `charge_date`, `arrest_date`, and `indictment_date` milestones.
 
 ### Added
 

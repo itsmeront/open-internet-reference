@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-SPYDER-V-MEMENTUM-COMPLAINT
 last_verified: "2026-08-22"
+filing_date: "2025-11-26"
 ---
 
 # Spyder Games LLC v. Mementum Lab

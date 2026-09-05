@@ -28,6 +28,7 @@ relationships:
     sources:
       - SRC-BMG-V-ANTHROPIC-COMPLAINT
 last_verified: "2026-09-02"
+filing_date: "2026-03-17"
 ---
 
 # Generated Source Mirror
@@ -87,4 +88,5 @@ Jurisdiction: Northern District of California. Authority level: complaint only. 
 
 ## Document metadata
 
+- Filing date: `2026-03-17`
 - Last verified: `2026-09-02`

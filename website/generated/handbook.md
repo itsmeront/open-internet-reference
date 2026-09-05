@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-09-03 | **Records:** 160 | **Sources referenced:** 260
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-09-04 | **Records:** 160 | **Sources referenced:** 260
 
 <div class="oir-handbook" markdown="1">
 

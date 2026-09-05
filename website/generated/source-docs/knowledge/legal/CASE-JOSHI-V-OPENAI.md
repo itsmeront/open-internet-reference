@@ -40,6 +40,7 @@ relationships:
       - SRC-JOSHI-V-OPENAI-COMPLAINT
     notes: Parallel product-liability theory against a chatbot vendor; Garcia is Character.AI, Joshi is ChatGPT and a third-party shooting victim.
 last_verified: "2026-09-03"
+filing_date: "2026-05-10"
 ---
 
 # Generated Source Mirror
@@ -112,4 +113,5 @@ This page does not state that any defendant is liable.
 
 ## Document metadata
 
+- Filing date: `2026-05-10`
 - Last verified: `2026-09-03`

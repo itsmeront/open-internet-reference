@@ -42,6 +42,7 @@ relationships:
       - SRC-RAINE-V-OPENAI-COMPLAINT
     notes: Parallel chatbot wrongful-death theory; Garcia is federal Character.AI, Raine is state-court ChatGPT.
 last_verified: "2026-09-03"
+filing_date: "2025-08-26"
 ---
 
 # Generated Source Mirror
@@ -118,4 +119,5 @@ This page does not state that any defendant is liable.
 
 ## Document metadata
 
+- Filing date: `2025-08-26`
 - Last verified: `2026-09-03`
