@@ -41,6 +41,8 @@ relationships:
     sources:
       - SRC-SONY-V-UDIO-2026-COMPLAINT
 last_verified: "2026-08-22"
+filing_date: "2024-06-24"
+decision_date: "2025-11-05"
 ---
 
 # Generated Source Mirror
@@ -120,4 +122,6 @@ This page does not treat Audible Magic match counts or stream-ripping allegation
 
 ## Document metadata
 
+- Decision date: `2025-11-05`
+- Filing date: `2024-06-24`
 - Last verified: `2026-08-22`

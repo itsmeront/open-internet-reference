@@ -29,6 +29,7 @@ relationships:
     sources:
       - SRC-DISNEY-V-MIDJOURNEY-COMPLAINT
 last_verified: "2026-09-02"
+filing_date: "2025-06-11"
 ---
 
 # Generated Source Mirror
@@ -98,4 +99,5 @@ This page does not treat complaint exhibits of generated character images as pro
 
 ## Document metadata
 
+- Filing date: `2025-06-11`
 - Last verified: `2026-09-02`

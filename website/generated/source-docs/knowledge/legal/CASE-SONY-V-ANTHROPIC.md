@@ -33,6 +33,7 @@ relationships:
     sources:
       - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
 last_verified: "2026-09-02"
+filing_date: "2026-08-28"
 ---
 
 # Generated Source Mirror
@@ -98,4 +99,5 @@ Naming Amodei and Mann as individual torrenting defendants is a different party 
 
 ## Document metadata
 
+- Filing date: `2026-08-28`
 - Last verified: `2026-09-02`

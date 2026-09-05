@@ -40,6 +40,7 @@ relationships:
     sources:
       - SRC-FLORIDA-V-OPENAI-COMPLAINT
 last_verified: "2026-09-03"
+filing_date: "2026-06-01"
 ---
 
 # Generated Source Mirror
@@ -116,4 +117,5 @@ This page does not state that any defendant is liable.
 
 ## Document metadata
 
+- Filing date: `2026-06-01`
 - Last verified: `2026-09-03`

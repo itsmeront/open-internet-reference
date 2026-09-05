@@ -41,6 +41,7 @@ relationships:
     sources:
       - SRC-SPYDER-V-MEMENTUM-COMPLAINT
 last_verified: "2026-08-22"
+filing_date: "2025-11-26"
 ---
 
 # Generated Source Mirror
@@ -129,4 +130,5 @@ Later docket activity shows the case expanded beyond the original copyright decl
 
 ## Document metadata
 
+- Filing date: `2025-11-26`
 - Last verified: `2026-08-22`

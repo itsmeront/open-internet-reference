@@ -41,6 +41,8 @@ relationships:
     sources:
       - SRC-UMG-V-SUNO-ANSWER
 last_verified: "2026-08-22"
+filing_date: "2024-06-24"
+decision_date: "2025-12-09"
 ---
 
 # Generated Source Mirror
@@ -118,4 +120,6 @@ The Warner stipulation ends those plaintiffs’ claims with prejudice. It does n
 
 ## Document metadata
 
+- Decision date: `2025-12-09`
+- Filing date: `2024-06-24`
 - Last verified: `2026-08-22`
