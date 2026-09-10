@@ -36,3 +36,12 @@ Attorneys and legal scholars known for defending software rights, fighting censo
 ## Legal Scholars
 
 - [`PERSON-LAWRENCE-LESSIG`](../generated/source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md): Lawrence Lessig — Harvard Law professor, Creative Commons founder, author of *Code and Other Laws of Cyberspace* and *Free Culture*.
+
+## AI Law Scholars
+
+Professors who teach and write the law of artificial intelligence, computer crime, and automated systems. Useful when reading the [OpenAI / Hugging Face agent intrusion](../generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) or other generative-AI dockets. They are academic experts; confirm licensure before treating anyone as practicing counsel.
+
+- [`PERSON-RYAN-CALO`](../generated/source-docs/knowledge/people/PERSON-RYAN-CALO.md): Ryan Calo — University of Washington; AI, robotics, and privacy; Senate witness on AI as a privacy accelerant.
+- [`PERSON-MARGOT-KAMINSKI`](../generated/source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): Margot Kaminski — Colorado Law; AI law, data privacy, First Amendment; co-author of a forthcoming AI-law casebook.
+- [`PERSON-PAUL-OHM`](../generated/source-docs/knowledge/people/PERSON-PAUL-OHM.md): Paul Ohm — Georgetown Law; AI and the law; former DOJ Computer Crime and Intellectual Property Section prosecutor (CFAA / ECPA).
+- [`PERSON-ORIN-KERR`](../generated/source-docs/knowledge/people/PERSON-ORIN-KERR.md): Orin Kerr — GW Law; leading CFAA scholar; included here because agent-intrusion facts are often framed as unauthorized access.

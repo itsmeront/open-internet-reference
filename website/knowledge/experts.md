@@ -1,8 +1,8 @@
 # Technical Experts
 
-Engineers, cryptographers, professors, and interdisciplinary scholars who frequently explain how the Internet and security systems actually work — useful for expert consultation during litigation, regulatory proceedings, or technical due diligence.
+Engineers, cryptographers, professors, and interdisciplinary scholars who frequently explain how the Internet, security systems, and artificial intelligence actually work — useful for expert consultation during litigation, regulatory proceedings, or technical due diligence.
 
-These are **not attorneys** (though some hold law degrees and teach in law schools). Pair them with counsel from the [Lawyers](lawyers.md) page and organizations from [Organizations](organizations.md).
+These are **not attorneys** (though some hold law degrees and teach in law schools). Pair them with counsel from the [Lawyers](lawyers.md) page and organizations from [Organizations](organizations.md). For the July 2026 OpenAI / Hugging Face agent intrusion, start with the [incident record](../generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) and the AI section below.
 
 ## Academic Professors
 
@@ -17,12 +17,40 @@ University faculty and distinguished visiting professors whose scholarship direc
 - [`PERSON-MATT-BLAZE`](../generated/source-docs/knowledge/people/PERSON-MATT-BLAZE.md): Matt Blaze — McDevitt Chair of Computer Science and Law at Georgetown; cryptography, secure systems, congressional cybersecurity testimony.
 - [`PERSON-DANAH-BOYD`](../generated/source-docs/knowledge/people/PERSON-DANAH-BOYD.md): danah boyd — Distinguished Visiting Professor at Georgetown; Microsoft Research partner researcher; social media, algorithmic bias, and teen online behavior.
 - [`PERSON-JENNIFER-GRANICK`](../generated/source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md): Jennifer Granick — former Stanford CIS surveillance-law director; ACLU counsel; encryption policy and Fourth Amendment in networked systems.
+- [`PERSON-RYAN-CALO`](../generated/source-docs/knowledge/people/PERSON-RYAN-CALO.md): Ryan Calo — Virginia and Prentice Bloedel Professor at the University of Washington; AI, robotics, and privacy law; four-time Senate witness.
+- [`PERSON-MARGOT-KAMINSKI`](../generated/source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): Margot Kaminski — Moses Lasky Professor at Colorado Law; AI law, data privacy, and First Amendment; co-author of a forthcoming AI-law casebook.
+- [`PERSON-PAUL-OHM`](../generated/source-docs/knowledge/people/PERSON-PAUL-OHM.md): Paul Ohm — Georgetown Law professor; AI and the law, computer crime, and privacy; former DOJ CCIPS prosecutor.
 
 ### Computer Science and Engineering
 
 - [`PERSON-RON-RIVEST`](../generated/source-docs/knowledge/people/PERSON-RON-RIVEST.md): Ron Rivest — MIT Institute Professor; RSA co-inventor; cryptography, hash functions, and election security.
 - [`PERSON-TIM-BERNERS-LEE`](../generated/source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md): Tim Berners-Lee — WWW inventor; MIT and Oxford professor; open web standards and data sovereignty (Solid).
 - [`PERSON-ALAN-KAY`](../generated/source-docs/knowledge/people/PERSON-ALAN-KAY.md): Alan Kay — Turing Award laureate; Smalltalk and object-oriented programming pioneer; software architecture and GUI prior art.
+- [`PERSON-STUART-RUSSELL`](../generated/source-docs/knowledge/people/PERSON-STUART-RUSSELL.md): Stuart Russell — UC Berkeley; Center for Human-Compatible AI director; co-author of *Artificial Intelligence: A Modern Approach*; AI control and alignment.
+- [`PERSON-YOSHUA-BENGIO`](../generated/source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md): Yoshua Bengio — Université de Montréal / Mila; 2018 Turing Award (deep learning); public work on catastrophic AI risk.
+
+## Artificial Intelligence
+
+Researchers who explain model capabilities, agent behavior, and governance of frontier systems — useful when a matter involves autonomous agents, evaluation-time cyber capability, or AI risk oversight. Pair with the [OpenAI / Hugging Face incident](../generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md).
+
+### Science and critique
+
+- [`PERSON-GARY-MARCUS`](../generated/source-docs/knowledge/people/PERSON-GARY-MARCUS.md): Gary Marcus — NYU Professor Emeritus of Psychology; cognitive scientist and AI critic; 2023 Senate AI witness; August 2026 analysis of the Hugging Face incident.
+- [`PERSON-STUART-RUSSELL`](../generated/source-docs/knowledge/people/PERSON-STUART-RUSSELL.md): Stuart Russell — Berkeley CHAI director; alignment and the problem of control.
+- [`PERSON-YOSHUA-BENGIO`](../generated/source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md): Yoshua Bengio — Mila founder; Turing Award; international AI-safety scientific advice.
+
+### Governance
+
+- [`PERSON-HELEN-TONER`](../generated/source-docs/knowledge/people/PERSON-HELEN-TONER.md): Helen Toner — Executive Director, Georgetown CSET; AI policy, national security, and congressional testimony.
+
+### AI law (professors)
+
+These scholars also appear on the [Lawyers](lawyers.md) page. They teach and write AI law; they are not a default trial-counsel list.
+
+- [`PERSON-RYAN-CALO`](../generated/source-docs/knowledge/people/PERSON-RYAN-CALO.md): Ryan Calo — UW; robotics, privacy, and AI policy.
+- [`PERSON-MARGOT-KAMINSKI`](../generated/source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): Margot Kaminski — Colorado Law; comparative AI law and privacy.
+- [`PERSON-PAUL-OHM`](../generated/source-docs/knowledge/people/PERSON-PAUL-OHM.md): Paul Ohm — Georgetown Law; computer crime and AI-law casebook co-author.
+- [`PERSON-ORIN-KERR`](../generated/source-docs/knowledge/people/PERSON-ORIN-KERR.md): Orin Kerr — GW Law; CFAA and unauthorized-access doctrine (relevant if an agent intrusion is framed as a federal computer crime).
 
 ## Historians
 
@@ -57,10 +85,12 @@ Independent scholars who reconstruct timelines, industry norms, and policy evolu
 | Explain encryption feasibility or key management | Cryptography experts (Rivest, Diffie, Zimmermann, Schneier, Blaze) |
 | Explain CFAA scope or computer crime doctrine | Orin Kerr |
 | Explain platform liability, social media, or AI bias | Zittrain, danah boyd, Lessig |
+| Explain frontier-AI agents, eval-time cyber capability, or the Hugging Face incident | Marcus, Russell, Bengio, Toner; incident record |
+| Explain AI law, automated systems, or comparative AI regulation | Calo, Kaminski, Ohm |
 | Explain copyleft, GPL, or open source licensing | Moglen |
 | Explain surveillance law or encryption policy | Granick, Blaze, Schneier |
 | Establish historical industry norms or timelines | Historians (Abbate, Haigh, Russell) |
-| Explain standards governance and open-systems history | Russell; pair with Cerf, Kahn, Reed |
+| Explain standards governance and open-systems history | Andrew Russell; pair with Cerf, Kahn, Reed |
 | Explain ARPANET-to-Internet evolution (archival) | Abbate; pair with Cerf, Kahn, Weinstein |
 | Explain software industry practice at a given date | Haigh |
 | File motions, represent you in court, privilege | [Lawyers](lawyers.md) |
