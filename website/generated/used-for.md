@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 215
+Term count: 224
 
 ## `CASE-ANDERSEN-V-STABILITY` { #case-andersen-v-stability }
 
@@ -310,6 +310,16 @@ Term count: 215
 
 - [`SRC-TREASURY-BLENDER-2022: Treasury Issues First Sanctions on a Virtual Currency Mixer — Blender.io (May 6, 2022)`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 
+## `EVENT-OPENAI-HUGGING-FACE-2026` { #event-openai-hugging-face-2026 }
+
+- [`SRC-BLUMENTHAL-OPENAI-HF-LETTER: Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+- [`SRC-HF-AGENT-INTRUSION-TIMELINE: Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026)`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md)
+- [`SRC-HF-SECURITY-INCIDENT-JULY-2026: Hugging Face — Security incident disclosure (July 2026)`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
+- [`SRC-MARCUS-HF-LESSONS: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+- [`SRC-METR-HF-INVESTIGATION: METR — Independent investigation of the OpenAI / Hugging Face hacking incident`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+- [`SRC-OPENAI-HF-INCIDENT-JULY-2026: OpenAI — Hugging Face model-evaluation security incident (July 21, 2026)`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md)
+- [`SRC-OPENAI-HF-ROAD-AHEAD: OpenAI — The Hugging Face incident and the road ahead (August 26, 2026)`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
+
 ## `EVENT-ZIMMERMANN-PGP-INVESTIGATION` { #event-zimmermann-pgp-investigation }
 
 - [`SRC-ZIMMERMANN-DECLINATION-1996: Phil Zimmermann — PGP Investigation Closed (Jan. 1996 Declination Text)`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
@@ -491,9 +501,20 @@ Term count: 215
 
 - [`SRC-BHANDARI-ACLU: Esha Bhandari ACLU Staff Biography`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 
+## `PERSON-GARY-MARCUS` { #person-gary-marcus }
+
+- [`SRC-BLUMENTHAL-AI-HEARING-2023: Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+- [`SRC-MARCUS-HF-LESSONS: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+- [`SRC-MARCUS-NYU: NYU Department of Psychology faculty list — Gary Marcus`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
+- [`SRC-METR-HF-INVESTIGATION: METR — Independent investigation of the OpenAI / Hugging Face hacking incident`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+
 ## `PERSON-HEATHER-MEEKER` { #person-heather-meeker }
 
 - [`SRC-MEEKER-ABOUT: Heather Meeker About Page`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
+
+## `PERSON-HELEN-TONER` { #person-helen-toner }
+
+- [`SRC-TONER-CSET: Helen Toner — Center for Security and Emerging Technology staff profile`](source-docs/bibliography/people/SRC-TONER-CSET.md)
 
 ## `PERSON-HENRY-FONDA` { #person-henry-fonda }
 
@@ -549,6 +570,11 @@ Term count: 215
 
 - [`SRC-TIEN-EFF: Lee Tien EFF Staff Biography`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
 
+## `PERSON-MARGOT-KAMINSKI` { #person-margot-kaminski }
+
+- [`SRC-AILA-CASEBOOK: Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+- [`SRC-KAMINSKI-BERKMAN: Margot Kaminski — Berkman Klein Center profile`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
+
 ## `PERSON-MATT-BLAZE` { #person-matt-blaze }
 
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
@@ -574,6 +600,11 @@ Term count: 215
 ## `PERSON-PAMELA-CHESTEK` { #person-pamela-chestek }
 
 - [`SRC-CHESTEK-ABOUT: Pamela Chestek About Page`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
+
+## `PERSON-PAUL-OHM` { #person-paul-ohm }
+
+- [`SRC-AILA-CASEBOOK: Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+- [`SRC-OHM-GEORGETOWN: Paul Ohm — Georgetown Law faculty profile`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
 
 ## `PERSON-PAUL-VIXIE` { #person-paul-vixie }
 
@@ -609,6 +640,12 @@ Term count: 215
 - [`SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS: Wyden and Paul Release Joint Amendments, Call For Votes On Proposals to Expand Surveillance Reforms`](source-docs/bibliography/people/SRC-WYDEN-PAUL-SURVEILLANCE-AMENDMENTS.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
+## `PERSON-RICHARD-BLUMENTHAL` { #person-richard-blumenthal }
+
+- [`SRC-BLUMENTHAL-AI-HEARING-2023: Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+- [`SRC-BLUMENTHAL-BIO: Biography \| U.S. Senator Richard Blumenthal`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
+- [`SRC-BLUMENTHAL-OPENAI-HF-LETTER: Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
 ## `PERSON-RO-KHANNA` { #person-ro-khanna }
 
 - [`SRC-KHANNA-INTERNET-BILL: Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
@@ -633,6 +670,14 @@ Term count: 215
 - [`SRC-WYDEN-SECTION-230: Wyden Remarks at Section 230 Briefing Hosted by EFF`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md)
 - [`SRC-WYDEN-USA-RIGHTS-ACT: Bipartisan Coalition Introduces USA RIGHTS Act to Reform Secretive Warrantless Spy Program`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
+## `PERSON-RYAN-CALO` { #person-ryan-calo }
+
+- [`SRC-CALO-UW: Ryan Calo — University of Washington School of Law faculty page`](source-docs/bibliography/people/SRC-CALO-UW.md)
+
+## `PERSON-STUART-RUSSELL` { #person-stuart-russell }
+
+- [`SRC-RUSSELL-BERKELEY: Stuart J. Russell — UC Berkeley EECS faculty page`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
+
 ## `PERSON-THOMAS-HAIGH` { #person-thomas-haigh }
 
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
@@ -652,6 +697,10 @@ Term count: 215
 ## `PERSON-WHITFIELD-DIFFIE` { #person-whitfield-diffie }
 
 - [`SRC-DIFFIE-CISAC: Whitfield Diffie Stanford CISAC Profile`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+
+## `PERSON-YOSHUA-BENGIO` { #person-yoshua-bengio }
+
+- [`SRC-BENGIO-MILA: Yoshua Bengio — Mila directory profile`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
 
 ## `PERSON-ZOE-LOFGREN` { #person-zoe-lofgren }
 

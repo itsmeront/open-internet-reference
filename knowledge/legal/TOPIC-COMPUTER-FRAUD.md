@@ -12,6 +12,7 @@ sources:
   - SRC-USC-18-1030-LII
   - SRC-USC-18-1030-GOVINFO
   - SRC-VAN-BUREN-LII
+  - SRC-BLUMENTHAL-OPENAI-HF-LETTER
 relationships:
   - subject: TOPIC-COMPUTER-FRAUD
     predicate: cites
@@ -28,7 +29,13 @@ relationships:
     object: CASE-VAN-BUREN-V-US
     sources:
       - SRC-VAN-BUREN-LII
-last_verified: "2026-06-19"
+  - subject: TOPIC-COMPUTER-FRAUD
+    predicate: related_to
+    object: EVENT-OPENAI-HUGGING-FACE-2026
+    sources:
+      - SRC-BLUMENTHAL-OPENAI-HF-LETTER
+    notes: Oversight letter characterizes the Hugging Face intrusion as possibly a federal crime; not a charge or holding under § 1030.
+last_verified: "2026-09-10"
 ---
 
 # Computer Fraud and Abuse
@@ -60,6 +67,7 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 - `TOPIC-COMPUTER-FRAUD` cites `SRC-USC-18-1030-GOVINFO`.
 - `TOPIC-COMPUTER-FRAUD` related_to `STAT-CFAA-1030`.
 - `TOPIC-COMPUTER-FRAUD` related_to `CASE-VAN-BUREN-V-US`.
+- `TOPIC-COMPUTER-FRAUD` related_to `EVENT-OPENAI-HUGGING-FACE-2026`.
 
 ## Sources
 
@@ -69,9 +77,11 @@ Legal analysis has not yet been drafted. Future work should compare statutory te
 Additional sources (not yet cited in footnotes):
 
 - `SRC-USC-18-1030-GOVINFO`: 18 U.S.C. § 1030 (GovInfo).
+- `SRC-BLUMENTHAL-OPENAI-HF-LETTER`: Blumenthal letter to OpenAI on the Hugging Face incident (oversight, not a charging instrument).
 
 ## Research Debt
 
 - Add case law beyond `CASE-VAN-BUREN-V-US` interpreting unauthorized access and scope of § 1030.
 - Distinguish criminal computer fraud statutes from civil or state-law regimes.
 - Review per-fact footnote-to-source mapping; multiple sources are cited on this page.
+- Track whether the July 2026 OpenAI / Hugging Face agent intrusion produces any charging instrument or civil CFAA theory; current link is an oversight letter, not a case.

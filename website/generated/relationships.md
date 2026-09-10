@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 616
+Edge count: 645
 
 ## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `cites` [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
 
@@ -1073,6 +1073,43 @@ Parallel chatbot wrongful-death theory; Garcia is federal Character.AI, Raine is
 - Declared in: [`EVENT-OFAC-BLENDER-2022`](source-docs/knowledge/legal/EVENT-OFAC-BLENDER-2022.md)
 - Sources: [`SRC-TREASURY-BLENDER-2022`](source-docs/bibliography/legal/SRC-TREASURY-BLENDER-2022.md)
 
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+Blumenthal's letter says the operation could be considered a federal crime; that is oversight rhetoric, not a charge or adjudication under § 1030.
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
 ## [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md) `cites` [`SRC-ZIMMERMANN-DECLINATION-1996`](source-docs/bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md)
 
 - Declared in: [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md)
@@ -1572,10 +1609,40 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-ESHA-BHANDARI`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
 - Sources: [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md)
 
+## [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+- Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+## [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+- Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Sources: [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+## [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
+
+- Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Sources: [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
+
+## [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Sources: [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+## [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+- Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
 ## [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md) `cites` [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 
 - Declared in: [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 - Sources: [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
+
+## [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md) `cites` [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md)
+
+- Declared in: [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md)
+- Sources: [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md)
 
 ## [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md) `affiliated_with` [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 
@@ -1722,6 +1789,21 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-LEE-TIEN`](source-docs/knowledge/people/PERSON-LEE-TIEN.md)
 - Sources: [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md)
 
+## [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `cites` [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+- Declared in: [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Sources: [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+## [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `cites` [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
+
+- Declared in: [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Sources: [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
+
+## [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `related_to` [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+
+- Declared in: [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Sources: [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
 ## [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) `cites` [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 
 - Declared in: [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
@@ -1781,6 +1863,26 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-PAMELA-CHESTEK`](source-docs/knowledge/people/PERSON-PAMELA-CHESTEK.md)
 - Sources: [`SRC-CHESTEK-ABOUT`](source-docs/bibliography/people/SRC-CHESTEK-ABOUT.md)
+
+## [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `cites` [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+- Declared in: [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Sources: [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+## [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `cites` [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
+
+- Declared in: [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Sources: [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
+
+## [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `related_to` [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+
+- Declared in: [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Sources: [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+## [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `related_to` [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+
+- Declared in: [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Sources: [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
 
 ## [`PERSON-PAUL-VIXIE`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md) `cites` [`SRC-VIXIE-IHOF`](source-docs/bibliography/people/SRC-VIXIE-IHOF.md)
 
@@ -1869,6 +1971,31 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - Sources: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
+
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
 ## [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) `cites` [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 
 - Declared in: [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md)
@@ -1909,6 +2036,16 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Sources: [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 
+## [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md) `cites` [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md)
+
+- Declared in: [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md)
+- Sources: [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md)
+
+## [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md) `cites` [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
+
+- Declared in: [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+- Sources: [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
+
 ## [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) `cites` [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
 - Declared in: [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
@@ -1933,6 +2070,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`PERSON-WHITFIELD-DIFFIE`](source-docs/knowledge/people/PERSON-WHITFIELD-DIFFIE.md)
 - Sources: [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
+
+## [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md) `cites` [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
+
+- Declared in: [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+- Sources: [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
 
 ## [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) `cites` [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md)
 
@@ -2732,6 +2874,13 @@ Adjacent inventory of proceedings against software authors; Garcia is civil prod
 
 - Declared in: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Sources: [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+
+## [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+Oversight letter characterizes the Hugging Face intrusion as possibly a federal crime; not a charge or holding under § 1030.
 
 ## [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) `related_to` [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
 

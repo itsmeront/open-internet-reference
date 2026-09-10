@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 160
+Record count: 169
 
 ## `CASE-ANDERSEN-V-STABILITY`: Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY }
 
@@ -454,6 +454,15 @@ On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilit
 
 On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 — Treasury’s first sanctions action against a virtual currency mixer — citing laundering of proceeds linked to DPRK cyber activity.
 
+## `EVENT-OPENAI-HUGGING-FACE-2026`: OpenAI / Hugging Face Agent Intrusion (July 2026) { #EVENT-OPENAI-HUGGING-FACE-2026 }
+
+- Type: `historical_event`
+- Status: `draft`
+- Path: [`knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Tags: historical-event, artificial-intelligence, computer-crime, case-studies, digital-rights, public-policy
+
+In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+
 ## `EVENT-ZIMMERMANN-PGP-INVESTIGATION`: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION }
 
 - Type: `historical_event`
@@ -796,6 +805,15 @@ Eben Moglen is a professor of law at Columbia Law School and founding director o
 
 Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project and lead counsel in Sandvig v. Barr, a First Amendment challenge to CFAA restrictions on online discrimination research.
 
+## `PERSON-GARY-MARCUS`: Gary Marcus { #PERSON-GARY-MARCUS }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-GARY-MARCUS.md`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Tags: person, artificial-intelligence, researcher, public-policy
+
+Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.
+
 ## `PERSON-HEATHER-MEEKER`: Heather Meeker { #PERSON-HEATHER-MEEKER }
 
 - Type: `attorney`
@@ -804,6 +822,15 @@ Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project an
 - Tags: attorney, open-source-software
 
 Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
+
+## `PERSON-HELEN-TONER`: Helen Toner { #PERSON-HELEN-TONER }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-HELEN-TONER.md`](source-docs/knowledge/people/PERSON-HELEN-TONER.md)
+- Tags: person, artificial-intelligence, public-policy, internet-governance, researcher
+
+Helen Toner is Executive Director of Georgetown's Center for Security and Emerging Technology, an AI-governance researcher who has advised policymakers on AI strategy and testified before congressional committees.
 
 ## `PERSON-HENRY-FONDA`: Henry Fonda { #PERSON-HENRY-FONDA }
 
@@ -913,6 +940,15 @@ Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard 
 
 Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Electronic Frontier Foundation, leading EFF's legislative advocacy on privacy, surveillance, and internet policy.
 
+## `PERSON-MARGOT-KAMINSKI`: Margot Kaminski { #PERSON-MARGOT-KAMINSKI }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-MARGOT-KAMINSKI.md`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Tags: person, artificial-intelligence, privacy, first-amendment, digital-rights
+
+Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.
+
 ## `PERSON-MATT-BLAZE`: Matt Blaze { #PERSON-MATT-BLAZE }
 
 - Type: `person`
@@ -967,6 +1003,15 @@ Orin Kerr is the Fred C. Stevenson Research Professor at George Washington Unive
 
 Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
 
+## `PERSON-PAUL-OHM`: Paul Ohm { #PERSON-PAUL-OHM }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-PAUL-OHM.md`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Tags: person, artificial-intelligence, computer-crime, privacy, fourth-amendment, digital-rights
+
+Paul Ohm is a Professor of Law at Georgetown University Law Center whose work spans artificial intelligence and the law, computer crime, privacy, and surveillance, including prior service in DOJ's Computer Crime and Intellectual Property Section.
+
 ## `PERSON-PAUL-VIXIE`: Paul Vixie { #PERSON-PAUL-VIXIE }
 
 - Type: `person`
@@ -1012,6 +1057,15 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 
 Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
 
+## `PERSON-RICHARD-BLUMENTHAL`: Richard Blumenthal { #PERSON-RICHARD-BLUMENTHAL }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-RICHARD-BLUMENTHAL.md`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Tags: person, public-policy, artificial-intelligence, digital-rights, computer-crime
+
+Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.
+
 ## `PERSON-RO-KHANNA`: Ro Khanna { #PERSON-RO-KHANNA }
 
 - Type: `person`
@@ -1047,6 +1101,24 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 - Tags: person, internet-governance, digital-rights, privacy, first-amendment
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
+
+## `PERSON-RYAN-CALO`: Ryan Calo { #PERSON-RYAN-CALO }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-RYAN-CALO.md`](source-docs/knowledge/people/PERSON-RYAN-CALO.md)
+- Tags: person, artificial-intelligence, privacy, digital-rights, public-policy
+
+Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Washington, a co-founder of the UW Tech Policy Lab, and a leading academic on law and artificial intelligence who has testified before the U.S. Senate.
+
+## `PERSON-STUART-RUSSELL`: Stuart Russell { #PERSON-STUART-RUSSELL }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-STUART-RUSSELL.md`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+- Tags: person, artificial-intelligence, researcher, public-policy
+
+Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.
 
 ## `PERSON-THOMAS-HAIGH`: Thomas Haigh { #PERSON-THOMAS-HAIGH }
 
@@ -1092,6 +1164,15 @@ Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, 
 - Tags: person, cryptography, digital-rights, privacy
 
 Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.
+
+## `PERSON-YOSHUA-BENGIO`: Yoshua Bengio { #PERSON-YOSHUA-BENGIO }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-YOSHUA-BENGIO.md`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+- Tags: person, artificial-intelligence, researcher, public-policy
+
+Yoshua Bengio is a full professor at Université de Montréal, founder of Mila – Quebec Artificial Intelligence Institute, and a 2018 A.M. Turing Award laureate known for deep-learning research and for public work on mitigating catastrophic risks from future AI systems.
 
 ## `PERSON-ZOE-LOFGREN`: Zoe Lofgren { #PERSON-ZOE-LOFGREN }
 

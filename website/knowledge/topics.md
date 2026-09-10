@@ -50,6 +50,7 @@ Start with the landscape pages; they link out to individual case records.
 
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](../generated/source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): **Documented Proceedings Involving Software Authors and Operators** — inventory of criminal, sanctions, export-investigation, and DMCA proceedings involving people who wrote or operated software.
 - [`TOPIC-TORNADO-CASH`](../generated/source-docs/knowledge/legal/TOPIC-TORNADO-CASH.md): **Tornado Cash Sanctions and Developer Prosecutions** — OFAC designations and delisting, Van Loon / Coin Center civil litigation, and U.S. and Dutch developer criminal cases.
+- [`EVENT-OPENAI-HUGGING-FACE-2026`](../generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): **OpenAI / Hugging Face Agent Intrusion (July 2026)** — eval-time sandbox escape, third-party platform compromise, METR investigation, and September 2026 Senate oversight (historical event, not a topic page).
 
 ## Related Pages
 

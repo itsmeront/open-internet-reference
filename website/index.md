@@ -33,6 +33,14 @@ Attorneys and legal scholars known for fighting censorship and protecting softwa
 - **ACLU attorneys** — [Jennifer Granick](generated/source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) (surveillance and cybersecurity)
 - **Open source legal** — [Eben Moglen](generated/source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) (SFLC founder, GPL v3 drafter)
 - **Legal scholars** — [Lawrence Lessig](generated/source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) (Creative Commons, free culture)
+- **AI law scholars** — [Ryan Calo](generated/source-docs/knowledge/people/PERSON-RYAN-CALO.md), [Margot Kaminski](generated/source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md), [Paul Ohm](generated/source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+
+### [Technical Experts](knowledge/experts.md)
+
+Engineers, cryptographers, and AI scholars who explain how systems actually work:
+
+- **Internet architecture** — [Vint Cerf](generated/source-docs/knowledge/people/PERSON-VINT-CERF.md), [Ron Rivest](generated/source-docs/knowledge/people/PERSON-RON-RIVEST.md), [Matt Blaze](generated/source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+- **Artificial intelligence** — [Gary Marcus](generated/source-docs/knowledge/people/PERSON-GARY-MARCUS.md), [Stuart Russell](generated/source-docs/knowledge/people/PERSON-STUART-RUSSELL.md), [Yoshua Bengio](generated/source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md), [Helen Toner](generated/source-docs/knowledge/people/PERSON-HELEN-TONER.md)
 
 ### [Policymakers](knowledge/policymakers.md)
 
@@ -42,6 +50,7 @@ Members of Congress actively legislating on digital rights, privacy, encryption,
 - **CFAA reform** — [Zoe Lofgren](generated/source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) (Aaron's Law — named for Aaron Swartz)
 - **Encryption and standards reform** — [Thomas Massie](generated/source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) (anti-backdoor amendments with Lofgren)
 - **Internet governance** — [Ro Khanna](generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md) (Internet Bill of Rights, endorsed by Tim Berners-Lee)
+- **AI oversight** — [Richard Blumenthal](generated/source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) (2023 AI hearing; September 2026 letter to OpenAI on the Hugging Face incident)
 
 ### [Law](knowledge/law.md)
 
@@ -63,6 +72,7 @@ Concept and case-study pages (`TOPIC-*`), separate from court opinions and statu
 - **Constitutional doctrine** — [First Amendment](generated/source-docs/knowledge/legal/TOPIC-FIRST-AMENDMENT.md), [Fourth Amendment](generated/source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md), [Code as Speech](generated/source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md), [Device search and anti-forensics](generated/source-docs/knowledge/legal/TOPIC-DEVICE-SEARCH.md)
 - **Copyright and platforms** — [Fair use and video](generated/source-docs/knowledge/legal/TOPIC-FAIR-USE-VIDEO.md), [DMCA takedown response](generated/source-docs/knowledge/legal/TOPIC-DMCA-TAKEDOWN-RESPONSE.md), [Safe Harbor](generated/source-docs/knowledge/legal/TOPIC-SAFE-HARBOR.md), [Intermediary Liability](generated/source-docs/knowledge/legal/TOPIC-INTERMEDIARY-LIABILITY.md)
 - **Copyright and generative AI** — [Copyright and Generative AI](generated/source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md), [Music copyright and generative AI](generated/source-docs/knowledge/legal/TOPIC-AI-MUSIC-COPYRIGHT.md), [AI litigation landscape](generated/source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md), [Brain rot and meme characters](generated/source-docs/knowledge/legal/TOPIC-BRAIN-ROT.md)
+- **Frontier AI incidents** — [OpenAI / Hugging Face agent intrusion (July 2026)](generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 - **Computer crime and access** — [Computer Fraud and Abuse](generated/source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - **Encryption and access** — [End-to-end encryption and compelled access](generated/source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
 - **Age verification** — [App store and OS age-verification laws](generated/source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)

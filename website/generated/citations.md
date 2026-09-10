@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 263
+Source count: 280
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -24,6 +24,15 @@ Source count: 263
 
 - Page source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 - Relationship source in [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md): [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md) `cites` [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md)
+
+## [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md): Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst
+
+- Page source in [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Relationship source in [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `cites` [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+- Relationship source in [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `related_to` [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Page source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Relationship source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md): [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `cites` [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+- Relationship source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md): [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `related_to` [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
 
 ## [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md): Alabama HB 161 Enrolled — App Store Accountability Act
 
@@ -94,6 +103,11 @@ Source count: 263
 - Page source in [`EVENT-FSB-DUROV-TELEGRAM-2026`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - Page source in [`PERSON-PAVEL-DUROV`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
+## [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md): Yoshua Bengio — Mila directory profile
+
+- Page source in [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+- Relationship source in [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md): [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md) `cites` [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
+
 ## [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md): Tim Berners-Lee W3C Biography
 
 - Page source in [`PERSON-TIM-BERNERS-LEE`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
@@ -139,6 +153,32 @@ Source count: 263
 
 - Page source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
 - Relationship source in [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md): [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) `cites` [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
+## [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md): Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence
+
+- Page source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Relationship source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+- Relationship source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Page source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+
+## [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md): Biography \| U.S. Senator Richard Blumenthal
+
+- Page source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
+
+## [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md): Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- Page source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Page source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
+- Relationship source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 
 ## [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md): BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026)
 
@@ -204,6 +244,11 @@ Source count: 263
 - Relationship source in [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md): [`CASE-CCIA-V-PAXTON-SB2420`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md) `cites` [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md)
 - Page source in [`STAT-TX-APP-STORE-ACCOUNTABILITY`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - Page source in [`TOPIC-APP-STORE-AGE-VERIFICATION`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md): Ryan Calo — University of Washington School of Law faculty page
+
+- Page source in [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md)
+- Relationship source in [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md): [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md) `cites` [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md)
 
 ## [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo)
 
@@ -768,6 +813,15 @@ Source count: 263
 - Page source in [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
 - Relationship source in [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md): [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) `cites` [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
+## [`SRC-HF-AGENT-INTRUSION-TIMELINE`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md): Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026)
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md): Hugging Face — Security incident disclosure (July 2026)
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
+
 ## [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md): The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)
 
 - Page source in [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
@@ -920,6 +974,11 @@ Source count: 263
 - Page source in [`PERSON-ROBERT-KAHN`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md)
 - Relationship source in [`PERSON-ROBERT-KAHN`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md): [`PERSON-ROBERT-KAHN`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md) `cites` [`SRC-KAHN-CNRI`](source-docs/bibliography/people/SRC-KAHN-CNRI.md)
 
+## [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md): Margot Kaminski — Berkman Klein Center profile
+
+- Page source in [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- Relationship source in [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md) `cites` [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
+
 ## [`SRC-KAY-CHM`](source-docs/bibliography/people/SRC-KAY-CHM.md): Alan Kay Computer History Museum Profile
 
 - Page source in [`PERSON-ALAN-KAY`](source-docs/knowledge/people/PERSON-ALAN-KAY.md)
@@ -1043,6 +1102,19 @@ Source count: 263
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-LYONS-V-OPENAI`](source-docs/knowledge/legal/CASE-LYONS-V-OPENAI.md)
 
+## [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md): Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Page source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Relationship source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+- Relationship source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md): NYU Department of Psychology faculty list — Gary Marcus
+
+- Page source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- Relationship source in [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md) `cites` [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
+
 ## [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security
 
 - Page source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
@@ -1064,6 +1136,11 @@ Source count: 263
 
 - Page source in [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
 - Relationship source in [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md): [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md) `cites` [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
+
+## [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md): METR — Independent investigation of the OpenAI / Hugging Face hacking incident
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
 
 ## [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md): Eben Moglen Columbia Law School Faculty Page
 
@@ -1119,6 +1196,12 @@ Source count: 263
 
 - Page source in [`CASE-VAN-LOON-V-TREASURY`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 
+## [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md): Paul Ohm — Georgetown Law faculty profile
+
+- Page source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+- Relationship source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md): [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `cites` [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
+- Relationship source in [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md): [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md) `related_to` [`STAT-CFAA-1030`](source-docs/knowledge/legal/STAT-CFAA-1030.md)
+
 ## [`SRC-OIR-BOOTSTRAP-PROMPT`](source-docs/bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md): OIR Bootstrap Prompt
 
 - No citation usages yet.
@@ -1130,6 +1213,15 @@ Source count: 263
 ## [`SRC-OIR-ROADMAP-DOCX`](source-docs/bibliography/imported/SRC-OIR-ROADMAP-DOCX.md): Open Internet Reference Roadmap
 
 - No citation usages yet.
+
+## [`SRC-OPENAI-HF-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md): OpenAI — Hugging Face model-evaluation security incident (July 21, 2026)
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md): OpenAI — The Hugging Face incident and the road ahead (August 26, 2026)
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `cites` [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
 
 ## [`SRC-ORIN-KERR-GWU`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md): Orin Kerr George Washington University Law Faculty Page
 
@@ -1312,6 +1404,11 @@ Source count: 263
 
 - Page source in [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 - Relationship source in [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md): [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md) `cites` [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md)
+
+## [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md): Stuart J. Russell — UC Berkeley EECS faculty page
+
+- Page source in [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+- Relationship source in [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md): [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md) `cites` [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
 
 ## [`SRC-RUSSELL-PROFILE`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md): Andrew L. Russell Professional Profile
 
@@ -1509,6 +1606,11 @@ Source count: 263
 - Relationship source in [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md): [`CASE-RAINE-V-OPENAI`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md) `related_to` [`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`](source-docs/knowledge/legal/CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY.md)
 - Page source in [`TOPIC-AI-HARM-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md): Helen Toner — Center for Security and Emerging Technology staff profile
+
+- Page source in [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md)
+- Relationship source in [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md): [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md) `cites` [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md)
 
 ## [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router
 

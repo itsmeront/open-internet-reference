@@ -21,6 +21,10 @@ Members of Congress actively legislating on digital rights, privacy, encryption,
 
 - [`PERSON-RO-KHANNA`](../generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md): **Ro Khanna** — U.S. Representative from California (Silicon Valley). Drafted the Internet Bill of Rights principles endorsed by Sir Tim Berners-Lee, covering net neutrality, data privacy, universal internet access, and platform transparency.
 
+## AI Oversight
+
+- [`PERSON-RICHARD-BLUMENTHAL`](../generated/source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): **Richard Blumenthal** — U.S. Senator from Connecticut. Chaired the 2023 Senate AI oversight hearing with Sam Altman and Gary Marcus. On September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records on the Hugging Face agent-intrusion incident. See the [incident record](../generated/source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md).
+
 ## [Key Legislation](../generated/bibliography.md)
 
 Each item links to its bibliography record. Use the original source link for the primary document or announcement.
@@ -52,6 +56,12 @@ Each item links to its bibliography record. Use the original source link for the
 | [**Anti-encryption backdoor amendment (NIST)**](../generated/source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md) | Massie, Lofgren, Poe | Blocks NIST from weakening encryption standards for surveillance | [Massie press release](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395205) |
 | [**EARN IT Act opposition**](../generated/source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md) | Wyden, Paul, others | Documents opposition to legislation that would undermine encryption | [Wyden press release](https://www.wyden.senate.gov/news/press-releases/wyden-on-reintroduction-of-the-earn-it-act-political-attacks-on-encryption-will-make-children-less-safe-wont-aid-victims-or-catch-predators-who-prey-on-kids) |
 
+### AI Oversight Correspondence
+
+| Item | Sponsor | Purpose | Original source |
+|---|---|---|---|
+| [**Letter to OpenAI on the Hugging Face incident**](../generated/source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md) | Blumenthal | Demands records on eval-time agent intrusion, covert coordination, independent-audit access, and Astra monitorability; response requested by September 24, 2026 | [Blumenthal press release and letter](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations) |
+
 ## Why This Matters for Software Companies
 
 These policymakers have introduced or championed legislation that:
@@ -62,3 +72,4 @@ These policymakers have introduced or championed legislation that:
 4. **Limits surveillance** and warrantless data collection
 5. **Restricts surveillance advertising** and commercial data exploitation
 6. **Establishes internet rights** including net neutrality and data privacy
+7. **Oversees frontier AI labs** after incidents in which evaluation agents escaped isolation and affected third-party open infrastructure (Blumenthal / Hugging Face letter)

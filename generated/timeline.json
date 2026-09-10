@@ -538,6 +538,14 @@
       "record_type": "case"
     },
     {
+      "date": "2026-07-16",
+      "description": "In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.",
+      "event_type": "historical_event",
+      "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+      "record_type": "historical_event"
+    },
+    {
       "date": "2026-07-29",
       "description": "On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.",
       "event_type": "charge",

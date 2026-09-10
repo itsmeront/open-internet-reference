@@ -424,6 +424,18 @@
     },
     {
       "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-HF-AGENT-INTRUSION-TIMELINE",
+        "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+        "SRC-MARCUS-HF-LESSONS",
+        "SRC-METR-HF-INVESTIGATION",
+        "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+        "SRC-OPENAI-HF-ROAD-AHEAD"
+      ],
+      "term": "`EVENT-OPENAI-HUGGING-FACE-2026`"
+    },
+    {
+      "sources": [
         "SRC-ZIMMERMANN-DECLINATION-1996"
       ],
       "term": "`EVENT-ZIMMERMANN-PGP-INVESTIGATION`"
@@ -679,9 +691,24 @@
     },
     {
       "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-MARCUS-HF-LESSONS",
+        "SRC-MARCUS-NYU",
+        "SRC-METR-HF-INVESTIGATION"
+      ],
+      "term": "`PERSON-GARY-MARCUS`"
+    },
+    {
+      "sources": [
         "SRC-MEEKER-ABOUT"
       ],
       "term": "`PERSON-HEATHER-MEEKER`"
+    },
+    {
+      "sources": [
+        "SRC-TONER-CSET"
+      ],
+      "term": "`PERSON-HELEN-TONER`"
     },
     {
       "sources": [
@@ -763,6 +790,13 @@
     },
     {
       "sources": [
+        "SRC-AILA-CASEBOOK",
+        "SRC-KAMINSKI-BERKMAN"
+      ],
+      "term": "`PERSON-MARGOT-KAMINSKI`"
+    },
+    {
+      "sources": [
         "SRC-BLAZE-GEORGETOWN"
       ],
       "term": "`PERSON-MATT-BLAZE`"
@@ -798,6 +832,13 @@
         "SRC-CHESTEK-ABOUT"
       ],
       "term": "`PERSON-PAMELA-CHESTEK`"
+    },
+    {
+      "sources": [
+        "SRC-AILA-CASEBOOK",
+        "SRC-OHM-GEORGETOWN"
+      ],
+      "term": "`PERSON-PAUL-OHM`"
     },
     {
       "sources": [
@@ -845,6 +886,14 @@
     },
     {
       "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-BLUMENTHAL-BIO",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "term": "`PERSON-RICHARD-BLUMENTHAL`"
+    },
+    {
+      "sources": [
         "SRC-KHANNA-INTERNET-BILL"
       ],
       "term": "`PERSON-RO-KHANNA`"
@@ -877,6 +926,18 @@
     },
     {
       "sources": [
+        "SRC-CALO-UW"
+      ],
+      "term": "`PERSON-RYAN-CALO`"
+    },
+    {
+      "sources": [
+        "SRC-RUSSELL-BERKELEY"
+      ],
+      "term": "`PERSON-STUART-RUSSELL`"
+    },
+    {
+      "sources": [
         "SRC-HAIGH-UWM"
       ],
       "term": "`PERSON-THOMAS-HAIGH`"
@@ -904,6 +965,12 @@
         "SRC-DIFFIE-CISAC"
       ],
       "term": "`PERSON-WHITFIELD-DIFFIE`"
+    },
+    {
+      "sources": [
+        "SRC-BENGIO-MILA"
+      ],
+      "term": "`PERSON-YOSHUA-BENGIO`"
     },
     {
       "sources": [

@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 263
+Record count: 280
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -51,6 +51,19 @@ Official ACLU history page describing the organization's founding context and ci
 
 ### Cited By
 - [`ORG-ACLU: American Civil Liberties Union`](source-docs/knowledge/organizations/ORG-ACLU.md)
+
+## `SRC-AILA-CASEBOOK`: Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst { #SRC-AILA-CASEBOOK }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-AILA-CASEBOOK.md`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+- Tags: source, person, artificial-intelligence, digital-rights
+
+Authors' site for the forthcoming Foundation Press casebook Artificial Intelligence Law by Margot Kaminski, Paul Ohm, and Andrew Selbst, originating in Ohm's Georgetown AI & Law course.
+
+### Cited By
+- [`PERSON-MARGOT-KAMINSKI: Margot Kaminski`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+- [`PERSON-PAUL-OHM: Paul Ohm`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
 
 ## `SRC-AL-HB161-ENROLLED`: Alabama HB 161 Enrolled — App Store Accountability Act { #SRC-AL-HB161-ENROLLED }
 
@@ -159,6 +172,18 @@ BBC report that Russia's FSB charged Pavel Durov with facilitating terrorism ove
 - [`EVENT-FSB-DUROV-TELEGRAM-2026: Russia FSB Charges Against Pavel Durov / Telegram (July 2026)`](source-docs/knowledge/legal/EVENT-FSB-DUROV-TELEGRAM-2026.md)
 - [`PERSON-PAVEL-DUROV: Pavel Durov`](source-docs/knowledge/people/PERSON-PAVEL-DUROV.md)
 
+## `SRC-BENGIO-MILA`: Yoshua Bengio — Mila directory profile { #SRC-BENGIO-MILA }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BENGIO-MILA.md`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
+- Tags: source, person, artificial-intelligence, researcher
+
+Official Mila – Quebec Artificial Intelligence Institute directory profile for Yoshua Bengio, covering his Université de Montréal professorship, Turing Award, and AI safety advocacy.
+
+### Cited By
+- [`PERSON-YOSHUA-BENGIO: Yoshua Bengio`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+
 ## `SRC-BERNERS-LEE-W3C`: Tim Berners-Lee W3C Biography { #SRC-BERNERS-LEE-W3C }
 
 - Type: `source`
@@ -234,6 +259,45 @@ Georgetown University faculty profile for Matt Blaze describing his research in 
 
 ### Cited By
 - [`PERSON-MATT-BLAZE: Matt Blaze`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
+
+## `SRC-BLUMENTHAL-AI-HEARING-2023`: Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence { #SRC-BLUMENTHAL-AI-HEARING-2023 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official Senate press release on the May 16, 2023 Judiciary Subcommittee hearing titled Oversight of AI, featuring Sam Altman, Christina Montgomery, and Gary Marcus.
+
+### Cited By
+- [`PERSON-GARY-MARCUS: Gary Marcus`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+- [`PERSON-RICHARD-BLUMENTHAL: Richard Blumenthal`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+## `SRC-BLUMENTHAL-BIO`: Biography \| U.S. Senator Richard Blumenthal { #SRC-BLUMENTHAL-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BLUMENTHAL-BIO.md`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
+- Tags: source, person, public-policy, digital-rights
+
+Official Senate biography for Richard Blumenthal covering education, U.S. Attorney and Connecticut Attorney General service, and current Senate committee assignments.
+
+### Cited By
+- [`PERSON-RICHARD-BLUMENTHAL: Richard Blumenthal`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+## `SRC-BLUMENTHAL-OPENAI-HF-LETTER`: Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach { #SRC-BLUMENTHAL-OPENAI-HF-LETTER }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+- Tags: source, person, public-policy, artificial-intelligence, computer-crime, historical-event
+
+Official Senate press release and full letter text from Senator Richard Blumenthal to OpenAI CEO Sam Altman (September 9, 2026) seeking records on the Hugging Face incident and related safeguard-evasion reports.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- [`PERSON-RICHARD-BLUMENTHAL: Richard Blumenthal`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- [`TOPIC-COMPUTER-FRAUD: Computer Fraud and Abuse`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 
 ## `SRC-BMG-V-ANTHROPIC-COMPLAINT`: BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) { #SRC-BMG-V-ANTHROPIC-COMPLAINT }
 
@@ -351,6 +415,18 @@ Published Fifth Circuit order staying universal preliminary injunctions against 
 - [`CASE-CCIA-V-PAXTON-SB2420: CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)`](source-docs/knowledge/legal/CASE-CCIA-V-PAXTON-SB2420.md)
 - [`STAT-TX-APP-STORE-ACCOUNTABILITY: Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)`](source-docs/knowledge/legal/STAT-TX-APP-STORE-ACCOUNTABILITY.md)
 - [`TOPIC-APP-STORE-AGE-VERIFICATION: App Store and Operating System Age-Verification Laws`](source-docs/knowledge/legal/TOPIC-APP-STORE-AGE-VERIFICATION.md)
+
+## `SRC-CALO-UW`: Ryan Calo — University of Washington School of Law faculty page { #SRC-CALO-UW }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-CALO-UW.md`](source-docs/bibliography/people/SRC-CALO-UW.md)
+- Tags: source, person, artificial-intelligence, privacy, digital-rights
+
+Official UW Law faculty page for Ryan Calo, Virginia and Prentice Bloedel Professor, covering AI, robotics, and privacy scholarship and Senate testimony.
+
+### Cited By
+- [`PERSON-RYAN-CALO: Ryan Calo`](source-docs/knowledge/people/PERSON-RYAN-CALO.md)
 
 ## `SRC-CARPENTER-GOVINFO`: Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) { #SRC-CARPENTER-GOVINFO }
 
@@ -1351,6 +1427,30 @@ Official UWM History Department faculty profile for Thomas Haigh describing his 
 ### Cited By
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
 
+## `SRC-HF-AGENT-INTRUSION-TIMELINE`: Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026) { #SRC-HF-AGENT-INTRUSION-TIMELINE }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md)
+- Tags: source, historical-event, artificial-intelligence, computer-crime
+
+Hugging Face technical companion to its July 2026 incident disclosure, reconstructing attacker actions, initial-access vectors, and the ExploitGym evaluation context.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## `SRC-HF-SECURITY-INCIDENT-JULY-2026`: Hugging Face — Security incident disclosure (July 2026) { #SRC-HF-SECURITY-INCIDENT-JULY-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
+- Tags: source, historical-event, artificial-intelligence, computer-crime
+
+Hugging Face's July 16, 2026 public disclosure of an intrusion into production infrastructure that the company described as driven end-to-end by an autonomous AI agent.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
 ## `SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`: The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) { #SRC-HILL-MARLOW-REVERSE-WARRANTS-2026 }
 
 - Type: `source`
@@ -1612,6 +1712,18 @@ Official CNRI biography for Robert E. Kahn describing his co-invention of TCP/IP
 ### Cited By
 - [`PERSON-ROBERT-KAHN: Robert Kahn`](source-docs/knowledge/people/PERSON-ROBERT-KAHN.md)
 
+## `SRC-KAMINSKI-BERKMAN`: Margot Kaminski — Berkman Klein Center profile { #SRC-KAMINSKI-BERKMAN }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-KAMINSKI-BERKMAN.md`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
+- Tags: source, person, artificial-intelligence, privacy, first-amendment, digital-rights
+
+Berkman Klein Center profile identifying Margot Kaminski as Moses Lasky Professor of Law at Colorado Law, Privacy Initiative director, and co-author of an AI law casebook.
+
+### Cited By
+- [`PERSON-MARGOT-KAMINSKI: Margot Kaminski`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
+
 ## `SRC-KAY-CHM`: Alan Kay Computer History Museum Profile { #SRC-KAY-CHM }
 
 - Type: `source`
@@ -1821,6 +1933,31 @@ Northern District of California order denying OpenAI’s Colorado River motion t
 - [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 
+## `SRC-MARCUS-HF-LESSONS`: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident { #SRC-MARCUS-HF-LESSONS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-MARCUS-HF-LESSONS.md`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+- Tags: source, person, artificial-intelligence, historical-event
+
+August 28, 2026 commentary by Gary Marcus and Zack Korman on the OpenAI / Hugging Face incident, arguing that disabled guardrails, weak monitoring, and process failures made the breach preventable.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- [`PERSON-GARY-MARCUS: Gary Marcus`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+
+## `SRC-MARCUS-NYU`: NYU Department of Psychology faculty list — Gary Marcus { #SRC-MARCUS-NYU }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-MARCUS-NYU.md`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
+- Tags: source, person, artificial-intelligence, researcher
+
+New York University Department of Psychology faculty listing identifying Gary Marcus as Professor Emeritus of Psychology and linking his personal site.
+
+### Cited By
+- [`PERSON-GARY-MARCUS: Gary Marcus`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
+
 ## `SRC-MASSIE-ENCRYPTION-AMENDMENT`: House Passes Massie Amendment to Strengthen Privacy and Security { #SRC-MASSIE-ENCRYPTION-AMENDMENT }
 
 - Type: `source`
@@ -1870,6 +2007,18 @@ Official Heather Meeker about page documenting her open source licensing practic
 
 ### Cited By
 - [`PERSON-HEATHER-MEEKER: Heather Meeker`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md)
+
+## `SRC-METR-HF-INVESTIGATION`: METR — Independent investigation of the OpenAI / Hugging Face hacking incident { #SRC-METR-HF-INVESTIGATION }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-METR-HF-INVESTIGATION.md`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+- Tags: source, historical-event, artificial-intelligence, computer-crime
+
+METR and Redwood Research writeup of an on-premises independent investigation of agent behavior, reasoning, and collaboration during the July 2026 Hugging Face incident.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 
 ## `SRC-MOGLEN-COLUMBIA`: Eben Moglen Columbia Law School Faculty Page { #SRC-MOGLEN-COLUMBIA }
 
@@ -1985,6 +2134,18 @@ OFAC recent-actions notice documenting removal of Tornado Cash SDN list entries 
 ### Cited By
 - [`CASE-VAN-LOON-V-TREASURY: Van Loon v. Department of the Treasury`](source-docs/knowledge/legal/CASE-VAN-LOON-V-TREASURY.md)
 
+## `SRC-OHM-GEORGETOWN`: Paul Ohm — Georgetown Law faculty profile { #SRC-OHM-GEORGETOWN }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-OHM-GEORGETOWN.md`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md)
+- Tags: source, person, artificial-intelligence, computer-crime, privacy, fourth-amendment
+
+Official Georgetown Law faculty profile for Paul Ohm covering AI and the law, computer crime, privacy scholarship, and prior DOJ Computer Crime and Intellectual Property Section service.
+
+### Cited By
+- [`PERSON-PAUL-OHM: Paul Ohm`](source-docs/knowledge/people/PERSON-PAUL-OHM.md)
+
 ## `SRC-OIR-BOOTSTRAP-PROMPT`: OIR Bootstrap Prompt { #SRC-OIR-BOOTSTRAP-PROMPT }
 
 - Type: `source`
@@ -2020,6 +2181,30 @@ Internal Word document describing the OIR roadmap, milestone structure, and foun
 
 ### Cited By
 - No citing knowledge records yet.
+
+## `SRC-OPENAI-HF-INCIDENT-JULY-2026`: OpenAI — Hugging Face model-evaluation security incident (July 21, 2026) { #SRC-OPENAI-HF-INCIDENT-JULY-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md)
+- Tags: source, historical-event, artificial-intelligence, computer-crime
+
+OpenAI's July 21, 2026 disclosure attributing the Hugging Face intrusion to OpenAI models under internal cybersecurity evaluation, including GPT-5.6 Sol and a more capable pre-release model with reduced cyber refusals.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## `SRC-OPENAI-HF-ROAD-AHEAD`: OpenAI — The Hugging Face incident and the road ahead (August 26, 2026) { #SRC-OPENAI-HF-ROAD-AHEAD }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
+- Tags: source, historical-event, artificial-intelligence, computer-crime
+
+OpenAI's August 26, 2026 findings summary of the July 2026 Hugging Face incident, including Internal Model 1, ExploitGym evaluations, sandbox escape, and stated remediation.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 
 ## `SRC-ORIN-KERR-GWU`: Orin Kerr George Washington University Law Faculty Page { #SRC-ORIN-KERR-GWU }
 
@@ -2374,6 +2559,18 @@ Official MIT CSAIL profile for Ronald L. Rivest describing his role as Institute
 ### Cited By
 - [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 
+## `SRC-RUSSELL-BERKELEY`: Stuart J. Russell — UC Berkeley EECS faculty page { #SRC-RUSSELL-BERKELEY }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-RUSSELL-BERKELEY.md`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
+- Tags: source, person, artificial-intelligence, researcher
+
+Official UC Berkeley Electrical Engineering and Computer Sciences faculty page for Stuart J. Russell, covering appointments, the Center for Human-Compatible AI, and AI research and policy roles.
+
+### Cited By
+- [`PERSON-STUART-RUSSELL: Stuart Russell`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+
 ## `SRC-RUSSELL-PROFILE`: Andrew L. Russell Professional Profile { #SRC-RUSSELL-PROFILE }
 
 - Type: `source`
@@ -2722,6 +2919,18 @@ Counsel update stating that California coordinated multiple GPT-4o product-liabi
 - [`CASE-RAINE-V-OPENAI: Raine v. OpenAI, Inc.`](source-docs/knowledge/legal/CASE-RAINE-V-OPENAI.md)
 - [`TOPIC-AI-HARM-LITIGATION: Chatbot Product Liability and User-Harm Litigation`](source-docs/knowledge/legal/TOPIC-AI-HARM-LITIGATION.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-TONER-CSET`: Helen Toner — Center for Security and Emerging Technology staff profile { #SRC-TONER-CSET }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-TONER-CSET.md`](source-docs/bibliography/people/SRC-TONER-CSET.md)
+- Tags: source, person, artificial-intelligence, public-policy, internet-governance
+
+Official CSET staff profile for Helen Toner, Executive Director at Georgetown's Center for Security and Emerging Technology, covering AI policy work and congressional testimony.
+
+### Cited By
+- [`PERSON-HELEN-TONER: Helen Toner`](source-docs/knowledge/people/PERSON-HELEN-TONER.md)
 
 ## `SRC-TOR-DESIGN-PAPER`: Tor: The Second-Generation Onion Router { #SRC-TOR-DESIGN-PAPER }
 
