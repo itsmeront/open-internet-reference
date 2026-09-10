@@ -1,6 +1,6 @@
 {
   "description": "Generated linear handbook prototype from knowledge metadata.",
-  "record_count": 160,
+  "record_count": 169,
   "records": [
     {
       "id": "PERSON-AARON-WILLIAMSON",
@@ -921,6 +921,24 @@
       "type": "historical_event"
     },
     {
+      "id": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "path": "knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
+      "sources": [
+        "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+        "SRC-HF-AGENT-INTRUSION-TIMELINE",
+        "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+        "SRC-OPENAI-HF-ROAD-AHEAD",
+        "SRC-METR-HF-INVESTIGATION",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "status": "draft",
+      "summary": "In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.",
+      "title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+      "type": "historical_event"
+    },
+    {
       "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
       "path": "knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
       "source_doc_path": "source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md",
@@ -1313,6 +1331,32 @@
       "type": "person"
     },
     {
+      "id": "PERSON-GARY-MARCUS",
+      "path": "knowledge/people/PERSON-GARY-MARCUS.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-GARY-MARCUS.md",
+      "sources": [
+        "SRC-MARCUS-NYU",
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "status": "draft",
+      "summary": "Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.",
+      "title": "Gary Marcus",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-HELEN-TONER",
+      "path": "knowledge/people/PERSON-HELEN-TONER.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-HELEN-TONER.md",
+      "sources": [
+        "SRC-TONER-CSET"
+      ],
+      "status": "draft",
+      "summary": "Helen Toner is Executive Director of Georgetown's Center for Security and Emerging Technology, an AI-governance researcher who has advised policymakers on AI strategy and testified before congressional committees.",
+      "title": "Helen Toner",
+      "type": "person"
+    },
+    {
       "id": "PERSON-HENRY-FONDA",
       "path": "knowledge/people/PERSON-HENRY-FONDA.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-HENRY-FONDA.md",
@@ -1405,6 +1449,19 @@
       "type": "person"
     },
     {
+      "id": "PERSON-MARGOT-KAMINSKI",
+      "path": "knowledge/people/PERSON-MARGOT-KAMINSKI.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md",
+      "sources": [
+        "SRC-KAMINSKI-BERKMAN",
+        "SRC-AILA-CASEBOOK"
+      ],
+      "status": "draft",
+      "summary": "Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.",
+      "title": "Margot Kaminski",
+      "type": "person"
+    },
+    {
       "id": "PERSON-MATT-BLAZE",
       "path": "knowledge/people/PERSON-MATT-BLAZE.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-MATT-BLAZE.md",
@@ -1440,6 +1497,19 @@
       "status": "draft",
       "summary": "Orin Kerr is the Fred C. Stevenson Research Professor at George Washington University Law School and one of the most cited academic authorities on the Computer Fraud and Abuse Act, electronic surveillance law, and Fourth Amendment issues in networked environments.",
       "title": "Orin Kerr",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-PAUL-OHM",
+      "path": "knowledge/people/PERSON-PAUL-OHM.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAUL-OHM.md",
+      "sources": [
+        "SRC-OHM-GEORGETOWN",
+        "SRC-AILA-CASEBOOK"
+      ],
+      "status": "draft",
+      "summary": "Paul Ohm is a Professor of Law at Georgetown University Law Center whose work spans artificial intelligence and the law, computer crime, privacy, and surveillance, including prior service in DOJ's Computer Crime and Intellectual Property Section.",
+      "title": "Paul Ohm",
       "type": "person"
     },
     {
@@ -1503,6 +1573,20 @@
       "type": "person"
     },
     {
+      "id": "PERSON-RICHARD-BLUMENTHAL",
+      "path": "knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
+      "sources": [
+        "SRC-BLUMENTHAL-BIO",
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "status": "draft",
+      "summary": "Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.",
+      "title": "Richard Blumenthal",
+      "type": "person"
+    },
+    {
       "id": "PERSON-RO-KHANNA",
       "path": "knowledge/people/PERSON-RO-KHANNA.md",
       "source_doc_path": "source-docs/knowledge/people/PERSON-RO-KHANNA.md",
@@ -1552,6 +1636,30 @@
       "status": "draft",
       "summary": "Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.",
       "title": "Ron Wyden",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-RYAN-CALO",
+      "path": "knowledge/people/PERSON-RYAN-CALO.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RYAN-CALO.md",
+      "sources": [
+        "SRC-CALO-UW"
+      ],
+      "status": "draft",
+      "summary": "Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Washington, a co-founder of the UW Tech Policy Lab, and a leading academic on law and artificial intelligence who has testified before the U.S. Senate.",
+      "title": "Ryan Calo",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-STUART-RUSSELL",
+      "path": "knowledge/people/PERSON-STUART-RUSSELL.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-STUART-RUSSELL.md",
+      "sources": [
+        "SRC-RUSSELL-BERKELEY"
+      ],
+      "status": "draft",
+      "summary": "Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.",
+      "title": "Stuart Russell",
       "type": "person"
     },
     {
@@ -1612,6 +1720,18 @@
       "status": "draft",
       "summary": "Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.",
       "title": "Whitfield Diffie",
+      "type": "person"
+    },
+    {
+      "id": "PERSON-YOSHUA-BENGIO",
+      "path": "knowledge/people/PERSON-YOSHUA-BENGIO.md",
+      "source_doc_path": "source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md",
+      "sources": [
+        "SRC-BENGIO-MILA"
+      ],
+      "status": "draft",
+      "summary": "Yoshua Bengio is a full professor at Universit\u00e9 de Montr\u00e9al, founder of Mila \u2013 Quebec Artificial Intelligence Institute, and a 2018 A.M. Turing Award laureate known for deep-learning research and for public work on mitigating catastrophic risks from future AI systems.",
+      "title": "Yoshua Bengio",
       "type": "person"
     },
     {
@@ -2060,7 +2180,8 @@
       "sources": [
         "SRC-USC-18-1030-LII",
         "SRC-USC-18-1030-GOVINFO",
-        "SRC-VAN-BUREN-LII"
+        "SRC-VAN-BUREN-LII",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
       ],
       "status": "draft",
       "summary": "Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. \u00a7 1030.",

@@ -3430,6 +3430,103 @@
       "charge_date": null,
       "decision_date": null,
       "enactment_date": null,
+      "event_date": "2026-07-16",
+      "filing_date": null,
+      "id": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
+      "relationships": [
+        {
+          "object": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HF-SECURITY-INCIDENT-JULY-2026"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "SRC-OPENAI-HF-ROAD-AHEAD",
+          "predicate": "cites",
+          "sources": [
+            "SRC-OPENAI-HF-ROAD-AHEAD"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "SRC-METR-HF-INVESTIGATION",
+          "predicate": "cites",
+          "sources": [
+            "SRC-METR-HF-INVESTIGATION"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "PERSON-GARY-MARCUS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-MARCUS-HF-LESSONS"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "notes": "Blumenthal's letter says the operation could be considered a federal crime; that is oversight rhetoric, not a charge or adjudication under \u00a7 1030.",
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
+      "sources": [
+        "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+        "SRC-HF-AGENT-INTRUSION-TIMELINE",
+        "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+        "SRC-OPENAI-HF-ROAD-AHEAD",
+        "SRC-METR-HF-INVESTIGATION",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "status": "draft",
+      "summary": "In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.",
+      "tags": [
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime",
+        "case-studies",
+        "digital-rights",
+        "public-policy"
+      ],
+      "title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+      "type": "historical_event",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
       "event_date": "1996-01",
       "filing_date": null,
       "id": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
@@ -5518,6 +5615,80 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-GARY-MARCUS",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-GARY-MARCUS.md",
+      "relationships": [
+        {
+          "object": "SRC-MARCUS-NYU",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MARCUS-NYU"
+          ],
+          "subject": "PERSON-GARY-MARCUS"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BLUMENTHAL-AI-HEARING-2023"
+          ],
+          "subject": "PERSON-GARY-MARCUS"
+        },
+        {
+          "object": "SRC-MARCUS-HF-LESSONS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MARCUS-HF-LESSONS"
+          ],
+          "subject": "PERSON-GARY-MARCUS"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-MARCUS-HF-LESSONS"
+          ],
+          "subject": "PERSON-GARY-MARCUS"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-AI-HEARING-2023"
+          ],
+          "subject": "PERSON-GARY-MARCUS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-GARY-MARCUS.md",
+      "sources": [
+        "SRC-MARCUS-NYU",
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "status": "draft",
+      "summary": "Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
+      ],
+      "title": "Gary Marcus",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-HEATHER-MEEKER",
       "indictment_date": null,
       "last_verified": "2026-07-04",
@@ -5546,6 +5717,47 @@
       ],
       "title": "Heather Meeker",
       "type": "attorney",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-HELEN-TONER",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-HELEN-TONER.md",
+      "relationships": [
+        {
+          "object": "SRC-TONER-CSET",
+          "predicate": "cites",
+          "sources": [
+            "SRC-TONER-CSET"
+          ],
+          "subject": "PERSON-HELEN-TONER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-HELEN-TONER.md",
+      "sources": [
+        "SRC-TONER-CSET"
+      ],
+      "status": "draft",
+      "summary": "Helen Toner is Executive Director of Georgetown's Center for Security and Emerging Technology, an AI-governance researcher who has advised policymakers on AI strategy and testified before congressional committees.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "public-policy",
+        "internet-governance",
+        "researcher"
+      ],
+      "title": "Helen Toner",
+      "type": "person",
       "used_for": []
     },
     {
@@ -6176,6 +6388,64 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-MARGOT-KAMINSKI",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-MARGOT-KAMINSKI.md",
+      "relationships": [
+        {
+          "object": "SRC-KAMINSKI-BERKMAN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-KAMINSKI-BERKMAN"
+          ],
+          "subject": "PERSON-MARGOT-KAMINSKI"
+        },
+        {
+          "object": "SRC-AILA-CASEBOOK",
+          "predicate": "cites",
+          "sources": [
+            "SRC-AILA-CASEBOOK"
+          ],
+          "subject": "PERSON-MARGOT-KAMINSKI"
+        },
+        {
+          "object": "PERSON-PAUL-OHM",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AILA-CASEBOOK"
+          ],
+          "subject": "PERSON-MARGOT-KAMINSKI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md",
+      "sources": [
+        "SRC-KAMINSKI-BERKMAN",
+        "SRC-AILA-CASEBOOK"
+      ],
+      "status": "draft",
+      "summary": "Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Margot Kaminski",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-MATT-BLAZE",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -6460,6 +6730,73 @@
       ],
       "title": "Pamela Chestek",
       "type": "attorney",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-PAUL-OHM",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-PAUL-OHM.md",
+      "relationships": [
+        {
+          "object": "SRC-OHM-GEORGETOWN",
+          "predicate": "cites",
+          "sources": [
+            "SRC-OHM-GEORGETOWN"
+          ],
+          "subject": "PERSON-PAUL-OHM"
+        },
+        {
+          "object": "SRC-AILA-CASEBOOK",
+          "predicate": "cites",
+          "sources": [
+            "SRC-AILA-CASEBOOK"
+          ],
+          "subject": "PERSON-PAUL-OHM"
+        },
+        {
+          "object": "PERSON-MARGOT-KAMINSKI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AILA-CASEBOOK"
+          ],
+          "subject": "PERSON-PAUL-OHM"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-OHM-GEORGETOWN"
+          ],
+          "subject": "PERSON-PAUL-OHM"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-PAUL-OHM.md",
+      "sources": [
+        "SRC-OHM-GEORGETOWN",
+        "SRC-AILA-CASEBOOK"
+      ],
+      "status": "draft",
+      "summary": "Paul Ohm is a Professor of Law at Georgetown University Law Center whose work spans artificial intelligence and the law, computer crime, privacy, and surveillance, including prior service in DOJ's Computer Crime and Intellectual Property Section.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "computer-crime",
+        "privacy",
+        "fourth-amendment",
+        "digital-rights"
+      ],
+      "title": "Paul Ohm",
+      "type": "person",
       "used_for": []
     },
     {
@@ -6784,6 +7121,81 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-RICHARD-BLUMENTHAL",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
+      "relationships": [
+        {
+          "object": "SRC-BLUMENTHAL-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BLUMENTHAL-BIO"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BLUMENTHAL-AI-HEARING-2023"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
+          "object": "PERSON-GARY-MARCUS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-AI-HEARING-2023"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
+      "sources": [
+        "SRC-BLUMENTHAL-BIO",
+        "SRC-BLUMENTHAL-AI-HEARING-2023",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "status": "draft",
+      "summary": "Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "digital-rights",
+        "computer-crime"
+      ],
+      "title": "Richard Blumenthal",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-RO-KHANNA",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -6969,6 +7381,87 @@
         "first-amendment"
       ],
       "title": "Ron Wyden",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-RYAN-CALO",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-RYAN-CALO.md",
+      "relationships": [
+        {
+          "object": "SRC-CALO-UW",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CALO-UW"
+          ],
+          "subject": "PERSON-RYAN-CALO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-RYAN-CALO.md",
+      "sources": [
+        "SRC-CALO-UW"
+      ],
+      "status": "draft",
+      "summary": "Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Washington, a co-founder of the UW Tech Policy Lab, and a leading academic on law and artificial intelligence who has testified before the U.S. Senate.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "digital-rights",
+        "public-policy"
+      ],
+      "title": "Ryan Calo",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-STUART-RUSSELL",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-STUART-RUSSELL.md",
+      "relationships": [
+        {
+          "object": "SRC-RUSSELL-BERKELEY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-RUSSELL-BERKELEY"
+          ],
+          "subject": "PERSON-STUART-RUSSELL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-STUART-RUSSELL.md",
+      "sources": [
+        "SRC-RUSSELL-BERKELEY"
+      ],
+      "status": "draft",
+      "summary": "Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
+      ],
+      "title": "Stuart Russell",
       "type": "person",
       "used_for": []
     },
@@ -7170,6 +7663,46 @@
         "privacy"
       ],
       "title": "Whitfield Diffie",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-YOSHUA-BENGIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-YOSHUA-BENGIO.md",
+      "relationships": [
+        {
+          "object": "SRC-BENGIO-MILA",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BENGIO-MILA"
+          ],
+          "subject": "PERSON-YOSHUA-BENGIO"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md",
+      "sources": [
+        "SRC-BENGIO-MILA"
+      ],
+      "status": "draft",
+      "summary": "Yoshua Bengio is a full professor at Universit\u00e9 de Montr\u00e9al, founder of Mila \u2013 Quebec Artificial Intelligence Institute, and a 2018 A.M. Turing Award laureate known for deep-learning research and for public work on mitigating catastrophic risks from future AI systems.",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
+      ],
+      "title": "Yoshua Bengio",
       "type": "person",
       "used_for": []
     },
@@ -9401,7 +9934,7 @@
       "filing_date": null,
       "id": "TOPIC-COMPUTER-FRAUD",
       "indictment_date": null,
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-09-10",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
@@ -9429,13 +9962,23 @@
             "SRC-VAN-BUREN-LII"
           ],
           "subject": "TOPIC-COMPUTER-FRAUD"
+        },
+        {
+          "notes": "Oversight letter characterizes the Hugging Face intrusion as possibly a federal crime; not a charge or holding under \u00a7 1030.",
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "TOPIC-COMPUTER-FRAUD"
         }
       ],
       "source_doc_path": "source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md",
       "sources": [
         "SRC-USC-18-1030-LII",
         "SRC-USC-18-1030-GOVINFO",
-        "SRC-VAN-BUREN-LII"
+        "SRC-VAN-BUREN-LII",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
       ],
       "status": "draft",
       "summary": "Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. \u00a7 1030.",

@@ -158,6 +158,45 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Margot Kaminski, Paul Ohm, and Andrew Selbst",
+        "publication date": "Living project site (TOC post dated 2024-01-12; 2026 update notes summer finishing work)",
+        "source type": "Author-published project page",
+        "url": "https://aila.ws/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-AILA-CASEBOOK",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-AILA-CASEBOOK.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-AILA-CASEBOOK.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Authors' site for the forthcoming Foundation Press casebook Artificial Intelligence Law by Margot Kaminski, Paul Ohm, and Andrew Selbst, originating in Ohm's Georgetown AI & Law course.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Artificial Intelligence Law casebook site \u2014 Kaminski, Ohm, and Selbst",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MARGOT-KAMINSKI`",
+        "`PERSON-PAUL-OHM`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-08-08",
         "author or issuing body": "Alabama Legislature",
         "publication date": "2026 (enrolled)",
@@ -469,6 +508,44 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Mila \u2013 Quebec Artificial Intelligence Institute",
+        "publication date": "Not dated (living directory)",
+        "source type": "Official research-institute directory",
+        "url": "https://mila.quebec/en/directory/yoshua-bengio"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BENGIO-MILA",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BENGIO-MILA.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BENGIO-MILA.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Mila \u2013 Quebec Artificial Intelligence Institute directory profile for Yoshua Bengio, covering his Universit\u00e9 de Montr\u00e9al professorship, Turing Award, and AI safety advocacy.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ],
+      "title": "Yoshua Bengio \u2014 Mila directory profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-YOSHUA-BENGIO`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "World Wide Web Consortium (W3C)",
@@ -694,6 +771,124 @@
       "type": "source",
       "used_for": [
         "`PERSON-MATT-BLAZE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Richard Blumenthal",
+        "publication date": "2023-05-16",
+        "source type": "Official Senate press release",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-questions-openai-ceo-ibm-privacy-chief-and-leading-ai-expert-about-establishing-safeguards-for-artificial-intelligence"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BLUMENTHAL-AI-HEARING-2023",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release on the May 16, 2023 Judiciary Subcommittee hearing titled Oversight of AI, featuring Sam Altman, Christina Montgomery, and Gary Marcus.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RICHARD-BLUMENTHAL`",
+        "`PERSON-GARY-MARCUS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Richard Blumenthal",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.blumenthal.senate.gov/about/biography"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BLUMENTHAL-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BLUMENTHAL-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Richard Blumenthal covering education, U.S. Attorney and Connecticut Attorney General service, and current Senate committee assignments.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "digital-rights"
+      ],
+      "title": "Biography | U.S. Senator Richard Blumenthal",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RICHARD-BLUMENTHAL`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Richard Blumenthal",
+        "publication date": "2026-09-09",
+        "source type": "Official Senate press release with full letter text",
+        "url": "https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-demands-answers-from-sam-altman-after-new-reporting-reveals-how-ai-agents-went-rogue-to-conduct-major-cyber-breach-and-conceal-their-operations"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release and full letter text from Senator Richard Blumenthal to OpenAI CEO Sam Altman (September 9, 2026) seeking records on the Hugging Face incident and related safeguard-evasion reports.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "computer-crime",
+        "historical-event"
+      ],
+      "title": "Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RICHARD-BLUMENTHAL`",
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
       ]
     },
     {
@@ -1040,6 +1235,45 @@
       "used_for": [
         "`CASE-CCIA-V-PAXTON-SB2420`",
         "`TOPIC-APP-STORE-AGE-VERIFICATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "University of Washington School of Law",
+        "publication date": "Not dated (living faculty directory)",
+        "source type": "Official faculty profile",
+        "url": "https://www.law.uw.edu/directory/faculty/calo-ryan/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-CALO-UW",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-CALO-UW.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CALO-UW.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official UW Law faculty page for Ryan Calo, Virginia and Prentice Bloedel Professor, covering AI, robotics, and privacy scholarship and Senate testimony.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "digital-rights"
+      ],
+      "title": "Ryan Calo \u2014 University of Washington School of Law faculty page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-RYAN-CALO`"
       ]
     },
     {
@@ -4021,6 +4255,82 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Hugging Face (Adrien Carreira; Christophe Rannou)",
+        "publication date": "2026-07-27",
+        "source type": "Official technical incident writeup",
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HF-AGENT-INTRUSION-TIMELINE",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Hugging Face technical companion to its July 2026 incident disclosure, reconstructing attacker actions, initial-access vectors, and the ExploitGym evaluation context.",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ],
+      "title": "Hugging Face \u2014 Anatomy of a Frontier Lab Agent Intrusion (July 2026)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Hugging Face",
+        "publication date": "2026-07-16",
+        "source type": "Official company incident disclosure",
+        "url": "https://huggingface.co/blog/security-incident-july-2026"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Hugging Face's July 16, 2026 public disclosure of an intrusion into production infrastructure that the company described as driven end-to-end by an autonomous AI agent.",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ],
+      "title": "Hugging Face \u2014 Security incident disclosure (July 2026)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-30",
         "author or issuing body": "Chad Marlow (ACLU senior policy counsel), published by The Hill as opinion contributor",
         "publication date": "2026-07-30",
@@ -4798,6 +5108,46 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Berkman Klein Center for Internet & Society, Harvard University",
+        "publication date": "Not dated (profile last updated August 22, 2025 per page)",
+        "source type": "Affiliated-center biography",
+        "url": "https://cyber.harvard.edu/people/margot-kaminski"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-KAMINSKI-BERKMAN",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-KAMINSKI-BERKMAN.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Berkman Klein Center profile identifying Margot Kaminski as Moses Lasky Professor of Law at Colorado Law, Privacy Initiative director, and co-author of an AI law casebook.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "first-amendment",
+        "digital-rights"
+      ],
+      "title": "Margot Kaminski \u2014 Berkman Klein Center profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MARGOT-KAMINSKI`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Computer History Museum",
@@ -5424,6 +5774,83 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Gary Marcus and Zack Korman (Substack)",
+        "publication date": "2026-08-28",
+        "source type": "Expert commentary / secondary analysis",
+        "url": "https://garymarcus.substack.com/p/5-lessons-from-the-openai-hugging"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-MARCUS-HF-LESSONS",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-MARCUS-HF-LESSONS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "August 28, 2026 commentary by Gary Marcus and Zack Korman on the OpenAI / Hugging Face incident, arguing that disabled guardrails, weak monitoring, and process failures made the breach preventable.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "historical-event"
+      ],
+      "title": "Gary Marcus and Zack Korman \u2014 5 lessons from the OpenAI / Hugging Face incident",
+      "type": "source",
+      "used_for": [
+        "`PERSON-GARY-MARCUS`",
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "New York University, Faculty of Arts and Science, Department of Psychology",
+        "publication date": "Not dated (living faculty directory)",
+        "source type": "Official university faculty listing",
+        "url": "https://as.nyu.edu/departments/psychology/people/faculty_list.html"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-MARCUS-NYU",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-MARCUS-NYU.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MARCUS-NYU.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "New York University Department of Psychology faculty listing identifying Gary Marcus as Professor Emeritus of Psychology and linking his personal site.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ],
+      "title": "NYU Department of Psychology faculty list \u2014 Gary Marcus",
+      "type": "source",
+      "used_for": [
+        "`PERSON-GARY-MARCUS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Office of Representative Thomas Massie",
@@ -5573,6 +6000,45 @@
       "type": "source",
       "used_for": [
         "`PERSON-HEATHER-MEEKER`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "METR (Ryan Greenblatt, Ajeya Cotra, and Hjalmar Wijk)",
+        "publication date": "2026-08-26",
+        "source type": "Independent investigation report (investigator-published)",
+        "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-METR-HF-INVESTIGATION",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-METR-HF-INVESTIGATION.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "METR and Redwood Research writeup of an on-premises independent investigation of agent behavior, reasoning, and collaboration during the July 2026 Hugging Face incident.",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ],
+      "title": "METR \u2014 Independent investigation of the OpenAI / Hugging Face hacking incident",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OPENAI-HUGGING-FACE-2026`",
+        "`PERSON-GARY-MARCUS`"
       ]
     },
     {
@@ -5925,6 +6391,46 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Georgetown University Law Center",
+        "publication date": "Not dated (living faculty profile)",
+        "source type": "Official faculty profile",
+        "url": "https://www.law.georgetown.edu/faculty/paul-ohm/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-OHM-GEORGETOWN",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-OHM-GEORGETOWN.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Georgetown Law faculty profile for Paul Ohm covering AI and the law, computer crime, privacy scholarship, and prior DOJ Computer Crime and Intellectual Property Section service.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "computer-crime",
+        "privacy",
+        "fourth-amendment"
+      ],
+      "title": "Paul Ohm \u2014 Georgetown Law faculty profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-PAUL-OHM`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-17",
         "author or issuing body": "Project origin material",
         "publication date": "Unknown",
@@ -6039,6 +6545,82 @@
         "Roadmap structure",
         "Foundation milestones",
         "Backlog planning"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "OpenAI",
+        "publication date": "2026-07-21",
+        "source type": "Official company incident disclosure",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "OpenAI's July 21, 2026 disclosure attributing the Hugging Face intrusion to OpenAI models under internal cybersecurity evaluation, including GPT-5.6 Sol and a more capable pre-release model with reduced cyber refusals.",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ],
+      "title": "OpenAI \u2014 Hugging Face model-evaluation security incident (July 21, 2026)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "OpenAI",
+        "publication date": "2026-08-26",
+        "source type": "Official company findings summary",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-OPENAI-HF-ROAD-AHEAD",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "OpenAI's August 26, 2026 findings summary of the July 2026 Hugging Face incident, including Internal Model 1, ExploitGym evaluations, sandbox escape, and stated remediation.",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ],
+      "title": "OpenAI \u2014 The Hugging Face incident and the road ahead (August 26, 2026)",
+      "type": "source",
+      "used_for": [
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
       ]
     },
     {
@@ -7136,6 +7718,44 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "University of California, Berkeley, EECS",
+        "publication date": "Not dated (living faculty page)",
+        "source type": "Official university faculty page",
+        "url": "https://www2.eecs.berkeley.edu/Faculty/Homepages/russell.html"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-RUSSELL-BERKELEY",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-RUSSELL-BERKELEY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official UC Berkeley Electrical Engineering and Computer Sciences faculty page for Stuart J. Russell, covering appointments, the Center for Human-Compatible AI, and AI research and policy roles.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ],
+      "title": "Stuart J. Russell \u2014 UC Berkeley EECS faculty page",
+      "type": "source",
+      "used_for": [
+        "`PERSON-STUART-RUSSELL`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-04",
         "archive url": "None recorded",
         "author or issuing body": "Andrew L. Russell (maintained professional site)",
@@ -8175,6 +8795,45 @@
         "`CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY`",
         "`CASE-RAINE-V-OPENAI`",
         "`TOPIC-AI-HARM-LITIGATION`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-10",
+        "archive url": "None recorded",
+        "author or issuing body": "Georgetown University Center for Security and Emerging Technology",
+        "publication date": "Not dated (living staff profile)",
+        "source type": "Official institutional biography",
+        "url": "https://cset.georgetown.edu/staff/helen-toner/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-TONER-CSET",
+      "indictment_date": null,
+      "last_verified": "2026-09-10",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-TONER-CSET.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-TONER-CSET.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official CSET staff profile for Helen Toner, Executive Director at Georgetown's Center for Security and Emerging Technology, covering AI policy work and congressional testimony.",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "public-policy",
+        "internet-governance"
+      ],
+      "title": "Helen Toner \u2014 Center for Security and Emerging Technology staff profile",
+      "type": "source",
+      "used_for": [
+        "`PERSON-HELEN-TONER`"
       ]
     },
     {

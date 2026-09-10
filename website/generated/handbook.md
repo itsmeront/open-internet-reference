@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-09-04 | **Records:** 160 | **Sources referenced:** 260
+**Release:** 0.1.0 (Unreleased) | **Generated:** 2026-09-10 | **Records:** 169 | **Sources referenced:** 277
 
 <div class="oir-handbook" markdown="1">
 
@@ -109,6 +109,7 @@ Knowledge records included in this handbook, grouped by type.
 - [FISA Amendments Act of 2008 (Telecom Immunity / Legislative Override)](#EVENT-FISA-AMENDMENTS-ACT-2008) (`EVENT-FISA-AMENDMENTS-ACT-2008`)
 - [Russia FSB Charges Against Pavel Durov / Telegram (July 2026)](#EVENT-FSB-DUROV-TELEGRAM-2026) (`EVENT-FSB-DUROV-TELEGRAM-2026`)
 - [OFAC Designation of Blender.io (May 6, 2022)](#EVENT-OFAC-BLENDER-2022) (`EVENT-OFAC-BLENDER-2022`)
+- [OpenAI / Hugging Face Agent Intrusion (July 2026)](#EVENT-OPENAI-HUGGING-FACE-2026) (`EVENT-OPENAI-HUGGING-FACE-2026`)
 - [U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996)](#EVENT-ZIMMERMANN-PGP-INVESTIGATION) (`EVENT-ZIMMERMANN-PGP-INVESTIGATION`)
 
 ### Organization
@@ -145,6 +146,8 @@ Knowledge records included in this handbook, grouped by type.
 - [Cory Booker](#PERSON-CORY-BOOKER) (`PERSON-CORY-BOOKER`)
 - [danah boyd](#PERSON-DANAH-BOYD) (`PERSON-DANAH-BOYD`)
 - [David P. Reed](#PERSON-DAVID-REED) (`PERSON-DAVID-REED`)
+- [Gary Marcus](#PERSON-GARY-MARCUS) (`PERSON-GARY-MARCUS`)
+- [Helen Toner](#PERSON-HELEN-TONER) (`PERSON-HELEN-TONER`)
 - [Henry Fonda](#PERSON-HENRY-FONDA) (`PERSON-HENRY-FONDA`)
 - [Ian Clarke](#PERSON-IAN-CLARKE) (`PERSON-IAN-CLARKE`)
 - [Jane Fonda](#PERSON-JANE-FONDA) (`PERSON-JANE-FONDA`)
@@ -152,22 +155,28 @@ Knowledge records included in this handbook, grouped by type.
 - [Jonathan Zittrain](#PERSON-JONATHAN-ZITTRAIN) (`PERSON-JONATHAN-ZITTRAIN`)
 - [Lauren Weinstein](#PERSON-LAUREN-WEINSTEIN) (`PERSON-LAUREN-WEINSTEIN`)
 - [Lawrence Lessig](#PERSON-LAWRENCE-LESSIG) (`PERSON-LAWRENCE-LESSIG`)
+- [Margot Kaminski](#PERSON-MARGOT-KAMINSKI) (`PERSON-MARGOT-KAMINSKI`)
 - [Matt Blaze](#PERSON-MATT-BLAZE) (`PERSON-MATT-BLAZE`)
 - [Mike Lee](#PERSON-MIKE-LEE) (`PERSON-MIKE-LEE`)
 - [Orin Kerr](#PERSON-ORIN-KERR) (`PERSON-ORIN-KERR`)
+- [Paul Ohm](#PERSON-PAUL-OHM) (`PERSON-PAUL-OHM`)
 - [Paul Vixie](#PERSON-PAUL-VIXIE) (`PERSON-PAUL-VIXIE`)
 - [Pavel Durov](#PERSON-PAVEL-DUROV) (`PERSON-PAVEL-DUROV`)
 - [Phil Zimmermann](#PERSON-PHIL-ZIMMERMANN) (`PERSON-PHIL-ZIMMERMANN`)
 - [Rand Paul](#PERSON-RAND-PAUL) (`PERSON-RAND-PAUL`)
+- [Richard Blumenthal](#PERSON-RICHARD-BLUMENTHAL) (`PERSON-RICHARD-BLUMENTHAL`)
 - [Ro Khanna](#PERSON-RO-KHANNA) (`PERSON-RO-KHANNA`)
 - [Robert Kahn](#PERSON-ROBERT-KAHN) (`PERSON-ROBERT-KAHN`)
 - [Ron Rivest](#PERSON-RON-RIVEST) (`PERSON-RON-RIVEST`)
 - [Ron Wyden](#PERSON-RON-WYDEN) (`PERSON-RON-WYDEN`)
+- [Ryan Calo](#PERSON-RYAN-CALO) (`PERSON-RYAN-CALO`)
+- [Stuart Russell](#PERSON-STUART-RUSSELL) (`PERSON-STUART-RUSSELL`)
 - [Thomas Haigh](#PERSON-THOMAS-HAIGH) (`PERSON-THOMAS-HAIGH`)
 - [Thomas Massie](#PERSON-THOMAS-MASSIE) (`PERSON-THOMAS-MASSIE`)
 - [Tim Berners-Lee](#PERSON-TIM-BERNERS-LEE) (`PERSON-TIM-BERNERS-LEE`)
 - [Vint Cerf](#PERSON-VINT-CERF) (`PERSON-VINT-CERF`)
 - [Whitfield Diffie](#PERSON-WHITFIELD-DIFFIE) (`PERSON-WHITFIELD-DIFFIE`)
+- [Yoshua Bengio](#PERSON-YOSHUA-BENGIO) (`PERSON-YOSHUA-BENGIO`)
 - [Zoe Lofgren](#PERSON-ZOE-LOFGREN) (`PERSON-ZOE-LOFGREN`)
 
 ### Protocol
@@ -773,6 +782,15 @@ The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 19
 
 Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.
 
+### Gary Marcus { #PERSON-GARY-MARCUS-glossary }
+
+- **Record ID:** `PERSON-GARY-MARCUS`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, researcher, public-policy
+
+Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.
+
 ### GEMA v. OpenAI (LG München I) { #CASE-GEMA-V-OPENAI-glossary }
 
 - **Record ID:** `CASE-GEMA-V-OPENAI`
@@ -826,6 +844,15 @@ GrapheneOS is a privacy- and security-focused open-source mobile operating syste
 - **Tags:** attorney, open-source-software
 
 Heather Meeker is an open source licensing attorney and partner at Tech Law Partners LLP, known for advising technology companies on open source compliance, license drafting, and software transactions.
+
+### Helen Toner { #PERSON-HELEN-TONER-glossary }
+
+- **Record ID:** `PERSON-HELEN-TONER`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, public-policy, internet-governance, researcher
+
+Helen Toner is Executive Director of Georgetown's Center for Security and Emerging Technology, an AI-governance researcher who has advised policymakers on AI strategy and testified before congressional committees.
 
 ### Henry Fonda { #PERSON-HENRY-FONDA-glossary }
 
@@ -1079,6 +1106,15 @@ Lenz v. Universal Music Corp., 801 F.3d 1126 (9th Cir. 2015), held that copyrigh
 
 Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.
 
+### Margot Kaminski { #PERSON-MARGOT-KAMINSKI-glossary }
+
+- **Record ID:** `PERSON-MARGOT-KAMINSKI`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, privacy, first-amendment, digital-rights
+
+Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.
+
 ### Matt Blaze { #PERSON-MATT-BLAZE-glossary }
 
 - **Record ID:** `PERSON-MATT-BLAZE`
@@ -1169,6 +1205,15 @@ Safe harbor in U.S. copyright law commonly refers to limitations on intermediary
 
 The Open Source Initiative is a non-profit corporation with global scope formed to educate about and advocate for the benefits of open source software.
 
+### OpenAI / Hugging Face Agent Intrusion (July 2026) { #EVENT-OPENAI-HUGGING-FACE-2026-glossary }
+
+- **Record ID:** `EVENT-OPENAI-HUGGING-FACE-2026`
+- **Type:** historical_event
+- **Status:** draft
+- **Tags:** historical-event, artificial-intelligence, computer-crime, case-studies, digital-rights, public-policy
+
+In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+
 ### Orin Kerr { #PERSON-ORIN-KERR-glossary }
 
 - **Record ID:** `PERSON-ORIN-KERR`
@@ -1195,6 +1240,15 @@ Packingham v. North Carolina, 582 U.S. 98 (2017), held unanimously that a North 
 - **Tags:** attorney, open-source-software
 
 Pamela Chestek is an attorney at Chestek Legal practicing trademark, copyright, open source, and advertising law, and a former Open Source Initiative board member and licensing committee chair.
+
+### Paul Ohm { #PERSON-PAUL-OHM-glossary }
+
+- **Record ID:** `PERSON-PAUL-OHM`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, computer-crime, privacy, fourth-amendment, digital-rights
+
+Paul Ohm is a Professor of Law at Georgetown University Law Center whose work spans artificial intelligence and the law, computer crime, privacy, and surveillance, including prior service in DOJ's Computer Crime and Intellectual Property Section.
 
 ### Paul Vixie { #PERSON-PAUL-VIXIE-glossary }
 
@@ -1304,6 +1358,15 @@ Reno v. American Civil Liberties Union, 521 U.S. 844 (1997), held that certain C
 
 The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.
 
+### Richard Blumenthal { #PERSON-RICHARD-BLUMENTHAL-glossary }
+
+- **Record ID:** `PERSON-RICHARD-BLUMENTHAL`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, public-policy, artificial-intelligence, digital-rights, computer-crime
+
+Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.
+
 ### Ro Khanna { #PERSON-RO-KHANNA-glossary }
 
 - **Record ID:** `PERSON-RO-KHANNA`
@@ -1348,6 +1411,15 @@ Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Commu
 - **Tags:** historical-event, intermediary-liability, secure-messaging, encryption-law, digital-rights, censorship-resistance, case-studies
 
 On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilitating terrorist activity, alleging Telegram failed to remove channels used to coordinate attacks and sabotage, and placed him on an international wanted list.
+
+### Ryan Calo { #PERSON-RYAN-CALO-glossary }
+
+- **Record ID:** `PERSON-RYAN-CALO`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, privacy, digital-rights, public-policy
+
+Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Washington, a co-founder of the UW Tech Policy Lab, and a leading academic on law and artificial intelligence who has testified before the U.S. Senate.
 
 ### Samourai Wallet { #TECH-SAMOURAI-WALLET-glossary }
 
@@ -1411,6 +1483,15 @@ Pending Northern District of California publisher action filed August 28, 2026, 
 - **Tags:** case, copyright, artificial-intelligence, digital-rights
 
 Pending Northern District of California declaratory-judgment action asking whether AI-generated “brainrot” meme characters used in the Roblox game Steal a Brainrot are protected by U.S. copyright.
+
+### Stuart Russell { #PERSON-STUART-RUSSELL-glossary }
+
+- **Record ID:** `PERSON-STUART-RUSSELL`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, researcher, public-policy
+
+Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.
 
 ### Telegram { #ORG-TELEGRAM-glossary }
 
@@ -1654,6 +1735,15 @@ Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented pu
 - **Tags:** organization, open-source-software, digital-rights, outreach
 
 Wilson Sonsini Goodrich & Rosati is the premier provider of legal services to technology companies, representing more than 350 public and private software companies and more venture-backed software companies than any other U.S. law firm.
+
+### Yoshua Bengio { #PERSON-YOSHUA-BENGIO-glossary }
+
+- **Record ID:** `PERSON-YOSHUA-BENGIO`
+- **Type:** person
+- **Status:** draft
+- **Tags:** person, artificial-intelligence, researcher, public-policy
+
+Yoshua Bengio is a full professor at Université de Montréal, founder of Mila – Quebec Artificial Intelligence Institute, and a 2018 A.M. Turing Award laureate known for deep-learning research and for public work on mitigating catastrophic risks from future AI systems.
 
 ### Zoe Lofgren { #PERSON-ZOE-LOFGREN-glossary }
 
@@ -2148,6 +2238,13 @@ On July 29, 2026, Russia's FSB charged Telegram founder Pavel Durov with facilit
 
 On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 13694 — Treasury’s first sanctions action against a virtual currency mixer — citing laundering of proceeds linked to DPRK cyber activity.
 
+#### [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): OpenAI / Hugging Face Agent Intrusion (July 2026) { #EVENT-OPENAI-HUGGING-FACE-2026 }
+
+- Status: `draft`
+- Sources: [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md), [`SRC-HF-AGENT-INTRUSION-TIMELINE`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md), [`SRC-OPENAI-HF-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md), [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md), [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md), [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md), [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+
 #### [`EVENT-ZIMMERMANN-PGP-INVESTIGATION`](source-docs/knowledge/legal/EVENT-ZIMMERMANN-PGP-INVESTIGATION.md): U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION }
 
 - Status: `draft`
@@ -2362,6 +2459,20 @@ danah boyd is a partner researcher at Microsoft Research, founder of the Data & 
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
 
+#### [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md): Gary Marcus { #PERSON-GARY-MARCUS }
+
+- Status: `draft`
+- Sources: [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md), [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md), [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.
+
+#### [`PERSON-HELEN-TONER`](source-docs/knowledge/people/PERSON-HELEN-TONER.md): Helen Toner { #PERSON-HELEN-TONER }
+
+- Status: `draft`
+- Sources: [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md)
+
+Helen Toner is Executive Director of Georgetown's Center for Security and Emerging Technology, an AI-governance researcher who has advised policymakers on AI strategy and testified before congressional committees.
+
 #### [`PERSON-HENRY-FONDA`](source-docs/knowledge/people/PERSON-HENRY-FONDA.md): Henry Fonda { #PERSON-HENRY-FONDA }
 
 - Status: `draft`
@@ -2411,6 +2522,13 @@ Lauren Weinstein is an internet pioneer who was present at ARPANET's first site 
 
 Lawrence Lessig is the Roy L. Furman Professor of Law and Leadership at Harvard Law School, founder of Stanford's Center for Internet and Society, and author of foundational works on internet law and free culture including Code and Other Laws of Cyberspace and Free Culture.
 
+#### [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md): Margot Kaminski { #PERSON-MARGOT-KAMINSKI }
+
+- Status: `draft`
+- Sources: [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md), [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.
+
 #### [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md): Matt Blaze { #PERSON-MATT-BLAZE }
 
 - Status: `draft`
@@ -2431,6 +2549,13 @@ Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-author
 - Sources: [`SRC-ORIN-KERR-GWU`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md)
 
 Orin Kerr is the Fred C. Stevenson Research Professor at George Washington University Law School and one of the most cited academic authorities on the Computer Fraud and Abuse Act, electronic surveillance law, and Fourth Amendment issues in networked environments.
+
+#### [`PERSON-PAUL-OHM`](source-docs/knowledge/people/PERSON-PAUL-OHM.md): Paul Ohm { #PERSON-PAUL-OHM }
+
+- Status: `draft`
+- Sources: [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md), [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
+
+Paul Ohm is a Professor of Law at Georgetown University Law Center whose work spans artificial intelligence and the law, computer crime, privacy, and surveillance, including prior service in DOJ's Computer Crime and Intellectual Property Section.
 
 #### [`PERSON-PAUL-VIXIE`](source-docs/knowledge/people/PERSON-PAUL-VIXIE.md): Paul Vixie { #PERSON-PAUL-VIXIE }
 
@@ -2460,6 +2585,13 @@ Phil Zimmermann is the creator of Pretty Good Privacy (PGP) whose 1990s export i
 
 Rand Paul is a U.S. Senator from Kentucky who has introduced legislation to protect Fourth Amendment rights in the digital age, including the Fourth Amendment Restoration and Protection Act and amendments to prevent government from compelling companies to weaken encryption.
 
+#### [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): Richard Blumenthal { #PERSON-RICHARD-BLUMENTHAL }
+
+- Status: `draft`
+- Sources: [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md), [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md), [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+
+Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.
+
 #### [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md): Ro Khanna { #PERSON-RO-KHANNA }
 
 - Status: `draft`
@@ -2487,6 +2619,20 @@ Ron Rivest is an MIT Institute Professor, co-inventor of the RSA public-key cryp
 - Sources: [`SRC-WYDEN-SECTION-230`](source-docs/bibliography/people/SRC-WYDEN-SECTION-230.md), [`SRC-WYDEN-AARONS-LAW`](source-docs/bibliography/people/SRC-WYDEN-AARONS-LAW.md), [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md), [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md), [`SRC-WYDEN-EARN-IT`](source-docs/bibliography/people/SRC-WYDEN-EARN-IT.md)
 
 Ron Wyden is a U.S. Senator from Oregon who co-authored Section 230 of the Communications Decency Act, champions encryption and privacy rights, and has introduced legislation including Aaron's Law (CFAA reform), the Fourth Amendment Is Not For Sale Act, and the USA RIGHTS Act.
+
+#### [`PERSON-RYAN-CALO`](source-docs/knowledge/people/PERSON-RYAN-CALO.md): Ryan Calo { #PERSON-RYAN-CALO }
+
+- Status: `draft`
+- Sources: [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md)
+
+Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Washington, a co-founder of the UW Tech Policy Lab, and a leading academic on law and artificial intelligence who has testified before the U.S. Senate.
+
+#### [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md): Stuart Russell { #PERSON-STUART-RUSSELL }
+
+- Status: `draft`
+- Sources: [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
+
+Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.
 
 #### [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md): Thomas Haigh { #PERSON-THOMAS-HAIGH }
 
@@ -2522,6 +2668,13 @@ Vint Cerf is a computer scientist widely recognized as a co-designer of TCP/IP, 
 - Sources: [`SRC-DIFFIE-CISAC`](source-docs/bibliography/people/SRC-DIFFIE-CISAC.md)
 
 Whitfield Diffie is a cryptographer and Turing Award laureate who co-invented public-key cryptography and has advocated for the legal right to use strong encryption.
+
+#### [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md): Yoshua Bengio { #PERSON-YOSHUA-BENGIO }
+
+- Status: `draft`
+- Sources: [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md)
+
+Yoshua Bengio is a full professor at Université de Montréal, founder of Mila – Quebec Artificial Intelligence Institute, and a 2018 A.M. Turing Award laureate known for deep-learning research and for public work on mitigating catastrophic risks from future AI systems.
 
 #### [`PERSON-ZOE-LOFGREN`](source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md): Zoe Lofgren { #PERSON-ZOE-LOFGREN }
 
@@ -2709,7 +2862,7 @@ The code-as-speech doctrine concerns whether software source code receives First
 #### [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): Computer Fraud and Abuse { #TOPIC-COMPUTER-FRAUD }
 
 - Status: `draft`
-- Sources: [`SRC-USC-18-1030-LII`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md), [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md), [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md)
+- Sources: [`SRC-USC-18-1030-LII`](source-docs/bibliography/legal/SRC-USC-18-1030-LII.md), [`SRC-USC-18-1030-GOVINFO`](source-docs/bibliography/legal/SRC-USC-18-1030-GOVINFO.md), [`SRC-VAN-BUREN-LII`](source-docs/bibliography/legal/SRC-VAN-BUREN-LII.md), [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
 
 Computer fraud and abuse in U.S. federal law commonly refers to criminal prohibitions on unauthorized access and related computer activity under 18 U.S.C. § 1030.
 
@@ -2812,6 +2965,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-ABDO-KNIGHT`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md): Alex Abdo Knight Institute Biography (`verified`)
 - [`SRC-ACLU-CONTACT`](source-docs/bibliography/organizations/SRC-ACLU-CONTACT.md): American Civil Liberties Union Contact Page (`verified`)
 - [`SRC-ACLU-HISTORY`](source-docs/bibliography/organizations/SRC-ACLU-HISTORY.md): American Civil Liberties Union History Page (`verified`)
+- [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md): Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst (`draft`)
 - [`SRC-AL-HB161-ENROLLED`](source-docs/bibliography/legal/SRC-AL-HB161-ENROLLED.md): Alabama HB 161 Enrolled — App Store Accountability Act (`draft`)
 - [`SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`](source-docs/bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md): Alston & Bird — Challenge to Utah ASAA Voluntarily Dismissed (April 2026) (`draft`)
 - [`SRC-ANDERSEN-V-STABILITY-DOCKET`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-DOCKET.md): Andersen v. Stability AI Ltd., CourtListener docket (N.D. Cal. No. 3:23-cv-00201) (`draft`)
@@ -2820,12 +2974,16 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-BARTZ-V-ANTHROPIC-FAIR-USE`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FAIR-USE.md): Bartz v. Anthropic PBC, Order on Fair Use (N.D. Cal. June 23, 2025) (`draft`)
 - [`SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`](source-docs/bibliography/legal/SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL.md): Bartz v. Anthropic PBC, Order Granting Final Approval of Class Action Settlement (N.D. Cal. July 20, 2026) (`draft`)
 - [`SRC-BBC-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-BBC-DUROV-FSB-2026.md): BBC News — Russia Charges Telegram Founder Pavel Durov with Facilitating Terrorism (`draft`)
+- [`SRC-BENGIO-MILA`](source-docs/bibliography/people/SRC-BENGIO-MILA.md): Yoshua Bengio — Mila directory profile (`draft`)
 - [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md): Tim Berners-Lee W3C Biography (`verified`)
 - [`SRC-BERNSTEIN-EFF`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF.md): Bernstein v. US Dept. of Justice EFF Case Page (`verified`)
 - [`SRC-BERNSTEIN-EFF-25`](source-docs/bibliography/legal/SRC-BERNSTEIN-EFF-25.md): EFF at 25 - Remembering the Case that Established Code as Speech (`verified`)
 - [`SRC-BERNSTEIN-JUSTIA`](source-docs/bibliography/legal/SRC-BERNSTEIN-JUSTIA.md): Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia) (`verified`)
 - [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography (`verified`)
 - [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md): Matt Blaze Georgetown Faculty Profile (`verified`)
+- [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md): Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence (`draft`)
+- [`SRC-BLUMENTHAL-BIO`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md): Biography \| U.S. Senator Richard Blumenthal (`draft`)
+- [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md): Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach (`draft`)
 - [`SRC-BMG-V-ANTHROPIC-COMPLAINT`](source-docs/bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md): BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026) (`draft`)
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md): Booker Announces Introduction of Bill to Ban Surveillance Advertising (`draft`)
 - [`SRC-BOYD-MSR`](source-docs/bibliography/people/SRC-BOYD-MSR.md): danah boyd Microsoft Research Profile (`verified`)
@@ -2835,6 +2993,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-CA-AB-1043-STATUS`](source-docs/bibliography/legal/SRC-CA-AB-1043-STATUS.md): California AB 1043 Bill Status — Chaptered October 13, 2025 (`draft`)
 - [`SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE`](source-docs/bibliography/legal/SRC-CA-CIV-1798-500-DIGITAL-AGE-ASSURANCE.md): California Civil Code Title 1.81.9 — Digital Age Assurance Act (leginfo) (`draft`)
 - [`SRC-CA5-SB2420-STAY-ORDER`](source-docs/bibliography/legal/SRC-CA5-SB2420-STAY-ORDER.md): Fifth Circuit — Stay Pending Appeal of SB 2420 Preliminary Injunctions (June 4, 2026) (`draft`)
+- [`SRC-CALO-UW`](source-docs/bibliography/people/SRC-CALO-UW.md): Ryan Calo — University of Washington School of Law faculty page (`draft`)
 - [`SRC-CARPENTER-GOVINFO`](source-docs/bibliography/legal/SRC-CARPENTER-GOVINFO.md): Carpenter v. United States, 585 U.S. 296 (2018) (GovInfo) (`verified`)
 - [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md): Carpenter v. United States, 585 U.S. 296 (2018) (Cornell LII) (`verified`)
 - [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md): CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.) (`draft`)
@@ -2912,6 +3071,8 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-GRAPHENEOS-FEATURES`](source-docs/bibliography/technical/SRC-GRAPHENEOS-FEATURES.md): GrapheneOS Features Overview — Duress PIN/Password (`draft`)
 - [`SRC-GUARDIAN-FREENET-DARK-SIDE-2009`](source-docs/bibliography/people/SRC-GUARDIAN-FREENET-DARK-SIDE-2009.md): The Guardian — The Dark Side of the Internet (Freenet, 2009) (`draft`)
 - [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md): Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile (`verified`)
+- [`SRC-HF-AGENT-INTRUSION-TIMELINE`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md): Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026) (`draft`)
+- [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md): Hugging Face — Security incident disclosure (July 2026) (`draft`)
 - [`SRC-HILL-MARLOW-REVERSE-WARRANTS-2026`](source-docs/bibliography/legal/SRC-HILL-MARLOW-REVERSE-WARRANTS-2026.md): The Hill — Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026) (`draft`)
 - [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md): Hyphanet Home Page (`draft`)
 - [`SRC-HYPHANET-RENAME`](source-docs/bibliography/organizations/SRC-HYPHANET-RENAME.md): Freenet Renamed to Hyphanet (`draft`)
@@ -2932,6 +3093,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-KADEMLIA-PAPER`](source-docs/bibliography/academic/SRC-KADEMLIA-PAPER.md): Kademlia: A Peer-to-Peer Information System Based on the XOR Metric (`verified`)
 - [`SRC-KADREY-V-META-FAIR-USE`](source-docs/bibliography/legal/SRC-KADREY-V-META-FAIR-USE.md): Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025) (`draft`)
 - [`SRC-KAHN-CNRI`](source-docs/bibliography/people/SRC-KAHN-CNRI.md): Robert E. Kahn CNRI Biography (`verified`)
+- [`SRC-KAMINSKI-BERKMAN`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md): Margot Kaminski — Berkman Klein Center profile (`draft`)
 - [`SRC-KAY-CHM`](source-docs/bibliography/people/SRC-KAY-CHM.md): Alan Kay Computer History Museum Profile (`verified`)
 - [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md): Rep. Khanna Releases Internet Bill of Rights Principles Endorsed by Sir Tim Berners-Lee (`draft`)
 - [`SRC-KNESCHKE-LG-HAMBURG-2024`](source-docs/bibliography/legal/SRC-KNESCHKE-LG-HAMBURG-2024.md): Kneschke v. LAION e.V., LG Hamburg, 310 O 227/23 (Sept. 27, 2024) (`draft`)
@@ -2948,10 +3110,13 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-LWN-GNUNET-INTRO-2005`](source-docs/bibliography/technical/SRC-LWN-GNUNET-INTRO-2005.md): LWN.net — An Introduction to GNUnet (2005) (`draft`)
 - [`SRC-LYONS-V-OPENAI-COMPLAINT`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-COMPLAINT.md): Lyons v. OpenAI Foundation, Complaint (N.D. Cal. Dec. 29, 2025) (`draft`)
 - [`SRC-LYONS-V-OPENAI-MTD-2026`](source-docs/bibliography/legal/SRC-LYONS-V-OPENAI-MTD-2026.md): Lyons v. OpenAI Foundation, Order Denying Motion to Dismiss or Stay (N.D. Cal. Apr. 13, 2026) (`draft`)
+- [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md): Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident (`draft`)
+- [`SRC-MARCUS-NYU`](source-docs/bibliography/people/SRC-MARCUS-NYU.md): NYU Department of Psychology faculty list — Gary Marcus (`draft`)
 - [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md): House Passes Massie Amendment to Strengthen Privacy and Security (`draft`)
 - [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography (`verified`)
 - [`SRC-MEDUZA-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-MEDUZA-DUROV-FSB-2026.md): Meduza — FSB Accuses Durov of Aiding Terrorism and Issues International Arrest Warrant (`draft`)
 - [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md): Heather Meeker About Page (`verified`)
+- [`SRC-METR-HF-INVESTIGATION`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md): METR — Independent investigation of the OpenAI / Hugging Face hacking incident (`draft`)
 - [`SRC-MOGLEN-COLUMBIA`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md): Eben Moglen Columbia Law School Faculty Page (`verified`)
 - [`SRC-MOGLEN-DSI`](source-docs/bibliography/people/SRC-MOGLEN-DSI.md): Eben Moglen Columbia Data Science Institute Profile (`verified`)
 - [`SRC-NLR-CHATGPT-JCCP-2026`](source-docs/bibliography/legal/SRC-NLR-CHATGPT-JCCP-2026.md): National Law Review, California Superior Court Consolidates Product Liability Actions Against OpenAI (May 20, 2026) (`draft`)
@@ -2961,6 +3126,9 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-NYT-V-PERPLEXITY-DOCKET`](source-docs/bibliography/legal/SRC-NYT-V-PERPLEXITY-DOCKET.md): The New York Times Company v. Perplexity AI, Inc., CourtListener docket (S.D.N.Y. No. 1:25-cv-10106) (`draft`)
 - [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md): OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation (`draft`)
 - [`SRC-OFAC-TC-REMOVAL-20250321`](source-docs/bibliography/legal/SRC-OFAC-TC-REMOVAL-20250321.md): OFAC Recent Actions — Cyber-related Designation Removal (Mar. 21, 2025) (`draft`)
+- [`SRC-OHM-GEORGETOWN`](source-docs/bibliography/people/SRC-OHM-GEORGETOWN.md): Paul Ohm — Georgetown Law faculty profile (`draft`)
+- [`SRC-OPENAI-HF-INCIDENT-JULY-2026`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md): OpenAI — Hugging Face model-evaluation security incident (July 21, 2026) (`draft`)
+- [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md): OpenAI — The Hugging Face incident and the road ahead (August 26, 2026) (`draft`)
 - [`SRC-ORIN-KERR-GWU`](source-docs/bibliography/people/SRC-ORIN-KERR-GWU.md): Orin Kerr George Washington University Law Faculty Page (`verified`)
 - [`SRC-OSI-ABOUT`](source-docs/bibliography/organizations/SRC-OSI-ABOUT.md): Open Source Initiative About Page (`verified`)
 - [`SRC-OSI-HISTORY`](source-docs/bibliography/organizations/SRC-OSI-HISTORY.md): Open Source Initiative History Page (`verified`)
@@ -2989,6 +3157,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-RFC-9293`](source-docs/bibliography/technical/SRC-RFC-9293.md): RFC 9293: Transmission Control Protocol (TCP) (`verified`)
 - [`SRC-RFERL-TELEGRAM-BLOCK-2018`](source-docs/bibliography/people/SRC-RFERL-TELEGRAM-BLOCK-2018.md): RFE/RL — Russian Court Orders Telegram App Blocked (2018) (`draft`)
 - [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md): Ronald L. Rivest MIT CSAIL Profile (`verified`)
+- [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md): Stuart J. Russell — UC Berkeley EECS faculty page (`draft`)
 - [`SRC-RUSSELL-PROFILE`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md): Andrew L. Russell Professional Profile (`verified`)
 - [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md): Bruce Schneier About Page (`verified`)
 - [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md): EFF Section 230 Page (`verified`)
@@ -3016,6 +3185,7 @@ Primary sources cited by knowledge records in this edition. This appendix is not
 - [`SRC-THOMSON-REUTERS-V-ROSS-2025`](source-docs/bibliography/legal/SRC-THOMSON-REUTERS-V-ROSS-2025.md): Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc., No. 1:20-cv-613-SB (D. Del. Feb. 11, 2025) (`draft`)
 - [`SRC-TIEN-EFF`](source-docs/bibliography/people/SRC-TIEN-EFF.md): Lee Tien EFF Staff Biography (`verified`)
 - [`SRC-TJLP-JCCP-5431-2026`](source-docs/bibliography/legal/SRC-TJLP-JCCP-5431-2026.md): Tech Justice Law Project update on ChatGPT JCCP No. 5431 (Feb. 3, 2026) (`draft`)
+- [`SRC-TONER-CSET`](source-docs/bibliography/people/SRC-TONER-CSET.md): Helen Toner — Center for Security and Emerging Technology staff profile (`draft`)
 - [`SRC-TOR-DESIGN-PAPER`](source-docs/bibliography/academic/SRC-TOR-DESIGN-PAPER.md): Tor: The Second-Generation Onion Router (`verified`)
 - [`SRC-TOR-PROJECT-CONTACT`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-CONTACT.md): Tor Project Contact Page (`verified`)
 - [`SRC-TOR-PROJECT-HISTORY`](source-docs/bibliography/organizations/SRC-TOR-PROJECT-HISTORY.md): Tor Project History Page (`verified`)

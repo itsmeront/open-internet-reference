@@ -87,6 +87,54 @@
       ]
     },
     {
+      "source_id": "SRC-AILA-CASEBOOK",
+      "source_title": "Artificial Intelligence Law casebook site \u2014 Kaminski, Ohm, and Selbst",
+      "usages": [
+        {
+          "record_id": "PERSON-MARGOT-KAMINSKI",
+          "record_title": "Margot Kaminski",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-AILA-CASEBOOK",
+          "predicate": "cites",
+          "record_id": "PERSON-MARGOT-KAMINSKI",
+          "record_title": "Margot Kaminski",
+          "subject": "PERSON-MARGOT-KAMINSKI",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-PAUL-OHM",
+          "predicate": "related_to",
+          "record_id": "PERSON-MARGOT-KAMINSKI",
+          "record_title": "Margot Kaminski",
+          "subject": "PERSON-MARGOT-KAMINSKI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-AILA-CASEBOOK",
+          "predicate": "cites",
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "subject": "PERSON-PAUL-OHM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MARGOT-KAMINSKI",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "subject": "PERSON-PAUL-OHM",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-AL-HB161-ENROLLED",
       "source_title": "Alabama HB 161 Enrolled \u2014 App Store Accountability Act",
       "usages": [
@@ -438,6 +486,25 @@
       ]
     },
     {
+      "source_id": "SRC-BENGIO-MILA",
+      "source_title": "Yoshua Bengio \u2014 Mila directory profile",
+      "usages": [
+        {
+          "record_id": "PERSON-YOSHUA-BENGIO",
+          "record_title": "Yoshua Bengio",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BENGIO-MILA",
+          "predicate": "cites",
+          "record_id": "PERSON-YOSHUA-BENGIO",
+          "record_title": "Yoshua Bengio",
+          "subject": "PERSON-YOSHUA-BENGIO",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BERNERS-LEE-W3C",
       "source_title": "Tim Berners-Lee W3C Biography",
       "usages": [
@@ -663,6 +730,142 @@
           "record_id": "PERSON-MATT-BLAZE",
           "record_title": "Matt Blaze",
           "subject": "PERSON-MATT-BLAZE",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BLUMENTHAL-AI-HEARING-2023",
+      "source_title": "Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence",
+      "usages": [
+        {
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+          "predicate": "cites",
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "subject": "PERSON-GARY-MARCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "subject": "PERSON-GARY-MARCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+          "predicate": "cites",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-GARY-MARCUS",
+          "predicate": "related_to",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BLUMENTHAL-BIO",
+      "source_title": "Biography | U.S. Senator Richard Blumenthal",
+      "usages": [
+        {
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+      "source_title": "Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "TOPIC-COMPUTER-FRAUD",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+          "predicate": "cites",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "usage": "page_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "TOPIC-COMPUTER-FRAUD",
+          "record_title": "Computer Fraud and Abuse",
+          "subject": "TOPIC-COMPUTER-FRAUD",
           "usage": "relationship_source"
         }
       ]
@@ -968,6 +1171,25 @@
           "record_id": "TOPIC-APP-STORE-AGE-VERIFICATION",
           "record_title": "App Store and Operating System Age-Verification Laws",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CALO-UW",
+      "source_title": "Ryan Calo \u2014 University of Washington School of Law faculty page",
+      "usages": [
+        {
+          "record_id": "PERSON-RYAN-CALO",
+          "record_title": "Ryan Calo",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CALO-UW",
+          "predicate": "cites",
+          "record_id": "PERSON-RYAN-CALO",
+          "record_title": "Ryan Calo",
+          "subject": "PERSON-RYAN-CALO",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -3640,6 +3862,36 @@
       ]
     },
     {
+      "source_id": "SRC-HF-AGENT-INTRUSION-TIMELINE",
+      "source_title": "Hugging Face \u2014 Anatomy of a Frontier Lab Agent Intrusion (July 2026)",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+      "source_title": "Hugging Face \u2014 Security incident disclosure (July 2026)",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+          "predicate": "cites",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-HILL-MARLOW-REVERSE-WARRANTS-2026",
       "source_title": "The Hill \u2014 Chad Marlow Opinion on Reverse Warrants / Chatrie (July 30, 2026)",
       "usages": [
@@ -4373,6 +4625,25 @@
       ]
     },
     {
+      "source_id": "SRC-KAMINSKI-BERKMAN",
+      "source_title": "Margot Kaminski \u2014 Berkman Klein Center profile",
+      "usages": [
+        {
+          "record_id": "PERSON-MARGOT-KAMINSKI",
+          "record_title": "Margot Kaminski",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-KAMINSKI-BERKMAN",
+          "predicate": "cites",
+          "record_id": "PERSON-MARGOT-KAMINSKI",
+          "record_title": "Margot Kaminski",
+          "subject": "PERSON-MARGOT-KAMINSKI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-KAY-CHM",
       "source_title": "Alan Kay Computer History Museum Profile",
       "usages": [
@@ -4973,6 +5244,65 @@
       ]
     },
     {
+      "source_id": "SRC-MARCUS-HF-LESSONS",
+      "source_title": "Gary Marcus and Zack Korman \u2014 5 lessons from the OpenAI / Hugging Face incident",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-GARY-MARCUS",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MARCUS-HF-LESSONS",
+          "predicate": "cites",
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "subject": "PERSON-GARY-MARCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "subject": "PERSON-GARY-MARCUS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MARCUS-NYU",
+      "source_title": "NYU Department of Psychology faculty list \u2014 Gary Marcus",
+      "usages": [
+        {
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MARCUS-NYU",
+          "predicate": "cites",
+          "record_id": "PERSON-GARY-MARCUS",
+          "record_title": "Gary Marcus",
+          "subject": "PERSON-GARY-MARCUS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-MASSIE-ENCRYPTION-AMENDMENT",
       "source_title": "House Passes Massie Amendment to Strengthen Privacy and Security",
       "usages": [
@@ -5054,6 +5384,25 @@
           "record_id": "PERSON-HEATHER-MEEKER",
           "record_title": "Heather Meeker",
           "subject": "PERSON-HEATHER-MEEKER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-METR-HF-INVESTIGATION",
+      "source_title": "METR \u2014 Independent investigation of the OpenAI / Hugging Face hacking incident",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-METR-HF-INVESTIGATION",
+          "predicate": "cites",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
           "usage": "relationship_source"
         }
       ]
@@ -5284,6 +5633,33 @@
       ]
     },
     {
+      "source_id": "SRC-OHM-GEORGETOWN",
+      "source_title": "Paul Ohm \u2014 Georgetown Law faculty profile",
+      "usages": [
+        {
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OHM-GEORGETOWN",
+          "predicate": "cites",
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "subject": "PERSON-PAUL-OHM",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "STAT-CFAA-1030",
+          "predicate": "related_to",
+          "record_id": "PERSON-PAUL-OHM",
+          "record_title": "Paul Ohm",
+          "subject": "PERSON-PAUL-OHM",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-OIR-BOOTSTRAP-PROMPT",
       "source_title": "OIR Bootstrap Prompt",
       "usages": []
@@ -5297,6 +5673,36 @@
       "source_id": "SRC-OIR-ROADMAP-DOCX",
       "source_title": "Open Internet Reference Roadmap",
       "usages": []
+    },
+    {
+      "source_id": "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+      "source_title": "OpenAI \u2014 Hugging Face model-evaluation security incident (July 21, 2026)",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OPENAI-HF-ROAD-AHEAD",
+      "source_title": "OpenAI \u2014 The Hugging Face incident and the road ahead (August 26, 2026)",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OPENAI-HF-ROAD-AHEAD",
+          "predicate": "cites",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        }
+      ]
     },
     {
       "source_id": "SRC-ORIN-KERR-GWU",
@@ -6111,6 +6517,25 @@
           "record_id": "PERSON-RON-RIVEST",
           "record_title": "Ron Rivest",
           "subject": "PERSON-RON-RIVEST",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-RUSSELL-BERKELEY",
+      "source_title": "Stuart J. Russell \u2014 UC Berkeley EECS faculty page",
+      "usages": [
+        {
+          "record_id": "PERSON-STUART-RUSSELL",
+          "record_title": "Stuart Russell",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-RUSSELL-BERKELEY",
+          "predicate": "cites",
+          "record_id": "PERSON-STUART-RUSSELL",
+          "record_title": "Stuart Russell",
+          "subject": "PERSON-STUART-RUSSELL",
           "usage": "relationship_source"
         }
       ]
@@ -7052,6 +7477,25 @@
           "record_id": "TOPIC-AI-LITIGATION",
           "record_title": "AI Litigation Landscape",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-TONER-CSET",
+      "source_title": "Helen Toner \u2014 Center for Security and Emerging Technology staff profile",
+      "usages": [
+        {
+          "record_id": "PERSON-HELEN-TONER",
+          "record_title": "Helen Toner",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-TONER-CSET",
+          "predicate": "cites",
+          "record_id": "PERSON-HELEN-TONER",
+          "record_title": "Helen Toner",
+          "subject": "PERSON-HELEN-TONER",
+          "usage": "relationship_source"
         }
       ]
     },

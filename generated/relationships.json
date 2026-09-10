@@ -2135,6 +2135,76 @@
       "subject": "EVENT-OFAC-BLENDER-2022"
     },
     {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HF-SECURITY-INCIDENT-JULY-2026"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "SRC-METR-HF-INVESTIGATION",
+      "predicate": "cites",
+      "sources": [
+        "SRC-METR-HF-INVESTIGATION"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "SRC-OPENAI-HF-ROAD-AHEAD",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OPENAI-HF-ROAD-AHEAD"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "PERSON-GARY-MARCUS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "PERSON-RICHARD-BLUMENTHAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": "Blumenthal's letter says the operation could be considered a federal crime; that is oversight rhetoric, not a charge or adjudication under \u00a7 1030.",
+      "object": "STAT-CFAA-1030",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "TOPIC-COMPUTER-FRAUD",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
       "declared_in": "EVENT-ZIMMERMANN-PGP-INVESTIGATION",
       "notes": null,
       "object": "SRC-ZIMMERMANN-DECLINATION-1996",
@@ -3128,6 +3198,56 @@
       "subject": "PERSON-ESHA-BHANDARI"
     },
     {
+      "declared_in": "PERSON-GARY-MARCUS",
+      "notes": null,
+      "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023"
+      ],
+      "subject": "PERSON-GARY-MARCUS"
+    },
+    {
+      "declared_in": "PERSON-GARY-MARCUS",
+      "notes": null,
+      "object": "SRC-MARCUS-HF-LESSONS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "subject": "PERSON-GARY-MARCUS"
+    },
+    {
+      "declared_in": "PERSON-GARY-MARCUS",
+      "notes": null,
+      "object": "SRC-MARCUS-NYU",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MARCUS-NYU"
+      ],
+      "subject": "PERSON-GARY-MARCUS"
+    },
+    {
+      "declared_in": "PERSON-GARY-MARCUS",
+      "notes": null,
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-MARCUS-HF-LESSONS"
+      ],
+      "subject": "PERSON-GARY-MARCUS"
+    },
+    {
+      "declared_in": "PERSON-GARY-MARCUS",
+      "notes": null,
+      "object": "PERSON-RICHARD-BLUMENTHAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023"
+      ],
+      "subject": "PERSON-GARY-MARCUS"
+    },
+    {
       "declared_in": "PERSON-HEATHER-MEEKER",
       "notes": null,
       "object": "SRC-MEEKER-ABOUT",
@@ -3136,6 +3256,16 @@
         "SRC-MEEKER-ABOUT"
       ],
       "subject": "PERSON-HEATHER-MEEKER"
+    },
+    {
+      "declared_in": "PERSON-HELEN-TONER",
+      "notes": null,
+      "object": "SRC-TONER-CSET",
+      "predicate": "cites",
+      "sources": [
+        "SRC-TONER-CSET"
+      ],
+      "subject": "PERSON-HELEN-TONER"
     },
     {
       "declared_in": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT",
@@ -3435,6 +3565,36 @@
       "subject": "PERSON-LEE-TIEN"
     },
     {
+      "declared_in": "PERSON-MARGOT-KAMINSKI",
+      "notes": null,
+      "object": "SRC-AILA-CASEBOOK",
+      "predicate": "cites",
+      "sources": [
+        "SRC-AILA-CASEBOOK"
+      ],
+      "subject": "PERSON-MARGOT-KAMINSKI"
+    },
+    {
+      "declared_in": "PERSON-MARGOT-KAMINSKI",
+      "notes": null,
+      "object": "SRC-KAMINSKI-BERKMAN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-KAMINSKI-BERKMAN"
+      ],
+      "subject": "PERSON-MARGOT-KAMINSKI"
+    },
+    {
+      "declared_in": "PERSON-MARGOT-KAMINSKI",
+      "notes": null,
+      "object": "PERSON-PAUL-OHM",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AILA-CASEBOOK"
+      ],
+      "subject": "PERSON-MARGOT-KAMINSKI"
+    },
+    {
       "declared_in": "PERSON-MATT-BLAZE",
       "notes": null,
       "object": "SRC-BLAZE-GEORGETOWN",
@@ -3554,6 +3714,46 @@
         "SRC-CHESTEK-ABOUT"
       ],
       "subject": "PERSON-PAMELA-CHESTEK"
+    },
+    {
+      "declared_in": "PERSON-PAUL-OHM",
+      "notes": null,
+      "object": "SRC-AILA-CASEBOOK",
+      "predicate": "cites",
+      "sources": [
+        "SRC-AILA-CASEBOOK"
+      ],
+      "subject": "PERSON-PAUL-OHM"
+    },
+    {
+      "declared_in": "PERSON-PAUL-OHM",
+      "notes": null,
+      "object": "SRC-OHM-GEORGETOWN",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OHM-GEORGETOWN"
+      ],
+      "subject": "PERSON-PAUL-OHM"
+    },
+    {
+      "declared_in": "PERSON-PAUL-OHM",
+      "notes": null,
+      "object": "PERSON-MARGOT-KAMINSKI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AILA-CASEBOOK"
+      ],
+      "subject": "PERSON-PAUL-OHM"
+    },
+    {
+      "declared_in": "PERSON-PAUL-OHM",
+      "notes": null,
+      "object": "STAT-CFAA-1030",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-OHM-GEORGETOWN"
+      ],
+      "subject": "PERSON-PAUL-OHM"
     },
     {
       "declared_in": "PERSON-PAUL-VIXIE",
@@ -3726,6 +3926,56 @@
       "subject": "PERSON-RAND-PAUL"
     },
     {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "SRC-BLUMENTHAL-AI-HEARING-2023",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "SRC-BLUMENTHAL-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BLUMENTHAL-BIO"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "PERSON-GARY-MARCUS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-AI-HEARING-2023"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
       "declared_in": "PERSON-RO-KHANNA",
       "notes": null,
       "object": "SRC-KHANNA-INTERNET-BILL",
@@ -3806,6 +4056,26 @@
       "subject": "PERSON-RON-WYDEN"
     },
     {
+      "declared_in": "PERSON-RYAN-CALO",
+      "notes": null,
+      "object": "SRC-CALO-UW",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CALO-UW"
+      ],
+      "subject": "PERSON-RYAN-CALO"
+    },
+    {
+      "declared_in": "PERSON-STUART-RUSSELL",
+      "notes": null,
+      "object": "SRC-RUSSELL-BERKELEY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-RUSSELL-BERKELEY"
+      ],
+      "subject": "PERSON-STUART-RUSSELL"
+    },
+    {
       "declared_in": "PERSON-THOMAS-HAIGH",
       "notes": null,
       "object": "SRC-HAIGH-UWM",
@@ -3854,6 +4124,16 @@
         "SRC-DIFFIE-CISAC"
       ],
       "subject": "PERSON-WHITFIELD-DIFFIE"
+    },
+    {
+      "declared_in": "PERSON-YOSHUA-BENGIO",
+      "notes": null,
+      "object": "SRC-BENGIO-MILA",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BENGIO-MILA"
+      ],
+      "subject": "PERSON-YOSHUA-BENGIO"
     },
     {
       "declared_in": "PERSON-ZOE-LOFGREN",
@@ -5445,6 +5725,16 @@
       "predicate": "related_to",
       "sources": [
         "SRC-VAN-BUREN-LII"
+      ],
+      "subject": "TOPIC-COMPUTER-FRAUD"
+    },
+    {
+      "declared_in": "TOPIC-COMPUTER-FRAUD",
+      "notes": "Oversight letter characterizes the Hugging Face intrusion as possibly a federal crime; not a charge or holding under \u00a7 1030.",
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
       ],
       "subject": "TOPIC-COMPUTER-FRAUD"
     },
