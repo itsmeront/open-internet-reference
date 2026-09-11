@@ -1,31 +1,14 @@
 {
-  "generated_at": "2026-09-10T10:15:46.476909Z",
+  "generated_at": "2026-09-11T10:13:59.097706Z",
   "summary": {
-    "open_prs": 1,
+    "open_prs": 0,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 327,
+    "draft_content": 353,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [
-    {
-      "number": 123,
-      "title": "chore: update moderation and taxonomy reports [automated]",
-      "author": "app/github-actions",
-      "labels": [],
-      "areas": [
-        "website"
-      ],
-      "age_days": 0,
-      "stale_days": 0,
-      "is_ai": false,
-      "is_draft": false,
-      "needs_review": false,
-      "is_stale": false,
-      "priority": 0
-    }
-  ],
+  "pull_requests": [],
   "draft_content": [
     {
       "path": "knowledge/technical/TOPIC-KADEMLIA.md",
@@ -372,6 +355,21 @@
       ]
     },
     {
+      "path": "knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
+      "id": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime",
+        "case-studies",
+        "digital-rights",
+        "public-policy"
+      ]
+    },
+    {
       "path": "knowledge/legal/TOPIC-SAFE-HARBOR.md",
       "id": "TOPIC-SAFE-HARBOR",
       "title": "Online Service Provider Safe Harbor",
@@ -692,7 +690,7 @@
       "id": "TOPIC-COMPUTER-FRAUD",
       "title": "Computer Fraud and Abuse",
       "status": "draft",
-      "last_verified": "2026-06-19",
+      "last_verified": "2026-09-10",
       "tags": [
         "computer-crime",
         "technology-law",
@@ -1604,6 +1602,19 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-YOSHUA-BENGIO.md",
+      "id": "PERSON-YOSHUA-BENGIO",
+      "title": "Yoshua Bengio",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-MIKE-LEE.md",
       "id": "PERSON-MIKE-LEE",
       "title": "Mike Lee",
@@ -1642,6 +1653,21 @@
         "first-amendment",
         "privacy",
         "surveillance",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-PAUL-OHM.md",
+      "id": "PERSON-PAUL-OHM",
+      "title": "Paul Ohm",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "computer-crime",
+        "privacy",
+        "fourth-amendment",
         "digital-rights"
       ]
     },
@@ -1696,6 +1722,33 @@
         "internet-architecture",
         "internet-governance",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-HELEN-TONER.md",
+      "id": "PERSON-HELEN-TONER",
+      "title": "Helen Toner",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "public-policy",
+        "internet-governance",
+        "researcher"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-GARY-MARCUS.md",
+      "id": "PERSON-GARY-MARCUS",
+      "title": "Gary Marcus",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
       ]
     },
     {
@@ -2012,6 +2065,20 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
+      "id": "PERSON-RICHARD-BLUMENTHAL",
+      "title": "Richard Blumenthal",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "digital-rights",
+        "computer-crime"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-TIM-BERNERS-LEE.md",
       "id": "PERSON-TIM-BERNERS-LEE",
       "title": "Tim Berners-Lee",
@@ -2137,6 +2204,20 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-RYAN-CALO.md",
+      "id": "PERSON-RYAN-CALO",
+      "title": "Ryan Calo",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "digital-rights",
+        "public-policy"
+      ]
+    },
+    {
       "path": "knowledge/people/PERSON-ESHA-BHANDARI.md",
       "id": "PERSON-ESHA-BHANDARI",
       "title": "Esha Bhandari",
@@ -2160,6 +2241,19 @@
         "internet-architecture",
         "internet-governance",
         "digital-rights"
+      ]
+    },
+    {
+      "path": "knowledge/people/PERSON-STUART-RUSSELL.md",
+      "id": "PERSON-STUART-RUSSELL",
+      "title": "Stuart Russell",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "researcher",
+        "public-policy"
       ]
     },
     {
@@ -2201,6 +2295,33 @@
       ]
     },
     {
+      "path": "knowledge/people/PERSON-MARGOT-KAMINSKI.md",
+      "id": "PERSON-MARGOT-KAMINSKI",
+      "title": "Margot Kaminski",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "first-amendment",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-METR-HF-INVESTIGATION.md",
+      "id": "SRC-METR-HF-INVESTIGATION",
+      "title": "METR \u2014 Independent investigation of the OpenAI / Hugging Face hacking incident",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ]
+    },
+    {
       "path": "bibliography/technical/SRC-HYPHANET-WOT-README.md",
       "id": "SRC-HYPHANET-WOT-README",
       "title": "Hyphanet Web of Trust Plugin README",
@@ -2226,6 +2347,58 @@
         "peer-to-peer-networking",
         "censorship-resistance",
         "privacy"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md",
+      "id": "SRC-HF-AGENT-INTRUSION-TIMELINE",
+      "title": "Hugging Face \u2014 Anatomy of a Frontier Lab Agent Intrusion (July 2026)",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md",
+      "id": "SRC-OPENAI-HF-ROAD-AHEAD",
+      "title": "OpenAI \u2014 The Hugging Face incident and the road ahead (August 26, 2026)",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md",
+      "id": "SRC-OPENAI-HF-INCIDENT-JULY-2026",
+      "title": "OpenAI \u2014 Hugging Face model-evaluation security incident (July 21, 2026)",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md",
+      "id": "SRC-HF-SECURITY-INCIDENT-JULY-2026",
+      "title": "Hugging Face \u2014 Security incident disclosure (July 2026)",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "historical-event",
+        "artificial-intelligence",
+        "computer-crime"
       ]
     },
     {
@@ -3851,6 +4024,19 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md",
+      "id": "SRC-BLUMENTHAL-AI-HEARING-2023",
+      "title": "Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-WYDEN-AARONS-LAW.md",
       "id": "SRC-WYDEN-AARONS-LAW",
       "title": "Wyden Introduces Reforms to the Computer Fraud and Abuse Act",
@@ -3875,6 +4061,21 @@
         "privacy",
         "digital-rights",
         "surveillance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-KAMINSKI-BERKMAN.md",
+      "id": "SRC-KAMINSKI-BERKMAN",
+      "title": "Margot Kaminski \u2014 Berkman Klein Center profile",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "privacy",
+        "first-amendment",
+        "digital-rights"
       ]
     },
     {
@@ -3921,6 +4122,32 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-BLUMENTHAL-BIO.md",
+      "id": "SRC-BLUMENTHAL-BIO",
+      "title": "Biography | U.S. Senator Richard Blumenthal",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-BENGIO-MILA.md",
+      "id": "SRC-BENGIO-MILA",
+      "title": "Yoshua Bengio \u2014 Mila directory profile",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-DRAKETO-DECENTRALIZED-MODERATION.md",
       "id": "SRC-DRAKETO-DECENTRALIZED-MODERATION",
       "title": "Arne Babenhauserheide \u2014 The Path Towards Decentralized Moderation",
@@ -3945,6 +4172,21 @@
         "privacy",
         "digital-rights",
         "internet-governance"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-OHM-GEORGETOWN.md",
+      "id": "SRC-OHM-GEORGETOWN",
+      "title": "Paul Ohm \u2014 Georgetown Law faculty profile",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "computer-crime",
+        "privacy",
+        "fourth-amendment"
       ]
     },
     {
@@ -4003,6 +4245,19 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-MARCUS-HF-LESSONS.md",
+      "id": "SRC-MARCUS-HF-LESSONS",
+      "title": "Gary Marcus and Zack Korman \u2014 5 lessons from the OpenAI / Hugging Face incident",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "historical-event"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-FRANCE24-DUROV-KAMINSKI-2024.md",
       "id": "SRC-FRANCE24-DUROV-KAMINSKI-2024",
       "title": "France 24 / AFP \u2014 Telegram Boss Durov Charged in France; Lawyer David-Olivier Kaminski Quoted",
@@ -4030,6 +4285,34 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md",
+      "id": "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+      "title": "Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "computer-crime",
+        "historical-event"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-RUSSELL-BERKELEY.md",
+      "id": "SRC-RUSSELL-BERKELEY",
+      "title": "Stuart J. Russell \u2014 UC Berkeley EECS faculty page",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-TR-IAN-CLARKE.md",
       "id": "SRC-TR-IAN-CLARKE",
       "title": "MIT Technology Review \u2014 Ian Clarke Innovator Profile",
@@ -4042,6 +4325,20 @@
         "privacy",
         "censorship-resistance",
         "peer-to-peer-networking"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-TONER-CSET.md",
+      "id": "SRC-TONER-CSET",
+      "title": "Helen Toner \u2014 Center for Security and Emerging Technology staff profile",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "public-policy",
+        "internet-governance"
       ]
     },
     {
@@ -4100,6 +4397,32 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-MARCUS-NYU.md",
+      "id": "SRC-MARCUS-NYU",
+      "title": "NYU Department of Psychology faculty list \u2014 Gary Marcus",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "researcher"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-AILA-CASEBOOK.md",
+      "id": "SRC-AILA-CASEBOOK",
+      "title": "Artificial Intelligence Law casebook site \u2014 Kaminski, Ohm, and Selbst",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-ZIMMERMANN-DECLINATION-1996.md",
       "id": "SRC-ZIMMERMANN-DECLINATION-1996",
       "title": "Phil Zimmermann \u2014 PGP Investigation Closed (Jan. 1996 Declination Text)",
@@ -4121,6 +4444,20 @@
       "tags": [
         "source",
         "censorship-resistance",
+        "privacy",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-CALO-UW.md",
+      "id": "SRC-CALO-UW",
+      "title": "Ryan Calo \u2014 University of Washington School of Law faculty page",
+      "status": "draft",
+      "last_verified": "2026-09-10",
+      "tags": [
+        "source",
+        "person",
+        "artificial-intelligence",
         "privacy",
         "digital-rights"
       ]

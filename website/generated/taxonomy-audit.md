@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-09-10 10:15 UTC
+Last updated: 2026-09-11 10:14 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -10,7 +10,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 |--------|-------|
 | Tags declared in TAXONOMY.md | 56 |
 | Tags used in content | 58 |
-| Total tag applications | 1855 |
+| Total tag applications | 1975 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,40 +20,41 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 264 | ✓ |
-| `digital-rights` | 210 | ✓ |
+| `source` | 281 | ✓ |
+| `digital-rights` | 219 | ✓ |
 | `case` | 121 | ✓ |
-| `privacy` | 114 | ✓ |
+| `privacy` | 120 | ✓ |
+| `artificial-intelligence` | 113 | ✓ |
 | `copyright` | 99 | ✓ |
 | `organization` | 91 | ✓ |
-| `artificial-intelligence` | 88 | ✓ |
+| `person` | 88 | ⚠️ undeclared |
+| `first-amendment` | 82 | ✓ |
 | `open-source-software` | 81 | ✓ |
-| `first-amendment` | 80 | ✓ |
-| `person` | 68 | ⚠️ undeclared |
 | `outreach` | 56 | ⚠️ undeclared |
-| `internet-governance` | 49 | ✓ |
+| `internet-governance` | 51 | ✓ |
 | `attorney` | 41 | ✓ |
+| `computer-crime` | 33 | ✓ |
 | `cryptography` | 33 | ✓ |
 | `surveillance` | 32 | ✓ |
-| `case-studies` | 28 | ✓ |
+| `case-studies` | 29 | ✓ |
 | `intermediary-liability` | 27 | ✓ |
 | `censorship-resistance` | 26 | ✓ |
-| `computer-crime` | 23 | ✓ |
-| `fourth-amendment` | 23 | ✓ |
+| `fourth-amendment` | 25 | ✓ |
+| `public-policy` | 25 | ✓ |
 | `internet-architecture` | 22 | ✓ |
 | `speech-and-code` | 21 | ✓ |
 | `sanctions` | 19 | ✓ |
 | `civil-society` | 19 | ✓ |
 | `peer-to-peer-networking` | 17 | ✓ |
+| `historical-event` | 17 | ✓ |
 | `statute` | 16 | ✓ |
 | `secure-messaging` | 15 | ✓ |
 | `open-source-risk` | 14 | ✓ |
-| `public-policy` | 14 | ✓ |
 | `age-verification` | 14 | ✓ |
 | `case-law` | 12 | ⚠️ undeclared |
 | `safe-harbor` | 10 | ✓ |
+| `researcher` | 10 | ✓ |
 | `technology` | 9 | ✓ |
-| `historical-event` | 9 | ✓ |
 | `developer-rights` | 8 | ✓ |
 | `network-protocols` | 7 | ✓ |
 | `border-search` | 7 | ⚠️ undeclared |
@@ -67,7 +68,6 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `privacy-preserving-systems` | 3 | ✓ |
 | `technical` | 3 | ⚠️ undeclared |
 | `civil-liberties` | 3 | ⚠️ undeclared |
-| `researcher` | 3 | ✓ |
 | `technical-standard` | 3 | ⚠️ undeclared |
 | `academic-paper` | 3 | ⚠️ undeclared |
 | `imported-source` | 3 | ⚠️ undeclared |
@@ -115,7 +115,7 @@ These tags are used in content but not listed in `TAXONOMY.md`:
 | `imported-source` | `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `onion-routing` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
 | `outreach` | `knowledge/organizations/ORG-RCFP.md`, `knowledge/organizations/ORG-SFLC.md`, `knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md` +53 more |
-| `person` | `knowledge/people/PERSON-BRUCE-SCHNEIER.md`, `knowledge/people/PERSON-PAUL-VIXIE.md`, `knowledge/people/PERSON-MIKE-LEE.md` +65 more |
+| `person` | `knowledge/people/PERSON-BRUCE-SCHNEIER.md`, `knowledge/people/PERSON-PAUL-VIXIE.md`, `knowledge/people/PERSON-YOSHUA-BENGIO.md` +85 more |
 | `project-governance` | `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `technical` | `knowledge/technical/TOPIC-ONION-ROUTING.md`, `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography/technical/SRC-SIGNAL-X3DH.md` |
 | `technical-standard` | `bibliography/technical/SRC-RFC-8446.md`, `bibliography/technical/SRC-RFC-9293.md`, `bibliography/technical/SRC-RFC-1034.md` |
