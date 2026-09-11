@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-09-10 10:15 UTC
+Last updated: 2026-09-11 10:13 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,22 +8,20 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 1 |
+| Open PRs awaiting review | 0 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 327 |
+| Draft content items | 353 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-| # | Title | Author | Areas | Age | Flags |
-|---|-------|--------|-------|-----|-------|
-| [#123](https://github.com/itsmeront/open-internet-reference/pull/123) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 0d | — |
+*No open pull requests. The queue is clear!*
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (327)
+### 📋 Draft (353)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -48,7 +46,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `TOPIC-FAIR-USE-VIDEO` | Fair Use and Video | `knowledge/legal/TOPIC-FAIR-USE-VIDEO.md` |
 | `CASE-FLORIDA-V-OPENAI` | Florida v. OpenAI Global, LLC | `knowledge/legal/CASE-FLORIDA-V-OPENAI.md` |
 
-*...and 307 more*
+*...and 333 more*
 
 ## Stale Verifications
 
