@@ -50,7 +50,7 @@ Members of Congress actively legislating on digital rights, privacy, encryption,
 - **CFAA reform** — [Zoe Lofgren](generated/source-docs/knowledge/people/PERSON-ZOE-LOFGREN.md) (Aaron's Law — named for Aaron Swartz)
 - **Encryption and standards reform** — [Thomas Massie](generated/source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) (anti-backdoor amendments with Lofgren)
 - **Internet governance** — [Ro Khanna](generated/source-docs/knowledge/people/PERSON-RO-KHANNA.md) (Internet Bill of Rights, endorsed by Tim Berners-Lee)
-- **AI oversight** — [Richard Blumenthal](generated/source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) (2023 AI hearing; September 2026 letter to OpenAI on the Hugging Face incident)
+- **AI oversight** — [Richard Blumenthal](generated/source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) (2023 AI hearing; September 2026 letter to OpenAI), [Josh Hawley](generated/source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) (Hugging Face investigation; AI Risk Evaluation Act), [Bernie Sanders](generated/source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) (data-center moratorium, pause letter, Ban ASI Act), [Alexandria Ocasio-Cortez](generated/source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) and [Greg Casar](generated/source-docs/knowledge/people/PERSON-GREG-CASAR.md) (House pause/ban vehicles), [Ted Lieu](generated/source-docs/knowledge/people/PERSON-TED-LIEU.md) (AI Kill Switch Act), [Don Beyer](generated/source-docs/knowledge/people/PERSON-DON-BEYER.md) (foundation-model transparency)
 
 ### [Law](knowledge/law.md)
 

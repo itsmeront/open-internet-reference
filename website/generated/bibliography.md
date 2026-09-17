@@ -2,7 +2,7 @@
 
 This page is generated from bibliography metadata. Do not edit it manually.
 
-Record count: 280
+Record count: 307
 
 ## `SRC-ABBATE-VT`: Janet Abbate Virginia Tech Faculty Profile { #SRC-ABBATE-VT }
 
@@ -114,6 +114,30 @@ Northern District of California order allowing artists’ Copyright Act and some
 - [`CASE-ANDERSEN-V-STABILITY: Andersen v. Stability AI Ltd.`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
 - [`TOPIC-AI-COPYRIGHT: Copyright and Generative AI`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md)
 - [`TOPIC-AI-LITIGATION: AI Litigation Landscape`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
+
+## `SRC-AOC-AI-DATA-CENTER-MORATORIUM`: Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act { #SRC-AOC-AI-DATA-CENTER-MORATORIUM }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official House press release announcing introduction of the House companion to Sanders's AI Data Center Moratorium Act on June 24, 2026.
+
+### Cited By
+- [`PERSON-ALEXANDRIA-OCASIO-CORTEZ: Alexandria Ocasio-Cortez`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+
+## `SRC-AOC-BIO`: About \| Representative Ocasio-Cortez { #SRC-AOC-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-AOC-BIO.md`](source-docs/bibliography/people/SRC-AOC-BIO.md)
+- Tags: source, person, public-policy
+
+Official House biography for Alexandria Ocasio-Cortez covering education, community-organizing work, and service in Congress from 2019.
+
+### Cited By
+- [`PERSON-ALEXANDRIA-OCASIO-CORTEZ: Alexandria Ocasio-Cortez`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
 
 ## `SRC-AP-DUROV-FSB-2026`: AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism { #SRC-AP-DUROV-FSB-2026 }
 
@@ -235,6 +259,30 @@ Justia reproduction of the Ninth Circuit opinion in Bernstein v. DOJ.
 - [`PERSON-CINDY-COHN: Cindy Cohn`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - [`TOPIC-CODE-AS-SPEECH: Code as Speech`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 - [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY: Documented Proceedings Involving Software Authors and Operators`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md)
+
+## `SRC-BEYER-AI-TRANSPARENCY`: Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency { #SRC-BEYER-AI-TRANSPARENCY }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official House press release on the AI Foundation Model Transparency Act and identifying Beyer as Congressional AI Caucus co-chair and House AI Task Force member.
+
+### Cited By
+- [`PERSON-DON-BEYER: Don Beyer`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+
+## `SRC-BEYER-BIO`: Biography \| U.S. Representative Don Beyer { #SRC-BEYER-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-BEYER-BIO.md`](source-docs/bibliography/people/SRC-BEYER-BIO.md)
+- Tags: source, person, public-policy
+
+Official House biography for Don Beyer covering Virginia's 8th District, Ways and Means and Joint Economic Committee service, lieutenant governor and ambassador roles, and education.
+
+### Cited By
+- [`PERSON-DON-BEYER: Don Beyer`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
 
 ## `SRC-BHANDARI-ACLU`: Esha Bhandari ACLU Staff Biography { #SRC-BHANDARI-ACLU }
 
@@ -454,6 +502,30 @@ Cornell Legal Information Institute page for the Supreme Court decision on Fourt
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`PERSON-NATHAN-FREED-WESSLER: Nathan Freed Wessler`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## `SRC-CASAR-AI-PRICE-GOUGING`: NEWS Congressman Greg Casar Introduces New Stop AI Price Gouging and Wage Fixing Act { #SRC-CASAR-AI-PRICE-GOUGING }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md)
+- Tags: source, person, public-policy, artificial-intelligence, privacy
+
+Official House press release announcing Casar's Stop AI Price Gouging and Wage Fixing Act, described as a ban on using AI to set prices or wages from personal data.
+
+### Cited By
+- [`PERSON-GREG-CASAR: Greg Casar`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+
+## `SRC-CASAR-BIO`: About \| Representative Casar { #SRC-CASAR-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-CASAR-BIO.md`](source-docs/bibliography/people/SRC-CASAR-BIO.md)
+- Tags: source, person, public-policy
+
+Official House biography for Greg Casar covering Texas's 35th District, Congressional Progressive Caucus chair role, Austin City Council service, and January 2023 swearing-in.
+
+### Cited By
+- [`PERSON-GREG-CASAR: Greg Casar`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
 
 ## `SRC-CCIA-SB2420-LITIGATION-PAGE`: CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.) { #SRC-CCIA-SB2420-LITIGATION-PAGE }
 
@@ -1427,6 +1499,59 @@ Official UWM History Department faculty profile for Thomas Haigh describing his 
 ### Cited By
 - [`PERSON-THOMAS-HAIGH: Thomas Haigh`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
 
+## `SRC-HAWLEY-BIO`: About \| Senator Josh Hawley { #SRC-HAWLEY-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-HAWLEY-BIO.md`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md)
+- Tags: source, person, public-policy
+
+Official Senate biography for Josh Hawley covering Missouri attorney general service, Stanford and Yale education, and current Senate committee assignments.
+
+### Cited By
+- [`PERSON-JOSH-HAWLEY: Josh Hawley`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+
+## `SRC-HAWLEY-OPENAI-HF-LETTER`: Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products { #SRC-HAWLEY-OPENAI-HF-LETTER }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+- Tags: source, person, public-policy, artificial-intelligence, computer-crime, historical-event
+
+Official Senate press release reprinting Josh Hawley's September 9, 2026 letter to OpenAI CEO Sam Altman opening a subcommittee investigation of the Hugging Face agent-intrusion incident, with a document demand by October 1, 2026.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- [`PERSON-JOSH-HAWLEY: Josh Hawley`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+
+## `SRC-HEINRICH-BIO`: About \| Senator Martin Heinrich { #SRC-HEINRICH-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-HEINRICH-BIO.md`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md)
+- Tags: source, person, public-policy
+
+Official Senate biography for Martin Heinrich covering engineering background, House service, Senate tenure from 2012, and Energy and Natural Resources ranking membership.
+
+### Cited By
+- [`PERSON-MARTIN-HEINRICH: Martin Heinrich`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+
+## `SRC-HEINRICH-SENATE-AI-CAUCUS`: Artificial Intelligence Caucus \| Senator Martin Heinrich { #SRC-HEINRICH-SENATE-AI-CAUCUS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+- Tags: source, organization, public-policy, artificial-intelligence
+
+Official Senate page for the bipartisan Senate Artificial Intelligence Caucus, describing its 2019 founding, co-chairs, membership list, and claimed legislative accomplishments.
+
+### Cited By
+- [`ORG-SENATE-AI-CAUCUS: Senate Artificial Intelligence Caucus`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- [`PERSON-CORY-BOOKER: Cory Booker`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- [`PERSON-MARTIN-HEINRICH: Martin Heinrich`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- [`PERSON-MIKE-ROUNDS: Mike Rounds`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- [`PERSON-TODD-YOUNG: Todd Young`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+
 ## `SRC-HF-AGENT-INTRUSION-TIMELINE`: Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026) { #SRC-HF-AGENT-INTRUSION-TIMELINE }
 
 - Type: `source`
@@ -1463,6 +1588,38 @@ ACLU senior policy counsel Chad Marlow’s Hill opinion essay arguing that Chatr
 ### Cited By
 - [`CASE-CHATRIE-V-US: Chatrie v. United States`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - [`TOPIC-FOURTH-AMENDMENT: Fourth Amendment`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## `SRC-HOUSE-AI-CAUCUS`: Congressional Artificial Intelligence Caucus { #SRC-HOUSE-AI-CAUCUS }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+- Tags: source, organization, public-policy, artificial-intelligence
+
+Official House caucus site describing the Congressional Artificial Intelligence Caucus mission and naming co-chairs Donald S. Beyer, Michael T. McCaul, Jay Obernolte, and Doris O. Matsui.
+
+### Cited By
+- [`ORG-CONGRESSIONAL-AI-CAUCUS: Congressional Artificial Intelligence Caucus`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- [`PERSON-DON-BEYER: Don Beyer`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- [`PERSON-DORIS-MATSUI: Doris Matsui`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- [`PERSON-JAY-OBERNOLTE: Jay Obernolte`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- [`PERSON-MICHAEL-MCCAUL: Michael McCaul`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+
+## `SRC-HOUSE-AI-TASK-FORCE-2024`: The House Task Force on Artificial Intelligence Final Report { #SRC-HOUSE-AI-TASK-FORCE-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+- Tags: source, organization, public-policy, artificial-intelligence
+
+Official House page from Rep. Jay Obernolte describing the 118th Congress bipartisan AI Task Force co-chaired with Ted Lieu, its 24 members, and the December 2024 final report.
+
+### Cited By
+- [`ORG-HOUSE-AI-TASK-FORCE: House Bipartisan Task Force on Artificial Intelligence`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- [`PERSON-ALEXANDRIA-OCASIO-CORTEZ: Alexandria Ocasio-Cortez`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- [`PERSON-DON-BEYER: Don Beyer`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- [`PERSON-JAY-OBERNOLTE: Jay Obernolte`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- [`PERSON-TED-LIEU: Ted Lieu`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
 
 ## `SRC-HYPHANET-HOME`: Hyphanet Home Page { #SRC-HYPHANET-HOME }
 
@@ -1878,6 +2035,30 @@ Official Harvard Law School faculty page for Lawrence Lessig.
 ### Cited By
 - [`PERSON-LAWRENCE-LESSIG: Lawrence Lessig`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 
+## `SRC-LIEU-AI-KILL-SWITCH`: Reps Lieu and Moran Introduce Bill to Require Kill Switch for AI Systems That Can Cause Catastrophic Harm { #SRC-LIEU-AI-KILL-SWITCH }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official House press release announcing the July 23, 2026 AI Kill Switch Act, which would require throttle/shutdown capability for powerful AI systems and authorize DHS to order slowdown or shutdown.
+
+### Cited By
+- [`PERSON-TED-LIEU: Ted Lieu`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+
+## `SRC-LIEU-BIO`: Meet Ted \| Congressman Ted Lieu { #SRC-LIEU-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-LIEU-BIO.md`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official House biography for Ted Lieu covering California's 36th District, Democratic Caucus vice chair role, computer-science background, and co-chair service on the House Bipartisan Task Force on Artificial Intelligence.
+
+### Cited By
+- [`PERSON-TED-LIEU: Ted Lieu`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+
 ## `SRC-LOFGREN-AARONS-LAW`: Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law { #SRC-LOFGREN-AARONS-LAW }
 
 - Type: `source`
@@ -1970,6 +2151,30 @@ Press release from Representative Thomas Massie's office describing a bipartisan
 ### Cited By
 - [`PERSON-THOMAS-MASSIE: Thomas Massie`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - [`TOPIC-END-TO-END-ENCRYPTION: End-to-End Encryption and Compelled Access`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+
+## `SRC-MATSUI-BIO`: Biography \| Congresswoman Doris Matsui { #SRC-MATSUI-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-MATSUI-BIO.md`](source-docs/bibliography/people/SRC-MATSUI-BIO.md)
+- Tags: source, person, public-policy
+
+Official House biography for Doris Matsui covering Sacramento-area representation since 2005, Energy and Commerce Communications and Technology ranking membership, and Clinton administration service.
+
+### Cited By
+- [`PERSON-DORIS-MATSUI: Doris Matsui`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+
+## `SRC-MCCAUL-BIO`: Biography \| Congressman Michael McCaul { #SRC-MCCAUL-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-MCCAUL-BIO.md`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md)
+- Tags: source, person, public-policy
+
+Official House biography for Michael McCaul covering Texas's 10th District, Homeland Security and Foreign Affairs chair service, and prior work as a federal prosecutor.
+
+### Cited By
+- [`PERSON-MICHAEL-MCCAUL: Michael McCaul`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
 
 ## `SRC-MCSHERRY-EFF-BIO`: Corynne McSherry EFF Staff Biography { #SRC-MCSHERRY-EFF-BIO }
 
@@ -2108,6 +2313,18 @@ CourtListener docket for the New York Times copyright and trademark action again
 ### Cited By
 - [`CASE-DOW-JONES-V-PERPLEXITY: Dow Jones & Co. v. Perplexity AI, Inc.`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
 - [`CASE-NYT-V-OPENAI: The New York Times Company v. Microsoft Corp. (OpenAI)`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
+
+## `SRC-OBERNOLTE-BIO`: About \| Representative Jay Obernolte { #SRC-OBERNOLTE-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-OBERNOLTE-BIO.md`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official House biography for Jay Obernolte covering California's 23rd District, UCLA M.S. in artificial intelligence, Energy and Commerce and Science committee roles, and House AI Task Force chair work.
+
+### Cited By
+- [`PERSON-JAY-OBERNOLTE: Jay Obernolte`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
 
 ## `SRC-OFAC-FAQ-1076`: OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation { #SRC-OFAC-FAQ-1076 }
 
@@ -2559,6 +2776,18 @@ Official MIT CSAIL profile for Ronald L. Rivest describing his role as Institute
 ### Cited By
 - [`PERSON-RON-RIVEST: Ron Rivest`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 
+## `SRC-ROUNDS-BIO`: About Mike \| U.S. Senator Mike Rounds { #SRC-ROUNDS-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-ROUNDS-BIO.md`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md)
+- Tags: source, person, public-policy
+
+Official Senate biography for Mike Rounds covering Senate swearing-in in 2015, South Dakota governorship, state senate service, and current committee assignments.
+
+### Cited By
+- [`PERSON-MIKE-ROUNDS: Mike Rounds`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+
 ## `SRC-RUSSELL-BERKELEY`: Stuart J. Russell — UC Berkeley EECS faculty page { #SRC-RUSSELL-BERKELEY }
 
 - Type: `source`
@@ -2583,6 +2812,83 @@ Andrew L. Russell's professional profile describing his role at SUNY Polytechnic
 ### Cited By
 - [`PERSON-ANDREW-RUSSELL: Andrew Russell`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md)
 
+## `SRC-S2938-AI-RISK-EVALUATION`: S.2938 — Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress) { #SRC-S2938-AI-RISK-EVALUATION }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+- Tags: source, statute, public-policy, artificial-intelligence
+
+Congress.gov record for S.2938, the Artificial Intelligence Risk Evaluation Act of 2025, introduced by Sen. Josh Hawley with Sen. Richard Blumenthal on September 29, 2025.
+
+### Cited By
+- [`PERSON-JOSH-HAWLEY: Josh Hawley`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- [`PERSON-RICHARD-BLUMENTHAL: Richard Blumenthal`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+## `SRC-S4214-AI-DATA-CENTER-MORATORIUM`: S.4214 — Artificial Intelligence Data Center Moratorium Act (119th Congress) { #SRC-S4214-AI-DATA-CENTER-MORATORIUM }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md)
+- Tags: source, statute, public-policy, artificial-intelligence
+
+Congress.gov record and introduced text for S.4214, the Artificial Intelligence Data Center Moratorium Act, introduced by Sen. Bernie Sanders on March 25, 2026.
+
+### Cited By
+- [`PERSON-BERNIE-SANDERS: Bernie Sanders`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+## `SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`: NEWS Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act { #SRC-SANDERS-AI-DATA-CENTER-MORATORIUM }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official Senate press release announcing the Artificial Intelligence Data Center Moratorium Act, described as an immediate federal pause on AI data centers until national safeguards are in place.
+
+### Cited By
+- [`PERSON-ALEXANDRIA-OCASIO-CORTEZ: Alexandria Ocasio-Cortez`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- [`PERSON-BERNIE-SANDERS: Bernie Sanders`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+## `SRC-SANDERS-BAN-ASI-ACT`: NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development { #SRC-SANDERS-BAN-ASI-ACT }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+- Tags: source, person, public-policy, artificial-intelligence, historical-event
+
+Official Senate press release announcing the Ban Artificial Superintelligence Act, described as a permanent ban on superintelligent AI plus a temporary pause on advanced AI development until a federal regulator exists.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- [`PERSON-BERNIE-SANDERS: Bernie Sanders`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- [`PERSON-GREG-CASAR: Greg Casar`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+
+## `SRC-SANDERS-BIO`: About Bernie \| U.S. Senator Bernie Sanders { #SRC-SANDERS-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-SANDERS-BIO.md`](source-docs/bibliography/people/SRC-SANDERS-BIO.md)
+- Tags: source, person, public-policy
+
+Official Senate biography for Bernie Sanders covering education, Burlington mayoral service, House and Senate tenure, and current committee assignments.
+
+### Cited By
+- [`PERSON-BERNIE-SANDERS: Bernie Sanders`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+## `SRC-SANDERS-PAUSE-LETTER-2026`: Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI { #SRC-SANDERS-PAUSE-LETTER-2026 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
+- Tags: source, person, public-policy, artificial-intelligence, computer-crime, historical-event
+
+Official Senate press release and August 10, 2026 letter from Senator Bernie Sanders to the CEOs of Anthropic, Meta, and OpenAI urging an immediate pause in AI development.
+
+### Cited By
+- [`EVENT-OPENAI-HUGGING-FACE-2026: OpenAI / Hugging Face Agent Intrusion (July 2026)`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- [`PERSON-BERNIE-SANDERS: Bernie Sanders`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
 ## `SRC-SCHNEIER-ABOUT`: Bruce Schneier About Page { #SRC-SCHNEIER-ABOUT }
 
 - Type: `source`
@@ -2594,6 +2900,18 @@ Official about page for Bruce Schneier describing his roles, board memberships, 
 
 ### Cited By
 - [`PERSON-BRUCE-SCHNEIER: Bruce Schneier`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
+
+## `SRC-SCHUMER-BIO`: About Chuck \| Senator Chuck Schumer of New York { #SRC-SCHUMER-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-SCHUMER-BIO.md`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md)
+- Tags: source, person, public-policy
+
+Official Senate biography for Chuck Schumer covering New York Senate service from 1998, Democratic leader role, and 2021–2025 majority leadership.
+
+### Cited By
+- [`PERSON-CHUCK-SCHUMER: Chuck Schumer`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
 
 ## `SRC-SECTION-230-EFF`: EFF Section 230 Page { #SRC-SECTION-230-EFF }
 
@@ -2618,6 +2936,22 @@ Cornell Legal Information Institute page for 47 U.S.C. § 230, the Section 230 i
 
 ### Cited By
 - [`STAT-SECTION-230: Section 230 (47 U.S.C. § 230)`](source-docs/knowledge/legal/STAT-SECTION-230.md)
+
+## `SRC-SENATE-AI-ROADMAP-2024`: Following Historic AI Insight Forums, Heinrich Colleagues Reveal Bipartisan Roadmap for Artificial Intelligence Policy { #SRC-SENATE-AI-ROADMAP-2024 }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+- Tags: source, organization, public-policy, artificial-intelligence
+
+Official Senate press release (May 15, 2024) announcing the Bipartisan Senate AI Working Group's roadmap, naming Schumer, Young, Heinrich, and Rounds as the group and linking the policy PDF.
+
+### Cited By
+- [`ORG-SENATE-AI-WORKING-GROUP: Bipartisan Senate AI Working Group`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- [`PERSON-CHUCK-SCHUMER: Chuck Schumer`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- [`PERSON-MARTIN-HEINRICH: Martin Heinrich`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- [`PERSON-MIKE-ROUNDS: Mike Rounds`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- [`PERSON-TODD-YOUNG: Todd Young`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
 
 ## `SRC-SFC-ABOUT`: Software Freedom Conservancy About Page { #SRC-SFC-ABOUT }
 
@@ -3575,6 +3909,18 @@ Press release from Senator Ron Wyden's office announcing the introduction of the
 ### Cited By
 - [`PERSON-RAND-PAUL: Rand Paul`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
 - [`PERSON-RON-WYDEN: Ron Wyden`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
+
+## `SRC-YOUNG-BIO`: About Todd \| Senator Young { #SRC-YOUNG-BIO }
+
+- Type: `source`
+- Status: `draft`
+- Path: [`bibliography/people/SRC-YOUNG-BIO.md`](source-docs/bibliography/people/SRC-YOUNG-BIO.md)
+- Tags: source, person, public-policy, artificial-intelligence
+
+Official Senate biography for Todd Young covering Marine Corps service, House and Senate tenure from 2017, CHIPS and Science Act authorship, and current committee assignments including Commerce.
+
+### Cited By
+- [`PERSON-TODD-YOUNG: Todd Young`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
 
 ## `SRC-ZIMMERMANN-BIO`: Phil Zimmermann Official Biography { #SRC-ZIMMERMANN-BIO }
 

@@ -2,7 +2,7 @@
 
 This page is generated from knowledge metadata. Do not edit it manually.
 
-Record count: 169
+Record count: 186
 
 ## `CASE-ANDERSEN-V-STABILITY`: Andersen v. Stability AI Ltd. { #CASE-ANDERSEN-V-STABILITY }
 
@@ -461,7 +461,7 @@ On May 6, 2022, OFAC designated virtual currency mixer Blender.io under E.O. 136
 - Path: [`knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 - Tags: historical-event, artificial-intelligence, computer-crime, case-studies, digital-rights, public-policy
 
-In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in August and September.
 
 ## `EVENT-ZIMMERMANN-PGP-INVESTIGATION`: U.S. Criminal Investigation of Phil Zimmermann / PGP (Closed 1996) { #EVENT-ZIMMERMANN-PGP-INVESTIGATION }
 
@@ -507,6 +507,15 @@ The Center for Democracy and Technology is a 501(c)(3) nonprofit organization th
 - Tags: organization, first-amendment, civil-society, outreach
 
 The Committee for the First Amendment is an entertainment-industry coalition that opposes government censorship and intimidation of artists, journalists, and other speakers, originally formed during the McCarthy era and relaunched in 2025.
+
+## `ORG-CONGRESSIONAL-AI-CAUCUS`: Congressional Artificial Intelligence Caucus { #ORG-CONGRESSIONAL-AI-CAUCUS }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Tags: organization, public-policy, artificial-intelligence
+
+The Congressional Artificial Intelligence Caucus is a bipartisan House member organization that, according to its official site, informs members about AI's technological, economic, and social impacts; co-chairs listed are Donald S. Beyer, Michael T. McCaul, Jay Obernolte, and Doris O. Matsui.
 
 ## `ORG-COOLEY`: Cooley { #ORG-COOLEY }
 
@@ -561,6 +570,15 @@ FIRE is a U.S. 501(c)(3) nonprofit that defends free speech and free thought thr
 - Tags: organization, open-source-software, digital-rights, civil-society, outreach
 
 The Free Software Foundation is a 501(c)(3) nonprofit organization founded in 1985 with a worldwide mission to promote computer user freedom and defend the rights of all software users.
+
+## `ORG-HOUSE-AI-TASK-FORCE`: House Bipartisan Task Force on Artificial Intelligence { #ORG-HOUSE-AI-TASK-FORCE }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Tags: organization, public-policy, artificial-intelligence
+
+The House Bipartisan Task Force on Artificial Intelligence was an 118th Congress Speaker/Leader body co-chaired by Jay Obernolte and Ted Lieu that issued a December 2024 report with findings and recommendations on AI adoption and governance.
 
 ## `ORG-INSTITUTE-FOR-FREE-SPEECH`: Institute for Free Speech { #ORG-INSTITUTE-FOR-FREE-SPEECH }
 
@@ -624,6 +642,24 @@ Public Knowledge is a U.S. nonprofit that promotes freedom of expression, an ope
 - Tags: organization, first-amendment, digital-rights, civil-society, outreach
 
 The Reporters Committee for Freedom of the Press is a U.S. nonprofit that provides pro bono legal services to protect First Amendment freedoms and the newsgathering rights of journalists.
+
+## `ORG-SENATE-AI-CAUCUS`: Senate Artificial Intelligence Caucus { #ORG-SENATE-AI-CAUCUS }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-SENATE-AI-CAUCUS.md`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Tags: organization, public-policy, artificial-intelligence
+
+The Senate Artificial Intelligence Caucus is a bipartisan informal Senate group founded in 2019 by Martin Heinrich and Rob Portman; as of 2026 its co-chairs are Heinrich and Mike Rounds.
+
+## `ORG-SENATE-AI-WORKING-GROUP`: Bipartisan Senate AI Working Group { #ORG-SENATE-AI-WORKING-GROUP }
+
+- Type: `organization`
+- Status: `draft`
+- Path: [`knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Tags: organization, public-policy, artificial-intelligence
+
+The Bipartisan Senate AI Working Group was a 118th Congress leadership group of Chuck Schumer, Todd Young, Martin Heinrich, and Mike Rounds that ran AI Insight Forums and released a May 2024 legislative roadmap.
 
 ## `ORG-SFLC`: Software Freedom Law Center { #ORG-SFLC }
 
@@ -706,6 +742,15 @@ Alan Kay is a Turing Award-winning computer scientist who pioneered object-orien
 
 Alex Abdo is litigation director of the Knight First Amendment Institute and a former ACLU attorney who litigated NSA surveillance, encryption, and government transparency cases.
 
+## `PERSON-ALEXANDRIA-OCASIO-CORTEZ`: Alexandria Ocasio-Cortez { #PERSON-ALEXANDRIA-OCASIO-CORTEZ }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Tags: person, public-policy, artificial-intelligence, digital-rights
+
+Alexandria Ocasio-Cortez is a U.S. Representative from New York who co-announced and later introduced the House companion to the AI Data Center Moratorium Act and served on the 118th Congress House AI Task Force.
+
 ## `PERSON-ANDREW-RUSSELL`: Andrew Russell { #PERSON-ANDREW-RUSSELL }
 
 - Type: `person`
@@ -724,6 +769,15 @@ Andrew Russell is Provost at SUNY Polytechnic Institute and historian of technol
 
 Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democracy, overseeing work on free speech, privacy, technology, national security, and immigrants' rights.
 
+## `PERSON-BERNIE-SANDERS`: Bernie Sanders { #PERSON-BERNIE-SANDERS }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-BERNIE-SANDERS.md`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Tags: person, public-policy, artificial-intelligence, digital-rights
+
+Bernie Sanders is a U.S. Senator from Vermont who, in 2026, proposed slowing advanced AI development through a data-center construction moratorium, a letter demanding that Anthropic, Meta, and OpenAI pause frontier-model work, and announced legislation to ban artificial superintelligence.
+
 ## `PERSON-BRUCE-SCHNEIER`: Bruce Schneier { #PERSON-BRUCE-SCHNEIER }
 
 - Type: `person`
@@ -732,6 +786,15 @@ Ben Wizner is ACLU Deputy Legal Director and Director of its Center for Democrac
 - Tags: person, cryptography, privacy, digital-rights, internet-governance
 
 Bruce Schneier is an internationally renowned security technologist, cryptographer, and author who serves on the boards of the Electronic Frontier Foundation, AccessNow, and the Tor Project, and is a Fellow at Harvard's Berkman Klein Center for Internet and Society.
+
+## `PERSON-CHUCK-SCHUMER`: Chuck Schumer { #PERSON-CHUCK-SCHUMER }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-CHUCK-SCHUMER.md`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Chuck Schumer is a U.S. Senator from New York who led the Bipartisan Senate AI Working Group with Rounds, Heinrich, and Young and released a May 2024 Senate AI policy roadmap after nine Insight Forums.
 
 ## `PERSON-CINDY-COHN`: Cindy Cohn { #PERSON-CINDY-COHN }
 
@@ -787,6 +850,24 @@ David-Olivier Kaminski is a French lawyer identified in August 2024 reporting as
 
 David P. Reed is a computer scientist and co-inventor of the end-to-end principle, a foundational Internet design argument, who participated in early TCP/IP work and designed UDP.
 
+## `PERSON-DON-BEYER`: Don Beyer { #PERSON-DON-BEYER }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-DON-BEYER.md`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Don Beyer is a U.S. Representative from Virginia who co-chairs the Congressional Artificial Intelligence Caucus, served on the House AI Task Force, and introduced the AI Foundation Model Transparency Act.
+
+## `PERSON-DORIS-MATSUI`: Doris Matsui { #PERSON-DORIS-MATSUI }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-DORIS-MATSUI.md`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Doris Matsui is a U.S. Representative from California who co-chairs the Congressional Artificial Intelligence Caucus and is Ranking Member of the House Energy and Commerce Communications and Technology Subcommittee.
+
 ## `PERSON-EBEN-MOGLEN`: Eben Moglen { #PERSON-EBEN-MOGLEN }
 
 - Type: `attorney`
@@ -813,6 +894,15 @@ Esha Bhandari is Director of the ACLU Speech, Privacy, and Technology Project an
 - Tags: person, artificial-intelligence, researcher, public-policy
 
 Gary Marcus is Professor Emeritus of Psychology at New York University, a cognitive scientist and AI critic who testified at a 2023 Senate AI oversight hearing and later published analysis of the 2026 OpenAI / Hugging Face agent-intrusion incident.
+
+## `PERSON-GREG-CASAR`: Greg Casar { #PERSON-GREG-CASAR }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-GREG-CASAR.md`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Tags: person, public-policy, artificial-intelligence, privacy
+
+Greg Casar is a U.S. Representative from Texas who chairs the Congressional Progressive Caucus, announced the Ban Artificial Superintelligence Act with Bernie Sanders, and introduced the Stop AI Price Gouging and Wage Fixing Act.
 
 ## `PERSON-HEATHER-MEEKER`: Heather Meeker { #PERSON-HEATHER-MEEKER }
 
@@ -877,6 +967,15 @@ Jane Fonda is an actor and activist who publicly relaunched the Committee for th
 
 Janet Abbate is a Virginia Tech professor of science, technology, and society and author of Inventing the Internet, the standard academic history of how ARPANET became the public Internet.
 
+## `PERSON-JAY-OBERNOLTE`: Jay Obernolte { #PERSON-JAY-OBERNOLTE }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-JAY-OBERNOLTE.md`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Jay Obernolte is a U.S. Representative from California who chairs the House Bipartisan Task Force on Artificial Intelligence, co-chairs the Congressional AI Caucus, and holds an M.S. in artificial intelligence from UCLA.
+
 ## `PERSON-JENNIFER-GRANICK`: Jennifer Granick { #PERSON-JENNIFER-GRANICK }
 
 - Type: `attorney`
@@ -894,6 +993,15 @@ Jennifer Granick is the surveillance and cybersecurity counsel with the ACLU's S
 - Tags: person, digital-rights, internet-governance, privacy
 
 Jonathan Zittrain is the George Bemis Professor of International Law at Harvard Law School, co-founder of the Berkman Klein Center, and a professor of computer science who is a leading public voice on internet law, platform governance, and digital technology policy.
+
+## `PERSON-JOSH-HAWLEY`: Josh Hawley { #PERSON-JOSH-HAWLEY }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-JOSH-HAWLEY.md`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Tags: person, public-policy, artificial-intelligence, computer-crime, digital-rights
+
+Josh Hawley is a U.S. Senator from Missouri who sponsored the Artificial Intelligence Risk Evaluation Act with Richard Blumenthal and, on September 9, 2026, opened a subcommittee investigation of OpenAI over the Hugging Face agent-intrusion incident.
 
 ## `PERSON-KATIE-FALLOW`: Katie Fallow { #PERSON-KATIE-FALLOW }
 
@@ -949,6 +1057,15 @@ Lee Tien is Legislative Director and Adams Chair for Internet Rights at the Elec
 
 Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorado and Director of the Privacy Initiative at Silicon Flatirons, a scholar of AI law, data privacy, and the First Amendment who is co-authoring a leading AI-law casebook.
 
+## `PERSON-MARTIN-HEINRICH`: Martin Heinrich { #PERSON-MARTIN-HEINRICH }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-MARTIN-HEINRICH.md`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Martin Heinrich is a U.S. Senator from New Mexico who co-founded the Senate Artificial Intelligence Caucus in 2019 and served on the 2024 Bipartisan Senate AI Working Group that released a legislative roadmap.
+
 ## `PERSON-MATT-BLAZE`: Matt Blaze { #PERSON-MATT-BLAZE }
 
 - Type: `person`
@@ -958,6 +1075,15 @@ Margot Kaminski is the Moses Lasky Professor of Law at the University of Colorad
 
 Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt Chair of Computer Science and Law at Georgetown University, a board member of the Tor Project, and a congressional expert witness on cybersecurity who testified before Congress on the Salt Typhoon telecommunications breach.
 
+## `PERSON-MICHAEL-MCCAUL`: Michael McCaul { #PERSON-MICHAEL-MCCAUL }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-MICHAEL-MCCAUL.md`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Michael McCaul is a U.S. Representative from Texas who co-chairs the Congressional Artificial Intelligence Caucus and previously chaired House Homeland Security and Foreign Affairs.
+
 ## `PERSON-MIKE-LEE`: Mike Lee { #PERSON-MIKE-LEE }
 
 - Type: `person`
@@ -966,6 +1092,15 @@ Matt Blaze is a leading cryptography and secure systems researcher, the McDevitt
 - Tags: person, internet-governance, digital-rights, privacy, surveillance, fourth-amendment
 
 Mike Lee is a U.S. Senator from Utah who opposes encryption backdoors, co-authored the Government Surveillance Reform Act with Ron Wyden and Zoe Lofgren, and has introduced bipartisan FISA reform legislation.
+
+## `PERSON-MIKE-ROUNDS`: Mike Rounds { #PERSON-MIKE-ROUNDS }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-MIKE-ROUNDS.md`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Mike Rounds is a U.S. Senator from South Dakota who co-chairs the Senate Artificial Intelligence Caucus and served on the 2024 Bipartisan Senate AI Working Group that released a legislative roadmap.
 
 ## `PERSON-MITCH-STOLTZ`: Mitch Stoltz { #PERSON-MITCH-STOLTZ }
 
@@ -1120,6 +1255,15 @@ Ryan Calo is the Virginia and Prentice Bloedel Professor at the University of Wa
 
 Stuart Russell is a UC Berkeley computer scientist, holder of the Smith-Zadeh Chair in Engineering, director of the Center for Human-Compatible AI, and co-author of the standard textbook Artificial Intelligence: A Modern Approach.
 
+## `PERSON-TED-LIEU`: Ted Lieu { #PERSON-TED-LIEU }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-TED-LIEU.md`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Ted Lieu is a U.S. Representative from California who co-chaired the House Bipartisan Task Force on Artificial Intelligence and introduced the AI Kill Switch Act requiring throttle and shutdown capability for powerful AI systems.
+
 ## `PERSON-THOMAS-HAIGH`: Thomas Haigh { #PERSON-THOMAS-HAIGH }
 
 - Type: `person`
@@ -1146,6 +1290,15 @@ Thomas Massie is a U.S. Representative from Kentucky who has led bipartisan Hous
 - Tags: person, internet-architecture, internet-governance, open-source-software, privacy
 
 Sir Tim Berners-Lee invented the World Wide Web, founded the W3C, and holds faculty appointments at MIT and Oxford; he is a leading voice on open web standards, data sovereignty, and decentralized architectures such as Solid.
+
+## `PERSON-TODD-YOUNG`: Todd Young { #PERSON-TODD-YOUNG }
+
+- Type: `person`
+- Status: `draft`
+- Path: [`knowledge/people/PERSON-TODD-YOUNG.md`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Tags: person, public-policy, artificial-intelligence
+
+Todd Young is a U.S. Senator from Indiana who served on the 2024 Bipartisan Senate AI Working Group, sits on the Senate AI Caucus, and whose office identifies artificial intelligence as a core legislative focus alongside the CHIPS and Science Act.
 
 ## `PERSON-VINT-CERF`: Vint Cerf { #PERSON-VINT-CERF }
 

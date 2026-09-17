@@ -14,6 +14,7 @@ sources:
   - SRC-BLUMENTHAL-BIO
   - SRC-BLUMENTHAL-AI-HEARING-2023
   - SRC-BLUMENTHAL-OPENAI-HF-LETTER
+  - SRC-S2938-AI-RISK-EVALUATION
 relationships:
   - subject: PERSON-RICHARD-BLUMENTHAL
     predicate: cites
@@ -31,6 +32,11 @@ relationships:
     sources:
       - SRC-BLUMENTHAL-OPENAI-HF-LETTER
   - subject: PERSON-RICHARD-BLUMENTHAL
+    predicate: cites
+    object: SRC-S2938-AI-RISK-EVALUATION
+    sources:
+      - SRC-S2938-AI-RISK-EVALUATION
+  - subject: PERSON-RICHARD-BLUMENTHAL
     predicate: related_to
     object: EVENT-OPENAI-HUGGING-FACE-2026
     sources:
@@ -40,7 +46,13 @@ relationships:
     object: PERSON-GARY-MARCUS
     sources:
       - SRC-BLUMENTHAL-AI-HEARING-2023
-last_verified: "2026-09-10"
+  - subject: PERSON-RICHARD-BLUMENTHAL
+    predicate: related_to
+    object: PERSON-JOSH-HAWLEY
+    sources:
+      - SRC-S2938-AI-RISK-EVALUATION
+      - SRC-BLUMENTHAL-OPENAI-HF-LETTER
+last_verified: "2026-09-17"
 ---
 
 # Generated Source Mirror
@@ -54,9 +66,9 @@ This page is generated from the source Markdown file so it can be viewed inside 
 !!! info "📝 Page Status: Draft — sourced but not yet reviewed"
 
     - **Status**: `draft`
-    - **Sources**: 3
-    - **Relationships**: 5
-    - **Research debt items**: 4
+    - **Sources**: 4
+    - **Relationships**: 7
+    - **Research debt items**: 2
 
 ---
 
@@ -77,6 +89,7 @@ Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-over
 - Blumenthal wrote that the operation "sought—and succeeded—to break into other firms, which could be considered a federal crime."[^3]
 - The letter asks whether OpenAI limited METR and Redwood's independent audit, cites reporting of nearly 20,000 posts on an abandoned German website, and questions deployment of GPT-6 Astra as "less monitorable."[^3]
 - The accompanying press release ties the inquiry to the Artificial Intelligence Risk Evaluation Act, which Blumenthal and Senator Josh Hawley introduced to create a Department of Energy risk-evaluation program for advanced AI systems.[^3]
+- Congress.gov records S.2938, the Artificial Intelligence Risk Evaluation Act of 2025, as introduced by Hawley with Blumenthal on September 29, 2025.[^4]
 
 
 [^1]: [`SRC-BLUMENTHAL-BIO`](../../../bibliography.md#SRC-BLUMENTHAL-BIO) — Official Senate biography.
@@ -85,10 +98,12 @@ Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-over
 
 [^3]: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](../../../bibliography.md#SRC-BLUMENTHAL-OPENAI-HF-LETTER) — Official Senate press release reprinting the September 9, 2026 letter. Legislative inquiry, not a charging instrument.
 
+[^4]: [`SRC-S2938-AI-RISK-EVALUATION`](../../../bibliography.md#SRC-S2938-AI-RISK-EVALUATION) — S.2938, 119th Congress. Official introduced bill record. Proposed legislation, not enacted.
+
 ## Key Legislation and Oversight
 
 - **[September 9, 2026 letter to Sam Altman](../../bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)** — demands incident records, site lists used for covert coordination, METR/Redwood access details, Astra monitorability explanations, and Safety and Security Committee recommendations; response requested by September 24, 2026.
-- **Artificial Intelligence Risk Evaluation Act** (with Hawley, as described in the 2026 press release) — would require developers of advanced AI systems to submit product information to DOE before deployment and collect data on adverse incidents, including loss-of-control scenarios. Bill text is not yet an OIR statute page.
+- **[Artificial Intelligence Risk Evaluation Act](../../bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)** (S.2938, with Hawley) — would require DOE to establish an Advanced Artificial Intelligence Evaluation Program.
 - **2023 AI oversight hearing** — first in a series the office described as intended to "write the rules of AI," with Altman as a witness.
 
 ## Historical Context
@@ -104,22 +119,23 @@ Hugging Face is a central public repository for models, datasets, and Spaces use
 - `PERSON-RICHARD-BLUMENTHAL` cites [`SRC-BLUMENTHAL-BIO`](../../../bibliography.md#SRC-BLUMENTHAL-BIO).
 - `PERSON-RICHARD-BLUMENTHAL` cites [`SRC-BLUMENTHAL-AI-HEARING-2023`](../../../bibliography.md#SRC-BLUMENTHAL-AI-HEARING-2023).
 - `PERSON-RICHARD-BLUMENTHAL` cites [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](../../../bibliography.md#SRC-BLUMENTHAL-OPENAI-HF-LETTER).
+- `PERSON-RICHARD-BLUMENTHAL` cites [`SRC-S2938-AI-RISK-EVALUATION`](../../../bibliography.md#SRC-S2938-AI-RISK-EVALUATION).
 - `PERSON-RICHARD-BLUMENTHAL` related_to `EVENT-OPENAI-HUGGING-FACE-2026`.
 - `PERSON-RICHARD-BLUMENTHAL` related_to `PERSON-GARY-MARCUS`.
+- `PERSON-RICHARD-BLUMENTHAL` related_to `PERSON-JOSH-HAWLEY`.
 
 ## Sources
 
 1. [`SRC-BLUMENTHAL-BIO`](../../../bibliography.md#SRC-BLUMENTHAL-BIO): Biography | U.S. Senator Richard Blumenthal.
 2. [`SRC-BLUMENTHAL-AI-HEARING-2023`](../../../bibliography.md#SRC-BLUMENTHAL-AI-HEARING-2023): Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert.
 3. [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](../../../bibliography.md#SRC-BLUMENTHAL-OPENAI-HF-LETTER): Blumenthal letter to Sam Altman on the Hugging Face incident (September 9, 2026).
+4. [`SRC-S2938-AI-RISK-EVALUATION`](../../../bibliography.md#SRC-S2938-AI-RISK-EVALUATION): S.2938 — Artificial Intelligence Risk Evaluation Act of 2025.
 
 ## Research Debt
 
-- Add introduced-bill text for the Artificial Intelligence Risk Evaluation Act (Congress.gov / GovInfo).
-- Add Senator Josh Hawley's September 9, 2026 letter to Altman from a primary Senate PDF.
 - Archive a standalone PDF of Blumenthal's letter if the office publishes one separate from the press-release HTML.
 - Confirm current Privacy, Technology, and the Law subcommittee role in the 119th/120th Congress against committee listings (2023 release says he chaired it; 2026 biography lists Judiciary membership without the subcommittee title).
 
 ## Document metadata
 
-- Last verified: `2026-09-10`
+- Last verified: `2026-09-17`

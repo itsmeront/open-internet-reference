@@ -2,7 +2,7 @@
 
 This page is generated from `Used For` sections in source records. Do not edit it manually.
 
-Term count: 224
+Term count: 241
 
 ## `CASE-ANDERSEN-V-STABILITY` { #case-andersen-v-stability }
 
@@ -313,12 +313,15 @@ Term count: 224
 ## `EVENT-OPENAI-HUGGING-FACE-2026` { #event-openai-hugging-face-2026 }
 
 - [`SRC-BLUMENTHAL-OPENAI-HF-LETTER: Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+- [`SRC-HAWLEY-OPENAI-HF-LETTER: Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
 - [`SRC-HF-AGENT-INTRUSION-TIMELINE: Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026)`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md)
 - [`SRC-HF-SECURITY-INCIDENT-JULY-2026: Hugging Face — Security incident disclosure (July 2026)`](source-docs/bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md)
 - [`SRC-MARCUS-HF-LESSONS: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
 - [`SRC-METR-HF-INVESTIGATION: METR — Independent investigation of the OpenAI / Hugging Face hacking incident`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
 - [`SRC-OPENAI-HF-INCIDENT-JULY-2026: OpenAI — Hugging Face model-evaluation security incident (July 21, 2026)`](source-docs/bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md)
 - [`SRC-OPENAI-HF-ROAD-AHEAD: OpenAI — The Hugging Face incident and the road ahead (August 26, 2026)`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
+- [`SRC-SANDERS-BAN-ASI-ACT: NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+- [`SRC-SANDERS-PAUSE-LETTER-2026: Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
 
 ## `EVENT-ZIMMERMANN-PGP-INVESTIGATION` { #event-zimmermann-pgp-investigation }
 
@@ -338,6 +341,11 @@ Term count: 224
 - [`SRC-CFA-HOME: Committee for the First Amendment Homepage`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
 - [`SRC-CFA-JOIN: Committee for the First Amendment Join Page`](source-docs/bibliography/organizations/SRC-CFA-JOIN.md)
 - [`SRC-CFA-RELAUNCH-CNN: Jane Fonda Relaunches Committee for the First Amendment (CNN)`](source-docs/bibliography/organizations/SRC-CFA-RELAUNCH-CNN.md)
+
+## `ORG-CONGRESSIONAL-AI-CAUCUS` { #org-congressional-ai-caucus }
+
+- [`SRC-BEYER-AI-TRANSPARENCY: Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+- [`SRC-HOUSE-AI-CAUCUS: Congressional Artificial Intelligence Caucus`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
 
 ## `ORG-COOLEY` { #org-cooley }
 
@@ -367,6 +375,11 @@ Term count: 224
 
 - [`SRC-FSF-ABOUT: Free Software Foundation About Page`](source-docs/bibliography/organizations/SRC-FSF-ABOUT.md)
 - [`SRC-FSF-PRESS: Free Software Foundation Press Information`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## `ORG-HOUSE-AI-TASK-FORCE` { #org-house-ai-task-force }
+
+- [`SRC-BEYER-AI-TRANSPARENCY: Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+- [`SRC-HOUSE-AI-TASK-FORCE-2024: The House Task Force on Artificial Intelligence Final Report`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
 
 ## `ORG-INSTITUTE-FOR-FREE-SPEECH` { #org-institute-for-free-speech }
 
@@ -400,6 +413,14 @@ Term count: 224
 
 - [`SRC-RCFP-CONTACT: Reporters Committee Contact Page`](source-docs/bibliography/organizations/SRC-RCFP-CONTACT.md)
 - [`SRC-RCFP-WHAT-WE-DO: Reporters Committee What We Do Page`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
+
+## `ORG-SENATE-AI-CAUCUS` { #org-senate-ai-caucus }
+
+- [`SRC-HEINRICH-SENATE-AI-CAUCUS: Artificial Intelligence Caucus \| Senator Martin Heinrich`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## `ORG-SENATE-AI-WORKING-GROUP` { #org-senate-ai-working-group }
+
+- [`SRC-SENATE-AI-ROADMAP-2024: Following Historic AI Insight Forums, Heinrich Colleagues Reveal Bipartisan Roadmap for Artificial Intelligence Policy`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
 
 ## `ORG-SFLC` { #org-sflc }
 
@@ -449,6 +470,11 @@ Term count: 224
 
 - [`SRC-ABDO-KNIGHT: Alex Abdo Knight Institute Biography`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
 
+## `PERSON-ALEXANDRIA-OCASIO-CORTEZ` { #person-alexandria-ocasio-cortez }
+
+- [`SRC-AOC-AI-DATA-CENTER-MORATORIUM: Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+- [`SRC-AOC-BIO: About \| Representative Ocasio-Cortez`](source-docs/bibliography/people/SRC-AOC-BIO.md)
+
 ## `PERSON-ANDREW-RUSSELL` { #person-andrew-russell }
 
 - [`SRC-RUSSELL-PROFILE: Andrew L. Russell Professional Profile`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
@@ -457,9 +483,22 @@ Term count: 224
 
 - [`SRC-WIZNER-ACLU: Ben Wizner ACLU Staff Biography`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
 
+## `PERSON-BERNIE-SANDERS` { #person-bernie-sanders }
+
+- [`SRC-AOC-AI-DATA-CENTER-MORATORIUM: Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+- [`SRC-S4214-AI-DATA-CENTER-MORATORIUM: S.4214 — Artificial Intelligence Data Center Moratorium Act (119th Congress)`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md)
+- [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM: NEWS Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+- [`SRC-SANDERS-BAN-ASI-ACT: NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+- [`SRC-SANDERS-BIO: About Bernie \| U.S. Senator Bernie Sanders`](source-docs/bibliography/people/SRC-SANDERS-BIO.md)
+- [`SRC-SANDERS-PAUSE-LETTER-2026: Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
+
 ## `PERSON-BRUCE-SCHNEIER` { #person-bruce-schneier }
 
 - [`SRC-SCHNEIER-ABOUT: Bruce Schneier About Page`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
+
+## `PERSON-CHUCK-SCHUMER` { #person-chuck-schumer }
+
+- [`SRC-SCHUMER-BIO: About Chuck \| Senator Chuck Schumer of New York`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md)
 
 ## `PERSON-CINDY-COHN` { #person-cindy-cohn }
 
@@ -473,6 +512,7 @@ Term count: 224
 
 - [`SRC-BOOKER-SURVEILLANCE-ADVERTISING: Booker Announces Introduction of Bill to Ban Surveillance Advertising`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 - [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress)`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+- [`SRC-HEINRICH-SENATE-AI-CAUCUS: Artificial Intelligence Caucus \| Senator Martin Heinrich`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
 - [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
 ## `PERSON-CORYNNE-MCSHERRY` { #person-corynne-mcsherry }
@@ -491,6 +531,15 @@ Term count: 224
 
 - [`SRC-REED-BIO: David P. Reed Official Biography`](source-docs/bibliography/people/SRC-REED-BIO.md)
 
+## `PERSON-DON-BEYER` { #person-don-beyer }
+
+- [`SRC-BEYER-AI-TRANSPARENCY: Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+- [`SRC-BEYER-BIO: Biography \| U.S. Representative Don Beyer`](source-docs/bibliography/people/SRC-BEYER-BIO.md)
+
+## `PERSON-DORIS-MATSUI` { #person-doris-matsui }
+
+- [`SRC-MATSUI-BIO: Biography \| Congresswoman Doris Matsui`](source-docs/bibliography/people/SRC-MATSUI-BIO.md)
+
 ## `PERSON-EBEN-MOGLEN` { #person-eben-moglen }
 
 - [`SRC-MOGLEN-COLUMBIA: Eben Moglen Columbia Law School Faculty Page`](source-docs/bibliography/people/SRC-MOGLEN-COLUMBIA.md)
@@ -507,6 +556,11 @@ Term count: 224
 - [`SRC-MARCUS-HF-LESSONS: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
 - [`SRC-MARCUS-NYU: NYU Department of Psychology faculty list — Gary Marcus`](source-docs/bibliography/people/SRC-MARCUS-NYU.md)
 - [`SRC-METR-HF-INVESTIGATION: METR — Independent investigation of the OpenAI / Hugging Face hacking incident`](source-docs/bibliography/technical/SRC-METR-HF-INVESTIGATION.md)
+
+## `PERSON-GREG-CASAR` { #person-greg-casar }
+
+- [`SRC-CASAR-AI-PRICE-GOUGING: NEWS Congressman Greg Casar Introduces New Stop AI Price Gouging and Wage Fixing Act`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md)
+- [`SRC-CASAR-BIO: About \| Representative Casar`](source-docs/bibliography/people/SRC-CASAR-BIO.md)
 
 ## `PERSON-HEATHER-MEEKER` { #person-heather-meeker }
 
@@ -540,6 +594,10 @@ Term count: 224
 
 - [`SRC-ABBATE-VT: Janet Abbate Virginia Tech Faculty Profile`](source-docs/bibliography/people/SRC-ABBATE-VT.md)
 
+## `PERSON-JAY-OBERNOLTE` { #person-jay-obernolte }
+
+- [`SRC-OBERNOLTE-BIO: About \| Representative Jay Obernolte`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md)
+
 ## `PERSON-JENNIFER-GRANICK` { #person-jennifer-granick }
 
 - [`SRC-GRANICK-ACLU-BIO: Jennifer Granick ACLU Staff Biography`](source-docs/bibliography/people/SRC-GRANICK-ACLU-BIO.md)
@@ -547,6 +605,12 @@ Term count: 224
 ## `PERSON-JONATHAN-ZITTRAIN` { #person-jonathan-zittrain }
 
 - [`SRC-ZITTRAIN-HLS: Jonathan L. Zittrain Harvard Law School Faculty Profile`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
+
+## `PERSON-JOSH-HAWLEY` { #person-josh-hawley }
+
+- [`SRC-HAWLEY-BIO: About \| Senator Josh Hawley`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md)
+- [`SRC-HAWLEY-OPENAI-HF-LETTER: Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+- [`SRC-S2938-AI-RISK-EVALUATION: S.2938 — Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress)`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
 
 ## `PERSON-KATIE-FALLOW` { #person-katie-fallow }
 
@@ -575,15 +639,27 @@ Term count: 224
 - [`SRC-AILA-CASEBOOK: Artificial Intelligence Law casebook site — Kaminski, Ohm, and Selbst`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
 - [`SRC-KAMINSKI-BERKMAN: Margot Kaminski — Berkman Klein Center profile`](source-docs/bibliography/people/SRC-KAMINSKI-BERKMAN.md)
 
+## `PERSON-MARTIN-HEINRICH` { #person-martin-heinrich }
+
+- [`SRC-HEINRICH-BIO: About \| Senator Martin Heinrich`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md)
+
 ## `PERSON-MATT-BLAZE` { #person-matt-blaze }
 
 - [`SRC-BLAZE-GEORGETOWN: Matt Blaze Georgetown Faculty Profile`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
+## `PERSON-MICHAEL-MCCAUL` { #person-michael-mccaul }
+
+- [`SRC-MCCAUL-BIO: Biography \| Congressman Michael McCaul`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md)
 
 ## `PERSON-MIKE-LEE` { #person-mike-lee }
 
 - [`SRC-LEE-ENCRYPTION-BACKDOORS: Encryption backdoors aren't worth the price`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 - [`SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM: Lee Introduces Bipartisan Legislation to Secure Privacy Protections for Americans`](source-docs/bibliography/people/SRC-LEE-GOVERNMENT-SURVEILLANCE-REFORM.md)
 - [`SRC-LEE-SENATE-BIO: Mike Lee Official Senate Biography`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+
+## `PERSON-MIKE-ROUNDS` { #person-mike-rounds }
+
+- [`SRC-ROUNDS-BIO: About Mike \| U.S. Senator Mike Rounds`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md)
 
 ## `PERSON-MITCH-STOLTZ` { #person-mitch-stoltz }
 
@@ -645,6 +721,7 @@ Term count: 224
 - [`SRC-BLUMENTHAL-AI-HEARING-2023: Blumenthal Questions OpenAI CEO, IBM Privacy Chief, and Leading AI Expert About Establishing Safeguards for Artificial Intelligence`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
 - [`SRC-BLUMENTHAL-BIO: Biography \| U.S. Senator Richard Blumenthal`](source-docs/bibliography/people/SRC-BLUMENTHAL-BIO.md)
 - [`SRC-BLUMENTHAL-OPENAI-HF-LETTER: Blumenthal Demands Answers from Sam Altman After New Reporting on AI Agents and the Hugging Face Breach`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
+- [`SRC-S2938-AI-RISK-EVALUATION: S.2938 — Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress)`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
 
 ## `PERSON-RO-KHANNA` { #person-ro-khanna }
 
@@ -678,6 +755,11 @@ Term count: 224
 
 - [`SRC-RUSSELL-BERKELEY: Stuart J. Russell — UC Berkeley EECS faculty page`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
 
+## `PERSON-TED-LIEU` { #person-ted-lieu }
+
+- [`SRC-LIEU-AI-KILL-SWITCH: Reps Lieu and Moran Introduce Bill to Require Kill Switch for AI Systems That Can Cause Catastrophic Harm`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md)
+- [`SRC-LIEU-BIO: Meet Ted \| Congressman Ted Lieu`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+
 ## `PERSON-THOMAS-HAIGH` { #person-thomas-haigh }
 
 - [`SRC-HAIGH-UWM: Thomas Haigh University of Wisconsin–Milwaukee Faculty Profile`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
@@ -689,6 +771,10 @@ Term count: 224
 ## `PERSON-TIM-BERNERS-LEE` { #person-tim-berners-lee }
 
 - [`SRC-BERNERS-LEE-W3C: Tim Berners-Lee W3C Biography`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
+
+## `PERSON-TODD-YOUNG` { #person-todd-young }
+
+- [`SRC-YOUNG-BIO: About Todd \| Senator Young`](source-docs/bibliography/people/SRC-YOUNG-BIO.md)
 
 ## `PERSON-VINT-CERF` { #person-vint-cerf }
 

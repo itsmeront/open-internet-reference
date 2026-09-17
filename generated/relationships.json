@@ -2167,10 +2167,31 @@
     {
       "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
       "notes": null,
+      "object": "PERSON-BERNIE-SANDERS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-PAUSE-LETTER-2026",
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
       "object": "PERSON-GARY-MARCUS",
       "predicate": "related_to",
       "sources": [
         "SRC-MARCUS-HF-LESSONS"
+      ],
+      "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+    },
+    {
+      "declared_in": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "notes": null,
+      "object": "PERSON-JOSH-HAWLEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HAWLEY-OPENAI-HF-LETTER"
       ],
       "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
     },
@@ -2355,6 +2376,56 @@
       "subject": "ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT"
     },
     {
+      "declared_in": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "notes": null,
+      "object": "SRC-HOUSE-AI-CAUCUS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-DON-BEYER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-DORIS-MATSUI",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-JAY-OBERNOLTE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-MICHAEL-MCCAUL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+    },
+    {
       "declared_in": "ORG-COOLEY",
       "notes": null,
       "object": "SRC-COOLEY-TECH",
@@ -2483,6 +2554,56 @@
         "SRC-FSF-PRESS"
       ],
       "subject": "ORG-FSF"
+    },
+    {
+      "declared_in": "ORG-HOUSE-AI-TASK-FORCE",
+      "notes": null,
+      "object": "SRC-HOUSE-AI-TASK-FORCE-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "ORG-HOUSE-AI-TASK-FORCE"
+    },
+    {
+      "declared_in": "ORG-HOUSE-AI-TASK-FORCE",
+      "notes": null,
+      "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "ORG-HOUSE-AI-TASK-FORCE"
+    },
+    {
+      "declared_in": "ORG-HOUSE-AI-TASK-FORCE",
+      "notes": null,
+      "object": "PERSON-DON-BEYER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "ORG-HOUSE-AI-TASK-FORCE"
+    },
+    {
+      "declared_in": "ORG-HOUSE-AI-TASK-FORCE",
+      "notes": null,
+      "object": "PERSON-JAY-OBERNOLTE",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "ORG-HOUSE-AI-TASK-FORCE"
+    },
+    {
+      "declared_in": "ORG-HOUSE-AI-TASK-FORCE",
+      "notes": null,
+      "object": "PERSON-TED-LIEU",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "ORG-HOUSE-AI-TASK-FORCE"
     },
     {
       "declared_in": "ORG-INSTITUTE-FOR-FREE-SPEECH",
@@ -2623,6 +2744,116 @@
         "SRC-RCFP-WHAT-WE-DO"
       ],
       "subject": "ORG-RCFP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-CAUCUS",
+      "notes": null,
+      "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "ORG-SENATE-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-CORY-BOOKER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "ORG-SENATE-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-MARTIN-HEINRICH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "ORG-SENATE-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-MIKE-ROUNDS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "ORG-SENATE-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-CAUCUS",
+      "notes": null,
+      "object": "PERSON-TODD-YOUNG",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "ORG-SENATE-AI-CAUCUS"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "SRC-SENATE-AI-ROADMAP-2024",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "ORG-SENATE-AI-CAUCUS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "PERSON-CHUCK-SCHUMER",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "PERSON-MARTIN-HEINRICH",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "PERSON-MIKE-ROUNDS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
+    },
+    {
+      "declared_in": "ORG-SENATE-AI-WORKING-GROUP",
+      "notes": null,
+      "object": "PERSON-TODD-YOUNG",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "ORG-SENATE-AI-WORKING-GROUP"
     },
     {
       "declared_in": "ORG-SFLC",
@@ -2907,6 +3138,47 @@
       "subject": "PERSON-ALEX-ABDO"
     },
     {
+      "declared_in": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "notes": null,
+      "object": "ORG-HOUSE-AI-TASK-FORCE",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+    },
+    {
+      "declared_in": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "notes": null,
+      "object": "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-AOC-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+    },
+    {
+      "declared_in": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "notes": null,
+      "object": "SRC-AOC-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-AOC-BIO"
+      ],
+      "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+    },
+    {
+      "declared_in": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "notes": null,
+      "object": "PERSON-BERNIE-SANDERS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+    },
+    {
       "declared_in": "PERSON-ANDREW-RUSSELL",
       "notes": null,
       "object": "SRC-RUSSELL-PROFILE",
@@ -2937,6 +3209,108 @@
       "subject": "PERSON-BEN-WIZNER"
     },
     {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-S4214-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "SRC-SANDERS-BAN-ASI-ACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "SRC-SANDERS-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SANDERS-BIO"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "SRC-SANDERS-PAUSE-LETTER-2026",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SANDERS-PAUSE-LETTER-2026"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-PAUSE-LETTER-2026",
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "PERSON-GREG-CASAR",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "PERSON-STUART-RUSSELL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
+      "declared_in": "PERSON-BERNIE-SANDERS",
+      "notes": null,
+      "object": "PERSON-YOSHUA-BENGIO",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-PAUSE-LETTER-2026",
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+      ],
+      "subject": "PERSON-BERNIE-SANDERS"
+    },
+    {
       "declared_in": "PERSON-BRUCE-SCHNEIER",
       "notes": null,
       "object": "ORG-EFF",
@@ -2955,6 +3329,26 @@
         "SRC-SCHNEIER-ABOUT"
       ],
       "subject": "PERSON-BRUCE-SCHNEIER"
+    },
+    {
+      "declared_in": "PERSON-CHUCK-SCHUMER",
+      "notes": null,
+      "object": "ORG-SENATE-AI-WORKING-GROUP",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "PERSON-CHUCK-SCHUMER"
+    },
+    {
+      "declared_in": "PERSON-CHUCK-SCHUMER",
+      "notes": null,
+      "object": "SRC-SCHUMER-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SCHUMER-BIO"
+      ],
+      "subject": "PERSON-CHUCK-SCHUMER"
     },
     {
       "declared_in": "PERSON-CINDY-COHN",
@@ -3040,6 +3434,16 @@
     {
       "declared_in": "PERSON-CORY-BOOKER",
       "notes": null,
+      "object": "ORG-SENATE-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-CORY-BOOKER"
+    },
+    {
+      "declared_in": "PERSON-CORY-BOOKER",
+      "notes": null,
       "object": "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
       "predicate": "cites",
       "sources": [
@@ -3054,6 +3458,16 @@
       "predicate": "cites",
       "sources": [
         "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
+      ],
+      "subject": "PERSON-CORY-BOOKER"
+    },
+    {
+      "declared_in": "PERSON-CORY-BOOKER",
+      "notes": null,
+      "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
       ],
       "subject": "PERSON-CORY-BOOKER"
     },
@@ -3126,6 +3540,68 @@
         "SRC-REED-BIO"
       ],
       "subject": "PERSON-DAVID-REED"
+    },
+    {
+      "declared_in": "PERSON-DON-BEYER",
+      "notes": null,
+      "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS",
+        "SRC-BEYER-AI-TRANSPARENCY"
+      ],
+      "subject": "PERSON-DON-BEYER"
+    },
+    {
+      "declared_in": "PERSON-DON-BEYER",
+      "notes": null,
+      "object": "ORG-HOUSE-AI-TASK-FORCE",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024",
+        "SRC-BEYER-AI-TRANSPARENCY"
+      ],
+      "subject": "PERSON-DON-BEYER"
+    },
+    {
+      "declared_in": "PERSON-DON-BEYER",
+      "notes": null,
+      "object": "SRC-BEYER-AI-TRANSPARENCY",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BEYER-AI-TRANSPARENCY"
+      ],
+      "subject": "PERSON-DON-BEYER"
+    },
+    {
+      "declared_in": "PERSON-DON-BEYER",
+      "notes": null,
+      "object": "SRC-BEYER-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-BEYER-BIO"
+      ],
+      "subject": "PERSON-DON-BEYER"
+    },
+    {
+      "declared_in": "PERSON-DORIS-MATSUI",
+      "notes": null,
+      "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-DORIS-MATSUI"
+    },
+    {
+      "declared_in": "PERSON-DORIS-MATSUI",
+      "notes": null,
+      "object": "SRC-MATSUI-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MATSUI-BIO"
+      ],
+      "subject": "PERSON-DORIS-MATSUI"
     },
     {
       "declared_in": "PERSON-EBEN-MOGLEN",
@@ -3246,6 +3722,56 @@
         "SRC-BLUMENTHAL-AI-HEARING-2023"
       ],
       "subject": "PERSON-GARY-MARCUS"
+    },
+    {
+      "declared_in": "PERSON-GREG-CASAR",
+      "notes": null,
+      "object": "SRC-CASAR-AI-PRICE-GOUGING",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CASAR-AI-PRICE-GOUGING"
+      ],
+      "subject": "PERSON-GREG-CASAR"
+    },
+    {
+      "declared_in": "PERSON-GREG-CASAR",
+      "notes": null,
+      "object": "SRC-CASAR-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-CASAR-BIO"
+      ],
+      "subject": "PERSON-GREG-CASAR"
+    },
+    {
+      "declared_in": "PERSON-GREG-CASAR",
+      "notes": null,
+      "object": "SRC-SANDERS-BAN-ASI-ACT",
+      "predicate": "cites",
+      "sources": [
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-GREG-CASAR"
+    },
+    {
+      "declared_in": "PERSON-GREG-CASAR",
+      "notes": null,
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-GREG-CASAR"
+    },
+    {
+      "declared_in": "PERSON-GREG-CASAR",
+      "notes": null,
+      "object": "PERSON-BERNIE-SANDERS",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "subject": "PERSON-GREG-CASAR"
     },
     {
       "declared_in": "PERSON-HEATHER-MEEKER",
@@ -3414,6 +3940,36 @@
       "subject": "PERSON-JANET-ABBATE"
     },
     {
+      "declared_in": "PERSON-JAY-OBERNOLTE",
+      "notes": null,
+      "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-JAY-OBERNOLTE"
+    },
+    {
+      "declared_in": "PERSON-JAY-OBERNOLTE",
+      "notes": null,
+      "object": "ORG-HOUSE-AI-TASK-FORCE",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "subject": "PERSON-JAY-OBERNOLTE"
+    },
+    {
+      "declared_in": "PERSON-JAY-OBERNOLTE",
+      "notes": null,
+      "object": "SRC-OBERNOLTE-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-OBERNOLTE-BIO"
+      ],
+      "subject": "PERSON-JAY-OBERNOLTE"
+    },
+    {
       "declared_in": "PERSON-JENNIFER-GRANICK",
       "notes": null,
       "object": "ORG-ACLU",
@@ -3442,6 +3998,56 @@
         "SRC-ZITTRAIN-HLS"
       ],
       "subject": "PERSON-JONATHAN-ZITTRAIN"
+    },
+    {
+      "declared_in": "PERSON-JOSH-HAWLEY",
+      "notes": null,
+      "object": "SRC-HAWLEY-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HAWLEY-BIO"
+      ],
+      "subject": "PERSON-JOSH-HAWLEY"
+    },
+    {
+      "declared_in": "PERSON-JOSH-HAWLEY",
+      "notes": null,
+      "object": "SRC-HAWLEY-OPENAI-HF-LETTER",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HAWLEY-OPENAI-HF-LETTER"
+      ],
+      "subject": "PERSON-JOSH-HAWLEY"
+    },
+    {
+      "declared_in": "PERSON-JOSH-HAWLEY",
+      "notes": null,
+      "object": "SRC-S2938-AI-RISK-EVALUATION",
+      "predicate": "cites",
+      "sources": [
+        "SRC-S2938-AI-RISK-EVALUATION"
+      ],
+      "subject": "PERSON-JOSH-HAWLEY"
+    },
+    {
+      "declared_in": "PERSON-JOSH-HAWLEY",
+      "notes": null,
+      "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-HAWLEY-OPENAI-HF-LETTER"
+      ],
+      "subject": "PERSON-JOSH-HAWLEY"
+    },
+    {
+      "declared_in": "PERSON-JOSH-HAWLEY",
+      "notes": null,
+      "object": "PERSON-RICHARD-BLUMENTHAL",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-S2938-AI-RISK-EVALUATION"
+      ],
+      "subject": "PERSON-JOSH-HAWLEY"
     },
     {
       "declared_in": "PERSON-KATIE-FALLOW",
@@ -3595,6 +4201,46 @@
       "subject": "PERSON-MARGOT-KAMINSKI"
     },
     {
+      "declared_in": "PERSON-MARTIN-HEINRICH",
+      "notes": null,
+      "object": "ORG-SENATE-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-MARTIN-HEINRICH"
+    },
+    {
+      "declared_in": "PERSON-MARTIN-HEINRICH",
+      "notes": null,
+      "object": "ORG-SENATE-AI-WORKING-GROUP",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "PERSON-MARTIN-HEINRICH"
+    },
+    {
+      "declared_in": "PERSON-MARTIN-HEINRICH",
+      "notes": null,
+      "object": "SRC-HEINRICH-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HEINRICH-BIO"
+      ],
+      "subject": "PERSON-MARTIN-HEINRICH"
+    },
+    {
+      "declared_in": "PERSON-MARTIN-HEINRICH",
+      "notes": null,
+      "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+      "predicate": "cites",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-MARTIN-HEINRICH"
+    },
+    {
       "declared_in": "PERSON-MATT-BLAZE",
       "notes": null,
       "object": "SRC-BLAZE-GEORGETOWN",
@@ -3603,6 +4249,26 @@
         "SRC-BLAZE-GEORGETOWN"
       ],
       "subject": "PERSON-MATT-BLAZE"
+    },
+    {
+      "declared_in": "PERSON-MICHAEL-MCCAUL",
+      "notes": null,
+      "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-MICHAEL-MCCAUL"
+    },
+    {
+      "declared_in": "PERSON-MICHAEL-MCCAUL",
+      "notes": null,
+      "object": "SRC-MCCAUL-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-MCCAUL-BIO"
+      ],
+      "subject": "PERSON-MICHAEL-MCCAUL"
     },
     {
       "declared_in": "PERSON-MIKE-LEE",
@@ -3633,6 +4299,36 @@
         "SRC-LEE-SENATE-BIO"
       ],
       "subject": "PERSON-MIKE-LEE"
+    },
+    {
+      "declared_in": "PERSON-MIKE-ROUNDS",
+      "notes": null,
+      "object": "ORG-SENATE-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-MIKE-ROUNDS"
+    },
+    {
+      "declared_in": "PERSON-MIKE-ROUNDS",
+      "notes": null,
+      "object": "ORG-SENATE-AI-WORKING-GROUP",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "PERSON-MIKE-ROUNDS"
+    },
+    {
+      "declared_in": "PERSON-MIKE-ROUNDS",
+      "notes": null,
+      "object": "SRC-ROUNDS-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-ROUNDS-BIO"
+      ],
+      "subject": "PERSON-MIKE-ROUNDS"
     },
     {
       "declared_in": "PERSON-MITCH-STOLTZ",
@@ -3958,6 +4654,16 @@
     {
       "declared_in": "PERSON-RICHARD-BLUMENTHAL",
       "notes": null,
+      "object": "SRC-S2938-AI-RISK-EVALUATION",
+      "predicate": "cites",
+      "sources": [
+        "SRC-S2938-AI-RISK-EVALUATION"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
       "object": "EVENT-OPENAI-HUGGING-FACE-2026",
       "predicate": "related_to",
       "sources": [
@@ -3972,6 +4678,17 @@
       "predicate": "related_to",
       "sources": [
         "SRC-BLUMENTHAL-AI-HEARING-2023"
+      ],
+      "subject": "PERSON-RICHARD-BLUMENTHAL"
+    },
+    {
+      "declared_in": "PERSON-RICHARD-BLUMENTHAL",
+      "notes": null,
+      "object": "PERSON-JOSH-HAWLEY",
+      "predicate": "related_to",
+      "sources": [
+        "SRC-S2938-AI-RISK-EVALUATION",
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
       ],
       "subject": "PERSON-RICHARD-BLUMENTHAL"
     },
@@ -4076,6 +4793,37 @@
       "subject": "PERSON-STUART-RUSSELL"
     },
     {
+      "declared_in": "PERSON-TED-LIEU",
+      "notes": null,
+      "object": "ORG-HOUSE-AI-TASK-FORCE",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024",
+        "SRC-LIEU-BIO"
+      ],
+      "subject": "PERSON-TED-LIEU"
+    },
+    {
+      "declared_in": "PERSON-TED-LIEU",
+      "notes": null,
+      "object": "SRC-LIEU-AI-KILL-SWITCH",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LIEU-AI-KILL-SWITCH"
+      ],
+      "subject": "PERSON-TED-LIEU"
+    },
+    {
+      "declared_in": "PERSON-TED-LIEU",
+      "notes": null,
+      "object": "SRC-LIEU-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-LIEU-BIO"
+      ],
+      "subject": "PERSON-TED-LIEU"
+    },
+    {
       "declared_in": "PERSON-THOMAS-HAIGH",
       "notes": null,
       "object": "SRC-HAIGH-UWM",
@@ -4104,6 +4852,36 @@
         "SRC-BERNERS-LEE-W3C"
       ],
       "subject": "PERSON-TIM-BERNERS-LEE"
+    },
+    {
+      "declared_in": "PERSON-TODD-YOUNG",
+      "notes": null,
+      "object": "ORG-SENATE-AI-CAUCUS",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "subject": "PERSON-TODD-YOUNG"
+    },
+    {
+      "declared_in": "PERSON-TODD-YOUNG",
+      "notes": null,
+      "object": "ORG-SENATE-AI-WORKING-GROUP",
+      "predicate": "affiliated_with",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "subject": "PERSON-TODD-YOUNG"
+    },
+    {
+      "declared_in": "PERSON-TODD-YOUNG",
+      "notes": null,
+      "object": "SRC-YOUNG-BIO",
+      "predicate": "cites",
+      "sources": [
+        "SRC-YOUNG-BIO"
+      ],
+      "subject": "PERSON-TODD-YOUNG"
     },
     {
       "declared_in": "PERSON-VINT-CERF",

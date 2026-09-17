@@ -349,6 +349,82 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Alexandria Ocasio-Cortez",
+        "publication date": "2026-06-24",
+        "source type": "Official House press release",
+        "url": "https://ocasio-cortez.house.gov/media/press-releases/ocasio-cortez-introduces-house-version-ai-data-center-moratorium-act"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House press release announcing introduction of the House companion to Sanders's AI Data Center Moratorium Act on June 24, 2026.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ALEXANDRIA-OCASIO-CORTEZ`",
+        "`PERSON-BERNIE-SANDERS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Alexandria Ocasio-Cortez",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://ocasio-cortez.house.gov/about"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-AOC-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-AOC-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-AOC-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Alexandria Ocasio-Cortez covering education, community-organizing work, and service in Congress from 2019.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About | Representative Ocasio-Cortez",
+      "type": "source",
+      "used_for": [
+        "`PERSON-ALEXANDRIA-OCASIO-CORTEZ`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-07-29",
         "author or issuing body": "Associated Press",
         "publication date": "2026-07-29",
@@ -695,6 +771,83 @@
       "type": "source",
       "used_for": [
         "`CASE-BERNSTEIN-V-DOJ`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Don Beyer",
+        "publication date": "Not dated on the accessed page (Congress.gov lists H.R. 8094 introduced 2026-03-26)",
+        "source type": "Official House press release",
+        "url": "https://beyer.house.gov/news/documentsingle.aspx?DocumentID=9013"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BEYER-AI-TRANSPARENCY",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House press release on the AI Foundation Model Transparency Act and identifying Beyer as Congressional AI Caucus co-chair and House AI Task Force member.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency",
+      "type": "source",
+      "used_for": [
+        "`PERSON-DON-BEYER`",
+        "`ORG-CONGRESSIONAL-AI-CAUCUS`",
+        "`ORG-HOUSE-AI-TASK-FORCE`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Don Beyer",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://beyer.house.gov/about/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-BEYER-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-BEYER-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-BEYER-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Don Beyer covering Virginia's 8th District, Ways and Means and Joint Economic Committee service, lieutenant governor and ambassador roles, and education.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "Biography | U.S. Representative Don Beyer",
+      "type": "source",
+      "used_for": [
+        "`PERSON-DON-BEYER`"
       ]
     },
     {
@@ -1358,6 +1511,82 @@
         "`TOPIC-FOURTH-AMENDMENT`",
         "Digital privacy",
         "Cell-site location information"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Greg Casar",
+        "publication date": "Not dated on the accessed page",
+        "source type": "Official House press release",
+        "url": "https://casar.house.gov/media/press-releases/news-congressman-greg-casar-introduces-new-stop-ai-price-gouging-and-wage"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-CASAR-AI-PRICE-GOUGING",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House press release announcing Casar's Stop AI Price Gouging and Wage Fixing Act, described as a ban on using AI to set prices or wages from personal data.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "privacy"
+      ],
+      "title": "NEWS Congressman Greg Casar Introduces New Stop AI Price Gouging and Wage Fixing Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-GREG-CASAR`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Greg Casar",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://casar.house.gov/about"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-CASAR-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-CASAR-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-CASAR-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Greg Casar covering Texas's 35th District, Congressional Progressive Caucus chair role, Austin City Council service, and January 2023 swearing-in.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About | Representative Casar",
+      "type": "source",
+      "used_for": [
+        "`PERSON-GREG-CASAR`"
       ]
     },
     {
@@ -4255,6 +4484,160 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Josh Hawley",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.hawley.senate.gov/about/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HAWLEY-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-HAWLEY-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-HAWLEY-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Josh Hawley covering Missouri attorney general service, Stanford and Yale education, and current Senate committee assignments.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About | Senator Josh Hawley",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JOSH-HAWLEY`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Josh Hawley",
+        "publication date": "2026-09-10 (letter dated 2026-09-09)",
+        "source type": "Official Senate press release with full letter text",
+        "url": "https://www.hawley.senate.gov/chairman-hawley-launches-investigation-into-openai-for-hacking-existential-risk-of-ai-products/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HAWLEY-OPENAI-HF-LETTER",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release reprinting Josh Hawley's September 9, 2026 letter to OpenAI CEO Sam Altman opening a subcommittee investigation of the Hugging Face agent-intrusion incident, with a document demand by October 1, 2026.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "computer-crime",
+        "historical-event"
+      ],
+      "title": "Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JOSH-HAWLEY`",
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Martin Heinrich",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.heinrich.senate.gov/about"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HEINRICH-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-HEINRICH-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-HEINRICH-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Martin Heinrich covering engineering background, House service, Senate tenure from 2012, and Energy and Natural Resources ranking membership.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About | Senator Martin Heinrich",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MARTIN-HEINRICH`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Martin Heinrich",
+        "publication date": "Not dated (living caucus page)",
+        "source type": "Official Senate caucus page",
+        "url": "https://www.heinrich.senate.gov/artificial-intelligence-caucus"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate page for the bipartisan Senate Artificial Intelligence Caucus, describing its 2019 founding, co-chairs, membership list, and claimed legislative accomplishments.",
+      "tags": [
+        "source",
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Artificial Intelligence Caucus | Senator Martin Heinrich",
+      "type": "source",
+      "used_for": [
+        "`ORG-SENATE-AI-CAUCUS`",
+        "`PERSON-CORY-BOOKER`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-09-10",
         "archive url": "None recorded",
         "author or issuing body": "Hugging Face (Adrien Carreira; Christophe Rannou)",
@@ -4366,6 +4749,82 @@
       "used_for": [
         "`CASE-CHATRIE-V-US`",
         "`TOPIC-FOURTH-AMENDMENT`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Congressional Artificial Intelligence Caucus (Office of Rep. Don Beyer)",
+        "publication date": "Not dated (living caucus site)",
+        "source type": "Official House caucus website",
+        "url": "http://artificialintelligencecaucus-beyer.house.gov/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HOUSE-AI-CAUCUS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House caucus site describing the Congressional Artificial Intelligence Caucus mission and naming co-chairs Donald S. Beyer, Michael T. McCaul, Jay Obernolte, and Doris O. Matsui.",
+      "tags": [
+        "source",
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Congressional Artificial Intelligence Caucus",
+      "type": "source",
+      "used_for": [
+        "`ORG-CONGRESSIONAL-AI-CAUCUS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Jay Obernolte",
+        "publication date": "Not dated on the page (report associated with December 2024)",
+        "source type": "Official House announcement page",
+        "url": "https://obernolte.house.gov/AITFReport"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-HOUSE-AI-TASK-FORCE-2024",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House page from Rep. Jay Obernolte describing the 118th Congress bipartisan AI Task Force co-chaired with Ted Lieu, its 24 members, and the December 2024 final report.",
+      "tags": [
+        "source",
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "The House Task Force on Artificial Intelligence Final Report",
+      "type": "source",
+      "used_for": [
+        "`ORG-HOUSE-AI-TASK-FORCE`"
       ]
     },
     {
@@ -5613,6 +6072,82 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Ted Lieu",
+        "publication date": "2026-07-23",
+        "source type": "Official House press release",
+        "url": "https://lieu.house.gov/media-center/press-releases/reps-lieu-and-moran-introduce-bill-require-kill-switch-ai-systems-can"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-LIEU-AI-KILL-SWITCH",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House press release announcing the July 23, 2026 AI Kill Switch Act, which would require throttle/shutdown capability for powerful AI systems and authorize DHS to order slowdown or shutdown.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Reps Lieu and Moran Introduce Bill to Require Kill Switch for AI Systems That Can Cause Catastrophic Harm",
+      "type": "source",
+      "used_for": [
+        "`PERSON-TED-LIEU`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Ted Lieu",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://lieu.house.gov/about/full-biography"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-LIEU-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-LIEU-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-LIEU-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Ted Lieu covering California's 36th District, Democratic Caucus vice chair role, computer-science background, and co-chair service on the House Bipartisan Task Force on Artificial Intelligence.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Meet Ted | Congressman Ted Lieu",
+      "type": "source",
+      "used_for": [
+        "`PERSON-TED-LIEU`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Office of Representative Zoe Lofgren",
@@ -5886,6 +6421,80 @@
       "used_for": [
         "`PERSON-THOMAS-MASSIE`",
         "`PERSON-ZOE-LOFGREN`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Doris Matsui",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://matsui.house.gov/biography"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-MATSUI-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-MATSUI-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MATSUI-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Doris Matsui covering Sacramento-area representation since 2005, Energy and Commerce Communications and Technology ranking membership, and Clinton administration service.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "Biography | Congresswoman Doris Matsui",
+      "type": "source",
+      "used_for": [
+        "`PERSON-DORIS-MATSUI`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Michael McCaul",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://mccaul.house.gov/about/full-biography"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-MCCAUL-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-MCCAUL-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-MCCAUL-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Michael McCaul covering Texas's 10th District, Homeland Security and Foreign Affairs chair service, and prior work as a federal prosecutor.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "Biography | Congressman Michael McCaul",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MICHAEL-MCCAUL`"
       ]
     },
     {
@@ -6310,6 +6919,44 @@
       "used_for": [
         "`CASE-DOW-JONES-V-PERPLEXITY`",
         "`CASE-NYT-V-OPENAI`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Representative Jay Obernolte",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official House biography",
+        "url": "https://obernolte.house.gov/about"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-OBERNOLTE-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-OBERNOLTE-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official House biography for Jay Obernolte covering California's 23rd District, UCLA M.S. in artificial intelligence, Energy and Commerce and Science committee roles, and House AI Task Force chair work.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "About | Representative Jay Obernolte",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JAY-OBERNOLTE`"
       ]
     },
     {
@@ -7718,6 +8365,43 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Mike Rounds",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.rounds.senate.gov/about-mike"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-ROUNDS-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-ROUNDS-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-ROUNDS-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Mike Rounds covering Senate swearing-in in 2015, South Dakota governorship, state senate service, and current committee assignments.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About Mike | U.S. Senator Mike Rounds",
+      "type": "source",
+      "used_for": [
+        "`PERSON-MIKE-ROUNDS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-09-10",
         "archive url": "None recorded",
         "author or issuing body": "University of California, Berkeley, EECS",
@@ -7794,6 +8478,239 @@
     {
       "arrest_date": null,
       "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "U.S. Congress",
+        "publication date": "2025-09-29",
+        "source type": "Official introduced bill record",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2938/text"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-S2938-AI-RISK-EVALUATION",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Congress.gov record for S.2938, the Artificial Intelligence Risk Evaluation Act of 2025, introduced by Sen. Josh Hawley with Sen. Richard Blumenthal on September 29, 2025.",
+      "tags": [
+        "source",
+        "statute",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "S.2938 \u2014 Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress)",
+      "type": "source",
+      "used_for": [
+        "`PERSON-JOSH-HAWLEY`",
+        "`PERSON-RICHARD-BLUMENTHAL`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "U.S. Congress / Government Publishing Office",
+        "publication date": "2026-03-25",
+        "source type": "Official introduced bill record",
+        "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4214"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Congress.gov record and introduced text for S.4214, the Artificial Intelligence Data Center Moratorium Act, introduced by Sen. Bernie Sanders on March 25, 2026.",
+      "tags": [
+        "source",
+        "statute",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "S.4214 \u2014 Artificial Intelligence Data Center Moratorium Act (119th Congress)",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BERNIE-SANDERS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Bernie Sanders",
+        "publication date": "2026-03-25",
+        "source type": "Official Senate press release",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-ocasio-cortez-announce-ai-data-center-moratorium-act/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release announcing the Artificial Intelligence Data Center Moratorium Act, described as an immediate federal pause on AI data centers until national safeguards are in place.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "NEWS Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BERNIE-SANDERS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Bernie Sanders",
+        "publication date": "2026-09-03",
+        "source type": "Official Senate press release",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SANDERS-BAN-ASI-ACT",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release announcing the Ban Artificial Superintelligence Act, described as a permanent ban on superintelligent AI plus a temporary pause on advanced AI development until a federal regulator exists.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "historical-event"
+      ],
+      "title": "NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BERNIE-SANDERS`",
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Bernie Sanders",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.sanders.senate.gov/about-bernie/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SANDERS-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-SANDERS-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SANDERS-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Bernie Sanders covering education, Burlington mayoral service, House and Senate tenure, and current committee assignments.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About Bernie | U.S. Senator Bernie Sanders",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BERNIE-SANDERS`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Bernie Sanders",
+        "publication date": "2026-08-10",
+        "source type": "Official Senate press release with linked letter PDF",
+        "url": "https://www.sanders.senate.gov/press-releases/news-sanders-calls-on-tech-giants-to-pause-development-of-out-of-control-ai/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SANDERS-PAUSE-LETTER-2026",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release and August 10, 2026 letter from Senator Bernie Sanders to the CEOs of Anthropic, Meta, and OpenAI urging an immediate pause in AI development.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "computer-crime",
+        "historical-event"
+      ],
+      "title": "Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI",
+      "type": "source",
+      "used_for": [
+        "`PERSON-BERNIE-SANDERS`",
+        "`EVENT-OPENAI-HUGGING-FACE-2026`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
         "access date": "2026-06-25",
         "archive url": "None recorded",
         "author or issuing body": "Bruce Schneier",
@@ -7827,6 +8744,43 @@
       "type": "source",
       "used_for": [
         "`PERSON-BRUCE-SCHNEIER`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Chuck Schumer",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.schumer.senate.gov/about/biography"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SCHUMER-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-SCHUMER-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-SCHUMER-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Chuck Schumer covering New York Senate service from 1998, Democratic leader role, and 2021\u20132025 majority leadership.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy"
+      ],
+      "title": "About Chuck | Senator Chuck Schumer of New York",
+      "type": "source",
+      "used_for": [
+        "`PERSON-CHUCK-SCHUMER`"
       ]
     },
     {
@@ -7902,6 +8856,44 @@
       "type": "source",
       "used_for": [
         "`STAT-SECTION-230`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Martin Heinrich (with the Bipartisan Senate AI Working Group)",
+        "publication date": "2024-05-15",
+        "source type": "Official Senate press release",
+        "url": "https://www.heinrich.senate.gov/newsroom/press-releases/following-historic-ai-insight-forums-over-the-past-year-heinrich-colleagues-reveal-bipartisan-roadmap-for-artificial-intelligence-policy-in-the-united-states-senate"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-SENATE-AI-ROADMAP-2024",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate press release (May 15, 2024) announcing the Bipartisan Senate AI Working Group's roadmap, naming Schumer, Young, Heinrich, and Rounds as the group and linking the policy PDF.",
+      "tags": [
+        "source",
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Following Historic AI Insight Forums, Heinrich Colleagues Reveal Bipartisan Roadmap for Artificial Intelligence Policy",
+      "type": "source",
+      "used_for": [
+        "`ORG-SENATE-AI-WORKING-GROUP`"
       ]
     },
     {
@@ -10727,6 +11719,44 @@
       "used_for": [
         "`PERSON-RON-WYDEN`",
         "`PERSON-RAND-PAUL`"
+      ]
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {
+        "access date": "2026-09-17",
+        "archive url": "None recorded",
+        "author or issuing body": "Office of Senator Todd Young",
+        "publication date": "Not dated (living office biography)",
+        "source type": "Official Senate biography",
+        "url": "https://www.young.senate.gov/about/"
+      },
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "SRC-YOUNG-BIO",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "bibliography/people/SRC-YOUNG-BIO.md",
+      "relationships": [],
+      "source_doc_path": "source-docs/bibliography/people/SRC-YOUNG-BIO.md",
+      "sources": [],
+      "status": "draft",
+      "summary": "Official Senate biography for Todd Young covering Marine Corps service, House and Senate tenure from 2017, CHIPS and Science Act authorship, and current committee assignments including Commerce.",
+      "tags": [
+        "source",
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "About Todd | Senator Young",
+      "type": "source",
+      "used_for": [
+        "`PERSON-TODD-YOUNG`"
       ]
     },
     {
