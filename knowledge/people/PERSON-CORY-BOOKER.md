@@ -14,6 +14,7 @@ sources:
   - SRC-BOOKER-SURVEILLANCE-ADVERTISING
   - SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE
   - SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO
+  - SRC-HEINRICH-SENATE-AI-CAUCUS
 relationships:
   - subject: PERSON-CORY-BOOKER
     predicate: cites
@@ -30,7 +31,17 @@ relationships:
     object: SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO
     sources:
       - SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO
-last_verified: "2026-07-19"
+  - subject: PERSON-CORY-BOOKER
+    predicate: cites
+    object: SRC-HEINRICH-SENATE-AI-CAUCUS
+    sources:
+      - SRC-HEINRICH-SENATE-AI-CAUCUS
+  - subject: PERSON-CORY-BOOKER
+    predicate: affiliated_with
+    object: ORG-SENATE-AI-CAUCUS
+    sources:
+      - SRC-HEINRICH-SENATE-AI-CAUCUS
+last_verified: "2026-09-17"
 ---
 
 # Cory Booker
@@ -48,6 +59,7 @@ Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Sur
 - Booker described surveillance advertising as a predatory and invasive practice.[^1]
 - Co-sponsored the Fourth Amendment Is Not For Sale Act with Wyden and Paul.[^2]
 - The 117th Congress introduced bill text lists Booker among the original Senate co-sponsors.[^3]
+- Heinrich's Senate AI Caucus page lists Booker as a member of the bipartisan Senate Artificial Intelligence Caucus.[^4]
 
 
 [^1]: `SRC-BOOKER-SURVEILLANCE-ADVERTISING` — Booker Announces Introduction of Bill to Ban Surveillance Advertising. Official Senate press release.
@@ -55,6 +67,8 @@ Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Sur
 [^2]: `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE` — Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act. Official Senate press release.
 
 [^3]: `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO` — S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress). Official introduced bill text via GovInfo.
+
+[^4]: `SRC-HEINRICH-SENATE-AI-CAUCUS` — Official Senate AI Caucus page. Membership as published by a co-chair's office on 2026-09-17.
 
 ## Key Legislation
 
@@ -74,12 +88,15 @@ Limits on surveillance advertising affect ad-supported platforms, analytics vend
 - `PERSON-CORY-BOOKER` cites `SRC-BOOKER-SURVEILLANCE-ADVERTISING`.
 - `PERSON-CORY-BOOKER` cites `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`.
 - `PERSON-CORY-BOOKER` cites `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`.
+- `PERSON-CORY-BOOKER` cites `SRC-HEINRICH-SENATE-AI-CAUCUS`.
+- `PERSON-CORY-BOOKER` affiliated_with `ORG-SENATE-AI-CAUCUS`.
 
 ## Sources
 
 1. `SRC-BOOKER-SURVEILLANCE-ADVERTISING`: Booker Announces Introduction of Bill to Ban Surveillance Advertising.
 2. `SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`: Wyden, Paul and Bipartisan Senators Reintroduce the Fourth Amendment is Not for Sale Act.
 3. `SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`: S. 1265, Fourth Amendment Is Not For Sale Act of 2021 (117th Congress).
+4. `SRC-HEINRICH-SENATE-AI-CAUCUS`: Artificial Intelligence Caucus | Senator Martin Heinrich.
 
 ## Research Debt
 

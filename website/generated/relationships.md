@@ -2,7 +2,7 @@
 
 This page is generated from relationship metadata. Do not edit it manually.
 
-Edge count: 645
+Edge count: 722
 
 ## [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md) `cites` [`SRC-ANDERSEN-V-STABILITY-MTD-2024`](source-docs/bibliography/legal/SRC-ANDERSEN-V-STABILITY-MTD-2024.md)
 
@@ -1088,10 +1088,20 @@ Parallel chatbot wrongful-death theory; Garcia is federal Character.AI, Raine is
 - Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 - Sources: [`SRC-OPENAI-HF-ROAD-AHEAD`](source-docs/bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md)
 
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md), [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
 ## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
 
 - Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 - Sources: [`SRC-MARCUS-HF-LESSONS`](source-docs/bibliography/people/SRC-MARCUS-HF-LESSONS.md)
+
+## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+
+- Declared in: [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Sources: [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
 
 ## [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
 
@@ -1187,6 +1197,31 @@ Connection is via reported Telegram representation by Chikov; not a claim that A
 - Declared in: [`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md)
 - Sources: [`SRC-CFA-HOME`](source-docs/bibliography/organizations/SRC-CFA-HOME.md)
 
+## [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `cites` [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+- Declared in: [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+
+- Declared in: [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+
+- Declared in: [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+
+- Declared in: [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+
+- Declared in: [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
 ## [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md) `cites` [`SRC-COOLEY-TECH`](source-docs/bibliography/organizations/SRC-COOLEY-TECH.md)
 
 - Declared in: [`ORG-COOLEY`](source-docs/knowledge/organizations/ORG-COOLEY.md)
@@ -1251,6 +1286,31 @@ Connection is via reported Telegram representation by Chikov; not a claim that A
 
 - Declared in: [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 - Sources: [`SRC-FSF-PRESS`](source-docs/bibliography/organizations/SRC-FSF-PRESS.md)
+
+## [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `cites` [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+- Declared in: [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+
+- Declared in: [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+
+- Declared in: [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+
+- Declared in: [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+
+- Declared in: [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
 
 ## [`ORG-INSTITUTE-FOR-FREE-SPEECH`](source-docs/knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md) `cites` [`SRC-IFS-ABOUT-US`](source-docs/bibliography/organizations/SRC-IFS-ABOUT-US.md)
 
@@ -1321,6 +1381,61 @@ Connection is via reported Telegram representation by Chikov; not a claim that A
 
 - Declared in: [`ORG-RCFP`](source-docs/knowledge/organizations/ORG-RCFP.md)
 - Sources: [`SRC-RCFP-WHAT-WE-DO`](source-docs/bibliography/organizations/SRC-RCFP-WHAT-WE-DO.md)
+
+## [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+
+- Declared in: [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+
+- Declared in: [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+
+- Declared in: [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+
+- Declared in: [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `cites` [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+
+- Declared in: [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
 
 ## [`ORG-SFLC`](source-docs/knowledge/organizations/ORG-SFLC.md) `cites` [`SRC-SFLC-ABOUT`](source-docs/bibliography/organizations/SRC-SFLC-ABOUT.md)
 
@@ -1464,6 +1579,26 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-ALEX-ABDO`](source-docs/knowledge/people/PERSON-ALEX-ABDO.md)
 - Sources: [`SRC-ABDO-KNIGHT`](source-docs/bibliography/people/SRC-ABDO-KNIGHT.md)
 
+## [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+
+- Declared in: [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `cites` [`SRC-AOC-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+
+- Declared in: [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Sources: [`SRC-AOC-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `cites` [`SRC-AOC-BIO`](source-docs/bibliography/people/SRC-AOC-BIO.md)
+
+- Declared in: [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Sources: [`SRC-AOC-BIO`](source-docs/bibliography/people/SRC-AOC-BIO.md)
+
+## [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+- Declared in: [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Sources: [`SRC-AOC-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md), [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
 ## [`PERSON-ANDREW-RUSSELL`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md) `cites` [`SRC-RUSSELL-PROFILE`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
 
 - Declared in: [`PERSON-ANDREW-RUSSELL`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md)
@@ -1479,6 +1614,56 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-BEN-WIZNER`](source-docs/knowledge/people/PERSON-BEN-WIZNER.md)
 - Sources: [`SRC-WIZNER-ACLU`](source-docs/bibliography/people/SRC-WIZNER-ACLU.md)
 
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-S4214-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-S4214-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-BIO`](source-docs/bibliography/people/SRC-SANDERS-BIO.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-BIO`](source-docs/bibliography/people/SRC-SANDERS-BIO.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md), [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+
+- Declared in: [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Sources: [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md), [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+
 ## [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
 - Declared in: [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
@@ -1488,6 +1673,16 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
 - Sources: [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
+
+## [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+
+- Declared in: [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md) `cites` [`SRC-SCHUMER-BIO`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md)
+
+- Declared in: [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Sources: [`SRC-SCHUMER-BIO`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md)
 
 ## [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
@@ -1529,6 +1724,11 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-CINDY-COHN`](source-docs/knowledge/people/PERSON-CINDY-COHN.md)
 - Sources: [`SRC-JEWEL-V-NSA-EFF`](source-docs/bibliography/legal/SRC-JEWEL-V-NSA-EFF.md)
 
+## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
 ## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-BOOKER-SURVEILLANCE-ADVERTISING`](source-docs/bibliography/people/SRC-BOOKER-SURVEILLANCE-ADVERTISING.md)
 
 - Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
@@ -1538,6 +1738,11 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
 - Sources: [`SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO`](source-docs/bibliography/legal/SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO.md)
+
+## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
 
 ## [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE`](source-docs/bibliography/people/SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE.md)
 
@@ -1573,6 +1778,36 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-DAVID-REED`](source-docs/knowledge/people/PERSON-DAVID-REED.md)
 - Sources: [`SRC-REED-BIO`](source-docs/bibliography/people/SRC-REED-BIO.md)
+
+## [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md), [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+
+## [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+
+- Declared in: [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md), [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+
+## [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `cites` [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+
+- Declared in: [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Sources: [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+
+## [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `cites` [`SRC-BEYER-BIO`](source-docs/bibliography/people/SRC-BEYER-BIO.md)
+
+- Declared in: [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Sources: [`SRC-BEYER-BIO`](source-docs/bibliography/people/SRC-BEYER-BIO.md)
+
+## [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md) `cites` [`SRC-MATSUI-BIO`](source-docs/bibliography/people/SRC-MATSUI-BIO.md)
+
+- Declared in: [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Sources: [`SRC-MATSUI-BIO`](source-docs/bibliography/people/SRC-MATSUI-BIO.md)
 
 ## [`PERSON-EBEN-MOGLEN`](source-docs/knowledge/people/PERSON-EBEN-MOGLEN.md) `affiliated_with` [`ORG-FSF`](source-docs/knowledge/organizations/ORG-FSF.md)
 
@@ -1633,6 +1868,31 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-GARY-MARCUS`](source-docs/knowledge/people/PERSON-GARY-MARCUS.md)
 - Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+## [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-CASAR-AI-PRICE-GOUGING`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md)
+
+- Declared in: [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Sources: [`SRC-CASAR-AI-PRICE-GOUGING`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md)
+
+## [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-CASAR-BIO`](source-docs/bibliography/people/SRC-CASAR-BIO.md)
+
+- Declared in: [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Sources: [`SRC-CASAR-BIO`](source-docs/bibliography/people/SRC-CASAR-BIO.md)
+
+## [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+- Declared in: [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Sources: [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+## [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Sources: [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+
+## [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+- Declared in: [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Sources: [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
 
 ## [`PERSON-HEATHER-MEEKER`](source-docs/knowledge/people/PERSON-HEATHER-MEEKER.md) `cites` [`SRC-MEEKER-ABOUT`](source-docs/bibliography/people/SRC-MEEKER-ABOUT.md)
 
@@ -1714,6 +1974,21 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-JANET-ABBATE`](source-docs/knowledge/people/PERSON-JANET-ABBATE.md)
 - Sources: [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md)
 
+## [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+
+- Declared in: [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+
+## [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `cites` [`SRC-OBERNOLTE-BIO`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md)
+
+- Declared in: [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Sources: [`SRC-OBERNOLTE-BIO`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md)
+
 ## [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md) `affiliated_with` [`ORG-ACLU`](source-docs/knowledge/organizations/ORG-ACLU.md)
 
 - Declared in: [`PERSON-JENNIFER-GRANICK`](source-docs/knowledge/people/PERSON-JENNIFER-GRANICK.md)
@@ -1728,6 +2003,31 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-JONATHAN-ZITTRAIN`](source-docs/knowledge/people/PERSON-JONATHAN-ZITTRAIN.md)
 - Sources: [`SRC-ZITTRAIN-HLS`](source-docs/bibliography/people/SRC-ZITTRAIN-HLS.md)
+
+## [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-HAWLEY-BIO`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md)
+
+- Declared in: [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Sources: [`SRC-HAWLEY-BIO`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md)
+
+## [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+
+- Declared in: [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Sources: [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+
+## [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+
+- Declared in: [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Sources: [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+
+## [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+- Declared in: [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Sources: [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+
+## [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+
+- Declared in: [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Sources: [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
 
 ## [`PERSON-KATIE-FALLOW`](source-docs/knowledge/people/PERSON-KATIE-FALLOW.md) `affiliated_with` [`ORG-KNIGHT-FIRST-AMENDMENT`](source-docs/knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md)
 
@@ -1804,10 +2104,40 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 - Declared in: [`PERSON-MARGOT-KAMINSKI`](source-docs/knowledge/people/PERSON-MARGOT-KAMINSKI.md)
 - Sources: [`SRC-AILA-CASEBOOK`](source-docs/bibliography/people/SRC-AILA-CASEBOOK.md)
 
+## [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+
+- Declared in: [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `cites` [`SRC-HEINRICH-BIO`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md)
+
+- Declared in: [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Sources: [`SRC-HEINRICH-BIO`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md)
+
+## [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
 ## [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md) `cites` [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
 
 - Declared in: [`PERSON-MATT-BLAZE`](source-docs/knowledge/people/PERSON-MATT-BLAZE.md)
 - Sources: [`SRC-BLAZE-GEORGETOWN`](source-docs/bibliography/people/SRC-BLAZE-GEORGETOWN.md)
+
+## [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Sources: [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+
+## [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md) `cites` [`SRC-MCCAUL-BIO`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md)
+
+- Declared in: [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Sources: [`SRC-MCCAUL-BIO`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md)
 
 ## [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md) `cites` [`SRC-LEE-ENCRYPTION-BACKDOORS`](source-docs/bibliography/people/SRC-LEE-ENCRYPTION-BACKDOORS.md)
 
@@ -1823,6 +2153,21 @@ RFE/RL identified Chikov as representing Telegram in the 2018 Russian blocking l
 
 - Declared in: [`PERSON-MIKE-LEE`](source-docs/knowledge/people/PERSON-MIKE-LEE.md)
 - Sources: [`SRC-LEE-SENATE-BIO`](source-docs/bibliography/people/SRC-LEE-SENATE-BIO.md)
+
+## [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+
+- Declared in: [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `cites` [`SRC-ROUNDS-BIO`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md)
+
+- Declared in: [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Sources: [`SRC-ROUNDS-BIO`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md)
 
 ## [`PERSON-MITCH-STOLTZ`](source-docs/knowledge/people/PERSON-MITCH-STOLTZ.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 
@@ -1986,6 +2331,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
 - Sources: [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
 
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+
 ## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 
 - Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
@@ -1995,6 +2345,11 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
 - Sources: [`SRC-BLUMENTHAL-AI-HEARING-2023`](source-docs/bibliography/people/SRC-BLUMENTHAL-AI-HEARING-2023.md)
+
+## [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+
+- Declared in: [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Sources: [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md), [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
 
 ## [`PERSON-RO-KHANNA`](source-docs/knowledge/people/PERSON-RO-KHANNA.md) `cites` [`SRC-KHANNA-INTERNET-BILL`](source-docs/bibliography/people/SRC-KHANNA-INTERNET-BILL.md)
 
@@ -2046,6 +2401,21 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 - Declared in: [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
 - Sources: [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md)
 
+## [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+
+- Declared in: [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Sources: [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md), [`SRC-LIEU-BIO`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+
+## [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `cites` [`SRC-LIEU-AI-KILL-SWITCH`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md)
+
+- Declared in: [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Sources: [`SRC-LIEU-AI-KILL-SWITCH`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md)
+
+## [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `cites` [`SRC-LIEU-BIO`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+
+- Declared in: [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Sources: [`SRC-LIEU-BIO`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+
 ## [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) `cites` [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
 - Declared in: [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
@@ -2060,6 +2430,21 @@ France 24/AFP identified Kaminski as Durov's lawyer in the August 2024 French ch
 
 - Declared in: [`PERSON-TIM-BERNERS-LEE`](source-docs/knowledge/people/PERSON-TIM-BERNERS-LEE.md)
 - Sources: [`SRC-BERNERS-LEE-W3C`](source-docs/bibliography/people/SRC-BERNERS-LEE-W3C.md)
+
+## [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
+- Declared in: [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Sources: [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+
+## [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+
+- Declared in: [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Sources: [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+
+## [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `cites` [`SRC-YOUNG-BIO`](source-docs/bibliography/people/SRC-YOUNG-BIO.md)
+
+- Declared in: [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Sources: [`SRC-YOUNG-BIO`](source-docs/bibliography/people/SRC-YOUNG-BIO.md)
 
 ## [`PERSON-VINT-CERF`](source-docs/knowledge/people/PERSON-VINT-CERF.md) `cites` [`SRC-CERF-GOOGLE`](source-docs/bibliography/people/SRC-CERF-GOOGLE.md)
 

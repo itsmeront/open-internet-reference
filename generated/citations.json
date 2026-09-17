@@ -245,6 +245,52 @@
       ]
     },
     {
+      "source_id": "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+      "source_title": "Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act",
+      "usages": [
+        {
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-AOC-BIO",
+      "source_title": "About | Representative Ocasio-Cortez",
+      "usages": [
+        {
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-AOC-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-AP-DUROV-FSB-2026",
       "source_title": "AP News \u2014 Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism",
       "usages": [
@@ -689,6 +735,60 @@
       ]
     },
     {
+      "source_id": "SRC-BEYER-AI-TRANSPARENCY",
+      "source_title": "Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency",
+      "usages": [
+        {
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-BEYER-AI-TRANSPARENCY",
+          "predicate": "cites",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-BEYER-BIO",
+      "source_title": "Biography | U.S. Representative Don Beyer",
+      "usages": [
+        {
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-BEYER-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-BHANDARI-ACLU",
       "source_title": "Esha Bhandari ACLU Staff Biography",
       "usages": [
@@ -849,6 +949,14 @@
         },
         {
           "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-JOSH-HAWLEY",
           "predicate": "related_to",
           "record_id": "PERSON-RICHARD-BLUMENTHAL",
           "record_title": "Richard Blumenthal",
@@ -1290,6 +1398,44 @@
           "record_id": "TOPIC-FOURTH-AMENDMENT",
           "record_title": "Fourth Amendment",
           "subject": "TOPIC-FOURTH-AMENDMENT",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CASAR-AI-PRICE-GOUGING",
+      "source_title": "NEWS Congressman Greg Casar Introduces New Stop AI Price Gouging and Wage Fixing Act",
+      "usages": [
+        {
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CASAR-AI-PRICE-GOUGING",
+          "predicate": "cites",
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "subject": "PERSON-GREG-CASAR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-CASAR-BIO",
+      "source_title": "About | Representative Casar",
+      "usages": [
+        {
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-CASAR-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "subject": "PERSON-GREG-CASAR",
           "usage": "relationship_source"
         }
       ]
@@ -3862,6 +4008,203 @@
       ]
     },
     {
+      "source_id": "SRC-HAWLEY-BIO",
+      "source_title": "About | Senator Josh Hawley",
+      "usages": [
+        {
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HAWLEY-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "subject": "PERSON-JOSH-HAWLEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HAWLEY-OPENAI-HF-LETTER",
+      "source_title": "Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-JOSH-HAWLEY",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HAWLEY-OPENAI-HF-LETTER",
+          "predicate": "cites",
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "subject": "PERSON-JOSH-HAWLEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "subject": "PERSON-JOSH-HAWLEY",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HEINRICH-BIO",
+      "source_title": "About | Senator Martin Heinrich",
+      "usages": [
+        {
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HEINRICH-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "subject": "PERSON-MARTIN-HEINRICH",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+      "source_title": "Artificial Intelligence Caucus | Senator Martin Heinrich",
+      "usages": [
+        {
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "subject": "ORG-SENATE-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-CORY-BOOKER",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "subject": "ORG-SENATE-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MARTIN-HEINRICH",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "subject": "ORG-SENATE-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MIKE-ROUNDS",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "subject": "ORG-SENATE-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-TODD-YOUNG",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-CAUCUS",
+          "record_title": "Senate Artificial Intelligence Caucus",
+          "subject": "ORG-SENATE-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "subject": "PERSON-CORY-BOOKER",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "record_id": "PERSON-CORY-BOOKER",
+          "record_title": "Cory Booker",
+          "subject": "PERSON-CORY-BOOKER",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "subject": "PERSON-MARTIN-HEINRICH",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "subject": "PERSON-MARTIN-HEINRICH",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "subject": "PERSON-MIKE-ROUNDS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "subject": "PERSON-TODD-YOUNG",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-HF-AGENT-INTRUSION-TIMELINE",
       "source_title": "Hugging Face \u2014 Anatomy of a Frontier Lab Agent Intrusion (July 2026)",
       "usages": [
@@ -3904,6 +4247,212 @@
           "record_id": "TOPIC-FOURTH-AMENDMENT",
           "record_title": "Fourth Amendment",
           "usage": "page_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HOUSE-AI-CAUCUS",
+      "source_title": "Congressional Artificial Intelligence Caucus",
+      "usages": [
+        {
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HOUSE-AI-CAUCUS",
+          "predicate": "cites",
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-DON-BEYER",
+          "predicate": "related_to",
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-DORIS-MATSUI",
+          "predicate": "related_to",
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-JAY-OBERNOLTE",
+          "predicate": "related_to",
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MICHAEL-MCCAUL",
+          "predicate": "related_to",
+          "record_id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "record_title": "Congressional Artificial Intelligence Caucus",
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-DORIS-MATSUI",
+          "record_title": "Doris Matsui",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-DORIS-MATSUI",
+          "record_title": "Doris Matsui",
+          "subject": "PERSON-DORIS-MATSUI",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "subject": "PERSON-JAY-OBERNOLTE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-MICHAEL-MCCAUL",
+          "record_title": "Michael McCaul",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MICHAEL-MCCAUL",
+          "record_title": "Michael McCaul",
+          "subject": "PERSON-MICHAEL-MCCAUL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-HOUSE-AI-TASK-FORCE-2024",
+      "source_title": "The House Task Force on Artificial Intelligence Final Report",
+      "usages": [
+        {
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-HOUSE-AI-TASK-FORCE-2024",
+          "predicate": "cites",
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "subject": "ORG-HOUSE-AI-TASK-FORCE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "predicate": "related_to",
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "subject": "ORG-HOUSE-AI-TASK-FORCE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-DON-BEYER",
+          "predicate": "related_to",
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "subject": "ORG-HOUSE-AI-TASK-FORCE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-JAY-OBERNOLTE",
+          "predicate": "related_to",
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "subject": "ORG-HOUSE-AI-TASK-FORCE",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-TED-LIEU",
+          "predicate": "related_to",
+          "record_id": "ORG-HOUSE-AI-TASK-FORCE",
+          "record_title": "House Bipartisan Task Force on Artificial Intelligence",
+          "subject": "ORG-HOUSE-AI-TASK-FORCE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-DON-BEYER",
+          "record_title": "Don Beyer",
+          "subject": "PERSON-DON-BEYER",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "subject": "PERSON-JAY-OBERNOLTE",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "subject": "PERSON-TED-LIEU",
+          "usage": "relationship_source"
         }
       ]
     },
@@ -5021,6 +5570,52 @@
       ]
     },
     {
+      "source_id": "SRC-LIEU-AI-KILL-SWITCH",
+      "source_title": "Reps Lieu and Moran Introduce Bill to Require Kill Switch for AI Systems That Can Cause Catastrophic Harm",
+      "usages": [
+        {
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-LIEU-AI-KILL-SWITCH",
+          "predicate": "cites",
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "subject": "PERSON-TED-LIEU",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-LIEU-BIO",
+      "source_title": "Meet Ted | Congressman Ted Lieu",
+      "usages": [
+        {
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "subject": "PERSON-TED-LIEU",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "SRC-LIEU-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-TED-LIEU",
+          "record_title": "Ted Lieu",
+          "subject": "PERSON-TED-LIEU",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-LOFGREN-AARONS-LAW",
       "source_title": "Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law",
       "usages": [
@@ -5327,6 +5922,44 @@
       ]
     },
     {
+      "source_id": "SRC-MATSUI-BIO",
+      "source_title": "Biography | Congresswoman Doris Matsui",
+      "usages": [
+        {
+          "record_id": "PERSON-DORIS-MATSUI",
+          "record_title": "Doris Matsui",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MATSUI-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-DORIS-MATSUI",
+          "record_title": "Doris Matsui",
+          "subject": "PERSON-DORIS-MATSUI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-MCCAUL-BIO",
+      "source_title": "Biography | Congressman Michael McCaul",
+      "usages": [
+        {
+          "record_id": "PERSON-MICHAEL-MCCAUL",
+          "record_title": "Michael McCaul",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-MCCAUL-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-MICHAEL-MCCAUL",
+          "record_title": "Michael McCaul",
+          "subject": "PERSON-MICHAEL-MCCAUL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-MCSHERRY-EFF-BIO",
       "source_title": "Corynne McSherry EFF Staff Biography",
       "usages": [
@@ -5601,6 +6234,25 @@
           "record_id": "CASE-NYT-V-OPENAI",
           "record_title": "The New York Times Company v. Microsoft Corp. (OpenAI)",
           "subject": "CASE-NYT-V-OPENAI",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-OBERNOLTE-BIO",
+      "source_title": "About | Representative Jay Obernolte",
+      "usages": [
+        {
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-OBERNOLTE-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-JAY-OBERNOLTE",
+          "record_title": "Jay Obernolte",
+          "subject": "PERSON-JAY-OBERNOLTE",
           "usage": "relationship_source"
         }
       ]
@@ -6522,6 +7174,25 @@
       ]
     },
     {
+      "source_id": "SRC-ROUNDS-BIO",
+      "source_title": "About Mike | U.S. Senator Mike Rounds",
+      "usages": [
+        {
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-ROUNDS-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "subject": "PERSON-MIKE-ROUNDS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-RUSSELL-BERKELEY",
       "source_title": "Stuart J. Russell \u2014 UC Berkeley EECS faculty page",
       "usages": [
@@ -6560,6 +7231,273 @@
       ]
     },
     {
+      "source_id": "SRC-S2938-AI-RISK-EVALUATION",
+      "source_title": "S.2938 \u2014 Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress)",
+      "usages": [
+        {
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-S2938-AI-RISK-EVALUATION",
+          "predicate": "cites",
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "subject": "PERSON-JOSH-HAWLEY",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "record_id": "PERSON-JOSH-HAWLEY",
+          "record_title": "Josh Hawley",
+          "subject": "PERSON-JOSH-HAWLEY",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-S2938-AI-RISK-EVALUATION",
+          "predicate": "cites",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-JOSH-HAWLEY",
+          "predicate": "related_to",
+          "record_id": "PERSON-RICHARD-BLUMENTHAL",
+          "record_title": "Richard Blumenthal",
+          "subject": "PERSON-RICHARD-BLUMENTHAL",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+      "source_title": "S.4214 \u2014 Artificial Intelligence Data Center Moratorium Act (119th Congress)",
+      "usages": [
+        {
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+      "source_title": "NEWS Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act",
+      "usages": [
+        {
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "record_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "record_title": "Alexandria Ocasio-Cortez",
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-STUART-RUSSELL",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-YOSHUA-BENGIO",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SANDERS-BAN-ASI-ACT",
+      "source_title": "NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SANDERS-BAN-ASI-ACT",
+          "predicate": "cites",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-GREG-CASAR",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SANDERS-BAN-ASI-ACT",
+          "predicate": "cites",
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "subject": "PERSON-GREG-CASAR",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "subject": "PERSON-GREG-CASAR",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "record_id": "PERSON-GREG-CASAR",
+          "record_title": "Greg Casar",
+          "subject": "PERSON-GREG-CASAR",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SANDERS-BIO",
+      "source_title": "About Bernie | U.S. Senator Bernie Sanders",
+      "usages": [
+        {
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SANDERS-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SANDERS-PAUSE-LETTER-2026",
+      "source_title": "Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI",
+      "usages": [
+        {
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "usage": "page_source"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "record_id": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "record_title": "OpenAI / Hugging Face Agent Intrusion (July 2026)",
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SANDERS-PAUSE-LETTER-2026",
+          "predicate": "cites",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-YOSHUA-BENGIO",
+          "predicate": "related_to",
+          "record_id": "PERSON-BERNIE-SANDERS",
+          "record_title": "Bernie Sanders",
+          "subject": "PERSON-BERNIE-SANDERS",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
       "source_id": "SRC-SCHNEIER-ABOUT",
       "source_title": "Bruce Schneier About Page",
       "usages": [
@@ -6582,6 +7520,25 @@
           "record_id": "PERSON-BRUCE-SCHNEIER",
           "record_title": "Bruce Schneier",
           "subject": "PERSON-BRUCE-SCHNEIER",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SCHUMER-BIO",
+      "source_title": "About Chuck | Senator Chuck Schumer of New York",
+      "usages": [
+        {
+          "record_id": "PERSON-CHUCK-SCHUMER",
+          "record_title": "Chuck Schumer",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SCHUMER-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-CHUCK-SCHUMER",
+          "record_title": "Chuck Schumer",
+          "subject": "PERSON-CHUCK-SCHUMER",
           "usage": "relationship_source"
         }
       ]
@@ -6628,6 +7585,117 @@
           "record_id": "STAT-SECTION-230",
           "record_title": "Section 230 (47 U.S.C. \u00a7 230)",
           "subject": "STAT-SECTION-230",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-SENATE-AI-ROADMAP-2024",
+      "source_title": "Following Historic AI Insight Forums, Heinrich Colleagues Reveal Bipartisan Roadmap for Artificial Intelligence Policy",
+      "usages": [
+        {
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-SENATE-AI-ROADMAP-2024",
+          "predicate": "cites",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-CHUCK-SCHUMER",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MARTIN-HEINRICH",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-MIKE-ROUNDS",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "object": "PERSON-TODD-YOUNG",
+          "predicate": "related_to",
+          "record_id": "ORG-SENATE-AI-WORKING-GROUP",
+          "record_title": "Bipartisan Senate AI Working Group",
+          "subject": "ORG-SENATE-AI-WORKING-GROUP",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-CHUCK-SCHUMER",
+          "record_title": "Chuck Schumer",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-CHUCK-SCHUMER",
+          "record_title": "Chuck Schumer",
+          "subject": "PERSON-CHUCK-SCHUMER",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MARTIN-HEINRICH",
+          "record_title": "Martin Heinrich",
+          "subject": "PERSON-MARTIN-HEINRICH",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-MIKE-ROUNDS",
+          "record_title": "Mike Rounds",
+          "subject": "PERSON-MIKE-ROUNDS",
+          "usage": "relationship_source"
+        },
+        {
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "usage": "page_source"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "subject": "PERSON-TODD-YOUNG",
           "usage": "relationship_source"
         }
       ]
@@ -9483,6 +10551,25 @@
           "record_id": "PERSON-RON-WYDEN",
           "record_title": "Ron Wyden",
           "subject": "PERSON-RON-WYDEN",
+          "usage": "relationship_source"
+        }
+      ]
+    },
+    {
+      "source_id": "SRC-YOUNG-BIO",
+      "source_title": "About Todd | Senator Young",
+      "usages": [
+        {
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "usage": "page_source"
+        },
+        {
+          "object": "SRC-YOUNG-BIO",
+          "predicate": "cites",
+          "record_id": "PERSON-TODD-YOUNG",
+          "record_title": "Todd Young",
+          "subject": "PERSON-TODD-YOUNG",
           "usage": "relationship_source"
         }
       ]

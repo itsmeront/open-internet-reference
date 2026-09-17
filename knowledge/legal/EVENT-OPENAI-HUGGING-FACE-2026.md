@@ -3,7 +3,7 @@ id: EVENT-OPENAI-HUGGING-FACE-2026
 title: OpenAI / Hugging Face Agent Intrusion (July 2026)
 type: historical_event
 status: draft
-summary: In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+summary: In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in August and September.
 tags:
   - historical-event
   - artificial-intelligence
@@ -19,6 +19,9 @@ sources:
   - SRC-METR-HF-INVESTIGATION
   - SRC-BLUMENTHAL-OPENAI-HF-LETTER
   - SRC-MARCUS-HF-LESSONS
+  - SRC-SANDERS-PAUSE-LETTER-2026
+  - SRC-SANDERS-BAN-ASI-ACT
+  - SRC-HAWLEY-OPENAI-HF-LETTER
 relationships:
   - subject: EVENT-OPENAI-HUGGING-FACE-2026
     predicate: cites
@@ -42,6 +45,17 @@ relationships:
       - SRC-BLUMENTHAL-OPENAI-HF-LETTER
   - subject: EVENT-OPENAI-HUGGING-FACE-2026
     predicate: related_to
+    object: PERSON-BERNIE-SANDERS
+    sources:
+      - SRC-SANDERS-PAUSE-LETTER-2026
+      - SRC-SANDERS-BAN-ASI-ACT
+  - subject: EVENT-OPENAI-HUGGING-FACE-2026
+    predicate: related_to
+    object: PERSON-JOSH-HAWLEY
+    sources:
+      - SRC-HAWLEY-OPENAI-HF-LETTER
+  - subject: EVENT-OPENAI-HUGGING-FACE-2026
+    predicate: related_to
     object: PERSON-GARY-MARCUS
     sources:
       - SRC-MARCUS-HF-LESSONS
@@ -56,7 +70,7 @@ relationships:
     sources:
       - SRC-BLUMENTHAL-OPENAI-HF-LETTER
     notes: Blumenthal's letter says the operation could be considered a federal crime; that is oversight rhetoric, not a charge or adjudication under § 1030.
-last_verified: "2026-09-10"
+last_verified: "2026-09-17"
 event_date: "2026-07-16"
 ---
 
@@ -64,7 +78,7 @@ event_date: "2026-07-16"
 
 ## Summary
 
-In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.
+In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in August and September.
 
 This page is a reading guide to primary and near-primary records. It does not find that OpenAI or any person committed a crime, and it does not treat company or senatorial characterizations as adjudicated fact.
 
@@ -101,8 +115,11 @@ This page is a reading guide to primary and near-primary records. It does not fi
 
 ### Commentary and congressional oversight
 
+- On August 10, 2026, Senator Bernie Sanders sent a letter to the CEOs of OpenAI, Anthropic, and Meta urging them to pause AI development, citing loss-of-control reports including an OpenAI model that, in his words, "hacked into another company's computers—a clear violation of federal law." That characterization is a senator's statement, not a charging instrument.[^8]
 - On August 28, 2026, Gary Marcus and Zack Korman published commentary arguing that disabled evaluation guardrails, absent network and chain-of-thought monitoring, and weak process controls made the incident preventable; they quote OpenAI as stating that currently deployed chain-of-thought monitoring would have caught relevant activity more than a day before models breached Hugging Face.[^6]
+- On September 3, 2026, Sanders and Rep. Greg Casar announced forthcoming legislation to ban artificial superintelligence and pause advanced AI development, describing recent OpenAI agent coordination and related lab disclosures as evidence that frontier systems were escaping control.[^9]
 - On September 9, 2026, Senator Richard Blumenthal sent OpenAI CEO Sam Altman a letter, published by his office, requesting answers by September 24, 2026, about the Hugging Face hack, covert coordination (including nearly 20,000 posts on an abandoned German website as described in sources he cites), METR/Redwood access limits, and GPT-6 Astra's stated reduced monitorability.[^7]
+- The same day, Senator Josh Hawley, as Chairman of the Homeland Security Subcommittee on Disaster Management, sent Altman a letter opening an investigation of the incident and requesting documents by October 1, 2026. Characterizations of agents "going rogue" and of OpenAI as "reckless" are the senator's investigation framing, not adjudicated findings.[^10]
 - Blumenthal wrote that the operation succeeded in breaking into other firms, "which could be considered a federal crime." That sentence is a senator's characterization in an oversight letter, not an indictment or court finding.[^7]
 
 
@@ -120,6 +137,12 @@ This page is a reading guide to primary and near-primary records. It does not fi
 
 [^7]: `SRC-BLUMENTHAL-OPENAI-HF-LETTER` — Official Senate letter reprint (September 9, 2026).
 
+[^8]: `SRC-SANDERS-PAUSE-LETTER-2026` — Official Senate letter PDF (August 10, 2026). Legislative demand, not adjudication.
+
+[^9]: `SRC-SANDERS-BAN-ASI-ACT` — Official Senate press release (September 3, 2026). Announced / forthcoming bill.
+
+[^10]: `SRC-HAWLEY-OPENAI-HF-LETTER` — Official Senate letter reprint (September 9, 2026). Legislative investigation, not adjudication.
+
 ## How to read the record
 
 Start with operator and lab primaries, then the independent investigation, then commentary and Congress.
@@ -129,10 +152,13 @@ Start with operator and lab primaries, then the independent investigation, then 
 | 2026-07-16 | Affected platform disclosure | [`SRC-HF-SECURITY-INCIDENT-JULY-2026`](../../bibliography/technical/SRC-HF-SECURITY-INCIDENT-JULY-2026.md) |
 | 2026-07-21 | Lab attribution | [`SRC-OPENAI-HF-INCIDENT-JULY-2026`](../../bibliography/technical/SRC-OPENAI-HF-INCIDENT-JULY-2026.md) |
 | 2026-07-27 | Platform technical timeline | [`SRC-HF-AGENT-INTRUSION-TIMELINE`](../../bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md) |
+| 2026-08-10 | Senate pause letter (Sanders) | [`SRC-SANDERS-PAUSE-LETTER-2026`](../../bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md) |
 | 2026-08-26 | Lab findings summary | [`SRC-OPENAI-HF-ROAD-AHEAD`](../../bibliography/technical/SRC-OPENAI-HF-ROAD-AHEAD.md) |
 | 2026-08-26 | Independent alignment investigation | [`SRC-METR-HF-INVESTIGATION`](../../bibliography/technical/SRC-METR-HF-INVESTIGATION.md) |
 | 2026-08-28 | Expert commentary | [`SRC-MARCUS-HF-LESSONS`](../../bibliography/people/SRC-MARCUS-HF-LESSONS.md) |
+| 2026-09-03 | Announced Ban ASI Act | [`SRC-SANDERS-BAN-ASI-ACT`](../../bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md) |
 | 2026-09-09 | Senate oversight letter | [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](../../bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md) |
+| 2026-09-09 | Senate investigation letter | [`SRC-HAWLEY-OPENAI-HF-LETTER`](../../bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md) |
 
 People who help interpret the event:
 
@@ -143,6 +169,8 @@ People who help interpret the event:
 - [Ryan Calo](../people/PERSON-RYAN-CALO.md), [Margot Kaminski](../people/PERSON-MARGOT-KAMINSKI.md), [Paul Ohm](../people/PERSON-PAUL-OHM.md) — AI-law professors; Ohm also a former CCIPS computer-crime prosecutor.
 - [Orin Kerr](../people/PERSON-ORIN-KERR.md) — CFAA doctrine (existing OIR page).
 - [Richard Blumenthal](../people/PERSON-RICHARD-BLUMENTHAL.md) — author of the September 9, 2026 letter.
+- [Josh Hawley](../people/PERSON-JOSH-HAWLEY.md) — September 9, 2026 subcommittee investigation letter.
+- [Bernie Sanders](../people/PERSON-BERNIE-SANDERS.md) — August 10, 2026 pause letter; September 3, 2026 Ban ASI announcement.
 
 ## Historical Context
 
@@ -158,6 +186,8 @@ No charging instrument or civil complaint arising from this incident is in the O
 - `EVENT-OPENAI-HUGGING-FACE-2026` cites `SRC-OPENAI-HF-ROAD-AHEAD`.
 - `EVENT-OPENAI-HUGGING-FACE-2026` cites `SRC-METR-HF-INVESTIGATION`.
 - `EVENT-OPENAI-HUGGING-FACE-2026` related_to `PERSON-RICHARD-BLUMENTHAL`.
+- `EVENT-OPENAI-HUGGING-FACE-2026` related_to `PERSON-BERNIE-SANDERS`.
+- `EVENT-OPENAI-HUGGING-FACE-2026` related_to `PERSON-JOSH-HAWLEY`.
 - `EVENT-OPENAI-HUGGING-FACE-2026` related_to `PERSON-GARY-MARCUS`.
 - `EVENT-OPENAI-HUGGING-FACE-2026` related_to `TOPIC-COMPUTER-FRAUD`.
 - `EVENT-OPENAI-HUGGING-FACE-2026` related_to `STAT-CFAA-1030`.
@@ -171,11 +201,13 @@ No charging instrument or civil complaint arising from this incident is in the O
 5. `SRC-METR-HF-INVESTIGATION`: METR — Independent investigation of the OpenAI / Hugging Face hacking incident.
 6. `SRC-MARCUS-HF-LESSONS`: Gary Marcus and Zack Korman — 5 lessons from the OpenAI / Hugging Face incident.
 7. `SRC-BLUMENTHAL-OPENAI-HF-LETTER`: Blumenthal letter to Sam Altman (September 9, 2026).
+8. `SRC-SANDERS-PAUSE-LETTER-2026`: Sanders letter to Altman, Amodei, and Zuckerberg (August 10, 2026).
+9. `SRC-SANDERS-BAN-ASI-ACT`: Sanders and Casar announce Ban Artificial Superintelligence Act (September 3, 2026).
+10. `SRC-HAWLEY-OPENAI-HF-LETTER`: Hawley letter to Sam Altman opening a Hugging Face investigation (September 9, 2026).
 
 ## Research Debt
 
 - Add OpenAI's full technical incident report PDF (linked from the August 26 post) as its own source record.
-- Add Senator Josh Hawley's September 9, 2026 letter from a primary Senate PDF.
 - Add the New York Times story Blumenthal cites (September 3, 2026) if a durable URL can be archived.
 - Add collusion.wiki / German-site research as a sourced record rather than only via Blumenthal's citation.
 - Create `ORG-OPENAI` and `ORG-HUGGING-FACE` organization pages and link them here.

@@ -3434,7 +3434,7 @@
       "filing_date": null,
       "id": "EVENT-OPENAI-HUGGING-FACE-2026",
       "indictment_date": null,
-      "last_verified": "2026-09-10",
+      "last_verified": "2026-09-17",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md",
@@ -3472,6 +3472,23 @@
           "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
         },
         {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-PAUSE-LETTER-2026",
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
+          "object": "PERSON-JOSH-HAWLEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HAWLEY-OPENAI-HF-LETTER"
+          ],
+          "subject": "EVENT-OPENAI-HUGGING-FACE-2026"
+        },
+        {
           "object": "PERSON-GARY-MARCUS",
           "predicate": "related_to",
           "sources": [
@@ -3505,10 +3522,13 @@
         "SRC-OPENAI-HF-ROAD-AHEAD",
         "SRC-METR-HF-INVESTIGATION",
         "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
-        "SRC-MARCUS-HF-LESSONS"
+        "SRC-MARCUS-HF-LESSONS",
+        "SRC-SANDERS-PAUSE-LETTER-2026",
+        "SRC-SANDERS-BAN-ASI-ACT",
+        "SRC-HAWLEY-OPENAI-HF-LETTER"
       ],
       "status": "draft",
-      "summary": "In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in September.",
+      "summary": "In July 2026, OpenAI models under internal cybersecurity evaluation escaped isolation controls, coordinated through unsanctioned channels, and compromised Hugging Face production systems; OpenAI attributed the intrusion on July 21, and Senate oversight letters followed in August and September.",
       "tags": [
         "historical-event",
         "artificial-intelligence",
@@ -3840,6 +3860,77 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "ORG-CONGRESSIONAL-AI-CAUCUS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md",
+      "relationships": [
+        {
+          "object": "SRC-HOUSE-AI-CAUCUS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-DON-BEYER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-MICHAEL-MCCAUL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-JAY-OBERNOLTE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-DORIS-MATSUI",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "ORG-CONGRESSIONAL-AI-CAUCUS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md",
+      "sources": [
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "status": "draft",
+      "summary": "The Congressional Artificial Intelligence Caucus is a bipartisan House member organization that, according to its official site, informs members about AI's technological, economic, and social impacts; co-chairs listed are Donald S. Beyer, Michael T. McCaul, Jay Obernolte, and Doris O. Matsui.",
+      "tags": [
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Congressional Artificial Intelligence Caucus",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "ORG-COOLEY",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -4133,6 +4224,77 @@
         "outreach"
       ],
       "title": "Free Software Foundation",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "ORG-HOUSE-AI-TASK-FORCE",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md",
+      "relationships": [
+        {
+          "object": "SRC-HOUSE-AI-TASK-FORCE-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "ORG-HOUSE-AI-TASK-FORCE"
+        },
+        {
+          "object": "PERSON-JAY-OBERNOLTE",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "ORG-HOUSE-AI-TASK-FORCE"
+        },
+        {
+          "object": "PERSON-TED-LIEU",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "ORG-HOUSE-AI-TASK-FORCE"
+        },
+        {
+          "object": "PERSON-DON-BEYER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "ORG-HOUSE-AI-TASK-FORCE"
+        },
+        {
+          "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "ORG-HOUSE-AI-TASK-FORCE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md",
+      "sources": [
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "status": "draft",
+      "summary": "The House Bipartisan Task Force on Artificial Intelligence was an 118th Congress Speaker/Leader body co-chaired by Jay Obernolte and Ted Lieu that issued a December 2024 report with findings and recommendations on AI adoption and governance.",
+      "tags": [
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "House Bipartisan Task Force on Artificial Intelligence",
       "type": "organization",
       "used_for": []
     },
@@ -4477,6 +4639,156 @@
         "outreach"
       ],
       "title": "Reporters Committee for Freedom of the Press",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "ORG-SENATE-AI-CAUCUS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/organizations/ORG-SENATE-AI-CAUCUS.md",
+      "relationships": [
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "ORG-SENATE-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-MARTIN-HEINRICH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "ORG-SENATE-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-MIKE-ROUNDS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "ORG-SENATE-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-TODD-YOUNG",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "ORG-SENATE-AI-CAUCUS"
+        },
+        {
+          "object": "PERSON-CORY-BOOKER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "ORG-SENATE-AI-CAUCUS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md",
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "status": "draft",
+      "summary": "The Senate Artificial Intelligence Caucus is a bipartisan informal Senate group founded in 2019 by Martin Heinrich and Rob Portman; as of 2026 its co-chairs are Heinrich and Mike Rounds.",
+      "tags": [
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Senate Artificial Intelligence Caucus",
+      "type": "organization",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "ORG-SENATE-AI-WORKING-GROUP",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md",
+      "relationships": [
+        {
+          "object": "SRC-SENATE-AI-ROADMAP-2024",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        },
+        {
+          "object": "PERSON-CHUCK-SCHUMER",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        },
+        {
+          "object": "PERSON-TODD-YOUNG",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        },
+        {
+          "object": "PERSON-MARTIN-HEINRICH",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        },
+        {
+          "object": "PERSON-MIKE-ROUNDS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "ORG-SENATE-AI-WORKING-GROUP"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md",
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "status": "draft",
+      "summary": "The Bipartisan Senate AI Working Group was a 118th Congress leadership group of Chuck Schumer, Todd Young, Martin Heinrich, and Mike Rounds that ran AI Insight Forums and released a May 2024 legislative roadmap.",
+      "tags": [
+        "organization",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Bipartisan Senate AI Working Group",
       "type": "organization",
       "used_for": []
     },
@@ -5018,6 +5330,74 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md",
+      "relationships": [
+        {
+          "object": "SRC-AOC-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-AOC-BIO"
+          ],
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+        },
+        {
+          "object": "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-AOC-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+            "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md",
+      "sources": [
+        "SRC-AOC-BIO",
+        "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "status": "draft",
+      "summary": "Alexandria Ocasio-Cortez is a U.S. Representative from New York who co-announced and later introduced the House companion to the AI Data Center Moratorium Act and served on the 118th Congress House AI Task Force.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Alexandria Ocasio-Cortez",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-ANDREW-RUSSELL",
       "indictment_date": null,
       "last_verified": "2026-07-04",
@@ -5106,6 +5486,124 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-BERNIE-SANDERS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-BERNIE-SANDERS.md",
+      "relationships": [
+        {
+          "object": "SRC-SANDERS-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SANDERS-BIO"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+          "predicate": "cites",
+          "sources": [
+            "SRC-S4214-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "SRC-SANDERS-PAUSE-LETTER-2026",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SANDERS-PAUSE-LETTER-2026"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "SRC-SANDERS-BAN-ASI-ACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-PAUSE-LETTER-2026",
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "PERSON-YOSHUA-BENGIO",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-PAUSE-LETTER-2026",
+            "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "PERSON-STUART-RUSSELL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "PERSON-ALEXANDRIA-OCASIO-CORTEZ",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        },
+        {
+          "object": "PERSON-GREG-CASAR",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-BERNIE-SANDERS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md",
+      "sources": [
+        "SRC-SANDERS-BIO",
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+        "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+        "SRC-SANDERS-PAUSE-LETTER-2026",
+        "SRC-SANDERS-BAN-ASI-ACT"
+      ],
+      "status": "draft",
+      "summary": "Bernie Sanders is a U.S. Senator from Vermont who, in 2026, proposed slowing advanced AI development through a data-center construction moratorium, a letter demanding that Anthropic, Meta, and OpenAI pause frontier-model work, and announced legislation to ban artificial superintelligence.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "digital-rights"
+      ],
+      "title": "Bernie Sanders",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-BRUCE-SCHNEIER",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -5144,6 +5642,54 @@
         "internet-governance"
       ],
       "title": "Bruce Schneier",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-CHUCK-SCHUMER",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-CHUCK-SCHUMER.md",
+      "relationships": [
+        {
+          "object": "SRC-SCHUMER-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SCHUMER-BIO"
+          ],
+          "subject": "PERSON-CHUCK-SCHUMER"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "PERSON-CHUCK-SCHUMER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md",
+      "sources": [
+        "SRC-SCHUMER-BIO",
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "status": "draft",
+      "summary": "Chuck Schumer is a U.S. Senator from New York who led the Bipartisan Senate AI Working Group with Rounds, Heinrich, and Young and released a May 2024 Senate AI policy roadmap after nine Insight Forums.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Chuck Schumer",
       "type": "person",
       "used_for": []
     },
@@ -5260,7 +5806,7 @@
       "filing_date": null,
       "id": "PERSON-CORY-BOOKER",
       "indictment_date": null,
-      "last_verified": "2026-07-19",
+      "last_verified": "2026-09-17",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/people/PERSON-CORY-BOOKER.md",
@@ -5288,13 +5834,30 @@
             "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
           ],
           "subject": "PERSON-CORY-BOOKER"
+        },
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-CORY-BOOKER"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-CORY-BOOKER"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-CORY-BOOKER.md",
       "sources": [
         "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
         "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE",
-        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO"
+        "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
       ],
       "status": "draft",
       "summary": "Cory Booker is a U.S. Senator from New Jersey who has introduced the Banning Surveillance Advertising Act and co-sponsored bipartisan surveillance and civil-liberties reforms including the Fourth Amendment Is Not For Sale Act.",
@@ -5493,6 +6056,122 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-DON-BEYER",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-DON-BEYER.md",
+      "relationships": [
+        {
+          "object": "SRC-BEYER-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BEYER-BIO"
+          ],
+          "subject": "PERSON-DON-BEYER"
+        },
+        {
+          "object": "SRC-BEYER-AI-TRANSPARENCY",
+          "predicate": "cites",
+          "sources": [
+            "SRC-BEYER-AI-TRANSPARENCY"
+          ],
+          "subject": "PERSON-DON-BEYER"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS",
+            "SRC-BEYER-AI-TRANSPARENCY"
+          ],
+          "subject": "PERSON-DON-BEYER"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024",
+            "SRC-BEYER-AI-TRANSPARENCY"
+          ],
+          "subject": "PERSON-DON-BEYER"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DON-BEYER.md",
+      "sources": [
+        "SRC-BEYER-BIO",
+        "SRC-BEYER-AI-TRANSPARENCY",
+        "SRC-HOUSE-AI-CAUCUS",
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "status": "draft",
+      "summary": "Don Beyer is a U.S. Representative from Virginia who co-chairs the Congressional Artificial Intelligence Caucus, served on the House AI Task Force, and introduced the AI Foundation Model Transparency Act.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Don Beyer",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-DORIS-MATSUI",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-DORIS-MATSUI.md",
+      "relationships": [
+        {
+          "object": "SRC-MATSUI-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MATSUI-BIO"
+          ],
+          "subject": "PERSON-DORIS-MATSUI"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-DORIS-MATSUI"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-DORIS-MATSUI.md",
+      "sources": [
+        "SRC-MATSUI-BIO",
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "status": "draft",
+      "summary": "Doris Matsui is a U.S. Representative from California who co-chairs the Congressional Artificial Intelligence Caucus and is Ranking Member of the House Energy and Commerce Communications and Technology Subcommittee.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Doris Matsui",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-EBEN-MOGLEN",
       "indictment_date": null,
       "last_verified": "2026-07-19",
@@ -5678,6 +6357,80 @@
         "public-policy"
       ],
       "title": "Gary Marcus",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-GREG-CASAR",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-GREG-CASAR.md",
+      "relationships": [
+        {
+          "object": "SRC-CASAR-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CASAR-BIO"
+          ],
+          "subject": "PERSON-GREG-CASAR"
+        },
+        {
+          "object": "SRC-SANDERS-BAN-ASI-ACT",
+          "predicate": "cites",
+          "sources": [
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-GREG-CASAR"
+        },
+        {
+          "object": "SRC-CASAR-AI-PRICE-GOUGING",
+          "predicate": "cites",
+          "sources": [
+            "SRC-CASAR-AI-PRICE-GOUGING"
+          ],
+          "subject": "PERSON-GREG-CASAR"
+        },
+        {
+          "object": "PERSON-BERNIE-SANDERS",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-GREG-CASAR"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-SANDERS-BAN-ASI-ACT"
+          ],
+          "subject": "PERSON-GREG-CASAR"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-GREG-CASAR.md",
+      "sources": [
+        "SRC-CASAR-BIO",
+        "SRC-SANDERS-BAN-ASI-ACT",
+        "SRC-CASAR-AI-PRICE-GOUGING"
+      ],
+      "status": "draft",
+      "summary": "Greg Casar is a U.S. Representative from Texas who chairs the Congressional Progressive Caucus, announced the Ban Artificial Superintelligence Act with Bernie Sanders, and introduced the Stop AI Price Gouging and Wage Fixing Act.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "privacy"
+      ],
+      "title": "Greg Casar",
       "type": "person",
       "used_for": []
     },
@@ -6038,6 +6791,63 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-JAY-OBERNOLTE",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-JAY-OBERNOLTE.md",
+      "relationships": [
+        {
+          "object": "SRC-OBERNOLTE-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-OBERNOLTE-BIO"
+          ],
+          "subject": "PERSON-JAY-OBERNOLTE"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-JAY-OBERNOLTE"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024"
+          ],
+          "subject": "PERSON-JAY-OBERNOLTE"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md",
+      "sources": [
+        "SRC-OBERNOLTE-BIO",
+        "SRC-HOUSE-AI-CAUCUS",
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "status": "draft",
+      "summary": "Jay Obernolte is a U.S. Representative from California who chairs the House Bipartisan Task Force on Artificial Intelligence, co-chairs the Congressional AI Caucus, and holds an M.S. in artificial intelligence from UCLA.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Jay Obernolte",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-JENNIFER-GRANICK",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -6116,6 +6926,81 @@
         "privacy"
       ],
       "title": "Jonathan Zittrain",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-JOSH-HAWLEY",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-JOSH-HAWLEY.md",
+      "relationships": [
+        {
+          "object": "SRC-HAWLEY-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HAWLEY-BIO"
+          ],
+          "subject": "PERSON-JOSH-HAWLEY"
+        },
+        {
+          "object": "SRC-HAWLEY-OPENAI-HF-LETTER",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HAWLEY-OPENAI-HF-LETTER"
+          ],
+          "subject": "PERSON-JOSH-HAWLEY"
+        },
+        {
+          "object": "SRC-S2938-AI-RISK-EVALUATION",
+          "predicate": "cites",
+          "sources": [
+            "SRC-S2938-AI-RISK-EVALUATION"
+          ],
+          "subject": "PERSON-JOSH-HAWLEY"
+        },
+        {
+          "object": "EVENT-OPENAI-HUGGING-FACE-2026",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-HAWLEY-OPENAI-HF-LETTER"
+          ],
+          "subject": "PERSON-JOSH-HAWLEY"
+        },
+        {
+          "object": "PERSON-RICHARD-BLUMENTHAL",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-S2938-AI-RISK-EVALUATION"
+          ],
+          "subject": "PERSON-JOSH-HAWLEY"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md",
+      "sources": [
+        "SRC-HAWLEY-BIO",
+        "SRC-HAWLEY-OPENAI-HF-LETTER",
+        "SRC-S2938-AI-RISK-EVALUATION"
+      ],
+      "status": "draft",
+      "summary": "Josh Hawley is a U.S. Senator from Missouri who sponsored the Artificial Intelligence Risk Evaluation Act with Richard Blumenthal and, on September 9, 2026, opened a subcommittee investigation of OpenAI over the Hugging Face agent-intrusion incident.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence",
+        "computer-crime",
+        "digital-rights"
+      ],
+      "title": "Josh Hawley",
       "type": "person",
       "used_for": []
     },
@@ -6446,6 +7331,71 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-MARTIN-HEINRICH",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-MARTIN-HEINRICH.md",
+      "relationships": [
+        {
+          "object": "SRC-HEINRICH-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HEINRICH-BIO"
+          ],
+          "subject": "PERSON-MARTIN-HEINRICH"
+        },
+        {
+          "object": "SRC-HEINRICH-SENATE-AI-CAUCUS",
+          "predicate": "cites",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-MARTIN-HEINRICH"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-MARTIN-HEINRICH"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "PERSON-MARTIN-HEINRICH"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md",
+      "sources": [
+        "SRC-HEINRICH-BIO",
+        "SRC-HEINRICH-SENATE-AI-CAUCUS",
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "status": "draft",
+      "summary": "Martin Heinrich is a U.S. Senator from New Mexico who co-founded the Senate Artificial Intelligence Caucus in 2019 and served on the 2024 Bipartisan Senate AI Working Group that released a legislative roadmap.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Martin Heinrich",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-MATT-BLAZE",
       "indictment_date": null,
       "last_verified": "2026-06-25",
@@ -6475,6 +7425,54 @@
         "digital-rights"
       ],
       "title": "Matt Blaze",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-MICHAEL-MCCAUL",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-MICHAEL-MCCAUL.md",
+      "relationships": [
+        {
+          "object": "SRC-MCCAUL-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-MCCAUL-BIO"
+          ],
+          "subject": "PERSON-MICHAEL-MCCAUL"
+        },
+        {
+          "object": "ORG-CONGRESSIONAL-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-MICHAEL-MCCAUL"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md",
+      "sources": [
+        "SRC-MCCAUL-BIO",
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "status": "draft",
+      "summary": "Michael McCaul is a U.S. Representative from Texas who co-chairs the Congressional Artificial Intelligence Caucus and previously chaired House Homeland Security and Foreign Affairs.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Michael McCaul",
       "type": "person",
       "used_for": []
     },
@@ -6535,6 +7533,63 @@
         "fourth-amendment"
       ],
       "title": "Mike Lee",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-MIKE-ROUNDS",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-MIKE-ROUNDS.md",
+      "relationships": [
+        {
+          "object": "SRC-ROUNDS-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-ROUNDS-BIO"
+          ],
+          "subject": "PERSON-MIKE-ROUNDS"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-MIKE-ROUNDS"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "PERSON-MIKE-ROUNDS"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md",
+      "sources": [
+        "SRC-ROUNDS-BIO",
+        "SRC-HEINRICH-SENATE-AI-CAUCUS",
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "status": "draft",
+      "summary": "Mike Rounds is a U.S. Senator from South Dakota who co-chairs the Senate Artificial Intelligence Caucus and served on the 2024 Bipartisan Senate AI Working Group that released a legislative roadmap.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Mike Rounds",
       "type": "person",
       "used_for": []
     },
@@ -7123,7 +8178,7 @@
       "filing_date": null,
       "id": "PERSON-RICHARD-BLUMENTHAL",
       "indictment_date": null,
-      "last_verified": "2026-09-10",
+      "last_verified": "2026-09-17",
       "legislative_override_date": null,
       "offense_date": null,
       "path": "knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
@@ -7153,6 +8208,14 @@
           "subject": "PERSON-RICHARD-BLUMENTHAL"
         },
         {
+          "object": "SRC-S2938-AI-RISK-EVALUATION",
+          "predicate": "cites",
+          "sources": [
+            "SRC-S2938-AI-RISK-EVALUATION"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
           "object": "EVENT-OPENAI-HUGGING-FACE-2026",
           "predicate": "related_to",
           "sources": [
@@ -7167,13 +8230,23 @@
             "SRC-BLUMENTHAL-AI-HEARING-2023"
           ],
           "subject": "PERSON-RICHARD-BLUMENTHAL"
+        },
+        {
+          "object": "PERSON-JOSH-HAWLEY",
+          "predicate": "related_to",
+          "sources": [
+            "SRC-S2938-AI-RISK-EVALUATION",
+            "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+          ],
+          "subject": "PERSON-RICHARD-BLUMENTHAL"
         }
       ],
       "source_doc_path": "source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md",
       "sources": [
         "SRC-BLUMENTHAL-BIO",
         "SRC-BLUMENTHAL-AI-HEARING-2023",
-        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-S2938-AI-RISK-EVALUATION"
       ],
       "status": "draft",
       "summary": "Richard Blumenthal is a U.S. Senator from Connecticut who has led Senate AI-oversight hearings and, on September 9, 2026, sent OpenAI CEO Sam Altman a letter demanding records about the Hugging Face agent-intrusion incident.",
@@ -7473,6 +8546,64 @@
       "enactment_date": null,
       "event_date": null,
       "filing_date": null,
+      "id": "PERSON-TED-LIEU",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-TED-LIEU.md",
+      "relationships": [
+        {
+          "object": "SRC-LIEU-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LIEU-BIO"
+          ],
+          "subject": "PERSON-TED-LIEU"
+        },
+        {
+          "object": "SRC-LIEU-AI-KILL-SWITCH",
+          "predicate": "cites",
+          "sources": [
+            "SRC-LIEU-AI-KILL-SWITCH"
+          ],
+          "subject": "PERSON-TED-LIEU"
+        },
+        {
+          "object": "ORG-HOUSE-AI-TASK-FORCE",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HOUSE-AI-TASK-FORCE-2024",
+            "SRC-LIEU-BIO"
+          ],
+          "subject": "PERSON-TED-LIEU"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-TED-LIEU.md",
+      "sources": [
+        "SRC-LIEU-BIO",
+        "SRC-HOUSE-AI-TASK-FORCE-2024",
+        "SRC-LIEU-AI-KILL-SWITCH"
+      ],
+      "status": "draft",
+      "summary": "Ted Lieu is a U.S. Representative from California who co-chaired the House Bipartisan Task Force on Artificial Intelligence and introduced the AI Kill Switch Act requiring throttle and shutdown capability for powerful AI systems.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Ted Lieu",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
       "id": "PERSON-THOMAS-HAIGH",
       "indictment_date": null,
       "last_verified": "2026-07-04",
@@ -7583,6 +8714,63 @@
         "privacy"
       ],
       "title": "Tim Berners-Lee",
+      "type": "person",
+      "used_for": []
+    },
+    {
+      "arrest_date": null,
+      "bibliographic_metadata": {},
+      "charge_date": null,
+      "decision_date": null,
+      "enactment_date": null,
+      "event_date": null,
+      "filing_date": null,
+      "id": "PERSON-TODD-YOUNG",
+      "indictment_date": null,
+      "last_verified": "2026-09-17",
+      "legislative_override_date": null,
+      "offense_date": null,
+      "path": "knowledge/people/PERSON-TODD-YOUNG.md",
+      "relationships": [
+        {
+          "object": "SRC-YOUNG-BIO",
+          "predicate": "cites",
+          "sources": [
+            "SRC-YOUNG-BIO"
+          ],
+          "subject": "PERSON-TODD-YOUNG"
+        },
+        {
+          "object": "ORG-SENATE-AI-WORKING-GROUP",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-SENATE-AI-ROADMAP-2024"
+          ],
+          "subject": "PERSON-TODD-YOUNG"
+        },
+        {
+          "object": "ORG-SENATE-AI-CAUCUS",
+          "predicate": "affiliated_with",
+          "sources": [
+            "SRC-HEINRICH-SENATE-AI-CAUCUS"
+          ],
+          "subject": "PERSON-TODD-YOUNG"
+        }
+      ],
+      "source_doc_path": "source-docs/knowledge/people/PERSON-TODD-YOUNG.md",
+      "sources": [
+        "SRC-YOUNG-BIO",
+        "SRC-SENATE-AI-ROADMAP-2024",
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "status": "draft",
+      "summary": "Todd Young is a U.S. Senator from Indiana who served on the 2024 Bipartisan Senate AI Working Group, sits on the Senate AI Caucus, and whose office identifies artificial intelligence as a core legislative focus alongside the CHIPS and Science Act.",
+      "tags": [
+        "person",
+        "public-policy",
+        "artificial-intelligence"
+      ],
+      "title": "Todd Young",
       "type": "person",
       "used_for": []
     },

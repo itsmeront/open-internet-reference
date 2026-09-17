@@ -2,7 +2,7 @@
 
 This page is generated from `sources` and relationship source metadata. Do not edit it manually.
 
-Source count: 280
+Source count: 307
 
 ## [`SRC-ABBATE-VT`](source-docs/bibliography/people/SRC-ABBATE-VT.md): Janet Abbate Virginia Tech Faculty Profile
 
@@ -58,6 +58,17 @@ Source count: 280
 - Relationship source in [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md): [`TOPIC-AI-COPYRIGHT`](source-docs/knowledge/legal/TOPIC-AI-COPYRIGHT.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
 - Page source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md)
 - Relationship source in [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md): [`TOPIC-AI-LITIGATION`](source-docs/knowledge/legal/TOPIC-AI-LITIGATION.md) `related_to` [`CASE-ANDERSEN-V-STABILITY`](source-docs/knowledge/legal/CASE-ANDERSEN-V-STABILITY.md)
+
+## [`SRC-AOC-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md): Ocasio-Cortez Introduces House Version of the AI Data Center Moratorium Act
+
+- Page source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md): [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `cites` [`SRC-AOC-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-AOC-AI-DATA-CENTER-MORATORIUM.md)
+- Relationship source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md): [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+## [`SRC-AOC-BIO`](source-docs/bibliography/people/SRC-AOC-BIO.md): About \| Representative Ocasio-Cortez
+
+- Page source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md): [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `cites` [`SRC-AOC-BIO`](source-docs/bibliography/people/SRC-AOC-BIO.md)
 
 ## [`SRC-AP-DUROV-FSB-2026`](source-docs/bibliography/legal/SRC-AP-DUROV-FSB-2026.md): AP News — Russia Accuses Telegram CEO Pavel Durov of Aiding Terrorism
 
@@ -143,6 +154,18 @@ Source count: 280
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`CASE-BERNSTEIN-V-DOJ`](source-docs/knowledge/legal/CASE-BERNSTEIN-V-DOJ.md)
 - Relationship source in [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md): [`TOPIC-DEVELOPER-SOFTWARE-LIABILITY`](source-docs/knowledge/legal/TOPIC-DEVELOPER-SOFTWARE-LIABILITY.md) `related_to` [`TOPIC-CODE-AS-SPEECH`](source-docs/knowledge/legal/TOPIC-CODE-AS-SPEECH.md)
 
+## [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md): Beyer, Lawler, Jacobs Introduce Bipartisan Legislation to Promote AI Foundation Model Transparency
+
+- Page source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `cites` [`SRC-BEYER-AI-TRANSPARENCY`](source-docs/bibliography/people/SRC-BEYER-AI-TRANSPARENCY.md)
+
+## [`SRC-BEYER-BIO`](source-docs/bibliography/people/SRC-BEYER-BIO.md): Biography \| U.S. Representative Don Beyer
+
+- Page source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `cites` [`SRC-BEYER-BIO`](source-docs/bibliography/people/SRC-BEYER-BIO.md)
+
 ## [`SRC-BHANDARI-ACLU`](source-docs/bibliography/people/SRC-BHANDARI-ACLU.md): Esha Bhandari ACLU Staff Biography
 
 - Page source in [`PERSON-ESHA-BHANDARI`](source-docs/knowledge/people/PERSON-ESHA-BHANDARI.md)
@@ -177,6 +200,7 @@ Source count: 280
 - Page source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
 - Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-BLUMENTHAL-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-BLUMENTHAL-OPENAI-HF-LETTER.md)
 - Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
 - Page source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md)
 - Relationship source in [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md): [`TOPIC-COMPUTER-FRAUD`](source-docs/knowledge/legal/TOPIC-COMPUTER-FRAUD.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
 
@@ -268,6 +292,16 @@ Source count: 280
 - Relationship source in [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md): [`PERSON-NATHAN-FREED-WESSLER`](source-docs/knowledge/people/PERSON-NATHAN-FREED-WESSLER.md) `cites` [`SRC-CARPENTER-LII`](source-docs/bibliography/legal/SRC-CARPENTER-LII.md)
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
 - Relationship source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md): [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md) `related_to` [`CASE-CARPENTER-V-US`](source-docs/knowledge/legal/CASE-CARPENTER-V-US.md)
+
+## [`SRC-CASAR-AI-PRICE-GOUGING`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md): NEWS Congressman Greg Casar Introduces New Stop AI Price Gouging and Wage Fixing Act
+
+- Page source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Relationship source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md): [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-CASAR-AI-PRICE-GOUGING`](source-docs/bibliography/people/SRC-CASAR-AI-PRICE-GOUGING.md)
+
+## [`SRC-CASAR-BIO`](source-docs/bibliography/people/SRC-CASAR-BIO.md): About \| Representative Casar
+
+- Page source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Relationship source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md): [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-CASAR-BIO`](source-docs/bibliography/people/SRC-CASAR-BIO.md)
 
 ## [`SRC-CCIA-SB2420-LITIGATION-PAGE`](source-docs/bibliography/legal/SRC-CCIA-SB2420-LITIGATION-PAGE.md): CCIA Litigation Page — CCIA v. Paxton (W.D. Tex.)
 
@@ -813,6 +847,43 @@ Source count: 280
 - Page source in [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md)
 - Relationship source in [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md): [`PERSON-THOMAS-HAIGH`](source-docs/knowledge/people/PERSON-THOMAS-HAIGH.md) `cites` [`SRC-HAIGH-UWM`](source-docs/bibliography/people/SRC-HAIGH-UWM.md)
 
+## [`SRC-HAWLEY-BIO`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md): About \| Senator Josh Hawley
+
+- Page source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Relationship source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md): [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-HAWLEY-BIO`](source-docs/bibliography/people/SRC-HAWLEY-BIO.md)
+
+## [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md): Chairman Hawley Launches Investigation into OpenAI for Hacking, Existential Risk of AI Products
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Page source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Relationship source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md): [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-HAWLEY-OPENAI-HF-LETTER`](source-docs/bibliography/people/SRC-HAWLEY-OPENAI-HF-LETTER.md)
+- Relationship source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md): [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+
+## [`SRC-HEINRICH-BIO`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md): About \| Senator Martin Heinrich
+
+- Page source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Relationship source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md): [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `cites` [`SRC-HEINRICH-BIO`](source-docs/bibliography/people/SRC-HEINRICH-BIO.md)
+
+## [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md): Artificial Intelligence Caucus \| Senator Martin Heinrich
+
+- Page source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Relationship source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md): [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+- Relationship source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md): [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Relationship source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md): [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Relationship source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md): [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Relationship source in [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md): [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md) `related_to` [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Page source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md)
+- Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Relationship source in [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md): [`PERSON-CORY-BOOKER`](source-docs/knowledge/people/PERSON-CORY-BOOKER.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+- Page source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Relationship source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md): [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Relationship source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md): [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `cites` [`SRC-HEINRICH-SENATE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HEINRICH-SENATE-AI-CAUCUS.md)
+- Page source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Relationship source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md): [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Page source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Relationship source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md): [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `affiliated_with` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+
 ## [`SRC-HF-AGENT-INTRUSION-TIMELINE`](source-docs/bibliography/technical/SRC-HF-AGENT-INTRUSION-TIMELINE.md): Hugging Face — Anatomy of a Frontier Lab Agent Intrusion (July 2026)
 
 - Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
@@ -826,6 +897,40 @@ Source count: 280
 
 - Page source in [`CASE-CHATRIE-V-US`](source-docs/knowledge/legal/CASE-CHATRIE-V-US.md)
 - Page source in [`TOPIC-FOURTH-AMENDMENT`](source-docs/knowledge/legal/TOPIC-FOURTH-AMENDMENT.md)
+
+## [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md): Congressional Artificial Intelligence Caucus
+
+- Page source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Relationship source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md): [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `cites` [`SRC-HOUSE-AI-CAUCUS`](source-docs/bibliography/organizations/SRC-HOUSE-AI-CAUCUS.md)
+- Relationship source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md): [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md): [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Relationship source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md): [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Relationship source in [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md): [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md) `related_to` [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Page source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Page source in [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Relationship source in [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md): [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Page source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Relationship source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md): [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+- Page source in [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Relationship source in [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md): [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md) `affiliated_with` [`ORG-CONGRESSIONAL-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md)
+
+## [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md): The House Task Force on Artificial Intelligence Final Report
+
+- Page source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Relationship source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md): [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `cites` [`SRC-HOUSE-AI-TASK-FORCE-2024`](source-docs/bibliography/organizations/SRC-HOUSE-AI-TASK-FORCE-2024.md)
+- Relationship source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md): [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md): [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md): [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Relationship source in [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md): [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md) `related_to` [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Page source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md): [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Page source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md)
+- Relationship source in [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md): [`PERSON-DON-BEYER`](source-docs/knowledge/people/PERSON-DON-BEYER.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Page source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Relationship source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md): [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Page source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Relationship source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md): [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
 
 ## [`SRC-HYPHANET-HOME`](source-docs/bibliography/organizations/SRC-HYPHANET-HOME.md): Hyphanet Home Page
 
@@ -1061,6 +1166,17 @@ Source count: 280
 - Page source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md)
 - Relationship source in [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md): [`PERSON-LAWRENCE-LESSIG`](source-docs/knowledge/people/PERSON-LAWRENCE-LESSIG.md) `cites` [`SRC-LESSIG-HARVARD`](source-docs/bibliography/people/SRC-LESSIG-HARVARD.md)
 
+## [`SRC-LIEU-AI-KILL-SWITCH`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md): Reps Lieu and Moran Introduce Bill to Require Kill Switch for AI Systems That Can Cause Catastrophic Harm
+
+- Page source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Relationship source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md): [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `cites` [`SRC-LIEU-AI-KILL-SWITCH`](source-docs/bibliography/people/SRC-LIEU-AI-KILL-SWITCH.md)
+
+## [`SRC-LIEU-BIO`](source-docs/bibliography/people/SRC-LIEU-BIO.md): Meet Ted \| Congressman Ted Lieu
+
+- Page source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md)
+- Relationship source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md): [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `affiliated_with` [`ORG-HOUSE-AI-TASK-FORCE`](source-docs/knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md)
+- Relationship source in [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md): [`PERSON-TED-LIEU`](source-docs/knowledge/people/PERSON-TED-LIEU.md) `cites` [`SRC-LIEU-BIO`](source-docs/bibliography/people/SRC-LIEU-BIO.md)
+
 ## [`SRC-LOFGREN-AARONS-LAW`](source-docs/bibliography/people/SRC-LOFGREN-AARONS-LAW.md): Lofgren, Wyden, Paul Introduce Bipartisan Bicameral Aaron's Law
 
 - Page source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md)
@@ -1120,6 +1236,16 @@ Source count: 280
 - Page source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md)
 - Relationship source in [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md): [`PERSON-THOMAS-MASSIE`](source-docs/knowledge/people/PERSON-THOMAS-MASSIE.md) `cites` [`SRC-MASSIE-ENCRYPTION-AMENDMENT`](source-docs/bibliography/people/SRC-MASSIE-ENCRYPTION-AMENDMENT.md)
 - Page source in [`TOPIC-END-TO-END-ENCRYPTION`](source-docs/knowledge/legal/TOPIC-END-TO-END-ENCRYPTION.md)
+
+## [`SRC-MATSUI-BIO`](source-docs/bibliography/people/SRC-MATSUI-BIO.md): Biography \| Congresswoman Doris Matsui
+
+- Page source in [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md)
+- Relationship source in [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md): [`PERSON-DORIS-MATSUI`](source-docs/knowledge/people/PERSON-DORIS-MATSUI.md) `cites` [`SRC-MATSUI-BIO`](source-docs/bibliography/people/SRC-MATSUI-BIO.md)
+
+## [`SRC-MCCAUL-BIO`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md): Biography \| Congressman Michael McCaul
+
+- Page source in [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md)
+- Relationship source in [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md): [`PERSON-MICHAEL-MCCAUL`](source-docs/knowledge/people/PERSON-MICHAEL-MCCAUL.md) `cites` [`SRC-MCCAUL-BIO`](source-docs/bibliography/people/SRC-MCCAUL-BIO.md)
 
 ## [`SRC-MCSHERRY-EFF-BIO`](source-docs/bibliography/people/SRC-MCSHERRY-EFF-BIO.md): Corynne McSherry EFF Staff Biography
 
@@ -1186,6 +1312,11 @@ Source count: 280
 - Page source in [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
 - Page source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md)
 - Relationship source in [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md): [`CASE-NYT-V-OPENAI`](source-docs/knowledge/legal/CASE-NYT-V-OPENAI.md) `related_to` [`CASE-DOW-JONES-V-PERPLEXITY`](source-docs/knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md)
+
+## [`SRC-OBERNOLTE-BIO`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md): About \| Representative Jay Obernolte
+
+- Page source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md)
+- Relationship source in [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md): [`PERSON-JAY-OBERNOLTE`](source-docs/knowledge/people/PERSON-JAY-OBERNOLTE.md) `cites` [`SRC-OBERNOLTE-BIO`](source-docs/bibliography/people/SRC-OBERNOLTE-BIO.md)
 
 ## [`SRC-OFAC-FAQ-1076`](source-docs/bibliography/legal/SRC-OFAC-FAQ-1076.md): OFAC FAQ 1076 — Prohibitions Resulting from Tornado Cash Designation
 
@@ -1405,6 +1536,11 @@ Source count: 280
 - Page source in [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md)
 - Relationship source in [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md): [`PERSON-RON-RIVEST`](source-docs/knowledge/people/PERSON-RON-RIVEST.md) `cites` [`SRC-RIVEST-CSAIL`](source-docs/bibliography/people/SRC-RIVEST-CSAIL.md)
 
+## [`SRC-ROUNDS-BIO`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md): About Mike \| U.S. Senator Mike Rounds
+
+- Page source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Relationship source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md): [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `cites` [`SRC-ROUNDS-BIO`](source-docs/bibliography/people/SRC-ROUNDS-BIO.md)
+
 ## [`SRC-RUSSELL-BERKELEY`](source-docs/bibliography/people/SRC-RUSSELL-BERKELEY.md): Stuart J. Russell — UC Berkeley EECS faculty page
 
 - Page source in [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
@@ -1415,11 +1551,67 @@ Source count: 280
 - Page source in [`PERSON-ANDREW-RUSSELL`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md)
 - Relationship source in [`PERSON-ANDREW-RUSSELL`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md): [`PERSON-ANDREW-RUSSELL`](source-docs/knowledge/people/PERSON-ANDREW-RUSSELL.md) `cites` [`SRC-RUSSELL-PROFILE`](source-docs/bibliography/people/SRC-RUSSELL-PROFILE.md)
 
+## [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md): S.2938 — Artificial Intelligence Risk Evaluation Act of 2025 (119th Congress)
+
+- Page source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+- Relationship source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md): [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `cites` [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+- Relationship source in [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md): [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md) `related_to` [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Page source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `cites` [`SRC-S2938-AI-RISK-EVALUATION`](source-docs/bibliography/legal/SRC-S2938-AI-RISK-EVALUATION.md)
+- Relationship source in [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md): [`PERSON-RICHARD-BLUMENTHAL`](source-docs/knowledge/people/PERSON-RICHARD-BLUMENTHAL.md) `related_to` [`PERSON-JOSH-HAWLEY`](source-docs/knowledge/people/PERSON-JOSH-HAWLEY.md)
+
+## [`SRC-S4214-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md): S.4214 — Artificial Intelligence Data Center Moratorium Act (119th Congress)
+
+- Page source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-S4214-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/legal/SRC-S4214-AI-DATA-CENTER-MORATORIUM.md)
+
+## [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md): NEWS Sanders, Ocasio-Cortez Announce AI Data Center Moratorium Act
+
+- Page source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md): [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Page source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-AI-DATA-CENTER-MORATORIUM`](source-docs/bibliography/people/SRC-SANDERS-AI-DATA-CENTER-MORATORIUM.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-ALEXANDRIA-OCASIO-CORTEZ`](source-docs/knowledge/people/PERSON-ALEXANDRIA-OCASIO-CORTEZ.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-STUART-RUSSELL`](source-docs/knowledge/people/PERSON-STUART-RUSSELL.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+
+## [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md): NEWS Sanders, Casar to Introduce Legislation to Ban Artificial Superintelligence and Temporarily Pause Advanced AI Development
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Page source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Page source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md)
+- Relationship source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md): [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `cites` [`SRC-SANDERS-BAN-ASI-ACT`](source-docs/bibliography/people/SRC-SANDERS-BAN-ASI-ACT.md)
+- Relationship source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md): [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md): [`PERSON-GREG-CASAR`](source-docs/knowledge/people/PERSON-GREG-CASAR.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+
+## [`SRC-SANDERS-BIO`](source-docs/bibliography/people/SRC-SANDERS-BIO.md): About Bernie \| U.S. Senator Bernie Sanders
+
+- Page source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-BIO`](source-docs/bibliography/people/SRC-SANDERS-BIO.md)
+
+## [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md): Sanders Calls on Tech Giants to Pause Development of Out-of-Control AI
+
+- Page source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md): [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md) `related_to` [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Page source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `cites` [`SRC-SANDERS-PAUSE-LETTER-2026`](source-docs/bibliography/people/SRC-SANDERS-PAUSE-LETTER-2026.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`EVENT-OPENAI-HUGGING-FACE-2026`](source-docs/knowledge/legal/EVENT-OPENAI-HUGGING-FACE-2026.md)
+- Relationship source in [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md): [`PERSON-BERNIE-SANDERS`](source-docs/knowledge/people/PERSON-BERNIE-SANDERS.md) `related_to` [`PERSON-YOSHUA-BENGIO`](source-docs/knowledge/people/PERSON-YOSHUA-BENGIO.md)
+
 ## [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md): Bruce Schneier About Page
 
 - Page source in [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md)
 - Relationship source in [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md): [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md) `affiliated_with` [`ORG-EFF`](source-docs/knowledge/organizations/ORG-EFF.md)
 - Relationship source in [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md): [`PERSON-BRUCE-SCHNEIER`](source-docs/knowledge/people/PERSON-BRUCE-SCHNEIER.md) `cites` [`SRC-SCHNEIER-ABOUT`](source-docs/bibliography/people/SRC-SCHNEIER-ABOUT.md)
+
+## [`SRC-SCHUMER-BIO`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md): About Chuck \| Senator Chuck Schumer of New York
+
+- Page source in [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Relationship source in [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md): [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md) `cites` [`SRC-SCHUMER-BIO`](source-docs/bibliography/people/SRC-SCHUMER-BIO.md)
 
 ## [`SRC-SECTION-230-EFF`](source-docs/bibliography/legal/SRC-SECTION-230-EFF.md): EFF Section 230 Page
 
@@ -1431,6 +1623,24 @@ Source count: 280
 
 - Page source in [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md)
 - Relationship source in [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md): [`STAT-SECTION-230`](source-docs/knowledge/legal/STAT-SECTION-230.md) `cites` [`SRC-SECTION-230-LII`](source-docs/bibliography/legal/SRC-SECTION-230-LII.md)
+
+## [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md): Following Historic AI Insight Forums, Heinrich Colleagues Reveal Bipartisan Roadmap for Artificial Intelligence Policy
+
+- Page source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `cites` [`SRC-SENATE-AI-ROADMAP-2024`](source-docs/bibliography/organizations/SRC-SENATE-AI-ROADMAP-2024.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`ORG-SENATE-AI-CAUCUS`](source-docs/knowledge/organizations/ORG-SENATE-AI-CAUCUS.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Relationship source in [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md): [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md) `related_to` [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Page source in [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md)
+- Relationship source in [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md): [`PERSON-CHUCK-SCHUMER`](source-docs/knowledge/people/PERSON-CHUCK-SCHUMER.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Page source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md)
+- Relationship source in [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md): [`PERSON-MARTIN-HEINRICH`](source-docs/knowledge/people/PERSON-MARTIN-HEINRICH.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Page source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md)
+- Relationship source in [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md): [`PERSON-MIKE-ROUNDS`](source-docs/knowledge/people/PERSON-MIKE-ROUNDS.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
+- Page source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Relationship source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md): [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `affiliated_with` [`ORG-SENATE-AI-WORKING-GROUP`](source-docs/knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md)
 
 ## [`SRC-SFC-ABOUT`](source-docs/bibliography/organizations/SRC-SFC-ABOUT.md): Software Freedom Conservancy About Page
 
@@ -2011,6 +2221,11 @@ Source count: 280
 - Relationship source in [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md): [`PERSON-RAND-PAUL`](source-docs/knowledge/people/PERSON-RAND-PAUL.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
 - Page source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md)
 - Relationship source in [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md): [`PERSON-RON-WYDEN`](source-docs/knowledge/people/PERSON-RON-WYDEN.md) `cites` [`SRC-WYDEN-USA-RIGHTS-ACT`](source-docs/bibliography/people/SRC-WYDEN-USA-RIGHTS-ACT.md)
+
+## [`SRC-YOUNG-BIO`](source-docs/bibliography/people/SRC-YOUNG-BIO.md): About Todd \| Senator Young
+
+- Page source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md)
+- Relationship source in [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md): [`PERSON-TODD-YOUNG`](source-docs/knowledge/people/PERSON-TODD-YOUNG.md) `cites` [`SRC-YOUNG-BIO`](source-docs/bibliography/people/SRC-YOUNG-BIO.md)
 
 ## [`SRC-ZIMMERMANN-BIO`](source-docs/bibliography/people/SRC-ZIMMERMANN-BIO.md): Phil Zimmermann Official Biography
 

@@ -425,12 +425,15 @@
     {
       "sources": [
         "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-HAWLEY-OPENAI-HF-LETTER",
         "SRC-HF-AGENT-INTRUSION-TIMELINE",
         "SRC-HF-SECURITY-INCIDENT-JULY-2026",
         "SRC-MARCUS-HF-LESSONS",
         "SRC-METR-HF-INVESTIGATION",
         "SRC-OPENAI-HF-INCIDENT-JULY-2026",
-        "SRC-OPENAI-HF-ROAD-AHEAD"
+        "SRC-OPENAI-HF-ROAD-AHEAD",
+        "SRC-SANDERS-BAN-ASI-ACT",
+        "SRC-SANDERS-PAUSE-LETTER-2026"
       ],
       "term": "`EVENT-OPENAI-HUGGING-FACE-2026`"
     },
@@ -460,6 +463,13 @@
         "SRC-CFA-RELAUNCH-CNN"
       ],
       "term": "`ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT`"
+    },
+    {
+      "sources": [
+        "SRC-BEYER-AI-TRANSPARENCY",
+        "SRC-HOUSE-AI-CAUCUS"
+      ],
+      "term": "`ORG-CONGRESSIONAL-AI-CAUCUS`"
     },
     {
       "sources": [
@@ -501,6 +511,13 @@
         "SRC-FSF-PRESS"
       ],
       "term": "`ORG-FSF`"
+    },
+    {
+      "sources": [
+        "SRC-BEYER-AI-TRANSPARENCY",
+        "SRC-HOUSE-AI-TASK-FORCE-2024"
+      ],
+      "term": "`ORG-HOUSE-AI-TASK-FORCE`"
     },
     {
       "sources": [
@@ -548,6 +565,18 @@
         "SRC-RCFP-WHAT-WE-DO"
       ],
       "term": "`ORG-RCFP`"
+    },
+    {
+      "sources": [
+        "SRC-HEINRICH-SENATE-AI-CAUCUS"
+      ],
+      "term": "`ORG-SENATE-AI-CAUCUS`"
+    },
+    {
+      "sources": [
+        "SRC-SENATE-AI-ROADMAP-2024"
+      ],
+      "term": "`ORG-SENATE-AI-WORKING-GROUP`"
     },
     {
       "sources": [
@@ -617,6 +646,13 @@
     },
     {
       "sources": [
+        "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+        "SRC-AOC-BIO"
+      ],
+      "term": "`PERSON-ALEXANDRIA-OCASIO-CORTEZ`"
+    },
+    {
+      "sources": [
         "SRC-RUSSELL-PROFILE"
       ],
       "term": "`PERSON-ANDREW-RUSSELL`"
@@ -629,9 +665,26 @@
     },
     {
       "sources": [
+        "SRC-AOC-AI-DATA-CENTER-MORATORIUM",
+        "SRC-S4214-AI-DATA-CENTER-MORATORIUM",
+        "SRC-SANDERS-AI-DATA-CENTER-MORATORIUM",
+        "SRC-SANDERS-BAN-ASI-ACT",
+        "SRC-SANDERS-BIO",
+        "SRC-SANDERS-PAUSE-LETTER-2026"
+      ],
+      "term": "`PERSON-BERNIE-SANDERS`"
+    },
+    {
+      "sources": [
         "SRC-SCHNEIER-ABOUT"
       ],
       "term": "`PERSON-BRUCE-SCHNEIER`"
+    },
+    {
+      "sources": [
+        "SRC-SCHUMER-BIO"
+      ],
+      "term": "`PERSON-CHUCK-SCHUMER`"
     },
     {
       "sources": [
@@ -647,6 +700,7 @@
       "sources": [
         "SRC-BOOKER-SURVEILLANCE-ADVERTISING",
         "SRC-FOURTH-AMENDMENT-NOT-FOR-SALE-GOVINFO",
+        "SRC-HEINRICH-SENATE-AI-CAUCUS",
         "SRC-WYDEN-FOURTH-AMENDMENT-NOT-FOR-SALE"
       ],
       "term": "`PERSON-CORY-BOOKER`"
@@ -677,6 +731,19 @@
     },
     {
       "sources": [
+        "SRC-BEYER-AI-TRANSPARENCY",
+        "SRC-BEYER-BIO"
+      ],
+      "term": "`PERSON-DON-BEYER`"
+    },
+    {
+      "sources": [
+        "SRC-MATSUI-BIO"
+      ],
+      "term": "`PERSON-DORIS-MATSUI`"
+    },
+    {
+      "sources": [
         "SRC-MOGLEN-COLUMBIA",
         "SRC-MOGLEN-DSI",
         "SRC-ZIMMERMANN-INVESTIGATION-CLOSED"
@@ -697,6 +764,13 @@
         "SRC-METR-HF-INVESTIGATION"
       ],
       "term": "`PERSON-GARY-MARCUS`"
+    },
+    {
+      "sources": [
+        "SRC-CASAR-AI-PRICE-GOUGING",
+        "SRC-CASAR-BIO"
+      ],
+      "term": "`PERSON-GREG-CASAR`"
     },
     {
       "sources": [
@@ -746,6 +820,12 @@
     },
     {
       "sources": [
+        "SRC-OBERNOLTE-BIO"
+      ],
+      "term": "`PERSON-JAY-OBERNOLTE`"
+    },
+    {
+      "sources": [
         "SRC-GRANICK-ACLU-BIO"
       ],
       "term": "`PERSON-JENNIFER-GRANICK`"
@@ -755,6 +835,14 @@
         "SRC-ZITTRAIN-HLS"
       ],
       "term": "`PERSON-JONATHAN-ZITTRAIN`"
+    },
+    {
+      "sources": [
+        "SRC-HAWLEY-BIO",
+        "SRC-HAWLEY-OPENAI-HF-LETTER",
+        "SRC-S2938-AI-RISK-EVALUATION"
+      ],
+      "term": "`PERSON-JOSH-HAWLEY`"
     },
     {
       "sources": [
@@ -797,9 +885,21 @@
     },
     {
       "sources": [
+        "SRC-HEINRICH-BIO"
+      ],
+      "term": "`PERSON-MARTIN-HEINRICH`"
+    },
+    {
+      "sources": [
         "SRC-BLAZE-GEORGETOWN"
       ],
       "term": "`PERSON-MATT-BLAZE`"
+    },
+    {
+      "sources": [
+        "SRC-MCCAUL-BIO"
+      ],
+      "term": "`PERSON-MICHAEL-MCCAUL`"
     },
     {
       "sources": [
@@ -808,6 +908,12 @@
         "SRC-LEE-SENATE-BIO"
       ],
       "term": "`PERSON-MIKE-LEE`"
+    },
+    {
+      "sources": [
+        "SRC-ROUNDS-BIO"
+      ],
+      "term": "`PERSON-MIKE-ROUNDS`"
     },
     {
       "sources": [
@@ -888,7 +994,8 @@
       "sources": [
         "SRC-BLUMENTHAL-AI-HEARING-2023",
         "SRC-BLUMENTHAL-BIO",
-        "SRC-BLUMENTHAL-OPENAI-HF-LETTER"
+        "SRC-BLUMENTHAL-OPENAI-HF-LETTER",
+        "SRC-S2938-AI-RISK-EVALUATION"
       ],
       "term": "`PERSON-RICHARD-BLUMENTHAL`"
     },
@@ -938,6 +1045,13 @@
     },
     {
       "sources": [
+        "SRC-LIEU-AI-KILL-SWITCH",
+        "SRC-LIEU-BIO"
+      ],
+      "term": "`PERSON-TED-LIEU`"
+    },
+    {
+      "sources": [
         "SRC-HAIGH-UWM"
       ],
       "term": "`PERSON-THOMAS-HAIGH`"
@@ -953,6 +1067,12 @@
         "SRC-BERNERS-LEE-W3C"
       ],
       "term": "`PERSON-TIM-BERNERS-LEE`"
+    },
+    {
+      "sources": [
+        "SRC-YOUNG-BIO"
+      ],
+      "term": "`PERSON-TODD-YOUNG`"
     },
     {
       "sources": [
