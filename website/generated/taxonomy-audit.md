@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-09-17 10:39 UTC
+Last updated: 2026-09-18 10:15 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -10,7 +10,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 |--------|-------|
 | Tags declared in TAXONOMY.md | 56 |
 | Tags used in content | 58 |
-| Total tag applications | 1975 |
+| Total tag applications | 2135 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,34 +20,34 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 281 | ✓ |
-| `digital-rights` | 219 | ✓ |
+| `source` | 308 | ✓ |
+| `digital-rights` | 222 | ✓ |
+| `artificial-intelligence` | 147 | ✓ |
+| `privacy` | 122 | ✓ |
+| `person` | 122 | ⚠️ undeclared |
 | `case` | 121 | ✓ |
-| `privacy` | 120 | ✓ |
-| `artificial-intelligence` | 113 | ✓ |
 | `copyright` | 99 | ✓ |
-| `organization` | 91 | ✓ |
-| `person` | 88 | ⚠️ undeclared |
+| `organization` | 99 | ✓ |
 | `first-amendment` | 82 | ✓ |
 | `open-source-software` | 81 | ✓ |
+| `public-policy` | 69 | ✓ |
 | `outreach` | 56 | ⚠️ undeclared |
 | `internet-governance` | 51 | ✓ |
 | `attorney` | 41 | ✓ |
-| `computer-crime` | 33 | ✓ |
+| `computer-crime` | 36 | ✓ |
 | `cryptography` | 33 | ✓ |
 | `surveillance` | 32 | ✓ |
 | `case-studies` | 29 | ✓ |
 | `intermediary-liability` | 27 | ✓ |
 | `censorship-resistance` | 26 | ✓ |
 | `fourth-amendment` | 25 | ✓ |
-| `public-policy` | 25 | ✓ |
 | `internet-architecture` | 22 | ✓ |
 | `speech-and-code` | 21 | ✓ |
+| `historical-event` | 20 | ✓ |
 | `sanctions` | 19 | ✓ |
 | `civil-society` | 19 | ✓ |
+| `statute` | 18 | ✓ |
 | `peer-to-peer-networking` | 17 | ✓ |
-| `historical-event` | 17 | ✓ |
-| `statute` | 16 | ✓ |
 | `secure-messaging` | 15 | ✓ |
 | `open-source-risk` | 14 | ✓ |
 | `age-verification` | 14 | ✓ |
@@ -115,7 +115,7 @@ These tags are used in content but not listed in `TAXONOMY.md`:
 | `imported-source` | `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `onion-routing` | `bibliography/academic/SRC-TOR-DESIGN-PAPER.md` |
 | `outreach` | `knowledge/organizations/ORG-RCFP.md`, `knowledge/organizations/ORG-SFLC.md`, `knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md` +53 more |
-| `person` | `knowledge/people/PERSON-BRUCE-SCHNEIER.md`, `knowledge/people/PERSON-PAUL-VIXIE.md`, `knowledge/people/PERSON-YOSHUA-BENGIO.md` +85 more |
+| `person` | `knowledge/people/PERSON-BRUCE-SCHNEIER.md`, `knowledge/people/PERSON-PAUL-VIXIE.md`, `knowledge/people/PERSON-YOSHUA-BENGIO.md` +119 more |
 | `project-governance` | `bibliography/imported/SRC-OIR-PROJECT-CHARTER-DOCX.md`, `bibliography/imported/SRC-OIR-BOOTSTRAP-PROMPT.md`, `bibliography/imported/SRC-OIR-ROADMAP-DOCX.md` |
 | `technical` | `knowledge/technical/TOPIC-ONION-ROUTING.md`, `bibliography/technical/SRC-SIGNAL-DOUBLE-RATCHET.md`, `bibliography/technical/SRC-SIGNAL-X3DH.md` |
 | `technical-standard` | `bibliography/technical/SRC-RFC-8446.md`, `bibliography/technical/SRC-RFC-9293.md`, `bibliography/technical/SRC-RFC-1034.md` |
