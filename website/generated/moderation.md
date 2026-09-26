@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-09-24 10:45 UTC
+Last updated: 2026-09-26 10:30 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,7 +8,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
+| Open PRs awaiting review | 1 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
 | Draft content items | 397 |
@@ -17,7 +17,9 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#136](https://github.com/itsmeront/open-internet-reference/pull/136) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 0d | — |
 
 ## Draft Content Needing Attention
 
@@ -25,26 +27,26 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | ID | Title | Path |
 |---|-------|------|
+| `TOPIC-EXAMPLE` | Example Topic | `knowledge/_templates/knowledge-page.md` |
 | `TOPIC-KADEMLIA` | Kademlia | `knowledge/technical/TOPIC-KADEMLIA.md` |
-| `TECH-TORNADO-CASH` | Tornado Cash (Ethereum Mixer Protocol) | `knowledge/technical/TECH-TORNADO-CASH.md` |
-| `PROTOCOL-DNS` | Domain Name System | `knowledge/technical/PROTOCOL-DNS.md` |
 | `TECH-HYPHANET` | Hyphanet (formerly Freenet) | `knowledge/technical/TECH-HYPHANET.md` |
+| `TECH-PGP` | Pretty Good Privacy (PGP) | `knowledge/technical/TECH-PGP.md` |
+| `PROTOCOL-TCP` | Transmission Control Protocol | `knowledge/technical/PROTOCOL-TCP.md` |
+| `TECH-TORNADO-CASH` | Tornado Cash (Ethereum Mixer Protocol) | `knowledge/technical/TECH-TORNADO-CASH.md` |
+| `TECH-GRAPHENEOS` | GrapheneOS | `knowledge/technical/TECH-GRAPHENEOS.md` |
+| `TOPIC-DECENTRALIZED-MODERATION` | Decentralized Moderation in Censorship-R | `knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md` |
+| `PROTOCOL-DNS` | Domain Name System | `knowledge/technical/PROTOCOL-DNS.md` |
 | `TECH-SAMOURAI-WALLET` | Samourai Wallet | `knowledge/technical/TECH-SAMOURAI-WALLET.md` |
 | `TOPIC-ONION-ROUTING` | Onion Routing | `knowledge/technical/TOPIC-ONION-ROUTING.md` |
-| `TOPIC-DECENTRALIZED-MODERATION` | Decentralized Moderation in Censorship-R | `knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md` |
-| `TECH-GRAPHENEOS` | GrapheneOS | `knowledge/technical/TECH-GRAPHENEOS.md` |
-| `PROTOCOL-TLS-13` | Transport Layer Security 1.3 | `knowledge/technical/PROTOCOL-TLS-13.md` |
-| `TECH-PGP` | Pretty Good Privacy (PGP) | `knowledge/technical/TECH-PGP.md` |
 | `TECH-GNUNET` | GNUnet | `knowledge/technical/TECH-GNUNET.md` |
-| `PROTOCOL-TCP` | Transmission Control Protocol | `knowledge/technical/PROTOCOL-TCP.md` |
-| `CASE-CHATRIE-V-US` | Chatrie v. United States | `knowledge/legal/CASE-CHATRIE-V-US.md` |
-| `CASE-CONCORD-V-ANTHROPIC` | Concord Music Group, Inc. v. Anthropic P | `knowledge/legal/CASE-CONCORD-V-ANTHROPIC.md` |
-| `TOPIC-AI-HARM-LITIGATION` | Chatbot Product Liability and User-Harm  | `knowledge/legal/TOPIC-AI-HARM-LITIGATION.md` |
-| `CASE-THOMSON-REUTERS-V-ROSS` | Thomson Reuters Enterprise Centre GmbH v | `knowledge/legal/CASE-THOMSON-REUTERS-V-ROSS.md` |
-| `CASE-DISNEY-V-MIDJOURNEY` | Disney Enterprises, Inc. v. Midjourney,  | `knowledge/legal/CASE-DISNEY-V-MIDJOURNEY.md` |
-| `CASE-US-V-STORM` | United States v. Storm | `knowledge/legal/CASE-US-V-STORM.md` |
-| `TOPIC-FAIR-USE-VIDEO` | Fair Use and Video | `knowledge/legal/TOPIC-FAIR-USE-VIDEO.md` |
-| `CASE-FLORIDA-V-OPENAI` | Florida v. OpenAI Global, LLC | `knowledge/legal/CASE-FLORIDA-V-OPENAI.md` |
+| `PROTOCOL-TLS-13` | Transport Layer Security 1.3 | `knowledge/technical/PROTOCOL-TLS-13.md` |
+| `CASE-THALER-V-PERLMUTTER` | Thaler v. Perlmutter | `knowledge/legal/CASE-THALER-V-PERLMUTTER.md` |
+| `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES` | Garcia v. Character Technologies, Inc. | `knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md` |
+| `CASE-US-V-RODRIGUEZ` | United States v. Rodriguez (Samourai Wal | `knowledge/legal/CASE-US-V-RODRIGUEZ.md` |
+| `CASE-BMG-V-ANTHROPIC` | BMG Rights Management (US) LLC v. Anthro | `knowledge/legal/CASE-BMG-V-ANTHROPIC.md` |
+| `STAT-18-USC-2232` | 18 U.S.C. § 2232 — Destruction or Remova | `knowledge/legal/STAT-18-USC-2232.md` |
+| `CASE-KNESCHKE-V-LAION` | Kneschke v. LAION e.V. | `knowledge/legal/CASE-KNESCHKE-V-LAION.md` |
+| `CASE-DOW-JONES-V-PERPLEXITY` | Dow Jones & Co. v. Perplexity AI, Inc. | `knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md` |
 
 *...and 377 more*
 
