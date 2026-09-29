@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-09-26 10:30 UTC
+Last updated: 2026-09-29 11:48 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -19,7 +19,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | # | Title | Author | Areas | Age | Flags |
 |---|-------|--------|-------|-----|-------|
-| [#136](https://github.com/itsmeront/open-internet-reference/pull/136) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 0d | — |
+| [#137](https://github.com/itsmeront/open-internet-reference/pull/137) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 2d | — |
 
 ## Draft Content Needing Attention
 
