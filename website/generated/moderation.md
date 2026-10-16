@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-10-11 11:48 UTC
+Last updated: 2026-10-16 10:20 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,8 +8,8 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
-| AI-generated PRs | 0 |
+| Open PRs awaiting review | 1 |
+| AI-generated PRs | 1 |
 | Stale PRs (>7 days no activity) | 0 |
 | Draft content items | 397 |
 | Items needing sources | 0 |
@@ -17,7 +17,9 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#147](https://github.com/itsmeront/open-internet-reference/pull/147) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 3d | 🤖 AI 👀 Review |
 
 ## Draft Content Needing Attention
 
