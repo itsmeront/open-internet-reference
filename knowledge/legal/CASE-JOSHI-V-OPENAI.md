@@ -3,6 +3,7 @@ id: CASE-JOSHI-V-OPENAI
 title: Joshi v. OpenAI Foundation
 type: case
 status: draft
+monitor: true
 summary: Pending Northern District of Florida wrongful-death and product-liability action by the estate of Tiru Chabba, killed in the April 17, 2025 Florida State University shooting, alleging that ChatGPT assisted the shooter in planning the attack.
 tags:
   - case

@@ -3,6 +3,7 @@ id: CASE-WALTERS-V-OPENAI
 title: Walters v. OpenAI, L.L.C.
 type: case
 status: draft
+monitor: true
 summary: Gwinnett County, Georgia defamation action over a ChatGPT hallucination; on May 19, 2025, the court granted OpenAI summary judgment on three independent grounds.
 tags:
   - case

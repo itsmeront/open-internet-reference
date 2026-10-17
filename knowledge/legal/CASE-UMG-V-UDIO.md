@@ -3,6 +3,7 @@ id: CASE-UMG-V-UDIO
 title: UMG Recordings, Inc. v. Uncharted Labs, Inc. (Udio)
 type: case
 status: draft
+monitor: true
 summary: Southern District of New York copyright litigation in which major labels alleged that Udio copied sound recordings to train a generative music service; UMG and Warner later dismissed their claims, and Sony filed a 2026 follow-on action asserting 30,117 additional recordings.
 tags:
   - case

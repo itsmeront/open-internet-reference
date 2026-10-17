@@ -3,6 +3,7 @@ id: CASE-IN-RE-CHATGPT-PRODUCT-LIABILITY
 title: In re ChatGPT Product Liability Cases
 type: case
 status: draft
+monitor: true
 summary: California Judicial Council Coordination Proceeding JCCP No. 5431, created February 3, 2026, centralizing state product-liability and wrongful-death actions against OpenAI over ChatGPT in San Francisco Superior Court.
 tags:
   - case

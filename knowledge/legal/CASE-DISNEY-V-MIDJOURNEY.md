@@ -3,6 +3,7 @@ id: CASE-DISNEY-V-MIDJOURNEY
 title: Disney Enterprises, Inc. v. Midjourney, Inc.
 type: case
 status: draft
+monitor: true
 summary: Pending Central District of California copyright action by Disney, Universal, and later-consolidated Warner Bros. Discovery parties alleging that Midjourney copied studio character works to train an image and video generator and that outputs reproduce those characters.
 tags:
   - case

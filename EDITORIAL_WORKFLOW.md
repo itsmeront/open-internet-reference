@@ -53,6 +53,7 @@ Recommended mapping:
 - Humans highlight intake and review/merge PRs into the draft corpus.
 - AI does most drafting and processing.
 - Occasional research-debt campaigns deepen sourcing on pages the director cares about.
+- A weekly Actions chore (`.github/workflows/monitor-cases.yml`) refreshes one issue listing case pages with `monitor: true` for a docket check. That issue is not research debt.
 - A small verified core grows only when someone deep-checks claims against sources.
 
 ### Tooling phases (historical / ongoing)

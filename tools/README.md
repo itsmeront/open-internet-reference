@@ -10,6 +10,7 @@ Current tools:
 - `audit_case_mentions.py`: flags unlinked case mentions and adds research debt for missing `CASE-*` pages.
 - `generate_indexes.py`: generates JSON exports and MkDocs pages under `generated/` and `website/generated/`.
 - `moderation_queue.py`: builds the moderation dashboard (open PRs, draft content, stale verifications).
+- `monitor_cases.py`: lists case pages with `monitor: true` that are due for a docket check. The weekly workflow posts this list to one GitHub issue.
 - `taxonomy_audit.py`: audits tag usage against `TAXONOMY.md` (orphans, undeclared tags, duplicates).
 - `render_brand_assets.py`: rasterizes favicon assets from `website/assets/images/oir-logo-mark.png`.
 - `serve.py`: renders brand assets, regenerates indexes, and starts MkDocs local preview.
@@ -47,6 +48,17 @@ These reports are regenerated in two places:
 2. **Daily schedule** (`.github/workflows/moderation-reports.yml`) — runs at 06:00 UTC (or on manual `workflow_dispatch`), pushes report updates to branch `automated/moderation-reports`, and opens a PR when GitHub Actions is allowed to create pull requests. If PR creation is blocked by repository settings, open a PR from that branch manually — see `.github/BRANCH_PROTECTION.md`.
 
 Because `main` is branch-protected (PR-only merges), the scheduled workflow **does not push directly to `main`**. Merge the automation PR when convenient, or configure a ruleset bypass — see `.github/BRANCH_PROTECTION.md` → *Automated Workflows and Branch Protection*.
+
+### Open-case monitor
+
+`monitor_cases.py` prints the weekly docket-check list. A case is included only when its front matter sets `monitor: true`. It is due when `last_verified` is missing or older than 14 days.
+
+```powershell
+python tools/monitor_cases.py
+python tools/monitor_cases.py --due-days 14 --output generated/case-monitor.md
+```
+
+`.github/workflows/monitor-cases.yml` runs that command every Monday at 10:00 UTC (and on `workflow_dispatch`) and updates the open issue titled `chore: monitor open cases`. The issue is the chore. It does not edit case pages and it does not add research debt.
 
 The Node.js version notice in Actions logs (`actions/checkout`, `actions/setup-python` targeting Node 20 on Node 24 runners) is a deprecation warning only; it does not fail the workflow.
 

@@ -3,6 +3,7 @@ id: CASE-US-V-TUNICK
 title: United States v. Tunick
 type: case
 status: draft
+monitor: true
 summary: United States v. Tunick, No. 1:25-cr-00499 (N.D. Ga.), is a pending federal prosecution charging Samuel Tunick under 18 U.S.C. § 2232(a) for allegedly deleting digital contents of a Google Pixel phone during a January 24, 2025 CBP secondary inspection at Atlanta’s airport; public reporting links the wipe to GrapheneOS duress credentials.
 tags:
   - case

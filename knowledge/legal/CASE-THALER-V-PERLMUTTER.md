@@ -3,6 +3,7 @@ id: CASE-THALER-V-PERLMUTTER
 title: Thaler v. Perlmutter
 type: case
 status: draft
+monitor: true
 summary: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being, affirming refusal to register an image listed as authored solely by a generative-AI system.
 tags:
   - case

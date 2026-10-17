@@ -40,4 +40,4 @@ jobs:
             If it's still relevant, please leave a comment.
             Otherwise, it will be closed in 30 days.
           stale-issue-label: "stale"
-          exempt-issue-labels: "research-debt,pinned"
+          exempt-issue-labels: "research-debt,pinned,case-monitor"

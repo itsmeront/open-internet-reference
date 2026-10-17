@@ -12,3 +12,9 @@ Under the [human-directed / AI-processed model](how-we-work.md), humans periodic
 - Create external source records for primary legal, technical, historical, and policy authorities.
 
 Debt is resolved by adding verified source records, linking claims to evidence, or removing unsupported material.
+
+## Open cases
+
+Watching a live docket is not research debt. A case page sets `monitor: true` while an appeal, merits order, or criminal case can still change. Each week, GitHub Actions updates the issue **chore: monitor open cases** with the pages that are due for a check (`last_verified` missing or older than 14 days).
+
+On a check: if the docket changed, add the source and update the facts. If it did not, set `last_verified` to the check date. Remove `monitor` when the case is over. A named missing filing (“add the complaint PDF”, “add the merits opinion when it issues”) stays research debt.

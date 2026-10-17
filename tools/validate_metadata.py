@@ -162,6 +162,13 @@ def validate_metadata(
     if page_type is not None and page_type not in VALID_TYPES:
         errors.append(ValidationError(path, f"invalid type: {page_type}"))
 
+    if "monitor" in metadata:
+        monitor = metadata.get("monitor")
+        if not isinstance(monitor, bool):
+            errors.append(ValidationError(path, "monitor must be true or false"))
+        elif page_type != "case":
+            errors.append(ValidationError(path, "monitor is only valid on case pages"))
+
     timeline_dates_present = False
     for field_name, _kind, _label in TIMELINE_DATE_FIELDS:
         value = metadata.get(field_name)
