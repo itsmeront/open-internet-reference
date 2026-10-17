@@ -13,6 +13,7 @@ tags:
 sources:
   - SRC-BARTZ-V-ANTHROPIC-FAIR-USE
   - SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL
+  - SRC-BARTZ-23F-ABEYANCE-ORDER
   - SRC-USC-17-107-LII
 relationships:
   - subject: CASE-BARTZ-V-ANTHROPIC
@@ -20,6 +21,11 @@ relationships:
     object: SRC-BARTZ-V-ANTHROPIC-FAIR-USE
     sources:
       - SRC-BARTZ-V-ANTHROPIC-FAIR-USE
+  - subject: CASE-BARTZ-V-ANTHROPIC
+    predicate: cites
+    object: SRC-BARTZ-23F-ABEYANCE-ORDER
+    sources:
+      - SRC-BARTZ-23F-ABEYANCE-ORDER
   - subject: CASE-BARTZ-V-ANTHROPIC
     predicate: related_to
     object: STAT-USC-107
@@ -35,7 +41,7 @@ relationships:
     object: CASE-KADREY-V-META
     sources:
       - SRC-BARTZ-V-ANTHROPIC-FAIR-USE
-last_verified: "2026-08-22"
+last_verified: "2026-10-17"
 decision_date: "2025-06-23"
 ---
 
@@ -59,11 +65,14 @@ Bartz v. Anthropic PBC, No. C 24-05417 (N.D. Cal.), is an authors’ class actio
 - The court described the release as covering past AI inputs (pirating and copying) up to the point of any AI output, and as not releasing claims about past AI outputs or claims about future conduct on or after August 25, 2025.[^2]
 - The settlement provides for destruction of class members’ pirated works; the order quotes Anthropic’s representation that neither the LibGen nor PiLiMi datasets were in the training corpus of any commercially released large language model.[^2]
 - The court awarded class counsel $101,561,111 in fees (nearly 6.8 percent of the fund plus interest), expense reimbursement, and $15,000 service awards to each of three class representatives.[^2]
+- On August 28, 2025, the Ninth Circuit granted a motion to hold Anthropic’s Rule 23(f) petition in No. 25-4843, and all pending motions in that petition, in abeyance.[^3]
 
 
 [^1]: `SRC-BARTZ-V-ANTHROPIC-FAIR-USE` — Order on Fair Use (June 23, 2025). Primary district-court authority.
 
 [^2]: `SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL` — Final approval order (July 20, 2026). Primary court order on settlement terms.
+
+[^3]: `SRC-BARTZ-23F-ABEYANCE-ORDER` — Ninth Circuit order holding No. 25-4843 in abeyance (Aug. 28, 2025). RECAP copy of the clerk’s order.
 
 ## Historical Context
 
@@ -82,6 +91,7 @@ The settlement’s narrow release is legally significant: output claims and post
 ## Relationships
 
 - `CASE-BARTZ-V-ANTHROPIC` cites `SRC-BARTZ-V-ANTHROPIC-FAIR-USE`.
+- `CASE-BARTZ-V-ANTHROPIC` cites `SRC-BARTZ-23F-ABEYANCE-ORDER`.
 - `CASE-BARTZ-V-ANTHROPIC` related_to `STAT-USC-107`.
 - `CASE-BARTZ-V-ANTHROPIC` related_to `TOPIC-AI-COPYRIGHT`.
 - `CASE-BARTZ-V-ANTHROPIC` related_to `CASE-KADREY-V-META`.
@@ -90,6 +100,7 @@ The settlement’s narrow release is legally significant: output claims and post
 
 1. `SRC-BARTZ-V-ANTHROPIC-FAIR-USE`: Order on Fair Use (N.D. Cal. June 23, 2025).
 2. `SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL`: Final approval order (N.D. Cal. July 20, 2026).
+3. `SRC-BARTZ-23F-ABEYANCE-ORDER`: Ninth Circuit abeyance order in No. 25-4843 (Aug. 28, 2025).
 
 Additional sources (not yet cited in footnotes):
 
@@ -98,6 +109,6 @@ Additional sources (not yet cited in footnotes):
 ## Research Debt
 
 - Add the class-certification order and settlement agreement as dedicated sources.
-- Confirm Ninth Circuit Rule 23(f) petition disposition.
+- Confirm whether Ninth Circuit No. 25-4843 was dismissed after the July 20, 2026 final approval. The August 28, 2025 order only held the petition in abeyance.
 - Document opt-out litigation, if any, with docket citations.
 - Obtain an official PACER/RECAP copy of Dkt. 680 in addition to the DocumentCloud file.
