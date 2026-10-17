@@ -3,8 +3,8 @@ id: CASE-THALER-V-PERLMUTTER
 title: Thaler v. Perlmutter
 type: case
 status: draft
-monitor: true
-summary: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being, affirming refusal to register an image listed as authored solely by a generative-AI system.
+monitor: false
+summary: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), held that the Copyright Act of 1976 requires a copyrighted work to be authored in the first instance by a human being. The Supreme Court denied certiorari on March 2, 2026.
 tags:
   - case
   - copyright
@@ -14,12 +14,19 @@ sources:
   - SRC-THALER-V-PERLMUTTER-CADC
   - SRC-USCO-AI-REGISTRATION-GUIDANCE-2023
   - SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025
+  - SRC-SCOTUS-25-449-DOCKET
+  - SRC-SCOTUS-25-449-DENIAL-ORDER
 relationships:
   - subject: CASE-THALER-V-PERLMUTTER
     predicate: cites
     object: SRC-THALER-V-PERLMUTTER-CADC
     sources:
       - SRC-THALER-V-PERLMUTTER-CADC
+  - subject: CASE-THALER-V-PERLMUTTER
+    predicate: cites
+    object: SRC-SCOTUS-25-449-DENIAL-ORDER
+    sources:
+      - SRC-SCOTUS-25-449-DENIAL-ORDER
   - subject: CASE-THALER-V-PERLMUTTER
     predicate: related_to
     object: TOPIC-AI-COPYRIGHT
@@ -35,7 +42,7 @@ relationships:
     object: CASE-SPYDER-V-MEMENTUM
     sources:
       - SRC-THALER-V-PERLMUTTER-CADC
-last_verified: "2026-08-22"
+last_verified: "2026-10-17"
 decision_date: "2025-03-18"
 ---
 
@@ -43,7 +50,7 @@ decision_date: "2025-03-18"
 
 ## Summary
 
-Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), affirmed the Copyright Office’s refusal to register “A Recent Entrance to Paradise,” an image Dr. Stephen Thaler attributed solely to a generative system he called the Creativity Machine. The D.C. Circuit held that the Copyright Act of 1976 requires eligible works to be authored in the first instance by a human being.
+Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), affirmed the Copyright Office’s refusal to register “A Recent Entrance to Paradise,” an image Dr. Stephen Thaler attributed solely to a generative system he called the Creativity Machine. The D.C. Circuit held that the Copyright Act of 1976 requires eligible works to be authored in the first instance by a human being. The Supreme Court denied certiorari on March 2, 2026.
 
 ## Verified Facts
 
@@ -56,6 +63,7 @@ Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), affirmed the Copyright Of
 - The court did not decide whether the Constitution independently requires human authorship. It treated as waived Thaler’s argument that he was the author by making and using the Creativity Machine, because that argument was not presented to the agency.[^1]
 - The court also rejected reliance on the work-made-for-hire provision as a way to vest authorship in a machine and then transfer it to Thaler on the application record.[^1]
 - The Copyright Office’s March 2023 registration guidance, issued while Thaler’s district-court case was pending, states that when AI determines the expressive elements of its output, that material is not the product of human authorship and is not protected by copyright.[^2]
+- On March 2, 2026, the Supreme Court denied the petition for a writ of certiorari in No. 25-449. The D.C. Circuit had denied rehearing on May 12, 2025. The Chief Justice extended the certiorari deadline to October 9, 2025, the petition was filed that day and docketed October 14, 2025, and the March 2 order list denied it with the other listed petitions.[^4][^5]
 - The Office’s January 2025 copyrightability report reiterated that purely AI-generated material is not copyrightable and that prompts alone do not provide sufficient control under current generally available technology.[^3]
 
 
@@ -64,6 +72,9 @@ Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025), affirmed the Copyright Of
 [^2]: `SRC-USCO-AI-REGISTRATION-GUIDANCE-2023` — 88 Fed. Reg. 16190. Agency guidance.
 
 [^3]: `SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025` — Copyright Office Part 2 report (Jan. 2025). Agency report.
+
+[^4]: `SRC-SCOTUS-25-449-DOCKET` — Supreme Court docket No. 25-449. Primary docket.
+[^5]: `SRC-SCOTUS-25-449-DENIAL-ORDER` — Order list denying certiorari (March 2, 2026). Primary order.
 
 ## Historical Context
 
@@ -82,6 +93,7 @@ Thaler cites [Google LLC v. Oracle America, Inc.](CASE-GOOGLE-V-ORACLE.md) for t
 ## Relationships
 
 - `CASE-THALER-V-PERLMUTTER` cites `SRC-THALER-V-PERLMUTTER-CADC`.
+- `CASE-THALER-V-PERLMUTTER` cites `SRC-SCOTUS-25-449-DENIAL-ORDER`.
 - `CASE-THALER-V-PERLMUTTER` related_to `TOPIC-AI-COPYRIGHT`.
 - `CASE-THALER-V-PERLMUTTER` related_to `CASE-GOOGLE-V-ORACLE`.
 - `CASE-THALER-V-PERLMUTTER` related_to `CASE-SPYDER-V-MEMENTUM`.
@@ -91,10 +103,11 @@ Thaler cites [Google LLC v. Oracle America, Inc.](CASE-GOOGLE-V-ORACLE.md) for t
 1. `SRC-THALER-V-PERLMUTTER-CADC`: Thaler v. Perlmutter, 130 F.4th 1039 (D.C. Cir. 2025).
 2. `SRC-USCO-AI-REGISTRATION-GUIDANCE-2023`: Copyright Office AI registration guidance (2023).
 3. `SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025`: Copyright Office AI copyrightability report, Part 2 (2025).
+4. `SRC-SCOTUS-25-449-DOCKET`: Supreme Court docket No. 25-449.
+5. `SRC-SCOTUS-25-449-DENIAL-ORDER`: Order list denying certiorari (March 2, 2026).
 
 ## Research Debt
 
 - Add the D.D.C. summary-judgment opinion (687 F. Supp. 3d 140) as a dedicated source record.
-- Confirm Supreme Court certiorari status after the March 18, 2025 judgment and May 20, 2025 mandate.
 - Add the Copyright Office Review Board decision on “A Recent Entrance to Paradise” (Feb. 14, 2022) as a primary administrative source.
 - Document Zarya of the Dawn cancellation (human text, AI images) as a related registration example from the 2023 guidance footnotes.

@@ -13,6 +13,7 @@ sources:
   - SRC-USCO-AI-REGISTRATION-GUIDANCE-2023
   - SRC-USCO-AI-COPYRIGHTABILITY-REPORT-2025
   - SRC-THALER-V-PERLMUTTER-CADC
+  - SRC-SCOTUS-25-449-DENIAL-ORDER
   - SRC-BARTZ-V-ANTHROPIC-FAIR-USE
   - SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL
   - SRC-KADREY-V-META-FAIR-USE
@@ -30,6 +31,7 @@ sources:
   - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
   - SRC-DOE-V-GITHUB-MTD-2024
   - SRC-DOE-V-GITHUB-9THCIR-DOCKET
+  - SRC-DOE-V-GITHUB-9THCIR-OPINION
   - SRC-JPML-OPENAI-MDL-3143
   - SRC-IN-RE-OPENAI-OUTPUT-MTD-2025
   - SRC-GETTY-V-STABILITY-US-COMPLAINT
@@ -193,7 +195,7 @@ U.S. copyright law is being applied to generative AI along two tracks. Outputs: 
 - The Copyright Office’s March 16, 2023 registration guidance states that copyright can protect only material that is the product of human creativity, that applicants must disclose more-than-de-minimis AI-generated content, and that when AI determines the expressive elements of an output, that material is not protected by copyright.[^2]
 - The same guidance states that humans may claim copyright in their own contributions, including creative selection, coordination, and arrangement of AI-generated material or sufficiently creative modifications, and that applicants should not list an AI system as author merely because they used it.[^2]
 - The Office’s January 2025 copyrightability report concluded that existing law can resolve AI copyrightability questions without legislative change; that purely AI-generated material is not copyrightable; that prompts alone do not provide sufficient control on current generally available technology; and that the case has not been made for sui generis protection of AI-generated content.[^3]
-- In [Thaler v. Perlmutter](CASE-THALER-V-PERLMUTTER.md), the D.C. Circuit held that the Copyright Act requires eligible works to be authored in the first instance by a human being and affirmed refusal to register an image listed as authored solely by a generative system.[^4]
+- In [Thaler v. Perlmutter](CASE-THALER-V-PERLMUTTER.md), the D.C. Circuit held that the Copyright Act requires eligible works to be authored in the first instance by a human being and affirmed refusal to register an image listed as authored solely by a generative system. The Supreme Court denied certiorari on March 2, 2026.[^4][^32]
 - In [Thomson Reuters v. Ross Intelligence](CASE-THOMSON-REUTERS-V-ROSS.md), the District of Delaware rejected fair use for a competing non-generative legal-research AI trained on Westlaw headnotes.[^5]
 - In [Bartz v. Anthropic PBC](CASE-BARTZ-V-ANTHROPIC.md), the Northern District of California held that training Claude on books was transformative fair use but that a permanent library of pirated copies was not excused as fair use; a $1.5 billion class settlement of the piracy claims received final approval on July 20, 2026.[^6][^7]
 - In [Kadrey v. Meta Platforms, Inc.](CASE-KADREY-V-META.md), the Northern District of California granted Meta summary judgment on fair use for training Llama on thirteen authors’ books on that record, while warning that market-dilution evidence could change the result in other cases and leaving torrenting-distribution claims open.[^8]
@@ -205,7 +207,7 @@ U.S. copyright law is being applied to generative AI along two tracks. Outputs: 
 - Image-generator suits now have dedicated pages. [Andersen v. Stability AI Ltd.](CASE-ANDERSEN-V-STABILITY.md) is a pending U.S. artists’ class action in which Copyright Act claims survived dismissal and DMCA claims did not.[^16] [Disney Enterprises, Inc. v. Midjourney, Inc.](CASE-DISNEY-V-MIDJOURNEY.md) is pending studio litigation over alleged character outputs, later consolidated with a Warner Bros. Discovery action.[^17][^18] [Getty Images v. Stability AI](CASE-GETTY-V-STABILITY.md) is an English trial judgment that dismissed Getty’s remaining secondary-copyright theory after Getty abandoned UK training and output copyright claims; a later Northern District of California action dismissed a false-CMI claim without prejudice while trademark and UCL claims survived.[^19][^27][^28]
 - [Kneschke v. LAION](CASE-KNESCHKE-V-LAION.md) is a German photographer’s claim against a nonprofit dataset publisher: Landgericht Hamburg dismissed the complaint, applying the scientific-research TDM exception, and the Higher Regional Court affirmed, also applying the general TDM exception as reported.[^29][^30]
 - [In re Google Generative AI Copyright Litigation](CASE-IN-RE-GOOGLE-GEN-AI.md) is a Northern District of California putative class action; a September 11, 2025 order dismissed with prejudice claims as to specified models and vicarious claims against Alphabet, leaving Bard, Gemini, Imagen, and related model claims.[^31]
-- [Doe 1 v. GitHub, Inc.](CASE-DOE-V-GITHUB.md) is the leading open-source Copilot action: the district court dismissed DMCA § 1202(b) claims with prejudice and allowed open-source-license contract claims; a Ninth Circuit interlocutory appeal was argued February 11, 2026.[^20][^21]
+- [Doe 1 v. GitHub, Inc.](CASE-DOE-V-GITHUB.md) is the leading open-source Copilot action: the district court dismissed DMCA § 1202(b) claims with prejudice and allowed open-source-license contract claims. On September 16, 2026, the Ninth Circuit affirmed that dismissal, holding that Copilot outputs are new works that never contained the removed copyright-management information. The license-contract claims were not part of the appeal.[^20][^21][^33]
 
 
 [^1]: `SRC-USC-17-107-LII` — 17 U.S.C. § 107. Primary statutory authority.
@@ -269,6 +271,10 @@ U.S. copyright law is being applied to generative AI along two tracks. Outputs: 
 [^30]: `SRC-KNESCHKE-OLG-HAMBURG-2025` — OLG Hamburg, 5 U 104/24 (Dec. 10, 2025). Appellate report.
 
 [^31]: `SRC-GOOGLE-GEN-AI-MTD-2025` — N.D. Cal. Sept. 11, 2025. Pleading-stage order.
+
+[^32]: `SRC-SCOTUS-25-449-DENIAL-ORDER` — Order list denying certiorari in No. 25-449 (March 2, 2026).
+
+[^33]: `SRC-DOE-V-GITHUB-9THCIR-OPINION` — Doe v. GitHub, No. 24-7700 (9th Cir. Sept. 16, 2026). Published opinion.
 
 ## Historical Context
 
@@ -349,6 +355,8 @@ Non-copyright AI suits (chatbot product liability, defamation, user-harm) are co
 29. `SRC-KNESCHKE-LG-HAMBURG-2024`: Kneschke LG Hamburg (2024).
 30. `SRC-KNESCHKE-OLG-HAMBURG-2025`: Kneschke OLG Hamburg (2025).
 31. `SRC-GOOGLE-GEN-AI-MTD-2025`: In re Google Generative AI MTD order (2025).
+32. `SRC-SCOTUS-25-449-DENIAL-ORDER`: Order list denying certiorari in Thaler, No. 25-449 (March 2, 2026).
+33. `SRC-DOE-V-GITHUB-9THCIR-OPINION`: Doe v. GitHub Ninth Circuit opinion (Sept. 16, 2026).
 
 Additional sources (not yet cited in footnotes):
 
@@ -359,5 +367,5 @@ Additional sources (not yet cited in footnotes):
 - Add Copyright Office Part 3 (training) when a final version is cited from copyright.gov rather than secondary summaries.
 - Document U.S. Copyright Office registration examples beyond Thaler (Zarya of the Dawn; later granted mixed-work registrations).
 - Music-generator and lyric cases now have dedicated pages; add later U.S. fair-use orders and any OLG München appeal in GEMA there.
-- Add any Ninth Circuit opinion in Doe v. GitHub.
+- Track the district-court contract claims in Doe v. GitHub that the September 16, 2026 opinion did not decide.
 - Add any BGH judgment in Kneschke from that official text.

@@ -13,6 +13,7 @@ tags:
   - intermediary-liability
 sources:
   - SRC-THALER-V-PERLMUTTER-CADC
+  - SRC-SCOTUS-25-449-DENIAL-ORDER
   - SRC-BARTZ-V-ANTHROPIC-FAIR-USE
   - SRC-BARTZ-V-ANTHROPIC-FINAL-APPROVAL
   - SRC-KADREY-V-META-FAIR-USE
@@ -33,6 +34,7 @@ sources:
   - SRC-SONY-V-ANTHROPIC-COMPLAINT-2026
   - SRC-DOE-V-GITHUB-MTD-2024
   - SRC-DOE-V-GITHUB-9THCIR-DOCKET
+  - SRC-DOE-V-GITHUB-9THCIR-OPINION
   - SRC-JPML-OPENAI-MDL-3143
   - SRC-IN-RE-OPENAI-OUTPUT-MTD-2025
   - SRC-GETTY-V-STABILITY-US-MTD-2026
@@ -226,7 +228,7 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 
 ## Verified Facts
 
-- [Thaler v. Perlmutter](CASE-THALER-V-PERLMUTTER.md) (D.C. Cir. Mar. 18, 2025) held that the Copyright Act requires human authorship and affirmed refusal to register a work attributed solely to a generative-AI system.[^1]
+- [Thaler v. Perlmutter](CASE-THALER-V-PERLMUTTER.md) (D.C. Cir. Mar. 18, 2025) held that the Copyright Act requires human authorship and affirmed refusal to register a work attributed solely to a generative-AI system. The Supreme Court denied certiorari on March 2, 2026.[^1][^37]
 - The Copyright Office’s January 2025 copyrightability report concluded that purely AI-generated material is not copyrightable and that prompts alone do not provide sufficient human control on current generally available technology.[^2]
 - [Thomson Reuters v. Ross Intelligence](CASE-THOMSON-REUTERS-V-ROSS.md) (D. Del. Feb. 11, 2025) rejected fair use for a non-generative legal-research AI trained on Westlaw headnotes to compete with Westlaw.[^3]
 - [Bartz v. Anthropic PBC](CASE-BARTZ-V-ANTHROPIC.md) (N.D. Cal. June 23, 2025) held that training Claude on books was transformative fair use but that a pirated permanent library was not; a $1.5 billion class settlement of piracy claims was finally approved July 20, 2026.[^4][^5]
@@ -239,7 +241,7 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 - Music copyright dockets are inventoried in [Music Copyright and Generative AI](TOPIC-AI-MUSIC-COPYRIGHT.md): [UMG v. Suno](CASE-UMG-V-SUNO.md) and [UMG v. Udio](CASE-UMG-V-UDIO.md) (sound recordings; partial dismissals; no U.S. fair-use holding), [Concord v. Anthropic](CASE-CONCORD-V-ANTHROPIC.md) (lyrics; secondary and DMCA claims survive dismissal; Concord II alleges torrenting), [BMG v. Anthropic](CASE-BMG-V-ANTHROPIC.md) (later publisher complaint; allegations only), [Sony Music Publishing v. Anthropic](CASE-SONY-V-ANTHROPIC.md) (later publisher complaint naming founders; allegations only), and [GEMA v. OpenAI](CASE-GEMA-V-OPENAI.md) (non-final German first-instance lyric judgment).[^11][^12][^13][^14][^15][^25][^26]
 - Image-generator dockets: [Andersen v. Stability AI](CASE-ANDERSEN-V-STABILITY.md) (artists’ class action; Copyright Act claims survive dismissal; DMCA dismissed), [Disney v. Midjourney](CASE-DISNEY-V-MIDJOURNEY.md) (studio character outputs; consolidated with Warner Bros. Discovery; discovery ongoing), and [Getty Images v. Stability AI](CASE-GETTY-V-STABILITY.md) (English trial; secondary copyright dismissed after training claims were abandoned; U.S. action pending after a false-CMI dismissal).[^16][^17][^18][^19][^27]
 - Dataset and Google models: [Kneschke v. LAION](CASE-KNESCHKE-V-LAION.md) (German TDM exceptions for compiling an open image-text dataset) and [In re Google Generative AI Copyright Litigation](CASE-IN-RE-GOOGLE-GEN-AI.md) (some models dismissed with prejudice; Bard/Gemini/Imagen claims remain).[^28][^29][^30]
-- Open-source code: [Doe 1 v. GitHub](CASE-DOE-V-GITHUB.md) (Copilot; DMCA § 1202(b) dismissed with prejudice; license-contract claims survived; Ninth Circuit argument February 11, 2026).[^20][^21]
+- Open-source code: [Doe 1 v. GitHub](CASE-DOE-V-GITHUB.md) (Copilot; DMCA § 1202(b) dismissed with prejudice and affirmed September 16, 2026; license-contract claims were not part of the appeal).[^20][^21][^38]
 
 
 [^1]: `SRC-THALER-V-PERLMUTTER-CADC` — 130 F.4th 1039 (D.C. Cir. 2025).
@@ -312,11 +314,15 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 
 [^35]: `SRC-WALTERS-V-OPENAI-SJ-2025` — Ga. Super. Ct. May 19, 2025.
 
+[^37]: `SRC-SCOTUS-25-449-DENIAL-ORDER` — Order list denying certiorari in No. 25-449 (March 2, 2026).
+
+[^38]: `SRC-DOE-V-GITHUB-9THCIR-OPINION` — Doe v. GitHub, No. 24-7700 (9th Cir. Sept. 16, 2026). Published opinion.
+
 ## Case map
 
 | Cluster | Leading OIR page | What is actually decided (as of sources cited) |
 | --- | --- | --- |
-| Output authorship | [Thaler](CASE-THALER-V-PERLMUTTER.md) | Machine listed as sole author cannot register. |
+| Output authorship | [Thaler](CASE-THALER-V-PERLMUTTER.md) | Machine listed as sole author cannot register. Certiorari denied March 2, 2026. |
 | Training vs piracy | [Bartz](CASE-BARTZ-V-ANTHROPIC.md) | Training fair use; pirated library not; piracy claims settled. |
 | Training market harm | [Kadrey](CASE-KADREY-V-META.md) | Fair use on this record; dilution theory undeveloped. |
 | Competing research AI | [Ross](CASE-THOMSON-REUTERS-V-ROSS.md) | Not fair use; tool was not generative. |
@@ -334,7 +340,7 @@ Generative AI is now a regular subject of civil litigation. The cases documented
 | Image model (UK / U.S.) | [Getty](CASE-GETTY-V-STABILITY.md) | UK: secondary copyright fails; limited TM; training claims abandoned. U.S.: false CMI out w/o prejudice; TM/UCL survive. |
 | Dataset TDM (DE) | [Kneschke](CASE-KNESCHKE-V-LAION.md) | Download for research/general TDM; opt-out not machine-readable as reported. |
 | Google generative models | [In re Google Gen. AI](CASE-IN-RE-GOOGLE-GEN-AI.md) | Some models out with prejudice; Bard/Gemini/Imagen remain. |
-| Open-source Copilot | [Doe v. GitHub](CASE-DOE-V-GITHUB.md) | DMCA CMI dismissed; contract claims live; 9th Cir. argued. |
+| Open-source Copilot | [Doe v. GitHub](CASE-DOE-V-GITHUB.md) | DMCA CMI dismissal affirmed Sept. 16, 2026; contract claims were not in the appeal. |
 | Chatbot harm (companion) | [Garcia](CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md) | Design-defect claims proceed; speech defense not established at 12(b)(6). |
 | Chatbot harm (ChatGPT cluster) | [Harm inventory](TOPIC-AI-HARM-LITIGATION.md) | Raine and JCCP 5431 pending; Lyons stay denied; Joshi and Florida AG pending; Walters SJ for OpenAI. |
 
@@ -420,12 +426,14 @@ Criminal and sanctions cases involving software authors remain on [Documented Pr
 34. `SRC-FLORIDA-V-OPENAI-COMPLAINT`: Florida AG civil complaint (2026).
 35. `SRC-WALTERS-V-OPENAI-SJ-2025`: Walters summary-judgment order (2025).
 36. `SRC-TJLP-JCCP-5431-2026`: Tech Justice JCCP update (2026).
+37. `SRC-SCOTUS-25-449-DENIAL-ORDER`: Order list denying certiorari in Thaler, No. 25-449 (March 2, 2026).
+38. `SRC-DOE-V-GITHUB-9THCIR-OPINION`: Doe v. GitHub Ninth Circuit opinion (Sept. 16, 2026).
 
 ## Research Debt
 
 - Add EU AI Act public-enforcement matters only with official documents.
 - Verify Garcia docket for any 2026 settlement or judgment before stating the case is resolved.
 - Biometric-privacy and employment AI cases are not yet in this inventory.
-- Add any Ninth Circuit opinion in Doe v. GitHub.
+- Track the district-court contract claims in Doe v. GitHub that the September 16, 2026 opinion did not decide.
 - Add Chicago Tribune and Britannica Perplexity complaints from those PDFs.
 - Remaining ChatGPT and Character.AI harm captions are tracked as research debt on [TOPIC-AI-HARM-LITIGATION](TOPIC-AI-HARM-LITIGATION.md).
