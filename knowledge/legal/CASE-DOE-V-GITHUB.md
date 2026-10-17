@@ -3,6 +3,7 @@ id: CASE-DOE-V-GITHUB
 title: Doe 1 v. GitHub, Inc.
 type: case
 status: draft
+monitor: true
 summary: Open-source developers’ action alleging that GitHub Copilot training and outputs stripped copyright-management information and breached open-source licenses; the district court dismissed DMCA claims with prejudice, allowed contract claims, and a Ninth Circuit interlocutory appeal was argued in February 2026.
 tags:
   - case

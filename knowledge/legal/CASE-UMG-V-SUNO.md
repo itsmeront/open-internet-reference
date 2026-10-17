@@ -3,6 +3,7 @@ id: CASE-UMG-V-SUNO
 title: UMG Recordings, Inc. v. Suno, Inc.
 type: case
 status: draft
+monitor: true
 summary: Pending District of Massachusetts copyright action in which major record labels allege that Suno copied sound recordings to train a generative music service; Suno asserts fair use, and Warner-affiliated plaintiffs later dismissed their claims with prejudice.
 tags:
   - case

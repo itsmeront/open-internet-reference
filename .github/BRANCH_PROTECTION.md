@@ -136,6 +136,9 @@ The `stale-check` job is informational only and should **not** be required
 
 ## Automated Workflows and Branch Protection
 
+The **Monitor open cases** workflow (`.github/workflows/monitor-cases.yml`) only
+updates a GitHub issue. It does not push to `main`.
+
 The **Generate Moderation Reports** workflow (`.github/workflows/moderation-reports.yml`)
 updates report files on a daily schedule. Because `main` requires pull requests,
 that workflow **cannot push directly to `main`**. It pushes to branch

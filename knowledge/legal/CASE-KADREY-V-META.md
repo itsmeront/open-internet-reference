@@ -3,6 +3,7 @@ id: CASE-KADREY-V-META
 title: Kadrey v. Meta Platforms, Inc.
 type: case
 status: draft
+monitor: true
 summary: Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025), granted Meta summary judgment that copying thirteen authors’ books to train Llama was fair use on that record, while leaving torrenting-distribution claims for later proceedings.
 tags:
   - case

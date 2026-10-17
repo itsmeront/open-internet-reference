@@ -14,6 +14,8 @@ sources:
   - SRC-TX-SB-2420-ENROLLED
   - SRC-CCIA-V-PAXTON-PI-ORDER
   - SRC-CA5-SB2420-STAY-ORDER
+  - SRC-SCOTUS-25A1390-DENIAL-ORDER
+  - SRC-SCOTUS-25A1389-DENIAL-ORDER
 relationships:
   - subject: STAT-TX-APP-STORE-ACCOUNTABILITY
     predicate: cites
@@ -30,7 +32,7 @@ relationships:
     object: TOPIC-APP-STORE-AGE-VERIFICATION
     sources:
       - SRC-TX-SB-2420-ENROLLED
-last_verified: "2026-08-08"
+last_verified: "2026-10-17"
 enactment_date: "2025"
 ---
 
@@ -54,7 +56,8 @@ Texas Senate Bill 2420 (89th Regular Session), the App Store Accountability Act,
 - Developers must assign age ratings based on those categories, notify stores of significant changes affecting ratings/privacy/monetization, and implement systems to use store-provided age category and consent information.[^1]
 - A violation is a deceptive trade practice actionable under Business & Commerce Code Chapter 17, Subchapter E.[^1]
 - Section 3 of the enrolled Act states that the Act takes effect January 1, 2026.[^1]
-- A Western District of Texas preliminary injunction blocked enforcement on December 23, 2025; the Fifth Circuit later stayed that injunction pending appeal (see case page).[^2][^3]
+- A Western District of Texas preliminary injunction blocked enforcement on December 23, 2025; the Fifth Circuit stayed that injunction pending appeal on June 4, 2026.[^2][^3]
+- On July 6, 2026, the Supreme Court denied emergency applications to vacate that stay in Nos. 25A1390 (CCIA) and 25A1389 (Students Engaged in Advancing Texas).[^4][^5]
 
 ## Key Provisions
 
@@ -69,12 +72,14 @@ Texas Senate Bill 2420 (89th Regular Session), the App Store Accountability Act,
 
 ## Litigation Status Snapshot
 
-As of last verification, district-court preliminary injunctions were stayed on appeal, and the Supreme Court declined emergency relief vacating the stay, leaving the statute enforceable while merits litigation continues. Details and citations: [CASE-CCIA-V-PAXTON-SB2420](CASE-CCIA-V-PAXTON-SB2420.md).
+As of October 17, 2026, the district-court preliminary injunctions remain stayed, and the Supreme Court’s July 6, 2026 denials left the statute enforceable while the Fifth Circuit merits appeal continues. Details and citations: [CASE-CCIA-V-PAXTON-SB2420](CASE-CCIA-V-PAXTON-SB2420.md).
 
 
 [^1]: `SRC-TX-SB-2420-ENROLLED` — Texas SB 2420 enrolled text. Primary legislative text.
 [^2]: `SRC-CCIA-V-PAXTON-PI-ORDER` — W.D. Tex. order granting preliminary injunction (Dec. 23, 2025).
 [^3]: `SRC-CA5-SB2420-STAY-ORDER` — Fifth Circuit stay pending appeal (June 4, 2026).
+[^4]: `SRC-SCOTUS-25A1390-DENIAL-ORDER` — Supreme Court order list denying No. 25A1390 (July 6, 2026). Primary order.
+[^5]: `SRC-SCOTUS-25A1389-DENIAL-ORDER` — Supreme Court order list denying No. 25A1389 (July 6, 2026). Primary order.
 
 ## Relationships
 
@@ -87,6 +92,8 @@ As of last verification, district-court preliminary injunctions were stayed on a
 1. `SRC-TX-SB-2420-ENROLLED`: Texas SB 2420 — App Store Accountability Act (Enrolled Text).
 2. `SRC-CCIA-V-PAXTON-PI-ORDER`: CCIA v. Paxton PI order (W.D. Tex. Dec. 23, 2025).
 3. `SRC-CA5-SB2420-STAY-ORDER`: Fifth Circuit stay order (June 4, 2026).
+4. `SRC-SCOTUS-25A1390-DENIAL-ORDER`: Supreme Court Order List — Denial of No. 25A1390 (July 6, 2026).
+5. `SRC-SCOTUS-25A1389-DENIAL-ORDER`: Supreme Court Order List — Denial of No. 25A1389 (July 6, 2026).
 
 ## Research Debt
 

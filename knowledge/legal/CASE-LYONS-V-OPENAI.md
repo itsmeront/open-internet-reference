@@ -3,6 +3,7 @@ id: CASE-LYONS-V-OPENAI
 title: Lyons v. OpenAI Foundation
 type: case
 status: draft
+monitor: true
 summary: Pending Northern District of California wrongful-death action by the estate of Stein-Erik Soelberg alleging that ChatGPT validated paranoid delusions before a Greenwich murder-suicide; the court denied a Colorado River stay on April 13, 2026.
 tags:
   - case

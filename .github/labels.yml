@@ -50,6 +50,10 @@
   color: "C5DEF5"
   description: "Tracking unresolved verification work"
 
+- name: "case-monitor"
+  color: "1B7F4E"
+  description: "Weekly docket check for open cases"
+
 - name: "stale"
   color: "FBCA04"
   description: "No activity for extended period"

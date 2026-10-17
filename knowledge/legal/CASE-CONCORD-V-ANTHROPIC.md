@@ -3,6 +3,7 @@ id: CASE-CONCORD-V-ANTHROPIC
 title: Concord Music Group, Inc. v. Anthropic PBC
 type: case
 status: draft
+monitor: true
 summary: Pending Northern District of California publisher actions alleging that Anthropic copied song lyrics to train Claude and that outputs reproduce those lyrics; the court denied Anthropic’s second motion to dismiss secondary-infringement and DMCA claims in Concord I, and a later Concord II complaint alleges torrenting of books containing compositions.
 tags:
   - case

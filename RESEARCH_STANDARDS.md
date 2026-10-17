@@ -131,3 +131,5 @@ Research debt should be tracked explicitly when:
 - Per-fact footnotes need manual review to confirm the correct source mapping.
 - A relationship is plausible but not yet evidence-backed.
 - A page needs domain expert review or inclusion in a verified-core audit.
+
+Do not add a standing “monitor this case for appeals” research-debt line. Open cases opt in with `monitor: true` on the case page. `.github/workflows/monitor-cases.yml` refreshes one GitHub issue each week listing those pages. A debt item is still right when a particular missing filing or a named next order can be closed.

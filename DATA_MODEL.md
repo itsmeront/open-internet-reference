@@ -97,6 +97,18 @@ Use `filing_date` for civil initiating pleadings (complaint, petition, or equiva
 
 Use `offense_date` for the date of the alleged act itself when sources give a specific day or month. For multi-year charged periods, either omit `offense_date`, use the start date with a research-debt note, or create a dedicated event page — do not invent a single day.
 
+### Open-case monitor
+
+Case pages may set `monitor: true` when the litigation can still change (a pending appeal, an awaited merits order, an open criminal case). The weekly GitHub chore lists those pages for a docket check. It does not add research debt.
+
+Set `monitor: false` or remove the field when the case is concluded. A missing source for an order that already exists stays research debt; `monitor` is only the signal that someone should look again later.
+
+```yaml
+type: case
+status: draft
+monitor: true
+```
+
 Document publication dates, access dates, and `last_verified` appear on individual page footers instead of the timeline.
 
 ## Entity Types

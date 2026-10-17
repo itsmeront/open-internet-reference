@@ -3,6 +3,7 @@ id: CASE-GARCIA-V-CHARACTER-TECHNOLOGIES
 title: Garcia v. Character Technologies, Inc.
 type: case
 status: draft
+monitor: true
 summary: Garcia v. Character Technologies, Inc., No. 6:24-cv-01903 (M.D. Fla.), is a pending wrongful-death and product-liability action over a Character.AI chatbot; the court allowed most claims to proceed in May 2025 and declined to treat chatbot output as protected speech at the pleading stage.
 tags:
   - case

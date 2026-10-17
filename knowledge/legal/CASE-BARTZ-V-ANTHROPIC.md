@@ -3,6 +3,7 @@ id: CASE-BARTZ-V-ANTHROPIC
 title: Bartz v. Anthropic PBC
 type: case
 status: draft
+monitor: true
 summary: Bartz v. Anthropic PBC held that using purchased books to train Claude was transformative fair use but that building a permanent library from pirated copies was not, and the court later approved a $1.5 billion class settlement of the piracy claims.
 tags:
   - case

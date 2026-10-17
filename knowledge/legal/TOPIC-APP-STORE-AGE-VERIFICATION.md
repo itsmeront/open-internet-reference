@@ -19,6 +19,8 @@ sources:
   - SRC-CA5-SB2420-STAY-ORDER
   - SRC-CCIA-SB2420-LITIGATION-PAGE
   - SRC-TX-TRIBUNE-SB2420-SCOTUS-2026
+  - SRC-SCOTUS-25A1390-DENIAL-ORDER
+  - SRC-SCOTUS-25A1389-DENIAL-ORDER
   - SRC-LA-ACT-185-ASAA
   - SRC-AL-HB161-ENROLLED
   - SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026
@@ -43,7 +45,7 @@ relationships:
     object: TOPIC-FIRST-AMENDMENT
     sources:
       - SRC-CCIA-V-PAXTON-PI-ORDER
-last_verified: "2026-08-08"
+last_verified: "2026-10-17"
 ---
 
 # App Store and Operating System Age-Verification Laws
@@ -67,7 +69,7 @@ Texas SB 2420 and related state acts require commercially reasonable age verific
 | Jurisdiction | Law | Model | Key dates | Litigation / status (as of 2026-08-08) |
 |---|---|---|---|---|
 | [**California**](STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) | [AB 1043 / Civ. Code §§ 1798.500–1798.505](STAT-CA-DIGITAL-AGE-ASSURANCE-ACT.md) | OS age-bracket signals to apps | Chaptered 2025-10-13; effective 2026-01-01; **operative 2027-01-01**; legacy by 2027-07-01 | Enacted; no OIR-documented constitutional challenge yet[^1][^2] |
-| [**Texas**](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | [SB 2420 / Bus. & Com. Code ch. 121](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | App-store AV + parental consent + developer ratings | **Effective 2026-01-01** | [PI granted 2025-12-23; 5th Cir. stay 2026-06-04; SCOTUS denied emergency vacatur (July 2026 per CCIA) → **enforceable pending appeal**](CASE-CCIA-V-PAXTON-SB2420.md)[^3][^4][^5][^6][^7] |
+| [**Texas**](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | [SB 2420 / Bus. & Com. Code ch. 121](STAT-TX-APP-STORE-ACCOUNTABILITY.md) | App-store AV + parental consent + developer ratings | **Effective 2026-01-01** | [PI granted 2025-12-23; 5th Cir. stay 2026-06-04; SCOTUS denied vacatur 2026-07-06 (Nos. 25A1390, 25A1389) → **enforceable pending appeal**](CASE-CCIA-V-PAXTON-SB2420.md)[^3][^4][^5][^11][^12] |
 | **Utah** | [ASAA; amended by HB 498 (per secondary)](../../bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md) | App-store AV model (amended) | Obligations delayed to **2027-05-06** (per secondary) | [CCIA challenge filed Feb 2026; **voluntarily dismissed 2026-04-21** after amendments removing AG enforcement / delaying ops](../../bibliography/legal/SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026.md)[^10] |
 | [**Louisiana**](../../bibliography/legal/SRC-LA-ACT-185-ASAA.md) | [Act No. 185 (2026)](../../bibliography/legal/SRC-LA-ACT-185-ASAA.md) | App-store AV model (re-enacted/delayed) | Substantive provisions **effective 2027-07-01** | Enacted delay/replacement text; monitor new challenges[^8] |
 | [**Alabama**](../../bibliography/legal/SRC-AL-HB161-ENROLLED.md) | [HB 161 (enrolled 2026)](../../bibliography/legal/SRC-AL-HB161-ENROLLED.md) | App-store AV model | **Effective 2027-01-01** | Enacted; AG rulemaking contemplated; monitor challenges[^9] |
@@ -78,8 +80,10 @@ Texas SB 2420 and related state acts require commercially reasonable age verific
 
 1. **Dec 23, 2025** — W.D. Tex. (Pitman) preliminary injunction: Act likely unconstitutional.[^4]
 2. **June 4, 2026** — Fifth Circuit stays injunctions pending appeal → Texas may enforce.[^5]
-3. **July 2026** — Supreme Court denies emergency application to vacate stay (CCIA timeline).[^6]
-4. **Merits appeal ongoing** — no final appellate holding on constitutionality yet.[^6][^7]
+3. **July 6, 2026** — Supreme Court denies the applications to vacate the stay (Nos. 25A1390 and 25A1389).[^11][^12]
+4. **Merits appeal ongoing** — the July 6 denials are not a final holding on constitutionality.[^11][^12]
+
+Party and news chronologies match that outcome; the order lists control the date.[^6][^7]
 
 ## Why this matters for open internet systems
 
@@ -89,7 +93,7 @@ These laws shift age gating into infrastructure layers (stores and OS APIs). Eff
 
 - California Title 1.81.9 requires OS age interfaces and age-bracket signals; operative January 1, 2027.[^1]
 - Texas SB 2420 takes effect January 1, 2026 and imposes app-store age verification and parental consent.[^3]
-- Texas enforcement was enjoined in December 2025, then a Fifth Circuit stay (June 4, 2026) and SCOTUS non-vacatur left the law enforceable pending appeal.[^4][^5][^6]
+- Texas enforcement was enjoined in December 2025. A Fifth Circuit stay pending appeal on June 4, 2026, and Supreme Court denials on July 6, 2026 (Nos. 25A1390 and 25A1389), left the law enforceable pending appeal.[^4][^5][^11][^12]
 - Louisiana Act 185 states that sections 2 through 4 become effective July 1, 2027.[^8]
 - Alabama HB 161 enrolled text states an effective date of January 1, 2027.[^9]
 - Secondary reporting states Utah’s ASAA obligations were delayed to May 6, 2027 and that CCIA’s Utah challenge was voluntarily dismissed April 21, 2026.[^10]
@@ -101,10 +105,12 @@ These laws shift age gating into infrastructure layers (stores and OS APIs). Eff
 [^4]: `SRC-CCIA-V-PAXTON-PI-ORDER` — W.D. Tex. PI order (Dec. 23, 2025).
 [^5]: `SRC-CA5-SB2420-STAY-ORDER` — Fifth Circuit stay (June 4, 2026).
 [^6]: `SRC-CCIA-SB2420-LITIGATION-PAGE` — CCIA litigation timeline (party secondary).
-[^7]: `SRC-TX-TRIBUNE-SB2420-SCOTUS-2026` — Texas Tribune on SCOTUS non-intervention (journalism; date tension with CCIA).
+[^7]: `SRC-TX-TRIBUNE-SB2420-SCOTUS-2026` — Texas Tribune on SCOTUS non-intervention (journalism; URL dated May 28, updated July 6).
 [^8]: `SRC-LA-ACT-185-ASAA` — Louisiana Act No. 185 enrolled text.
 [^9]: `SRC-AL-HB161-ENROLLED` — Alabama HB 161 enrolled PDF.
 [^10]: `SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026` — Alston & Bird alert on Utah amendments and dismissal (secondary).
+[^11]: `SRC-SCOTUS-25A1390-DENIAL-ORDER` — Supreme Court order list denying No. 25A1390 (July 6, 2026). Primary order.
+[^12]: `SRC-SCOTUS-25A1389-DENIAL-ORDER` — Supreme Court order list denying No. 25A1389 (July 6, 2026). Primary order.
 
 ## Relationships
 
@@ -125,6 +131,8 @@ These laws shift age gating into infrastructure layers (stores and OS APIs). Eff
 8. `SRC-LA-ACT-185-ASAA`: Louisiana Act No. 185.
 9. `SRC-AL-HB161-ENROLLED`: Alabama HB 161 Enrolled.
 10. `SRC-ALSTON-UTAH-ASAA-DISMISSAL-2026`: Alston & Bird Utah ASAA dismissal alert.
+11. `SRC-SCOTUS-25A1390-DENIAL-ORDER`: Supreme Court Order List — Denial of No. 25A1390 (July 6, 2026).
+12. `SRC-SCOTUS-25A1389-DENIAL-ORDER`: Supreme Court Order List — Denial of No. 25A1389 (July 6, 2026).
 
 ## Research Debt
 
@@ -132,6 +140,5 @@ These laws shift age gating into infrastructure layers (stores and OS APIs). Eff
 - Create dedicated STAT pages for Utah, Louisiana, and Alabama when OIR expands beyond the overview.
 - Track additional 2026–2027 state ASAA bills (and failures) with primary bill status pages.
 - Separate topic or pages for **website** age-verification laws (e.g., Free Speech Coalition / *Moody*-adjacent line) and cross-link.
-- Resolve SCOTUS denial exact date via Supreme Court docket.
 - Document Apple/Google implementation notices and any multi-state compliance architecture once public.
 - Note interaction with California Age-Appropriate Design Code and COPPA.

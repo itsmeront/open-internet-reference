@@ -3,6 +3,7 @@ id: CASE-GEMA-V-OPENAI
 title: GEMA v. OpenAI (LG München I)
 type: case
 status: draft
+monitor: true
 summary: First-instance Munich judgment holding that memorization of nine German song lyrics in OpenAI models 4 and 4o, and output of those lyrics, infringed copyright and was not covered by the text-and-data-mining exception; the decision is not final.
 tags:
   - case
