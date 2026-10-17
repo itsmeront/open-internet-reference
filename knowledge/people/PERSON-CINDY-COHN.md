@@ -3,7 +3,7 @@ id: PERSON-CINDY-COHN
 title: Cindy Cohn
 type: attorney
 status: draft
-summary: Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions.
+summary: Cindy Cohn is a civil liberties attorney who led the Electronic Frontier Foundation from 2015 until June 2026 and was lead attorney in Bernstein v. DOJ. EFF said she was not retiring. As of July 10, 2026 she had no public practice or intake path, so she is not a contact for new legal work.
 tags:
   - attorney
   - digital-rights
@@ -13,6 +13,10 @@ tags:
 sources:
   - SRC-COHN-EFF-BIO
   - SRC-COHN-EFF-DEPARTURE
+  - SRC-COHN-EFF-OZER-WELCOME
+  - SRC-COHN-EFF-FAREWELL
+  - SRC-COHN-SF-STANDARD-2026
+  - SRC-EFF-CONTACT
   - SRC-COHN-FOSSFORCE
   - SRC-JEWEL-V-NSA-EFF
   - SRC-BERNSTEIN-EFF-25
@@ -28,6 +32,11 @@ relationships:
     object: SRC-COHN-EFF-DEPARTURE
     sources:
       - SRC-COHN-EFF-DEPARTURE
+  - subject: PERSON-CINDY-COHN
+    predicate: cites
+    object: SRC-COHN-EFF-FAREWELL
+    sources:
+      - SRC-COHN-EFF-FAREWELL
   - subject: PERSON-CINDY-COHN
     predicate: cites
     object: SRC-COHN-FOSSFORCE
@@ -59,14 +68,14 @@ relationships:
     sources:
       - SRC-BERNSTEIN-EFF-25
       - SRC-BERNSTEIN-JUSTIA
-last_verified: "2026-07-19"
+last_verified: "2026-10-17"
 ---
 
 # Cindy Cohn
 
 ## Summary
 
-Cindy Cohn is an American civil liberties attorney specializing in internet law who served as executive director of the Electronic Frontier Foundation from 2015 to 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions. After departing EFF in June 2026, she announced plans to return to courtroom litigation.
+Cindy Cohn is a civil liberties attorney who served as executive director of the Electronic Frontier Foundation from 2015 until June 2026 and was lead attorney in Bernstein v. DOJ, the landmark First Amendment challenge to cryptography export restrictions. She left staff on June 16, 2026. EFF said she was not retiring, and she wrote that she hoped to return to court. As of July 10, 2026 she had not announced a firm, a docket, or a way to hire her. She is not a contact for new legal work.
 
 ## Verified Facts
 
@@ -77,10 +86,11 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 - As legal director, she spearheaded EFF's lawsuits challenging the NSA's mass surveillance programs, including Jewel v. NSA, First Unitarian Church v. NSA, and Hepting v. AT&T.[^3]
 - Jewel v. NSA (filed 2008) was ultimately rejected by the Supreme Court in June 2022 without a ruling on the merits, dismissed on state secrets grounds. No court ever ruled on whether the mass surveillance violated constitutional or statutory law.[^3]
 - The Hepting v. AT&T case ended after Congress passed the FISA Amendments Act granting retroactive immunity to telecommunications companies.[^3]
-- She served as Executive Director from 2015 to June 1, 2026.[^2]
-- EFF announced in September 2025 that Cohn would step down by mid-2026 after more than 25 years with the organization.[^2]
-- Nicole Ozer was announced as her successor, effective June 1, 2026.[^4]
-- After departing EFF, Cohn announced plans to return to courtroom litigation.[^4]
+- EFF announced in September 2025 that Cohn would step down by mid-2026 after more than 25 years with the organization, and that she planned to remain through a transition into early summer.[^2]
+- On June 1, 2026, EFF said Nicole Ozer succeeded Cohn as executive director and that Cohn was leaving later that month “not to retire, but to find a role that puts her back in the courtroom.” The same post says she would remain part of the EFF community. It names no firm and no intake path.[^7] FOSS Force reported that plan the same day.[^4]
+- On June 16, 2026, Cohn wrote that the day was her last day at EFF. She said that after a few months off she planned to get back into the fight for justice, “likely heading back into the courtroom.”[^8]
+- On July 10, 2026, she told the San Francisco Standard she was “in this interregnum, talking to a bunch of organizations” about a next role and was “not quite sure yet,” and that she was “definitely not done.”[^9]
+- She is not a contact for new legal matters. EFF’s contact page is the organization’s public path for legal assistance.[^10]
 - She has been named one of the 100 most influential lawyers in America.[^1]
 - Cohn is a graduate of the University of Michigan Law School.[^1]
 - Prior to joining EFF, she was a civil litigator in private practice handling technology-related cases for 10 years.[^1]
@@ -89,7 +99,7 @@ Cindy Cohn is an American civil liberties attorney specializing in internet law 
 
 ## Historical Context
 
-Cohn's career at EFF spans the major digital rights battles of the internet era. She established the code-as-speech doctrine (Bernstein), fought mass surveillance (NSA cases), defended encryption rights, and advocated for CFAA reform after the Aaron Swartz case. Her departure in June 2026 marks the end of an era at EFF, though her announced return to courtroom litigation suggests continued involvement in digital rights cases.
+Cohn's career at EFF spans the major digital rights battles of the internet era. She established the code-as-speech doctrine (Bernstein), fought mass surveillance (NSA cases), defended encryption rights, and advocated for CFAA reform after the Aaron Swartz case. Her staff role ended on June 16, 2026. Her statements about returning to court describe a plan, not a practice that is taking clients.
 
 
 [^1]: `SRC-COHN-EFF-BIO` — Cindy Cohn EFF Staff Biography (archived; original URL returns 403). Self-reported profile; corroboration pending.
@@ -104,14 +114,23 @@ Cohn's career at EFF spans the major digital rights battles of the internet era.
 
 [^6]: `SRC-BERNSTEIN-JUSTIA` — Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia). Primary authority.
 
+[^7]: `SRC-COHN-EFF-OZER-WELCOME` — EFF post on Nicole Ozer’s start (byline June 1, 2026). Official post.
+
+[^8]: `SRC-COHN-EFF-FAREWELL` — Cindy Cohn, “Onward, Friends” (June 16, 2026). Official post.
+
+[^9]: `SRC-COHN-SF-STANDARD-2026` — San Francisco Standard interview (July 10, 2026). Edited interview.
+
+[^10]: `SRC-EFF-CONTACT` — EFF contact page. Official organizational record.
+
 ## Relevance to Open Source and Software Companies
 
-Cohn's successful litigation in Bernstein v. DOJ established that source code is protected speech under the First Amendment, directly benefiting all software companies and developers. The ruling led to regulatory changes that enabled open source encryption software to be published internationally, paving the way for modern internet commerce and secure communications. Her return to courtroom litigation after departing EFF may provide a direct contact path for software companies facing constitutional challenges.
+Cohn's litigation in Bernstein v. DOJ established that source code is protected speech under the First Amendment. The ruling led to regulatory changes that made it easier to publish encryption software online. That history is not a current engagement path. Requests for EFF legal help go through the organization’s contact page. Cohn had no public firm or intake path as of July 10, 2026.[^6][^10]
 
 ## Relationships
 
 - `PERSON-CINDY-COHN` cites `SRC-COHN-EFF-BIO`.
 - `PERSON-CINDY-COHN` cites `SRC-COHN-EFF-DEPARTURE`.
+- `PERSON-CINDY-COHN` cites `SRC-COHN-EFF-FAREWELL`.
 - `PERSON-CINDY-COHN` cites `SRC-COHN-FOSSFORCE`.
 - `PERSON-CINDY-COHN` cites `SRC-JEWEL-V-NSA-EFF`.
 - `PERSON-CINDY-COHN` cites `SRC-BERNSTEIN-EFF-25`.
@@ -127,10 +146,14 @@ Cohn's successful litigation in Bernstein v. DOJ established that source code is
 4. `SRC-COHN-FOSSFORCE`: FOSS Force — Cohn Returns to the Courtroom.
 5. `SRC-BERNSTEIN-EFF-25`: EFF at 25 — Remembering the Case that Established Code as Speech.
 6. `SRC-BERNSTEIN-JUSTIA`: Bernstein v. United States Department of Justice, 176 F.3d 1132 (9th Cir. 1999) (Justia).
+7. `SRC-COHN-EFF-OZER-WELCOME`: EFF post on Nicole Ozer’s start (byline June 1, 2026).
+8. `SRC-COHN-EFF-FAREWELL`: Cindy Cohn, “Onward, Friends” (June 16, 2026).
+9. `SRC-COHN-SF-STANDARD-2026`: San Francisco Standard interview (July 10, 2026).
+10. `SRC-EFF-CONTACT`: EFF contact page.
 
 ## Research Debt
 
-- Verify whether Cohn has established a new practice or affiliation since June 2026.
+- Verify whether Cohn has announced a firm, docket, or intake path after July 10, 2026.
 - Add detail on her CFAA reform work after Aaron Swartz with primary advocacy or legislative sources.
 - Create `CASE-*` pages and primary sources for `First Unitarian Church v. NSA`, `Hepting v. AT&T`, and `OPG v. Diebold`.
 - Corroborate self-reported biography claims with independent sources where possible.

@@ -34,3 +34,5 @@ Official EFF contact page. Contact details are time-sensitive and should be reve
 - Electronic Frontier Foundation
 - Digital civil liberties organizations
 - Outreach contact verification
+- `PERSON-CINDY-COHN`
+- `CONTACT-EFF`

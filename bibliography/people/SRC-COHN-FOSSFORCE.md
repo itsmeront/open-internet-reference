@@ -26,7 +26,7 @@ last_verified: "2026-06-25"
 
 ## Reliability Notes
 
-FOSS Force technology news coverage. Reports Cohn's departure from EFF and her stated plan to return to courtroom litigation. Secondary source; facts should be corroborated with primary sources where possible.
+FOSS Force technology news coverage, published June 1, 2026. It reports that Cohn was leaving the executive director role to return to courtroom work rather than to retire. EFF’s own June 1 and June 16, 2026 posts are the primary record of that plan. A July 10, 2026 interview is the later record that she had not yet chosen a role.
 
 ## Used For
 
