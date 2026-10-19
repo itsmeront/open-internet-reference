@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-10-17 09:53 UTC
+Last updated: 2026-10-19 11:34 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,20 +8,22 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
+| Open PRs awaiting review | 1 |
 | AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
-| Draft content items | 397 |
+| Draft content items | 411 |
 | Items needing sources | 0 |
 | Stale verifications (>6 months) | 0 |
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#153](https://github.com/itsmeront/open-internet-reference/pull/153) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
 
 ## Draft Content Needing Attention
 
-### 📋 Draft (397)
+### 📋 Draft (411)
 
 | ID | Title | Path |
 |---|-------|------|
@@ -46,7 +48,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | `CASE-KNESCHKE-V-LAION` | Kneschke v. LAION e.V. | `knowledge/legal/CASE-KNESCHKE-V-LAION.md` |
 | `CASE-DOW-JONES-V-PERPLEXITY` | Dow Jones & Co. v. Perplexity AI, Inc. | `knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md` |
 
-*...and 377 more*
+*...and 391 more*
 
 ## Stale Verifications
 

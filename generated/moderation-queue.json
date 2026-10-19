@@ -1,14 +1,31 @@
 {
-  "generated_at": "2026-10-17T09:53:49.905200Z",
+  "generated_at": "2026-10-19T11:34:51.908171Z",
   "summary": {
-    "open_prs": 0,
+    "open_prs": 1,
     "ai_prs": 0,
     "stale_prs": 0,
-    "draft_content": 397,
+    "draft_content": 411,
     "needs_sources": 0,
     "stale_verifications": 0
   },
-  "pull_requests": [],
+  "pull_requests": [
+    {
+      "number": 153,
+      "title": "chore: update moderation and taxonomy reports [automated]",
+      "author": "app/github-actions",
+      "labels": [],
+      "areas": [
+        "website"
+      ],
+      "age_days": 1,
+      "stale_days": 1,
+      "is_ai": false,
+      "is_draft": false,
+      "needs_review": false,
+      "is_stale": false,
+      "priority": 0
+    }
+  ],
   "draft_content": [
     {
       "path": "knowledge/_templates/knowledge-page.md",
@@ -196,7 +213,7 @@
       "id": "CASE-THALER-V-PERLMUTTER",
       "title": "Thaler v. Perlmutter",
       "status": "draft",
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-10-17",
       "tags": [
         "case",
         "copyright",
@@ -475,7 +492,7 @@
       "id": "TOPIC-APP-STORE-AGE-VERIFICATION",
       "title": "App Store and Operating System Age-Verification Laws",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-10-17",
       "tags": [
         "age-verification",
         "first-amendment",
@@ -555,7 +572,7 @@
       "id": "CASE-BARTZ-V-ANTHROPIC",
       "title": "Bartz v. Anthropic PBC",
       "status": "draft",
-      "last_verified": "2026-08-22",
+      "last_verified": "2026-10-17",
       "tags": [
         "case",
         "copyright",
@@ -680,7 +697,7 @@
       "id": "CASE-DOE-V-GITHUB",
       "title": "Doe 1 v. GitHub, Inc.",
       "status": "draft",
-      "last_verified": "2026-09-02",
+      "last_verified": "2026-10-17",
       "tags": [
         "case",
         "copyright",
@@ -765,7 +782,7 @@
       "id": "CASE-CCIA-V-PAXTON-SB2420",
       "title": "CCIA v. Paxton (Texas SB 2420 / App Store Accountability Act)",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-10-17",
       "tags": [
         "age-verification",
         "first-amendment",
@@ -1101,7 +1118,7 @@
       "id": "STAT-TX-APP-STORE-ACCOUNTABILITY",
       "title": "Texas App Store Accountability Act (SB 2420 / Bus. & Com. Code ch. 121)",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-10-17",
       "tags": [
         "age-verification",
         "first-amendment",
@@ -1723,7 +1740,7 @@
       "id": "PERSON-CINDY-COHN",
       "title": "Cindy Cohn",
       "status": "draft",
-      "last_verified": "2026-07-19",
+      "last_verified": "2026-10-17",
       "tags": [
         "attorney",
         "digital-rights",
@@ -2732,6 +2749,20 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-DOE-V-GITHUB-9THCIR-OPINION.md",
+      "id": "SRC-DOE-V-GITHUB-9THCIR-OPINION",
+      "title": "Doe v. GitHub, Inc., No. 24-7700 (9th Cir. Sept. 16, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence",
+        "open-source-software"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-CONCORD-V-ANTHROPIC-DOCKET.md",
       "id": "SRC-CONCORD-V-ANTHROPIC-DOCKET",
       "title": "Concord Music Group, Inc. v. Anthropic PBC, CourtListener docket (N.D. Cal. No. 5:24-cv-03811)",
@@ -2816,6 +2847,19 @@
       "title": "LG M\u00fcnchen I, Endurteil v. 11.11.2025 \u2013 42 O 14139/24 (GEMA v. OpenAI)",
       "status": "draft",
       "last_verified": "2026-08-22",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SCOTUS-25-449-DENIAL-ORDER.md",
+      "id": "SRC-SCOTUS-25-449-DENIAL-ORDER",
+      "title": "Supreme Court Order List \u2014 Certiorari Denied in No. 25-449 (March 2, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
       "tags": [
         "source",
         "case",
@@ -3059,6 +3103,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-CA5-SB2420-ARGUMENT-CALENDAR.md",
+      "id": "SRC-CA5-SB2420-ARGUMENT-CALENDAR",
+      "title": "Fifth Circuit Sitting Calendar \u2014 August 4, 2026 (Nos. 25-51073 and 26-50001)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-GETTY-V-STABILITY-US-MTD-2026.md",
       "id": "SRC-GETTY-V-STABILITY-US-MTD-2026",
       "title": "Getty Images (US), Inc. v. Stability AI, Ltd., Order on Motion to Dismiss (N.D. Cal. Apr. 23, 2026)",
@@ -3107,6 +3164,19 @@
         "source",
         "case",
         "computer-crime"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1390-APPLICATION.md",
+      "id": "SRC-SCOTUS-25A1390-APPLICATION",
+      "title": "CCIA Emergency Application to Vacate Stay \u2014 No. 25A1390 (June 10, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
       ]
     },
     {
@@ -3252,6 +3322,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1389-DENIAL-ORDER.md",
+      "id": "SRC-SCOTUS-25A1389-DENIAL-ORDER",
+      "title": "Supreme Court Order List \u2014 Denial of No. 25A1389 (July 6, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-KNESCHKE-OLG-HAMBURG-2025.md",
       "id": "SRC-KNESCHKE-OLG-HAMBURG-2025",
       "title": "Kneschke v. LAION e.V., OLG Hamburg press report, 5 U 104/24 (Dec. 10, 2025)",
@@ -3262,6 +3345,32 @@
         "case",
         "copyright",
         "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SCOTUS-25-449-DOCKET.md",
+      "id": "SRC-SCOTUS-25-449-DOCKET",
+      "title": "Supreme Court Docket \u2014 Thaler v. Perlmutter, No. 25-449",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1390-APPENDIX.md",
+      "id": "SRC-SCOTUS-25A1390-APPENDIX",
+      "title": "Appendix to CCIA Emergency Application \u2014 No. 25A1390",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
       ]
     },
     {
@@ -3373,6 +3482,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1389-DOCKET.md",
+      "id": "SRC-SCOTUS-25A1389-DOCKET",
+      "title": "Supreme Court Docket \u2014 Students Engaged in Advancing Texas v. Paxton, No. 25A1389",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-GEMA-V-OPENAI-PRESS-2025.md",
       "id": "SRC-GEMA-V-OPENAI-PRESS-2025",
       "title": "Landgericht M\u00fcnchen I, Pressemitteilung 11/2025 (GEMA v. OpenAI)",
@@ -3416,7 +3538,7 @@
       "id": "SRC-TX-TRIBUNE-SB2420-SCOTUS-2026",
       "title": "Texas Tribune \u2014 Supreme Court Lets Texas App Age Verification Law Stay in Effect",
       "status": "draft",
-      "last_verified": "2026-08-08",
+      "last_verified": "2026-10-17",
       "tags": [
         "source",
         "case",
@@ -3796,6 +3918,19 @@
       ]
     },
     {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1390-DOCKET.md",
+      "id": "SRC-SCOTUS-25A1390-DOCKET",
+      "title": "Supreme Court Docket \u2014 Computer & Communications Industry Association v. Paxton, No. 25A1390",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
+      ]
+    },
+    {
       "path": "bibliography/legal/SRC-BMG-V-ANTHROPIC-COMPLAINT.md",
       "id": "SRC-BMG-V-ANTHROPIC-COMPLAINT",
       "title": "BMG Rights Management (US) LLC v. Anthropic PBC, Complaint (N.D. Cal. Mar. 17, 2026)",
@@ -3806,6 +3941,19 @@
         "case",
         "copyright",
         "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-SCOTUS-25A1390-DENIAL-ORDER.md",
+      "id": "SRC-SCOTUS-25A1390-DENIAL-ORDER",
+      "title": "Supreme Court Order List \u2014 Denial of No. 25A1390 (July 6, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "case",
+        "age-verification",
+        "first-amendment"
       ]
     },
     {
@@ -3866,6 +4014,19 @@
       "title": "Andersen v. Stability AI Ltd., Order on Motions to Dismiss FAC (N.D. Cal. Aug. 12, 2024)",
       "status": "draft",
       "last_verified": "2026-09-02",
+      "tags": [
+        "source",
+        "case",
+        "copyright",
+        "artificial-intelligence"
+      ]
+    },
+    {
+      "path": "bibliography/legal/SRC-BARTZ-23F-ABEYANCE-ORDER.md",
+      "id": "SRC-BARTZ-23F-ABEYANCE-ORDER",
+      "title": "Bartz v. Anthropic, Ninth Circuit Order Holding No. 25-4843 in Abeyance (Aug. 28, 2025)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
       "tags": [
         "source",
         "case",
@@ -4702,6 +4863,18 @@
       ]
     },
     {
+      "path": "bibliography/people/SRC-COHN-EFF-OZER-WELCOME.md",
+      "id": "SRC-COHN-EFF-OZER-WELCOME",
+      "title": "EFF Deeplink \u2014 Welcome New Executive Director Nicole Ozer",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
+      ]
+    },
+    {
       "path": "bibliography/people/SRC-DRAKETO-WOT-FRIENDLY-2018.md",
       "id": "SRC-DRAKETO-WOT-FRIENDLY-2018",
       "title": "Arne Babenhauserheide \u2014 Hyphanet Web of Trust Keeps Communication Friendly",
@@ -4766,6 +4939,30 @@
         "cryptography",
         "export-control",
         "open-source-risk"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-COHN-EFF-FAREWELL.md",
+      "id": "SRC-COHN-EFF-FAREWELL",
+      "title": "EFF Deeplink \u2014 Cindy Cohn, Onward, Friends",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
+      ]
+    },
+    {
+      "path": "bibliography/people/SRC-COHN-SF-STANDARD-2026.md",
+      "id": "SRC-COHN-SF-STANDARD-2026",
+      "title": "San Francisco Standard \u2014 Cindy Cohn interview (July 10, 2026)",
+      "status": "draft",
+      "last_verified": "2026-10-17",
+      "tags": [
+        "source",
+        "attorney",
+        "digital-rights"
       ]
     },
     {
