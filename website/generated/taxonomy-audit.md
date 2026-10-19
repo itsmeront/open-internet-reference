@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-10-17 09:53 UTC
+Last updated: 2026-10-19 11:34 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
@@ -10,7 +10,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 |--------|-------|
 | Tags declared in TAXONOMY.md | 56 |
 | Tags used in content | 58 |
-| Total tag applications | 2135 |
+| Total tag applications | 2189 |
 | Orphan tags (declared but unused) | 13 |
 | Undeclared tags (used but not in TAXONOMY.md) | 15 |
 | Similar tag pairs (possible duplicates) | 0 |
@@ -20,20 +20,20 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 
 | Tag | Uses | Status |
 |-----|------|--------|
-| `source` | 308 | ✓ |
-| `digital-rights` | 222 | ✓ |
-| `artificial-intelligence` | 147 | ✓ |
+| `source` | 322 | ✓ |
+| `digital-rights` | 225 | ✓ |
+| `artificial-intelligence` | 151 | ✓ |
+| `case` | 132 | ✓ |
 | `privacy` | 122 | ✓ |
 | `person` | 122 | ⚠️ undeclared |
-| `case` | 121 | ✓ |
-| `copyright` | 99 | ✓ |
+| `copyright` | 103 | ✓ |
 | `organization` | 99 | ✓ |
-| `first-amendment` | 82 | ✓ |
-| `open-source-software` | 81 | ✓ |
+| `first-amendment` | 89 | ✓ |
+| `open-source-software` | 82 | ✓ |
 | `public-policy` | 69 | ✓ |
 | `outreach` | 56 | ⚠️ undeclared |
 | `internet-governance` | 51 | ✓ |
-| `attorney` | 41 | ✓ |
+| `attorney` | 44 | ✓ |
 | `computer-crime` | 36 | ✓ |
 | `cryptography` | 33 | ✓ |
 | `surveillance` | 32 | ✓ |
@@ -43,6 +43,7 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `fourth-amendment` | 25 | ✓ |
 | `internet-architecture` | 22 | ✓ |
 | `speech-and-code` | 21 | ✓ |
+| `age-verification` | 21 | ✓ |
 | `historical-event` | 20 | ✓ |
 | `sanctions` | 19 | ✓ |
 | `civil-society` | 19 | ✓ |
@@ -50,7 +51,6 @@ This report analyzes tag usage, identifies gaps, and surfaces potential duplicat
 | `peer-to-peer-networking` | 17 | ✓ |
 | `secure-messaging` | 15 | ✓ |
 | `open-source-risk` | 14 | ✓ |
-| `age-verification` | 14 | ✓ |
 | `case-law` | 12 | ⚠️ undeclared |
 | `safe-harbor` | 10 | ✓ |
 | `researcher` | 10 | ✓ |
