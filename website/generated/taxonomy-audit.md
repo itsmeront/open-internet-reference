@@ -1,6 +1,6 @@
 # Taxonomy Audit Report
 
-Last updated: 2026-10-26 11:52 UTC
+Last updated: 2026-10-27 11:16 UTC
 
 This report analyzes tag usage, identifies gaps, and surfaces potential duplicates.
 
