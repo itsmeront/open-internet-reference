@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-10-27 11:16 UTC
+Last updated: 2026-10-31 11:25 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -8,8 +8,8 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | Metric | Count |
 |--------|-------|
-| Open PRs awaiting review | 0 |
-| AI-generated PRs | 0 |
+| Open PRs awaiting review | 1 |
+| AI-generated PRs | 1 |
 | Stale PRs (>7 days no activity) | 0 |
 | Draft content items | 411 |
 | Items needing sources | 0 |
@@ -17,7 +17,9 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 ## Pull Requests Pending Review
 
-*No open pull requests. The queue is clear!*
+| # | Title | Author | Areas | Age | Flags |
+|---|-------|--------|-------|-----|-------|
+| [#160](https://github.com/itsmeront/open-internet-reference/pull/160) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 2d | 🤖 AI 👀 Review |
 
 ## Draft Content Needing Attention
 
@@ -26,25 +28,25 @@ This page surfaces pending contributions, draft content, and items needing edito
 | ID | Title | Path |
 |---|-------|------|
 | `TOPIC-EXAMPLE` | Example Topic | `knowledge/_templates/knowledge-page.md` |
-| `TOPIC-KADEMLIA` | Kademlia | `knowledge/technical/TOPIC-KADEMLIA.md` |
-| `TECH-HYPHANET` | Hyphanet (formerly Freenet) | `knowledge/technical/TECH-HYPHANET.md` |
-| `TECH-PGP` | Pretty Good Privacy (PGP) | `knowledge/technical/TECH-PGP.md` |
-| `PROTOCOL-TCP` | Transmission Control Protocol | `knowledge/technical/PROTOCOL-TCP.md` |
-| `TECH-TORNADO-CASH` | Tornado Cash (Ethereum Mixer Protocol) | `knowledge/technical/TECH-TORNADO-CASH.md` |
-| `TECH-GRAPHENEOS` | GrapheneOS | `knowledge/technical/TECH-GRAPHENEOS.md` |
-| `TOPIC-DECENTRALIZED-MODERATION` | Decentralized Moderation in Censorship-R | `knowledge/technical/TOPIC-DECENTRALIZED-MODERATION.md` |
-| `PROTOCOL-DNS` | Domain Name System | `knowledge/technical/PROTOCOL-DNS.md` |
-| `TECH-SAMOURAI-WALLET` | Samourai Wallet | `knowledge/technical/TECH-SAMOURAI-WALLET.md` |
-| `TOPIC-ONION-ROUTING` | Onion Routing | `knowledge/technical/TOPIC-ONION-ROUTING.md` |
-| `TECH-GNUNET` | GNUnet | `knowledge/technical/TECH-GNUNET.md` |
-| `PROTOCOL-TLS-13` | Transport Layer Security 1.3 | `knowledge/technical/PROTOCOL-TLS-13.md` |
-| `CASE-THALER-V-PERLMUTTER` | Thaler v. Perlmutter | `knowledge/legal/CASE-THALER-V-PERLMUTTER.md` |
-| `CASE-GARCIA-V-CHARACTER-TECHNOLOGIES` | Garcia v. Character Technologies, Inc. | `knowledge/legal/CASE-GARCIA-V-CHARACTER-TECHNOLOGIES.md` |
-| `CASE-US-V-RODRIGUEZ` | United States v. Rodriguez (Samourai Wal | `knowledge/legal/CASE-US-V-RODRIGUEZ.md` |
-| `CASE-BMG-V-ANTHROPIC` | BMG Rights Management (US) LLC v. Anthro | `knowledge/legal/CASE-BMG-V-ANTHROPIC.md` |
-| `STAT-18-USC-2232` | 18 U.S.C. § 2232 — Destruction or Remova | `knowledge/legal/STAT-18-USC-2232.md` |
-| `CASE-KNESCHKE-V-LAION` | Kneschke v. LAION e.V. | `knowledge/legal/CASE-KNESCHKE-V-LAION.md` |
-| `CASE-DOW-JONES-V-PERPLEXITY` | Dow Jones & Co. v. Perplexity AI, Inc. | `knowledge/legal/CASE-DOW-JONES-V-PERPLEXITY.md` |
+| `ORG-CDT` | Center for Democracy and Technology | `knowledge/organizations/ORG-CDT.md` |
+| `ORG-FENWICK` | Fenwick & West | `knowledge/organizations/ORG-FENWICK.md` |
+| `ORG-FSF` | Free Software Foundation | `knowledge/organizations/ORG-FSF.md` |
+| `ORG-SOFTWARE-FREEDOM-CONSERVANCY` | Software Freedom Conservancy | `knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md` |
+| `ORG-TOR-PROJECT` | Tor Project | `knowledge/organizations/ORG-TOR-PROJECT.md` |
+| `ORG-HOUSE-AI-TASK-FORCE` | House Bipartisan Task Force on Artificia | `knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md` |
+| `ORG-FIRE` | Foundation for Individual Rights and Exp | `knowledge/organizations/ORG-FIRE.md` |
+| `ORG-SENATE-AI-CAUCUS` | Senate Artificial Intelligence Caucus | `knowledge/organizations/ORG-SENATE-AI-CAUCUS.md` |
+| `ORG-RCFP` | Reporters Committee for Freedom of the P | `knowledge/organizations/ORG-RCFP.md` |
+| `ORG-INSTITUTE-FOR-JUSTICE` | Institute for Justice | `knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md` |
+| `ORG-SFLC` | Software Freedom Law Center | `knowledge/organizations/ORG-SFLC.md` |
+| `ORG-PUBLIC-KNOWLEDGE` | Public Knowledge | `knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md` |
+| `ORG-TELEGRAM` | Telegram | `knowledge/organizations/ORG-TELEGRAM.md` |
+| `ORG-SENATE-AI-WORKING-GROUP` | Bipartisan Senate AI Working Group | `knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md` |
+| `ORG-KNIGHT-FIRST-AMENDMENT` | Knight First Amendment Institute | `knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md` |
+| `ORG-COOLEY` | Cooley | `knowledge/organizations/ORG-COOLEY.md` |
+| `ORG-PERKINS-COIE` | Perkins Coie | `knowledge/organizations/ORG-PERKINS-COIE.md` |
+| `ORG-EFF` | Electronic Frontier Foundation | `knowledge/organizations/ORG-EFF.md` |
+| `ORG-ACLU` | American Civil Liberties Union | `knowledge/organizations/ORG-ACLU.md` |
 
 *...and 391 more*
 
