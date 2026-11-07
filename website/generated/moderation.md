@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-11-04 13:29 UTC
+Last updated: 2026-11-07 12:06 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -9,7 +9,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 | Metric | Count |
 |--------|-------|
 | Open PRs awaiting review | 1 |
-| AI-generated PRs | 1 |
+| AI-generated PRs | 0 |
 | Stale PRs (>7 days no activity) | 0 |
 | Draft content items | 411 |
 | Items needing sources | 0 |
@@ -19,7 +19,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | # | Title | Author | Areas | Age | Flags |
 |---|-------|--------|-------|-----|-------|
-| [#160](https://github.com/itsmeront/open-internet-reference/pull/160) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 7d | 🤖 AI 👀 Review |
+| [#161](https://github.com/itsmeront/open-internet-reference/pull/161) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 1d | — |
 
 ## Draft Content Needing Attention
 
@@ -27,26 +27,26 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | ID | Title | Path |
 |---|-------|------|
-| `TOPIC-EXAMPLE` | Example Topic | `knowledge/_templates/knowledge-page.md` |
-| `ORG-CDT` | Center for Democracy and Technology | `knowledge/organizations/ORG-CDT.md` |
-| `ORG-FENWICK` | Fenwick & West | `knowledge/organizations/ORG-FENWICK.md` |
-| `ORG-FSF` | Free Software Foundation | `knowledge/organizations/ORG-FSF.md` |
-| `ORG-SOFTWARE-FREEDOM-CONSERVANCY` | Software Freedom Conservancy | `knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md` |
 | `ORG-TOR-PROJECT` | Tor Project | `knowledge/organizations/ORG-TOR-PROJECT.md` |
-| `ORG-HOUSE-AI-TASK-FORCE` | House Bipartisan Task Force on Artificia | `knowledge/organizations/ORG-HOUSE-AI-TASK-FORCE.md` |
+| `ORG-FSF` | Free Software Foundation | `knowledge/organizations/ORG-FSF.md` |
+| `ORG-EPIC` | Electronic Privacy Information Center | `knowledge/organizations/ORG-EPIC.md` |
+| `ORG-AGORA` | Agora (human rights lawyers' group) | `knowledge/organizations/ORG-AGORA.md` |
+| `ORG-ACLU` | American Civil Liberties Union | `knowledge/organizations/ORG-ACLU.md` |
 | `ORG-FIRE` | Foundation for Individual Rights and Exp | `knowledge/organizations/ORG-FIRE.md` |
-| `ORG-SENATE-AI-CAUCUS` | Senate Artificial Intelligence Caucus | `knowledge/organizations/ORG-SENATE-AI-CAUCUS.md` |
+| `ORG-SIGNAL` | Signal | `knowledge/organizations/ORG-SIGNAL.md` |
 | `ORG-RCFP` | Reporters Committee for Freedom of the P | `knowledge/organizations/ORG-RCFP.md` |
-| `ORG-INSTITUTE-FOR-JUSTICE` | Institute for Justice | `knowledge/organizations/ORG-INSTITUTE-FOR-JUSTICE.md` |
-| `ORG-SFLC` | Software Freedom Law Center | `knowledge/organizations/ORG-SFLC.md` |
-| `ORG-PUBLIC-KNOWLEDGE` | Public Knowledge | `knowledge/organizations/ORG-PUBLIC-KNOWLEDGE.md` |
+| `ORG-CONGRESSIONAL-AI-CAUCUS` | Congressional Artificial Intelligence Ca | `knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md` |
+| `ORG-OSI` | Open Source Initiative | `knowledge/organizations/ORG-OSI.md` |
+| `ORG-INSTITUTE-FOR-FREE-SPEECH` | Institute for Free Speech | `knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md` |
 | `ORG-TELEGRAM` | Telegram | `knowledge/organizations/ORG-TELEGRAM.md` |
-| `ORG-SENATE-AI-WORKING-GROUP` | Bipartisan Senate AI Working Group | `knowledge/organizations/ORG-SENATE-AI-WORKING-GROUP.md` |
+| `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT` | Committee for the First Amendment | `knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md` |
+| `ORG-SOFTWARE-FREEDOM-CONSERVANCY` | Software Freedom Conservancy | `knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md` |
+| `ORG-SFLC` | Software Freedom Law Center | `knowledge/organizations/ORG-SFLC.md` |
+| `ORG-CDT` | Center for Democracy and Technology | `knowledge/organizations/ORG-CDT.md` |
 | `ORG-KNIGHT-FIRST-AMENDMENT` | Knight First Amendment Institute | `knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md` |
-| `ORG-COOLEY` | Cooley | `knowledge/organizations/ORG-COOLEY.md` |
 | `ORG-PERKINS-COIE` | Perkins Coie | `knowledge/organizations/ORG-PERKINS-COIE.md` |
 | `ORG-EFF` | Electronic Frontier Foundation | `knowledge/organizations/ORG-EFF.md` |
-| `ORG-ACLU` | American Civil Liberties Union | `knowledge/organizations/ORG-ACLU.md` |
+| `ORG-SENATE-AI-CAUCUS` | Senate Artificial Intelligence Caucus | `knowledge/organizations/ORG-SENATE-AI-CAUCUS.md` |
 
 *...and 391 more*
 

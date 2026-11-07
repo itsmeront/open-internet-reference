@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T13:29:05.672012Z",
+  "generated_at": "2026-11-07T12:06:19.999206Z",
   "summary": {
     "declared_tags": 56,
     "used_tags": 58,
@@ -49,25 +49,25 @@
     "encryption-law": 7,
     "border-search": 7,
     "network-protocols": 7,
-    "export-control": 6,
     "tornado-cash": 6,
+    "export-control": 6,
     "distributed-systems": 5,
     "constitutional-law": 5,
     "content-moderation": 4,
     "technology-law": 4,
     "civil-liberties": 3,
-    "technical": 3,
     "privacy-preserving-systems": 3,
-    "technical-standard": 3,
+    "technical": 3,
     "imported-source": 3,
     "project-governance": 3,
+    "technical-standard": 3,
     "academic-paper": 3,
     "distributed-hash-tables": 2,
     "example-tag": 1,
     "software-distribution": 1,
-    "commentary": 1,
     "academic": 1,
-    "onion-routing": 1
+    "onion-routing": 1,
+    "commentary": 1
   },
   "orphan_tags": [
     "axona",
