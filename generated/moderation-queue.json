@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T14:42:12.859211Z",
+  "generated_at": "2026-11-12T14:16:21.291109Z",
   "summary": {
     "open_prs": 1,
-    "ai_prs": 0,
+    "ai_prs": 1,
     "stale_prs": 0,
     "draft_content": 411,
     "needs_sources": 0,
@@ -10,20 +10,25 @@
   },
   "pull_requests": [
     {
-      "number": 162,
+      "number": 163,
       "title": "chore: update moderation and taxonomy reports [automated]",
       "author": "app/github-actions",
-      "labels": [],
+      "labels": [
+        "moderation/pending",
+        "needs-review",
+        "ai-generated",
+        "area/website"
+      ],
       "areas": [
         "website"
       ],
-      "age_days": 1,
+      "age_days": 2,
       "stale_days": 1,
-      "is_ai": false,
+      "is_ai": true,
       "is_draft": false,
-      "needs_review": false,
+      "needs_review": true,
       "is_stale": false,
-      "priority": 0
+      "priority": 5
     }
   ],
   "draft_content": [
