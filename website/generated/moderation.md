@@ -1,6 +1,6 @@
 # Moderation Queue
 
-Last updated: 2026-11-12 14:16 UTC
+Last updated: 2026-11-14 12:43 UTC
 
 This page surfaces pending contributions, draft content, and items needing editorial attention.
 
@@ -19,7 +19,7 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | # | Title | Author | Areas | Age | Flags |
 |---|-------|--------|-------|-----|-------|
-| [#163](https://github.com/itsmeront/open-internet-reference/pull/163) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 2d | 🤖 AI 👀 Review |
+| [#164](https://github.com/itsmeront/open-internet-reference/pull/164) | chore: update moderation and taxonomy reports [aut | @app/github-actions | website | 0d | 🤖 AI 👀 Review |
 
 ## Draft Content Needing Attention
 
@@ -27,26 +27,26 @@ This page surfaces pending contributions, draft content, and items needing edito
 
 | ID | Title | Path |
 |---|-------|------|
-| `ORG-TOR-PROJECT` | Tor Project | `knowledge/organizations/ORG-TOR-PROJECT.md` |
-| `ORG-FSF` | Free Software Foundation | `knowledge/organizations/ORG-FSF.md` |
-| `ORG-EPIC` | Electronic Privacy Information Center | `knowledge/organizations/ORG-EPIC.md` |
-| `ORG-AGORA` | Agora (human rights lawyers' group) | `knowledge/organizations/ORG-AGORA.md` |
-| `ORG-ACLU` | American Civil Liberties Union | `knowledge/organizations/ORG-ACLU.md` |
-| `ORG-FIRE` | Foundation for Individual Rights and Exp | `knowledge/organizations/ORG-FIRE.md` |
-| `ORG-SIGNAL` | Signal | `knowledge/organizations/ORG-SIGNAL.md` |
-| `ORG-RCFP` | Reporters Committee for Freedom of the P | `knowledge/organizations/ORG-RCFP.md` |
-| `ORG-CONGRESSIONAL-AI-CAUCUS` | Congressional Artificial Intelligence Ca | `knowledge/organizations/ORG-CONGRESSIONAL-AI-CAUCUS.md` |
-| `ORG-OSI` | Open Source Initiative | `knowledge/organizations/ORG-OSI.md` |
-| `ORG-INSTITUTE-FOR-FREE-SPEECH` | Institute for Free Speech | `knowledge/organizations/ORG-INSTITUTE-FOR-FREE-SPEECH.md` |
-| `ORG-TELEGRAM` | Telegram | `knowledge/organizations/ORG-TELEGRAM.md` |
-| `ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT` | Committee for the First Amendment | `knowledge/organizations/ORG-COMMITTEE-FOR-THE-FIRST-AMENDMENT.md` |
-| `ORG-SOFTWARE-FREEDOM-CONSERVANCY` | Software Freedom Conservancy | `knowledge/organizations/ORG-SOFTWARE-FREEDOM-CONSERVANCY.md` |
-| `ORG-SFLC` | Software Freedom Law Center | `knowledge/organizations/ORG-SFLC.md` |
-| `ORG-CDT` | Center for Democracy and Technology | `knowledge/organizations/ORG-CDT.md` |
-| `ORG-KNIGHT-FIRST-AMENDMENT` | Knight First Amendment Institute | `knowledge/organizations/ORG-KNIGHT-FIRST-AMENDMENT.md` |
-| `ORG-PERKINS-COIE` | Perkins Coie | `knowledge/organizations/ORG-PERKINS-COIE.md` |
-| `ORG-EFF` | Electronic Frontier Foundation | `knowledge/organizations/ORG-EFF.md` |
-| `ORG-SENATE-AI-CAUCUS` | Senate Artificial Intelligence Caucus | `knowledge/organizations/ORG-SENATE-AI-CAUCUS.md` |
+| `PERSON-RON-WYDEN` | Ron Wyden | `knowledge/people/PERSON-RON-WYDEN.md` |
+| `PERSON-PAUL-VIXIE` | Paul Vixie | `knowledge/people/PERSON-PAUL-VIXIE.md` |
+| `PERSON-JANE-FONDA` | Jane Fonda | `knowledge/people/PERSON-JANE-FONDA.md` |
+| `PERSON-RO-KHANNA` | Ro Khanna | `knowledge/people/PERSON-RO-KHANNA.md` |
+| `PERSON-TODD-YOUNG` | Todd Young | `knowledge/people/PERSON-TODD-YOUNG.md` |
+| `PERSON-MITCH-STOLTZ` | Mitch Stoltz | `knowledge/people/PERSON-MITCH-STOLTZ.md` |
+| `PERSON-IAN-CLARKE` | Ian Clarke | `knowledge/people/PERSON-IAN-CLARKE.md` |
+| `PERSON-JOSH-HAWLEY` | Josh Hawley | `knowledge/people/PERSON-JOSH-HAWLEY.md` |
+| `PERSON-DON-BEYER` | Don Beyer | `knowledge/people/PERSON-DON-BEYER.md` |
+| `PERSON-PAMELA-CHESTEK` | Pamela Chestek | `knowledge/people/PERSON-PAMELA-CHESTEK.md` |
+| `PERSON-CHUCK-SCHUMER` | Chuck Schumer | `knowledge/people/PERSON-CHUCK-SCHUMER.md` |
+| `PERSON-JONATHAN-ZITTRAIN` | Jonathan Zittrain | `knowledge/people/PERSON-JONATHAN-ZITTRAIN.md` |
+| `PERSON-MARTIN-HEINRICH` | Martin Heinrich | `knowledge/people/PERSON-MARTIN-HEINRICH.md` |
+| `PERSON-ROBERT-KAHN` | Robert Kahn | `knowledge/people/PERSON-ROBERT-KAHN.md` |
+| `PERSON-MARGOT-KAMINSKI` | Margot Kaminski | `knowledge/people/PERSON-MARGOT-KAMINSKI.md` |
+| `PERSON-DAVID-REED` | David P. Reed | `knowledge/people/PERSON-DAVID-REED.md` |
+| `PERSON-NATHAN-FREED-WESSLER` | Nathan Freed Wessler | `knowledge/people/PERSON-NATHAN-FREED-WESSLER.md` |
+| `PERSON-JAY-OBERNOLTE` | Jay Obernolte | `knowledge/people/PERSON-JAY-OBERNOLTE.md` |
+| `PERSON-MIKE-LEE` | Mike Lee | `knowledge/people/PERSON-MIKE-LEE.md` |
+| `PERSON-THOMAS-HAIGH` | Thomas Haigh | `knowledge/people/PERSON-THOMAS-HAIGH.md` |
 
 *...and 391 more*
 
